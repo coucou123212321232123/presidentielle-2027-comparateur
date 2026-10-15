@@ -4,6 +4,7 @@ import themesRaw from './themes.json'
 import metaRaw from './meta.json'
 import linkStatusRaw from './link-status.json'
 import changelogRaw from './changelog.json'
+import bundleInfo from './bundle-info.json'
 import { readCachedBundle } from './remote'
 
 // Données intégrées à l'application (validées par Zod au build : scripts/validate-data.ts).
@@ -11,7 +12,7 @@ const measureModules = import.meta.glob<Measure[]>('./measures/*.json', { eager:
 
 const embedded: DataBundle = {
   version: 1,
-  generated_at: '',
+  generated_at: bundleInfo.generated_at,
   meta: metaRaw as Meta,
   themes: themesRaw as Theme[],
   candidates: candidatesRaw as Candidate[],

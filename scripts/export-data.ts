@@ -34,5 +34,7 @@ if (!parsed.success) {
 
 mkdirSync(join(ROOT, 'public-data'), { recursive: true })
 writeFileSync(join(ROOT, 'public-data', 'data.json'), JSON.stringify(parsed.data))
+// Horodatage repris par l'application : des données intégrées identiques à la version en ligne ne déclenchent pas de mise à jour.
+writeFileSync(join(DATA, 'bundle-info.json'), JSON.stringify({ generated_at: parsed.data.generated_at }, null, 2) + '\n')
 const count = Object.values(parsed.data.measures).reduce((n, l) => n + l.length, 0)
 console.log(`✔ public-data/data.json : ${parsed.data.candidates.length} candidats, ${count} mesures (données du ${parsed.data.meta.last_updated})`)

@@ -5,12 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run validate-data && tsc -b && vite build",
+    "build": "npm run validate-data && npm run export-data && tsc -b && vite build",
     "preview": "vite preview",
     "validate-data": "tsx scripts/validate-data.ts",
     "check-links": "tsx scripts/check-links.ts",
     "merge-research": "tsx scripts/merge-research.ts",
-    "build:desktop": "npm run validate-data && tsc -b && vite build --mode electron",
+    "build:desktop": "npm run validate-data && npm run export-data && tsc -b && vite build --mode electron",
     "app": "npm run build:desktop && electron .",
     "dist:win": "npm run build:desktop && electron-builder --win nsis portable",
     "export-data": "tsx scripts/export-data.ts"

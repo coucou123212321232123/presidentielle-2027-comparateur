@@ -1,8 +1,10 @@
 import { create } from 'zustand'
 import { DataBundleSchema, type DataBundle } from './schema'
 
-/** Adresse du paquet de données publié (public-data/data.json sur GitHub). Vide = pas de mise à jour en ligne. */
-export const REMOTE_DATA_URL: string = import.meta.env.VITE_DATA_URL ?? ''
+/** Adresse du paquet de données publié (public-data/data.json sur GitHub), surchargeable par VITE_DATA_URL ; vide = désactivé. */
+export const REMOTE_DATA_URL: string =
+  import.meta.env.VITE_DATA_URL ??
+  'https://raw.githubusercontent.com/coucou123212321232123/presidentielle-2027-comparateur/main/public-data/data.json'
 
 const CACHE_KEY = 'donnees-presidentielle-2027'
 const TIMEOUT_MS = 8000
