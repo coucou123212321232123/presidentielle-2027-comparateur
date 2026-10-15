@@ -1,0 +1,163 @@
+{
+  "id": "ruffin",
+  "first_name": "François",
+  "last_name": "Ruffin",
+  "birth_date": "1975-10-18",
+  "party": "Debout !",
+  "party_short": "D!",
+  "position": "gauche",
+  "position_source_url": "https://fr.wikipedia.org/wiki/Debout_!",
+  "status": "declare",
+  "status_note": "Candidature annoncée le 1er avril 2025 lors d'un meeting à Montreuil, dans la perspective d'une candidature unique de la gauche, avec l'engagement de rester candidat en l'absence de primaire (article Wikipédia sur la primaire de la gauche unitaire ; l'article Wikipédia consacré à François Ruffin qualifie ce meeting de prélude et date au 26 janvier 2026 l'annonce de sa candidature à la primaire). Campagne présidentielle lancée lors d'un meeting à Lyon le 25 avril 2026. La primaire de la gauche unitaire (Les Écologistes, L'Après, Debout !) prévue le 11 octobre 2026 est abandonnée de facto depuis juillet 2026 ; la primaire remportée par Raphaël Glucksmann les 10 et 11 octobre 2026 était une primaire sociale-démocrate distincte. Le 11 octobre 2026, il est toujours présenté comme candidat à l'élection présidentielle, et ses sites affichent sa candidature.",
+  "status_source_url": "https://actu.orange.fr/politique/un-nouveau-macron-est-possible-apres-la-victoire-de-raphael-glucksmann-a-la-primaire-sociale-democrate-la-gauche-reagit-magic-CNT000002sD0Nv.html",
+  "declaration_date": "2025-04-01",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fran%C3%A7ois_Ruffin_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ruffin_%28cropped%29.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg",
+    "author": "Thinkerview",
+    "license": "CC BY-SA 4.0"
+  },
+  "bio_summary": "Né en 1975 à Calais, François Ruffin est député de la 1re circonscription de la Somme depuis 2017, réélu en 2022 et 2024. Il a siégé au sein du groupe La France insoumise de 2017 à 2024, sans être membre du mouvement, puis a rejoint le groupe Écologiste et social. Fondateur de Picardie debout ! en 2017, il préside depuis juin 2025 ce parti, renommé Debout !.",
+  "current_roles": [
+    "Député de la 1re circonscription de la Somme (depuis 2017)",
+    "Président de Debout ! (depuis le 28 juin 2025)"
+  ],
+  "past_roles": [
+    "Porte-parole de Picardie debout ! (2017-2025)"
+  ],
+  "key_people": [
+    {
+      "name": "Sophie Taillé-Polian",
+      "role": "Responsable du programme et porte-parole"
+    }
+  ],
+  "slogan": "Nous Président !",
+  "slogan_source_url": "https://nouspresident.fr",
+  "main_axes": [
+    "Un statut des « travailleurs essentiels » (salaires, horaires, carrières, retraite anticipée pour pénibilité)",
+    "Une loi de « séparation de l'argent et de l'État » contre les conflits d'intérêts et le pantouflage",
+    "Un « travaillisme écologique » planifiant la rénovation, les transports et l'énergie",
+    "Un juste prix pour les agriculteurs avec des prix minimums garantis",
+    "Des logements abordables par l'encadrement des loyers et la production de logements publics"
+  ],
+  "main_axes_source_url": "https://nouspresident.fr/notre-programme/",
+  "website": "https://nouspresident.fr",
+  "news_url": "https://francoisruffin.fr/category/actu/blog/",
+  "socials": [
+    {
+      "platform": "X",
+      "url": "https://x.com/Francois_Ruffin"
+    },
+    {
+      "platform": "Bluesky",
+      "url": "https://bsky.app/profile/francoisruffin.fr"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@francois_ruffin"
+    }
+  ],
+  "program": {
+    "title": "Cahiers de campagne « Nous Président ! »",
+    "main_url": "https://nouspresident.fr/notre-programme/",
+    "format": "livret",
+    "published_date": "2026-04-13",
+    "status": "partiel",
+    "note": "Pas de programme complet à ce jour : la campagne publie des cahiers thématiques successifs (six entre avril et octobre 2026, le premier mis en ligne le 13 avril 2026) et un « plan d'action » sur les data centers (8 octobre 2026), rassemblés sur la page « Notre programme » créée le 12 octobre 2026. Le premier cahier annonce que les mesures concernant les agents du secteur public feront l'objet d'un cahier ultérieur. Aucune publication programmatique n'a été trouvée sur la santé et l'éducation. Le manifeste fondateur de Debout! (avril 2026, modifié en juin 2026) complète ces documents.",
+    "thematic_links": [
+      {
+        "theme": "emploi",
+        "title": "Cahier n°1 – Pour un statut des travailleuses et travailleurs essentiels",
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/04/Debout-Livret-Campagne_Web.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "institutions",
+        "title": "Cahier n°2 – Pour une loi de séparation de l'argent et de l'État",
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/07/Debout-Livret-Probite-Web-1.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "famille",
+        "title": "Cahier n°3 – Pour renouer avec le temps des loisirs",
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/09/Debout-Livret-Campagne-Loisirs-vdef-Web-1.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "agriculture",
+        "title": "Cahier n°4 – Pour une exception agriculturelle française",
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-Agriculture-vWeb.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "ecologie",
+        "title": "Cahier n°5 – Face au chantier du siècle : pour un travaillisme écologique",
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "logement",
+        "title": "Cahier n°6 – Face à la crise du logement : faire sauter le verrou",
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/09/CC_Logement.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "numerique",
+        "title": "Plan d'action « Data centers »",
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan_Data_Centers_V2.pdf",
+        "format": "pdf",
+        "page_range": null
+      }
+    ],
+    "archive_url": null
+  },
+  "sources": [
+    {
+      "label": "Wikipédia – François Ruffin",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+    },
+    {
+      "label": "Wikipédia – Debout !",
+      "url": "https://fr.wikipedia.org/wiki/Debout_!"
+    },
+    {
+      "label": "Wikipédia – Primaire de la gauche unitaire de 2026",
+      "url": "https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026"
+    },
+    {
+      "label": "Site de campagne « Nous Président ! »",
+      "url": "https://nouspresident.fr"
+    },
+    {
+      "label": "Site de François Ruffin",
+      "url": "https://francoisruffin.fr"
+    },
+    {
+      "label": "Debout! – Manifeste fondateur",
+      "url": "https://debout.fr/notre-manifeste/"
+    },
+    {
+      "label": "Orange Actu (26/04/2026) – Ruffin lance sa campagne à Lyon",
+      "url": "https://actu.orange.fr/france/presidentielle-2027-francois-ruffin-lance-sa-campagne-en-se-posant-en-defenseur-des-travailleurs-essentiels-magic-CNT000002oTqjw.html"
+    },
+    {
+      "label": "Orange Actu (11/10/2026) – Réactions à la victoire de Raphaël Glucksmann à la primaire sociale-démocrate",
+      "url": "https://actu.orange.fr/politique/un-nouveau-macron-est-possible-apres-la-victoire-de-raphael-glucksmann-a-la-primaire-sociale-democrate-la-gauche-reagit-magic-CNT000002sD0Nv.html"
+    },
+    {
+      "label": "Le Grand Continent (25/02/2026) – Tribune de François Ruffin sur l'Europe",
+      "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/"
+    },
+    {
+      "label": "Wikimedia Commons – François Ruffin (cropped).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}

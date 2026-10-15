@@ -1,0 +1,163 @@
+{
+  "id": "attal",
+  "first_name": "Gabriel",
+  "last_name": "Attal",
+  "birth_date": "1989-03-16",
+  "party": "Renaissance",
+  "party_short": "RE",
+  "position": "centre_droit",
+  "position_source_url": "https://fr.wikipedia.org/wiki/Renaissance_(parti)",
+  "status": "declare",
+  "status_note": "Candidature annoncée le 22 mai 2026 à Mur-de-Barrez (Aveyron) ; lancement de campagne lors d'un meeting à Paris le 30 mai 2026.",
+  "status_source_url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721",
+  "declaration_date": "2026-05-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gabriel_Attal_2025_%28close_crop%29.jpg/500px-Gabriel_Attal_2025_%28close_crop%29.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg",
+    "author": "Ismail Aissoub",
+    "license": "CC BY 4.0"
+  },
+  "bio_summary": "Né en 1989 à Clamart, Gabriel Attal est élu conseiller municipal de Vanves en 2014 et député des Hauts-de-Seine en 2017. Il occupe plusieurs fonctions gouvernementales à partir de 2018 (Jeunesse, porte-parole du Gouvernement, Comptes publics, Éducation nationale) avant d'être Premier ministre de janvier à septembre 2024. Depuis 2024, il préside le groupe Ensemble pour la République à l'Assemblée nationale et est secrétaire général de Renaissance.",
+  "current_roles": [
+    "Secrétaire général de Renaissance (depuis décembre 2024)",
+    "Président du groupe Ensemble pour la République à l'Assemblée nationale (depuis juillet 2024)",
+    "Député de la 10e circonscription des Hauts-de-Seine (depuis 2024)",
+    "Conseiller municipal de Vanves (depuis 2014)"
+  ],
+  "past_roles": [
+    "Premier ministre (janvier-septembre 2024)",
+    "Ministre de l'Éducation nationale et de la Jeunesse (2023-2024)",
+    "Ministre délégué chargé des Comptes publics (2022-2023)",
+    "Porte-parole du Gouvernement (2020-2022)",
+    "Secrétaire d'État auprès du ministre de l'Éducation nationale et de la Jeunesse (2018-2020)",
+    "Député des Hauts-de-Seine (2017-2018)"
+  ],
+  "key_people": [
+    {
+      "name": "Maxime Cordier",
+      "role": "Co-directeur de campagne"
+    },
+    {
+      "name": "Franck Riester",
+      "role": "Co-directeur de campagne"
+    },
+    {
+      "name": "Fanny Anor",
+      "role": "Co-directrice de campagne"
+    },
+    {
+      "name": "Agnès Pannier-Runacher",
+      "role": "Co-responsable du programme"
+    },
+    {
+      "name": "Paul Midy",
+      "role": "Co-responsable du programme"
+    }
+  ],
+  "slogan": "La force d'agir",
+  "slogan_source_url": "https://attalpresident.fr/",
+  "main_axes": [
+    "École : élévation du niveau et revalorisation des enseignants",
+    "Travail et salaires : hausse du salaire net par la baisse des cotisations",
+    "Frontières : immigration choisie, défense et souveraineté économique",
+    "Intelligence artificielle : investissement et formation massive",
+    "Résorption de la dette publique et de la « dette écologique »"
+  ],
+  "main_axes_source_url": "https://attalpresident.fr/programme",
+  "website": "https://attalpresident.fr/",
+  "news_url": "https://attalpresident.fr/actualites",
+  "socials": [
+    {
+      "platform": "X",
+      "url": "https://x.com/GabrielAttal"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/gabrielattal/"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/GabrielAttal"
+    }
+  ],
+  "program": {
+    "title": "Mes chantiers capitaux",
+    "main_url": "https://attalpresident.fr/programme",
+    "format": "page_web",
+    "published_date": null,
+    "status": "partiel",
+    "note": "Le site de campagne présente quatre « chantiers capitaux » (école, travail et salaires, frontières, IA) et deux « dettes à résorber » (dette de l'État, dette écologique) ; les autres propositions sont détaillées au fil des actualités de campagne. Le candidat indique qu'une stratégie complète sur les salaires sera présentée ultérieurement. Pages programme non datées.",
+    "thematic_links": [
+      {
+        "theme": "education",
+        "title": "Chantier capital – École",
+        "url": "https://attalpresident.fr/programme/education",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "emploi",
+        "title": "Chantier capital – Travail & salaires",
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "immigration",
+        "title": "Chantier capital – Frontières",
+        "url": "https://attalpresident.fr/programme/frontieres",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "numerique",
+        "title": "Chantier capital – Intelligence artificielle",
+        "url": "https://attalpresident.fr/programme/intelligence-artificielle",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "fiscalite",
+        "title": "Dette à résorber – Dette de l'État",
+        "url": "https://attalpresident.fr/programme/dette-de-letat",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "ecologie",
+        "title": "Dette à résorber – Dette écologique",
+        "url": "https://attalpresident.fr/programme/dette-ecologique",
+        "format": "page_web",
+        "page_range": null
+      }
+    ],
+    "archive_url": "http://web.archive.org/web/20261014160050/https://attalpresident.fr/programme"
+  },
+  "sources": [
+    {
+      "label": "Wikipédia – Gabriel Attal",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "label": "Wikipédia – Renaissance (parti)",
+      "url": "https://fr.wikipedia.org/wiki/Renaissance_(parti)"
+    },
+    {
+      "label": "Site de campagne – Gabriel Attal (biographie)",
+      "url": "https://attalpresident.fr/gabriel-attal"
+    },
+    {
+      "label": "Site de campagne – Équipe",
+      "url": "https://attalpresident.fr/mon-equipe"
+    },
+    {
+      "label": "LCP – Présidentielle 2027 : Gabriel Attal officialise sa candidature (22/05/2026)",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721"
+    },
+    {
+      "label": "Public Sénat – Premier grand meeting de Gabriel Attal (30/05/2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/un-an-pour-convaincre-pour-son-premier-grand-meeting-gabriel-attal-mise-sur-lespoir-et-joue-sa-difference-avec-edouard-philippe"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}

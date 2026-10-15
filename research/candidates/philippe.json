@@ -1,0 +1,84 @@
+{
+  "id": "philippe",
+  "first_name": "Édouard",
+  "last_name": "Philippe",
+  "birth_date": "1970-11-28",
+  "party": "Horizons",
+  "party_short": "HOR",
+  "position": "centre_droit",
+  "position_source_url": "https://fr.wikipedia.org/wiki/Horizons_(parti_politique)",
+  "status": "declare",
+  "status_note": "Candidature annoncée dans un entretien au Point publié le 3 septembre 2024 (« Je serai candidat à la prochaine élection présidentielle »). Pas de nouvelle déclaration formelle depuis : la campagne a été lancée lors d'un premier grand meeting à l'Adidas Arena (Paris) le 5 juillet 2026, après l'installation d'une direction de campagne collégiale au conseil national de Reims (10 mai 2026). Le 8 septembre 2026, il a annoncé quitter la présidence exécutive d'Horizons à compter du 1er octobre 2026, Christophe Béchu prenant la tête du mouvement, afin de rassembler la droite et le centre ; il reste membre du parti.",
+  "status_source_url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/je-serai-candidat-a-la-prochaine-election-presidentielle-edouard-philippe-l-ancien-premier-ministre-et-maire-du-havre-officialise-sa-candidature-3026366.html",
+  "declaration_date": "2024-09-03",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Edouard_Philippe_3x4_crop.jpg/500px-Edouard_Philippe_3x4_crop.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg",
+    "author": "Wasasaq8",
+    "license": "CC0"
+  },
+  "bio_summary": "Né en 1970 à Rouen, Édouard Philippe a été maire du Havre de 2010 à 2017 et député de la Seine-Maritime de 2012 à 2017. Premier ministre de mai 2017 à juillet 2020 sous la présidence d'Emmanuel Macron, il est redevenu maire du Havre en 2020 et a été réélu en mars 2026. Il a fondé le parti Horizons en 2021 et l'a présidé jusqu'au 1er octobre 2026.",
+  "current_roles": [
+    "Maire du Havre (depuis 2020, réélu en 2026)",
+    "Président de la communauté urbaine Le Havre Seine Métropole (depuis 2020)"
+  ],
+  "past_roles": [
+    "Président d'Horizons (2021-2026)",
+    "Premier ministre (2017-2020)",
+    "Ministre de l'Intérieur par intérim (octobre 2018)",
+    "Député de la 7e circonscription de la Seine-Maritime (2012-2017)",
+    "Maire du Havre (2010-2017)",
+    "Président de la communauté de l'agglomération havraise (2010-2017)",
+    "Conseiller général de la Seine-Maritime (2008-2012)",
+    "Conseiller régional de Haute-Normandie (2004-2008)"
+  ],
+  "key_people": [
+    { "name": "Christophe Béchu", "role": "Codirecteur de campagne ; à la tête d'Horizons depuis le 1er octobre 2026" },
+    { "name": "Gilles Boyer", "role": "Codirecteur de campagne" },
+    { "name": "Marie Guévenoux", "role": "Codirectrice de campagne" }
+  ],
+  "slogan": null,
+  "slogan_source_url": null,
+  "main_axes": [
+    "Sécurité, justice, immigration et défense (« Pour une France plus sûre ») : fermeté pénale, lutte contre le narcotrafic, réduction de l'immigration, montée en puissance des armées",
+    "Enfance, école et famille (« Pour une France plus attentive à ses enfants ») : protection des mineurs, autonomie des établissements, revalorisation des enseignants, refonte des allocations familiales",
+    "Économie et finances publiques (« Pour une France plus prospère ») : baisse des impôts de production contre baisse des aides publiques, réduction du déficit, retraite à 65 ans, réforme de l'assurance chômage",
+    "Innovation et climat (« Pour une France plus conquérante ») : souveraineté technologique européenne et IA, relance du nucléaire, adaptation au réchauffement climatique"
+  ],
+  "main_axes_source_url": "https://www.edouardphilippe.fr/",
+  "website": "https://www.edouardphilippe.fr/",
+  "news_url": "https://www.edouardphilippe.fr/actualites",
+  "socials": [
+    { "platform": "X", "url": "https://x.com/EPhilippe_LH" },
+    { "platform": "Instagram", "url": "https://www.instagram.com/edouardphilippelh/" },
+    { "platform": "Facebook", "url": "https://www.facebook.com/edouardphilippelh" },
+    { "platform": "YouTube", "url": "https://www.youtube.com/@EdouardPhilippe" }
+  ],
+  "program": {
+    "title": "Les priorités – Avec Édouard 2027",
+    "main_url": "https://www.edouardphilippe.fr/",
+    "format": "page_web",
+    "published_date": null,
+    "status": "partiel",
+    "note": "Pas de programme complet publié en document unique au 15 octobre 2026. Le site de campagne présente quatre pages de « priorités » ; d'après les captures de la Wayback Machine, leur liste détaillée de mesures a été mise en ligne entre le 5 et le 14 octobre 2026 (les versions de juillet à début octobre ne comportaient que les intitulés). Des annonces complémentaires sont faites par voie d'interviews (France 2, 8 octobre 2026) et de vidéos (retraites, 29 septembre 2026).",
+    "thematic_links": [
+      { "theme": "securite", "title": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "format": "page_web", "page_range": null },
+      { "theme": "education", "title": "Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "format": "page_web", "page_range": null },
+      { "theme": "economie", "title": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "format": "page_web", "page_range": null },
+      { "theme": "ecologie", "title": "Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "format": "page_web", "page_range": null },
+      { "theme": "securite", "title": "Le plan d'Édouard Philippe contre le narcotrafic", "url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/", "format": "page_web", "page_range": null }
+    ],
+    "archive_url": null
+  },
+  "sources": [
+    { "label": "Wikipédia – Édouard Philippe", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe" },
+    { "label": "Wikipédia – Horizons (parti politique)", "url": "https://fr.wikipedia.org/wiki/Horizons_(parti_politique)" },
+    { "label": "France 3 Normandie – « Je serai candidat à la prochaine élection présidentielle » (3 septembre 2024)", "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/je-serai-candidat-a-la-prochaine-election-presidentielle-edouard-philippe-l-ancien-premier-ministre-et-maire-du-havre-officialise-sa-candidature-3026366.html" },
+    { "label": "Public Sénat – Édouard Philippe met en place son organigramme (mai 2026)", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-edouard-philippe-met-en-place-son-organigramme-pour-elargir-au-maximum-le-socle-et-depasser-horizons" },
+    { "label": "Avec Édouard 2027 – Le comité de campagne est lancé ! (8 septembre 2026)", "url": "https://www.edouardphilippe.fr/actualites/le-comite-de-campagne-est-lance" },
+    { "label": "Horizons – Discours au conseil national de Reims (10 mai 2026)", "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-du-conseil-national-a-reims-10-mai-2026/" },
+    { "label": "Horizons – Discours au meeting de l'Adidas Arena (5 juillet 2026)", "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/" },
+    { "label": "Wikimedia Commons – Edouard Philippe 3x4 crop.jpg", "url": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg" }
+  ],
+  "last_verified": "2026-10-15"
+}

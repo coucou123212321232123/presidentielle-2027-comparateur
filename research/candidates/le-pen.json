@@ -1,0 +1,101 @@
+{
+  "id": "le-pen",
+  "first_name": "Marine",
+  "last_name": "Le Pen",
+  "birth_date": "1968-08-05",
+  "party": "Rassemblement national",
+  "party_short": "RN",
+  "position": "extreme_droite",
+  "position_source_url": "https://fr.wikipedia.org/wiki/Rassemblement_national",
+  "status": "declare",
+  "status_note": "Candidature annoncée le 7 juillet 2026 au journal de 20 h de TF1, le jour de l'arrêt de la cour d'appel de Paris dans l'affaire des assistants parlementaires du FN au Parlement européen. L'arrêt confirme sa culpabilité pour détournement de fonds publics et prononce trois ans d'emprisonnement dont deux avec sursis (un an ferme aménageable sous surveillance électronique), 100 000 € d'amende et 45 mois d'inéligibilité dont 30 avec sursis ; la part ferme de 15 mois d'inéligibilité, exécutée depuis le jugement de première instance du 31 mars 2025 (exécution provisoire), ne fait pas obstacle à une candidature en 2027 selon Public Sénat et Toute l'Europe. Le même soir, elle a annoncé former un pourvoi en cassation, qui suspend l'exécution des peines prononcées en appel. Dans un communiqué du 8 juillet 2026, la Cour de cassation a indiqué pouvoir se prononcer « au plus tard début avril 2027 », calendrier susceptible d'évoluer ; aucune date d'audience n'a été repérée au 15 octobre 2026. Elle a annoncé mener campagne en « binôme » avec Jordan Bardella, qui serait son Premier ministre en cas de victoire.",
+  "status_source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation",
+  "declaration_date": "2026-07-07",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Marine_Le_Pen_2025_%28cropped%29.jpg/500px-Marine_Le_Pen_2025_%28cropped%29.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(cropped).jpg",
+    "author": "Vox España",
+    "license": "CC0"
+  },
+  "bio_summary": "Née en 1968 à Neuilly-sur-Seine, avocate de formation, Marine Le Pen a présidé le Front national, renommé Rassemblement national, de 2011 à 2021. Candidate à l'élection présidentielle en 2012, 2017 et 2022, elle a été qualifiée au second tour en 2017 et 2022 face à Emmanuel Macron. Députée du Pas-de-Calais depuis 2017, elle préside le groupe RN à l'Assemblée nationale depuis 2022. Condamnée en première instance en mars 2025 puis en appel en juillet 2026 dans l'affaire des assistants parlementaires européens du FN, elle a formé un pourvoi en cassation.",
+  "current_roles": [
+    "Députée de la 11e circonscription du Pas-de-Calais (depuis 2017)",
+    "Présidente du groupe Rassemblement national à l'Assemblée nationale (depuis 2022)"
+  ],
+  "past_roles": [
+    "Présidente du Front national puis du Rassemblement national (2011-2021)",
+    "Députée européenne (2004-2017)",
+    "Coprésidente du groupe Europe des nations et des libertés au Parlement européen (2015-2017)",
+    "Conseillère régionale du Nord-Pas-de-Calais puis des Hauts-de-France (1998-2004, 2010-2021)",
+    "Conseillère départementale du Pas-de-Calais (2021-2025)",
+    "Candidate à l'élection présidentielle (2012, 2017, 2022)",
+    "Avocate au barreau de Paris"
+  ],
+  "key_people": [
+    { "name": "Jordan Bardella", "role": "Président du RN ; présenté par Marine Le Pen comme son Premier ministre en cas de victoire (binôme de campagne)" },
+    { "name": "Julien Sanchez", "role": "Directeur de campagne" },
+    { "name": "Yoann Gillet", "role": "Directeur de campagne adjoint" },
+    { "name": "Renaud Labaye", "role": "Directeur de campagne adjoint" },
+    { "name": "Nolwenn Olivier", "role": "Directrice de la communication de campagne" },
+    { "name": "Jean-Philippe Tanguy", "role": "Coordinateur du pôle économie et finances" },
+    { "name": "Laure Lavalette", "role": "Porte-parole de campagne, coordinatrice du pôle Famille / Solidarités" },
+    { "name": "Laurent Jacobelli", "role": "Porte-parole de campagne" },
+    { "name": "Gaëtan Dussausaye", "role": "Porte-parole de campagne" },
+    { "name": "Aleksandar Nikolic", "role": "Porte-parole de campagne" },
+    { "name": "Andrea Kotarac", "role": "Porte-parole de campagne" },
+    { "name": "Sébastien Chenu", "role": "Coordinateur des élus" },
+    { "name": "Hélène Laporte", "role": "Coordinatrice du pôle agriculture" },
+    { "name": "Laurent Castillo", "role": "Coordinateur du pôle santé" },
+    { "name": "Frédéric Falcon", "role": "Coordinateur du pôle logement" },
+    { "name": "Edwige Diaz", "role": "Responsable du suivi des parrainages d'élus" },
+    { "name": "Jérôme Sainte-Marie", "role": "Responsable du suivi des études et sondages" }
+  ],
+  "slogan": "Pour la France, la Renaissance",
+  "slogan_source_url": "https://www.tf1info.fr/politique/candidate-a-la-election-presidentielle-2027-marine-le-pen-rn-devoile-son-affiche-de-campagne-pour-la-france-la-renaissance-2451969.html",
+  "main_axes": [
+    "Trajectoire budgétaire annoncée de 140 Md€ d'économies nettes d'ici 2032 et retour du déficit sous 3 % du PIB en 2030",
+    "Référendum instaurant une préférence nationale et restriction de l'immigration",
+    "Réduction du périmètre de l'État : suppression de la plupart des agences, simplification du « millefeuille » territorial, baisse de la contribution française au budget de l'UE",
+    "Baisse des impôts et impôt sur la fortune financière",
+    "Mesures ciblant les jeunes : budget de l'Éducation nationale préservé, priorité nationale pour le logement étudiant, permis de conduire gratuit sous condition"
+  ],
+  "main_axes_source_url": "https://www.boursorama.com/actualite-economique/actualites/marine-le-pen-veut-ramener-le-deficit-budgetaire-a-3-d-ici-2030-e234d02e0ea563e2766ea6142c4a1bdc",
+  "website": "https://marinelepen.com/",
+  "news_url": "https://rassemblementnational.fr/communiques",
+  "socials": [
+    { "platform": "X", "url": "https://x.com/MLP_officiel" },
+    { "platform": "Instagram", "url": "https://www.instagram.com/marine_lepen/" },
+    { "platform": "YouTube", "url": "https://www.youtube.com/channel/UCU3z3px1_RCqYBwrs8LJVWg" }
+  ],
+  "program": {
+    "title": null,
+    "main_url": null,
+    "format": "aucun",
+    "published_date": null,
+    "status": "en_cours_d_elaboration",
+    "note": "Au 15 octobre 2026, aucun programme présidentiel 2027 complet n'est publié ; le site de campagne marinelepen.com ne présente pas de programme. Le 6 octobre 2026, Marine Le Pen a présenté en conférence de presse la trajectoire budgétaire de son programme (« contre-budget 2027 »), sans document repéré sur le site du RN ; elle a annoncé une réforme des retraites avec un « pilier de capitalisation » à venir. Les propositions sont tirées de documents du RN (projet des législatives 2024, programme des européennes 2024, livret « La France entreprend » de septembre 2024 présenté comme la version 2022 du programme présidentiel mise à jour et « base de travail », contre-budget 2026 du groupe RN d'octobre 2025), de lettres ouvertes de la candidate (septembre 2026) et de déclarations rapportées par la presse.",
+    "thematic_links": [
+      { "theme": "economie", "title": "Contre-budget 2026 du groupe RN (conférence de presse du 23 octobre 2025)", "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf", "format": "pdf", "page_range": "p. 2-7" },
+      { "theme": "emploi", "title": "La France entreprend – Projet de Marine Le Pen (livret, septembre 2024)", "url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf", "format": "pdf", "page_range": null },
+      { "theme": "europe", "title": "Notre projet pour une Europe des nations (élections européennes 2024)", "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf", "format": "pdf", "page_range": null },
+      { "theme": "logement", "title": "Lettre ouverte de Marine Le Pen aux professionnels de l'immobilier (21 septembre 2026)", "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier", "format": "page_web", "page_range": null },
+      { "theme": "outre_mer", "title": "Communiqué d'André Rougé sur le programme de Marine Le Pen pour les outre-mer (31 août 2026)", "url": "https://rassemblementnational.fr/communiques/rencontre-des-entrepreneurs-de-france-du-medef-andre-rouge-met-en-valeur-le-programme-de-marine-le-pen-pour-les-outremers", "format": "page_web", "page_range": null }
+    ],
+    "archive_url": null
+  },
+  "sources": [
+    { "label": "Wikipédia – Marine Le Pen", "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen" },
+    { "label": "Wikipédia – Rassemblement national", "url": "https://fr.wikipedia.org/wiki/Rassemblement_national" },
+    { "label": "Public Sénat – « Ce soir, je suis candidate à l'élection présidentielle » (7 juillet 2026)", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation" },
+    { "label": "LCP – Pourvoi de Marine Le Pen : calendrier de la Cour de cassation (8 juillet 2026)", "url": "https://lcp.fr/actualites/pourvoi-de-marine-le-pen-la-cour-de-cassation-pourrait-etre-en-mesure-de-se-prononcer" },
+    { "label": "Toute l'Europe – Marine Le Pen condamnée en appel mais éligible (juillet 2026)", "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/proces-des-assistants-du-rn-marine-le-pen-condamnee-en-appel-mais-eligible-a-l-election-presidentielle-2027/" },
+    { "label": "RN – Nominations dans l'équipe de campagne (3 juillet 2026)", "url": "https://rassemblementnational.fr/communiques/communique-de-presse-de-julien-sanchez-directeur-de-campagne-pour-lelection-presidentielle" },
+    { "label": "RN – Nominations dans l'équipe de campagne (14 septembre 2026)", "url": "https://rassemblementnational.fr/communiques/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen" },
+    { "label": "RN – Nominations dans l'équipe de campagne (30 septembre 2026)", "url": "https://rassemblementnational.fr/communiques/communique-de-presse-de-julien-sanchez-directeur-de-campagne-de-marine-le-pen-2" },
+    { "label": "RN – Nominations dans l'équipe de campagne (9 octobre 2026)", "url": "https://rassemblementnational.fr/communiques/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-2" },
+    { "label": "Reuters via Boursorama – Contre-budget présenté le 6 octobre 2026", "url": "https://www.boursorama.com/actualite-economique/actualites/marine-le-pen-veut-ramener-le-deficit-budgetaire-a-3-d-ici-2030-e234d02e0ea563e2766ea6142c4a1bdc" },
+    { "label": "Europe 1 – Contre-budget 2027 du RN (6 octobre 2026)", "url": "https://www.europe1.fr/politique/budget-2027-marine-le-pen-promet-140-milliards-deuros-nets-deconomies-dici-2032-pour-eviter-a-la-france-le-defaut-de-paiement-1126400" },
+    { "label": "RN – Un projet, une méthode (programme des législatives 2024)", "url": "https://rassemblementnational.fr/documents/202406-programme.pdf" }
+  ],
+  "last_verified": "2026-10-15"
+}

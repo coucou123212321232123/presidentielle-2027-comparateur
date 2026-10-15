@@ -1,0 +1,82 @@
+{
+  "id": "lisnard",
+  "first_name": "David",
+  "last_name": "Lisnard",
+  "birth_date": "1969-02-02",
+  "party": "Nouvelle Énergie",
+  "party_short": "NE",
+  "position": "droite",
+  "position_source_url": "https://fr.wikipedia.org/wiki/Nouvelle_%C3%89nergie",
+  "status": "declare",
+  "status_note": "A annoncé le 21 janvier 2026 sur RTL qu'il serait candidat en l'absence de primaire (selon Wikipédia), puis a confirmé sa candidature le 31 mars 2026 sur France 2 en annonçant son départ des Républicains. Il continue de proposer une primaire ouverte de la droite et du centre ; le site de Nouvelle Énergie le présente comme candidat (mise à jour du 3 octobre 2026).",
+  "status_source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr",
+  "declaration_date": "2026-03-31",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/David_Lisnard_en_2026.jpg/500px-David_Lisnard_en_2026.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:David_Lisnard_en_2026.jpg",
+    "author": "Grégor Sauvagère",
+    "license": "CC BY-SA 4.0"
+  },
+  "bio_summary": "Né en 1969 à Limoges, David Lisnard est maire de Cannes depuis 2014 et président de l'Association des maires de France depuis 2021, réélu à ces deux fonctions en 2026. Ancien membre du RPR, de l'UMP puis des Républicains, dont il a été vice-président en 2025-2026, il a quitté LR le 31 mars 2026. Il préside Nouvelle Énergie, mouvement lancé au niveau national en 2021, sous la bannière duquel il est candidat à l'élection présidentielle de 2027.",
+  "current_roles": [
+    "Maire de Cannes (depuis 2014)",
+    "Président de l'Association des maires de France (depuis 2021)",
+    "Président de la communauté d'agglomération Cannes Pays de Lérins (depuis 2017)",
+    "Vice-président du conseil départemental des Alpes-Maritimes",
+    "Président de Nouvelle Énergie"
+  ],
+  "past_roles": [
+    "Vice-président des Républicains (2025-2026)",
+    "Directeur de cabinet et attaché parlementaire de Jacques Pélissard (1996-1999)",
+    "Président du Palais des festivals et des congrès de Cannes (à partir de 2001)"
+  ],
+  "key_people": [
+    { "name": "Alexandra Martin", "role": "Secrétaire générale de Nouvelle Énergie" }
+  ],
+  "slogan": null,
+  "slogan_source_url": null,
+  "main_axes": [
+    "Réduction de la dépense publique (au moins 200 Md€ d'économies) et redistribution sous forme de baisse des cotisations et des impôts de production",
+    "Débureaucratisation, suppression d'agences et décentralisation (création de provinces)",
+    "Autorité de l'État : sécurité, exécution des peines et maîtrise de l'immigration",
+    "Réforme de l'école : libre choix de l'établissement et recentrage sur l'instruction",
+    "Réforme des institutions par référendum (septennat, élargissement de l'article 11)"
+  ],
+  "main_axes_source_url": "https://www.unenouvelleenergie.fr/notre-programme/",
+  "website": "https://www.unenouvelleenergie.fr/",
+  "news_url": "https://www.unenouvelleenergie.fr/actualites/",
+  "socials": [
+    { "platform": "X", "url": "https://x.com/nouv_energie" },
+    { "platform": "Facebook", "url": "https://www.facebook.com/Nouv.Energie" },
+    { "platform": "Instagram", "url": "https://www.instagram.com/nouv_energie/" },
+    { "platform": "YouTube", "url": "https://www.youtube.com/@david_lisnard" },
+    { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/nouvelle-energie-pour-la-france/" }
+  ],
+  "program": {
+    "title": "Notre programme (Nouvelle Énergie)",
+    "main_url": "https://www.unenouvelleenergie.fr/notre-programme/",
+    "format": "page_web",
+    "published_date": null,
+    "status": "partiel",
+    "note": "Programme publié sur le site de Nouvelle Énergie : trois grands axes (pages non datées), cinq pages thématiques (éducation, sécurité, santé, agriculture, immigration), des carnets thématiques PDF (santé, mai 2026 ; agriculture, juin 2026), un « Livre noir de la bureaucratie » (avril 2026), le discours de Bayeux (17 juin 2026) et un espace « Questions » mis à jour le 3 octobre 2026. Le site de campagne lisnard2027.fr indique qu'il « ouvre prochainement ». Aucun document programmatique unique et complet n'est publié.",
+    "thematic_links": [
+      { "theme": "sante", "title": "Les Carnets – Santé (2026)", "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf", "format": "pdf", "page_range": "p. 7-10" },
+      { "theme": "agriculture", "title": "Les Carnets – Agriculture (2026)", "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf", "format": "pdf", "page_range": "p. 8-10" },
+      { "theme": "institutions", "title": "Discours de Bayeux – 17 juin 2026", "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/Discours-de-David-Lisnard-a-Bayeux-17062026.pdf", "format": "pdf", "page_range": "p. 8-12" },
+      { "theme": "services_publics", "title": "Le livre noir – En finir avec la bureaucratie", "url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf", "format": "pdf", "page_range": "p. 6-12, 23-24" },
+      { "theme": "education", "title": "Programme – École", "url": "https://www.unenouvelleenergie.fr/notre-programme/education/", "format": "page_web", "page_range": null },
+      { "theme": "securite", "title": "Programme – Sécurité", "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/", "format": "page_web", "page_range": null },
+      { "theme": "immigration", "title": "Programme – Immigration", "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/", "format": "page_web", "page_range": null }
+    ],
+    "archive_url": null
+  },
+  "sources": [
+    { "label": "Wikipédia – David Lisnard", "url": "https://fr.wikipedia.org/wiki/David_Lisnard" },
+    { "label": "Wikipédia – Nouvelle Énergie", "url": "https://fr.wikipedia.org/wiki/Nouvelle_%C3%89nergie" },
+    { "label": "Public Sénat – Présidentielle 2027 : David Lisnard annonce sa candidature et quitte officiellement LR (1er avril 2026)", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr" },
+    { "label": "Nouvelle Énergie – David Lisnard est-il candidat à la présidentielle 2027 ? (mis à jour le 3 octobre 2026)", "url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-candidat-a-la-presidentielle-2027/" },
+    { "label": "Nouvelle Énergie – Notre programme", "url": "https://www.unenouvelleenergie.fr/notre-programme/" },
+    { "label": "Site de campagne David Lisnard 2027 (page d'attente)", "url": "https://www.lisnard2027.fr/" }
+  ],
+  "last_verified": "2026-10-15"
+}

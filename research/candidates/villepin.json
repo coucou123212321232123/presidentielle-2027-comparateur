@@ -1,0 +1,179 @@
+{
+  "id": "villepin",
+  "first_name": "Dominique",
+  "last_name": "de Villepin",
+  "birth_date": "1953-11-14",
+  "party": "La France humaniste",
+  "party_short": "LFH",
+  "position": "centre_droit",
+  "position_source_url": "https://fr.wikipedia.org/wiki/Centre_droit",
+  "status": "probable",
+  "status_note": "Pas de déclaration officielle au 15 octobre 2026. Il recueille des promesses de parrainage via La France humaniste, s'est dit en avril 2026 candidat « du rassemblement » et a indiqué fin août 2026 qu'il confirmerait sa candidature une fois la campagne commencée. Wikipédia le classe parmi les « candidats pressentis ».",
+  "status_source_url": "https://fr.euronews.com/my-europe/2026/08/30/presidentielle-2027-dominique-de-villepin-presque-candidat-olivier-faure-a-la-primaire-soc",
+  "declaration_date": null,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg/500px-Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg",
+    "author": "Georges Seguin (Okki)",
+    "license": "CC BY-SA 3.0"
+  },
+  "bio_summary": "Né en 1953 à Rabat, diplomate de formation, Dominique de Villepin est secrétaire général de l'Élysée de 1995 à 2002 sous Jacques Chirac. Il est ensuite ministre des Affaires étrangères (2002-2004), ministre de l'Intérieur (2004-2005) puis Premier ministre (2005-2007). En juin 2025, il lance le mouvement La France humaniste, dont il est président d'honneur.",
+  "current_roles": [
+    "Président d'honneur de La France humaniste (depuis 2025)"
+  ],
+  "past_roles": [
+    "Premier ministre (2005-2007)",
+    "Ministre de l'Intérieur, de la Sécurité intérieure et des Libertés locales (2004-2005)",
+    "Ministre des Affaires étrangères (2002-2004)",
+    "Secrétaire général de la présidence de la République (1995-2002)"
+  ],
+  "key_people": [
+    {
+      "name": "Benoît Jimenez",
+      "role": "Président de La France humaniste"
+    }
+  ],
+  "slogan": null,
+  "slogan_source_url": null,
+  "main_axes": [
+    "Rétablir la « règle commune » : suppression des niches fiscales et simplification de l'impôt",
+    "Refonder l'école autour d'une « grande transmission » des savoirs",
+    "Écologie planifiée par l'État et mise en œuvre par les communes (« écogaullisme »)",
+    "Souveraineté européenne : Conseil de sécurité européen et défense commune",
+    "Souveraineté technologique et encadrement humain de l'intelligence artificielle"
+  ],
+  "main_axes_source_url": "https://lafrancehumaniste.fr/france2027.html",
+  "website": "https://lafrancehumaniste.fr/",
+  "news_url": "https://lafrancehumaniste.fr/chroniques.html",
+  "socials": [
+    {
+      "platform": "X",
+      "url": "https://x.com/LFHumaniste"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/lafrancehumaniste/"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/lafrancehumaniste/"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@dominiquedevillepin"
+    },
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@lafrancehumaniste"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/company/lafrancehumaniste"
+    }
+  ],
+  "program": {
+    "title": "Projet France 2027",
+    "main_url": "https://lafrancehumaniste.fr/france2027.html",
+    "format": "page_web",
+    "published_date": null,
+    "status": "en_cours_d_elaboration",
+    "note": "Projet présenté par La France humaniste comme « en construction » : un texte socle (discours de la Sorbonne, 27 mars 2026) et huit « chantiers » publiés sous forme de chroniques signées par Dominique de Villepin entre février et septembre 2026 (éducation, fiscalité, écologie, agriculture, IA, culture, institutions, Europe). D'autres chroniques du site (protection sociale, travail, santé) complètent les mesures recensées.",
+    "thematic_links": [
+      {
+        "theme": "education",
+        "title": "Refonder l'école pour refaire société",
+        "url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "fiscalite",
+        "title": "Big Bang : la règle républicaine",
+        "url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "ecologie",
+        "title": "Pourquoi je suis écogaulliste ?",
+        "url": "https://lafrancehumaniste.fr/articles/pourquoi-je-suis-ecogaulliste.html",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "agriculture",
+        "title": "Souveraineté agricole et alimentaire",
+        "url": "https://lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "numerique",
+        "title": "L'humanisme à l'ère de l'intelligence artificielle",
+        "url": "https://lafrancehumaniste.fr/articles/humanisme-intelligence-artificielle.html",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "numerique",
+        "title": "IA : notre pouvoir de dire non au monopole américain",
+        "url": "https://lafrancehumaniste.fr/articles/ia-pouvoir-de-dire-non-monopole-americain.html",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "culture",
+        "title": "La République culturelle : vivants, toujours !",
+        "url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "institutions",
+        "title": "Le chemin gaulliste",
+        "url": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "europe",
+        "title": "Le moment européen : manifeste pour une Europe souveraine",
+        "url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+        "format": "page_web",
+        "page_range": null
+      }
+    ],
+    "archive_url": "http://web.archive.org/web/20260919214128/https://lafrancehumaniste.fr/france2027"
+  },
+  "sources": [
+    {
+      "label": "Wikipédia – Dominique de Villepin",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "label": "Wikipédia – Centre droit (liste des partis, dont La France humaniste)",
+      "url": "https://fr.wikipedia.org/wiki/Centre_droit"
+    },
+    {
+      "label": "La France humaniste – Projet France 2027",
+      "url": "https://lafrancehumaniste.fr/france2027.html"
+    },
+    {
+      "label": "La France humaniste – Parrainages",
+      "url": "https://lafrancehumaniste.fr/parrainage.html"
+    },
+    {
+      "label": "Euronews – Dominique de Villepin presque candidat (30/08/2026)",
+      "url": "https://fr.euronews.com/my-europe/2026/08/30/presidentielle-2027-dominique-de-villepin-presque-candidat-olivier-faure-a-la-primaire-soc"
+    },
+    {
+      "label": "Le Monde – Villepin se veut le « candidat du rassemblement » (10/04/2026)",
+      "url": "https://www.lemonde.fr/politique/article/2026/04/10/presidentielle-dominique-de-villepin-se-veut-le-candidat-du-rassemblement-en-2027_6679080_823448.html"
+    },
+    {
+      "label": "LCP – « Nous voulons être présents en 2027 »",
+      "url": "https://lcp.fr/actualites/dominique-de-villepin-nous-voulons-etre-presents-en-2027-429413"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}

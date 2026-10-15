@@ -1,0 +1,218 @@
+{
+  "id": "melenchon",
+  "first_name": "Jean-Luc",
+  "last_name": "Mélenchon",
+  "birth_date": "1951-08-19",
+  "party": "La France insoumise",
+  "party_short": "LFI",
+  "position": "gauche_radicale",
+  "position_source_url": "https://fr.wikipedia.org/wiki/La_France_insoumise",
+  "status": "declare",
+  "status_note": "Candidature annoncée le 3 mai 2026 au journal de 20 heures de TF1, après une réunion le même jour des élus insoumis chargée de désigner le candidat du mouvement. Quatrième candidature consécutive après 2012, 2017 et 2022.",
+  "status_source_url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
+  "declaration_date": "2026-05-03",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_%28cropped%29.jpg/500px-Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_%28cropped%29.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_(cropped).jpg",
+    "author": "jlm2017.fr (compte Flickr jlm2017)",
+    "license": "CC BY 4.0"
+  },
+  "bio_summary": "Né en 1951 à Tanger, Jean-Luc Mélenchon a été sénateur de l'Essonne (1986-2000 puis 2004-2010) et ministre délégué à l'Enseignement professionnel dans le gouvernement Jospin (2000-2002). Il a ensuite été député européen (2009-2017), puis député des Bouches-du-Rhône et président du groupe La France insoumise à l'Assemblée nationale (2017-2022). Candidat à l'élection présidentielle en 2012, 2017 et 2022 (troisième avec environ 22 % des voix), il n'exerce plus de mandat électif depuis 2022.",
+  "current_roles": [
+    "Co-président de l'Institut La Boétie"
+  ],
+  "past_roles": [
+    "Député des Bouches-du-Rhône (4e circonscription) (2017-2022)",
+    "Président du groupe La France insoumise à l'Assemblée nationale (2017-2021)",
+    "Député européen, circonscription Sud-Ouest (2009-2017)",
+    "Co-président du Parti de gauche (2009-2014)",
+    "Sénateur de l'Essonne (1986-2000 et 2004-2010)",
+    "Ministre délégué à l'Enseignement professionnel (2000-2002)",
+    "Conseiller général de l'Essonne (1985-1992 et 1998-2004)",
+    "Adjoint au maire de Massy (1989-1995)"
+  ],
+  "key_people": [
+    {
+      "name": "Clémence Guetté",
+      "role": "Députée, co-autrice de l'introduction de L'Avenir en commun 2025, chargée d'annoncer la nouvelle version du programme"
+    },
+    {
+      "name": "Hadrien Clouet",
+      "role": "Co-auteur de l'introduction de L'Avenir en commun 2025"
+    },
+    {
+      "name": "Manuel Bompard",
+      "role": "Député, présenté par le candidat comme l'un des « visages » de son futur gouvernement"
+    },
+    {
+      "name": "Mathilde Panot",
+      "role": "Députée, présentée par le candidat comme l'un des « visages » de son futur gouvernement"
+    },
+    {
+      "name": "Sophia Chikirou",
+      "role": "Présentée par le candidat comme l'un des « visages » de son futur gouvernement"
+    }
+  ],
+  "slogan": null,
+  "slogan_source_url": null,
+  "main_axes": [
+    "Paix",
+    "Égalité des droits",
+    "Blocage des prix et hausse des salaires",
+    "Passage à une 6e République",
+    "Planification écologique"
+  ],
+  "main_axes_source_url": "https://melenchon2027.fr/",
+  "website": "https://melenchon2027.fr/",
+  "news_url": "https://lafranceinsoumise.fr/actualites/",
+  "socials": [
+    {
+      "platform": "X",
+      "url": "https://x.com/jlmelenchon"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@JLMelenchon"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/jlmelenchon/"
+    },
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@jlmelenchon"
+    },
+    {
+      "platform": "Bluesky",
+      "url": "https://bsky.app/profile/jlmelenchon.bsky.social"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/JLMelenchon"
+    },
+    {
+      "platform": "Twitch",
+      "url": "https://www.twitch.tv/jlmelenchon"
+    },
+    {
+      "platform": "Blog",
+      "url": "https://melenchon.fr/"
+    }
+  ],
+  "program": {
+    "title": "L'Avenir en commun (édition 2025)",
+    "main_url": "https://melenchon2027.fr/programme2025/livre/",
+    "format": "page_web",
+    "published_date": null,
+    "status": "publie",
+    "note": "Programme de La France insoumise présenté en janvier 2025 (831 mesures, dont 143 ajoutées et 120 précisées), affiché comme programme de campagne sur melenchon2027.fr, qui le signale « en cours de réactualisation ». Les pages de chapitres du site renvoyaient une erreur 404 au 15 octobre 2026 ; les mesures sont sourcées sur une archive du PDF (version du 18 février 2025). Une nouvelle version remaniée, organisée en six chapitres et associée à la « Nouvelle France », doit être publiée le 6 novembre 2026 et présentée le 7 novembre 2026 au Bourget (LCP). L'archive indiquée est celle du PDF, la page web n'ayant pas de capture Wayback.",
+    "thematic_links": [
+      {
+        "theme": "institutions",
+        "title": "Chapitre 1 – Le pouvoir au peuple",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=11",
+        "format": "pdf",
+        "page_range": "p. 20-27"
+      },
+      {
+        "theme": "education",
+        "title": "Chapitre 5 – Élever le niveau d'instruction",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=20",
+        "format": "pdf",
+        "page_range": "p. 38-47"
+      },
+      {
+        "theme": "fiscalite",
+        "title": "Chapitre 6 – Partage des richesses",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=25",
+        "format": "pdf",
+        "page_range": "p. 48-53"
+      },
+      {
+        "theme": "emploi",
+        "title": "Chapitre 8 – Travailler tous, travailler moins, travailler mieux",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=33",
+        "format": "pdf",
+        "page_range": "p. 64-72"
+      },
+      {
+        "theme": "ecologie",
+        "title": "Chapitre 12 – Planification écologique",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=46",
+        "format": "pdf",
+        "page_range": "p. 90-93"
+      },
+      {
+        "theme": "energie",
+        "title": "Chapitre 13 – Les grands chantiers de la bifurcation écologique",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=48",
+        "format": "pdf",
+        "page_range": "p. 94-100"
+      },
+      {
+        "theme": "sante",
+        "title": "Chapitre 15 – Une approche de santé globale",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=55",
+        "format": "pdf",
+        "page_range": "p. 108-113"
+      },
+      {
+        "theme": "international",
+        "title": "Chapitre 16 – Une diplomatie altermondialiste pour la paix",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=59",
+        "format": "pdf",
+        "page_range": "p. 116-126"
+      },
+      {
+        "theme": "europe",
+        "title": "Chapitre 17 – Europe",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=64",
+        "format": "pdf",
+        "page_range": "p. 127-129"
+      },
+      {
+        "theme": "numerique",
+        "title": "Chapitre 18 – Nouvelles frontières de l'humanité",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=66",
+        "format": "pdf",
+        "page_range": "p. 130-135"
+      }
+    ],
+    "archive_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf"
+  },
+  "sources": [
+    {
+      "label": "Wikipédia – Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "label": "Wikipédia – La France insoumise",
+      "url": "https://fr.wikipedia.org/wiki/La_France_insoumise"
+    },
+    {
+      "label": "LCP – Jean-Luc Mélenchon officialise sa candidature pour 2027 (3 mai 2026)",
+      "url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851"
+    },
+    {
+      "label": "LCP – Mélenchon de nouveau candidat, qu'est-ce qui a changé depuis 2022 ? (4 mai 2026)",
+      "url": "https://lcp.fr/actualites/presidentielle-melenchon-de-nouveau-candidat-qu-est-ce-qui-a-change-depuis-2022-435895"
+    },
+    {
+      "label": "LCP – Le programme remanié de la « Nouvelle France » sera présenté début novembre (23 septembre 2026)",
+      "url": "https://lcp.fr/actualites/presidentielle-le-programme-remanie-de-la-nouvelle-france-de-jean-luc-melenchon-sera"
+    },
+    {
+      "label": "melenchon2027.fr – L'Avenir en commun, édition 2025",
+      "url": "https://melenchon2027.fr/programme2025/livre/"
+    },
+    {
+      "label": "L'Avenir en commun 2025 (PDF, archive Wayback Machine)",
+      "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf"
+    },
+    {
+      "label": "Wikimedia Commons – photo",
+      "url": "https://commons.wikimedia.org/wiki/File:Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_(cropped).jpg"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}

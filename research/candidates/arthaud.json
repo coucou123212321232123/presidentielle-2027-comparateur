@@ -1,0 +1,74 @@
+{
+  "id": "arthaud",
+  "first_name": "Nathalie",
+  "last_name": "Arthaud",
+  "birth_date": "1970-02-23",
+  "party": "Lutte ouvrière",
+  "party_short": "LO",
+  "position": "extreme_gauche",
+  "position_source_url": "https://fr.wikipedia.org/wiki/Lutte_ouvri%C3%A8re",
+  "status": "declare",
+  "status_note": "Candidature annoncée lors d'une conférence de presse à Paris le 8 décembre 2025, après un vote du congrès de Lutte ouvrière le week-end précédent (ICI avec AFP). Confirmée dans ses discours du 14 février 2026 et du 26 septembre 2026.",
+  "status_source_url": "https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318",
+  "declaration_date": "2025-12-08",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Nathalie_Arthaud_%28LO%29_19-05-2024.jpg/500px-Nathalie_Arthaud_%28LO%29_19-05-2024.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Nathalie_Arthaud_(LO)_19-05-2024.jpg",
+    "author": "Kokluts",
+    "license": "CC BY-SA 4.0"
+  },
+  "bio_summary": "Née le 23 février 1970 à Peyrins (Drôme), Nathalie Arthaud est enseignante, agrégée d'économie et gestion. Militante de Lutte ouvrière depuis 1988, elle en est la porte-parole depuis 2008 et a été conseillère municipale de Vaulx-en-Velin de 2008 à 2014. Candidate à l'élection présidentielle en 2012 (0,56 %), 2017 (0,64 %) et 2022 (0,56 %), elle se présente en 2027 pour la quatrième fois.",
+  "current_roles": [
+    "Porte-parole de Lutte ouvrière (depuis 2008)"
+  ],
+  "past_roles": [
+    "Conseillère municipale de Vaulx-en-Velin (2008-2014)",
+    "Candidate de Lutte ouvrière à l'élection présidentielle de 2012, 2017 et 2022",
+    "Tête de liste Lutte ouvrière à Pantin aux élections municipales de 2026"
+  ],
+  "key_people": [
+    { "name": "Jean-Pierre Mercier", "role": "Co-porte-parole de Lutte ouvrière" }
+  ],
+  "slogan": "Le camp des travailleurs",
+  "slogan_source_url": "https://www.nathalie-arthaud.info",
+  "main_axes": [
+    "Hausse générale des salaires, pensions et allocations, SMIC à 2 200 € net et indexation sur les prix",
+    "Interdiction des licenciements et répartition du travail entre tous sans perte de salaire",
+    "Levée du secret des affaires, confiscation des profits des groupes pétroliers et de l'armement, expropriation des grands groupes",
+    "Régularisation de tous les sans-papiers et liberté de circulation et d'installation",
+    "Opposition à la hausse des budgets militaires et au service militaire"
+  ],
+  "main_axes_source_url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+  "website": "https://www.nathalie-arthaud.info",
+  "news_url": "https://www.lutte-ouvriere.org/portail/index.html",
+  "socials": [
+    { "platform": "X", "url": "https://twitter.com/n_arthaud" },
+    { "platform": "Facebook", "url": "https://www.facebook.com/nathaliearthaud" },
+    { "platform": "Instagram", "url": "https://www.instagram.com/nathalie_arthaud_lo/" },
+    { "platform": "YouTube", "url": "https://www.youtube.com/channel/UCZsh-MrJftAOP_-ZgRgLScw" },
+    { "platform": "TikTok", "url": "https://www.tiktok.com/@nathaliearthaud" }
+  ],
+  "program": {
+    "title": "Nathalie Arthaud – Présidentielle 2027 (brochure de la fête annuelle de Lutte ouvrière, mai 2026)",
+    "main_url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+    "format": "pdf",
+    "published_date": "2026-06-26",
+    "status": "partiel",
+    "note": "Brochure de campagne de 32 pages (supplément gratuit à Lutte ouvrière n° 3021 du 26 juin 2026). Lutte ouvrière la présente comme un « programme révolutionnaire à imposer par les luttes, pas un programme électoral » ; il n'existe pas de programme chiffré thème par thème. Les positions sont complétées par les discours de meeting (14 février et 26 septembre 2026) et les éditoriaux hebdomadaires signés par la candidate.",
+    "thematic_links": [
+      { "theme": "economie", "title": "Meeting du 26 septembre 2026 : discours de Nathalie Arthaud", "url": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html", "format": "page_web", "page_range": null },
+      { "theme": "institutions", "title": "Meeting du 14 février 2026 : discours de Nathalie Arthaud", "url": "https://www.lutte-ouvriere.org/portail/brochures/meeting-14-fevrier-2026-discours-nathalie-arthaud-191591.html", "format": "page_web", "page_range": null },
+      { "theme": "europe", "title": "Qui sommes-nous ? – Europe", "url": "https://lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-europe", "format": "page_web", "page_range": null }
+    ],
+    "archive_url": null
+  },
+  "sources": [
+    { "label": "Wikipédia – Nathalie Arthaud", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud" },
+    { "label": "Wikipédia – Lutte ouvrière", "url": "https://fr.wikipedia.org/wiki/Lutte_ouvri%C3%A8re" },
+    { "label": "ICI (AFP) – Présidentielle 2027 : Nathalie Arthaud annonce sa candidature pour Lutte ouvrière (8 décembre 2025)", "url": "https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318" },
+    { "label": "Site de campagne de Nathalie Arthaud", "url": "https://www.nathalie-arthaud.info" },
+    { "label": "Brochure « Présidentielle 2027 » (juin 2026)", "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf" },
+    { "label": "Lutte ouvrière – Éditoriaux", "url": "https://www.lutte-ouvriere.org/portail/editoriaux/index.html" }
+  ],
+  "last_verified": "2026-10-15"
+}

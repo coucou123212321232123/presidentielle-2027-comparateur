@@ -1,0 +1,78 @@
+{
+  "id": "bertrand",
+  "first_name": "Xavier",
+  "last_name": "Bertrand",
+  "birth_date": "1965-03-21",
+  "party": "Nous France (mouvement associé aux Républicains) – candidature annoncée comme indépendante",
+  "party_short": "Nous France",
+  "position": "droite",
+  "position_source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+  "status": "probable",
+  "status_note": "Intention de candidature annoncée le 3 février 2024 et réaffirmée à plusieurs reprises. Le 27 août 2026, à l'université de rentrée du Medef, il a répondu « Je le serai » à la question d'une candidature, tout en précisant que « le moment n'est pas venu » de la déclarer officiellement. Il indique qu'il se déclarera en « candidat indépendant » (Les Républicains ayant désigné Bruno Retailleau le 19 avril 2026), entre mi-octobre et la fin de l'année 2026, et refuse toute primaire. Au 15 octobre 2026, aucune déclaration officielle n'a été identifiée ; il reste adhérent LR et président de la région Hauts-de-France.",
+  "status_source_url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
+  "declaration_date": null,
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Xavier_Bertrand_-_2025_%28cropped%29.jpg/500px-Xavier_Bertrand_-_2025_%28cropped%29.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Xavier_Bertrand_-_2025_(cropped).jpg",
+    "author": "Claudio Centonze / European Union, 2025 / EC - Audiovisual Service",
+    "license": "CC BY 4.0"
+  },
+  "bio_summary": "Né en 1965 à Châlons-sur-Marne, ancien agent général d'assurances, Xavier Bertrand a été député de l'Aisne, maire de Saint-Quentin (2010-2016) et secrétaire général de l'UMP (2009-2010). Ministre de la Santé (2005-2007) puis du Travail dans les gouvernements Fillon, il préside la région Hauts-de-France depuis 2016. Il a quitté LR en 2017, y est revenu en 2021 pour le congrès présidentiel (4e), et a lancé en 2022 le mouvement Nous France.",
+  "current_roles": [
+    "Président du conseil régional des Hauts-de-France (depuis 2016)",
+    "Président du mouvement Nous France"
+  ],
+  "past_roles": [
+    "Ministre du Travail, de l'Emploi et de la Santé (2010-2012)",
+    "Ministre du Travail, des Relations sociales et de la Solidarité (2007-2009)",
+    "Ministre de la Santé et des Solidarités (2005-2007)",
+    "Secrétaire général de l'UMP (2009-2010)",
+    "Maire de Saint-Quentin (2010-2016)",
+    "Député de l'Aisne (2002-2016, avec interruptions)"
+  ],
+  "key_people": [
+    { "name": "Julien Dive", "role": "Porte-parole (député de l'Aisne)" },
+    { "name": "Sophie Gaugain", "role": "Porte-parole (vice-présidente de la région Normandie)" },
+    { "name": "Valérie Debord", "role": "Porte-parole (vice-présidente de la région Grand Est)" },
+    { "name": "Olivier Henno", "role": "Porte-parole (sénateur du Nord)" },
+    { "name": "Bernard Deflesselles", "role": "Secrétaire général de Nous France" }
+  ],
+  "slogan": null,
+  "slogan_source_url": null,
+  "main_axes": [
+    "Priorité aux classes moyennes et au pouvoir d'achat (baisse de l'impôt sur le revenu des premières tranches, réforme des bourses)",
+    "« République des territoires » : État recentré sur le régalien, décentralisation des politiques du quotidien",
+    "Réduction de la dépense publique (20 Md€ par an) sans impôt nouveau, réforme des retraites avec étage de capitalisation",
+    "Refus de toute alliance avec le RN comme avec LFI ; mandat présidentiel unique",
+    "Culture (1 % du budget de l'État en 2032), santé et école présentées comme priorités de service public"
+  ],
+  "main_axes_source_url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/",
+  "website": "https://www.nousfrance.fr/",
+  "news_url": "https://www.nousfrance.fr/les-actualites/",
+  "socials": [
+    { "platform": "X", "url": "https://x.com/xavierbertrand" },
+    { "platform": "Instagram", "url": "https://www.instagram.com/xavier.bertrand/" },
+    { "platform": "Facebook", "url": "https://www.facebook.com/xavierbertrand02" },
+    { "platform": "X (Nous France)", "url": "https://x.com/NousFrance_fr" }
+  ],
+  "program": {
+    "title": null,
+    "main_url": null,
+    "format": "aucun",
+    "published_date": null,
+    "status": "en_cours_d_elaboration",
+    "note": "Aucun programme présidentiel 2027 publié au 15/10/2026 : le candidat indique « tester ses idées » et présenter un projet global lors de sa déclaration officielle, annoncée pour la fin 2026. Les pages « Propositions » du site nousfrance.fr datent de 2021 et 2024 (consultations intégrées, sans propositions détaillées) et n'ont pas été utilisées. Les mesures recensées proviennent d'entretiens et tribunes de 2025-2026 reproduits sur le site officiel de Nous France.",
+    "thematic_links": [],
+    "archive_url": null
+  },
+  "sources": [
+    { "label": "Wikipédia – Xavier Bertrand", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand" },
+    { "label": "Nous France – site officiel", "url": "https://www.nousfrance.fr/" },
+    { "label": "franceinfo – Déclaration au Medef (27/08/2026)", "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html" },
+    { "label": "LCP – « Tester ses idées », candidat indépendant (03/08/2026)", "url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en" },
+    { "label": "Le Monde (repris sur nousfrance.fr) – « Xavier Bertrand fait un pas de plus vers une candidature » (27/08/2026)", "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-fait-un-pas-de-plus-vers-une-candidature-a-la-presidentielle-le-monde/" },
+    { "label": "Ouest-France (repris sur nousfrance.fr) – « Xavier Bertrand presque candidat » (03/08/2026)", "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/" },
+    { "label": "Article de presse repris sur nousfrance.fr – « Présidentielle 2027 : Xavier Bertrand, candidat en embuscade » (29/09/2026)", "url": "https://www.nousfrance.fr/2026/09/presidentielle-2027-xavier-bertrand-candidat-en-embuscade/" }
+  ],
+  "last_verified": "2026-10-15"
+}

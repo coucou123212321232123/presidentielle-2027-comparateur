@@ -1,0 +1,79 @@
+{
+  "id": "glucksmann",
+  "first_name": "Raphaël",
+  "last_name": "Glucksmann",
+  "birth_date": "1979-10-15",
+  "party": "Place publique",
+  "party_short": "PP",
+  "position": "centre_gauche",
+  "position_source_url": "https://fr.wikipedia.org/wiki/Place_publique_(parti_politique)",
+  "status": "declare",
+  "status_note": "Candidature annoncée le 23 août 2026 (journal de 20 h de TF1) ; vainqueur dès le premier tour, le 11 octobre 2026, de la primaire organisée avec le Parti socialiste, avec 66,17 % des suffrages exprimés (79 613 voix) selon la commission d'organisation citée par LCP.",
+  "status_source_url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+  "declaration_date": "2026-08-23",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg/500px-1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg",
+    "author": "European Union 2024 – Source : EP",
+    "license": "European Parliament (attribution requise)"
+  },
+  "bio_summary": "Né en 1979 à Boulogne-Billancourt, diplômé de Sciences Po Paris, Raphaël Glucksmann a été réalisateur de documentaires et essayiste, puis conseiller du président géorgien Mikheil Saakachvili. Il cofonde le mouvement Place publique en 2018, conduit la liste PS-Place publique aux européennes de 2019 puis de 2024 et siège au Parlement européen depuis 2019. Il remporte en octobre 2026 la primaire organisée avec le Parti socialiste pour l'élection présidentielle de 2027.",
+  "current_roles": [
+    "Député européen (groupe S&D) depuis 2019",
+    "Coprésident de Place publique (avec Aurore Lalucq) depuis 2022"
+  ],
+  "past_roles": [
+    "Conseiller du président de Géorgie (2009-2012)",
+    "Président de la commission spéciale du Parlement européen sur l'ingérence étrangère (élu en 2020)",
+    "Tête de liste PS-Place publique aux élections européennes de 2019 et 2024"
+  ],
+  "key_people": [
+    { "name": "Aurore Lalucq", "role": "Coprésidente de Place publique" },
+    { "name": "Yannick Jadot", "role": "Soutien, chargé de préparer le volet écologique du programme (selon Wikipédia et L'Info Durable)" }
+  ],
+  "slogan": "Ensemble, réveillons la France.",
+  "slogan_source_url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+  "main_axes": [
+    "Réduire les dépendances énergétiques, industrielles et technologiques et relocaliser la production",
+    "Valoriser le travail par rapport à la rente (salaires, fiscalité des grandes successions)",
+    "Donner des moyens à l'école, à l'hôpital, à la justice et aux services publics",
+    "Planifier la transformation écologique",
+    "Faire de la France le moteur d'une puissance européenne"
+  ],
+  "main_axes_source_url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+  "website": "https://glucks2027.fr/",
+  "news_url": "https://place-publique.eu/posts",
+  "socials": [
+    { "platform": "Instagram", "url": "https://www.instagram.com/raphaelglucksmann/" },
+    { "platform": "Facebook", "url": "https://www.facebook.com/raphaelglucksmann/" },
+    { "platform": "Bluesky", "url": "https://bsky.app/profile/raphaelglucksmann.bsky.social" },
+    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/raphaelglucksmann/" }
+  ],
+  "program": {
+    "title": "Notre vision pour la France – Acte I (projet de Place publique)",
+    "main_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+    "format": "pdf",
+    "published_date": "2025-06-23",
+    "status": "partiel",
+    "note": "Aucun programme présidentiel 2027 n'est publié au 15 octobre 2026 : le site de campagne glucks2027.fr ne comporte pas de rubrique programme. La référence programmatique officielle est le projet de Place publique « Acte I » (42 chantiers), présenté le 23 juin 2025 comme une « vision » appelée à être précisée, auquel s'ajoutent la profession de foi de la primaire (septembre 2026) et des propositions formulées pendant la campagne de la primaire (livre « Nous avons encore envie », mai 2026 ; débats télévisés de septembre-octobre 2026).",
+    "thematic_links": [
+      { "theme": "ecologie", "title": "Acte I – Mener la révolution énergétique, écologique et industrielle", "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=13", "format": "pdf", "page_range": "p. 13-17" },
+      { "theme": "retraites", "title": "Acte I – Chantier 19 : des retraites justes", "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=43", "format": "pdf", "page_range": "p. 43" }
+    ],
+    "archive_url": null
+  },
+  "sources": [
+    { "label": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann" },
+    { "label": "Wikipédia – Place publique (parti politique)", "url": "https://fr.wikipedia.org/wiki/Place_publique_(parti_politique)" },
+    { "label": "Site de campagne glucks2027.fr", "url": "https://glucks2027.fr/" },
+    { "label": "Place publique – page « L'Acte I »", "url": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i" },
+    { "label": "Place publique – Lettre aux Français (25 août 2026)", "url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais" },
+    { "label": "Profession de foi pour la primaire, septembre 2026 (copie Wayback ; choisir2027.fr injoignable le 15/10/2026)", "url": "https://web.archive.org/web/20260925081255/https://choisir2027.fr/wp-content/uploads/2026/09/Profession-de-foi-RG.pdf" },
+    { "label": "LCP – Résultat de la primaire (11 octobre 2026)", "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la" },
+    { "label": "LCP – Premières lignes du programme (26 mai 2026)", "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme" },
+    { "label": "Public Sénat – Présentation de l'Acte I (23 juin 2025)", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-pas-candidat-pour-le-moment-raphael-glucksmann-trace-son-chemin-et-defend-sa-vision-pour-le-pays" },
+    { "label": "Public Sénat – Ce que propose Raphaël Glucksmann (24 août 2026)", "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann" },
+    { "label": "LCP – Dernier débat de la primaire (5 octobre 2026)", "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat" }
+  ],
+  "last_verified": "2026-10-15"
+}

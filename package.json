@@ -1,0 +1,79 @@
+{
+  "name": "presidentielle-2027-comparateur",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run validate-data && tsc -b && vite build",
+    "preview": "vite preview",
+    "validate-data": "tsx scripts/validate-data.ts",
+    "check-links": "tsx scripts/check-links.ts",
+    "merge-research": "tsx scripts/merge-research.ts",
+    "build:desktop": "npm run validate-data && tsc -b && vite build --mode electron",
+    "app": "npm run build:desktop && electron .",
+    "dist:win": "npm run build:desktop && electron-builder --win nsis portable",
+    "export-data": "tsx scripts/export-data.ts"
+  },
+  "dependencies": {
+    "@fontsource-variable/fraunces": "^5.3.0",
+    "@fontsource-variable/inter": "^5.3.0",
+    "framer-motion": "^14.2.0",
+    "html-to-image": "^1.11.13",
+    "lucide-react": "^1.57.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.4",
+    "zod": "^4.6.7",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "electron": "^44.7.2",
+    "electron-builder": "^26.15.3",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  },
+  "description": "Outil indépendant et non officiel de comparaison des programmes des candidats à la présidentielle 2027",
+  "author": "Arthur",
+  "main": "electron/main.cjs",
+  "build": {
+    "appId": "fr.comparateur.presidentielle2027",
+    "productName": "Présidentielle 2027",
+    "copyright": "Outil indépendant et non officiel",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist-electron/**",
+      "electron/main.cjs",
+      "electron/icon.png",
+      "package.json",
+      "!node_modules/**"
+    ],
+    "win": {
+      "icon": "electron/icon.ico",
+      "target": [
+        "nsis",
+        "portable"
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "shortcutName": "Présidentielle 2027",
+      "artifactName": "Presidentielle-2027-Setup-${version}.exe"
+    },
+    "portable": {
+      "artifactName": "Presidentielle-2027-Portable-${version}.exe"
+    },
+    "electronDist": "node_modules/.electron-dist"
+  }
+}

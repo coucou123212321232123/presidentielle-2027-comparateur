@@ -1,0 +1,85 @@
+{
+  "id": "dupont-aignan",
+  "first_name": "Nicolas",
+  "last_name": "Dupont-Aignan",
+  "birth_date": "1961-03-07",
+  "party": "Debout la France",
+  "party_short": "DLF",
+  "position": "droite",
+  "position_source_url": "https://fr.wikipedia.org/wiki/Debout_la_France",
+  "status": "declare",
+  "status_note": "Candidature annoncée le 8 mars 2025 lors d'une réunion publique à Yerres devant des militants de Debout la France (Le Figaro, franceinfo). Réaffirmée le 19 septembre 2026 dans le discours de rentrée de la première « Fête de la Liberté » à Yerres, publié sur le site de campagne et signé « Candidat à l'élection présidentielle ».",
+  "status_source_url": "https://www.lefigaro.fr/politique/nicolas-dupont-aignan-se-declare-candidat-a-la-prochaine-election-presidentielle-20250308",
+  "declaration_date": "2025-03-08",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Nicolas_Dupont-Aignan%2C_homme_politique_fran%C3%A7ais.jpg/500px-Nicolas_Dupont-Aignan%2C_homme_politique_fran%C3%A7ais.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Nicolas_Dupont-Aignan,_homme_politique_fran%C3%A7ais.jpg",
+    "author": "Debout la France",
+    "license": "CC BY-SA 4.0"
+  },
+  "bio_summary": "Né le 7 mars 1961 à Paris, Nicolas Dupont-Aignan est diplômé de Sciences Po Paris et ancien élève de l'ENA, administrateur civil. Successivement membre du RPR, du RPF et de l'UMP, il fonde Debout la République (devenu Debout la France) qu'il préside depuis 2008. Maire d'Yerres de 1995 à 2017 puis à nouveau depuis mars 2026, il a été député de l'Essonne de 1997 à 2024. Candidat à l'élection présidentielle en 2012 (1,79 %), 2017 (4,70 %) et 2022 (2,06 %), il se présente en 2027 pour la quatrième fois.",
+  "current_roles": [
+    "Président de Debout la France (depuis 2008)",
+    "Maire d'Yerres (depuis mars 2026)"
+  ],
+  "past_roles": [
+    "Maire d'Yerres (1995-2017)",
+    "Député de la 8e circonscription de l'Essonne (1997-2024)",
+    "Président de la communauté d'agglomération du Val d'Yerres (2002-2015) puis Val d'Yerres Val de Seine (2016-2017)",
+    "Candidat à l'élection présidentielle de 2012, 2017 et 2022"
+  ],
+  "key_people": [
+    { "name": "Frédéric Guyard", "role": "Secrétaire général de Debout la France" },
+    { "name": "Cécile Bayle de Jessé", "role": "Vice-présidente de Debout la France" }
+  ],
+  "slogan": "Libérons la France. Protégeons les Français.",
+  "slogan_source_url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+  "main_axes": [
+    "Sortie de l'Union européenne et construction d'une « Europe des nations libres » fondée sur des coopérations à la carte",
+    "« Protectionnisme intelligent » et objectif de relocalisation de deux millions d'emplois",
+    "Recherche d'une paix négociée en Ukraine, fin des aides à l'Ukraine et sortie du commandement intégré de l'OTAN",
+    "Démocratie directe : référendum d'initiative citoyenne, RIC constituant et reconnaissance du vote blanc",
+    "Réduction de l'immigration et renforcement de l'ordre public"
+  ],
+  "main_axes_source_url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+  "website": "https://www.dupontaignan.fr/",
+  "news_url": "https://www.dupontaignan.fr/actualite/",
+  "socials": [
+    { "platform": "X", "url": "https://x.com/dupontaignan/" },
+    { "platform": "Facebook", "url": "https://www.facebook.com/nicolasdupontaignan/" },
+    { "platform": "Instagram", "url": "https://www.instagram.com/dupontaignan/" },
+    { "platform": "YouTube", "url": "https://www.youtube.com/user/ndatv" },
+    { "platform": "TikTok", "url": "https://www.tiktok.com/@dupontaignannicolas" },
+    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/dupontaignan/" },
+    { "platform": "Telegram", "url": "https://t.me/s/dupontaignan" }
+  ],
+  "program": {
+    "title": "Le Projet de Debout la France (programme par thèmes, en cours d'actualisation pour 2027)",
+    "main_url": "https://www.debout-la-france.fr/notre-projet/",
+    "format": "page_web",
+    "published_date": null,
+    "status": "partiel",
+    "note": "Programme thématique de Debout la France (une trentaine de pages, accessibles depuis le site de campagne dupontaignan.fr). Le parti indique que ses équipes « travaillent actuellement à l'actualisation » du programme pour 2027 : certaines pages ont été mises à jour en 2025-2026 (économie, Europe, sécurité, justice, immigration, logement, famille, outre-mer, IA), d'autres datent de 2022-2024 (santé, retraites, culture). Les grands axes ont été présentés dans le discours de Yerres du 19 septembre 2026. Le candidat a aussi publié le livre « 2027 : La liberté ou la mort » (Fayard, 2026), non consulté.",
+    "thematic_links": [
+      { "theme": "economie", "title": "Économie et travail", "url": "https://www.debout-la-france.fr/projet/economie-travail/", "format": "page_web", "page_range": null },
+      { "theme": "europe", "title": "Affaires européennes", "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/", "format": "page_web", "page_range": null },
+      { "theme": "institutions", "title": "Refonder et moraliser notre démocratie", "url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/", "format": "page_web", "page_range": null },
+      { "theme": "securite", "title": "Sécurité", "url": "https://www.debout-la-france.fr/projet/securite/", "format": "page_web", "page_range": null },
+      { "theme": "immigration", "title": "Immigration et assimilation", "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/", "format": "page_web", "page_range": null },
+      { "theme": "logement", "title": "Logement", "url": "https://www.debout-la-france.fr/projet/logement/", "format": "page_web", "page_range": null },
+      { "theme": "energie", "title": "Environnement et Énergie", "url": "https://www.debout-la-france.fr/projet/environnement-energie/", "format": "page_web", "page_range": null },
+      { "theme": "numerique", "title": "Intelligence Artificielle", "url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/", "format": "page_web", "page_range": null }
+    ],
+    "archive_url": null
+  },
+  "sources": [
+    { "label": "Wikipédia – Nicolas Dupont-Aignan", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan" },
+    { "label": "Wikipédia – Debout la France", "url": "https://fr.wikipedia.org/wiki/Debout_la_France" },
+    { "label": "Le Figaro – Nicolas Dupont-Aignan se déclare candidat à la prochaine élection présidentielle (8 mars 2025)", "url": "https://www.lefigaro.fr/politique/nicolas-dupont-aignan-se-declare-candidat-a-la-prochaine-election-presidentielle-20250308" },
+    { "label": "franceinfo – Le souverainiste Nicolas Dupont-Aignan se lance pour la 4e fois dans la course à l'Élysée (8 mars 2025)", "url": "https://www.francetvinfo.fr/politique/nicolas-dupont-aignan/le-souverainiste-nicolas-dupont-aignan-se-lance-pour-la-4e-fois-dans-la-course-a-l-elysee_7118136.html" },
+    { "label": "Discours de rentrée « Libérons la France ! » (Yerres, 19 septembre 2026)", "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/" },
+    { "label": "Site de campagne Dupont-Aignan 2027", "url": "https://www.dupontaignan.fr/" },
+    { "label": "Debout la France – Le Projet", "url": "https://www.debout-la-france.fr/notre-projet/" }
+  ],
+  "last_verified": "2026-10-15"
+}

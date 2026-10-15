@@ -1,0 +1,185 @@
+{
+  "id": "tondelier",
+  "first_name": "Marine",
+  "last_name": "Tondelier",
+  "birth_date": "1986-08-23",
+  "party": "Les Écologistes",
+  "party_short": "LE",
+  "position": "gauche",
+  "position_source_url": "https://fr.wikipedia.org/wiki/Les_%C3%89cologistes",
+  "status": "declare",
+  "status_note": "Candidature annoncée le 22 octobre 2025 dans un entretien au Nouvel Obs, puis désignation par Les Écologistes le 8 décembre 2025 (86 % des voix) pour les représenter à une primaire de la gauche, finalement abandonnée en juillet 2026. Le 21 septembre 2026, le conseil fédéral du parti a adopté (69,44 % des exprimés) une motion qui maintient sa candidature jusqu'à un référendum interne des adhérents du 10 au 13 décembre 2026, appelé à choisir entre sa candidature et le ralliement à un candidat d'une autre formation de gauche. Le 21 septembre 2026 correspond donc à ce report et non à une désignation ; sa candidature reste suspendue au vote de décembre.",
+  "status_source_url": "https://lcp.fr/actualites/candidature-a-la-presidentielle-pas-de-choix-definitif-des-ecologistes-avant-la-mi",
+  "declaration_date": "2025-10-22",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Huma2023MarineTondelier_%28cropped%29.jpg/500px-Huma2023MarineTondelier_%28cropped%29.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Huma2023MarineTondelier_(cropped).jpg",
+    "author": "Selbymay",
+    "license": "CC BY 4.0"
+  },
+  "bio_summary": "Née en 1986 à Bois-Bernard (Pas-de-Calais), Marine Tondelier est secrétaire nationale d'Europe Écologie Les Verts, devenu Les Écologistes, depuis décembre 2022 ; elle a été réélue à cette fonction en avril 2025. Elle est conseillère régionale des Hauts-de-France depuis 2021 et a été conseillère municipale d'Hénin-Beaumont et conseillère communautaire d'Hénin-Carvin de 2014 à 2026.",
+  "current_roles": [
+    "Secrétaire nationale des Écologistes (depuis décembre 2022)",
+    "Conseillère régionale des Hauts-de-France (depuis 2021)"
+  ],
+  "past_roles": [
+    "Conseillère municipale d'Hénin-Beaumont (2014-2026)",
+    "Conseillère communautaire de la communauté d'agglomération d'Hénin-Carvin (2014-2026)"
+  ],
+  "key_people": [
+    {
+      "name": "Rania Kissi",
+      "role": "Porte-parole de campagne"
+    }
+  ],
+  "slogan": "Pour l'écologie, pour l'union !",
+  "slogan_source_url": "https://marinetondelier.fr",
+  "main_axes": [
+    "Une « prospérité écologique » distinguant niveau de vie et qualité de vie, fondée sur trois sécurités : sociale, environnementale et géopolitique",
+    "Le respect de l'État de droit, la lutte contre la corruption et une refonte des institutions vers une « République écologique et citoyenne »",
+    "La justice sociale et fiscale, avec une contribution accrue des ménages les plus aisés et des grandes entreprises",
+    "Une Europe fédérale et une diplomatie fondée sur le droit international",
+    "Une économie mixte associant services publics, communs et marchés encadrés, orientée vers l'économie circulaire"
+  ],
+  "main_axes_source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=5",
+  "website": "https://marinetondelier.fr",
+  "news_url": "https://marinetondelier.fr/journal-de-campagne",
+  "socials": [
+    {
+      "platform": "X",
+      "url": "https://x.com/marinetondelier"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/marinetondelier"
+    },
+    {
+      "platform": "Bluesky",
+      "url": "https://bsky.app/profile/marinetondelier.fr"
+    }
+  ],
+  "program": {
+    "title": "Pour une prospérité écologique – Le nouveau programme des Écologistes",
+    "main_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+    "format": "pdf",
+    "published_date": null,
+    "status": "publie",
+    "note": "Programme du parti Les Écologistes (557 mesures, 209 pages), daté de « juillet 2026 » sur sa couverture. Le site de campagne marinetondelier.fr le présente comme le programme de la candidate, complété par des livrets thématiques de campagne. Le maintien de la candidature dépend du référendum interne des adhérents du 10 au 13 décembre 2026.",
+    "thematic_links": [
+      {
+        "theme": "famille",
+        "title": "Livret « Pour un pays à hauteur d'enfants » (septembre 2026)",
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "sante",
+        "title": "Livret « Santé environnementale »",
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "sante",
+        "title": "Livret « Prendre soin de notre santé reproductive »",
+        "url": "https://marinetondelier.fr/s/Livret-sante-reproductive.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "famille",
+        "title": "Livret « Solitude »",
+        "url": "https://marinetondelier.fr/s/Livret-solitude.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "ecologie",
+        "title": "Livret « Des littoraux à vivre, à protéger et à transmettre »",
+        "url": "https://marinetondelier.fr/s/Livret-littoraux.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "services_publics",
+        "title": "Livret « Pour une montagne vivante, accueillante et résiliente »",
+        "url": "https://marinetondelier.fr/s/Livret-montagne.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "energie",
+        "title": "Programme – chapitre 1 « Gagner la bataille du climat »",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=15",
+        "format": "pdf",
+        "page_range": "p. 15-18"
+      },
+      {
+        "theme": "fiscalite",
+        "title": "Programme – chapitre 17 « Refonder le pacte fiscal »",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=65",
+        "format": "pdf",
+        "page_range": "p. 65-68"
+      },
+      {
+        "theme": "institutions",
+        "title": "Programme – partie VII « Défendre l'État de droit »",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=159",
+        "format": "pdf",
+        "page_range": "p. 159-187"
+      },
+      {
+        "theme": "europe",
+        "title": "Programme – partie VIII « Une Europe démocratique dans un monde en paix »",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=189",
+        "format": "pdf",
+        "page_range": "p. 189-208"
+      }
+    ],
+    "archive_url": null
+  },
+  "sources": [
+    {
+      "label": "Wikipédia – Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    },
+    {
+      "label": "Wikipédia – Les Écologistes",
+      "url": "https://fr.wikipedia.org/wiki/Les_%C3%89cologistes"
+    },
+    {
+      "label": "Wikipédia – Primaire de la gauche unitaire de 2026",
+      "url": "https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026"
+    },
+    {
+      "label": "Site de campagne de Marine Tondelier",
+      "url": "https://marinetondelier.fr"
+    },
+    {
+      "label": "Les Écologistes – Projet 2027 (présentation du programme)",
+      "url": "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027"
+    },
+    {
+      "label": "franceinfo (22/10/2025) – Marine Tondelier se déclare candidate",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/la-patronne-des-ecologistes-marine-tondelier-se-declare-candidate-a-l-election-presidentielle-de-2027_7568824.html"
+    },
+    {
+      "label": "LCP (21/09/2026) – Pas de choix définitif des Écologistes avant la mi-décembre",
+      "url": "https://lcp.fr/actualites/candidature-a-la-presidentielle-pas-de-choix-definitif-des-ecologistes-avant-la-mi"
+    },
+    {
+      "label": "Public Sénat (21/09/2026) – Les Écologistes reportent l'heure du choix à décembre",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice"
+    },
+    {
+      "label": "Les Écologistes (17/09/2026) – Pour un pays à hauteur d'enfants",
+      "url": "https://lesecologistes.fr/posts/78KU8DBF54s0dLt0K4oq5f/pour-un-pays-a-hauteur-d-enfants-nos-propositions-pour-l-enfance"
+    },
+    {
+      "label": "Wikimedia Commons – Huma2023MarineTondelier (cropped).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Huma2023MarineTondelier_(cropped).jpg"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}
