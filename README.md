@@ -14,6 +14,12 @@ npm run check-links    # teste toutes les URLs → link-report.md + src/data/lin
 npm run merge-research # fusionne research/candidates/*.json dans src/data/candidates.json
 ```
 
+### Version web et téléphone (GitHub Pages)
+
+Site publié : https://coucou123212321232123.github.io/presidentielle-2027-comparateur/
+
+Le workflow `.github/workflows/pages.yml` reconstruit et publie le site à chaque push sur `main` (dont les mises à jour hebdomadaires des données), via `npm run build:pages`. L'application est installable sur téléphone (manifeste + service worker `public/sw.js`) : iPhone → Safari → Partager → « Sur l'écran d'accueil » ; Android → Chrome → ⋮ → « Installer l'application ». Elle fonctionne hors ligne après une première visite.
+
 ### Application Windows (Electron)
 
 ```bash
