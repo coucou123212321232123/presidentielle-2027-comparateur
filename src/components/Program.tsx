@@ -110,12 +110,12 @@ export function ProgramBlock({ candidate }: { candidate: Candidate }) {
         {p.thematic_links.length > 0 && (
           <div className="mt-5">
             <h3 className="mb-2 text-sm font-semibold text-ink">Livrets et pages thématiques</h3>
-            <ul className="grid gap-2 sm:grid-cols-2">
+            <ul className="grid grid-cols-1 gap-2 sm:grid-cols-2">
               {p.thematic_links.map((l) => (
-                <li key={l.url + l.theme}>
+                <li key={l.url + l.theme} className="min-w-0">
                   <ExternalLink href={l.url} className="w-full rounded-lg border border-line px-3 py-2 text-sm text-ink-2 transition-colors hover:border-ink-2/40 hover:text-ink">
                     <FormatIcon format={l.format} className="size-3.5 shrink-0" />
-                    <span className="min-w-0 flex-1 truncate">
+                    <span className="line-clamp-2 min-w-0 flex-1 break-words">
                       <span className="font-medium text-ink">{themeById[l.theme]?.short}</span> · {l.title}
                       {l.page_range && ` (${l.page_range})`}
                     </span>

@@ -15,14 +15,14 @@ export function MeasureCard({ measure, accent, compact = false }: { measure: Mea
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -4 }}
       transition={{ duration: 0.25, ease: 'easeOut' }}
-      className={cx('relative rounded-xl border border-line bg-surface', compact ? 'p-3.5' : 'p-4')}
+      className={cx('relative min-w-0 rounded-xl border border-line bg-surface', compact ? 'p-3.5' : 'p-4')}
     >
       {accent && <span className="absolute inset-y-3 left-0 w-[3px] rounded-r-full" style={{ backgroundColor: accent }} aria-hidden="true" />}
       <div className="mb-2 flex flex-wrap items-center gap-1.5">
         <SourceTypeBadge type={measure.source_type} />
         <PrecisionBadge precision={measure.precision} />
       </div>
-      <h4 className="text-[15px] font-semibold leading-snug text-ink">{measure.title}</h4>
+      <h4 className="break-words text-[15px] font-semibold leading-snug text-ink">{measure.title}</h4>
       <p className="mt-1.5 text-sm leading-relaxed text-ink-2">{measure.description}</p>
 
       {measure.cost && (
@@ -46,7 +46,7 @@ export function MeasureCard({ measure, accent, compact = false }: { measure: Mea
         <ExternalLink href={measure.source_url} className="font-medium text-accent hover:underline">
           Source{measure.source_page ? ` (${measure.source_page})` : ''}
         </ExternalLink>
-        <span className="truncate" title={measure.source_title}>
+        <span className="line-clamp-2 min-w-0 max-w-full break-words" title={measure.source_title}>
           {measure.source_title}
           {measure.source_date && ` · ${formatShortDate(measure.source_date)}`}
         </span>
