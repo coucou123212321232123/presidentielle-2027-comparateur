@@ -28,13 +28,15 @@ function PageSkeleton() {
 
 // Ouverte comme fichier local (application de bureau), l'app utilise un routage par ancre (#/comparateur).
 const Router = window.location.protocol === 'file:' ? HashRouter : BrowserRouter
+// Sous-dossier de publication (ex. /presidentielle-2027-comparateur sur GitHub Pages) ; vide en local.
+const basename = window.location.protocol === 'file:' ? undefined : import.meta.env.BASE_URL.replace(/\/$/, '') || undefined
 
 const lazyPage = (node: ReactNode) => <Suspense fallback={<PageSkeleton />}>{node}</Suspense>
 
 export function App() {
   return (
     <MotionConfig reducedMotion="user">
-      <Router>
+      <Router basename={basename}>
         <Routes>
           <Route element={<Layout />}>
             <Route index element={<HomePage />} />
