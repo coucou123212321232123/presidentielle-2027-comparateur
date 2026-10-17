@@ -150,8 +150,13 @@ export function HomePage() {
           ))}
         </motion.div>
       ) : (
-        candidates.length > 0 && (
-          <EmptyState icon={<UserX className="size-8" />} title="Aucun candidat ne correspond à ces critères">
+        // Une recherche qui ne vise aucun candidat mais trouve des mesures affiche directement ces mesures.
+        candidates.length > 0 &&
+        measureHits.length === 0 && (
+          <EmptyState
+            icon={<UserX className="size-8" />}
+            title={q ? `Aucun candidat ni aucune mesure ne correspond à « ${query.trim()} »` : 'Aucun candidat ne correspond à ces critères'}
+          >
             Modifiez la recherche ou retirez des filtres.
           </EmptyState>
         )
@@ -159,7 +164,7 @@ export function HomePage() {
 
       <AnimatePresence>
         {measureHits.length > 0 && (
-          <motion.section initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="mt-12" aria-live="polite">
+          <motion.section initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className={filtered.length ? 'mt-12' : 'mt-2'} aria-live="polite">
             <h2 className="mb-4 font-display text-2xl font-semibold text-ink">
               {plural(measureHits.length, 'mesure correspond', 'mesures correspondent')} à « {query} »
             </h2>
