@@ -1,0 +1,57 @@
+[
+  {
+    "measure_id": "zemmour-economie-02",
+    "decision": "rejetee",
+    "motif": "Modification rejetée : budget2027.fr (page et infographie téléchargeable vérifiées) présente ces mesures uniquement comme « le plan de Sarah Knafo » (© Sarah Knafo, lien vers son livre et son site) sans les présenter comme le programme ou la campagne d'Éric Zemmour ou de Reconquête : attribution non établie (critère 2). Version HEAD (tract Reconquête, 80 Md€) restaurée."
+  },
+  {
+    "measure_id": "zemmour-emploi-01",
+    "decision": "rejetee",
+    "motif": "budget2027.fr (page et infographie téléchargeable vérifiées) présente ces mesures uniquement comme « le plan de Sarah Knafo » (© Sarah Knafo, lien vers son livre et son site) sans les présenter comme le programme ou la campagne d'Éric Zemmour ou de Reconquête : attribution non établie (critère 2)."
+  },
+  {
+    "measure_id": "zemmour-services_publics-03",
+    "decision": "rejetee",
+    "motif": "budget2027.fr (page et infographie téléchargeable vérifiées) présente ces mesures uniquement comme « le plan de Sarah Knafo » (© Sarah Knafo, lien vers son livre et son site) sans les présenter comme le programme ou la campagne d'Éric Zemmour ou de Reconquête : attribution non établie (critère 2)."
+  },
+  {
+    "measure_id": "zemmour-immigration-05",
+    "decision": "rejetee",
+    "motif": "budget2027.fr (page et infographie téléchargeable vérifiées) présente ces mesures uniquement comme « le plan de Sarah Knafo » (© Sarah Knafo, lien vers son livre et son site) sans les présenter comme le programme ou la campagne d'Éric Zemmour ou de Reconquête : attribution non établie (critère 2)."
+  },
+  {
+    "measure_id": "zemmour-immigration-06",
+    "decision": "rejetee",
+    "motif": "budget2027.fr (page et infographie téléchargeable vérifiées) présente ces mesures uniquement comme « le plan de Sarah Knafo » (© Sarah Knafo, lien vers son livre et son site) sans les présenter comme le programme ou la campagne d'Éric Zemmour ou de Reconquête : attribution non établie (critère 2)."
+  },
+  {
+    "measure_id": "zemmour-europe-02",
+    "decision": "rejetee",
+    "motif": "budget2027.fr (page et infographie téléchargeable vérifiées) présente ces mesures uniquement comme « le plan de Sarah Knafo » (© Sarah Knafo, lien vers son livre et son site) sans les présenter comme le programme ou la campagne d'Éric Zemmour ou de Reconquête : attribution non établie (critère 2)."
+  },
+  {
+    "measure_id": "zemmour-culture-02",
+    "decision": "rejetee",
+    "motif": "budget2027.fr (page et infographie téléchargeable vérifiées) présente ces mesures uniquement comme « le plan de Sarah Knafo » (© Sarah Knafo, lien vers son livre et son site) sans les présenter comme le programme ou la campagne d'Éric Zemmour ou de Reconquête : attribution non établie (critère 2). (Les subventions presse/syndicats/associations figurent déjà dans la mesure economie-02 issue du tract Reconquête.)"
+  },
+  {
+    "measure_id": "zemmour-education-05",
+    "decision": "acceptee",
+    "motif": "Vidéo de la chaîne officielle @EricZemmourOff publiée le 14/10/2026 (oEmbed et métadonnées vérifiés) : rupture des accords Lang-Cloupet, privé limité selon lui à 20 %, « se développer librement » : conforme."
+  },
+  {
+    "measure_id": "zemmour-energie-03",
+    "decision": "rejetee",
+    "motif": "combienjegagne.fr est le site de Sarah Knafo (© Sarah Knafo, « Le mot de Sarah Knafo », « plan d'économie de Sarah Knafo ») ; aucun lien avec Reconquête vérifiable et la mesure n'y est pas présentée comme le programme d'Éric Zemmour ou de Reconquête (simple mention comparative « avec Sarah Knafo et Éric Zemmour »). Doute → rejet. La suppression des CEE reste couverte par la pétition Reconquête (ecologie-01)."
+  },
+  {
+    "measure_id": "zemmour-ecologie-01",
+    "decision": "acceptee",
+    "motif": "Pétition stop-hausse-carburant.fr opérée par Reconquête! (mentions RGPD) : abrogation du SEQE 2 avant 2028, baisse de l'accise, suppression des CEE : conforme."
+  },
+  {
+    "measure_id": "program",
+    "decision": "corrigee",
+    "motif": "Statut « partiel » avec le tract de priorités Reconquête d'octobre 2026 conforme à la règle 2 ; dates des tracts vérifiées (métadonnées PDF) ; citation « matière première du programme de 2027 » trouvée sur leprogrammepourlafrance.fr. Lien thématique combienjegagne.fr retiré (site personnel de Sarah Knafo, attribution non établie)."
+  }
+]

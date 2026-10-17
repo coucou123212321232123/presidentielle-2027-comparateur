@@ -1,0 +1,387 @@
+[
+  {
+    "measure_id": "melenchon-economie-01",
+    "decision": "acceptee",
+    "motif": "Acceptée (modification) : « hausse du SMIC à 1 700 euros net » p. 9 du document budgétaire publié sur melenchon2027.fr (octobre 2026), conférence salariale et indexation confirmées ; 1 600 € de l'édition 2025 confirmé p. 66. Indicateur littéral."
+  },
+  {
+    "measure_id": "melenchon-economie-05",
+    "decision": "corrigee",
+    "motif": "Corrigée : le document emploie le conditionnel (« pourrait investir ») et le « livret B » est seulement « envisagé » ; liste des institutions et pages (p. 15-16) ajustées."
+  },
+  {
+    "measure_id": "melenchon-economie-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-economie-07",
+    "decision": "corrigee",
+    "motif": "Corrigée : 2 millions de véhicules confirmé p. 10, mais 10 000 €, 85 % de contenu européen et moratoire sont p. 11-17 ; page portée à p. 10-17."
+  },
+  {
+    "measure_id": "melenchon-fiscalite-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : « au même barème » n'est pas dans la source ; reprise de la formule du programme (« imposer les revenus du capital comme ceux du travail »). 9 Md€ confirmés p. 13."
+  },
+  {
+    "measure_id": "melenchon-fiscalite-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-fiscalite-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-fiscalite-07",
+    "decision": "corrigee",
+    "motif": "Corrigée : la source parle d'« exonérations de cotisations sociales » sans préciser « patronales » ; la CVAE figure p. 13 (page portée à p. 13-14)."
+  },
+  {
+    "measure_id": "melenchon-emploi-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-emploi-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-emploi-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-emploi-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-retraites-03",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-retraites-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-retraites-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-energie-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-energie-05",
+    "decision": "corrigee",
+    "motif": "Corrigée : la première tranche gratuite est p. 57, mais les tarifs réglementés calculés sur les coûts de production figurent p. 97 (PDF 49) ; page complétée."
+  },
+  {
+    "measure_id": "melenchon-energie-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-energie-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-ecologie-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : l'objectif de 25 % de forêt en libre évolution figure p. 106 (PDF 54), page complétée."
+  },
+  {
+    "measure_id": "melenchon-ecologie-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-ecologie-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-ecologie-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-agriculture-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-agriculture-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-agriculture-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-agriculture-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-logement-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-logement-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-logement-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-logement-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-sante-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-sante-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-sante-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-sante-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-education-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : la source parle de « 10 000 postes » à tous les niveaux de la scolarisation, sans préciser « enseignants » ; titre ajusté."
+  },
+  {
+    "measure_id": "melenchon-education-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-education-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-education-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-securite-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-securite-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-securite-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-securite-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-immigration-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-immigration-05",
+    "decision": "corrigee",
+    "motif": "Corrigée : la source dit « sortir de l'impasse de la politique de Schengen et Frontex », pas « sortir de Schengen » ; mention du Royaume-Uni retirée (non écrite)."
+  },
+  {
+    "measure_id": "melenchon-immigration-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-institutions-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-institutions-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-institutions-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-europe-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-europe-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-europe-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-international-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-international-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-international-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-international-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-numerique-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-numerique-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-numerique-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-numerique-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-culture-03",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-culture-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-culture-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-culture-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-outre-mer-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-outre-mer-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-outre-mer-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-services-publics-03",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-services-publics-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-services-publics-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-services-publics-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-services-publics-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-famille-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : les 210 000 sont des emplois à créer « rien que pour les EHPAD », pas des recrutements généraux."
+  },
+  {
+    "measure_id": "melenchon-famille-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "melenchon-famille-06",
+    "decision": "corrigee",
+    "motif": "Corrigée : le total de 4,6 Md€ du titre est un calcul absent de la source ; titre reformulé avec les chiffres de la p. 10."
+  },
+  {
+    "measure_id": "melenchon-famille-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : extrait et contenu confirmés à la page indiquée de la source officielle (programme L'Avenir en commun 2025 ou document de campagne melenchon2027.fr) ; chiffres et conditions fidèles, pas d'indicateur ajouté."
+  },
+  {
+    "measure_id": "program.note / program.thematic_links",
+    "decision": "acceptee",
+    "motif": "Acceptée : 1 069 mesures, parution le 6 novembre et AEC « en cours de réactualisation » confirmés sur melenchon2027.fr ; plans thématiques présentés comme « documents complémentaires » ; toutes les URL ajoutées répondent 200."
+  }
+]

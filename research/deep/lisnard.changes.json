@@ -1,0 +1,403 @@
+[
+  {
+    "action": "program",
+    "measure_id": null,
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/ou-trouver-le-programme-de-david-lisnard/",
+        "page": null,
+        "excerpt": "La page « Notre programme » l’expose en trois grands axes"
+      },
+      {
+        "url": "https://www.lisnard2027.fr/",
+        "page": null,
+        "excerpt": "Le site de campagne ouvre prochainement."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-economie-04",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=7",
+        "page": "p. 7",
+        "excerpt": "Exonérer de CFE et de cotisations URSSAF toute entreprise nouvelle"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-fiscalite-03",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-baisser-les-impots/",
+        "page": null,
+        "excerpt": "son livre fixe un impôt sur les sociétés ramené à 20 %"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-fiscalite-04",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-droits-de-succession/",
+        "page": null,
+        "excerpt": "un taux marginal ramené à 20 %"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-fiscalite-05",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-defend-les-commercants-et-les-artisans/",
+        "page": null,
+        "excerpt": "en taxant les livraisons à domicile du commerce en ligne"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-emploi-03",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-que-le-travail-paie-plus-que-l-assistanat/",
+        "page": null,
+        "excerpt": "gagne au moins 500 euros de plus que celle qui ne travaille pas"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-emploi-04",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reformer-l-assurance-chomage/",
+        "page": null,
+        "excerpt": "favorable à la dégressivité des allocations chômage"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-emploi-05",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "page": null,
+        "excerpt": "charges patronales négatives pour les embauches de personnes au RSA"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-energie-03",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-faire-baisser-le-prix-du-carburant/",
+        "page": null,
+        "excerpt": "suspendre pendant six mois l’obligation des certificats d’économies d’énergie"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-ecologie-02",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-zones-a-faibles-emissions-zfe/",
+        "page": null,
+        "excerpt": "supprimer les zones à faibles émissions par une loi dès son arrivée"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-ecologie-03",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+        "page": null,
+        "excerpt": "se faire à taxation totale constante"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-ecologie-04",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=8",
+        "page": "p. 8",
+        "excerpt": "présomption d’utilité des ouvrages existants à rôle hydraulique avéré"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-agriculture-04",
+    "evidence": [
+      {
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf#page=9",
+        "page": "p. 9",
+        "excerpt": "Créer un statut unique d’entreprise rurale agricole intégrée"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-agriculture-05",
+    "evidence": [
+      {
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf#page=8",
+        "page": "p. 8",
+        "excerpt": "Rendre possible une filière française d’engrais azotés décarbonés"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-agriculture-06",
+    "evidence": [
+      {
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "Appliquer unilatéralement des clauses de sauvegarde si nécessaire"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-logement-03",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=7",
+        "page": "p. 7",
+        "excerpt": "Supprimer l’interdiction de location des passoires thermiques"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-logement-04",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=7",
+        "page": "p. 7",
+        "excerpt": "Transformer l’avis conforme en avis simple"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-sante-04",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-veut-il-supprimer-la-securite-sociale/",
+        "page": null,
+        "excerpt": "mettre la Sécurité sociale en concurrence sur le modèle des Pays-Bas"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-sante-05",
+    "evidence": [
+      {
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf#page=8",
+        "page": "p. 8",
+        "excerpt": "Permettre le libre accès du patient à tout professionnel compétent"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-sante-06",
+    "evidence": [
+      {
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "Instaurer une loi pluriannuelle de santé"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-education-04",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "page": null,
+        "excerpt": "Des classes d’excellence en mathématiques et en sciences seront créées"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-education-05",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "page": null,
+        "excerpt": "Un corps unique d’enseignants contractuels, recrutés sur concours national"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-education-06",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=9",
+        "page": "p. 9",
+        "excerpt": "Supprimer Parcoursup et le remplacer par un système d’affectation"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-securite-05",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-que-les-peines-soient-reellement-executees/",
+        "page": null,
+        "excerpt": "propose d’instaurer la perpétuité réelle"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-securite-06",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-retablir-la-responsabilite-des-magistrats/",
+        "page": null,
+        "excerpt": "annonce dans le même discours vouloir interdire le Syndicat de la magistrature"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-immigration-05",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+        "page": null,
+        "excerpt": "Expulser systématiquement les étrangers condamnés pour délits graves"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-immigration-06",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+        "page": null,
+        "excerpt": "Sortir de la CEDH en dernier recours"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-institutions-04",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+        "page": null,
+        "excerpt": "La loi doit donc être limitée à l’édiction des principes fondamentaux"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-europe-03",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+        "page": null,
+        "excerpt": "La négociation d’un Traité de démocratisation de l’Europe"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-international-02",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-renforcer-l-armee/",
+        "page": null,
+        "excerpt": "plaide pour un système de combat aérien souverain bâti sur le Rafale"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-international-03",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/quelle-est-la-position-de-david-lisnard-sur-la-guerre-en-ukraine/",
+        "page": null,
+        "excerpt": "demande de produire et de livrer des armes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-culture-02",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-veut-il-privatiser-les-services-publics/",
+        "page": null,
+        "excerpt": "Il assume des privatisations ciblées, comme France 2"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-outre_mer-02",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+        "page": null,
+        "excerpt": "task forces dédiées en outre-mer"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-services_publics-04",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=16",
+        "page": "p. 16",
+        "excerpt": "Suppression des 1 600 exceptions actuelles au SVA"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-services_publics-05",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reformer-le-statut-de-la-fonction-publique/",
+        "page": null,
+        "excerpt": "aligner progressivement ce statut sur les contrats de droit privé"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "lisnard-services_publics-06",
+    "evidence": [
+      {
+        "url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=24",
+        "page": "p. 24",
+        "excerpt": "Instauration d’un spoil system"
+      }
+    ]
+  }
+]

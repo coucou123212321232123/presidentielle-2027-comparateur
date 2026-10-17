@@ -7,10 +7,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=55",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 55",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-economie-02",
@@ -20,10 +20,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=119",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 119",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-economie-03",
@@ -33,10 +33,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=64",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 64",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-economie-04",
+    "theme": "economie",
+    "title": "Un panier alimentaire vendu à prix coûtant par les grands distributeurs",
+    "description": "Le dossier « bouclier social » de la campagne propose de garantir l'accès à un panier de produits alimentaires sains et diversifiés vendus sans marge par les grands distributeurs.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – Dossier de presse « Alléger les factures des Français·es : notre bouclier social et environnemental » (septembre 2026)",
+    "source_url": "https://marinetondelier.fr/s/dp-bouclier-social-pour-envoi.pdf#page=5",
+    "source_date": "2026-09",
+    "source_page": "p. 5",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-economie-05",
+    "theme": "economie",
+    "title": "Limiter l'écart de rémunération à 1 à 20 dans les entreprises",
+    "description": "Le programme vise un écart maximal de 1 à 20 entre la rémunération des dirigeants et le salaire médian de l'entreprise, en conditionnant les aides publiques à cet objectif.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=55",
+    "source_date": "2026-07",
+    "source_page": "p. 55",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-economie-06",
+    "theme": "economie",
+    "title": "Un fonds souverain financé par un « livret industrie »",
+    "description": "Créer un fonds souverain alimenté par un « livret industrie » rémunéré au taux du livret A, ciblé sur les entreprises françaises produisant l'essentiel de leur valeur ajoutée en Europe et conditionné à des critères environnementaux et sociaux.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=77",
+    "source_date": "2026-07",
+    "source_page": "p. 77",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-fiscalite-01",
@@ -46,14 +85,14 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=66",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 66",
     "precision": "chiffre",
     "indicator": {
       "key": "isf",
       "value": "retablissement"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-fiscalite-02",
@@ -63,10 +102,67 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=68",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 68",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-fiscalite-03",
+    "theme": "fiscalite",
+    "title": "Taxe supplémentaire de 10 % sur les héritages de plus de 4 M€",
+    "description": "Les Écologistes proposent une « contribution pour les générations futures » de 10 % sur les héritages au-delà de 4 millions d'euros et de 10 % supplémentaires au-delà de 13 millions, la réduction du pacte Dutreil et la taxation des plus-values latentes pour ces héritages.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – Dossier de presse « Budget 2027 : la grande transmission doit financer la grande transition » (26 août 2026)",
+    "source_url": "https://marinetondelier.fr/s/dossierpresse-budget2027.pdf#page=6",
+    "source_date": "2026-08-26",
+    "source_page": "p. 6",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 15 Md€ de recettes par an en régime de croisière",
+      "source_label": "Chiffrage des Écologistes (dossier Budget 2027)",
+      "source_url": "https://marinetondelier.fr/s/dossierpresse-budget2027.pdf#page=6"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-fiscalite-04",
+    "theme": "fiscalite",
+    "title": "Impôt minimal sur les grandes entreprises et taxe numérique portée à 5 %",
+    "description": "Le programme prévoit un impôt minimal sur les bénéfices des sociétés réalisant plus d'un milliard d'euros de chiffre d'affaires, au prorata de l'activité en France, et le relèvement de la taxe sur les services numériques de 3 à 5 %.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=66",
+    "source_date": "2026-07",
+    "source_page": "p. 66",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-fiscalite-05",
+    "theme": "fiscalite",
+    "title": "Une TVA « verte » modulée selon l'impact environnemental",
+    "description": "Adopter une TVA différenciée : taux réduits pour les biens de première nécessité et les produits respectueux de l'environnement, taux relevés pour les produits de luxe ou nocifs (ultra-transformés, vols domestiques…).",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=67",
+    "source_date": "2026-07",
+    "source_page": "p. 67",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-fiscalite-06",
+    "theme": "fiscalite",
+    "title": "Taxe sur les transactions financières portée à 0,7 %",
+    "description": "Taxer davantage le capital : taxe sur les transactions financières relevée à 0,7 %, CSG sur les revenus du capital et prélèvement forfaitaire unique augmentés de 3 points chacun.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=68",
+    "source_date": "2026-07",
+    "source_page": "p. 68",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-emploi-01",
@@ -76,10 +172,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=57",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 57",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-emploi-02",
@@ -89,10 +185,62 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=57",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 57",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-emploi-03",
+    "theme": "emploi",
+    "title": "Créer un congé climatique de 5 jours par an",
+    "description": "Le programme propose un congé climatique de cinq jours par an pour protéger les salariés face aux températures extrêmes ou aux catastrophes climatiques, financé à parité par les employeurs et la Sécurité sociale.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=57",
+    "source_date": "2026-07",
+    "source_page": "p. 57",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-emploi-04",
+    "theme": "emploi",
+    "title": "Abroger des dispositions de la loi El Khomri et des ordonnances Macron",
+    "description": "Rétablir le principe de faveur (primauté de la loi sur la convention collective), relever les minima conventionnels au moins au niveau du salaire minimum et abroger les dispositions jugées régressives des lois travail.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=57",
+    "source_date": "2026-07",
+    "source_page": "p. 57",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-emploi-05",
+    "theme": "emploi",
+    "title": "Des salariés dans les conseils d'administration, jusqu'à la moitié des sièges",
+    "description": "Attribuer des postes de droit aux salariés dans les conseils d'administration ou de surveillance : 2 sièges au-delà de 250 salariés, un tiers au-delà de 1 000 et la moitié au-delà de 5 000.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=60",
+    "source_date": "2026-07",
+    "source_page": "p. 60",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-emploi-06",
+    "theme": "emploi",
+    "title": "Viser zéro mort au travail en 2032",
+    "description": "Adopter un plan « santé au travail » visant zéro mort au travail en 2032, avec 200 postes supplémentaires d'inspecteurs du travail et l'inscription du burn-out au tableau des maladies professionnelles.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=57",
+    "source_date": "2026-07",
+    "source_page": "p. 57",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-retraites-01",
@@ -102,14 +250,14 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=116",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 116",
     "precision": "chiffre",
     "indicator": {
       "key": "age_legal",
       "value": 62
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-retraites-02",
@@ -119,10 +267,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=117",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 117",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-retraites-03",
+    "theme": "retraites",
+    "title": "Financer les retraites par une hausse des cotisations",
+    "description": "Augmenter les ressources de la branche vieillesse : cotisations étendues à l'épargne salariale et à l'intéressement, +1 point de cotisation déplafonnée au-dessus du plafond de la Sécurité sociale et +0,2 point par an pendant le quinquennat.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=117",
+    "source_date": "2026-07",
+    "source_page": "p. 117",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-retraites-04",
+    "theme": "retraites",
+    "title": "Porter le minimum contributif et l'ASPA vers le seuil de pauvreté",
+    "description": "Augmenter le minimum contributif et l'allocation de solidarité aux personnes âgées pour atteindre progressivement le seuil de pauvreté, et améliorer les pensions agricoles.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=117",
+    "source_date": "2026-07",
+    "source_page": "p. 117",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-retraites-05",
+    "theme": "retraites",
+    "title": "Refuser la capitalisation et la retraite à points",
+    "description": "Convoquer une conférence travail-retraite visant l'équilibre du régime général en 2050 et refuser toute évolution vers la capitalisation, en particulier la retraite à points.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=117",
+    "source_date": "2026-07",
+    "source_page": "p. 117",
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-energie-01",
@@ -132,14 +319,14 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=17",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 17",
     "precision": "chiffre",
     "indicator": {
       "key": "nucleaire",
       "value": "sortie"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-energie-02",
@@ -149,10 +336,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=16",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 16",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-energie-03",
@@ -162,10 +349,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=16",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 16",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-energie-04",
+    "theme": "energie",
+    "title": "Moratoire sur le projet CIGEO et retour sur la fusion IRSN-ASN",
+    "description": "Revenir sur la fusion de l'IRSN et de l'ASN, adopter un moratoire sur le projet de stockage de déchets CIGEO et mettre fin à la sous-traitance dans les centrales.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=17",
+    "source_date": "2026-07",
+    "source_page": "p. 17",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-energie-05",
+    "theme": "energie",
+    "title": "Soutenir 10 000 communautés énergétiques citoyennes",
+    "description": "Soutenir le déploiement de 10 000 communautés énergétiques renouvelables portées par des citoyens ou des collectivités, avec un cadre juridique et financier facilitant l'autoconsommation partagée.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=17",
+    "source_date": "2026-07",
+    "source_page": "p. 17",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-energie-06",
+    "theme": "energie",
+    "title": "Remplacer le chèque énergie et interdire les coupures d'électricité",
+    "description": "Remplacer les chèques énergie par un crédit d'impôt versé automatiquement aux personnes en précarité et remplacer les coupures d'électricité pour impayés par une réduction de puissance.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=119",
+    "source_date": "2026-07",
+    "source_page": "p. 119",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-ecologie-01",
@@ -175,10 +401,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=29",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 29",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-ecologie-02",
@@ -188,10 +414,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=107",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 107",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-ecologie-03",
@@ -201,10 +427,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=27",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 27",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-ecologie-04",
+    "theme": "ecologie",
+    "title": "Leasing social d'un million de voitures électriques",
+    "description": "Créer une offre de location sociale d'un million de véhicules électriques sur le quinquennat, en favorisant les véhicules européens, et maintenir l'objectif de 100 % de ventes de véhicules neufs zéro émission en 2035.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=23",
+    "source_date": "2026-07",
+    "source_page": "p. 23",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-ecologie-05",
+    "theme": "ecologie",
+    "title": "Interdire les vols intra-européens remplaçables par moins de 4 h 30 de train",
+    "description": "Réduire le trafic aérien : suspendre les extensions d'aéroports, interdire les vols intra-européens quand une alternative ferroviaire de moins de 4 h 30 existe et interdire l'atterrissage des jets privés en France puis en Europe.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=25",
+    "source_date": "2026-07",
+    "source_page": "p. 25",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-ecologie-06",
+    "theme": "ecologie",
+    "title": "Moratoire sur l'A69, le Lyon-Turin et le canal Seine-Nord",
+    "description": "Adopter un moratoire sur les grands projets jugés inutiles (canal Seine-Nord Europe, autoroute A69, TGV Lyon-Turin, extensions d'aéroport) et sur la création de nouvelles capacités routières.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=24",
+    "source_date": "2026-07",
+    "source_page": "p. 24",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-agriculture-01",
@@ -214,10 +479,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=48",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 48",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-agriculture-02",
@@ -227,10 +492,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=49",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 49",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-agriculture-03",
@@ -240,10 +505,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=49",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 49-50",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-agriculture-04",
@@ -253,10 +518,36 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=45",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 45",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-agriculture-05",
+    "theme": "agriculture",
+    "title": "Interdire les « nouveaux OGM » (NGT) en Europe",
+    "description": "Au niveau européen, interdire les nouvelles techniques génomiques, refuser le brevetage du vivant et autoriser la vente de semences anciennes.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=50",
+    "source_date": "2026-07",
+    "source_page": "p. 50",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-agriculture-06",
+    "theme": "agriculture",
+    "title": "100 % de bio dans la restauration collective d'ici 2040",
+    "description": "Atteindre 100 % de produits bio dans la restauration collective d'ici 2040 et 50 % de produits bio, locaux et végétaux dans la restauration commerciale en 2032 ; viser une baisse de 50 % de la consommation de protéines animales en 2050.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=46",
+    "source_date": "2026-07",
+    "source_page": "p. 46",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-logement-01",
@@ -266,10 +557,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=20",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 20",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-logement-02",
@@ -279,10 +570,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=21",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 21",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-logement-03",
@@ -292,10 +583,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=20",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 20",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-logement-04",
+    "theme": "logement",
+    "title": "Porter l'objectif SRU à 30 % de logements sociaux dans les zones tendues",
+    "description": "Renforcer les sanctions contre les communes ne respectant pas la loi SRU et fixer un objectif de 30 % de logements sociaux d'ici 2035 dans les communes aux marchés immobiliers les plus tendus.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=20",
+    "source_date": "2026-07",
+    "source_page": "p. 20",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-logement-05",
+    "theme": "logement",
+    "title": "En finir avec les chauffages au fioul en 2032",
+    "description": "Supprimer les chauffages au fioul en 2032, changer le système de chauffage de 300 000 ménages par an et accompagner le remplacement des chaudières à gaz pour 25 % des ménages en 2032.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=21",
+    "source_date": "2026-07",
+    "source_page": "p. 21",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-logement-06",
+    "theme": "logement",
+    "title": "Revaloriser les APL de 10 %",
+    "description": "Revaloriser les aides personnelles au logement de 10 % avec un mécanisme empêchant leur répercussion sur les loyers, et les ouvrir aux résidents mobiles.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=119",
+    "source_date": "2026-07",
+    "source_page": "p. 119",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-sante-01",
@@ -305,10 +635,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=114",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 114",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-sante-02",
@@ -318,10 +648,62 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=151",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 151",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-sante-03",
+    "theme": "sante",
+    "title": "Remboursement à 100 % des soins essentiels et suppression des franchises",
+    "description": "Garantir la prise en charge à 100 % par l'Assurance maladie des soins essentiels, supprimer les franchises médicales et concentrer les mutuelles sur les soins optionnels.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=111",
+    "source_date": "2026-07",
+    "source_page": "p. 111",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-sante-04",
+    "theme": "sante",
+    "title": "Limiter les dépassements d'honoraires à 50 % du tarif",
+    "description": "Limiter les dépassements d'honoraires des spécialistes à 50 % du tarif de la Sécurité sociale et les interdire pour la moitié des ménages les moins aisés, en revalorisant certaines spécialités.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=111",
+    "source_date": "2026-07",
+    "source_page": "p. 111",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-sante-05",
+    "theme": "sante",
+    "title": "Interdire la vente de tabac aux personnes nées à partir de 2014",
+    "description": "Interdire la vente de tabac à toute personne née en 2014 et après, sur le modèle britannique, et interdire la publicité pour l'alcool.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=111",
+    "source_date": "2026-07",
+    "source_page": "p. 111",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-sante-06",
+    "theme": "sante",
+    "title": "Recruter 7 500 infirmiers scolaires",
+    "description": "Plan d'urgence pour la santé scolaire et universitaire : pourvoir les 800 postes de médecins et 1 000 postes de psychologues vacants, recruter 7 500 infirmiers scolaires et créer un centre de santé dans chaque université.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=112",
+    "source_date": "2026-07",
+    "source_page": "p. 112",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-education-01",
@@ -331,10 +713,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=90",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 90",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-education-02",
@@ -344,10 +726,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=90",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 90",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-education-03",
@@ -357,10 +739,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=92",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 92",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-education-04",
+    "theme": "education",
+    "title": "Remplacer Parcoursup et MonMaster",
+    "description": "Remplacer Parcoursup et MonMaster par une plateforme d'orientation sans lettres de motivation ni mention du lycée d'origine, avec publication des algorithmes et quotas de boursiers.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=93",
+    "source_date": "2026-07",
+    "source_page": "p. 93",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-education-05",
+    "theme": "education",
+    "title": "Rétablir le bac professionnel en 4 ans",
+    "description": "Rétablir le baccalauréat professionnel en quatre ans, abroger la réforme de la voie professionnelle et porter l'EPS à 4 heures au collège et 3 heures au lycée.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=91",
+    "source_date": "2026-07",
+    "source_page": "p. 91",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-education-06",
+    "theme": "education",
+    "title": "2 Md€ par an pour faire des écoles des « refuges climatiques »",
+    "description": "Le dossier de rentrée propose un investissement de l'État de 2 milliards d'euros par an dès 2027 pour isoler et adapter le bâti scolaire, chaque euro de l'État devant déclencher un euro des collectivités.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – Dossier de presse « Éducation nationale : état d'urgence pédagogique, état d'urgence écologique » (31 août 2026)",
+    "source_url": "https://marinetondelier.fr/s/dossierpresse-rentree.pdf#page=12",
+    "source_date": "2026-08-31",
+    "source_page": "p. 12",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-securite-01",
@@ -370,10 +791,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=164",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 164",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-securite-02",
@@ -383,10 +804,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=165",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 165",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-securite-03",
@@ -396,10 +817,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=167",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 167",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-securite-04",
+    "theme": "securite",
+    "title": "Légaliser et encadrer le cannabis",
+    "description": "Légaliser et encadrer la production, la vente et la consommation de cannabis, avec une fiscalité propre, une distribution réservée à des structures à but non lucratif et une interdiction de la publicité.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=184",
+    "source_date": "2026-07",
+    "source_page": "p. 184",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-securite-05",
+    "theme": "securite",
+    "title": "Numerus clausus en prison et moratoire sur les nouvelles places",
+    "description": "Limiter l'occupation des établissements pénitentiaires à 100 % de leurs capacités par un numerus clausus et adopter un moratoire sur la construction de nouvelles places, hors remplacement des prisons insalubres.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=170",
+    "source_date": "2026-07",
+    "source_page": "p. 170",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-securite-06",
+    "theme": "securite",
+    "title": "Remplacer l'IGPN et l'IGGN par un organisme indépendant",
+    "description": "Remplacer l'IGPN et l'IGGN par un organisme indépendant rattaché au Défenseur des droits, compétent pour toutes les forces de sécurité, et interdire la reconnaissance faciale.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=165",
+    "source_date": "2026-07",
+    "source_page": "p. 165",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-immigration-01",
@@ -409,10 +869,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=178",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 178",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-immigration-02",
@@ -422,10 +882,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=178",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 178",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-immigration-03",
@@ -435,10 +895,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=179",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 179",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-immigration-04",
+    "theme": "immigration",
+    "title": "Droit au travail dès le dépôt de la demande d'asile",
+    "description": "Automatiser le droit au travail dès la délivrance de l'attestation de demande d'asile, sans délai ni autorisation, et indexer l'allocation pour demandeur d'asile sur l'inflation.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=178",
+    "source_date": "2026-07",
+    "source_page": "p. 178",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-immigration-05",
+    "theme": "immigration",
+    "title": "Garantir le droit du sol, y compris à Mayotte",
+    "description": "Garantir l'application du droit du sol pour les enfants nés en France quelle que soit la situation des parents, supprimer le régime dérogatoire de Mayotte et faciliter la naturalisation.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=178",
+    "source_date": "2026-07",
+    "source_page": "p. 178",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-immigration-06",
+    "theme": "immigration",
+    "title": "Remplacer Dublin par une répartition selon population et richesse",
+    "description": "Au niveau européen, réviser le Pacte sur la migration et l'asile pour créer des voies légales et remplacer le système de Dublin par une répartition des migrants au prorata de la population et de la richesse des pays.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=179",
+    "source_date": "2026-07",
+    "source_page": "p. 179",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-institutions-01",
@@ -448,10 +947,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=159",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 159",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-institutions-02",
@@ -461,14 +960,14 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=162",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 162",
     "precision": "precis",
     "indicator": {
       "key": "proportionnelle",
       "value": "integrale"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-institutions-03",
@@ -478,10 +977,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=161",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 161",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-institutions-04",
+    "theme": "institutions",
+    "title": "Droit de vote à 16 ans et vote des étrangers aux élections locales",
+    "description": "Ouvrir le droit de vote à 16 ans, généraliser l'inscription automatique et étendre le droit de vote aux étrangers extra-communautaires pour les élections locales après cinq ans de résidence.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=163",
+    "source_date": "2026-07",
+    "source_page": "p. 163",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-institutions-05",
+    "theme": "institutions",
+    "title": "Supprimer la Cour de justice de la République et rendre le parquet indépendant",
+    "description": "Supprimer la Cour de justice de la République, aligner le statut des magistrats du parquet sur ceux du siège et transformer le Conseil constitutionnel en Cour constitutionnelle.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=160",
+    "source_date": "2026-07",
+    "source_page": "p. 160",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-institutions-06",
+    "theme": "institutions",
+    "title": "Limiter le cumul dans le temps à trois mandats par type et reconnaître le vote blanc",
+    "description": "Limiter le cumul des mandats dans le temps à trois par type de mandat et reconnaître le vote blanc ; remplacer la déduction fiscale des dons aux partis par un bon public attribué par chaque citoyen.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=163",
+    "source_date": "2026-07",
+    "source_page": "p. 163",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-europe-01",
@@ -491,14 +1029,14 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=190",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 190",
     "precision": "precis",
     "indicator": {
       "key": "rapport_ue",
       "value": "approfondissement"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-europe-02",
@@ -508,10 +1046,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=190",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 190",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-europe-03",
+    "theme": "europe",
+    "title": "Un « Buy green and european act » dans les marchés publics",
+    "description": "Adopter une règle privilégiant entre 50 et 80 % de produits européens dans les marchés publics selon les filières, assortie de conditions environnementales strictes.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=63",
+    "source_date": "2026-07",
+    "source_page": "p. 63",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-europe-04",
+    "theme": "europe",
+    "title": "Exclure les investissements verts du calcul du déficit européen",
+    "description": "Supprimer les contraintes du Pacte de stabilité jugées austéritaires et exclure immédiatement les investissements de transition écologique du calcul du déficit autorisé.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=64",
+    "source_date": "2026-07",
+    "source_page": "p. 64",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-europe-05",
+    "theme": "europe",
+    "title": "Quintupler Erasmus",
+    "description": "Quintupler le programme Erasmus pour que la moitié des étudiants étudient ou travaillent dans un autre pays européen, et créer un diplôme européen dans trois domaines.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=94",
+    "source_date": "2026-07",
+    "source_page": "p. 94",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-international-01",
@@ -521,10 +1098,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=197",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 197",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-international-02",
@@ -534,10 +1111,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=195",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 195",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-international-03",
@@ -547,10 +1124,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=202",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 202",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-international-04",
+    "theme": "international",
+    "title": "Rejoindre le traité d'interdiction des armes nucléaires comme observateur",
+    "description": "Relancer avec le Royaume-Uni une initiative de désarmement nucléaire multilatéral, rejoindre le TIAN comme observateur sans désarmement unilatéral et envisager l'extension de la garantie nucléaire française à d'autres pays européens.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=193",
+    "source_date": "2026-07",
+    "source_page": "p. 193-194",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-international-05",
+    "theme": "international",
+    "title": "Contrôle parlementaire des exportations d'armes",
+    "description": "Créer un office de contrôle parlementaire validant les exportations d'armes hors UE et OTAN et interdire les exportations vers les pays dont les interventions violent le droit international humanitaire.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=194",
+    "source_date": "2026-07",
+    "source_page": "p. 194",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-international-06",
+    "theme": "international",
+    "title": "Aide publique à la coopération : objectif 0,7 % du PNB",
+    "description": "Transformer l'aide publique au développement en aide publique à la coopération et retrouver une trajectoire vers 0,7 % du PNB, en renforçant la part des dons.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=205",
+    "source_date": "2026-07",
+    "source_page": "p. 205",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-numerique-01",
@@ -560,10 +1176,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=80",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 80",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-numerique-02",
@@ -573,10 +1189,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=82",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 82",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-numerique-03",
+    "theme": "numerique",
+    "title": "Neutralité des algorithmes des grands réseaux sociaux",
+    "description": "Étendre le statut d'éditeur aux grandes plateformes, imposer des critères de neutralité aux algorithmes des réseaux de plus d'un million d'utilisateurs en France, désactiver les classements personnalisés en période électorale et marquer les contenus générés par IA.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=81",
+    "source_date": "2026-07",
+    "source_page": "p. 81",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-numerique-04",
+    "theme": "numerique",
+    "title": "Interdire les écrans à l'école avant six ans",
+    "description": "Recommander l'interdiction des écrans aux enfants de moins de trois ans, interdire leur usage à l'école avant six ans et interdire la publicité à destination des enfants.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=81",
+    "source_date": "2026-07",
+    "source_page": "p. 81",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-numerique-05",
+    "theme": "numerique",
+    "title": "Priorité aux logiciels libres dans l'administration",
+    "description": "Généraliser les logiciels libres et open source dans les administrations en évaluant systématiquement les solutions libres dans les appels d'offres (« open source first »).",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=81",
+    "source_date": "2026-07",
+    "source_page": "p. 81",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-culture-01",
@@ -586,10 +1241,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=99",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 99",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-culture-02",
@@ -599,10 +1254,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=100",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 100",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-culture-03",
+    "theme": "culture",
+    "title": "Loi anti-concentration des médias sur le modèle norvégien",
+    "description": "Adopter une loi interdisant à un groupe de détenir plus de deux titres de presse nationale, une chaîne de télévision nationale et une radio nationale ; faire valider les nominations à la tête de France Télévisions et Radio France par le Parlement.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=175",
+    "source_date": "2026-07",
+    "source_page": "p. 175",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-culture-04",
+    "theme": "culture",
+    "title": "Une assurance-chômage pour les artistes-auteurs",
+    "description": "Créer une assurance-chômage pour les artistes-auteurs garantissant une continuité de revenus entre deux commandes, financée par une hausse de 5 % de la cotisation des diffuseurs, et préserver le régime des intermittents.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=99",
+    "source_date": "2026-07",
+    "source_page": "p. 99",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-culture-05",
+    "theme": "culture",
+    "title": "Ratifier la Charte des langues régionales",
+    "description": "Ratifier la Charte européenne des langues régionales ou minoritaires et soutenir l'enseignement bilingue dans l'Hexagone, en Corse et dans les Outre-mer.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=100",
+    "source_date": "2026-07",
+    "source_page": "p. 100",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-outre_mer-01",
@@ -612,10 +1306,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=152",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 152",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-outre_mer-02",
@@ -625,10 +1319,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=153",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 153",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-outre_mer-03",
+    "theme": "outre_mer",
+    "title": "Mayotte : supprimer le titre de séjour territorialisé avant 2030",
+    "description": "À Mayotte, supprimer les exceptions au droit commun, dont le titre de séjour territorialisé avant 2030, étendre l'AME et aligner le RSA et le SMIC sur le reste du pays.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=153",
+    "source_date": "2026-07",
+    "source_page": "p. 153",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-outre_mer-04",
+    "theme": "outre_mer",
+    "title": "Nouvelle-Calédonie : un accord fondé sur l'autodétermination",
+    "description": "En Nouvelle-Calédonie (Kanaky), poursuivre les négociations pour un accord fondé sur l'autodétermination et la décolonisation, le programme qualifiant d'échec les accords de Bougival.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=153",
+    "source_date": "2026-07",
+    "source_page": "p. 153",
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-outre_mer-05",
+    "theme": "outre_mer",
+    "title": "Indemniser les victimes du chlordécone aux Antilles",
+    "description": "En Guadeloupe et en Martinique, dépolluer les sols, indemniser les victimes du chlordécone, du glyphosate et des sargasses, et orienter l'agriculture d'exportation vers l'agroécologie vivrière.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=153",
+    "source_date": "2026-07",
+    "source_page": "p. 153",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-services_publics-01",
@@ -638,10 +1371,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=150",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 150",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-services_publics-02",
@@ -651,10 +1384,49 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=87",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 87",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-services_publics-03",
+    "theme": "services_publics",
+    "title": "Titulariser les agents publics contractuels",
+    "description": "Adopter un plan de titularisation des agents publics recrutés sur des contrats de droit privé, arrêter le « New Public Management » et réduire la sous-traitance des missions d'entretien et de sécurité.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=87",
+    "source_date": "2026-07",
+    "source_page": "p. 87",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-services_publics-04",
+    "theme": "services_publics",
+    "title": "90 % de la population à moins de 30 minutes d'une gare desservie",
+    "description": "Adopter une loi de programmation ferroviaire sur dix ans pour que 90 % de la population vive à moins de 30 minutes d'une gare bien desservie, en régénérant les petites lignes et en créant des trains de nuit.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=25",
+    "source_date": "2026-07",
+    "source_page": "p. 25",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-services_publics-05",
+    "theme": "services_publics",
+    "title": "Renationaliser progressivement les autoroutes",
+    "description": "Renationaliser progressivement les autoroutes afin d'investir dans les infrastructures de transport, en fléchant les ressources vers l'Agence de financement des infrastructures de transport.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=25",
+    "source_date": "2026-07",
+    "source_page": "p. 25",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-famille-01",
@@ -664,10 +1436,10 @@
     "source_type": "officiel",
     "source_title": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
     "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=124",
-    "source_date": "2026-07-01",
+    "source_date": "2026-07",
     "source_page": "p. 124",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "tondelier-famille-02",
@@ -680,6 +1452,58 @@
     "source_date": "2026-09-17",
     "source_page": "p. 15",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-famille-03",
+    "theme": "famille",
+    "title": "Légaliser l'aide active à mourir",
+    "description": "Instaurer un droit à mourir dans la dignité par l'adoption des deux lois sur la fin de vie : accès universel aux soins palliatifs et légalisation de l'aide active à mourir.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=130",
+    "source_date": "2026-07",
+    "source_page": "p. 130",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-famille-04",
+    "theme": "famille",
+    "title": "Une loi intégrale contre les violences sexistes et sexuelles dotée de 3 Md€",
+    "description": "Adopter une loi intégrale contre les violences sexistes et sexuelles dotée de 3 milliards d'euros, avec des centres d'urgence ouverts 24 h/24 et des juridictions spécialisées.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=133",
+    "source_date": "2026-07",
+    "source_page": "p. 133-134",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-famille-05",
+    "theme": "famille",
+    "title": "Augmenter l'AAH de 250 €",
+    "description": "Augmenter de 250 euros l'allocation aux adultes handicapés, l'intégrer à la branche autonomie et fixer un délai maximal de trois mois pour son attribution.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=143",
+    "source_date": "2026-07",
+    "source_page": "p. 143",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "tondelier-famille-06",
+    "theme": "famille",
+    "title": "Créer un statut de famille monoparentale",
+    "description": "Instaurer un statut de famille monoparentale ouvrant des droits spécifiques d'accès aux modes de garde, et verser des allocations familiales d'un même montant dès le premier enfant.",
+    "source_type": "officiel",
+    "source_title": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+    "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=123",
+    "source_date": "2026-07",
+    "source_page": "p. 123-124",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   }
 ]

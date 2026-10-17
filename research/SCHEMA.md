@@ -82,6 +82,7 @@ Tableau JSON :
 ]
 ```
 
+- `source_date` : `YYYY-MM-DD`, ou `YYYY-MM` si le document n'indique que le mois (ex. « juillet 2026 » → `2026-07`). Ne jamais inventer un jour par convention ; `null` si la date est inconnue.
 - `cost` et `indicator` : optionnels (omets-les ou `null` si inconnus). `source_page` : `null` si inconnu.
 - `precision` : `chiffre` = contient une valeur chiffrée (montant, âge, nombre…) ; `precis` = mesure concrète et identifiable sans chiffre ; `orientation_generale` = intention/principe.
 - `source_type` :
@@ -103,6 +104,16 @@ Tableau JSON :
 - `immigration` → `{ "key": "referendum_immigration", "value": "oui" | "non" }`
 - `europe` → `{ "key": "rapport_ue", "value": "approfondissement" | "reforme" | "souverainete_nationale" | "sortie" }`
 Une seule mesure par candidat porte un indicateur donné.
+
+### Choix du lien principal du programme (`program.main_url`) — règle commune à tous les candidats
+1. Programme présidentiel 2027 publié → ce document (`status: publie`, ou `partiel` s'il est annoncé incomplet).
+2. Sinon, le document programmatique officiel **le plus récent** du candidat ou de son parti (programme du parti en vigueur, programme des législatives ou des européennes 2024, projet de congrès, livret-cadre…) → `main_url` = ce document, `title` = son intitulé exact suivi de son contexte (ex. « … (programme du RN, législatives 2024) »), `status: partiel`, et `note` précisant que le programme présidentiel 2027 n'est pas encore publié.
+3. `main_url: null` et `format: aucun` uniquement s'il n'existe **aucun** document programmatique officiel.
+
+### Inventaire documentaire exhaustif (avant d'écrire les mesures)
+Pour chaque candidat, recenser **tous** les documents officiels disponibles et les lire en entier (PDF téléchargés et extraits avec `pdftotext -layout`) :
+programme présidentiel ou de campagne · programme du parti en vigueur · programmes des législatives et européennes 2024 · livrets et cahiers thématiques · contre-budgets et plans chiffrés · textes de congrès / conventions · propositions de loi déposées par le candidat ou son groupe · tribunes et lettres ouvertes signées · discours de campagne publiés sur le site officiel.
+Chaque document thématique pertinent va dans `program.thematic_links` (avec `page_range`).
 
 ## 3. Règles impératives
 1. **Aucune URL inventée.** Chaque URL enregistrée doit avoir été ouverte avec WebFetch (ou `curl -sIL` via Bash si WebFetch échoue) et son contenu confirmé. En cas de doute → champ `null`.

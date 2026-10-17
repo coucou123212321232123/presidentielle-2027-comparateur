@@ -6,7 +6,7 @@ Le format des données est défini dans `research/SCHEMA.md` (règles impérativ
 ## Étape 1 — Collecte (un agent par candidat, même grille pour tous)
 
 Pour **chaque** candidat de `src/data/candidates.json`, avec les mêmes requêtes et le même effort :
-1. Ouvrir son site de campagne / de parti (`website`, `news_url`, `program.main_url`, `program.thematic_links`) : nouveau programme, nouveau livret, page modifiée ?
+1. Ouvrir son site de campagne / de parti (`website`, `news_url`, `program.main_url`, `program.thematic_links`) et parcourir **toutes** les rubriques documents/programme/propositions/publications : nouveau programme, nouveau livret, page modifiée ? Appliquer la règle « Choix du lien principal » et l'« Inventaire documentaire exhaustif » de `research/SCHEMA.md` : tout document officiel non encore exploité est lu et ses mesures proposées.
 2. Rechercher l'actualité depuis `meta.last_updated` : déclaration ou retrait de candidature, investiture, nouveau programme, nouvelles propositions, changement d'équipe.
 3. Rechercher toute personnalité nouvellement déclarée et testée dans les sondages nationaux (critère de `meta.inclusion_rule`).
 

@@ -28,7 +28,64 @@
     "source_date": "2026-01-09",
     "source_page": "p. 20",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-economie-03",
+    "theme": "economie",
+    "title": "Supprimer dès l'élection 50 normes pénalisant les entreprises",
+    "description": "Dès le lendemain de l'élection, 50 normes seraient supprimées ou recentrées (par exemple relèvement à 100 salariés du seuil de 50 salariés, CSE à partir de 50 salariés sauf accord, suppression du principe de non-régression), puis une loi annuelle de simplification.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Produire plus pour vivre mieux (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=10",
+    "source_date": "2026-02-19",
+    "source_page": "p. 10-11",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-economie-04",
+    "theme": "economie",
+    "title": "Règle du « un pour un » et autorité de contrôle des normes avec droit de veto",
+    "description": "Toute règle nouvelle ayant un impact économique serait soumise à une évaluation préalable opposable (étude d'impact, test PME) ; tout euro de coût nouveau devrait être compensé par un euro de règles supprimées, sous le contrôle d'une autorité indépendante disposant d'un pouvoir de veto.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Produire plus pour vivre mieux (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=14",
+    "source_date": "2026-02-19",
+    "source_page": "p. 14",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-economie-05",
+    "theme": "economie",
+    "title": "Créer un Fonds France Production de 600 M€ par an piloté par les régions",
+    "description": "Fonds dédié à la modernisation de l'outil industriel (robotisation, automatisation, équipements), piloté par les régions et cofinancé par l'État et les fonds européens, complété par un dispositif de sur-amortissement fiscal.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Produire plus pour vivre mieux (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=26",
+    "source_date": "2026-02-19",
+    "source_page": "p. 26",
+    "precision": "chiffre",
+    "cost": {
+      "label": "600 M€ par an",
+      "source_label": "Livret « Produire plus » (Les Républicains)",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=26"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-economie-06",
+    "theme": "economie",
+    "title": "Restituer au moins 30 Md€ par an aux salariés et aux entreprises",
+    "description": "Les gains attendus des réformes du livret (assurance chômage, Compte social unique, RIA) seraient intégralement restitués : moitié aux salariés (environ 500 € par an au salaire médian), moitié aux entreprises par une baisse du coût du travail.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Le travail gagnant (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf#page=36",
+    "source_date": "2026-01-09",
+    "source_page": "p. 36-37",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-fiscalite-01",
@@ -46,7 +103,7 @@
       "source_label": "Livret LR « Produire plus »",
       "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=20"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-fiscalite-02",
@@ -62,6 +119,32 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "retailleau-fiscalite-03",
+    "theme": "fiscalite",
+    "title": "Différer les droits de transmission d'entreprise jusqu'à une éventuelle cession",
+    "description": "Les droits de donation ou de succession sur les entreprises et titres de sociétés à activité économique réelle seraient calculés à la transmission mais exigibles seulement en cas de cession ; structures patrimoniales exclues.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Produire plus pour vivre mieux (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=34",
+    "source_date": "2026-02-19",
+    "source_page": "p. 34",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-fiscalite-04",
+    "theme": "fiscalite",
+    "title": "Supprimer la contribution patronale sur l'actionnariat salarié",
+    "description": "Suppression totale, pour toutes les entreprises, de la contribution patronale sur les dispositifs d'actionnariat salarié ; les gains seraient imposés au prélèvement forfaitaire unique et sécurisés par un rescrit rapide.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : L'IA au service des Français (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=15",
+    "source_date": "2026-07-07",
+    "source_page": "p. 15",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "retailleau-emploi-01",
     "theme": "emploi",
     "title": "Créer un Revenu d'incitation à l'activité (RIA) remplaçant RSA, prime d'activité et ASS",
@@ -72,7 +155,7 @@
     "source_date": "2026-01-09",
     "source_page": "p. 23",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-emploi-02",
@@ -85,7 +168,64 @@
     "source_date": "2026-01-09",
     "source_page": "p. 29",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-emploi-03",
+    "theme": "emploi",
+    "title": "Resserrer l'assurance chômage (ruptures conventionnelles, frontaliers, refus d'offres)",
+    "description": "Application des règles de juin 2024, indemnisation des ruptures conventionnelles limitée à six mois et plafonnée, allocation des frontaliers calculée sur un salaire français, dégressivité accélérée au-dessus de 3 000 € nets et fin de l'indemnisation au troisième refus d'offre raisonnable.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Le travail gagnant (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf#page=32",
+    "source_date": "2026-01-09",
+    "source_page": "p. 31-33",
+    "precision": "chiffre",
+    "cost": {
+      "label": "Environ 8 Md€ d'économies par an, plus 4 à 5 Md€ issus des règles de juin 2024",
+      "source_label": "Livret « Le travail gagnant » (Les Républicains)",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf#page=34"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-emploi-04",
+    "theme": "emploi",
+    "title": "Refonder le Code du travail sur 50 principes, le reste renvoyé à l'accord collectif",
+    "description": "Un socle de 50 principes fondamentaux indérogeables ; au-delà, le Code deviendrait supplétif et l'accord d'entreprise (à défaut de branche) primerait, avec possibilité d'accord par référendum à l'initiative de l'employeur.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Produire plus pour vivre mieux (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=12",
+    "source_date": "2026-02-19",
+    "source_page": "p. 12-13",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-emploi-05",
+    "theme": "emploi",
+    "title": "Supprimer la durée minimale de 24 heures hebdomadaires pour le temps partiel",
+    "description": "L'obligation légale d'un minimum de 24 heures par semaine pour les contrats à temps partiel serait supprimée, sauf accord collectif.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Le travail gagnant (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf#page=24",
+    "source_date": "2026-01-09",
+    "source_page": "p. 24",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-emploi-06",
+    "theme": "emploi",
+    "title": "Statut de « co-entrepreneur » pour les salariés au-delà de 100 000 € par an",
+    "description": "Pour environ 3 % des salariés du privé (au-delà de 100 000 € bruts annuels), un statut proche de l'indépendant : organisation libre du travail, accès facilité à l'actionnariat et assurance chômage de type GSC portable.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : L'IA au service des Français (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=24",
+    "source_date": "2026-07-07",
+    "source_page": "p. 23-24",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-retraites-01",
@@ -128,7 +268,7 @@
     "source_date": "2026-01-09",
     "source_page": "p. 25",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-energie-01",
@@ -137,15 +277,15 @@
     "description": "Une loi de programmation énergétique actera la relance du nucléaire ; si l'avancement des six premiers EPR2 est satisfaisant, la commande de huit EPR2 supplémentaires serait confirmée dans les deux premières années du mandat.",
     "source_type": "officiel",
     "source_title": "Les Républicains – Nos propositions pour la France : Électricité (livret)",
-    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf#page=22",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf#page=14",
     "source_date": "2026-05-07",
-    "source_page": "p. 22",
+    "source_page": "p. 14, 22",
     "precision": "chiffre",
     "indicator": {
       "key": "nucleaire",
       "value": "relance"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-energie-02",
@@ -158,7 +298,7 @@
     "source_date": "2026-05-07",
     "source_page": "p. 21",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-energie-03",
@@ -171,20 +311,59 @@
     "source_date": "2026-05-07",
     "source_page": "p. 29",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-energie-04",
+    "theme": "energie",
+    "title": "Inscrire le parc nucléaire existant dans une trajectoire d'exploitation de 80 ans",
+    "description": "Fixer d'emblée un horizon de 80 ans pour les réacteurs, les visites décennales servant à vérifier le maintien de cette trajectoire, sous réserve des conclusions de l'autorité de sûreté.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Électricité (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf#page=11",
+    "source_date": "2026-05-07",
+    "source_page": "p. 11-12",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-energie-05",
+    "theme": "energie",
+    "title": "Relancer les réacteurs à neutrons rapides avec un premier réacteur en 2045",
+    "description": "Relance immédiate de la recherche sur un démonstrateur de 4e génération, avec l'objectif d'un premier réacteur de puissance et de ses usines du cycle du combustible en service en 2045.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Électricité (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf#page=31",
+    "source_date": "2026-05-07",
+    "source_page": "p. 31",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-energie-06",
+    "theme": "energie",
+    "title": "Interdire l'arrêt forcé d'un réacteur pour cause de demande insuffisante",
+    "description": "RTE devrait donner priorité au nucléaire lorsque la demande résiduelle approche le minimum technique du parc, les autres moyens de production s'effaçant sans compensation, et pourrait restreindre les importations.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Électricité (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf#page=24",
+    "source_date": "2026-05-07",
+    "source_page": "p. 24",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-ecologie-01",
     "theme": "ecologie",
     "title": "Supprimer le principe de précaution de la Charte de l'environnement",
-    "description": "Remplacement du principe de précaution par un principe de responsabilité, par révision constitutionnelle.",
+    "description": "Suppression du principe de précaution tel qu'il figure dans la Charte de l'environnement, par une révision constitutionnelle soumise au référendum ; le livret « Produire plus » évoque son remplacement par un principe de responsabilité.",
     "source_type": "officiel",
     "source_title": "Les Républicains – Nos propositions pour la France : Réarmer notre agriculture (livret)",
-    "source_url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=9",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=12",
     "source_date": "2026-03-03",
-    "source_page": "p. 9",
+    "source_page": "p. 12",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-ecologie-02",
@@ -200,6 +379,45 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "retailleau-ecologie-03",
+    "theme": "ecologie",
+    "title": "Étendre l'ajustement carbone aux frontières aux produits transformés",
+    "description": "Le mécanisme européen d'ajustement carbone aux frontières serait renforcé et étendu aux produits transformés afin d'assurer une réciprocité climatique.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Produire plus pour vivre mieux (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=25",
+    "source_date": "2026-02-19",
+    "source_page": "p. 25",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-ecologie-04",
+    "theme": "ecologie",
+    "title": "Moratoire normatif de dix ans : pas de durcissement de la RE2020",
+    "description": "La réglementation environnementale RE2020 serait maintenue mais stabilisée : les paliers de durcissement prévus en 2028 et 2031 ne seraient pas appliqués.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Se loger mieux et moins cher (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=16",
+    "source_date": "2026-05-28",
+    "source_page": "p. 16",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-ecologie-05",
+    "theme": "ecologie",
+    "title": "Renforcer la prévention des incendies et la sécurité civile",
+    "description": "Appel à une loi issue du Beauvau de la sécurité civile : défense du volontariat, recentrage des missions des sapeurs-pompiers, renforcement des obligations de débroussaillage et soutien à des avions bombardiers d'eau français en complément des Canadair.",
+    "source_type": "declaration",
+    "source_title": "« Incendies : face à l'urgence, le Gouvernement doit agir… » – communiqué de Bruno Retailleau (republicains.fr)",
+    "source_url": "https://republicains.fr/actualites/2026/07/24/incendies-face-a-lurgence-le-gouvernement-doit-agir-et-donner-a-nos-sapeurs-pompiers-les-moyens-de-nous-proteger/",
+    "source_date": "2026-07-24",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "retailleau-agriculture-01",
     "theme": "agriculture",
     "title": "Inscrire l'agriculture comme intérêt fondamental de la Nation dans la Constitution",
@@ -210,7 +428,7 @@
     "source_date": "2026-03-03",
     "source_page": "p. 11",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-agriculture-02",
@@ -223,7 +441,59 @@
     "source_date": "2026-03-03",
     "source_page": "p. 9",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-agriculture-03",
+    "theme": "agriculture",
+    "title": "Réautoriser certains néonicotinoïdes, dont l'acétamipride",
+    "description": "Toute substance autorisée ailleurs dans le marché unique devrait pouvoir l'être en France ; l'objectif uniforme de réduction de 50 % des phytosanitaires (Écophyto 2030) serait abandonné au profit d'autorisations au cas par cas.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Réarmer notre agriculture (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=17",
+    "source_date": "2026-03-03",
+    "source_page": "p. 12, 17",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-agriculture-04",
+    "theme": "agriculture",
+    "title": "Supprimer les PTGE et sécuriser les retenues d'eau agricoles",
+    "description": "Le stockage d'eau à usage agricole relèverait de l'intérêt général majeur ; les projets de territoire pour la gestion de l'eau seraient remplacés par une planification opposable par bassin, avec des délais d'instruction opposables (silence valant acceptation).",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Réarmer notre agriculture (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=19",
+    "source_date": "2026-03-03",
+    "source_page": "p. 19-20",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-agriculture-05",
+    "theme": "agriculture",
+    "title": "PAC : forfait « petit agriculteur » porté à 3 000 €",
+    "description": "Dans le plan stratégique national, le forfait petit agriculteur passerait de 1 250 € à 3 000 € à enveloppe constante, et le seuil de dégressivité des aides de 52 à 100 hectares.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Réarmer notre agriculture (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=32",
+    "source_date": "2026-03-03",
+    "source_page": "p. 31-32",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-agriculture-06",
+    "theme": "agriculture",
+    "title": "Étiquetage de l'origine des ingrédients et dénominations carnées protégées",
+    "description": "Indication obligatoire de l'origine de tout ingrédient représentant au moins 10 % d'un produit (sanction jusqu'à 150 000 € d'amende), termes comme « steak » ou « saucisse » réservés aux produits d'origine animale, déploiement d'un « Rémunéra-score ».",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Réarmer notre agriculture (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=27",
+    "source_date": "2026-03-03",
+    "source_page": "p. 27",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-logement-01",
@@ -236,7 +506,7 @@
     "source_date": "2026-05-28",
     "source_page": "p. 8",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-logement-02",
@@ -249,7 +519,7 @@
     "source_date": "2026-05-28",
     "source_page": "p. 8",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-logement-03",
@@ -262,7 +532,46 @@
     "source_date": "2026-05-28",
     "source_page": "p. 8",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-logement-04",
+    "theme": "logement",
+    "title": "Remplacer les quotas SRU par des contrats territoriaux",
+    "description": "Les quotas de 20 % et 25 % seraient remplacés par des objectifs en volume négociés entre le préfet et les intercommunalités, sans objectif en zone non tendue ; plus d'aides publiques pour de nouvelles opérations dans les territoires dépassant 30 % de logements sociaux.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Se loger mieux et moins cher (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=39",
+    "source_date": "2026-05-28",
+    "source_page": "p. 39",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-logement-05",
+    "theme": "logement",
+    "title": "Recentrer le logement social sur les actifs et les familles",
+    "description": "Plafonds de ressources ramenés au 5e décile (environ 25 000 € par an pour une personne seule), priorité aux personnes en activité puis aux familles, aucune attribution sans avis favorable du maire, réexamen de la situation des locataires tous les cinq ans.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Se loger mieux et moins cher (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=41",
+    "source_date": "2026-05-28",
+    "source_page": "p. 41-42",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-logement-06",
+    "theme": "logement",
+    "title": "Créer un statut du bailleur privé avec un amortissement de 4 % par an",
+    "description": "Tout bailleur, en location nue comme meublée, pourrait amortir 4 % de la valeur du bâti par an (taux bonifié pour les loyers modérés) ; les bailleurs dont le patrimoine ancien est déjà amorti pourraient opter pour le prélèvement forfaitaire unique de 30 % ; cadre garanti pour dix ans.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Se loger mieux et moins cher (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=33",
+    "source_date": "2026-05-28",
+    "source_page": "p. 33-34",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-sante-01",
@@ -288,7 +597,7 @@
     "source_date": "2026-07-07",
     "source_page": "p. 4",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-education-01",
@@ -301,7 +610,7 @@
     "source_date": "2026-09-03",
     "source_page": "p. 10",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-education-02",
@@ -314,7 +623,7 @@
     "source_date": "2026-09-03",
     "source_page": "p. 15",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-education-03",
@@ -327,7 +636,46 @@
     "source_date": "2026-09-03",
     "source_page": "p. 7",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-education-04",
+    "theme": "education",
+    "title": "Une École normale du professorat par académie et des concours régionalisés",
+    "description": "Concours de recrutement organisés par académie après la licence (sauf agrégation), formation sur cinq ans dans des Écoles normales du professorat sous l'autorité du recteur, et seconde voie de recrutement pour des professionnels venus du privé.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Éducation (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=11",
+    "source_date": "2026-09-03",
+    "source_page": "p. 11-12",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-education-05",
+    "theme": "education",
+    "title": "Ramener les vacances scolaires de seize à quatorze semaines",
+    "description": "Les vacances scolaires seraient réduites à la moyenne européenne et le brevet et le baccalauréat remis chaque année le 14 juillet ; les collèges pourraient passer à des cours de 50 minutes pour dégager des ateliers.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Éducation (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=16",
+    "source_date": "2026-09-03",
+    "source_page": "p. 16",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-education-06",
+    "theme": "education",
+    "title": "Zéro écran au primaire, téléphone interdit jusqu'à la fin du lycée",
+    "description": "Aucun écran à l'école primaire, téléphone interdit dans l'enceinte des établissements jusqu'à la fin du lycée et aucune exposition directe des élèves à l'intelligence artificielle avant le lycée.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Éducation (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=33",
+    "source_date": "2026-09-03",
+    "source_page": "p. 19, 33",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-securite-01",
@@ -340,7 +688,7 @@
     "source_date": "2026-09-02",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-securite-02",
@@ -367,6 +715,45 @@
     "source_page": null,
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "retailleau-securite-04",
+    "theme": "securite",
+    "title": "Expulsion des squatteurs sous dix jours et procédure accélérée pour impayés",
+    "description": "Expulsion dans un délai maximal de dix jours après constat d'occupation illégale ; impayés passibles d'une contravention de 5e classe avec titre exécutoire ; exécution des décisions d'expulsion sous 30 jours, faute de quoi l'État indemniserait le propriétaire.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Se loger mieux et moins cher (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=36",
+    "source_date": "2026-05-28",
+    "source_page": "p. 36",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-securite-05",
+    "theme": "securite",
+    "title": "Contrôle de tous les adultes au contact d'enfants",
+    "description": "Vérification préalable puis surveillance continue de tout adulte travaillant au contact d'enfants (école, périscolaire, clubs, colonies), et interdiction définitive d'exercer pour toute condamnation pour violence sexuelle sur mineur.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Éducation (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=34",
+    "source_date": "2026-09-03",
+    "source_page": "p. 34",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-securite-06",
+    "theme": "securite",
+    "title": "Autoriser la vision par ordinateur à des fins de sécurité, sous contrôle",
+    "description": "Usage de la vision par ordinateur pour la lutte contre la criminalité et le terrorisme, la détection d'incendies ou la protection de sites, avec contrôle parlementaire et interdiction de la reconnaissance faciale en temps réel à des fins de surveillance de masse.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : L'IA au service des Français (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=37",
+    "source_date": "2026-07-07",
+    "source_page": "p. 37",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-immigration-01",
@@ -396,7 +783,7 @@
     "source_date": "2026-09-02",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-immigration-03",
@@ -412,6 +799,32 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "retailleau-immigration-04",
+    "theme": "immigration",
+    "title": "Conditionner l'hébergement d'urgence à la régularité du séjour",
+    "description": "Révision de l'article L. 345-2-2 du code de l'action sociale et des familles pour réserver l'hébergement d'urgence aux personnes en situation régulière, avec une durée d'hébergement plafonnée à dix-huit mois.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Se loger mieux et moins cher (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=44",
+    "source_date": "2026-05-28",
+    "source_page": "p. 44",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-immigration-05",
+    "theme": "immigration",
+    "title": "Suspendre la libre circulation avec l'Espagne",
+    "description": "Après la régularisation espagnole, demande de rétablir les contrôles à la frontière avec l'Espagne, de généraliser les visas territorialisés et d'appliquer le règlement retour européen, y compris des centres de retour dans des pays tiers.",
+    "source_type": "declaration",
+    "source_title": "Communiqué de presse de Bruno Retailleau, président des Républicains (31 juillet 2026)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/08/CP_BR_31_07_26.pdf",
+    "source_date": "2026-07-31",
+    "source_page": "p. 1",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "retailleau-institutions-01",
     "theme": "institutions",
     "title": "Référendum sur un pacte constitutionnel dès la rentrée 2027",
@@ -422,7 +835,7 @@
     "source_date": "2026-09-02",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-institutions-02",
@@ -435,7 +848,7 @@
     "source_date": "2026-09-02",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-europe-01",
@@ -448,7 +861,7 @@
     "source_date": "2026-09-02",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-europe-02",
@@ -462,6 +875,58 @@
     "source_page": null,
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "retailleau-europe-03",
+    "theme": "europe",
+    "title": "Interdire par loi organique toute surtransposition du droit européen",
+    "description": "Une loi organique interdirait d'ajouter des contraintes nationales aux règles européennes, sauf nécessité impérieuse justifiée devant le Parlement, dans tous les domaines.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Réarmer notre agriculture (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=16",
+    "source_date": "2026-03-03",
+    "source_page": "p. 16",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-europe-04",
+    "theme": "europe",
+    "title": "Clauses de réciprocité commerciale et contrôles concentrés sur les importations",
+    "description": "La France porterait au niveau européen des clauses de réciprocité systématiques ; à effectifs constants, au moins 50 % des contrôles administratifs porteraient sur les produits importés, contrôlés au point de vente.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Produire plus pour vivre mieux (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=24",
+    "source_date": "2026-02-19",
+    "source_page": "p. 24",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-europe-05",
+    "theme": "europe",
+    "title": "S'opposer à l'intégration de l'Ukraine au marché agricole européen",
+    "description": "Opposition à l'intégration de l'Ukraine au marché agricole de l'Union, en raison des écarts de coûts de production et du risque pour la PAC.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Réarmer notre agriculture (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=36",
+    "source_date": "2026-03-03",
+    "source_page": "p. 36",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-europe-06",
+    "theme": "europe",
+    "title": "S'opposer au European Grid Package",
+    "description": "Opposition au programme européen d'interconnexions électriques, constitution d'une coalition d'États favorables au nucléaire et saisine de la Cour de justice de l'UE si la Commission excède ses compétences.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Électricité (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf#page=33",
+    "source_date": "2026-05-07",
+    "source_page": "p. 33-35",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-international-01",
@@ -490,6 +955,19 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "retailleau-international-03",
+    "theme": "international",
+    "title": "Multiplier par cinq les moyens de l'IA de défense",
+    "description": "Effort concentré sur la cybersécurité, les drones et systèmes autonomes, la robotique et le calcul quantique, avec commande prioritaire aux entreprises françaises et européennes ; refus des doctrines de désarmement unilatéral sur les armes autonomes.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : L'IA au service des Français (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=34",
+    "source_date": "2026-07-07",
+    "source_page": "p. 34",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "retailleau-numerique-01",
     "theme": "numerique",
     "title": "Créer un assistant administratif numérique « Marianne » pour chaque Français",
@@ -505,7 +983,7 @@
       "source_label": "Livret LR « L'IA au service des Français »",
       "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=47"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-numerique-02",
@@ -518,7 +996,59 @@
     "source_date": "2026-07-07",
     "source_page": "p. 17",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-numerique-03",
+    "theme": "numerique",
+    "title": "Data centers souverains : 1 GW en 2030, environ 4 GW vers 2035-2038",
+    "description": "Capacité d'hébergement qualifiée SecNumCloud portée à environ 1 GW d'ici 2030 puis environ 4 GW dédiés à l'IA, avec un objectif de raccordement électrique en dix-huit mois et un co-investissement de la BPI et de la Caisse des dépôts.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : L'IA au service des Français (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=19",
+    "source_date": "2026-07-07",
+    "source_page": "p. 18-19",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-numerique-04",
+    "theme": "numerique",
+    "title": "Plan « Vauban numérique » piloté par l'ANSSI",
+    "description": "Bascule des hébergements sensibles vers le cloud souverain, cartographie des dépendances critiques et tests de résistance des infrastructures publiques ; création d'une inspection générale du numérique ; triplement des effectifs et du budget de VIGINUM.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : L'IA au service des Français (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=35",
+    "source_date": "2026-07-07",
+    "source_page": "p. 35-36, 41, 48",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-numerique-05",
+    "theme": "numerique",
+    "title": "« Retour au pays » : cinq ans d'exonération d'impôt sur le revenu pour les talents tech",
+    "description": "Pour les talents français de la tech installés à l'étranger, exonération totale d'impôt sur le revenu pendant cinq ans ; création d'un visa « Talents Tech » délivré en quelques semaines et doublement du nombre d'ingénieurs spécialisés.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : L'IA au service des Français (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=14",
+    "source_date": "2026-07-07",
+    "source_page": "p. 12, 14",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-numerique-06",
+    "theme": "numerique",
+    "title": "« Buy European First » dans la commande publique numérique",
+    "description": "Liste des solutions extra-européennes à remplacer sur le périmètre régalien ; un pourcentage de souveraineté noté par logiciel deviendrait critère d'attribution des marchés, avec un seuil minimal pour les fonctions critiques.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : L'IA au service des Français (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=31",
+    "source_date": "2026-07-07",
+    "source_page": "p. 30-32",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-culture-01",
@@ -544,7 +1074,20 @@
     "source_date": "2026-09-02",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-culture-03",
+    "theme": "culture",
+    "title": "Une « Classe Culture » dans chaque école et établissement",
+    "description": "Dans chaque école et établissement, une Classe Culture pilotée par les professeurs organiserait sorties, ateliers et rencontres avec des artistes.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Éducation (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=15",
+    "source_date": "2026-09-03",
+    "source_page": "p. 15",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-outre_mer-01",
@@ -557,7 +1100,7 @@
     "source_date": "2026-02-19",
     "source_page": "p. 21",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-outre_mer-02",
@@ -570,7 +1113,7 @@
     "source_date": "2026-05-07",
     "source_page": "p. 17",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-services_publics-01",
@@ -599,22 +1142,61 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "retailleau-services_publics-03",
+    "theme": "services_publics",
+    "title": "Reverser 9 000 € de TVA à la commune pour chaque logement neuf",
+    "description": "Versement automatique d'une fraction forfaitaire de TVA de 9 000 € par logement neuf à la commune concernée pour financer écoles, voirie et réseaux.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Se loger mieux et moins cher (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=15",
+    "source_date": "2026-05-28",
+    "source_page": "p. 15",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-services_publics-04",
+    "theme": "services_publics",
+    "title": "Aucune fermeture de classe rurale sans consultation du conseil municipal",
+    "description": "Carte scolaire du primaire pluriannuelle et contractualisée avec les communes ; consultation obligatoire du conseil municipal avant toute fermeture de classe en commune rurale ; transfert de l'enseignement professionnel aux régions et de la santé scolaire aux départements.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Éducation (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=24",
+    "source_date": "2026-09-03",
+    "source_page": "p. 24",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-services_publics-05",
+    "theme": "services_publics",
+    "title": "Créer un ministère de l'IA et un directeur technologique de l'État",
+    "description": "Un ministère chargé de l'intelligence artificielle, appuyé par un CTO de l'État doté d'une autorité sur les systèmes d'information publics, avec un budget de transformation numérique centralisé.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : L'IA au service des Français (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=28",
+    "source_date": "2026-07-07",
+    "source_page": "p. 28-29",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "retailleau-famille-01",
     "theme": "famille",
     "title": "Créer un Revenu familial de 240 € par enfant remplaçant 12 dispositifs",
-    "description": "Revenu familial universel de 240 € par mois et par enfant mineur, versé via la DGFiP, remplaçant 12 dispositifs dont les allocations familiales et le quotient familial ; montant doublé à partir du troisième enfant mineur.",
+    "description": "Revenu familial de 240 € par mois et par enfant mineur, versé via la DGFiP et conditionné à une résidence régulière en France et à une activité professionnelle depuis au moins cinq ans ; il remplacerait 12 dispositifs dont les allocations familiales et le quotient familial ; montant doublé (480 €) pour le troisième enfant mineur.",
     "source_type": "officiel",
     "source_title": "Les Républicains – Nos propositions pour la France : Une politique pour toutes les familles de France (livret)",
-    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf#page=12",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf#page=11",
     "source_date": "2026-05-04",
-    "source_page": "p. 12",
+    "source_page": "p. 11-13",
     "precision": "chiffre",
     "cost": {
       "label": "40,3 Md€ par an, compensés par 41 Md€ de dispositifs supprimés",
       "source_label": "Livret LR « Famille »",
       "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf#page=12"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "retailleau-famille-02",
@@ -632,6 +1214,50 @@
       "source_label": "Livret LR « Famille »",
       "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf#page=18"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-famille-03",
+    "theme": "famille",
+    "title": "Favoriser la garde d'enfants financée par les entreprises",
+    "description": "Suppression du plafond de 500 000 € du crédit d'impôt famille, relèvement de 2 421 € à 7 000 € par an du plafond d'exonération de l'aide de l'employeur à la garde, alignement du régime des micro-crèches sur celui des MAM.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Une politique pour toutes les familles de France (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf#page=21",
+    "source_date": "2026-05-04",
+    "source_page": "p. 20-21",
+    "precision": "chiffre",
+    "cost": {
+      "label": "Environ 800 M€ (suppression du plafond du CIF et relèvement du plafond d'exonération)",
+      "source_label": "Livret « Famille » (Les Républicains)",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf#page=21"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-famille-04",
+    "theme": "famille",
+    "title": "Rendre les prêts immobiliers transférables d'un logement à l'autre",
+    "description": "Les banques devraient permettre aux familles qui changent de logement de conserver les conditions (taux, durée) de leur prêt initial sur le nouveau bien.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Une politique pour toutes les familles de France (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf#page=17",
+    "source_date": "2026-05-04",
+    "source_page": "p. 17",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "retailleau-famille-05",
+    "theme": "famille",
+    "title": "Responsabiliser les parents d'élèves violents ou absentéistes",
+    "description": "Conseils des droits et devoirs des familles obligatoires dans les communes de plus de 5 000 habitants ; possibilité de réduire ou suspendre le Revenu familial ; contrat d'engagement signé par chaque famille conditionnant l'admission.",
+    "source_type": "officiel",
+    "source_title": "Les Républicains – Nos propositions pour la France : Éducation (livret)",
+    "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=33",
+    "source_date": "2026-09-03",
+    "source_page": "p. 33",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   }
 ]

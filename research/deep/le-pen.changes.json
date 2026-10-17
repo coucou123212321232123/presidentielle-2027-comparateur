@@ -1,0 +1,848 @@
+[
+  {
+    "action": "update",
+    "measure_id": "le-pen-economie-01",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 6",
+        "excerpt": "Baisse de TVA sur les énergies. 12,2"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 12",
+        "excerpt": "Baisse de la TVA sur les énergies (gaz, électricité, carburants, bois, fioul)"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "le-pen-fiscalite-01",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 5",
+        "excerpt": "Impôt sur la Fortune Financière. 5"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 12",
+        "excerpt": "IFF en remplacement de l'IFI"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "le-pen-fiscalite-02",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 6",
+        "excerpt": "Suppression de la CFE. 8,1 ... Suppression de la C3S. 5,3"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 6",
+        "excerpt": "Suppression de la CVAE. 3,7"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "le-pen-immigration-03",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 4",
+        "excerpt": "Prestations non-contributives soumises à 5 ans ETP travaillés. 7,5"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "le-pen-immigration-04",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 4",
+        "excerpt": "Remplacement de l'AME par l'AMU. 1,1"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "le-pen-logement-03",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 5",
+        "excerpt": "Transformation de « Ma Prime Rénov' » en « 100% Rénov' ». 5,1"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "le-pen-famille-01",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 6",
+        "excerpt": "Part fiscale pleine dès le deuxième enfant. 3,5"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "le-pen-famille-03",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 12",
+        "excerpt": "Un permis de conduire gratuit pour les jeunes avec casier judiciaire vierge"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "le-pen-famille-04",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 6",
+        "excerpt": "Prêt « jeunes ménages français » transformé en subvention au 3e enfant. 1,6"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "le-pen-culture-01",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 11",
+        "excerpt": "Baisse de la dotation à l'audiovisuel public, puis privatisation (sauf FranceInfo, Arte, OM, etc)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-economie-04",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 6",
+        "excerpt": "Baisse de la TICPE au niveau de 2017. 3,9"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/04/202603-dossier-presse-GRN-Crise-carburant.pdf",
+        "page": "p. 1",
+        "excerpt": "la baisse de la TICPE de 16 centimes par litre"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-economie-05",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+        "page": "p. 23",
+        "excerpt": "Créer un fonds souverain pour flécher l'épargne des Français vers les secteurs productifs"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-economie-06",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/communiques/freins-a-la-croissance-et-simplification-jordan-bardella-et-marine-le-pen-associent-le-monde-economique",
+        "page": null,
+        "excerpt": "élaborer un grand projet d'ordonnance de simplification, qui sera publié"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-fiscalite-03",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 5",
+        "excerpt": "Taxe sur les rachats d'actions. 11,3"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 12",
+        "excerpt": "Taxe sur les superdividendes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-fiscalite-04",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 12",
+        "excerpt": "Exonérer d'IR tous les jeunes actifs jusqu'à 30 ans jusqu'à 4 SMIC"
+      },
+      {
+        "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+        "page": "p. 19",
+        "excerpt": "Supprimer l'impôt sur le revenu des jeunes de moins de 30 ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-fiscalite-05",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 12",
+        "excerpt": "exonération de l'immobilier transmis à hauteur de 300 k€"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 12",
+        "excerpt": "alignement grands-parents/parents ; 100 k€/enfant tous les 10 ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-fiscalite-06",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 6",
+        "excerpt": "Retour sur la hausse du PFU (retour à 30%). 1,5"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-emploi-04",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 4",
+        "excerpt": "Limiter les ruptures conventionnelles. 0,9"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 11",
+        "excerpt": "Limiter à une rupture conventionnelle tous les 10 ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-emploi-05",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 11",
+        "excerpt": "Devoir pointer à France Travail une fois par mois pour pouvoir toucher le chômage"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-emploi-06",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+        "page": "p. 42",
+        "excerpt": "La fixation de salaires minimum par branche inférieurs au SMIC sera interdite"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-retraites-04",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 6",
+        "excerpt": "Favoriser le cumul-emploi retraite des personnels soignants. 0,2"
+      },
+      {
+        "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+        "page": "p. 6",
+        "excerpt": "Suppression de l'impôt sur les revenus d'activité des médecins"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-energie-04",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+        "page": "p. 19",
+        "excerpt": "Le développement de l'énergie éolienne sera abandonné"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 11",
+        "excerpt": "Supprimer l'exonération de taxe foncière sur l'éolien"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-energie-05",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+        "page": "p. 10",
+        "excerpt": "Baisser de 30 à 40% la facture d'électricité en rétablissant un prix français"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 11",
+        "excerpt": "Création d'un prix national de l'électricité"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-energie-06",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+        "page": "p. 18",
+        "excerpt": "EDF sera reformée comme une entité unique ... en réintégrant RTE et Enedis"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-ecologie-03",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/07/GRN-DOSSIER-PLAN-CLIM.pdf",
+        "page": "p. 5",
+        "excerpt": "ce volet mobilise 20 milliards d'euros d'investissement sur 10 ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-ecologie-04",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/07/GRN-DOSSIER-PLAN-CLIM.pdf",
+        "page": "p. 6",
+        "excerpt": "climatiser une ou plusieurs pièces pour 20 euros par mois maximum"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-ecologie-05",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+        "page": "p. 8",
+        "excerpt": "Mettre en place une véritable taxe carbone aux frontières européennes"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/07/GRN-DOSSIER-PLAN-CLIM.pdf",
+        "page": "p. 2",
+        "excerpt": "se basent uniquement sur l'empreinte carbone"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-ecologie-06",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+        "page": "p. 13",
+        "excerpt": "Engager un plan de rénovation du réseau de distribution de l'eau"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-agriculture-04",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+        "page": "p. 10",
+        "excerpt": "de nationaliser et de simplifier les modalités d'attribution d'aides de la PAC"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-agriculture-05",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+        "page": "p. 57",
+        "excerpt": "« exception agriculturelle », consistant à exclure l'agriculture des accords de libre-échange"
+      },
+      {
+        "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+        "page": "p. 8",
+        "excerpt": "Instaurer un moratoire sur la négociation de nouveaux accords de libre-échange"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-agriculture-06",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+        "page": "p. 56",
+        "excerpt": "intervention de l'État dans l'élaboration des indices utilisés pour fixer des prix garantis"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-logement-05",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+        "page": "p. 13",
+        "excerpt": "Abroger toutes les interdictions et obligations liées aux DPE"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-logement-06",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 11",
+        "excerpt": "Plafonner les aides au logement à part de loyer à 90 % du loyer"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-sante-04",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 6",
+        "excerpt": "Remboursement à 100% des soins dentaires. 1,4"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-sante-05",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 11",
+        "excerpt": "Supprimer le passage obligé par le médecin avant d'aller chez le kinésithérapeute"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-sante-06",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+        "page": "p. 12",
+        "excerpt": "Mettre en place la carte vitale biométrique"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 11",
+        "excerpt": "Désactiver les cartes vitales après 2 ans d'inactivité"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-education-04",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+        "page": "p. 22",
+        "excerpt": "le diplôme national du brevet deviendra donc un examen d'orientation post-3e"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-education-05",
+    "evidence": [
+      {
+        "url": "https://www.cnews.fr/france/2026-10-16/blocus-des-lycees-presidentielle-2027-jordan-bardella-ce-quil-faut-retenir",
+        "page": null,
+        "excerpt": "qu'il y ait une transparence totale dans les critères"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-education-06",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2025/02/WEB-GRN-LIVRET-IA.pdf",
+        "page": "p. 18",
+        "excerpt": "Dès l'école primaire, introduction de cours d'une sensibilisation au numérique et à l'IA"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-securite-04",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 6",
+        "excerpt": "Construction de 30 000 places de prisons. 1"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-securite-05",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+        "page": "p. 11",
+        "excerpt": "Rendre obligatoire la création d'une police municipale pour les communes de plus de 10 000"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-securite-06",
+    "evidence": [
+      {
+        "url": "https://www.lavenir.net/actu/monde/2026/09/17/france-en-cas-de-victoire-marine-le-pen-veut-interdire-le-voile-de-maniere-progressive-4BGF3FXFXZBX7OL5YSN42XFUXM/",
+        "page": null,
+        "excerpt": "un référendum dont l'objectif (sera) de lutter contre les idéologies islamistes"
+      },
+      {
+        "url": "https://www.lejdd.fr/politique/voile-mosquees-freres-musulmans-marine-le-pen-promet-un-referendum-sur-la-lutte-contre-lislamisme-183690",
+        "page": null,
+        "excerpt": "« Je veux le faire de manière progressive »"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-immigration-05",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+        "page": "p. 10",
+        "excerpt": "Instaurer l'obligation de dépôt des demandes d'asile dans les ambassades et consulats"
+      },
+      {
+        "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+        "page": "p. 9",
+        "excerpt": "traitement des demandes d'asile dans les ambassades et consulats des pays d'origine"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-immigration-06",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 4",
+        "excerpt": "Allocations familiales réservées aux foyers dont un parent est français. 2,2"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-immigration-07",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 5",
+        "excerpt": "Taxation à 14% des transferts d'argent vers les pays tiers. 1,92"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 11",
+        "excerpt": "Taxe de 1000 €/an à l'embauche d'un extra-européen"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-institutions-04",
+    "evidence": [
+      {
+        "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2697/AN/30.pdf",
+        "page": "p. 1",
+        "excerpt": "La Corse est dotée d'un statut d'autonomie insulaire au sein de la République"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/06/GRN-MLP-PPLC-CORSE.pdf",
+        "page": "p. 1",
+        "excerpt": "L'AUTONOMIE INSULAIRE : UNE RÉPONSE INSTITUTIONNELLE POUR L'AVENIR DE LA CORSE"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-europe-04",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+        "page": "p. 8",
+        "excerpt": "Refuser l'élargissement de l'UE aux Balkans, à la Turquie et à l'Ukraine"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-europe-05",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+        "page": "p. 13",
+        "excerpt": "Refuser tout impôt prélevé par l'Union européenne"
+      },
+      {
+        "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+        "page": "p. 13",
+        "excerpt": "Arrêter les nouvelles souscriptions d'emprunts réalisées par la Commission"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-europe-06",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 4",
+        "excerpt": "Restitution des droits de douane français. 2,2"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-international-04",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+        "page": "p. 10",
+        "excerpt": "Sanctuariser la trajectoire budgétaire de la Loi de Programmation Militaire"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-international-05",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+        "page": "p. 9",
+        "excerpt": "Conditionner les aides au développement versées à des États tiers"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 11",
+        "excerpt": "Rationalisation de l'Aide publique au développement"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-international-06",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+        "page": "p. 21",
+        "excerpt": "Redonner à la Francophonie une place de choix dans notre politique étrangère"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-numerique-03",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2025/02/WEB-GRN-LIVRET-IA.pdf",
+        "page": "p. 13",
+        "excerpt": "Abolir partiellement l'IA Act."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-numerique-04",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2025/02/WEB-GRN-LIVRET-IA.pdf",
+        "page": "p. 14",
+        "excerpt": "un régime dérogatoire pour l'entraînement des modèles"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-numerique-05",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2025/02/WEB-GRN-LIVRET-IA.pdf",
+        "page": "p. 7",
+        "excerpt": "Doter la France de pôles régionaux d'excellence en IA"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2025/02/WEB-GRN-LIVRET-IA.pdf",
+        "page": "p. 8",
+        "excerpt": "zones franches technologiques"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-numerique-06",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+        "page": "p. 17",
+        "excerpt": "Défendre la constitution d'un cloud souverain européen"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-culture-03",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+        "page": "p. 21",
+        "excerpt": "Expérimenter la création d'un Service national volontaire du patrimoine"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-outre_mer-04",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 6",
+        "excerpt": "Augmentation des crédits pour l'Outre-mer. 0,6"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-outre_mer-05",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/communiques/acces-a-leau-dans-les-outremers-le-vote-sectaire-du-parlement-empeche-ladoption-de-la-resolution-du-rn",
+        "page": null,
+        "excerpt": "faire de l'accès à l'eau une grande cause publique et transpartisane"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-outre_mer-06",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/communiques/projet-de-loi-de-finances-2027-le-rn-soppose-au-rabotage-des-credits-agricoles-ultramarins-et-depose-un-amendement-de-compensation",
+        "page": null,
+        "excerpt": "a donné instruction pour que soit déposé un amendement parlementaire"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-services_publics-03",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 11",
+        "excerpt": "Suppression des EPCI et des métropoles"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-services_publics-04",
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+        "page": "p. 51",
+        "excerpt": "Créer un ministère dédié à la lutte contre les fraudes"
+      },
+      {
+        "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+        "page": "p. 12",
+        "excerpt": "la création d'un ministère chargé uniquement de cette question"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-services_publics-05",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 11",
+        "excerpt": "Application des 35 h dans la fonction publique territoriale"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-famille-05",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 6",
+        "excerpt": "Revalorisation du congé proche aidants. 2"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "le-pen-famille-06",
+    "evidence": [
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 12",
+        "excerpt": "Garantir que l'AAH soit toujours au-dessus du seuil de pauvreté"
+      }
+    ]
+  },
+  {
+    "action": "program",
+    "measure_id": null,
+    "evidence": [
+      {
+        "url": "https://rassemblementnational.fr/",
+        "page": null,
+        "excerpt": "Projet de gouvernement – Législatives 2024 – Découvrez le programme"
+      },
+      {
+        "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf",
+        "page": "p. 1",
+        "excerpt": "Travaux parlementaires I octobre 2026"
+      },
+      {
+        "url": "https://marinelepen.com/",
+        "page": null,
+        "excerpt": "Présidentielles 2027 : Marine Le Pen, Site Officiel de Campagne"
+      }
+    ]
+  }
+]

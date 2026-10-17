@@ -5,5 +5,73 @@
     "accepted": 700,
     "rejected": 0,
     "changes": []
+  },
+  {
+    "date": "2026-10-17",
+    "summary": "Recherche approfondie : lecture intégrale de tous les documents officiels de chaque candidat et de son parti, puis contre-vérification indépendante de chaque ajout. Le lien principal du programme suit désormais une règle commune (à défaut de programme 2027, le document programmatique officiel le plus récent). Total : 1 268 mesures.",
+    "accepted": 609,
+    "rejected": 15,
+    "changes": [
+      {
+        "candidate": "arthaud",
+        "text": "36 → 37 mesures ; liens vers la brochure « Présidentielle 2027 » détaillés par thème."
+      },
+      {
+        "candidate": "attal",
+        "text": "49 → 102 mesures ; ajouts issus du site de campagne, du discours de Reims sur l'Europe, de la lettre sur les finances publiques et des conventions thématiques de Renaissance (2025)."
+      },
+      {
+        "candidate": "bertrand",
+        "text": "32 → 33 mesures ; précision sur la durée du mandat (engagement personnel et réforme proposée) ; 1 ajout écarté faute de recoupement."
+      },
+      {
+        "candidate": "dupont-aignan",
+        "text": "49 → 103 mesures ; ajouts issus des pages thématiques du projet de Debout la France."
+      },
+      {
+        "candidate": "glucksmann",
+        "text": "47 → 112 mesures ; ajouts issus de l'Acte I du projet de Place publique (projet du parti)."
+      },
+      {
+        "candidate": "le-pen",
+        "text": "58 → 113 mesures ; lien principal : programme du RN des législatives 2024 ; ajouts issus du contre-budget 2027, du Plan Clim' et des livrets du RN."
+      },
+      {
+        "candidate": "lisnard",
+        "text": "46 → 81 mesures ; ajouts issus des pages programme, des carnets Santé et Agriculture et des fiches « Questions »."
+      },
+      {
+        "candidate": "melenchon",
+        "text": "59 → 134 mesures ; ajouts issus de L'Avenir en commun 2025 et des documents de campagne d'octobre 2026 ; SMIC proposé : 1 700 € net (document budgétaire d'octobre 2026)."
+      },
+      {
+        "candidate": "philippe",
+        "text": "54 → 86 mesures ; ajouts issus du site de campagne et des documents d'Horizons ; 4 ajouts écartés (dont 3 propositions de loi de députés non attribuées au candidat)."
+      },
+      {
+        "candidate": "retailleau",
+        "text": "46 → 93 mesures ; ajouts issus des 8 livrets des Républicains."
+      },
+      {
+        "candidate": "roussel",
+        "text": "48 → 82 mesures ; ajouts issus du texte du 40e congrès, des cahiers thématiques et du plan Jeunesse ; 2 ajouts écartés (articles non signés par le candidat)."
+      },
+      {
+        "candidate": "ruffin",
+        "text": "44 → 68 mesures ; ajouts issus des cahiers de campagne n° 1 à 7 et du plan Urgence climat ; premières mesures en santé et en éducation."
+      },
+      {
+        "candidate": "tondelier",
+        "text": "51 → 114 mesures ; ajouts issus du programme « Pour une prospérité écologique », des livrets et des dossiers de presse."
+      },
+      {
+        "candidate": "villepin",
+        "text": "47 → 74 mesures ; ajouts issus de la page « 20 propositions pour 2027 » ; programme désormais indiqué comme partiel."
+      },
+      {
+        "candidate": "zemmour",
+        "text": "34 → 36 mesures ; 8 ajouts écartés : propositions présentées comme le plan de Sarah Knafo et non comme le programme du candidat."
+      }
+    ]
   }
 ]

@@ -1,0 +1,137 @@
+[
+  {
+    "measure_id": "program",
+    "decision": "acceptee",
+    "motif": "Bloc program vérifié : ancienne URL du plan Data centers en 404, nouvelle URL en 200 ; cahier n°7 mis en ligne le 15/10/2026 et plan Urgence climat le 12/10/2026 (dates de téléversement WordPress) ; nombres de pages des thematic_links conformes ; archive Wayback 200."
+  },
+  {
+    "measure_id": "ruffin-numerique-01",
+    "decision": "acceptee",
+    "motif": "Mise à jour d'URL justifiée : Plan_Data_Centers_V2.pdf renvoie 404, PA_Data_CENTERS_V2.pdf (200) contient le même texte (p. 15). Contenu inchangé et conforme."
+  },
+  {
+    "measure_id": "ruffin-numerique-02",
+    "decision": "acceptee",
+    "motif": "Mise à jour d'URL justifiée : Plan_Data_Centers_V2.pdf renvoie 404, PA_Data_CENTERS_V2.pdf (200) contient le même texte (p. 5). Contenu inchangé et conforme."
+  },
+  {
+    "measure_id": "ruffin-economie-04",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 29 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-economie-05",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 41 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-fiscalite-03",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 47 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-fiscalite-04",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 51 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-emploi-05",
+    "decision": "corrigee",
+    "motif": "Corrigée : le chômage technique pour canicule et les seuils de température figurent p. 23 ; page portée à p. 22-23."
+  },
+  {
+    "measure_id": "ruffin-emploi-06",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 23 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-ecologie-04",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 15 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-ecologie-05",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 55 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-ecologie-06",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 38 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-agriculture-05",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 10 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-logement-05",
+    "decision": "corrigee",
+    "motif": "Corrigée : l'extension aux bénéficiaires en cours et le prêt public de « second ressort » sont détaillés p. 30 ; page portée à p. 29-30."
+  },
+  {
+    "measure_id": "ruffin-logement-06",
+    "decision": "corrigee",
+    "motif": "Corrigée : les quotas de résidences secondaires fixés par les intercommunalités figurent p. 33 (imposition des usages occasionnels p. 34) ; page portée à p. 33-34 (#page=33)."
+  },
+  {
+    "measure_id": "ruffin-sante-01",
+    "decision": "corrigee",
+    "motif": "Corrigée : la mention des médicaments « tombés dans le domaine public » figure p. 49 ; page portée à p. 48-49."
+  },
+  {
+    "measure_id": "ruffin-sante-02",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 7 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-education-01",
+    "decision": "corrigee",
+    "motif": "Corrigée : le rapprochement conservatoires/MJC figure p. 43 ; page portée à p. 42-43."
+  },
+  {
+    "measure_id": "ruffin-education-02",
+    "decision": "corrigee",
+    "motif": "Corrigée : le doublement des formations de reconversion financées figure p. 58 (BTS et alternance p. 57) ; page portée à p. 57-58."
+  },
+  {
+    "measure_id": "ruffin-securite-03",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 5 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-institutions-04",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 39 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-institutions-05",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 40 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-institutions-06",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 53 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-europe-03",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 30 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-numerique-04",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 39 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-international-03",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 49 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  },
+  {
+    "measure_id": "ruffin-services_publics-03",
+    "decision": "acceptee",
+    "motif": "Conforme au document de campagne p. 24 (chiffres, conditions et temps vérifiés) ; source_type officiel, URL et date vérifiées."
+  }
+]

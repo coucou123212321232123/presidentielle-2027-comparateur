@@ -1,0 +1,494 @@
+[
+  {
+    "action": "add",
+    "measure_id": "philippe-economie-03",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+        "page": null,
+        "excerpt": "Supprimer le code français de la commande publique dès l'entrée en vigueur"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-economie-04",
+    "evidence": [
+      {
+        "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-du-conseil-national-a-reims-10-mai-2026/",
+        "page": null,
+        "excerpt": "nous préparerons une ordonnance de suppression, que nous ferons adopter juste après les élections"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-economie-05",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+        "page": null,
+        "excerpt": "Créer un « livret capital France » pour mobiliser l'épargne dormante des Français"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-fiscalite-03",
+    "evidence": [
+      {
+        "url": "https://horizonsleparti.fr/ma-proposition-aux-entrepreneurs/",
+        "page": null,
+        "excerpt": "Ce deal sera scellé pour cinq ans"
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+        "page": null,
+        "excerpt": "Défendre le maintien du pacte Dutreil pour la transmission des entreprises familiales."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-fiscalite-04",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "Augmenter massivement les plafonds de donation du vivant aux enfants et petits-enfants"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-emploi-04",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+        "page": null,
+        "excerpt": "Développer la retraite progressive et le cumul emploi-retraite"
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+        "page": null,
+        "excerpt": "former, recruter et accompagner les salariés après 50 ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-retraites-04",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena",
+        "page": null,
+        "excerpt": "dire aux retraités qu'il faudra contribuer davantage au financement de notre système social"
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena",
+        "page": null,
+        "excerpt": "supprimer les niches fiscales, avant de songer à augmenter les impôts"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-energie-02",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+        "page": null,
+        "excerpt": "Étendre considérablement le soutien du fonds chaleur aux réseaux de froid"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-ecologie-04",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+        "page": null,
+        "excerpt": "Climatiser massivement les lieux accueillant des personnes fragiles."
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+        "page": null,
+        "excerpt": "Donner de l'ombre à nos villes en multipliant les plantations d'arbres"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-ecologie-05",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+        "page": null,
+        "excerpt": "lançant un plan baignade national pour rendre baignables toutes nos rivières"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-ecologie-06",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena",
+        "page": null,
+        "excerpt": "Nous devrons mettre en oeuvre un grand plan fret ferroviaire"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-ecologie-07",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+        "page": null,
+        "excerpt": "Revoir le système d'assurance du risque climatique : zones devenues inassurables"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-ecologie-08",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+        "page": null,
+        "excerpt": "investir massivement dans la capture de carbone"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-agriculture-04",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/actualites/festival-les-terres-de-jim-edouard-philippe-est-alle-a-la-rencontre-des-agriculteurs",
+        "page": null,
+        "excerpt": "Faciliter l'installation, la transmission et l'accès au foncier et au financement."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-logement-03",
+    "evidence": [
+      {
+        "url": "https://horizonsleparti.fr/la-niche-parlementaire-du-groupe-horizons-independants-2026/",
+        "page": null,
+        "excerpt": "conditionnant toute souscription d’un contrat d’électricité ou de gaz à la présentation d’un justificatif"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-sante-04",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "donnant aux élèves accès à des tiers de confiance"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-education-05",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "Concentrer l'enseignement primaire sur les savoirs fondamentaux : lire, écrire, compter"
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "Réduire les effectifs d'élèves en classe, en maternelle et en primaire."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-education-06",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "avancer la rentrée d'une à deux semaines pour les élèves qui en ont besoin"
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena",
+        "page": null,
+        "excerpt": "Des vacances d'été raccourcies pour que le savoir ne se perde pas"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-education-07",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "Créer une « amende de responsabilisation scolaire », inspirée du modèle britannique"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-education-08",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "Rendre publiques auprès des parents et des élus locaux les évaluations de performance"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-education-09",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "Refonder l'orientation en fin de collège et au lycée"
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "Réformer la carrière des enseignants"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-securite-05",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "page": null,
+        "excerpt": "développant le recrutement d'individus ayant eu une vie professionnelle dans d'autres secteurs du droit"
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "page": null,
+        "excerpt": "l'instauration d'un « devoir de redevabilité » à l'égard des victimes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-securite-06",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "page": null,
+        "excerpt": "Constituer une « fiche S financière »"
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "page": null,
+        "excerpt": "permettre le recouvrement forcé des amendes sur les prestations sociales"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-securite-07",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "page": null,
+        "excerpt": "criblage systématique de toutes les fonctions sensibles"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-securite-08",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "page": null,
+        "excerpt": "Construire en France des « Canadairs français », pour lutter contre les incendies."
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "page": null,
+        "excerpt": "Former tous les Français aux premiers secours."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-securite-09",
+    "evidence": [
+      {
+        "url": "https://horizonsleparti.fr/discours-du-congres-de-marseille-17-mai-2025/",
+        "page": null,
+        "excerpt": "au civil comme au pénal, à recréer les juges de paix"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-immigration-05",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "page": null,
+        "excerpt": "Aligner les aides sociales versées aux étrangers sur la moyenne européenne"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-immigration-06",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "page": null,
+        "excerpt": "Instaurer un « verrou Schengen »"
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "page": null,
+        "excerpt": "Créer un régime européen de sanctions contre les passeurs"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-immigration-07",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "page": null,
+        "excerpt": "Utiliser les centres de retour prévus par le règlement européen retour."
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "page": null,
+        "excerpt": "appliquer réellement la hausse des droits d'inscription des étudiants extra-européens"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-europe-04",
+    "evidence": [
+      {
+        "url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/",
+        "page": null,
+        "excerpt": "une liste noire européenne de pays producteurs et de transit de drogue"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-outre_mer-04",
+    "evidence": [
+      {
+        "url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/",
+        "page": null,
+        "excerpt": "en Guyane étendre le mandat de l’opération Harpie à la lutte contre le narcotrafic"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-famille-04",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "Instituer un « droit de savoir » inspiré de la Sarah's law britannique"
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "Mettre en place l'imprescriptibilité pour les crimes sur mineur"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-famille-05",
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "Rendre obligatoire, pendant chaque temps périscolaire, la présence d'un responsable formé"
+      },
+      {
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "page": null,
+        "excerpt": "Publier les parcours des éducateurs du périscolaire."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-famille-06",
+    "evidence": [
+      {
+        "url": "https://horizonsleparti.fr/la-niche-parlementaire-du-groupe-horizons-independants-2026/",
+        "page": null,
+        "excerpt": "la création d’une carte famille ouverte dès le deuxième enfant"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-famille-07",
+    "evidence": [
+      {
+        "url": "https://horizonsleparti.fr/la-niche-parlementaire-du-groupe-horizons-independants-2026/",
+        "page": null,
+        "excerpt": "autorisant la CAF à fixer et verser une pension alimentaire provisoire"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "philippe-culture-01",
+    "evidence": [
+      {
+        "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-du-conseil-national-a-reims-10-mai-2026/",
+        "page": null,
+        "excerpt": "Choix de défendre notre culture et leurs auteurs, pour continuer à créer librement."
+      }
+    ]
+  },
+  {
+    "action": "program",
+    "measure_id": null,
+    "evidence": [
+      {
+        "url": "https://www.edouardphilippe.fr/",
+        "page": null,
+        "excerpt": "Découvrez les premières orientations de son programme massif."
+      },
+      {
+        "url": "https://horizonsleparti.fr/les-notes/",
+        "page": null,
+        "excerpt": "Chaque mois, le pôle Idées publie une Note d’Horizons."
+      },
+      {
+        "url": "https://horizonsleparti.fr/ma-proposition-aux-entrepreneurs/",
+        "page": null,
+        "excerpt": "Ce deal sera scellé pour cinq ans"
+      },
+      {
+        "url": "https://archive.org/wayback/available?url=edouardphilippe.fr",
+        "page": null,
+        "excerpt": "web.archive.org/web/20261015153859/https://www.edouardphilippe.fr/"
+      }
+    ]
+  }
+]

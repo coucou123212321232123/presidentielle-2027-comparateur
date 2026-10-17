@@ -1,0 +1,277 @@
+[
+  {
+    "measure_id": "dupont-aignan-economie-04",
+    "decision": "acceptee",
+    "motif": "Page « Économie » du projet DLF (dateModified 10/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-economie-05",
+    "decision": "acceptee",
+    "motif": "Page « Économie » du projet DLF (dateModified 10/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-fiscalite-04",
+    "decision": "acceptee",
+    "motif": "Page « Économie » du projet DLF (dateModified 10/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-fiscalite-05",
+    "decision": "acceptee",
+    "motif": "Page « Économie » du projet DLF (dateModified 10/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-fiscalite-06",
+    "decision": "acceptee",
+    "motif": "Page « Économie » du projet DLF (dateModified 10/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-emploi-03",
+    "decision": "corrigee",
+    "motif": "Page Économie (modifiée le 10/10/2026) : la source dit « chômeur de longue durée (3 ans) » ; « au moins trois ans » était une extrapolation : corrigé."
+  },
+  {
+    "measure_id": "dupont-aignan-emploi-04",
+    "decision": "acceptee",
+    "motif": "Page « Économie » du projet DLF (dateModified 10/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-emploi-05",
+    "decision": "acceptee",
+    "motif": "Page « Économie » du projet DLF (dateModified 10/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-retraites-04",
+    "decision": "corrigee",
+    "motif": "Page Agriculture (modifiée le 16/02/2026) : retraite « égale au minimum vieillesse » et non « au moins égale » : corrigé."
+  },
+  {
+    "measure_id": "dupont-aignan-energie-04",
+    "decision": "acceptee",
+    "motif": "Page « Économie » du projet DLF (dateModified 10/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-ecologie-03",
+    "decision": "acceptee",
+    "motif": "Page « Environnement et énergie » du projet DLF (dateModified 29/10/2025 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-ecologie-04",
+    "decision": "acceptee",
+    "motif": "Page « Environnement et énergie » du projet DLF (dateModified 29/10/2025 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-agriculture-03",
+    "decision": "acceptee",
+    "motif": "Page « Agriculture » du projet DLF (dateModified 16/02/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-agriculture-04",
+    "decision": "acceptee",
+    "motif": "Page « Agriculture » du projet DLF (dateModified 16/02/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-agriculture-05",
+    "decision": "acceptee",
+    "motif": "Page « Agriculture » du projet DLF (dateModified 16/02/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-agriculture-06",
+    "decision": "acceptee",
+    "motif": "Page « Affaires européennes » du projet DLF (dateModified 05/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-logement-03",
+    "decision": "acceptee",
+    "motif": "Page « Logement » du projet DLF (dateModified 30/09/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-logement-04",
+    "decision": "acceptee",
+    "motif": "Page « Logement » du projet DLF (dateModified 30/09/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-logement-05",
+    "decision": "acceptee",
+    "motif": "Page « Logement » du projet DLF (dateModified 30/09/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-sante-03",
+    "decision": "acceptee",
+    "motif": "Page « Santé » du projet DLF (dateModified 05/02/2024 = source_date exacte) : texte et chiffres conformes à la source. Page non mise à jour depuis le 05/02/2024, ce que la description et le source_title signalent ; toujours publiée dans la rubrique Projet du parti."
+  },
+  {
+    "measure_id": "dupont-aignan-sante-04",
+    "decision": "acceptee",
+    "motif": "Page « Santé » du projet DLF (dateModified 05/02/2024 = source_date exacte) : texte et chiffres conformes à la source. Page non mise à jour depuis le 05/02/2024, ce que la description et le source_title signalent ; toujours publiée dans la rubrique Projet du parti."
+  },
+  {
+    "measure_id": "dupont-aignan-sante-05",
+    "decision": "acceptee",
+    "motif": "Page « Santé » du projet DLF (dateModified 05/02/2024 = source_date exacte) : texte et chiffres conformes à la source. Page non mise à jour depuis le 05/02/2024, ce que la description et le source_title signalent ; toujours publiée dans la rubrique Projet du parti."
+  },
+  {
+    "measure_id": "dupont-aignan-education-03",
+    "decision": "acceptee",
+    "motif": "Page « Instruction publique » du projet DLF (dateModified 12/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-education-04",
+    "decision": "acceptee",
+    "motif": "Page « Instruction publique » du projet DLF (dateModified 12/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-education-05",
+    "decision": "acceptee",
+    "motif": "Page « Instruction publique » du projet DLF (dateModified 12/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-education-06",
+    "decision": "acceptee",
+    "motif": "Page « Instruction publique » du projet DLF (dateModified 12/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-securite-04",
+    "decision": "acceptee",
+    "motif": "Page « Justice » du projet DLF (dateModified 12/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-securite-05",
+    "decision": "acceptee",
+    "motif": "Page « Justice » du projet DLF (dateModified 12/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-securite-06",
+    "decision": "acceptee",
+    "motif": "Page « Justice » du projet DLF (dateModified 12/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-immigration-04",
+    "decision": "acceptee",
+    "motif": "Page « Immigration et assimilation » du projet DLF (dateModified 03/03/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-immigration-05",
+    "decision": "corrigee",
+    "motif": "Page Immigration (modifiée le 03/03/2026) : « après plusieurs semaines de clandestinité » et non « une période » : condition rétablie."
+  },
+  {
+    "measure_id": "dupont-aignan-immigration-06",
+    "decision": "acceptee",
+    "motif": "Page « Immigration et assimilation » du projet DLF (dateModified 03/03/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-institutions-04",
+    "decision": "acceptee",
+    "motif": "Page « Refonder et moraliser notre démocratie » du projet DLF (dateModified 09/06/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-institutions-05",
+    "decision": "acceptee",
+    "motif": "Page « Refonder et moraliser notre démocratie » du projet DLF (dateModified 09/06/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-institutions-06",
+    "decision": "acceptee",
+    "motif": "Page « Refonder et moraliser notre démocratie » du projet DLF (dateModified 09/06/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-europe-03",
+    "decision": "acceptee",
+    "motif": "Page « Affaires européennes » du projet DLF (dateModified 05/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-europe-04",
+    "decision": "acceptee",
+    "motif": "Page « Affaires européennes » du projet DLF (dateModified 05/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-europe-05",
+    "decision": "acceptee",
+    "motif": "Page « Affaires européennes » du projet DLF (dateModified 05/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-europe-06",
+    "decision": "acceptee",
+    "motif": "Page « Économie » du projet DLF (dateModified 10/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-international-04",
+    "decision": "acceptee",
+    "motif": "Page « Défense » du projet DLF (dateModified 08/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-international-05",
+    "decision": "acceptee",
+    "motif": "Page « Défense » du projet DLF (dateModified 08/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-international-06",
+    "decision": "acceptee",
+    "motif": "Page « Affaires étrangères » du projet DLF (dateModified 16/02/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-numerique-03",
+    "decision": "acceptee",
+    "motif": "Page « Intelligence artificielle » du projet DLF (dateModified 12/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-numerique-04",
+    "decision": "acceptee",
+    "motif": "Page « Intelligence artificielle » du projet DLF (dateModified 12/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-numerique-05",
+    "decision": "acceptee",
+    "motif": "Page « Intelligence artificielle » du projet DLF (dateModified 12/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-culture-03",
+    "decision": "acceptee",
+    "motif": "Page « Affaires étrangères » du projet DLF (dateModified 16/02/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-culture-04",
+    "decision": "acceptee",
+    "motif": "Page « Affaires étrangères » du projet DLF (dateModified 16/02/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-outre_mer-03",
+    "decision": "acceptee",
+    "motif": "Page « Outre-mer » du projet DLF (dateModified 01/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-outre_mer-04",
+    "decision": "corrigee",
+    "motif": "Page Outre-mer (modifiée le 01/10/2026) : le remplacement par une TVA vise les produits importés de l'Hexagone et de l'UE ne concurrençant pas la production locale ; condition d'origine ajoutée."
+  },
+  {
+    "measure_id": "dupont-aignan-outre_mer-05",
+    "decision": "acceptee",
+    "motif": "Page « Outre-mer » du projet DLF (dateModified 01/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-services_publics-03",
+    "decision": "acceptee",
+    "motif": "Page « Économie » du projet DLF (dateModified 10/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-famille-04",
+    "decision": "acceptee",
+    "motif": "Page « Handicap » du projet DLF (dateModified 08/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-famille-05",
+    "decision": "acceptee",
+    "motif": "Page « Handicap » du projet DLF (dateModified 08/10/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "dupont-aignan-famille-06",
+    "decision": "acceptee",
+    "motif": "Page « Combat pour les femmes » du projet DLF (dateModified 16/02/2026 = source_date exacte) : texte et chiffres conformes à la source."
+  },
+  {
+    "measure_id": "program",
+    "decision": "corrigee",
+    "motif": "Note : « travaillent actuellement à l'actualisation » confirmé sur /notre-projet/ ; 32 pages projet confirmées ; mais 20 pages (et non 17) ont un dateModified 2026 (oubli de produire-en-france, équilibre du territoire, Français de l'étranger) : décompte et liste corrigés. 10 pages datées du 05/02/2024 + politique-mer 07/03/2024, environnement 29/10/2025 : conforme. Liens thématiques ouverts (HTTP 200)."
+  }
+]

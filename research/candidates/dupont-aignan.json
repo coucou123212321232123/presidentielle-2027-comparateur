@@ -29,8 +29,14 @@
     "Candidat à l'élection présidentielle de 2012, 2017 et 2022"
   ],
   "key_people": [
-    { "name": "Frédéric Guyard", "role": "Secrétaire général de Debout la France" },
-    { "name": "Cécile Bayle de Jessé", "role": "Vice-présidente de Debout la France" }
+    {
+      "name": "Frédéric Guyard",
+      "role": "Secrétaire général de Debout la France"
+    },
+    {
+      "name": "Cécile Bayle de Jessé",
+      "role": "Vice-présidente de Debout la France"
+    }
   ],
   "slogan": "Libérons la France. Protégeons les Français.",
   "slogan_source_url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
@@ -45,13 +51,34 @@
   "website": "https://www.dupontaignan.fr/",
   "news_url": "https://www.dupontaignan.fr/actualite/",
   "socials": [
-    { "platform": "X", "url": "https://x.com/dupontaignan/" },
-    { "platform": "Facebook", "url": "https://www.facebook.com/nicolasdupontaignan/" },
-    { "platform": "Instagram", "url": "https://www.instagram.com/dupontaignan/" },
-    { "platform": "YouTube", "url": "https://www.youtube.com/user/ndatv" },
-    { "platform": "TikTok", "url": "https://www.tiktok.com/@dupontaignannicolas" },
-    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/dupontaignan/" },
-    { "platform": "Telegram", "url": "https://t.me/s/dupontaignan" }
+    {
+      "platform": "X",
+      "url": "https://x.com/dupontaignan/"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/nicolasdupontaignan/"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/dupontaignan/"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/user/ndatv"
+    },
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@dupontaignannicolas"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dupontaignan/"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/s/dupontaignan"
+    }
   ],
   "program": {
     "title": "Le Projet de Debout la France (programme par thèmes, en cours d'actualisation pour 2027)",
@@ -59,27 +86,201 @@
     "format": "page_web",
     "published_date": null,
     "status": "partiel",
-    "note": "Programme thématique de Debout la France (une trentaine de pages, accessibles depuis le site de campagne dupontaignan.fr). Le parti indique que ses équipes « travaillent actuellement à l'actualisation » du programme pour 2027 : certaines pages ont été mises à jour en 2025-2026 (économie, Europe, sécurité, justice, immigration, logement, famille, outre-mer, IA), d'autres datent de 2022-2024 (santé, retraites, culture). Les grands axes ont été présentés dans le discours de Yerres du 19 septembre 2026. Le candidat a aussi publié le livre « 2027 : La liberté ou la mort » (Fayard, 2026), non consulté.",
+    "note": "Programme thématique de Debout la France (32 pages accessibles depuis le site de campagne dupontaignan.fr). Le parti indique que ses équipes « travaillent actuellement à l'actualisation » du programme pour 2027 : au 16 octobre 2026, 20 pages ont été modifiées en 2026 (économie, produire en France, Europe, affaires étrangères, défense, justice, sécurité, immigration, éducation, logement, famille, handicap, outre-mer, agriculture, équilibre du territoire, Français de l'étranger, IA, démocratie, transports, droits des femmes), l'environnement en octobre 2025, et les autres datent de 2024 (santé, retraites, culture, enseignement supérieur…). Les grands axes ont été présentés dans le discours de Yerres du 19 septembre 2026. Aucun document PDF de programme n'a été trouvé. Le candidat a aussi publié le livre « 2027 : La liberté ou la mort » (Fayard, 2026), non consulté.",
     "thematic_links": [
-      { "theme": "economie", "title": "Économie et travail", "url": "https://www.debout-la-france.fr/projet/economie-travail/", "format": "page_web", "page_range": null },
-      { "theme": "europe", "title": "Affaires européennes", "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/", "format": "page_web", "page_range": null },
-      { "theme": "institutions", "title": "Refonder et moraliser notre démocratie", "url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/", "format": "page_web", "page_range": null },
-      { "theme": "securite", "title": "Sécurité", "url": "https://www.debout-la-france.fr/projet/securite/", "format": "page_web", "page_range": null },
-      { "theme": "immigration", "title": "Immigration et assimilation", "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/", "format": "page_web", "page_range": null },
-      { "theme": "logement", "title": "Logement", "url": "https://www.debout-la-france.fr/projet/logement/", "format": "page_web", "page_range": null },
-      { "theme": "energie", "title": "Environnement et Énergie", "url": "https://www.debout-la-france.fr/projet/environnement-energie/", "format": "page_web", "page_range": null },
-      { "theme": "numerique", "title": "Intelligence Artificielle", "url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/", "format": "page_web", "page_range": null }
+      {
+        "theme": "economie",
+        "title": "Économie et travail",
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "europe",
+        "title": "Affaires européennes",
+        "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "institutions",
+        "title": "Refonder et moraliser notre démocratie",
+        "url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "securite",
+        "title": "Sécurité",
+        "url": "https://www.debout-la-france.fr/projet/securite/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "immigration",
+        "title": "Immigration et assimilation",
+        "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "logement",
+        "title": "Logement",
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "energie",
+        "title": "Environnement et Énergie",
+        "url": "https://www.debout-la-france.fr/projet/environnement-energie/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "numerique",
+        "title": "Intelligence Artificielle",
+        "url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "economie",
+        "title": "Produire en France",
+        "url": "https://www.debout-la-france.fr/projet/produire-en-france/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "securite",
+        "title": "Justice",
+        "url": "https://www.debout-la-france.fr/projet/justice/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "international",
+        "title": "Défense nationale",
+        "url": "https://www.debout-la-france.fr/projet/defense/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "international",
+        "title": "Affaires étrangères",
+        "url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "education",
+        "title": "Éducation (Instruction publique)",
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "agriculture",
+        "title": "Agriculture",
+        "url": "https://www.debout-la-france.fr/projet/agriculture/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "outre_mer",
+        "title": "Outre-mer",
+        "url": "https://www.debout-la-france.fr/projet/outre-mer/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "famille",
+        "title": "Famille",
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "famille",
+        "title": "Handicap",
+        "url": "https://www.debout-la-france.fr/projet/handicap/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "famille",
+        "title": "Combat pour les femmes",
+        "url": "https://www.debout-la-france.fr/projet/combat-pour-les-femmes/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "sante",
+        "title": "Santé (page de 2024)",
+        "url": "https://www.debout-la-france.fr/projet/sante/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "retraites",
+        "title": "Retraites (page de 2024)",
+        "url": "https://www.debout-la-france.fr/projet/retraites/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "services_publics",
+        "title": "Équilibre du territoire et monde rural",
+        "url": "https://www.debout-la-france.fr/projet/equilibre-territoire-monde-rural/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "ecologie",
+        "title": "Automobilistes et Motards",
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "culture",
+        "title": "Culture et patrimoine (page de 2024)",
+        "url": "https://www.debout-la-france.fr/projet/culture-patrimoine/",
+        "format": "page_web",
+        "page_range": null
+      }
     ],
     "archive_url": null
   },
   "sources": [
-    { "label": "Wikipédia – Nicolas Dupont-Aignan", "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan" },
-    { "label": "Wikipédia – Debout la France", "url": "https://fr.wikipedia.org/wiki/Debout_la_France" },
-    { "label": "Le Figaro – Nicolas Dupont-Aignan se déclare candidat à la prochaine élection présidentielle (8 mars 2025)", "url": "https://www.lefigaro.fr/politique/nicolas-dupont-aignan-se-declare-candidat-a-la-prochaine-election-presidentielle-20250308" },
-    { "label": "franceinfo – Le souverainiste Nicolas Dupont-Aignan se lance pour la 4e fois dans la course à l'Élysée (8 mars 2025)", "url": "https://www.francetvinfo.fr/politique/nicolas-dupont-aignan/le-souverainiste-nicolas-dupont-aignan-se-lance-pour-la-4e-fois-dans-la-course-a-l-elysee_7118136.html" },
-    { "label": "Discours de rentrée « Libérons la France ! » (Yerres, 19 septembre 2026)", "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/" },
-    { "label": "Site de campagne Dupont-Aignan 2027", "url": "https://www.dupontaignan.fr/" },
-    { "label": "Debout la France – Le Projet", "url": "https://www.debout-la-france.fr/notre-projet/" }
+    {
+      "label": "Wikipédia – Nicolas Dupont-Aignan",
+      "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "label": "Wikipédia – Debout la France",
+      "url": "https://fr.wikipedia.org/wiki/Debout_la_France"
+    },
+    {
+      "label": "Le Figaro – Nicolas Dupont-Aignan se déclare candidat à la prochaine élection présidentielle (8 mars 2025)",
+      "url": "https://www.lefigaro.fr/politique/nicolas-dupont-aignan-se-declare-candidat-a-la-prochaine-election-presidentielle-20250308"
+    },
+    {
+      "label": "franceinfo – Le souverainiste Nicolas Dupont-Aignan se lance pour la 4e fois dans la course à l'Élysée (8 mars 2025)",
+      "url": "https://www.francetvinfo.fr/politique/nicolas-dupont-aignan/le-souverainiste-nicolas-dupont-aignan-se-lance-pour-la-4e-fois-dans-la-course-a-l-elysee_7118136.html"
+    },
+    {
+      "label": "Discours de rentrée « Libérons la France ! » (Yerres, 19 septembre 2026)",
+      "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/"
+    },
+    {
+      "label": "Site de campagne Dupont-Aignan 2027",
+      "url": "https://www.dupontaignan.fr/"
+    },
+    {
+      "label": "Debout la France – Le Projet",
+      "url": "https://www.debout-la-france.fr/notre-projet/"
+    }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

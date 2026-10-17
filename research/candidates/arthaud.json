@@ -27,7 +27,10 @@
     "Tête de liste Lutte ouvrière à Pantin aux élections municipales de 2026"
   ],
   "key_people": [
-    { "name": "Jean-Pierre Mercier", "role": "Co-porte-parole de Lutte ouvrière" }
+    {
+      "name": "Jean-Pierre Mercier",
+      "role": "Co-porte-parole de Lutte ouvrière"
+    }
   ],
   "slogan": "Le camp des travailleurs",
   "slogan_source_url": "https://www.nathalie-arthaud.info",
@@ -42,11 +45,26 @@
   "website": "https://www.nathalie-arthaud.info",
   "news_url": "https://www.lutte-ouvriere.org/portail/index.html",
   "socials": [
-    { "platform": "X", "url": "https://twitter.com/n_arthaud" },
-    { "platform": "Facebook", "url": "https://www.facebook.com/nathaliearthaud" },
-    { "platform": "Instagram", "url": "https://www.instagram.com/nathalie_arthaud_lo/" },
-    { "platform": "YouTube", "url": "https://www.youtube.com/channel/UCZsh-MrJftAOP_-ZgRgLScw" },
-    { "platform": "TikTok", "url": "https://www.tiktok.com/@nathaliearthaud" }
+    {
+      "platform": "X",
+      "url": "https://twitter.com/n_arthaud"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/nathaliearthaud"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/nathalie_arthaud_lo/"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/channel/UCZsh-MrJftAOP_-ZgRgLScw"
+    },
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@nathaliearthaud"
+    }
   ],
   "program": {
     "title": "Nathalie Arthaud – Présidentielle 2027 (brochure de la fête annuelle de Lutte ouvrière, mai 2026)",
@@ -54,21 +72,107 @@
     "format": "pdf",
     "published_date": "2026-06-26",
     "status": "partiel",
-    "note": "Brochure de campagne de 32 pages (supplément gratuit à Lutte ouvrière n° 3021 du 26 juin 2026). Lutte ouvrière la présente comme un « programme révolutionnaire à imposer par les luttes, pas un programme électoral » ; il n'existe pas de programme chiffré thème par thème. Les positions sont complétées par les discours de meeting (14 février et 26 septembre 2026) et les éditoriaux hebdomadaires signés par la candidate.",
+    "note": "Brochure de campagne de 32 pages (supplément gratuit à Lutte ouvrière n° 3021 du 26 juin 2026), toujours la référence au 16 octobre 2026. Lutte ouvrière la présente comme un « programme révolutionnaire à imposer par les luttes, pas un programme électoral » ; il n'existe pas de programme chiffré thème par thème, ni de programme spécifique aux Outre-mer. Les positions sont complétées par les discours de meeting (14 février et 26 septembre 2026), les discours de la fête de mai 2026, les éditoriaux hebdomadaires signés par la candidate et les pages « Qui sommes-nous ? » du site de Lutte ouvrière (le site nathalie-arthaud.info renvoie vers ces pages pour « Nos positions »).",
     "thematic_links": [
-      { "theme": "economie", "title": "Meeting du 26 septembre 2026 : discours de Nathalie Arthaud", "url": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html", "format": "page_web", "page_range": null },
-      { "theme": "institutions", "title": "Meeting du 14 février 2026 : discours de Nathalie Arthaud", "url": "https://www.lutte-ouvriere.org/portail/brochures/meeting-14-fevrier-2026-discours-nathalie-arthaud-191591.html", "format": "page_web", "page_range": null },
-      { "theme": "europe", "title": "Qui sommes-nous ? – Europe", "url": "https://lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-europe", "format": "page_web", "page_range": null }
+      {
+        "theme": "economie",
+        "title": "Meeting du 26 septembre 2026 : discours de Nathalie Arthaud",
+        "url": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html",
+        "format": "page_web",
+        "page_range": "page web (texte intégral)"
+      },
+      {
+        "theme": "institutions",
+        "title": "Meeting du 14 février 2026 : discours de Nathalie Arthaud",
+        "url": "https://www.lutte-ouvriere.org/portail/brochures/meeting-14-fevrier-2026-discours-nathalie-arthaud-191591.html",
+        "format": "page_web",
+        "page_range": "page web (texte intégral)"
+      },
+      {
+        "theme": "europe",
+        "title": "Qui sommes-nous ? – Europe",
+        "url": "https://lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-europe",
+        "format": "page_web",
+        "page_range": "page web (texte intégral)"
+      },
+      {
+        "theme": "economie",
+        "title": "Brochure « Nathalie Arthaud – Présidentielle 2027 » : « Le programme que les travailleurs devront imposer ! »",
+        "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=10",
+        "format": "pdf",
+        "page_range": "p. 8-12 (pages PDF 10-14)"
+      },
+      {
+        "theme": "immigration",
+        "title": "Brochure « Présidentielle 2027 » : « Combattons la division entre travailleurs »",
+        "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=15",
+        "format": "pdf",
+        "page_range": "p. 13-17 (pages PDF 15-19)"
+      },
+      {
+        "theme": "international",
+        "title": "Brochure « Présidentielle 2027 » : « Le capitalisme, c'est la guerre »",
+        "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=20",
+        "format": "pdf",
+        "page_range": "p. 18-23 (pages PDF 20-25)"
+      },
+      {
+        "theme": "ecologie",
+        "title": "Qui sommes-nous ? – Écologie",
+        "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-ecologie",
+        "format": "page_web",
+        "page_range": "page web (texte intégral)"
+      },
+      {
+        "theme": "logement",
+        "title": "Qui sommes-nous ? – Logement : un droit fondamental à conquérir",
+        "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-nos-idees-et-positions-politiques-logement-un-droit-fondamental-conquerir",
+        "format": "page_web",
+        "page_range": "page web (texte intégral)"
+      },
+      {
+        "theme": "economie",
+        "title": "Éditorial « Le 17 octobre et après, montrons que l'esprit de révolte n'a pas d'âge ! » (12 octobre 2026)",
+        "url": "https://www.lutte-ouvriere.org/portail/editoriaux/17-octobre-apres-montrons-lesprit-revolte-na-dage-205755.html",
+        "format": "page_web",
+        "page_range": "page web (texte intégral)"
+      }
     ],
     "archive_url": null
   },
   "sources": [
-    { "label": "Wikipédia – Nathalie Arthaud", "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud" },
-    { "label": "Wikipédia – Lutte ouvrière", "url": "https://fr.wikipedia.org/wiki/Lutte_ouvri%C3%A8re" },
-    { "label": "ICI (AFP) – Présidentielle 2027 : Nathalie Arthaud annonce sa candidature pour Lutte ouvrière (8 décembre 2025)", "url": "https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318" },
-    { "label": "Site de campagne de Nathalie Arthaud", "url": "https://www.nathalie-arthaud.info" },
-    { "label": "Brochure « Présidentielle 2027 » (juin 2026)", "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf" },
-    { "label": "Lutte ouvrière – Éditoriaux", "url": "https://www.lutte-ouvriere.org/portail/editoriaux/index.html" }
+    {
+      "label": "Wikipédia – Nathalie Arthaud",
+      "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
+    },
+    {
+      "label": "Wikipédia – Lutte ouvrière",
+      "url": "https://fr.wikipedia.org/wiki/Lutte_ouvri%C3%A8re"
+    },
+    {
+      "label": "ICI (AFP) – Présidentielle 2027 : Nathalie Arthaud annonce sa candidature pour Lutte ouvrière (8 décembre 2025)",
+      "url": "https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318"
+    },
+    {
+      "label": "Site de campagne de Nathalie Arthaud",
+      "url": "https://www.nathalie-arthaud.info"
+    },
+    {
+      "label": "Brochure « Présidentielle 2027 » (juin 2026)",
+      "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf"
+    },
+    {
+      "label": "Lutte ouvrière – Éditoriaux",
+      "url": "https://www.lutte-ouvriere.org/portail/editoriaux/index.html"
+    },
+    {
+      "label": "Lutte ouvrière – Brochures et discours de meeting",
+      "url": "https://www.lutte-ouvriere.org/portail/brochures/index.html"
+    },
+    {
+      "label": "Lutte ouvrière – Qui sommes-nous ? (positions)",
+      "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/index.html"
+    }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

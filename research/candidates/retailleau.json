@@ -31,12 +31,30 @@
     "Député de la Vendée (1994-1997)"
   ],
   "key_people": [
-    { "name": "Othman Nasrou", "role": "Coordinateur de l'équipe des porte-parole ; secrétaire général des Républicains" },
-    { "name": "Agnès Evren", "role": "Porte-parole" },
-    { "name": "Pierre-Henri Dumont", "role": "Porte-parole" },
-    { "name": "Céline Imart", "role": "Porte-parole" },
-    { "name": "Laurence Garnier", "role": "Porte-parole" },
-    { "name": "Geoffroy Didier", "role": "Porte-parole" }
+    {
+      "name": "Othman Nasrou",
+      "role": "Coordinateur de l'équipe des porte-parole ; secrétaire général des Républicains"
+    },
+    {
+      "name": "Agnès Evren",
+      "role": "Porte-parole"
+    },
+    {
+      "name": "Pierre-Henri Dumont",
+      "role": "Porte-parole"
+    },
+    {
+      "name": "Céline Imart",
+      "role": "Porte-parole"
+    },
+    {
+      "name": "Laurence Garnier",
+      "role": "Porte-parole"
+    },
+    {
+      "name": "Geoffroy Didier",
+      "role": "Porte-parole"
+    }
   ],
   "slogan": null,
   "slogan_source_url": null,
@@ -51,11 +69,26 @@
   "website": "https://republicains.fr/",
   "news_url": "https://republicains.fr/actualites/m/bruno-retailleau/",
   "socials": [
-    { "platform": "X", "url": "https://x.com/BrunoRetailleau" },
-    { "platform": "Facebook", "url": "https://www.facebook.com/BrunoRetailleau" },
-    { "platform": "Instagram", "url": "https://www.instagram.com/bruno_retailleau" },
-    { "platform": "TikTok", "url": "https://www.tiktok.com/@brunoretailleauoff" },
-    { "platform": "YouTube", "url": "https://www.youtube.com/@Bruno_Retailleau" }
+    {
+      "platform": "X",
+      "url": "https://x.com/BrunoRetailleau"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/BrunoRetailleau"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/bruno_retailleau"
+    },
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@brunoretailleauoff"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@Bruno_Retailleau"
+    }
   ],
   "program": {
     "title": "Nos propositions pour la France (livrets thématiques des Républicains)",
@@ -63,29 +96,104 @@
     "format": "livret",
     "published_date": null,
     "status": "partiel",
-    "note": "Pas de site de campagne distinct identifié au 15/10/2026. Le projet est publié sous forme de livrets thématiques par Les Républicains, présidés par le candidat (premier livret « Le travail gagnant » daté de décembre 2025, mis en ligne en janvier 2026 ; huit livrets en ligne au 15/10/2026). Il est complété par des annonces du candidat : réforme constitutionnelle (2 septembre 2026), retraites (22 septembre 2026), plan d'économies de 197 Md€ (12 octobre 2026). Aucun programme présidentiel consolidé publié à cette date.",
+    "note": "Pas de site de campagne distinct identifié au 16/10/2026. Le projet est publié sous forme de huit livrets thématiques « Nos propositions pour la France » des Républicains, présidés par le candidat (« Le travail gagnant », daté de décembre 2025 et mis en ligne en janvier 2026 ; « Produire plus », février 2026 ; « Réarmer notre agriculture », février 2026 ; « Famille », avril 2026 ; « Électricité », mai 2026 ; « Logement », mai 2026 ; « L'IA au service des Français », juillet 2026 ; « Éducation », septembre 2026), accompagnés de notes techniques hébergées sur Calaméo. Il est complété par des annonces du candidat : réforme constitutionnelle (2 septembre 2026), retraites (22-23 septembre 2026), plan d'économies de 197 Md€ (12 octobre 2026). Aucun programme présidentiel consolidé publié à cette date.",
     "thematic_links": [
-      { "theme": "emploi", "title": "Le travail gagnant", "url": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf", "format": "pdf", "page_range": null },
-      { "theme": "economie", "title": "Produire plus pour vivre mieux", "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf", "format": "pdf", "page_range": null },
-      { "theme": "agriculture", "title": "Réarmer notre agriculture", "url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf", "format": "pdf", "page_range": null },
-      { "theme": "famille", "title": "Une politique pour toutes les familles de France", "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf", "format": "pdf", "page_range": null },
-      { "theme": "energie", "title": "Électricité : baisser la facture des Français", "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf", "format": "pdf", "page_range": null },
-      { "theme": "logement", "title": "Se loger mieux et moins cher", "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf", "format": "pdf", "page_range": null },
-      { "theme": "numerique", "title": "L'IA au service des Français", "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf", "format": "pdf", "page_range": null },
-      { "theme": "education", "title": "Éducation", "url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf", "format": "pdf", "page_range": null }
+      {
+        "theme": "emploi",
+        "title": "Le travail gagnant",
+        "url": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf",
+        "format": "pdf",
+        "page_range": "p. 6-38"
+      },
+      {
+        "theme": "economie",
+        "title": "Produire plus pour vivre mieux",
+        "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+        "format": "pdf",
+        "page_range": "p. 2-37"
+      },
+      {
+        "theme": "agriculture",
+        "title": "Réarmer notre agriculture",
+        "url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf",
+        "format": "pdf",
+        "page_range": "p. 2-36"
+      },
+      {
+        "theme": "famille",
+        "title": "Une politique pour toutes les familles de France",
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf",
+        "format": "pdf",
+        "page_range": "p. 2-22"
+      },
+      {
+        "theme": "energie",
+        "title": "Électricité : baisser la facture des Français",
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf",
+        "format": "pdf",
+        "page_range": "p. 2-38"
+      },
+      {
+        "theme": "logement",
+        "title": "Se loger mieux et moins cher",
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf",
+        "format": "pdf",
+        "page_range": "p. 2-47"
+      },
+      {
+        "theme": "numerique",
+        "title": "L'IA au service des Français",
+        "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf",
+        "format": "pdf",
+        "page_range": "p. 2-51"
+      },
+      {
+        "theme": "education",
+        "title": "Éducation",
+        "url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+        "format": "pdf",
+        "page_range": "p. 2-35"
+      }
     ],
-    "archive_url": null
+    "archive_url": "https://web.archive.org/web/20260926135246/https://republicains.fr/nos-propositions/"
   },
   "sources": [
-    { "label": "Wikipédia – Bruno Retailleau", "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau" },
-    { "label": "Les Républicains – Nos propositions", "url": "https://republicains.fr/nos-propositions/" },
-    { "label": "Les Républicains – « Je suis candidat à l'élection présidentielle » (12/02/2026)", "url": "https://republicains.fr/actualites/2026/02/12/je-suis-candidat-a-lelection-presidentielle/" },
-    { "label": "Public Sénat – Désignation par les adhérents LR (19/04/2026)", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr" },
-    { "label": "Public Sénat – Déclaration de candidature (12/02/2026)", "url": "https://www.publicsenat.fr/actualites/politique/je-suis-pret-bruno-retailleau-se-declare-candidat-a-lelection-presidentielle-2027" },
-    { "label": "Les Républicains – Communiqué : équipe de porte-parole (08/09/2026)", "url": "https://republicains.fr/wp-content/uploads/2026/09/CP_BR_PP_809.pdf" },
-    { "label": "Public Sénat – Réforme constitutionnelle (03/09/2026)", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle" },
-    { "label": "Public Sénat – Plan d'économies de 197 Md€ (12/10/2026)", "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu" },
-    { "label": "LCP – Projet sur les retraites (23/09/2026)", "url": "https://lcp.fr/actualites/retraites-bruno-retailleau-veut-un-age-minimal-de-depart-a-63-ans-et-un-taux-plein-a-65" }
+    {
+      "label": "Wikipédia – Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "label": "Les Républicains – Nos propositions",
+      "url": "https://republicains.fr/nos-propositions/"
+    },
+    {
+      "label": "Les Républicains – « Je suis candidat à l'élection présidentielle » (12/02/2026)",
+      "url": "https://republicains.fr/actualites/2026/02/12/je-suis-candidat-a-lelection-presidentielle/"
+    },
+    {
+      "label": "Public Sénat – Désignation par les adhérents LR (19/04/2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr"
+    },
+    {
+      "label": "Public Sénat – Déclaration de candidature (12/02/2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/je-suis-pret-bruno-retailleau-se-declare-candidat-a-lelection-presidentielle-2027"
+    },
+    {
+      "label": "Les Républicains – Communiqué : équipe de porte-parole (08/09/2026)",
+      "url": "https://republicains.fr/wp-content/uploads/2026/09/CP_BR_PP_809.pdf"
+    },
+    {
+      "label": "Public Sénat – Réforme constitutionnelle (03/09/2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle"
+    },
+    {
+      "label": "Public Sénat – Plan d'économies de 197 Md€ (12/10/2026)",
+      "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu"
+    },
+    {
+      "label": "LCP – Projet sur les retraites (23/09/2026)",
+      "url": "https://lcp.fr/actualites/retraites-bruno-retailleau-veut-un-age-minimal-de-depart-a-63-ans-et-un-taux-plein-a-65"
+    }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

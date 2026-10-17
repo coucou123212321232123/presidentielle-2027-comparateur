@@ -1,0 +1,573 @@
+[
+  {
+    "action": "program",
+    "measure_id": null,
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20260926135246/https://republicains.fr/nos-propositions/",
+        "page": null,
+        "excerpt": "Les idées qui nous rassemblent – Nos propositions"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "retailleau-energie-01",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf#page=14",
+        "page": "p. 14",
+        "excerpt": "nous confirmerons la commande de huit EPR2 supplémentaires"
+      },
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf#page=22",
+        "page": "p. 22",
+        "excerpt": "Cette loi de programmation énergétique actera la relance du nucléaire"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "retailleau-ecologie-01",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=12",
+        "page": "p. 12",
+        "excerpt": "Nous assumons de le supprimer tel qu'il figure aujourd'hui dans la Charte"
+      },
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "Remplacement du principe de précaution par un principe de responsabilité"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "retailleau-famille-01",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf#page=11",
+        "page": "p. 11",
+        "excerpt": "Revenu familial (RF) de 240 euros versé chaque mois à tous"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-economie-03",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "les cinquante règles qui pénalisent le plus la production seront supprimées"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-economie-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=14",
+        "page": "p. 14",
+        "excerpt": "dotée d'un pouvoir de veto"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-economie-05",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=26",
+        "page": "p. 26",
+        "excerpt": "doté de 600 millions d'euros par an"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-economie-06",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf#page=36",
+        "page": "p. 36",
+        "excerpt": "au moins 30 milliards d'euros par an"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-fiscalite-03",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=34",
+        "page": "p. 34",
+        "excerpt": "tant qu'il n'y a pas de cession, il n'y a pas d'imposition"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-fiscalite-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=15",
+        "page": "p. 15",
+        "excerpt": "Nous supprimerons totalement cette contribution patronale"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-emploi-03",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf#page=32",
+        "page": "p. 32",
+        "excerpt": "limiter la durée d'indemnisation à six mois et à plafonner"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-emploi-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=12",
+        "page": "p. 12",
+        "excerpt": "Un socle de 50 principes fondamentaux sera rendu indépassable"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-emploi-05",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf#page=24",
+        "page": "p. 24",
+        "excerpt": "supprimant l'obligation d'un minimum légal de 24 heures hebdomadaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-emploi-06",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=24",
+        "page": "p. 24",
+        "excerpt": "Nous proposons de traiter les dirigeants salariés pour ce qu'ils sont"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-energie-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf#page=11",
+        "page": "p. 11",
+        "excerpt": "nous proposons de fixer d'emblée un horizon de 80 ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-energie-05",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf#page=31",
+        "page": "p. 31",
+        "excerpt": "mise en service d'un premier réacteur de puissance en 2045"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-energie-06",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf#page=24",
+        "page": "p. 24",
+        "excerpt": "aucun réacteur nucléaire français en service ne peut être forcé à l'arrêt"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-ecologie-03",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=25",
+        "page": "p. 25",
+        "excerpt": "étendu aux produits transformés"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-ecologie-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=16",
+        "page": "p. 16",
+        "excerpt": "Les paliers de durcissement prévus en 2028 et 2031 ne seront pas appliqués"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-ecologie-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20260724200008/https://republicains.fr/actualites/2026/07/24/incendies-face-a-lurgence-le-gouvernement-doit-agir-et-donner-a-nos-sapeurs-pompiers-les-moyens-de-nous-proteger/",
+        "page": null,
+        "excerpt": "les obligations de débroussaillage doivent faire l'objet d'un renforcement significatif"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-agriculture-03",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=17",
+        "page": "p. 17",
+        "excerpt": "Nous autoriserons de nouveau l'usage de certains néonicotinoïdes, dont l'acétamipride"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-agriculture-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=19",
+        "page": "p. 19",
+        "excerpt": "Les Projets de Territoire pour la Gestion de l'Eau (PTGE) seront supprimés"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-agriculture-05",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=32",
+        "page": "p. 32",
+        "excerpt": "forfait « petit agriculteur » de 1 250 euros à 3 000 euros"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-agriculture-06",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=27",
+        "page": "p. 27",
+        "excerpt": "tout ingrédient représentant 10 % ou plus de la composition"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-logement-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=39",
+        "page": "p. 39",
+        "excerpt": "les territoires dépassant 30 % de logements sociaux ne bénéficieront plus d'aides"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-logement-05",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=41",
+        "page": "p. 41",
+        "excerpt": "inférieures ou égales au cinquième décile, soit environ 25 000 euros"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-logement-06",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=33",
+        "page": "p. 33",
+        "excerpt": "Le taux sera fixé à 4 % de la valeur du bâti"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-education-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=11",
+        "page": "p. 11",
+        "excerpt": "dans chaque académie renaîtra une École Normale du Professorat"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-education-05",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=16",
+        "page": "p. 16",
+        "excerpt": "seront ramenées de seize à quatorze semaines"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-education-06",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=33",
+        "page": "p. 33",
+        "excerpt": "le téléphone interdit dans l'enceinte des établissements jusqu'à la fin du lycée"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-securite-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=36",
+        "page": "p. 36",
+        "excerpt": "l'expulsion interviendra dans un délai maximal de dix jours"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-securite-05",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=34",
+        "page": "p. 34",
+        "excerpt": "Aucun adulte n'approchera un enfant sans avoir été contrôlé"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-securite-06",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=37",
+        "page": "p. 37",
+        "excerpt": "nous autoriserons, dans un cadre légal et contrôlé, l'usage de la vision"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-immigration-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=44",
+        "page": "p. 44",
+        "excerpt": "conditionner l'hébergement d'urgence à la régularité du séjour"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-immigration-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20260806225733/https://republicains.fr/wp-content/uploads/2026/08/CP_BR_31_07_26.pdf",
+        "page": "p. 1",
+        "excerpt": "je demande la suspension de la libre circulation des personnes avec l'Espagne"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-europe-03",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=16",
+        "page": "p. 16",
+        "excerpt": "l'interdiction ferme de toute sur-transposition française des directives européennes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-europe-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf#page=24",
+        "page": "p. 24",
+        "excerpt": "au moins 50 % des contrôles des administrations compétentes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-europe-05",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf#page=36",
+        "page": "p. 36",
+        "excerpt": "nous nous opposerons à l'intégration de l'Ukraine au marché agricole européen"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-europe-06",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf#page=33",
+        "page": "p. 33",
+        "excerpt": "Nous nous opposons totalement au European Grid Package"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-international-03",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=34",
+        "page": "p. 34",
+        "excerpt": "Nous multiplierons par cinq les moyens consacrés à l'IA de défense"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-numerique-03",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=19",
+        "page": "p. 19",
+        "excerpt": "porter la capacité réellement souveraine à environ 1 gigawatt d'ici 2030"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-numerique-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=35",
+        "page": "p. 35",
+        "excerpt": "nous lancerons un plan d'urgence de sécurisation numérique sous pilotage de l'ANSSI"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-numerique-05",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=14",
+        "page": "p. 14",
+        "excerpt": "exonération totale d'impôt sur le revenu pendant cinq ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-numerique-06",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=31",
+        "page": "p. 31",
+        "excerpt": "Nous instaurerons un pourcentage de souveraineté, applicable à tout logiciel"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-culture-03",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=15",
+        "page": "p. 15",
+        "excerpt": "sera créée dans chaque école et chaque établissement"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-services_publics-03",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf#page=15",
+        "page": "p. 15",
+        "excerpt": "une fraction forfaitaire de TVA de 9 000 euros à la commune"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-services_publics-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=24",
+        "page": "p. 24",
+        "excerpt": "aucune classe ne fermera sans consultation obligatoire du conseil municipal"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-services_publics-05",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf#page=28",
+        "page": "p. 28",
+        "excerpt": "Nous créerons un ministère de plein exercice chargé de l'intelligence artificielle"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-famille-03",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf#page=21",
+        "page": "p. 21",
+        "excerpt": "Relever de 2 421 euros à 7 000 euros par an le plafond"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-famille-04",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf#page=17",
+        "page": "p. 17",
+        "excerpt": "imposant aux banques commerciales de permettre le transfert des prêts immobiliers"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "retailleau-famille-05",
+    "evidence": [
+      {
+        "url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf#page=33",
+        "page": "p. 33",
+        "excerpt": "rendus obligatoires dans les communes de plus de 5 000 habitants"
+      }
+    ]
+  }
+]

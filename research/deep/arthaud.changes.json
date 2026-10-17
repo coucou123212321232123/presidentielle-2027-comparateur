@@ -1,0 +1,50 @@
+[
+  {
+    "action": "add",
+    "measure_id": "arthaud-energie-03",
+    "evidence": [
+      {
+        "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-ecologie",
+        "page": null,
+        "excerpt": "nous ne confondons pas la lutte contre les usages qui sont faits aujourd’hui de certaines techniques"
+      },
+      {
+        "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-ecologie",
+        "page": null,
+        "excerpt": "Le principal danger du nucléaire ne réside pas dans la technique elle-même"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "arthaud-economie-01 (revérification, contenu inchangé)",
+    "evidence": [
+      {
+        "url": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html",
+        "page": null,
+        "excerpt": "Nous défendrons le SMIC à 2 200 € nets."
+      },
+      {
+        "url": "https://www.lutte-ouvriere.org/portail/editoriaux/17-octobre-apres-montrons-lesprit-revolte-na-dage-205755.html",
+        "page": null,
+        "excerpt": "revendiquons le Smic à 2 200 €"
+      }
+    ]
+  },
+  {
+    "action": "program",
+    "measure_id": "program.note / program.thematic_links",
+    "evidence": [
+      {
+        "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=26",
+        "page": "p. 24 (page PDF 26)",
+        "excerpt": "Un programme révolutionnaire à imposer par les luttes, pas un programme électoral"
+      },
+      {
+        "url": "https://www.nathalie-arthaud.info",
+        "page": null,
+        "excerpt": "Nos positions"
+      }
+    ]
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "measure_id": "program",
+    "decision": "corrigee",
+    "motif": "Bloc program vérifié (Acte I = projet de Place publique, aucun programme sur glucks2027.fr, archive Wayback 200 application/pdf, thematic_links conformes au sommaire). Citation de la note corrigée : la page « Le projet » dit « s'articule en trois actes » (et non « articulé ») ; « catalogue figé de mesures » confirmé p. 85."
+  },
+  {
+    "measure_id": "glucksmann-economie-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 14 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-economie-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 40 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-economie-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 41 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-fiscalite-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 24 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-fiscalite-05",
+    "decision": "corrigee",
+    "motif": "Corrigée : la source vise les « camions européens » qui traversent le territoire sans taxe (p. 29), et non les « camions étrangers »."
+  },
+  {
+    "measure_id": "glucksmann-fiscalite-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 40 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-emploi-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 41 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-emploi-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 41 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-emploi-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 41 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-emploi-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 41 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-retraites-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 43 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-retraites-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 43 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-energie-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 17 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-energie-05",
+    "decision": "corrigee",
+    "motif": "Corrigée : la description rattachait MaPrimeRénov' à la politique de sobriété, lien absent de la source (puces distinctes p. 17) ; clause supprimée."
+  },
+  {
+    "measure_id": "glucksmann-ecologie-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 28 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-ecologie-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 28 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-ecologie-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 35 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-agriculture-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 34 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-agriculture-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 34 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-agriculture-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 34 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-agriculture-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 30 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-logement-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 64 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-logement-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 64 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-logement-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 64 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-sante-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 52 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-sante-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 52 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-sante-05",
+    "decision": "corrigee",
+    "motif": "Corrigée : la mutualisation des systèmes d'information AMO/complémentaires figure p. 50, pas p. 53 ; clause remplacée par l'objectif énoncé p. 53 (couverture universelle, simplification)."
+  },
+  {
+    "measure_id": "glucksmann-sante-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 34 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-education-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 69 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-education-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 25 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-education-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 68 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-securite-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 60 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-securite-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 61 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-securite-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 61 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-securite-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 80 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-immigration-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 82 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-immigration-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 82 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-immigration-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 82 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-institutions-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 46 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-institutions-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 47 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-institutions-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 47 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-europe-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 14 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-europe-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 24 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-europe-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 12 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-international-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 83 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-international-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 10 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-international-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 10 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-international-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 10 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-numerique-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 21 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-numerique-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 20 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-numerique-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 20 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-culture-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 72 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-culture-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 72 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-culture-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 72 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-outre_mer-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 65 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-outre_mer-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 65 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-outre_mer-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 65 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-services_publics-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 40 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-services_publics-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 29 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-services_publics-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 47 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-services_publics-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 48 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-famille-03",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 78 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-famille-04",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 78 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-famille-05",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 56 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  },
+  {
+    "measure_id": "glucksmann-famille-06",
+    "decision": "acceptee",
+    "motif": "Conforme à l'Acte I p. 57 (texte, chiffres et conditions vérifiés) ; source_title mentionne « projet du parti », source_type officiel, URL #page correcte."
+  }
+]

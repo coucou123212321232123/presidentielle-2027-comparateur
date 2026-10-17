@@ -1,0 +1,738 @@
+[
+  {
+    "action": "program",
+    "measure_id": null,
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+        "page": "p. 3",
+        "excerpt": "Voici donc le premier acte : notre vision pour la France."
+      },
+      {
+        "url": "https://glucks2027.fr/",
+        "page": null,
+        "excerpt": "Aucune rubrique programme ni document sur le site de campagne (16/10/2026)."
+      },
+      {
+        "url": "https://archive.org/wayback/available?url=http://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+        "page": null,
+        "excerpt": "Capture Wayback disponible (archive_url)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-economie-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=14",
+        "page": "p. 14",
+        "excerpt": "orientant la commande publique française avec des critères durables et souverains"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-economie-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=40",
+        "page": "p. 40",
+        "excerpt": "Travailler à limiter les écarts de salaires dans une même entreprise"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-economie-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=41",
+        "page": "p. 41",
+        "excerpt": "travailler à une « taxe Amazon » sur les grandes plateformes de e-commerce"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-fiscalite-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=24",
+        "page": "p. 24",
+        "excerpt": "Refonder le Crédit d'Impôt Recherche en le plafonnant pour les grands groupes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-fiscalite-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=29",
+        "page": "p. 29",
+        "excerpt": "suppression des exonérations de TVA et de taxe sur le kérosène"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-fiscalite-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=40",
+        "page": "p. 40",
+        "excerpt": "rééquilibrer la répartition de la taxation entre le travail, le capital, l'héritage et les retraites"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-emploi-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=41",
+        "page": "p. 41",
+        "excerpt": "conseils d'administration des entreprises, dès 100 salariés"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-emploi-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=41",
+        "page": "p. 41",
+        "excerpt": "redonner la priorité aux accords de branches professionnelles"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-emploi-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=41",
+        "page": "p. 41",
+        "excerpt": "Adopter une grande stratégie « Zéro mort au travail »"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-emploi-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=41",
+        "page": "p. 41",
+        "excerpt": "Créer une agence de financement de l'ESS"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-retraites-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=43",
+        "page": "p. 43",
+        "excerpt": "Haut Conseil du Pilotage des Retraites"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-retraites-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=43",
+        "page": "p. 43",
+        "excerpt": "Porter un plan pour accroître le nombre de cotisants"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-energie-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=17",
+        "page": "p. 17",
+        "excerpt": "Interdire immédiatement toute importation de gaz russe"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-energie-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=17",
+        "page": "p. 17",
+        "excerpt": "Relancer et simplifier MaPrimeRénov' pour accélérer les rénovations performantes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-ecologie-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=28",
+        "page": "p. 28",
+        "excerpt": "fin des plastiques à usage unique d'ici 2030"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-ecologie-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=28",
+        "page": "p. 28",
+        "excerpt": "Instaurer une Garantie Universelle d'Assurance Climatique, financée par les assurances"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-ecologie-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=35",
+        "page": "p. 35",
+        "excerpt": "Refuser les méga-bassines au profit de solutions locales"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-agriculture-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=34",
+        "page": "p. 34",
+        "excerpt": "Instaurer un revenu de transition écologique pour soutenir agriculteurs et pêcheurs"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-agriculture-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=34",
+        "page": "p. 34",
+        "excerpt": "Soutenir les expérimentations de Sécurité sociale de l'alimentation au niveau local"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-agriculture-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=34",
+        "page": "p. 34",
+        "excerpt": "l'exclusion totale des méga-chalutiers de nos eaux côtières"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-agriculture-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=30",
+        "page": "p. 30",
+        "excerpt": "la disparition par étape de l'élevage en cage"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-logement-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=64",
+        "page": "p. 64",
+        "excerpt": "abroger la loi Kasbarian au profit d'un dispositif plus équilibré"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-logement-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=64",
+        "page": "p. 64",
+        "excerpt": "Lancer un programme “logement d'abord” pour mettre fin au scandale du sans-abrisme"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-logement-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=64",
+        "page": "p. 64",
+        "excerpt": "renforcer la fiscalité sur la vacance longue avec des barèmes progressifs"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-sante-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=52",
+        "page": "p. 52",
+        "excerpt": "Déployer un plan de prévention d'ampleur en sortant de l'Objectif national"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-sante-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=52",
+        "page": "p. 52",
+        "excerpt": "Faire de la santé mentale des jeunes une priorité nationale"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-sante-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=53",
+        "page": "p. 53",
+        "excerpt": "aller vers une Sécurité sociale unique, simple et juste, qui fusionne tous les régimes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-sante-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=34",
+        "page": "p. 34",
+        "excerpt": "rendre obligatoire l'affichage du Nutriscore à l'échelle nationale et européenne"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-education-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=69",
+        "page": "p. 69",
+        "excerpt": "instaurer au lycée, un module obligatoire « Médias et Influence »"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-education-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=25",
+        "page": "p. 25",
+        "excerpt": "Repenser en profondeur Parcoursup"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-education-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=68",
+        "page": "p. 68",
+        "excerpt": "freinant les fermetures d'écoles rurales"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-securite-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=60",
+        "page": "p. 60",
+        "excerpt": "Organiser une convention citoyenne sur la politique vis-à-vis des drogues"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-securite-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=61",
+        "page": "p. 61",
+        "excerpt": "Doubler le nombre de Maisons du droit et de la justice"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-securite-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=61",
+        "page": "p. 61",
+        "excerpt": "Lutter contre la surpopulation carcérale en adaptant les peines aux profils des détenus"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-securite-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=80",
+        "page": "p. 80",
+        "excerpt": "Généraliser les récépissés de contrôle d'identité"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-immigration-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=82",
+        "page": "p. 82",
+        "excerpt": "ouvrir le droit au travail, sans autorisation spécifique, dès l'enregistrement de la demande d'asile"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-immigration-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=82",
+        "page": "p. 82",
+        "excerpt": "Créer une force européenne de sauvetage en mer"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-immigration-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=82",
+        "page": "p. 82",
+        "excerpt": "mécanisme européen de répartition cohérent qui mettra fin au système de Dublin"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-institutions-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=46",
+        "page": "p. 46",
+        "excerpt": "grande convention citoyenne qui jettera les bases d'une assemblée constituante"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-institutions-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=47",
+        "page": "p. 47",
+        "excerpt": "Instaurer un droit d'initiative citoyenne"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-institutions-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=47",
+        "page": "p. 47",
+        "excerpt": "créant un “bon pour la démocratie”"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-europe-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=14",
+        "page": "p. 14",
+        "excerpt": "Porter une loi « Acheter européen » (un “Buy European Act”)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-europe-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=24",
+        "page": "p. 24",
+        "excerpt": "Doubler le budget du programme européen de recherche, Horizon Europe"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-europe-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=12",
+        "page": "p. 12",
+        "excerpt": "un véritable pacte girondin pour sortir de l'impuissance actuelle"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-international-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=83",
+        "page": "p. 83",
+        "excerpt": "atteindre progressivement 0,7 % du RNB dédié à l'aide publique au développement"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-international-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "Augmenter drastiquement la réserve opérationnelle"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-international-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "Lancer un grand programme “cyber sentinelle”"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-international-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "Lancer de grands programmes de production de drones"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-numerique-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=21",
+        "page": "p. 21",
+        "excerpt": "Sortir de la dépendance aux GAFAM en 5 ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-numerique-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=20",
+        "page": "p. 20",
+        "excerpt": "Impulser un traité international de l'I.A."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-numerique-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=20",
+        "page": "p. 20",
+        "excerpt": "Ouvrir un campus international de l'I.A"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-culture-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=72",
+        "page": "p. 72",
+        "excerpt": "Lancer un Pacte d'Aménagement Culturel du Territoire (PACT)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-culture-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=72",
+        "page": "p. 72",
+        "excerpt": "doubler le budget d'Europe Créative"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-culture-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=72",
+        "page": "p. 72",
+        "excerpt": "créant une grande agence publique réunissant Instituts français, Alliances françaises"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-outre_mer-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=65",
+        "page": "p. 65",
+        "excerpt": "Flécher une part des revenus de l'octroi de mer"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-outre_mer-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=65",
+        "page": "p. 65",
+        "excerpt": "Mettre en place un plan « Eau » adapté aux besoins locaux"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-outre_mer-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=65",
+        "page": "p. 65",
+        "excerpt": "assurer une égalité des tarifs de télécommunication et des livres avec l'hexagone"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-services_publics-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=40",
+        "page": "p. 40",
+        "excerpt": "indexant leur point d'indice sur l'inflation"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-services_publics-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=29",
+        "page": "p. 29",
+        "excerpt": "Créer un service public de transport rural pour désenclaver les territoires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-services_publics-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=47",
+        "page": "p. 47",
+        "excerpt": "Porter une nouvelle loi de décentralisation"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-services_publics-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=48",
+        "page": "p. 48",
+        "excerpt": "créer un observatoire de l'intégrité publique"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-famille-03",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=78",
+        "page": "p. 78",
+        "excerpt": "mobiliser un milliard d'euros dans ce cadre"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-famille-04",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=78",
+        "page": "p. 78",
+        "excerpt": "créer un droit opposable à la garde"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-famille-05",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=56",
+        "page": "p. 56",
+        "excerpt": "travailler à une indemnité d'aidant familial"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "glucksmann-famille-06",
+    "evidence": [
+      {
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=57",
+        "page": "p. 57",
+        "excerpt": "Sortir la protection de l'enfance de toute logique de profit"
+      }
+    ]
+  }
+]

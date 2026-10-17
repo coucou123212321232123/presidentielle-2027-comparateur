@@ -1,0 +1,22 @@
+[
+  {
+    "measure_id": "program",
+    "decision": "acceptee",
+    "motif": "Bloc program vérifié : /propositions/ ne liste que les intitulés des collectifs, /programme/ (publiée 2021, modifiée 09/2026) sans texte programmatique, « Des Régions d'espérer » (31/08/2026) relate une tournée d'écoute ; aucune déclaration officielle ni programme identifiés. Note conforme."
+  },
+  {
+    "measure_id": "bertrand-institutions-01",
+    "decision": "corrigee",
+    "motif": "Les 4 articles (reproduits sur nousfrance.fr, HTTP 200) confirment le mandat unique. Mais Ouest-France (« si je suis candidat, ce sera pour un seul mandat de cinq ans ») et Le Figaro (« elle ne durera que cinq ans ») visent son propre mandat, tandis que Le Figaro et L'Opinion rapportent la proposition d'un septennat unique ; seule La Provence (07/2026) présente le mandat unique de cinq ans comme modalité institutionnelle. Description réécrite pour distinguer engagement personnel et réforme proposée."
+  },
+  {
+    "measure_id": "bertrand-services_publics-03",
+    "decision": "acceptee",
+    "motif": "Citation directe confirmée dans l'entretien Paris Match (30/10/2025) : « Donnez-nous la responsabilité du logement et de la santé » ; recoupée par La Provence (05/07/2026) sur la compétence logement. Type « declaration » correct."
+  },
+  {
+    "measure_id": "bertrand-famille-01",
+    "decision": "rejetee",
+    "motif": "Rejetée (critère 5) : unique source = paraphrase du journaliste du Figaro (« le handicap, la monoparentalité, les parents isolés ») sans citation du candidat ni second média indépendant ou source primaire ; aucune mesure identifiable (simple liste de priorités). Mesure supprimée."
+  }
+]

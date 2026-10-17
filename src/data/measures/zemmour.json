@@ -86,7 +86,10 @@
     "source_page": null,
     "precision": "chiffre",
     "cost": null,
-    "indicator": { "key": "nucleaire", "value": "relance" },
+    "indicator": {
+      "key": "nucleaire",
+      "value": "relance"
+    },
     "last_verified": "2026-10-15"
   },
   {
@@ -100,7 +103,11 @@
     "source_date": "2025-11-13",
     "source_page": "p. 2",
     "precision": "chiffre",
-    "cost": { "label": "8 Md€ d'économies", "source_label": "Chiffrage de Reconquête", "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2" },
+    "cost": {
+      "label": "8 Md€ d'économies",
+      "source_label": "Chiffrage de Reconquête",
+      "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2"
+    },
     "indicator": null,
     "last_verified": "2026-10-15"
   },
@@ -240,6 +247,19 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "zemmour-education-05",
+    "theme": "education",
+    "title": "Rompre les accords Lang-Cloupet pour libérer l'école privée",
+    "description": "Il propose de rompre les accords Lang-Cloupet, qui selon lui limitent l'école privée à 20 % des écoles, afin qu'elle puisse « se développer librement ».",
+    "source_type": "declaration",
+    "source_title": "Éric Zemmour – vidéo « Je propose de rompre les accords Lang-Cloupet » (chaîne YouTube officielle)",
+    "source_url": "https://www.youtube.com/watch?v=DhtIKLvqZqE",
+    "source_date": "2026-10-14",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "zemmour-securite-01",
     "theme": "securite",
     "title": "Supprimer l'excuse de minorité et le Code de la justice pénale des mineurs",
@@ -341,7 +361,10 @@
     "source_page": null,
     "precision": "precis",
     "cost": null,
-    "indicator": { "key": "referendum_immigration", "value": "oui" },
+    "indicator": {
+      "key": "referendum_immigration",
+      "value": "oui"
+    },
     "last_verified": "2026-10-15"
   },
   {
@@ -355,7 +378,11 @@
     "source_date": "2026-10-06",
     "source_page": "p. 2",
     "precision": "precis",
-    "cost": { "label": "15 à 20 Md€ d'économies (prestations non contributives) et 1 Md€ (AME)", "source_label": "Chiffrage de Reconquête", "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2" },
+    "cost": {
+      "label": "15 à 20 Md€ d'économies (prestations non contributives) et 1 Md€ (AME)",
+      "source_label": "Chiffrage de Reconquête",
+      "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2"
+    },
     "indicator": null,
     "last_verified": "2026-10-15"
   },
@@ -400,7 +427,11 @@
     "source_date": "2025-11-13",
     "source_page": "p. 2",
     "precision": "chiffre",
-    "cost": { "label": "15 Md€ d'économies", "source_label": "Chiffrage de Reconquête", "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2" },
+    "cost": {
+      "label": "15 Md€ d'économies",
+      "source_label": "Chiffrage de Reconquête",
+      "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2"
+    },
     "indicator": null,
     "last_verified": "2026-10-15"
   },
@@ -460,7 +491,11 @@
     "source_date": "2026-10-06",
     "source_page": "p. 2",
     "precision": "precis",
-    "cost": { "label": "4 Md€ d'économies", "source_label": "Chiffrage de Reconquête", "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2" },
+    "cost": {
+      "label": "4 Md€ d'économies",
+      "source_label": "Chiffrage de Reconquête",
+      "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2"
+    },
     "indicator": null,
     "last_verified": "2026-10-15"
   },
@@ -490,7 +525,11 @@
     "source_date": "2025-11-13",
     "source_page": "p. 2",
     "precision": "chiffre",
-    "cost": { "label": "8 à 12 Md€ d'économies", "source_label": "Chiffrage de Reconquête", "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2" },
+    "cost": {
+      "label": "8 à 12 Md€ d'économies",
+      "source_label": "Chiffrage de Reconquête",
+      "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2"
+    },
     "indicator": null,
     "last_verified": "2026-10-15"
   },
@@ -505,8 +544,25 @@
     "source_date": "2025-11-13",
     "source_page": "p. 2",
     "precision": "chiffre",
-    "cost": { "label": "8 Md€ d'économies", "source_label": "Chiffrage de Reconquête", "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2" },
+    "cost": {
+      "label": "8 Md€ d'économies",
+      "source_label": "Chiffrage de Reconquête",
+      "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2"
+    },
     "indicator": null,
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "zemmour-ecologie-01",
+    "theme": "ecologie",
+    "title": "Abroger le SEQE 2 (marché carbone sur les carburants)",
+    "description": "Pétition de Reconquête demandant l'abrogation du second système européen d'échange de quotas d'émission (SEQE 2) avant son entrée en vigueur en 2028, ainsi que la baisse de l'accise sur les carburants et la suppression des CEE.",
+    "source_type": "officiel",
+    "source_title": "Reconquête – Pétition « NON à la nouvelle taxe sur les carburants ! »",
+    "source_url": "https://www.stop-hausse-carburant.fr/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   }
 ]

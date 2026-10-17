@@ -10,7 +10,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 9",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-economie-02",
@@ -36,7 +36,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 11",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-economie-04",
@@ -49,7 +49,20 @@
     "source_date": "2026-07-15",
     "source_page": "p. 45",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-economie-07",
+    "theme": "economie",
+    "title": "Conditionner et contrôler les aides publiques aux entreprises",
+    "description": "Le texte d'orientation prévoit que l'argent public versé aux entreprises soit conditionné et contrôlé par des commissions réunissant salariés, élus locaux et parlementaires, et que des nationalisations soient menées dans les secteurs jugés prioritaires.",
+    "source_type": "officiel",
+    "source_title": "PCF – Base commune adoptée au 40e congrès (CommunisteS n° 1095, vol. 2)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=45",
+    "source_date": "2026-07-15",
+    "source_page": "p. 45-46",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-fiscalite-01",
@@ -62,7 +75,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 42",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-fiscalite-02",
@@ -78,6 +91,32 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "roussel-fiscalite-03",
+    "theme": "fiscalite",
+    "title": "Une cotisation sur les revenus financiers des entreprises",
+    "description": "Le cahier Sécurité sociale propose une contribution additionnelle sur les revenus financiers des entreprises pour financer la Sécurité sociale ; selon le PCF, un prélèvement de 10 % rapporterait 59 milliards d'euros la première année.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Sécurité sociale",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf#page=37",
+    "source_date": "2025-12-18",
+    "source_page": "p. 37",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-fiscalite-04",
+    "theme": "fiscalite",
+    "title": "Moduler les cotisations patronales selon l'emploi et les salaires",
+    "description": "Le cahier propose d'augmenter les taux de cotisations patronales des entreprises dont la part de la masse salariale dans la valeur ajoutée recule, afin d'inciter à l'emploi et aux hausses de salaires, et de réduire progressivement la place de la CSG.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Sécurité sociale",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf#page=40",
+    "source_date": "2025-12-18",
+    "source_page": "p. 36 et 40",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "roussel-emploi-01",
     "theme": "emploi",
     "title": "Un contrat de travail pour les livreurs des plateformes",
@@ -88,7 +127,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 7",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-emploi-02",
@@ -101,7 +140,33 @@
     "source_date": "2026-07-15",
     "source_page": "p. 11",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-emploi-03",
+    "theme": "emploi",
+    "title": "Une sécurité d'emploi ou de formation pour éradiquer le chômage",
+    "description": "Le texte d'orientation propose de construire une « sécurité d'emploi et de formation » permettant d'alterner périodes d'emploi et de formation sans perte de revenu ni de droits, avec l'objectif d'éradiquer le chômage, combinée à une nouvelle étape de réduction du temps de travail.",
+    "source_type": "officiel",
+    "source_title": "PCF – Base commune adoptée au 40e congrès (CommunisteS n° 1095, vol. 2)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=43",
+    "source_date": "2026-07-15",
+    "source_page": "p. 43",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-emploi-04",
+    "theme": "emploi",
+    "title": "Statut de salarié pour les travailleurs d'ESAT et sanctions renforcées sur l'emploi des handicapés",
+    "description": "Le cahier Handicap propose de garantir un statut de salarié aux travailleurs des ESAT, de durcir les sanctions financières contre les employeurs ne respectant pas l'obligation d'emploi de personnes handicapées et de conditionner les aides aux employeurs à ces recrutements.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Handicap",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf#page=9",
+    "source_date": "2025-12-18",
+    "source_page": "p. 9",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-retraites-01",
@@ -123,7 +188,7 @@
       "key": "age_legal",
       "value": 60
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-retraites-02",
@@ -136,7 +201,33 @@
     "source_date": "2025-12-18",
     "source_page": "p. 21",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-retraites-03",
+    "theme": "retraites",
+    "title": "Pension calculée sur les 10 meilleures années et prise en compte des études",
+    "description": "Le cahier Sécurité sociale prévoit un calcul des pensions sur les 10 meilleures années, leur indexation sur les salaires et l'inflation, et la validation des périodes de formation dès 18 ans, de chômage, de maternité ou de maladie ; le PCF chiffre l'ensemble de ses mesures retraites à 100 milliards d'euros par an.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Sécurité sociale",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf#page=21",
+    "source_date": "2025-12-18",
+    "source_page": "p. 21",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-retraites-04",
+    "theme": "retraites",
+    "title": "Refus de la retraite par capitalisation et de la retraite à points",
+    "description": "Le cahier Sécurité sociale affirme l'opposition du PCF à toute évolution vers la capitalisation ou un système de retraite à points.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Sécurité sociale",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf#page=43",
+    "source_date": "2025-12-18",
+    "source_page": "p. 43",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-energie-01",
@@ -149,7 +240,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 47",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-energie-02",
@@ -162,7 +253,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 47",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-energie-03",
@@ -175,7 +266,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 9",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-ecologie-01",
@@ -188,7 +279,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 47",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-ecologie-02",
@@ -201,7 +292,46 @@
     "source_date": "2025-12-18",
     "source_page": "p. 19",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-ecologie-03",
+    "theme": "ecologie",
+    "title": "10 milliards d'euros par an pendant 20 ans pour le rail",
+    "description": "Le cahier Mobilité estime à 10 milliards d'euros par an, avec une montée en charge sur 20 ans, les financements supplémentaires nécessaires pour revitaliser les « lignes de vie » ferroviaires et développer de nouveaux axes.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Mobilité",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf#page=11",
+    "source_date": "2025-12-18",
+    "source_page": "p. 11",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-ecologie-04",
+    "theme": "ecologie",
+    "title": "Porter à 30 % la part du fret ferroviaire",
+    "description": "Le cahier Mobilité propose de porter à 30 % la part du fret ferroviaire dans le transport de marchandises grâce à un plan de 4 milliards d'euros, et de porter à 10 milliards d'euros l'investissement dans les ports.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Mobilité",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf#page=13",
+    "source_date": "2025-12-18",
+    "source_page": "p. 13-14",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-ecologie-05",
+    "theme": "ecologie",
+    "title": "Prime à la conversion jusqu'à 10 000 € et prêt à taux zéro pour un véhicule électrique",
+    "description": "Le cahier Mobilité propose un prêt à taux zéro ouvert à une large partie des ménages pour acheter un véhicule électrique et une prime à la conversion pouvant aller jusqu'à 10 000 euros, ainsi qu'un bonus écologique davantage fondé sur l'empreinte carbone de production.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Mobilité",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf#page=17",
+    "source_date": "2025-12-18",
+    "source_page": "p. 17",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-agriculture-01",
@@ -214,7 +344,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 46",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-agriculture-02",
@@ -227,7 +357,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 45",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-agriculture-03",
@@ -240,7 +370,20 @@
     "source_date": "2026-07-15",
     "source_page": "p. 46",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-agriculture-04",
+    "theme": "agriculture",
+    "title": "Une planification alimentaire territoriale fondée sur les circuits courts",
+    "description": "Le texte d'orientation prévoit une planification alimentaire territoriale fondée sur les circuits courts et la diversification, intégrant collecte, stockage, abattage, transformation et distribution, ainsi que le renforcement de la recherche agronomique et de l'enseignement agricole publics.",
+    "source_type": "officiel",
+    "source_title": "PCF – Base commune adoptée au 40e congrès (CommunisteS n° 1095, vol. 2)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=46",
+    "source_date": "2026-07-15",
+    "source_page": "p. 46",
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-logement-01",
@@ -253,7 +396,7 @@
     "source_date": "2025-12-18",
     "source_page": "p. 13",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-logement-02",
@@ -266,7 +409,7 @@
     "source_date": "2025-12-18",
     "source_page": "p. 16",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-logement-03",
@@ -279,7 +422,59 @@
     "source_date": "2025-12-18",
     "source_page": "p. 29",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-logement-04",
+    "theme": "logement",
+    "title": "Porter à 30 % le seuil de logements sociaux de la loi SRU",
+    "description": "Le cahier Logement propose d'élever à 30 % le taux de logements sociaux exigé par la loi SRU et de durcir les sanctions contre les maires qui refusent de construire, jusqu'à l'inéligibilité en cas de manquement délibéré.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Logement",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf#page=12",
+    "source_date": "2025-12-18",
+    "source_page": "p. 12",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-logement-05",
+    "theme": "logement",
+    "title": "Interdire la vente de HLM et revenir sur la réduction de loyer de solidarité",
+    "description": "Le cahier Logement propose d'interdire la vente de logements HLM, de revenir sur la réduction de loyer de solidarité, de rétablir une TVA à 5,5 % pour la production et la rénovation du parc social et d'arrêter les expulsions des familles en difficulté.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Logement",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf#page=15",
+    "source_date": "2025-12-18",
+    "source_page": "p. 15",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-logement-06",
+    "theme": "logement",
+    "title": "20 milliards d'euros par an pour l'ANAH et 500 000 logements sociaux réhabilités par an",
+    "description": "Le cahier Logement propose de porter le budget de l'Agence nationale de l'habitat à 20 milliards d'euros par an (prêts à taux zéro et subventions) et de réhabiliter 500 000 logements sociaux par an sans hausse de loyer.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Logement",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf#page=26",
+    "source_date": "2025-12-18",
+    "source_page": "p. 26",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-logement-07",
+    "theme": "logement",
+    "title": "Un moratoire national sur les expulsions locatives",
+    "description": "Le cahier Logement propose un moratoire national sur les expulsions locatives, une solution de relogement préalable à toute expulsion et l'interdiction des coupures d'eau et d'énergie pour les personnes en difficulté.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Logement",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf#page=35",
+    "source_date": "2025-12-18",
+    "source_page": "p. 35",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-sante-01",
@@ -292,7 +487,7 @@
     "source_date": "2025-12-18",
     "source_page": "p. 43",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-sante-02",
@@ -305,7 +500,33 @@
     "source_date": "2026-07-15",
     "source_page": "p. 48",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-sante-03",
+    "theme": "sante",
+    "title": "Intégrer la perte d'autonomie à l'assurance maladie",
+    "description": "Le cahier Sécurité sociale s'oppose à la « 5e branche » autonomie et propose d'intégrer la perte d'autonomie dans l'assurance maladie, prise en charge à 100 %, avec un financement public des besoins sociaux en autonomie et des Ehpad soustraits à la privatisation.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Sécurité sociale",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf#page=31",
+    "source_date": "2025-12-18",
+    "source_page": "p. 31-32 et 43",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-sante-04",
+    "theme": "sante",
+    "title": "Un médecin scolaire pour 3 000 élèves du secondaire",
+    "description": "Le Plan Jeunesse prévoit une équipe de santé et d'accompagnement dans chaque lycée et l'objectif d'un médecin scolaire pour 3 000 élèves du secondaire, contre un pour 13 000 élèves selon le document.",
+    "source_type": "officiel",
+    "source_title": "Fabien Roussel – Plan « Jeunesse 2027-2032 » (document de campagne, fabienroussel2027.fr)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=6",
+    "source_date": "2026-10-06",
+    "source_page": "p. 6",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-education-01",
@@ -318,7 +539,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 50",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-education-02",
@@ -331,7 +552,64 @@
     "source_date": "2026-07-15",
     "source_page": "p. 50",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-education-03",
+    "theme": "education",
+    "title": "Recruter 90 000 enseignants en cinq ans",
+    "description": "Le Plan Jeunesse 2027-2032 prévoit la création de 18 000 postes d'enseignants par an de 2027 à 2031, soit 90 000 au total, pour ramener les classes à 18-19 élèves au primaire, 22-23 au collège et 26-27 au lycée général ; le coût est estimé à 3,5 milliards d'euros par an en année pleine, financés par redéploiement depuis le budget de la défense.",
+    "source_type": "officiel",
+    "source_title": "Fabien Roussel – Plan « Jeunesse 2027-2032 » (document de campagne, fabienroussel2027.fr)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=6",
+    "source_date": "2026-10-06",
+    "source_page": "p. 6",
+    "precision": "chiffre",
+    "cost": {
+      "label": "3,5 Md€ par an en année pleine (2032)",
+      "source_label": "Chiffrage du Plan Jeunesse 2027-2032",
+      "source_url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=11"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-education-04",
+    "theme": "education",
+    "title": "25 milliards d'euros pour rénover collèges et lycées",
+    "description": "Le Plan Jeunesse prévoit une loi de finances rectificative ouvrant 5 milliards d'euros d'urgence pour les lycées, puis 5 milliards d'euros par an pendant cinq ans de prêts à taux zéro aux régions et départements pour rénover le bâti scolaire, financés par une réorientation d'aides publiques aux entreprises.",
+    "source_type": "officiel",
+    "source_title": "Fabien Roussel – Plan « Jeunesse 2027-2032 » (document de campagne, fabienroussel2027.fr)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=5",
+    "source_date": "2026-10-06",
+    "source_page": "p. 5",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-education-05",
+    "theme": "education",
+    "title": "32 heures de cours par semaine et retour des filières au lycée",
+    "description": "Le Plan Jeunesse prévoit 32 heures de cours hebdomadaires au lycée avec des journées finissant à 17 h, la suppression des spécialités au profit du rétablissement des filières et un baccalauréat professionnel en quatre ans.",
+    "source_type": "officiel",
+    "source_title": "Fabien Roussel – Plan « Jeunesse 2027-2032 » (document de campagne, fabienroussel2027.fr)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=7",
+    "source_date": "2026-10-06",
+    "source_page": "p. 7",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-education-06",
+    "theme": "education",
+    "title": "Supprimer Parcoursup et MonMaster et garantir une place à chaque bachelier",
+    "description": "Le Plan Jeunesse prévoit de supprimer Parcoursup et MonMaster, de mettre fin à la sélection à l'entrée de l'université, de créer une plateforme publique d'orientation et de garantir une place dans le supérieur à chaque bachelier.",
+    "source_type": "officiel",
+    "source_title": "Fabien Roussel – Plan « Jeunesse 2027-2032 » (document de campagne, fabienroussel2027.fr)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=8",
+    "source_date": "2026-10-06",
+    "source_page": "p. 8",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-securite-01",
@@ -344,7 +622,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 36",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-securite-02",
@@ -357,7 +635,20 @@
     "source_date": "2026-07-15",
     "source_page": "p. 36",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-securite-03",
+    "theme": "securite",
+    "title": "Recruter 21 000 sapeurs-pompiers professionnels",
+    "description": "Un tract de campagne propose de recruter 21 000 sapeurs-pompiers professionnels supplémentaires, de créer un statut pour les volontaires, de porter à 5 000 le nombre de camions de lutte contre les feux de forêt et de renforcer la flotte de bombardiers d'eau par une filière française et européenne.",
+    "source_type": "officiel",
+    "source_title": "PCF / Fabien Roussel – tract de campagne « Des moyens pour nos pompiers » (fabienroussel2027.fr)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/44583/attachments/original/1791210341/tract_pompier.pdf#page=2",
+    "source_date": "2026-10-05",
+    "source_page": "p. 2",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-immigration-01",
@@ -370,7 +661,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 39",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-immigration-02",
@@ -383,7 +674,20 @@
     "source_date": "2026-07-15",
     "source_page": "p. 39",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-immigration-03",
+    "theme": "immigration",
+    "title": "Droit de vote et d'éligibilité des étrangers aux élections locales",
+    "description": "Le texte d'orientation réaffirme l'exigence du droit de vote et d'éligibilité des étrangers extracommunautaires aux élections locales.",
+    "source_type": "officiel",
+    "source_title": "PCF – Base commune adoptée au 40e congrès (CommunisteS n° 1095, vol. 2)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=39",
+    "source_date": "2026-07-15",
+    "source_page": "p. 39",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-institutions-01",
@@ -396,7 +700,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 35",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-institutions-02",
@@ -409,7 +713,33 @@
     "source_date": "2026-07-15",
     "source_page": "p. 35",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-institutions-03",
+    "theme": "institutions",
+    "title": "Extinction progressive du Concordat d'Alsace-Moselle",
+    "description": "Le texte d'orientation prévoit l'extinction progressive du Concordat en Alsace-Moselle afin de mettre fin au financement de certains cultes par l'argent public.",
+    "source_type": "officiel",
+    "source_title": "PCF – Base commune adoptée au 40e congrès (CommunisteS n° 1095, vol. 2)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=34",
+    "source_date": "2026-07-15",
+    "source_page": "p. 34",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-institutions-04",
+    "theme": "institutions",
+    "title": "Opposition au projet d'autonomie constitutionnelle de la Corse",
+    "description": "Le texte d'orientation qualifie le projet constitutionnel d'autonomie de la Corse d'atteinte grave aux principes de la République et s'oppose à la métropolisation, en défendant communes et départements.",
+    "source_type": "officiel",
+    "source_title": "PCF – Base commune adoptée au 40e congrès (CommunisteS n° 1095, vol. 2)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=35",
+    "source_date": "2026-07-15",
+    "source_page": "p. 35",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-europe-01",
@@ -422,7 +752,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 30",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-europe-02",
@@ -435,7 +765,20 @@
     "source_date": "2026-07-15",
     "source_page": "p. 31",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-europe-03",
+    "theme": "europe",
+    "title": "Réorienter la création monétaire de la BCE vers un fonds de développement européen",
+    "description": "Le texte d'orientation propose de rediriger la création monétaire de la Banque centrale européenne vers un fonds de développement économique, social et écologique européen, dans le cadre de coopérations « à géométrie choisie » entre peuples souverains.",
+    "source_type": "officiel",
+    "source_title": "PCF – Base commune adoptée au 40e congrès (CommunisteS n° 1095, vol. 2)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=30",
+    "source_date": "2026-07-15",
+    "source_page": "p. 30",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-international-01",
@@ -448,7 +791,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 30",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-international-02",
@@ -461,7 +804,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 32",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-international-03",
@@ -487,7 +830,46 @@
     "source_date": "2026-05-28",
     "source_page": "p. 40",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-international-05",
+    "theme": "international",
+    "title": "Maintenir une dissuasion nucléaire indépendante, refuser son européanisation",
+    "description": "Le cahier Paix & défense nationale écarte un désarmement nucléaire unilatéral, refuse toute européanisation de la dissuasion ou association avec l'arme britannique, et propose que la France signe le traité d'interdiction des armes nucléaires en y siégeant d'abord comme observateur.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Paix & défense nationale",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/41211/attachments/original/1779954906/document_cahier_paix_ppp_stc.pdf#page=58",
+    "source_date": "2026-05-28",
+    "source_page": "p. 58-59",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-international-06",
+    "theme": "international",
+    "title": "Ukraine : une paix fondée sur la neutralité du pays, hors OTAN",
+    "description": "Le cahier Paix & défense nationale pose comme principes d'une paix en Ukraine la souveraineté du pays dans ses frontières internationalement reconnues et sa neutralité, sans adhésion à l'OTAN, sous garanties de sécurité de l'ONU et de l'OSCE.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Paix & défense nationale",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/41211/attachments/original/1779954906/document_cahier_paix_ppp_stc.pdf#page=38",
+    "source_date": "2026-05-28",
+    "source_page": "p. 38",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-international-07",
+    "theme": "international",
+    "title": "Démanteler le franc CFA et retirer les bases militaires françaises en Afrique",
+    "description": "Le texte d'orientation prévoit de renégocier les accords de défense avec les pays africains, de démanteler le franc CFA/Eco, de retirer les bases militaires et d'annuler les dettes jugées illégitimes.",
+    "source_type": "officiel",
+    "source_title": "PCF – Base commune adoptée au 40e congrès (CommunisteS n° 1095, vol. 2)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=32",
+    "source_date": "2026-07-15",
+    "source_page": "p. 32",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-numerique-01",
@@ -500,7 +882,20 @@
     "source_date": "2026-07-15",
     "source_page": "p. 50",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-numerique-02",
+    "theme": "numerique",
+    "title": "Opposition au capitalisme de plateforme et à la surveillance algorithmique des salariés",
+    "description": "Le texte d'orientation affirme l'opposition du PCF au capitalisme de plateforme, à l'hypersurveillance et au guidage robotisé des travailleurs, et propose d'étendre la logique des services publics au cyberespace avec un contrôle démocratique de l'intelligence artificielle.",
+    "source_type": "officiel",
+    "source_title": "PCF – Base commune adoptée au 40e congrès (CommunisteS n° 1095, vol. 2)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=49",
+    "source_date": "2026-07-15",
+    "source_page": "p. 49",
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-culture-01",
@@ -513,7 +908,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 50",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-culture-02",
@@ -526,7 +921,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 33",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-outre_mer-01",
@@ -539,7 +934,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 32",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-services_publics-01",
@@ -552,7 +947,7 @@
     "source_date": "2025-12-18",
     "source_page": "p. 9",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-services_publics-02",
@@ -565,7 +960,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 48",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-services_publics-03",
@@ -583,7 +978,7 @@
       "source_label": "Estimation du cahier thématique Mobilité du PCF",
       "source_url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf#page=18"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-services_publics-04",
@@ -599,6 +994,32 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "roussel-services_publics-05",
+    "theme": "services_publics",
+    "title": "Augmenter de 30 % le point d'indice des fonctionnaires",
+    "description": "Un tract de campagne propose d'augmenter de 30 % le point d'indice des fonctionnaires, de revaloriser les grilles, de titulariser les contractuels et d'engager un plan d'urgence pour l'hôpital, l'école, les transports, la justice et la sécurité.",
+    "source_type": "officiel",
+    "source_title": "PCF / Fabien Roussel – tract de campagne « Services publics : notre richesse, notre avenir » (fabienroussel2027.fr)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/44585/attachments/original/1791210591/tract_service_public.pdf#page=2",
+    "source_date": "2026-10-05",
+    "source_page": "p. 2",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-services_publics-06",
+    "theme": "services_publics",
+    "title": "Tendre vers la gratuité des TER et des transports en commun",
+    "description": "Le cahier Mobilité fixe l'objectif de tendre vers la gratuité des TER et des transports en commun, en complément de la baisse de 30 % du prix des billets de train.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Mobilité",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf#page=9",
+    "source_date": "2025-12-18",
+    "source_page": "p. 9",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "roussel-famille-01",
     "theme": "famille",
     "title": "Un service public unifié de la protection de l'enfance",
@@ -609,7 +1030,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 37",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-famille-02",
@@ -622,7 +1043,7 @@
     "source_date": "2025-12-18",
     "source_page": "p. 43",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "roussel-famille-03",
@@ -635,6 +1056,32 @@
     "source_date": "2025-12-18",
     "source_page": "p. 11",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-famille-04",
+    "theme": "famille",
+    "title": "Remplacer l'AAH par un revenu au niveau du SMIC",
+    "description": "Le cahier Handicap propose de remplacer l'allocation aux adultes handicapés par un revenu au niveau du SMIC revalorisé pour les personnes ne pouvant pas ou peu travailler.",
+    "source_type": "officiel",
+    "source_title": "PCF – Les cahiers thématiques des jours heureux : Handicap",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf#page=9",
+    "source_date": "2025-12-18",
+    "source_page": "p. 9",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "roussel-famille-05",
+    "theme": "famille",
+    "title": "Inscrire la protection de l'enfance dans la Constitution",
+    "description": "Le texte d'orientation propose de faire de la protection de l'enfance un principe fondamental de la République en l'intégrant à la Constitution, et de reconstruire l'Aide sociale à l'enfance.",
+    "source_type": "officiel",
+    "source_title": "PCF – Base commune adoptée au 40e congrès (CommunisteS n° 1095, vol. 2)",
+    "source_url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=37",
+    "source_date": "2026-07-15",
+    "source_page": "p. 37",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   }
 ]

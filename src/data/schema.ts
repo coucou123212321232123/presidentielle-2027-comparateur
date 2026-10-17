@@ -35,6 +35,8 @@ export const POSITIONS = [
 ] as const
 
 const isoDate = z.string().regex(/^\d{4}-\d{2}-\d{2}$/, 'Date attendue au format YYYY-MM-DD')
+/** Date d'une source : au jour près, ou au mois près (YYYY-MM) quand le document n'indique que le mois. */
+const sourceDate = z.string().regex(/^\d{4}-\d{2}(-\d{2})?$/, 'Date attendue au format YYYY-MM-DD ou YYYY-MM')
 const httpUrl = z.string().url().refine((u) => /^https?:\/\//.test(u), 'URL http(s) attendue')
 
 export const ThemeIdSchema = z.enum(THEME_IDS)
@@ -136,7 +138,7 @@ export const MeasureSchema = z.object({
   source_type: SourceTypeSchema,
   source_title: z.string().min(1),
   source_url: httpUrl,
-  source_date: isoDate.nullable(),
+  source_date: sourceDate.nullable(),
   source_page: z.string().nullable().optional(),
   precision: PrecisionSchema,
   cost: z

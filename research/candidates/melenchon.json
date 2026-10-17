@@ -105,7 +105,7 @@
     "format": "page_web",
     "published_date": null,
     "status": "publie",
-    "note": "Programme de La France insoumise présenté en janvier 2025 (831 mesures, dont 143 ajoutées et 120 précisées), affiché comme programme de campagne sur melenchon2027.fr, qui le signale « en cours de réactualisation ». Les pages de chapitres du site renvoyaient une erreur 404 au 15 octobre 2026 ; les mesures sont sourcées sur une archive du PDF (version du 18 février 2025). Une nouvelle version remaniée, organisée en six chapitres et associée à la « Nouvelle France », doit être publiée le 6 novembre 2026 et présentée le 7 novembre 2026 au Bourget (LCP). L'archive indiquée est celle du PDF, la page web n'ayant pas de capture Wayback.",
+    "note": "Programme de La France insoumise présenté en janvier 2025 (831 mesures, dont 143 ajoutées et 120 précisées), affiché comme programme de campagne sur melenchon2027.fr, qui le signale « en cours de réactualisation ». Les pages de chapitres du site renvoient une erreur 404 (vérifié le 16 octobre 2026) ; les mesures sont sourcées sur une archive du PDF (version du 18 février 2025). La 5e édition, annoncée sur le site de campagne avec 1 069 mesures, doit paraître le 6 novembre 2026 et être présentée le 7 novembre au Bourget (LCP). Depuis septembre 2026, le site publie des documents complémentaires : plans d'investissement productif (BTP/Logement, Automobile), plan thématique Ruralités, et un document d'orientations budgétaires pour 2027 (« Comment nous allons remettre de l'ordre dans les comptes publics », octobre 2026), qui porte notamment le SMIC proposé à 1 700 € net. Le site propose aussi le contrat de législature du Nouveau Front populaire (2024), programme de coalition antérieur. L'archive indiquée est celle du PDF, la page web n'ayant pas de capture Wayback.",
     "thematic_links": [
       {
         "theme": "institutions",
@@ -176,6 +176,69 @@
         "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=66",
         "format": "pdf",
         "page_range": "p. 130-135"
+      },
+      {
+        "theme": "economie",
+        "title": "Comment nous allons remettre de l'ordre dans les comptes publics (orientations budgétaires 2027, octobre 2026)",
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-21"
+      },
+      {
+        "theme": "logement",
+        "title": "Plan d'investissement productif BTP/Logement (septembre 2026)",
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-20"
+      },
+      {
+        "theme": "economie",
+        "title": "Plan d'investissement productif Automobile (octobre 2026)",
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/PLAN-AUTO_Vf_ST.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-26"
+      },
+      {
+        "theme": "services_publics",
+        "title": "Plan thématique « Ruralités » (octobre 2026)",
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/plan_RURALITE_web.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-32"
+      },
+      {
+        "theme": "logement",
+        "title": "Chapitre 7 – La force de l'entraide (logement, pauvreté, justice, police, enfance)",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=28",
+        "format": "pdf",
+        "page_range": "p. 54-63"
+      },
+      {
+        "theme": "agriculture",
+        "title": "Chapitre 13 – Souveraineté alimentaire et révolution agricole",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=50",
+        "format": "pdf",
+        "page_range": "p. 99-100"
+      },
+      {
+        "theme": "culture",
+        "title": "Chapitre 11 – Humaniser par la culture et le sport",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=43",
+        "format": "pdf",
+        "page_range": "p. 84-87"
+      },
+      {
+        "theme": "famille",
+        "title": "Chapitre 10 – Faire place à la nouvelle France (égalité, jeunes, grand âge, handicap)",
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=39",
+        "format": "pdf",
+        "page_range": "p. 77-83"
+      },
+      {
+        "theme": "europe",
+        "title": "Contrat de législature du Nouveau Front populaire (2024, programme de coalition)",
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/04/PROGRAMME-FRONT-POPULAIRE.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-26"
       }
     ],
     "archive_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf"
@@ -212,7 +275,23 @@
     {
       "label": "Wikimedia Commons – photo",
       "url": "https://commons.wikimedia.org/wiki/File:Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_(cropped).jpg"
+    },
+    {
+      "label": "melenchon2027.fr – Découvrir le programme (5e édition annoncée, documents complémentaires)",
+      "url": "https://melenchon2027.fr/programme/decouvrir/"
+    },
+    {
+      "label": "melenchon2027.fr – Les plans thématiques",
+      "url": "https://melenchon2027.fr/programme/plans-thematiques/"
+    },
+    {
+      "label": "melenchon2027.fr – Les plans d'investissement productif",
+      "url": "https://melenchon2027.fr/programme/plans-investissement/"
+    },
+    {
+      "label": "melenchon2027.fr – Lettre au peuple de France (mai 2026)",
+      "url": "https://melenchon2027.fr/lettre-au-peuple-de-france/"
     }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

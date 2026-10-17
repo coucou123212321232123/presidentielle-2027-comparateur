@@ -1,0 +1,419 @@
+[
+  {
+    "action": "add",
+    "measure_id": "roussel-economie-05",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44816/attachments/original/1791988899/document_1104_CommunisteS.pdf#page=16",
+        "page": "p. 11 (page PDF 16)",
+        "excerpt": "le PCF propose de produire 1 million de petits véhicules électriques par an"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-economie-06",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44816/attachments/original/1791988899/document_1104_CommunisteS.pdf#page=14",
+        "page": "p. 9 (page PDF 14)",
+        "excerpt": "Nationaliser deux grands réseaux bancaires privés, BNP-Paribas et Société Générale"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-economie-07",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=45",
+        "page": "p. 45",
+        "excerpt": "L’argent public versé aux entreprises doit être conditionné et contrôlé"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-fiscalite-03",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf#page=37",
+        "page": "p. 37",
+        "excerpt": "Notre proposition de contribution additionnelle sur les revenus financiers des entreprises."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-fiscalite-04",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf#page=40",
+        "page": "p. 40",
+        "excerpt": "nous proposons de moduler les taux des cotisations sociales"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-emploi-03",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=43",
+        "page": "p. 43",
+        "excerpt": "sécurité d’emploi et de formation permettra l’éradication du chômage"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-emploi-04",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf#page=9",
+        "page": "p. 9",
+        "excerpt": "Garantir un statut de salarié plein et entier pour les travailleurs des ESAT"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-retraites-03",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf#page=21",
+        "page": "p. 21",
+        "excerpt": "Calcul sur les 10 meilleures années, avec indexation des pensions sur les salaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-retraites-04",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf#page=43",
+        "page": "p. 43",
+        "excerpt": "Nous sommes opposés à toute évolution vers la capitalisation et la retraite à points."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-ecologie-03",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf#page=11",
+        "page": "p. 11",
+        "excerpt": "10 milliards d’euros par an pendant 20 ans pour un plan d’investissements"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-ecologie-04",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf#page=13",
+        "page": "p. 13",
+        "excerpt": "augmentant à 30% la part du fret ferroviaire"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-ecologie-05",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf#page=17",
+        "page": "p. 17",
+        "excerpt": "une prime à la conversion pour les véhicules thermiques peu polluants"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-agriculture-04",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=46",
+        "page": "p. 46",
+        "excerpt": "planification alimentaire territoriale fondée sur le développement des circuits courts"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-logement-04",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf#page=12",
+        "page": "p. 12",
+        "excerpt": "En élevant les critères à 30 % de logements sociaux"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-logement-05",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf#page=15",
+        "page": "p. 15",
+        "excerpt": "L’interdiction de la vente HLM"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-logement-06",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf#page=26",
+        "page": "p. 26",
+        "excerpt": "La réhabilitation de 500 000 logements sociaux par an sans augmentation de loyer."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-logement-07",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf#page=35",
+        "page": "p. 35",
+        "excerpt": "Nous proposons de mettre en place un moratoire national sur les expulsions locatives"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-sante-03",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf#page=31",
+        "page": "p. 31",
+        "excerpt": "il faut intégrer la perte d’autonomie dans la branche maladie"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-sante-04",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=6",
+        "page": "p. 6",
+        "excerpt": "un médecin scolaire pour 3 000 élèves du secondaire"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-education-03",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=6",
+        "page": "p. 6",
+        "excerpt": "Recruter 90 000 enseignants en cinq ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-education-04",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=5",
+        "page": "p. 5",
+        "excerpt": "5 milliards d'euros par an de prêt à taux 0"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-education-05",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=7",
+        "page": "p. 7",
+        "excerpt": "Rendre du temps d’étude aux élèves : 32 heures de cours par semaine"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-education-06",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=8",
+        "page": "p. 8",
+        "excerpt": "Supprimer Parcoursup et MonMaster"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-securite-03",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44583/attachments/original/1791210341/tract_pompier.pdf#page=2",
+        "page": "p. 2",
+        "excerpt": "Recruter 21000 sapeurs-pompiers professionnels supplémentaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-immigration-03",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=39",
+        "page": "p. 39",
+        "excerpt": "droit de vote et d’éligibilité des étrangères et étrangers extracommunautaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-institutions-03",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=34",
+        "page": "p. 34",
+        "excerpt": "l’extinction progressive du Concordat en Alsace-Moselle"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-institutions-04",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=35",
+        "page": "p. 35",
+        "excerpt": "le projet constitutionnel d’autonomie de la Corse est une atteinte grave"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-europe-03",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=30",
+        "page": "p. 30",
+        "excerpt": "la redirection de la création monétaire de la BCE vers un fonds de développement"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-international-05",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/41211/attachments/original/1779954906/document_cahier_paix_ppp_stc.pdf#page=58",
+        "page": "p. 58-59",
+        "excerpt": "Nous ne sommes pas favorables à un désarmement unilatéral de la France."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-international-06",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/41211/attachments/original/1779954906/document_cahier_paix_ppp_stc.pdf#page=38",
+        "page": "p. 38",
+        "excerpt": "la sécurité collective, qui suppose la neutralité de l’Ukraine"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-international-07",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=32",
+        "page": "p. 32",
+        "excerpt": "Le franc CFA/Eco doit être démantelé"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-numerique-02",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=49",
+        "page": "p. 49",
+        "excerpt": "les communistes sont opposés au capitalisme de plateforme"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-services_publics-05",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44585/attachments/original/1791210591/tract_service_public.pdf#page=2",
+        "page": "p. 2",
+        "excerpt": "Augmenter de 30 % le point d’indice des fonctionnaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-services_publics-06",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf#page=9",
+        "page": "p. 9",
+        "excerpt": "tendre vers la gratuité des TER et des transports en commun"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-famille-04",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf#page=9",
+        "page": "p. 9",
+        "excerpt": "Remplacer l’AAH par un revenu au niveau du SMIC revalorisé"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "roussel-famille-05",
+    "evidence": [
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=37",
+        "page": "p. 37",
+        "excerpt": "en l’intégrant à la Constitution"
+      }
+    ]
+  },
+  {
+    "action": "program",
+    "measure_id": "program.note / program.thematic_links",
+    "evidence": [
+      {
+        "url": "https://www.fabienroussel2027.fr/materiel",
+        "page": null,
+        "excerpt": "plan jeunesse 2027 - 2032"
+      },
+      {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf",
+        "page": "p. 3",
+        "excerpt": "Voici le Plan Jeunesse 2027-2032."
+      },
+      {
+        "url": "https://www.pcf.fr/le_programme",
+        "page": null,
+        "excerpt": "Page non trouvée"
+      }
+    ]
+  }
+]

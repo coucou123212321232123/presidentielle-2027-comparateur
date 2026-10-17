@@ -12,7 +12,7 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-economie-02",
@@ -27,7 +27,7 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-economie-03",
@@ -42,7 +42,20 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-economie-04",
+    "theme": "economie",
+    "title": "Exonérer toute entreprise nouvelle de cotisations et de CFE pendant douze mois",
+    "description": "Aucune cotisation URSSAF ni cotisation foncière des entreprises pendant les douze premiers mois d'une entreprise ; ensuite, cotisations calculées sur les revenus effectivement perçus, sans assiette forfaitaire minimale avant la troisième année.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Le livre noir : en finir avec la bureaucratie",
+    "source_url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=7",
+    "source_date": "2026-04-22",
+    "source_page": "p. 7",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-fiscalite-01",
@@ -57,7 +70,7 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-fiscalite-02",
@@ -72,7 +85,46 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-fiscalite-03",
+    "theme": "fiscalite",
+    "title": "Ramener l'impôt sur les sociétés à 20 %",
+    "description": "Selon la page, son livre fixe un taux d'impôt sur les sociétés de 20 %, avec une part variable de 0 à 5 % laissée aux collectivités ; les baisses d'impôts suivraient toujours les baisses de dépenses.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « Quel candidat à la présidentielle 2027 veut baisser les impôts ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-baisser-les-impots/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-fiscalite-04",
+    "theme": "fiscalite",
+    "title": "Exonérer la transmission d'entreprises et ramener le taux marginal successoral à 20 %",
+    "description": "Transmission des entreprises « totalement libérée » des droits de succession ; pour le reste, barème allégé, taux marginal supérieur ramené de 45 % à 20 % et abattements unifiés quel que soit le lien de parenté.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « Quel candidat à la présidentielle 2027 veut supprimer les droits de succession ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-droits-de-succession/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-fiscalite-05",
+    "theme": "fiscalite",
+    "title": "Taxer les livraisons en ligne pour baisser la fiscalité locale des commerces",
+    "description": "Taxe forfaitaire sur chaque livraison à domicile (points relais et retrait en magasin exonérés), affectée à un abattement de fiscalité locale pour les magasins de détail ; suspension demandée de la facturation électronique obligatoire.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « Quel candidat à la présidentielle 2027 défend les commerçants et les artisans ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-defend-les-commercants-et-les-artisans/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-emploi-01",
@@ -87,7 +139,7 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-emploi-02",
@@ -102,7 +154,46 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-emploi-03",
+    "theme": "emploi",
+    "title": "Garantir 500 € d'écart entre un emploi à temps plein et le revenu d'assistance",
+    "description": "Engagement que le plus faible salaire à temps plein dépasse d'au moins 500 € le plus haut revenu d'assistance, via la baisse des cotisations et l'alignement à la baisse de la CSG des actifs sur celle des inactifs.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « Quel candidat à la présidentielle 2027 veut que le travail paie plus que l’assistanat ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-que-le-travail-paie-plus-que-l-assistanat/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-emploi-04",
+    "theme": "emploi",
+    "title": "Rendre les allocations chômage dégressives",
+    "description": "Soutien à la dégressivité des allocations chômage, associée à une formation des demandeurs d'emploi en difficulté, et critique du bonus-malus sur les contrats courts.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « Quel candidat à la présidentielle 2027 veut réformer l’assurance chômage ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reformer-l-assurance-chomage/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-emploi-05",
+    "theme": "emploi",
+    "title": "Charges patronales négatives pour l'embauche d'allocataires du RSA de longue durée",
+    "description": "Création de charges patronales négatives pour l'embauche de personnes au RSA depuis plus de deux ans, suppression des charges pour les employeurs à domicile au niveau du SMIC et abaissement de la limite d'âge de l'apprentissage.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Notre programme : Réussir une nouvelle ambition française",
+    "source_url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-retraites-01",
@@ -117,7 +208,7 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-retraites-02",
@@ -132,7 +223,7 @@
     "precision": "orientation_generale",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-retraites-03",
@@ -147,7 +238,7 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-energie-01",
@@ -165,7 +256,7 @@
       "key": "nucleaire",
       "value": "relance"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-energie-02",
@@ -180,7 +271,20 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-energie-03",
+    "theme": "energie",
+    "title": "Suspendre six mois les certificats d'économies d'énergie sur les carburants",
+    "description": "Suspension pendant six mois de l'obligation de certificats d'économies d'énergie sur les carburants, présentée comme une baisse d'environ 17 centimes par litre sans coût budgétaire ; refus des chèques carburant.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « Quel candidat à la présidentielle 2027 veut faire baisser le prix du carburant ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-faire-baisser-le-prix-du-carburant/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-ecologie-01",
@@ -195,7 +299,46 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-ecologie-02",
+    "theme": "ecologie",
+    "title": "Supprimer les zones à faibles émissions par une loi dès l'arrivée au pouvoir",
+    "description": "Suppression des ZFE par une loi après la censure d'une première suppression pour cavalier législatif, avec une réforme constitutionnelle permettant de passer outre par référendum aux blocages du Conseil constitutionnel.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « Quel candidat à la présidentielle 2027 veut supprimer les zones à faibles émissions (ZFE) ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-zones-a-faibles-emissions-zfe/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-ecologie-03",
+    "theme": "ecologie",
+    "title": "Fiscalité carbone à prélèvements constants, redistribuée et assortie de réciprocité",
+    "description": "Donner un prix aux pollutions selon le principe pollueur-payeur, à taxation totale constante, en redistribuant les recettes aux « perdants » et aux acteurs vertueux et en préservant la compétitivité, avec réciprocité internationale.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Notre programme : Générer un renouveau civique",
+    "source_url": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-ecologie-04",
+    "theme": "ecologie",
+    "title": "Continuité écologique des rivières : présomption d'utilité des ouvrages existants",
+    "description": "Révision de l'article L. 214-17 du code de l'environnement : présomption d'utilité des ouvrages hydrauliques existants et droit des riverains à entretenir seuils et vannes selon un plan pluriannuel approuvé.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Le livre noir : en finir avec la bureaucratie",
+    "source_url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=8",
+    "source_date": "2026-04-22",
+    "source_page": "p. 8",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-agriculture-01",
@@ -210,7 +353,7 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-agriculture-02",
@@ -225,7 +368,7 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-agriculture-03",
@@ -240,7 +383,46 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-agriculture-04",
+    "theme": "agriculture",
+    "title": "Créer un statut unique d'entreprise rurale agricole intégrée",
+    "description": "Un statut unique permettant d'exercer dans une même entité production, transformation, vente, énergie, gestion foncière, forêt, immobilier et tourisme rural.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Les Carnets : Agriculture (2026)",
+    "source_url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf#page=9",
+    "source_date": "2026-06-08",
+    "source_page": "p. 9",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-agriculture-05",
+    "theme": "agriculture",
+    "title": "Développer une filière française d'engrais azotés décarbonés",
+    "description": "Filière d'engrais azotés décarbonés alimentée par l'électricité nucléaire et renouvelable, valorisation des lisiers et fumiers et souveraineté sur les semences et fertilisants.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Les Carnets : Agriculture (2026)",
+    "source_url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf#page=8",
+    "source_date": "2026-06-08",
+    "source_page": "p. 8",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-agriculture-06",
+    "theme": "agriculture",
+    "title": "Réciprocité des normes et clauses de sauvegarde unilatérales en matière agricole",
+    "description": "Réciprocité des normes dans les accords commerciaux, application unilatérale de clauses de sauvegarde si nécessaire, préférence communautaire agricole et amorce d'un processus d'harmonisation des règles fiscales et sociales agricoles en Europe.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Les Carnets : Agriculture (2026)",
+    "source_url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf#page=10",
+    "source_date": "2026-06-08",
+    "source_page": "p. 10",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-logement-01",
@@ -255,7 +437,7 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-logement-02",
@@ -270,7 +452,33 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-logement-03",
+    "theme": "logement",
+    "title": "Remplacer les interdictions de louer liées au DPE par un bonus-malus",
+    "description": "Suppression de l'interdiction de location des logements énergivores au profit d'un bonus-malus incitatif, et réforme du DPE supprimant les indicateurs d'énergie primaire qui pénalisent le chauffage électrique.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Le livre noir : en finir avec la bureaucratie",
+    "source_url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=7",
+    "source_date": "2026-04-22",
+    "source_page": "p. 7",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-logement-04",
+    "theme": "logement",
+    "title": "Limiter l'avis conforme des Architectes des bâtiments de France",
+    "description": "Avis simple de l'ABF pour tout ce qui ne touche pas la façade principale, la toiture visible et les éléments classés, délai de deux mois au-delà duquel l'avis est réputé favorable, et impossibilité de s'opposer à des travaux d'isolation adaptés au bâti ancien.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Le livre noir : en finir avec la bureaucratie",
+    "source_url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=7",
+    "source_date": "2026-04-22",
+    "source_page": "p. 7",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-sante-01",
@@ -285,7 +493,7 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-sante-02",
@@ -300,7 +508,7 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-sante-03",
@@ -315,7 +523,46 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-sante-04",
+    "theme": "sante",
+    "title": "Mettre l'assurance maladie en concurrence sur le modèle néerlandais",
+    "description": "Panier de soins obligatoire qu'aucun organisme ne pourrait refuser de rembourser, avec libre choix de l'organisme par l'assuré, sur le modèle des Pays-Bas.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « David Lisnard veut-il supprimer la Sécurité sociale ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-veut-il-supprimer-la-securite-sociale/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-sante-05",
+    "theme": "sante",
+    "title": "Accès direct du patient à tout professionnel compétent avec remboursement plein",
+    "description": "Libre accès, avec remboursement plein, aux spécialistes, infirmiers en pratique avancée ou kinésithérapeutes ; élargissement des compétences paramédicales (prescription, suivi autonome).",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Les Carnets : Santé (2026)",
+    "source_url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf#page=8",
+    "source_date": "2026-05-05",
+    "source_page": "p. 8",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-sante-06",
+    "theme": "sante",
+    "title": "Loi pluriannuelle de santé et convergence tarifaire public-privé",
+    "description": "Loi de programmation de santé à 3-5 ans sur le modèle des lois de programmation militaire, convergence tarifaire entre public et privé, Carte Vitale biométrique contre la fraude et alimentation obligatoire du Dossier médical partagé.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Les Carnets : Santé (2026)",
+    "source_url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf#page=10",
+    "source_date": "2026-05-05",
+    "source_page": "p. 10",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-education-01",
@@ -330,7 +577,7 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-education-02",
@@ -345,7 +592,7 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-education-03",
@@ -360,7 +607,46 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-education-04",
+    "theme": "education",
+    "title": "Classes d'excellence en mathématiques et initiation au latin, au grec et à la philosophie",
+    "description": "Création de classes d'excellence en mathématiques et en sciences dans chaque académie et extension, dès le primaire, de l'initiation au grec, au latin et à la philosophie.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Notre programme : Éducation",
+    "source_url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-education-05",
+    "theme": "education",
+    "title": "Un corps unique d'enseignants contractuels et l'éveil (1-6 ans) confié aux communes",
+    "description": "Mise en place progressive d'un corps unique d'enseignants contractuels recrutés sur concours national ; l'Éducation nationale serait recentrée sur le tronc commun (6-16 ans), l'éveil des 1-6 ans relevant des communes.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Notre programme : Éducation",
+    "source_url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-education-06",
+    "theme": "education",
+    "title": "Supprimer Parcoursup au profit d'une affectation sur résultats scolaires",
+    "description": "Parcoursup serait remplacé par un système d'affectation fondé sur les résultats scolaires objectifs, avec libre accès à l'université dans les filières non contingentées.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Le livre noir : en finir avec la bureaucratie",
+    "source_url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=9",
+    "source_date": "2026-04-22",
+    "source_page": "p. 9",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-securite-01",
@@ -375,7 +661,7 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-securite-02",
@@ -390,7 +676,7 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-securite-03",
@@ -405,7 +691,7 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-securite-04",
@@ -420,7 +706,33 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-securite-05",
+    "theme": "securite",
+    "title": "Instaurer la perpétuité réelle et l'exécution intégrale des peines",
+    "description": "Engagement à ce que les peines prononcées soient intégralement exécutées et à instaurer la perpétuité réelle, en lien avec la construction de 20 000 places de prison.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « Quel candidat à la présidentielle 2027 veut que les peines soient réellement exécutées ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-que-les-peines-soient-reellement-executees/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-securite-06",
+    "theme": "securite",
+    "title": "Rétablir la responsabilité des magistrats et interdire le Syndicat de la magistrature",
+    "description": "Deux mesures distinctes annoncées au meeting de Saint-Raphaël : un régime de responsabilité des magistrats et l'interdiction du Syndicat de la magistrature.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « Quel candidat à la présidentielle 2027 propose de rétablir la responsabilité des magistrats ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-retablir-la-responsabilite-des-magistrats/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-immigration-01",
@@ -435,7 +747,7 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-immigration-02",
@@ -450,7 +762,7 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-immigration-03",
@@ -469,7 +781,7 @@
       "source_url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=9"
     },
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-immigration-04",
@@ -487,7 +799,33 @@
       "key": "referendum_immigration",
       "value": "oui"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-immigration-05",
+    "theme": "immigration",
+    "title": "Expulser systématiquement les étrangers condamnés pour délits graves et les fichés S",
+    "description": "Expulsion systématique des étrangers condamnés pour délits graves et des étrangers fichés S ; prestations sociales non contributives réservées aux étrangers en résidence régulière depuis au moins cinq ans.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Notre programme : Immigration",
+    "source_url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-immigration-06",
+    "theme": "immigration",
+    "title": "Primauté du droit national en matière migratoire, sortie de la CEDH en dernier recours",
+    "description": "Inscrire dans la Constitution la primauté du droit national en matière migratoire pour rendre inapplicables les décisions de la CJUE et de la CEDH contraires à l'intérêt national ; sortie de la CEDH en dernier recours.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Notre programme : Immigration",
+    "source_url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-institutions-01",
@@ -502,7 +840,7 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-institutions-02",
@@ -517,7 +855,7 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-institutions-03",
@@ -532,7 +870,20 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-institutions-04",
+    "theme": "institutions",
+    "title": "Recentrer la loi sur les principes et réserver un droit d'initiative au Parlement",
+    "description": "La loi serait limitée aux principes fondamentaux (sauf fiscalité et droit pénal), le Parlement disposerait d'un périmètre d'initiative réservé et d'un rôle de « diagnostic » préalable avant toute nouvelle norme.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Notre programme : Être maître de notre destin",
+    "source_url": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-europe-01",
@@ -547,7 +898,7 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-europe-02",
@@ -562,7 +913,20 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-europe-03",
+    "theme": "europe",
+    "title": "Négocier un traité de démocratisation de l'Europe",
+    "description": "Renforcer les prérogatives du Conseil européen et du Parlement européen face à la Commission, à la CJUE et à la BCE ; en cas de blocage de la souveraineté nationale par une règle supranationale, possibilité d'arbitrage par référendum.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Notre programme : Être maître de notre destin",
+    "source_url": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-international-01",
@@ -577,7 +941,33 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-international-02",
+    "theme": "international",
+    "title": "Augmenter le budget de la défense et bâtir un système de combat aérien souverain",
+    "description": "Hausse jugée « incontournable » du budget de la défense ; système de combat aérien national bâti sur le Rafale, ses drones et la dissuasion, après l'abandon de l'avion de combat franco-allemand.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « Quel candidat à la présidentielle 2027 veut renforcer l’armée ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-renforcer-l-armee/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-international-03",
+    "theme": "international",
+    "title": "Soutenir l'Ukraine en produisant et en livrant des armes",
+    "description": "Soutien à l'Ukraine face à l'« invasion russe », au nom de l'intérêt de la France que la Russie ne gagne pas, avec commande de munitions à l'industrie de l'armement.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « Quelle est la position de David Lisnard sur la guerre en Ukraine ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quelle-est-la-position-de-david-lisnard-sur-la-guerre-en-ukraine/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-numerique-01",
@@ -592,7 +982,7 @@
     "precision": "orientation_generale",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-culture-01",
@@ -607,7 +997,20 @@
     "precision": "orientation_generale",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-culture-02",
+    "theme": "culture",
+    "title": "Privatiser France 2 et recentrer l'audiovisuel public",
+    "description": "Recentrage des missions de l'audiovisuel public, fermeture ou réorganisation de certaines chaînes et privatisation de celles ayant une valeur commerciale, comme France 2.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « David Lisnard veut-il privatiser les services publics ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-veut-il-privatiser-les-services-publics/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-outre_mer-01",
@@ -622,7 +1025,20 @@
     "precision": "orientation_generale",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-outre_mer-02",
+    "theme": "outre_mer",
+    "title": "Task forces contre le narcotrafic dédiées aux outre-mer",
+    "description": "Parmi les mesures contre le narcotrafic : cellules locales anti-stupéfiants sous l'autorité du préfet, confiscations ciblées et task forces dédiées en outre-mer.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Notre programme : Sécurité",
+    "source_url": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-services_publics-01",
@@ -637,7 +1053,7 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-services_publics-02",
@@ -652,7 +1068,7 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-services_publics-03",
@@ -667,7 +1083,46 @@
     "precision": "chiffre",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-services_publics-04",
+    "theme": "services_publics",
+    "title": "Généraliser le « silence vaut accord » et le « dites-le nous une fois »",
+    "description": "Suppression des quelque 1 600 exceptions au principe « silence vaut accord », délai de quinze jours pour réclamer des pièces manquantes, obligation opposable de partage des données entre administrations et dossier numérique unique.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Le livre noir : en finir avec la bureaucratie",
+    "source_url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=16",
+    "source_date": "2026-04-22",
+    "source_page": "p. 12, 14, 16",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-services_publics-05",
+    "theme": "services_publics",
+    "title": "Aligner le statut des fonctionnaires sur le droit privé hors missions régaliennes",
+    "description": "Selon son livre, alignement progressif du statut des fonctionnaires sur les contrats de droit privé pour les missions non régaliennes, diversification du recrutement de la haute fonction publique et externalisation de certains services.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Questions : « Quel candidat à la présidentielle 2027 veut réformer le statut de la fonction publique ? » (mis à jour le 16 octobre 2026)",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reformer-le-statut-de-la-fonction-publique/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "lisnard-services_publics-06",
+    "theme": "services_publics",
+    "title": "Supprimer l'INSP et recruter les directeurs d'administration sur objectifs",
+    "description": "Réforme de la haute fonction publique dans les cent premiers jours : suppression de l'Institut national du service public, directeurs d'administration centrale recrutés sur contrats d'objectifs et révocables, création d'une DRH de l'État.",
+    "source_type": "declaration",
+    "source_title": "Nouvelle Énergie – Le livre noir : discours de David Lisnard (en finir avec la bureaucratie)",
+    "source_url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=24",
+    "source_date": "2026-04-22",
+    "source_page": "p. 24",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-famille-01",
@@ -682,7 +1137,7 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "lisnard-famille-02",
@@ -697,6 +1152,6 @@
     "precision": "precis",
     "cost": null,
     "indicator": null,
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   }
 ]

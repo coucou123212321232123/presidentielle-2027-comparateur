@@ -39,6 +39,32 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "dupont-aignan-economie-04",
+    "theme": "economie",
+    "title": "« Buy French Act » : 75 % de la commande publique aux entreprises produisant en France",
+    "description": "Réserver à terme 75 % des achats publics aux entreprises produisant en France, la commande publique étant réservée à celles qui fabriquent le bien en France tant que leur prix n'excède pas de plus de 50 % celui des concurrents.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": "2026-10-10",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-economie-05",
+    "theme": "economie",
+    "title": "Rémunérer le Livret A au-dessus de l'inflation",
+    "description": "Garantir les revenus de l'épargne populaire en fixant pour le Livret A un taux supérieur à l'inflation.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": "2026-10-10",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "dupont-aignan-fiscalite-01",
     "theme": "fiscalite",
     "title": "Impôt sur les très grandes fortunes",
@@ -78,6 +104,45 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "dupont-aignan-fiscalite-04",
+    "theme": "fiscalite",
+    "title": "Supprimer les droits de succession sur la résidence principale",
+    "description": "Suppression des droits de succession sur la résidence principale et sur les 100 premiers hectares de terres agricoles, doublement des plafonds d'exonération des donations et exonération de 90 % de la valeur des titres d'une entreprise transmise.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": "2026-10-10",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-fiscalite-05",
+    "theme": "fiscalite",
+    "title": "Taxer les données personnelles et les bénéfices des multinationales réalisés en France",
+    "description": "Création d'une taxe sur l'exploitation des données personnelles (5 Md€ attendus au bout de cinq ans) et imposition du bénéfice consolidé des multinationales au prorata du chiffre d'affaires réalisé en France (10 Md€ au bout de cinq ans).",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": "2026-10-10",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-fiscalite-06",
+    "theme": "fiscalite",
+    "title": "Diviser par deux l'impôt sur les sociétés sur les bénéfices réinvestis en France",
+    "description": "Crédit d'impôt « production » : division par deux de l'impôt sur les sociétés pour les bénéfices réinvestis sur le sol français, ou suramortissement.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": "2026-10-10",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "dupont-aignan-emploi-01",
     "theme": "emploi",
     "title": "Défiscalisation des heures supplémentaires",
@@ -102,6 +167,45 @@
     "source_page": null,
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "dupont-aignan-emploi-03",
+    "theme": "emploi",
+    "title": "Exonérer de charges pendant 5 ans l'embauche en CDI d'un chômeur de longue durée",
+    "description": "Exonération de cotisations patronales pendant cinq ans pour le CDI d'un chômeur de longue durée (trois ans), afin d'insérer les personnes en fin de droits.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": "2026-10-10",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-emploi-04",
+    "theme": "emploi",
+    "title": "Plafonner les prestations sociales d'un inactif à 70 % du SMIC net",
+    "description": "Faire en sorte que, pour toute personne inactive, l'ensemble des prestations sociales ne dépasse pas 70 % du SMIC net.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": "2026-10-10",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-emploi-05",
+    "theme": "emploi",
+    "title": "« Participation gaullienne » : baisse d'IS contre actionnariat salarié",
+    "description": "Baisse d'un point du taux d'impôt sur les sociétés pour deux points d'actionnariat salarié supplémentaire (dans la limite de 10 points), exonération de forfait social sur la participation et baisse d'IS pour les entreprises ouvrant leurs instances de décision aux salariés.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": "2026-10-10",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "dupont-aignan-retraites-01",
@@ -141,6 +245,19 @@
     "source_page": null,
     "precision": "orientation_generale",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "dupont-aignan-retraites-04",
+    "theme": "retraites",
+    "title": "Aligner les retraites agricoles sur le régime général",
+    "description": "Validation plus souple des trimestres des conjointes d'agriculteurs ayant participé à l'exploitation et alignement des régimes de retraite agricole sur le régime général, pour une retraite égale au minimum vieillesse.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Agriculture",
+    "source_url": "https://www.debout-la-france.fr/projet/agriculture/",
+    "source_date": "2026-02-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "dupont-aignan-energie-01",
@@ -186,6 +303,19 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "dupont-aignan-energie-04",
+    "theme": "energie",
+    "title": "Baisser de 20 % le prix du gaz et réautoriser le gaz russe",
+    "description": "Réduction de 20 % du prix du gaz par le rétablissement d'un monopole public de distribution et la suppression des certificats d'économies d'énergie, avec la réautorisation des importations de gaz russe.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": "2026-10-10",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "dupont-aignan-ecologie-01",
     "theme": "ecologie",
     "title": "Grand programme d'isolation des logements",
@@ -210,6 +340,32 @@
     "source_page": null,
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "dupont-aignan-ecologie-03",
+    "theme": "ecologie",
+    "title": "Porter les aires marines protégées à 30 % des eaux françaises",
+    "description": "Extension du réseau d'aires marines protégées avec un objectif à court terme de 30 % des eaux françaises, dont 15 % en protection forte, et plan de lutte contre la pollution des mers, notamment en Méditerranée.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Environnement et Énergie",
+    "source_url": "https://www.debout-la-france.fr/projet/environnement-energie/",
+    "source_date": "2025-10-29",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-ecologie-04",
+    "theme": "ecologie",
+    "title": "Vidéosurveillance obligatoire dans tous les abattoirs",
+    "description": "Rendre obligatoire la vidéosurveillance dans les abattoirs et interdire les expérimentations animales lorsqu'il existe des méthodes alternatives.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Environnement et Énergie",
+    "source_url": "https://www.debout-la-france.fr/projet/environnement-energie/",
+    "source_date": "2025-10-29",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "dupont-aignan-agriculture-01",
@@ -238,6 +394,58 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "dupont-aignan-agriculture-03",
+    "theme": "agriculture",
+    "title": "Supprimer les cotisations sociales agricoles",
+    "description": "Suppression des cotisations sociales agricoles, remplacées par une « très légère » taxe sur la grande distribution, et rétablissement des avantages fiscaux du gazole non routier.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Agriculture",
+    "source_url": "https://www.debout-la-france.fr/projet/agriculture/",
+    "source_date": "2026-02-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-agriculture-04",
+    "theme": "agriculture",
+    "title": "Réserver 50 % puis 80 % de la commande publique alimentaire aux producteurs français",
+    "description": "Réservation aux producteurs français de 50 % puis progressivement 80 % des commandes publiques, notamment des cantines scolaires et de la restauration collective.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Agriculture",
+    "source_url": "https://www.debout-la-france.fr/projet/agriculture/",
+    "source_date": "2026-02-16",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-agriculture-05",
+    "theme": "agriculture",
+    "title": "Faciliter l'installation des jeunes agriculteurs",
+    "description": "Suppression des droits de succession sur les 100 premiers hectares transmis, garantie par l'État de 50 % des prêts bancaires d'installation et impossibilité de saisir la ferme en cas de défaillance de l'exploitant.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Agriculture",
+    "source_url": "https://www.debout-la-france.fr/projet/agriculture/",
+    "source_date": "2026-02-16",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-agriculture-06",
+    "theme": "agriculture",
+    "title": "Prix agricoles garantis dans un « tunnel » maximum-minimum",
+    "description": "Mise en place, dans le cadre d'une politique agricole nationale, de prix garantis encadrés par un tunnel « maximum-minimum ».",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Affaires européennes",
+    "source_url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+    "source_date": "2026-10-05",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "dupont-aignan-logement-01",
     "theme": "logement",
     "title": "Construire 400 000 logements par an",
@@ -262,6 +470,45 @@
     "source_page": null,
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "dupont-aignan-logement-03",
+    "theme": "logement",
+    "title": "Recréer un prêt d'accession à la propriété et élargir le PTZ",
+    "description": "Création d'un prêt d'accession à la propriété (PAP) à taux préférentiel et de longue durée pour les classes moyennes, élargissement du prêt à taux zéro et réintroduction de l'APL « accession ».",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Logement",
+    "source_url": "https://www.debout-la-france.fr/projet/logement/",
+    "source_date": "2026-09-30",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-logement-04",
+    "theme": "logement",
+    "title": "Garantie universelle des loyers impayés",
+    "description": "Garantie universelle des loyers impayés pour sécuriser les propriétaires, financée par les locataires à hauteur de 1 % du loyer chaque mois.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Logement",
+    "source_url": "https://www.debout-la-france.fr/projet/logement/",
+    "source_date": "2026-09-30",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-logement-05",
+    "theme": "logement",
+    "title": "Réguler les locations touristiques de type Airbnb",
+    "description": "Harmonisation de l'abattement fiscal des locations de tourisme avec celui des locations classiques et pouvoirs accrus des maires pour encadrer les meublés saisonniers.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Logement",
+    "source_url": "https://www.debout-la-france.fr/projet/logement/",
+    "source_date": "2026-09-30",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "dupont-aignan-sante-01",
@@ -290,6 +537,50 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "dupont-aignan-sante-03",
+    "theme": "sante",
+    "title": "Former 12 000 médecins par an",
+    "description": "Augmentation du nombre de places dans les études de médecine pour atteindre 12 000 praticiens formés par an (page du projet non mise à jour depuis 2024).",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Santé (page de 2024)",
+    "source_url": "https://www.debout-la-france.fr/projet/sante/",
+    "source_date": "2024-02-05",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-sante-04",
+    "theme": "sante",
+    "title": "Doubler le nombre de lits de réanimation",
+    "description": "Porter à 10 000 le nombre de lits de réanimation en cinq ans, avec les personnels qualifiés, pour un coût estimé par le parti à 2,5 Md€ par an (page non mise à jour depuis 2024).",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Santé (page de 2024)",
+    "source_url": "https://www.debout-la-france.fr/projet/sante/",
+    "source_date": "2024-02-05",
+    "source_page": null,
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 2,5 Md€ par an",
+      "source_label": "Chiffrage de Debout la France",
+      "source_url": "https://www.debout-la-france.fr/projet/sante/"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-sante-05",
+    "theme": "sante",
+    "title": "Remplacer les ARS par des directions départementales",
+    "description": "Suppression des agences régionales de santé, remplacées par des directions départementales placées sous l'autorité du préfet (page non mise à jour depuis 2024).",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Santé (page de 2024)",
+    "source_url": "https://www.debout-la-france.fr/projet/sante/",
+    "source_date": "2024-02-05",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "dupont-aignan-education-01",
     "theme": "education",
     "title": "Uniforme obligatoire et vouvoiement à l'école",
@@ -314,6 +605,58 @@
     "source_page": null,
     "precision": "chiffre",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "dupont-aignan-education-03",
+    "theme": "education",
+    "title": "Un examen d'entrée au collège sur le modèle du certificat d'études",
+    "description": "Examen en fin de primaire, sur le modèle du certificat d'études, conditionnant l'entrée au collège ; l'accès au lycée serait réservé aux titulaires du brevet.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Éducation (Instruction publique)",
+    "source_url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+    "source_date": "2026-10-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-education-04",
+    "theme": "education",
+    "title": "Augmenter de 15 % en quatre ans le salaire net des professeurs",
+    "description": "Hausse de 15 % des salaires nets des enseignants en quatre ans, accompagnée de la recréation d'écoles normales d'instituteurs.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Éducation (Instruction publique)",
+    "source_url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+    "source_date": "2026-10-12",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-education-05",
+    "theme": "education",
+    "title": "Conditionner les allocations familiales à l'assiduité scolaire",
+    "description": "Versement des allocations familiales conditionné à l'assiduité scolaire et allocation de rentrée versée sous forme de bons réservés aux fournitures.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Éducation (Instruction publique)",
+    "source_url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+    "source_date": "2026-10-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-education-06",
+    "theme": "education",
+    "title": "Revenir aux filières générales S, ES et L",
+    "description": "Retour aux anciennes filières générales du baccalauréat (S, ES, L), classes de niveau et rétablissement du redoublement lorsque l'accompagnement n'a pas suffi.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Éducation (Instruction publique)",
+    "source_url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+    "source_date": "2026-10-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "dupont-aignan-securite-01",
@@ -355,6 +698,45 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "dupont-aignan-securite-04",
+    "theme": "securite",
+    "title": "Abroger la loi de 2019 dispensant de prison les peines de moins d'un an",
+    "description": "Abrogation de la loi du 23 mars 2019 qui écarte l'incarcération pour les peines de prison ferme de moins d'un an, avec mandat de dépôt à l'audience en principe en cas de condamnation à de la prison ferme.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Justice",
+    "source_url": "https://www.debout-la-france.fr/projet/justice/",
+    "source_date": "2026-10-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-securite-05",
+    "theme": "securite",
+    "title": "Abroger l'ordonnance de 1945 sur la justice des mineurs",
+    "description": "Abrogation de l'ordonnance de 1945 relative à l'enfance délinquante, suppression de la période de césure pour les mineurs et suspension des aides sociales des familles de mineurs délinquants.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Justice",
+    "source_url": "https://www.debout-la-france.fr/projet/justice/",
+    "source_date": "2026-10-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-securite-06",
+    "theme": "securite",
+    "title": "Porter le budget de la justice à 15 Md€",
+    "description": "Plan d'urgence pour augmenter le nombre de magistrats et de greffiers, en portant le budget de la justice de 10,1 à 15 Md€, et rétablissement des cours d'assises avec jurys populaires.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Justice",
+    "source_url": "https://www.debout-la-france.fr/projet/justice/",
+    "source_date": "2026-10-12",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "dupont-aignan-immigration-01",
     "theme": "immigration",
     "title": "Sortie de Schengen et contrôle des frontières nationales",
@@ -392,6 +774,45 @@
     "source_page": null,
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "dupont-aignan-immigration-04",
+    "theme": "immigration",
+    "title": "Rétablir le délit de séjour irrégulier",
+    "description": "Rétablissement du délit de séjour irrégulier puni d'emprisonnement ferme et intégration de la procédure d'éloignement à la procédure pénale.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Immigration et assimilation",
+    "source_url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+    "source_date": "2026-03-03",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-immigration-05",
+    "theme": "immigration",
+    "title": "Limiter le droit d'asile aux demandes déposées aux frontières",
+    "description": "Le droit d'asile serait limité aux personnes le demandant directement aux frontières, sans attribution sur le territoire national ou après plusieurs semaines de clandestinité.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Immigration et assimilation",
+    "source_url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+    "source_date": "2026-03-03",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-immigration-06",
+    "theme": "immigration",
+    "title": "Expulser automatiquement les étrangers condamnés à de la prison ferme",
+    "description": "Double peine automatique : tout étranger condamné à de la prison ferme serait expulsé à sa sortie avec retrait définitif de son titre de séjour, les courtes peines étant remplacées par une expulsion immédiate.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Immigration et assimilation",
+    "source_url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+    "source_date": "2026-03-03",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "dupont-aignan-institutions-01",
@@ -433,6 +854,45 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "dupont-aignan-institutions-04",
+    "theme": "institutions",
+    "title": "Référendum obligatoire pour toute révision constitutionnelle",
+    "description": "Rendre le référendum obligatoire pour toute modification de la Constitution ou touchant à l'indépendance nationale ou à l'intégrité du territoire.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Refonder et moraliser notre démocratie",
+    "source_url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+    "source_date": "2026-06-09",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-institutions-05",
+    "theme": "institutions",
+    "title": "Abroger la loi NOTRe et rendre aux communes leur autonomie",
+    "description": "Abrogation de la loi NOTRe de 2015 pour rendre leur autonomie aux communes et sortir des regroupements de communes jugés « dénués de sens ».",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Refonder et moraliser notre démocratie",
+    "source_url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+    "source_date": "2026-06-09",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-institutions-06",
+    "theme": "institutions",
+    "title": "Casier judiciaire vierge obligatoire pour tous les élus",
+    "description": "Exigence d'un casier judiciaire vierge pour tous les élus, suppression des avantages des anciens présidents et création d'un statut de l'élu.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Refonder et moraliser notre démocratie",
+    "source_url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+    "source_date": "2026-06-09",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "dupont-aignan-europe-01",
     "theme": "europe",
     "title": "Sortie de l'Union européenne",
@@ -461,6 +921,58 @@
     "source_page": null,
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "dupont-aignan-europe-03",
+    "theme": "europe",
+    "title": "Constitutionnaliser l'argent liquide et refuser l'euro numérique",
+    "description": "Inscription de l'argent liquide dans la Constitution et fin du portefeuille numérique, du carnet de santé numérique, du permis de conduire numérique et de l'euro numérique.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Affaires européennes",
+    "source_url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+    "source_date": "2026-10-05",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-europe-04",
+    "theme": "europe",
+    "title": "Supprimer l'application du Digital Services Act",
+    "description": "Suppression du règlement européen sur les services numériques (DSA) et des mesures européennes jugées liberticides concernant réseaux sociaux, presse et lanceurs d'alerte.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Affaires européennes",
+    "source_url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+    "source_date": "2026-10-05",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-europe-05",
+    "theme": "europe",
+    "title": "Mettre fin au Pacte européen sur la migration et l'asile",
+    "description": "Fin de l'application du Pacte européen sur la migration et l'asile, présenté comme imposant des quotas de migrants sous peine d'amende.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Affaires européennes",
+    "source_url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+    "source_date": "2026-10-05",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-europe-06",
+    "theme": "europe",
+    "title": "Rapatrier le pouvoir monétaire et emprunter auprès de la Banque de France",
+    "description": "Rapatrier en France le pouvoir monétaire, bancaire et financier exercé par la BCE, réviser les lois et traités concernés pour permettre à l'État d'emprunter directement à la Banque de France et lancer un grand emprunt national.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": "2026-10-10",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "dupont-aignan-international-01",
@@ -502,6 +1014,45 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "dupont-aignan-international-04",
+    "theme": "international",
+    "title": "Porter le budget de la défense à 2,5 % du PIB",
+    "description": "Engagement à porter le budget de la défense à 2,5 % du PIB pour financer quinze mesures, dont des missiles hypersoniques et 250 Rafale en 2030.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Défense nationale",
+    "source_url": "https://www.debout-la-france.fr/projet/defense/",
+    "source_date": "2026-10-08",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-international-05",
+    "theme": "international",
+    "title": "Deux porte-avions et 20 frégates de premier rang",
+    "description": "Construction de deux porte-avions pour remplacer le Charles-de-Gaulle et assurer une présence permanente en mer, et passage de 15 à 20 frégates de premier rang.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Défense nationale",
+    "source_url": "https://www.debout-la-france.fr/projet/defense/",
+    "source_date": "2026-10-08",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-international-06",
+    "theme": "international",
+    "title": "Concentrer l'aide au développement sur les pays francophones",
+    "description": "Aide au développement concentrée sur les pays francophones et francisants, notamment d'Afrique, avec une AFD placée sous le contrôle direct du ministre des Affaires étrangères.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Affaires étrangères",
+    "source_url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+    "source_date": "2026-02-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "dupont-aignan-numerique-01",
     "theme": "numerique",
     "title": "Fonds souverain pour l'IA et cloud souverain",
@@ -526,6 +1077,45 @@
     "source_page": null,
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "dupont-aignan-numerique-03",
+    "theme": "numerique",
+    "title": "Label « IA Made in France » et réversibilité des données",
+    "description": "Création d'un label « IA Made in France » pour les solutions sans dépendance critique aux grands acteurs étrangers, et clauses de réversibilité garantissant la récupération sans frais des données françaises.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Intelligence Artificielle",
+    "source_url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+    "source_date": "2026-10-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-numerique-04",
+    "theme": "numerique",
+    "title": "Domiciliation fiscale obligatoire en France des géants du numérique",
+    "description": "Obligation pour les agences des géants du numérique opérant en France d'y être domiciliées fiscalement, avec une facturation locale.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Intelligence Artificielle",
+    "source_url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+    "source_date": "2026-10-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-numerique-05",
+    "theme": "numerique",
+    "title": "Créer un visa « IA et Tech » et une agence nationale de sécurité des IA",
+    "description": "Visa spécial « IA et Tech » pour attirer des talents étrangers, pôle universitaire de référence en IA et Agence nationale de l'éthique et de la sécurité des IA.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Intelligence Artificielle",
+    "source_url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+    "source_date": "2026-10-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "dupont-aignan-culture-01",
@@ -554,6 +1144,32 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "dupont-aignan-culture-03",
+    "theme": "culture",
+    "title": "Loi renforcée de protection de la langue française",
+    "description": "Loi de protection du français sur le modèle de la loi Toubon, avec un « droit à l'expression en français », notamment dans les entreprises.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Affaires étrangères",
+    "source_url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+    "source_date": "2026-02-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-culture-04",
+    "theme": "culture",
+    "title": "Créer un grand média de la francophonie",
+    "description": "Renforcer les partenariats entre RFI, France 24 et TV5 Monde pour créer un grand média de la francophonie.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Affaires étrangères",
+    "source_url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+    "source_date": "2026-02-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "dupont-aignan-outre_mer-01",
     "theme": "outre_mer",
     "title": "Billets d'avion Outre-mer/Hexagone divisés par deux",
@@ -580,6 +1196,45 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "dupont-aignan-outre_mer-03",
+    "theme": "outre_mer",
+    "title": "Un ministère de la Mer et des Outre-mer confié à un ministre d'État",
+    "description": "Pérenniser un ministère de la Mer et des Outre-mer dont le titulaire aurait le rang de ministre d'État, chargé d'une stratégie nationale de promotion des outre-mer.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Outre-mer",
+    "source_url": "https://www.debout-la-france.fr/projet/outre-mer/",
+    "source_date": "2026-10-01",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-outre_mer-04",
+    "theme": "outre_mer",
+    "title": "Remplacer en partie l'octroi de mer par une TVA reversée aux collectivités",
+    "description": "Maintien de l'octroi de mer lorsqu'il existe une production locale et remplacement, pour les produits importés de l'Hexagone et de l'Union européenne ne la concurrençant pas, par une TVA intégralement reversée aux collectivités, afin de faire baisser les prix.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Outre-mer",
+    "source_url": "https://www.debout-la-france.fr/projet/outre-mer/",
+    "source_date": "2026-10-01",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-outre_mer-05",
+    "theme": "outre_mer",
+    "title": "Remettre à niveau les réseaux d'eau potable outre-mer",
+    "description": "Plans de rattrapage éducatif et sanitaire comprenant la remise à niveau des réseaux d'eau potable et de l'assainissement, et un plan de rattrapage de l'encadrement médical.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Outre-mer",
+    "source_url": "https://www.debout-la-france.fr/projet/outre-mer/",
+    "source_date": "2026-10-01",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "dupont-aignan-services_publics-01",
     "theme": "services_publics",
     "title": "Une Maison France Services dans chaque préfecture et sous-préfecture",
@@ -604,6 +1259,24 @@
     "source_page": null,
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "dupont-aignan-services_publics-03",
+    "theme": "services_publics",
+    "title": "Supprimer progressivement les agences d'État",
+    "description": "Suppression progressive des agences d'État (ADEME, ARS, ANAH, AFITF, INERIS, VNF…) dont les missions seraient reprises par les ministères, avec un objectif de 15 Md€ d'économies par an au bout de trois ans.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": "2026-10-10",
+    "source_page": null,
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 15 Md€ d'économies par an au bout de 3 ans",
+      "source_label": "Chiffrage de Debout la France",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/"
+    },
+    "last_verified": "2026-10-16"
   },
   {
     "id": "dupont-aignan-famille-01",
@@ -643,5 +1316,44 @@
     "source_page": null,
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "dupont-aignan-famille-04",
+    "theme": "famille",
+    "title": "Revaloriser l'AAH d'environ 300 €",
+    "description": "Revalorisation d'environ 300 € de l'allocation aux adultes handicapés pour les personnes en situation de handicap lourd, afin de l'aligner sur le seuil de pauvreté (environ 1 337 €), et rétablissement du complément de ressources.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Handicap",
+    "source_url": "https://www.debout-la-france.fr/projet/handicap/",
+    "source_date": "2026-10-08",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-famille-05",
+    "theme": "famille",
+    "title": "Part fiscale complète pour les foyers ayant un enfant handicapé",
+    "description": "Attribution d'une part fiscale complète à tout foyer ayant un enfant en situation de handicap, dès la première personne à charge.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Handicap",
+    "source_url": "https://www.debout-la-france.fr/projet/handicap/",
+    "source_date": "2026-10-08",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "dupont-aignan-famille-06",
+    "theme": "famille",
+    "title": "Tribunaux dédiés aux violences conjugales",
+    "description": "Création de tribunaux spécialisés dans les violences conjugales sur le modèle espagnol : 72 heures pour instruire, 15 jours pour juger, et généralisation du bracelet anti-rapprochement.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Combat pour les femmes",
+    "source_url": "https://www.debout-la-france.fr/projet/combat-pour-les-femmes/",
+    "source_date": "2026-02-16",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   }
 ]

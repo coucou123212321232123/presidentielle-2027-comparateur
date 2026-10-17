@@ -1,0 +1,711 @@
+[
+  {
+    "action": "program",
+    "measure_id": null,
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "page": "p. 1",
+        "excerpt": "JUILLET 2026 POUR UNE PROSPÉRITÉ ÉCOLOGIQUE LE NOUVEAU PROGRAMME DES ÉCOLOGISTES"
+      },
+      {
+        "url": "https://marinetondelier.fr/s/dossierpresse-budget2027.pdf",
+        "page": "p. 7",
+        "excerpt": "Dans leur programme adopté en juillet 2026"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-economie-04",
+    "evidence": [
+      {
+        "url": "https://marinetondelier.fr/s/dp-bouclier-social-pour-envoi.pdf#page=5",
+        "page": "p. 5",
+        "excerpt": "vendus à prix coûtant (c'est-à-dire sans marge) par les grands distributeurs"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-economie-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=55",
+        "page": "p. 55",
+        "excerpt": "atteindre un écart de 1 à 20 dans les entreprises"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-economie-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=77",
+        "page": "p. 77",
+        "excerpt": "Créer un fonds souverain assis sur un « livret industrie »"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-fiscalite-03",
+    "evidence": [
+      {
+        "url": "https://marinetondelier.fr/s/dossierpresse-budget2027.pdf#page=6",
+        "page": "p. 6",
+        "excerpt": "Une contribution pour les générations futures de 10% sur les héritages dépassant 4 millions"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-fiscalite-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=66",
+        "page": "p. 66",
+        "excerpt": "Relever la taxe sur les services numériques (TSN) de 3 à 5 %"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-fiscalite-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=67",
+        "page": "p. 67",
+        "excerpt": "Adopter une TVA verte différenciée selon l'impact environnemental et sanitaire"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-fiscalite-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=68",
+        "page": "p. 68",
+        "excerpt": "Augmenter la taxe sur les transactions financières à 0,7 %"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-emploi-03",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=57",
+        "page": "p. 57",
+        "excerpt": "Créer un congé climatique de 5 jours par an"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-emploi-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=57",
+        "page": "p. 57",
+        "excerpt": "Abroger les dispositions régressives des lois travail (loi El Khomri, ordonnances Macron…)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-emploi-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=60",
+        "page": "p. 60",
+        "excerpt": "2 postes dans les entreprises de +250 salariés ; un tiers pour celles de +1000"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-emploi-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=57",
+        "page": "p. 57",
+        "excerpt": "Viser le zéro mort au travail en 2032. Créer 200 postes d'inspecteur·ices du travail"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-retraites-03",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=117",
+        "page": "p. 117",
+        "excerpt": "Augmenter les cotisations vieillesses de 0,2 point/an pendant le quinquennat"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-retraites-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=117",
+        "page": "p. 117",
+        "excerpt": "Augmenter le minimum contributif (Mico) et l'allocation spécifique aux personnes âgées"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-retraites-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=117",
+        "page": "p. 117",
+        "excerpt": "Refuser toute forme d'évolution vers une retraite par capitalisation"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-energie-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=17",
+        "page": "p. 17",
+        "excerpt": "Adopter un moratoire sur le projet CIGEO"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-energie-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=17",
+        "page": "p. 17",
+        "excerpt": "de 10 000 communautés énergétiques renouvelables portés par des forces citoyennes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-energie-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=119",
+        "page": "p. 119",
+        "excerpt": "Abolir les coupures d'électricité pour impayés"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-ecologie-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=23",
+        "page": "p. 23",
+        "excerpt": "Créer une offre de location sociale (leasing social) d'un million de véhicules"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-ecologie-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=25",
+        "page": "p. 25",
+        "excerpt": "Interdire les vols intra-européens lorsqu'une alternative de moins de 4h30 en train existe"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-ecologie-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=24",
+        "page": "p. 24",
+        "excerpt": "Adopter un moratoire sur les grands projets inutiles et imposés"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-agriculture-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=50",
+        "page": "p. 50",
+        "excerpt": "Interdire les « nouveaux OGM » (Nouvelles Techniques Génomiques ou NGT)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-agriculture-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=46",
+        "page": "p. 46",
+        "excerpt": "100 % de bio dans la restauration collective d'ici 2040"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-logement-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=20",
+        "page": "p. 20",
+        "excerpt": "objectif de 30 % de logements d'ici 2035 dans les communes aux marchés immobiliers les plus tendus"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-logement-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=21",
+        "page": "p. 21",
+        "excerpt": "En finir avec les chauffages au fioul en 2032"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-logement-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=119",
+        "page": "p. 119",
+        "excerpt": "Revaloriser les APL de 10 % avec un mécanisme empêchant la répercussion"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-sante-03",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=111",
+        "page": "p. 111",
+        "excerpt": "prise en charge à 100 % par l'Assurance maladie. Supprimer les franchises"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-sante-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=111",
+        "page": "p. 111",
+        "excerpt": "limitant les dépassements d'honoraires à 50 % du tarif de la Sécurité Sociale"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-sante-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=111",
+        "page": "p. 111",
+        "excerpt": "Interdire la vente de tabac à toute personne née en 2014 et après"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-sante-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=112",
+        "page": "p. 112",
+        "excerpt": "Recruter 7500 infirmier·es scolaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-education-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=93",
+        "page": "p. 93",
+        "excerpt": "remplaçant ParcourSup et MonMaster par une vraie plateforme d'orientation"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-education-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=91",
+        "page": "p. 91",
+        "excerpt": "rétablissant le baccalauréat professionnel en 4 ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-education-06",
+    "evidence": [
+      {
+        "url": "https://marinetondelier.fr/s/dossierpresse-rentree.pdf#page=12",
+        "page": "p. 12",
+        "excerpt": "un investissement de 2 milliards d'euros par an de la part de l'État"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-securite-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=184",
+        "page": "p. 184",
+        "excerpt": "Légaliser et encadrer la production, la vente et la consommation de cannabis"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-securite-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=170",
+        "page": "p. 170",
+        "excerpt": "Limiter la surpopulation à 100 % des capacités dans tous les établissements pénitentiaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-securite-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=165",
+        "page": "p. 165",
+        "excerpt": "par un nouvel organisme indépendant rattaché à la Défenseure des droits"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-immigration-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=178",
+        "page": "p. 178",
+        "excerpt": "Automatiser le droit au travail dès la délivrance de l'attestation de demande d'asile"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-immigration-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=178",
+        "page": "p. 178",
+        "excerpt": "Garantir l'application du droit du sol pour les enfants nés en France"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-immigration-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=179",
+        "page": "p. 179",
+        "excerpt": "une répartition des migrant·es au prorata de la population et de la richesse d'un pays"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-institutions-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=163",
+        "page": "p. 163",
+        "excerpt": "Ouvrir le droit de vote à 16 ans avec une formation civique"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-institutions-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=160",
+        "page": "p. 160",
+        "excerpt": "Supprimer la Cour de Justice de la République"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-institutions-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=163",
+        "page": "p. 163",
+        "excerpt": "Limiter le cumul des mandats dans le temps (trois par type de mandat)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-europe-03",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=63",
+        "page": "p. 63",
+        "excerpt": "privilégier entre 50 et 80 % de produits européens dans les marchés publics"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-europe-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=64",
+        "page": "p. 64",
+        "excerpt": "Exclure immédiatement les investissements liés à la transition écologique"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-europe-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=94",
+        "page": "p. 94",
+        "excerpt": "Quintupler Erasmus pour que la moitié des étudiant·es étudient ou travaillent"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-international-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=194",
+        "page": "p. 194",
+        "excerpt": "Rejoindre en parallèle le Traité sur l'Interdiction des Armes Nucléaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-international-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=194",
+        "page": "p. 194",
+        "excerpt": "Interdire strictement les exportations d'armes vers des pays"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-international-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=205",
+        "page": "p. 205",
+        "excerpt": "Retrouver une trajectoire correspondant à nos engagements internationaux (0,7 % du PNB)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-numerique-03",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=81",
+        "page": "p. 81",
+        "excerpt": "Désactiver les classements personnalisés durant les périodes électorales"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-numerique-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=81",
+        "page": "p. 81",
+        "excerpt": "interdire l'usage des écrans à l'école avant six ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-numerique-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=81",
+        "page": "p. 81",
+        "excerpt": "Généraliser l'usage des logiciels libres et open source dans les administrations"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-culture-03",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=175",
+        "page": "p. 175",
+        "excerpt": "Adopter une loi anti-concentration sur le modèle norvégien"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-culture-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=99",
+        "page": "p. 99",
+        "excerpt": "Créer une assurance-chômage pour les artistes-auteurs"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-culture-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=100",
+        "page": "p. 100",
+        "excerpt": "Ratifier la Charte des Langues régionales et Minoritaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-outre_mer-03",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=153",
+        "page": "p. 153",
+        "excerpt": "suppression du titre de séjour territorialisé avant 2030"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-outre_mer-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=153",
+        "page": "p. 153",
+        "excerpt": "aboutir à un véritable accord fondé sur les principes d'autodétermination et de décolonisation"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-outre_mer-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=153",
+        "page": "p. 153",
+        "excerpt": "Indemniser les victimes du chlordécone, du glyphosate et des sargasses"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-services_publics-03",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=87",
+        "page": "p. 87",
+        "excerpt": "Adopter un plan de titularisation des agents publics"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-services_publics-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=25",
+        "page": "p. 25",
+        "excerpt": "90 % de la population vive à moins de 30 minutes d'une gare fortement desservie"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-services_publics-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=25",
+        "page": "p. 25",
+        "excerpt": "Renationaliser progressivement les autoroutes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-famille-03",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=130",
+        "page": "p. 130",
+        "excerpt": "légaliser l'aide active à mourir"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-famille-04",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=133",
+        "page": "p. 133",
+        "excerpt": "Adopter une loi intégrale pour lutter contre les violences sexistes et sexuelles (VSS) dotée de 3 milliards"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-famille-05",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=143",
+        "page": "p. 143",
+        "excerpt": "Augmenter de 250€ l'Allocation aux Adultes Handicapés (AAH)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "tondelier-famille-06",
+    "evidence": [
+      {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=123",
+        "page": "p. 123",
+        "excerpt": "Instaurer un statut de famille monoparentale"
+      }
+    ]
+  }
+]

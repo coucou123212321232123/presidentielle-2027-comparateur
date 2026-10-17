@@ -28,8 +28,14 @@
     "Tête de liste PS-Place publique aux élections européennes de 2019 et 2024"
   ],
   "key_people": [
-    { "name": "Aurore Lalucq", "role": "Coprésidente de Place publique" },
-    { "name": "Yannick Jadot", "role": "Soutien, chargé de préparer le volet écologique du programme (selon Wikipédia et L'Info Durable)" }
+    {
+      "name": "Aurore Lalucq",
+      "role": "Coprésidente de Place publique"
+    },
+    {
+      "name": "Yannick Jadot",
+      "role": "Soutien, chargé de préparer le volet écologique du programme (selon Wikipédia et L'Info Durable)"
+    }
   ],
   "slogan": "Ensemble, réveillons la France.",
   "slogan_source_url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
@@ -44,10 +50,22 @@
   "website": "https://glucks2027.fr/",
   "news_url": "https://place-publique.eu/posts",
   "socials": [
-    { "platform": "Instagram", "url": "https://www.instagram.com/raphaelglucksmann/" },
-    { "platform": "Facebook", "url": "https://www.facebook.com/raphaelglucksmann/" },
-    { "platform": "Bluesky", "url": "https://bsky.app/profile/raphaelglucksmann.bsky.social" },
-    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/raphaelglucksmann/" }
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/raphaelglucksmann/"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/raphaelglucksmann/"
+    },
+    {
+      "platform": "Bluesky",
+      "url": "https://bsky.app/profile/raphaelglucksmann.bsky.social"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/raphaelglucksmann/"
+    }
   ],
   "program": {
     "title": "Notre vision pour la France – Acte I (projet de Place publique)",
@@ -55,25 +73,222 @@
     "format": "pdf",
     "published_date": "2025-06-23",
     "status": "partiel",
-    "note": "Aucun programme présidentiel 2027 n'est publié au 15 octobre 2026 : le site de campagne glucks2027.fr ne comporte pas de rubrique programme. La référence programmatique officielle est le projet de Place publique « Acte I » (42 chantiers), présenté le 23 juin 2025 comme une « vision » appelée à être précisée, auquel s'ajoutent la profession de foi de la primaire (septembre 2026) et des propositions formulées pendant la campagne de la primaire (livre « Nous avons encore envie », mai 2026 ; débats télévisés de septembre-octobre 2026).",
+    "note": "Aucun programme présidentiel 2027 n'est publié au 16 octobre 2026 : le site de campagne glucks2027.fr ne comporte pas de rubrique programme. La référence programmatique officielle est le projet de Place publique « Acte I » (42 chantiers), présenté le 23 juin 2025 comme une « vision » et non « un catalogue figé de mesures » ; selon Place publique, le projet « s'articule en trois actes », mais aucun acte suivant n'est publié à cette date. S'y ajoutent la lettre aux Français (25 août 2026), la profession de foi de la primaire (septembre 2026) et des propositions formulées pendant la campagne de la primaire (livre « Nous avons encore envie », mai 2026 ; débats télévisés de septembre-octobre 2026).",
     "thematic_links": [
-      { "theme": "ecologie", "title": "Acte I – Mener la révolution énergétique, écologique et industrielle", "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=13", "format": "pdf", "page_range": "p. 13-17" },
-      { "theme": "retraites", "title": "Acte I – Chantier 19 : des retraites justes", "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=43", "format": "pdf", "page_range": "p. 43" }
+      {
+        "theme": "international",
+        "title": "Acte I – Défendre la France et l'Europe (chantiers 1-2)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=9",
+        "format": "pdf",
+        "page_range": "p. 9-11"
+      },
+      {
+        "theme": "europe",
+        "title": "Acte I – Pour une Europe fédérale (chantier 3)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=12",
+        "format": "pdf",
+        "page_range": "p. 12"
+      },
+      {
+        "theme": "economie",
+        "title": "Acte I – Mener le combat du « Fabriqué en France » (chantier 4)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=14",
+        "format": "pdf",
+        "page_range": "p. 13-16"
+      },
+      {
+        "theme": "energie",
+        "title": "Acte I – Réussir la révolution énergétique pour tous (chantier 6)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=17",
+        "format": "pdf",
+        "page_range": "p. 17"
+      },
+      {
+        "theme": "ecologie",
+        "title": "Acte I – Mener la révolution énergétique, écologique et industrielle",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=13",
+        "format": "pdf",
+        "page_range": "p. 13-17"
+      },
+      {
+        "theme": "numerique",
+        "title": "Acte I – Embrasser et maîtriser la révolution technologique (chantiers 7-8)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=19",
+        "format": "pdf",
+        "page_range": "p. 19-21"
+      },
+      {
+        "theme": "education",
+        "title": "Acte I – Libérer la puissance de la science et de la recherche (chantiers 9-10)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=23",
+        "format": "pdf",
+        "page_range": "p. 23-25"
+      },
+      {
+        "theme": "ecologie",
+        "title": "Acte I – Transformation écologique et sociale des territoires (chantiers 11-13)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=27",
+        "format": "pdf",
+        "page_range": "p. 27-30"
+      },
+      {
+        "theme": "agriculture",
+        "title": "Acte I – Défendre une agriculture forte au service du vivant (chantiers 14-15)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=33",
+        "format": "pdf",
+        "page_range": "p. 33-35"
+      },
+      {
+        "theme": "emploi",
+        "title": "Acte I – Remettre les travailleurs au cœur du contrat social (chantiers 16-18)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=39",
+        "format": "pdf",
+        "page_range": "p. 39-42"
+      },
+      {
+        "theme": "retraites",
+        "title": "Acte I – Chantier 19 : des retraites justes",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=43",
+        "format": "pdf",
+        "page_range": "p. 43"
+      },
+      {
+        "theme": "institutions",
+        "title": "Acte I – Régénérer la démocratie (chantiers 20-22)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=45",
+        "format": "pdf",
+        "page_range": "p. 45-48"
+      },
+      {
+        "theme": "sante",
+        "title": "Acte I – Garantir nos droits à la santé (chantiers 23-25)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=49",
+        "format": "pdf",
+        "page_range": "p. 49-53"
+      },
+      {
+        "theme": "famille",
+        "title": "Acte I – Protéger face aux difficultés de la vie (chantiers 26-28)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=55",
+        "format": "pdf",
+        "page_range": "p. 55-58"
+      },
+      {
+        "theme": "securite",
+        "title": "Acte I – Vivre en sécurité dans le respect de la justice et du droit (chantiers 29-30)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=59",
+        "format": "pdf",
+        "page_range": "p. 59-61"
+      },
+      {
+        "theme": "logement",
+        "title": "Acte I – Faire un plan Marshall pour le logement (chantier 31)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=64",
+        "format": "pdf",
+        "page_range": "p. 63-64"
+      },
+      {
+        "theme": "outre_mer",
+        "title": "Acte I – Renouer avec l'égalité en Outre-mer (chantier 32)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=65",
+        "format": "pdf",
+        "page_range": "p. 65"
+      },
+      {
+        "theme": "education",
+        "title": "Acte I – Sauver l'École de la République (chantiers 33-34)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=67",
+        "format": "pdf",
+        "page_range": "p. 67-69"
+      },
+      {
+        "theme": "culture",
+        "title": "Acte I – Pour une société réellement républicaine : culture, laïcité, sport (chantiers 35-37)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=71",
+        "format": "pdf",
+        "page_range": "p. 71-74"
+      },
+      {
+        "theme": "famille",
+        "title": "Acte I – Permettre enfin l'égalité ! (chantiers 38-40)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=77",
+        "format": "pdf",
+        "page_range": "p. 77-80"
+      },
+      {
+        "theme": "immigration",
+        "title": "Acte I – Bâtir la France humaniste : immigration et solidarité internationale (chantiers 41-42)",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=81",
+        "format": "pdf",
+        "page_range": "p. 81-83"
+      },
+      {
+        "theme": "fiscalite",
+        "title": "Acte I – Chantier cadre : retrouver les moyens d'agir, financer nos ambitions",
+        "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=84",
+        "format": "pdf",
+        "page_range": "p. 84-85"
+      }
     ],
-    "archive_url": null
+    "archive_url": "https://web.archive.org/web/20261012153628/http://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf"
   },
   "sources": [
-    { "label": "Wikipédia – Raphaël Glucksmann", "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann" },
-    { "label": "Wikipédia – Place publique (parti politique)", "url": "https://fr.wikipedia.org/wiki/Place_publique_(parti_politique)" },
-    { "label": "Site de campagne glucks2027.fr", "url": "https://glucks2027.fr/" },
-    { "label": "Place publique – page « L'Acte I »", "url": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i" },
-    { "label": "Place publique – Lettre aux Français (25 août 2026)", "url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais" },
-    { "label": "Profession de foi pour la primaire, septembre 2026 (copie Wayback ; choisir2027.fr injoignable le 15/10/2026)", "url": "https://web.archive.org/web/20260925081255/https://choisir2027.fr/wp-content/uploads/2026/09/Profession-de-foi-RG.pdf" },
-    { "label": "LCP – Résultat de la primaire (11 octobre 2026)", "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la" },
-    { "label": "LCP – Premières lignes du programme (26 mai 2026)", "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme" },
-    { "label": "Public Sénat – Présentation de l'Acte I (23 juin 2025)", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-pas-candidat-pour-le-moment-raphael-glucksmann-trace-son-chemin-et-defend-sa-vision-pour-le-pays" },
-    { "label": "Public Sénat – Ce que propose Raphaël Glucksmann (24 août 2026)", "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann" },
-    { "label": "LCP – Dernier débat de la primaire (5 octobre 2026)", "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat" }
+    {
+      "label": "Wikipédia – Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
+    },
+    {
+      "label": "Wikipédia – Place publique (parti politique)",
+      "url": "https://fr.wikipedia.org/wiki/Place_publique_(parti_politique)"
+    },
+    {
+      "label": "Site de campagne glucks2027.fr",
+      "url": "https://glucks2027.fr/"
+    },
+    {
+      "label": "Place publique – page « L'Acte I »",
+      "url": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i"
+    },
+    {
+      "label": "Place publique – Lettre aux Français (25 août 2026)",
+      "url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais"
+    },
+    {
+      "label": "Profession de foi pour la primaire, septembre 2026 (copie Wayback ; choisir2027.fr injoignable le 15/10/2026)",
+      "url": "https://web.archive.org/web/20260925081255/https://choisir2027.fr/wp-content/uploads/2026/09/Profession-de-foi-RG.pdf"
+    },
+    {
+      "label": "LCP – Résultat de la primaire (11 octobre 2026)",
+      "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la"
+    },
+    {
+      "label": "LCP – Premières lignes du programme (26 mai 2026)",
+      "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme"
+    },
+    {
+      "label": "Public Sénat – Présentation de l'Acte I (23 juin 2025)",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-pas-candidat-pour-le-moment-raphael-glucksmann-trace-son-chemin-et-defend-sa-vision-pour-le-pays"
+    },
+    {
+      "label": "Public Sénat – Ce que propose Raphaël Glucksmann (24 août 2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann"
+    },
+    {
+      "label": "LCP – Dernier débat de la primaire (5 octobre 2026)",
+      "url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat"
+    },
+    {
+      "label": "Place publique – page « Le projet » (Acte I, méthode en trois actes)",
+      "url": "https://place-publique.eu/pages/69jA2SKIG5udlNX7wI3dmc/le-projet"
+    },
+    {
+      "label": "LCP – Premier débat de la primaire (23 septembre 2026)",
+      "url": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de"
+    },
+    {
+      "label": "L'Info Durable – Ambitions écologiques de Raphaël Glucksmann (12 octobre 2026)",
+      "url": "https://www.linfodurable.fr/politique/apres-la-primaire-quelles-ambitions-ecologiques-pour-raphael-glucksmann-59331"
+    }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

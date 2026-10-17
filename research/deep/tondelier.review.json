@@ -1,0 +1,322 @@
+[
+  {
+    "measure_id": "program",
+    "decision": "acceptee",
+    "motif": "Bloc program vérifié : programme de 208 pages daté « juillet 2026 » (copie Wayback du 12/10/2026, lien direct protégé par Cloudflare), « adopté en juillet 2026 » confirmé p. 7 du dossier Budget 2027 ; livrets, carnets et dossiers listés sur marinetondelier.fr, titres et dates conformes aux couvertures (fraîcheur : 24 juin 2026 selon la page Dossiers d'actu ; plan de sortie de crise : septembre 2025 selon Public Sénat)."
+  },
+  {
+    "measure_id": "tondelier-economie-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : dossier daté seulement « Septembre 2026 » sur sa couverture ; la date conventionnelle 2026-09-01 est remplacée par null. Contenu conforme (p. 5, panier vendu à prix coûtant)."
+  },
+  {
+    "measure_id": "tondelier-economie-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 55 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-economie-06",
+    "decision": "corrigee",
+    "motif": "Corrigée : le fonds vise des entreprises « françaises » produisant la majeure partie de leur valeur ajoutée en Europe (p. 77) ; qualificatif rétabli."
+  },
+  {
+    "measure_id": "tondelier-fiscalite-03",
+    "decision": "acceptee",
+    "motif": "Conforme au dossier de presse dossierpresse-budget2027.pdf p. 6 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-fiscalite-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 66 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-fiscalite-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 67 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-fiscalite-06",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 68 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-emploi-03",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 57 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-emploi-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : la source prévoit d'abroger les « dispositions régressives » des lois travail (p. 57), pas les lois entières ; titre ajusté."
+  },
+  {
+    "measure_id": "tondelier-emploi-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 60 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-emploi-06",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 57 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-retraites-03",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 117 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-retraites-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 117 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-retraites-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 117 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-energie-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 17 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-energie-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 17 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-energie-06",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 119 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-ecologie-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 23 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-ecologie-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 25 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-ecologie-06",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 24 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-agriculture-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 50 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-agriculture-06",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 46 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-logement-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 20 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-logement-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 21 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-logement-06",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 119 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-sante-03",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 111 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-sante-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 111 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-sante-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 111 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-sante-06",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 112 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-education-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 93 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-education-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 91 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-education-06",
+    "decision": "acceptee",
+    "motif": "Conforme au dossier de presse dossierpresse-rentree.pdf p. 12 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-securite-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 184 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-securite-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 170 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-securite-06",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 165 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-immigration-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 178 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-immigration-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 178 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-immigration-06",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 179 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-institutions-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 163 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-institutions-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 160 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-institutions-06",
+    "decision": "corrigee",
+    "motif": "Corrigée : la source dit « dans le temps (trois par type de mandat) » (p. 163), sans le mot « successifs » ; titre ajusté."
+  },
+  {
+    "measure_id": "tondelier-europe-03",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 63 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-europe-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 64 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-europe-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 94 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-international-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : la relance avec le Royaume-Uni de l'initiative de désarmement figure p. 193, le TIAN et la garantie nucléaire p. 194 ; page portée à p. 193-194 (#page=193)."
+  },
+  {
+    "measure_id": "tondelier-international-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 194 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-international-06",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 205 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-numerique-03",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 81 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-numerique-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 81 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-numerique-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 81 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-culture-03",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 175 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-culture-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 99 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-culture-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 100 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-outre_mer-03",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 153 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-outre_mer-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 153 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-outre_mer-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 153 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-services_publics-03",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 87 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-services_publics-04",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 25 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-services_publics-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 25 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-famille-03",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 130 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-famille-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : les centres d'urgence 24h/24 et les juridictions spécialisées figurent p. 134 (la loi intégrale à 3 Md€ p. 133) ; page portée à p. 133-134."
+  },
+  {
+    "measure_id": "tondelier-famille-05",
+    "decision": "acceptee",
+    "motif": "Conforme au programme des Écologistes (juillet 2026) p. 143 : chiffres, conditions et périmètre vérifiés ; source_title mentionne Les Écologistes, source_type officiel."
+  },
+  {
+    "measure_id": "tondelier-famille-06",
+    "decision": "corrigee",
+    "motif": "Corrigée : les allocations familiales d'un même montant dès le premier enfant figurent p. 124 ; page portée à p. 123-124."
+  }
+]

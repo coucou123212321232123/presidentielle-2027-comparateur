@@ -14,7 +14,7 @@
       "key": "smic_net",
       "value": 1700
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-economie-02",
@@ -27,7 +27,7 @@
     "source_date": "2026-04-26",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-economie-03",
@@ -40,7 +40,33 @@
     "source_date": "2026-04-10",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-economie-04",
+    "theme": "economie",
+    "title": "Un « Buy French Act » : 80 % de commande publique localisée en France",
+    "description": "Le cahier propose un « Buy French Act » visant 80 % de commande publique localisée en France, 100 % des aides à la transition conditionnées à une empreinte écologique minimale et un étiquetage clair des origines.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°7 – Pour protéger notre industrie, relocaliser 100 produits stratégiques",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=29",
+    "source_date": "2026-10-15",
+    "source_page": "p. 29",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-economie-05",
+    "theme": "economie",
+    "title": "Rendre obligatoire l'étiquetage de l'origine des aliments",
+    "description": "Rendre obligatoire le label Origin'Info indiquant l'origine des ingrédients des aliments transformés, avec sanctions dissuasives, et exiger au moins 50 % de valeur ajoutée en France pour la mention « Made in France ».",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°7 – Pour protéger notre industrie, relocaliser 100 produits stratégiques",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=41",
+    "source_date": "2026-10-15",
+    "source_page": "p. 41",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-fiscalite-01",
@@ -53,7 +79,7 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 28",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-fiscalite-02",
@@ -66,7 +92,33 @@
     "source_date": "2026-09-24",
     "source_page": "page PDF 31",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-fiscalite-03",
+    "theme": "fiscalite",
+    "title": "Recentrer le crédit d'impôt recherche sur les PME et ETI industrielles",
+    "description": "Recentrer le crédit d'impôt recherche sur les PME et ETI industrielles et le conditionner à la localisation des emplois, les grandes entreprises ne pouvant plus en bénéficier dans les mêmes conditions.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°7 – Pour protéger notre industrie, relocaliser 100 produits stratégiques",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=47",
+    "source_date": "2026-10-15",
+    "source_page": "p. 47",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-fiscalite-04",
+    "theme": "fiscalite",
+    "title": "Conditionner les avantages de l'assurance-vie à l'investissement industriel",
+    "description": "Conditionner les avantages fiscaux de l'assurance-vie à un taux minimum de 5 % placé en fonds propres d'entreprises non cotées, afin de mobiliser au moins 70 milliards d'euros pour l'industrie.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°7 – Pour protéger notre industrie, relocaliser 100 produits stratégiques",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=51",
+    "source_date": "2026-10-15",
+    "source_page": "p. 51",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-emploi-01",
@@ -79,7 +131,7 @@
     "source_date": "2026-04-13",
     "source_page": "page PDF 16",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-emploi-02",
@@ -92,7 +144,7 @@
     "source_date": "2026-04-13",
     "source_page": "page PDF 18",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-emploi-03",
@@ -105,7 +157,7 @@
     "source_date": "2026-04-13",
     "source_page": "page PDF 21",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-emploi-04",
@@ -118,7 +170,33 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 20",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-emploi-05",
+    "theme": "emploi",
+    "title": "Une loi pour adapter le travail aux vagues de chaleur",
+    "description": "Soumettre avant l'été 2027 une loi adaptant le travail aux vagues de chaleur et risques climatiques : canicule comme motif de chômage technique pour davantage de métiers et seuils de température imposant l'arrêt du travail pour les métiers les plus exposés.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°5 – Face au chantier du siècle : pour un travaillisme écologique",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf#page=22",
+    "source_date": "2026-09-09",
+    "source_page": "p. 22-23",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-emploi-06",
+    "theme": "emploi",
+    "title": "Rétablir les CHSCT et renforcer les salariés aux conseils d'administration",
+    "description": "Rétablir pleinement les comités d'hygiène, de sécurité et des conditions de travail, accroître la représentation des salariés dans les conseils d'administration et créer une commission environnementale dans tous les CSE.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°5 – Face au chantier du siècle : pour un travaillisme écologique",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf#page=23",
+    "source_date": "2026-09-09",
+    "source_page": "p. 23",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-retraites-01",
@@ -131,7 +209,7 @@
     "source_date": "2026-04-10",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-retraites-02",
@@ -144,7 +222,7 @@
     "source_date": "2026-04-13",
     "source_page": "page PDF 20",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-energie-01",
@@ -157,7 +235,7 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 40",
     "precision": "chiffre",
-    "last_verified": "2026-10-15",
+    "last_verified": "2026-10-16",
     "indicator": {
       "key": "nucleaire",
       "value": "relance"
@@ -174,7 +252,7 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 40",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-ecologie-01",
@@ -187,7 +265,7 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 28",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-ecologie-02",
@@ -200,7 +278,7 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 36",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-ecologie-03",
@@ -213,7 +291,46 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 33",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-ecologie-04",
+    "theme": "ecologie",
+    "title": "Créer une « Sécurité climatique », nouvelle branche de la Sécurité sociale",
+    "description": "Le plan d'urgence prévoit de porter le fonds Barnier de 300 millions d'euros en 2026 à 1 milliard en 2027, puis de créer à terme une « Sécurité climatique », branche de la Sécurité sociale regroupant CatNat, fonds Barnier et calamités agricoles.",
+    "source_type": "officiel",
+    "source_title": "Plan d'action « Urgence climat » (campagne Ruffin 2027)",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf#page=15",
+    "source_date": "2026-10-12",
+    "source_page": "p. 15",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-ecologie-05",
+    "theme": "ecologie",
+    "title": "Rétablir la consigne du verre",
+    "description": "Réduire les quantités de plastique en rétablissant la consigne du verre pour les bouteilles et contenants, et électrifier les fours verriers.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°5 – Face au chantier du siècle : pour un travaillisme écologique",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf#page=55",
+    "source_date": "2026-09-09",
+    "source_page": "p. 55",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-ecologie-06",
+    "theme": "ecologie",
+    "title": "Tripler le fret ferroviaire et réduire de moitié le trafic aérien",
+    "description": "Tripler la part du fret ferroviaire dans le transport de marchandises et développer trains de nuit et liaisons européennes afin de réduire de moitié le trafic aérien.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°5 – Face au chantier du siècle : pour un travaillisme écologique",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf#page=38",
+    "source_date": "2026-09-09",
+    "source_page": "p. 38",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-agriculture-01",
@@ -226,7 +343,7 @@
     "source_date": "2026-10-07",
     "source_page": "page PDF 33",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-agriculture-02",
@@ -239,7 +356,7 @@
     "source_date": "2026-10-07",
     "source_page": "page PDF 35",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-agriculture-03",
@@ -252,7 +369,7 @@
     "source_date": "2026-10-07",
     "source_page": "page PDF 36",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-agriculture-04",
@@ -265,7 +382,20 @@
     "source_date": "2026-10-07",
     "source_page": "page PDF 38",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-agriculture-05",
+    "theme": "agriculture",
+    "title": "Indemniser les pertes agricoles dès 30 % et 5 000 € par paysan touché",
+    "description": "Face à la sécheresse de 2026, déclencher l'indemnité de solidarité nationale dès 30 % de pertes pour toutes les filières, au même taux pour assurés et non assurés, avec une subvention directe de 5 000 euros par paysan touché.",
+    "source_type": "officiel",
+    "source_title": "Plan d'action « Urgence climat » (campagne Ruffin 2027)",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf#page=10",
+    "source_date": "2026-10-12",
+    "source_page": "p. 10",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-logement-01",
@@ -278,7 +408,7 @@
     "source_date": "2026-09-24",
     "source_page": "page PDF 26",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-logement-02",
@@ -291,7 +421,7 @@
     "source_date": "2026-09-24",
     "source_page": "page PDF 40",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-logement-03",
@@ -304,7 +434,7 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 30",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-logement-04",
@@ -317,7 +447,85 @@
     "source_date": "2026-09-24",
     "source_page": "page PDF 37",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-logement-05",
+    "theme": "logement",
+    "title": "Doubler le prêt à taux zéro pour les accédants",
+    "description": "Doubler les montants du prêt à taux zéro (d'environ 60 000 à 120 000 euros en moyenne), y compris pour les bénéficiaires actuels, avec une solution publique de « second ressort ».",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°6 – Face à la crise du logement : faire sauter le verrou",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/09/CC_Logement.pdf#page=29",
+    "source_date": "2026-09-24",
+    "source_page": "p. 29-30",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-logement-06",
+    "theme": "logement",
+    "title": "Taxer davantage les meublés touristiques et réguler les résidences secondaires",
+    "description": "Permettre aux intercommunalités de fixer des quotas de résidences secondaires, imposer les locations occasionnelles au moins deux fois plus qu'aujourd'hui et réduire l'imposition des locations pérennes abordables.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°6 – Face à la crise du logement : faire sauter le verrou",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/09/CC_Logement.pdf#page=33",
+    "source_date": "2026-09-24",
+    "source_page": "p. 33-34",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-sante-01",
+    "theme": "sante",
+    "title": "Créer un pôle public du médicament",
+    "description": "Le cahier propose un pôle public du médicament à gouvernance mixte, produisant des médicaments essentiels tombés dans le domaine public et prenant des participations majoritaires dans des entreprises de médicaments innovants.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°7 – Pour protéger notre industrie, relocaliser 100 produits stratégiques",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=48",
+    "source_date": "2026-10-15",
+    "source_page": "p. 48-49",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-sante-02",
+    "theme": "sante",
+    "title": "Soutien psychologique gratuit pour les victimes de catastrophes",
+    "description": "Créer pour les habitants des zones sinistrées un accès direct à 12 séances de soutien psychologique prises en charge à 100 %, avec 12 séances supplémentaires possibles après consultation d'un médecin.",
+    "source_type": "officiel",
+    "source_title": "Plan d'action « Urgence climat » (campagne Ruffin 2027)",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf#page=7",
+    "source_date": "2026-10-12",
+    "source_page": "p. 7",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-education-01",
+    "theme": "education",
+    "title": "Redonner une place à la pratique artistique à l'école",
+    "description": "Ouvrir avec les enseignants un débat pour sortir la pratique artistique de la marginalité à l'école et au collège, ouvrir les établissements aux intervenants extérieurs et rapprocher conservatoires et MJC.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°3 – Pour renouer avec le temps des loisirs",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/09/Debout-Livret-Campagne-Loisirs-vdef-Web-1.pdf#page=42",
+    "source_date": "2026-07-17",
+    "source_page": "p. 42-43",
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-education-02",
+    "theme": "education",
+    "title": "Plus de places de BTS dans les villes petites et moyennes",
+    "description": "Renforcer le nombre et la diversité des places de BTS dans les villes petites et moyennes, recentrer les aides à l'alternance sur les métiers d'ouvriers qualifiés et de techniciens et doubler les formations de reconversion financées.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°7 – Pour protéger notre industrie, relocaliser 100 produits stratégiques",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=57",
+    "source_date": "2026-10-15",
+    "source_page": "p. 57-58",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-securite-01",
@@ -330,7 +538,7 @@
     "source_date": "2026-07-02",
     "source_page": "page PDF 51",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-securite-02",
@@ -343,7 +551,25 @@
     "source_date": "2026-07-02",
     "source_page": "page PDF 52",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-securite-03",
+    "theme": "securite",
+    "title": "20 000 pompiers professionnels de plus d'ici 2030",
+    "description": "Augmenter de 10 % par an les effectifs de sapeurs-pompiers professionnels (+20 000 d'ici 2030), revaloriser leurs salaires de 10 % et porter la flotte à une trentaine de bombardiers d'eau.",
+    "source_type": "officiel",
+    "source_title": "Plan d'action « Urgence climat » (campagne Ruffin 2027)",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf#page=5",
+    "source_date": "2026-10-12",
+    "source_page": "p. 5",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 1 Md€ par an (moyens humains, horizon 2032) et ≈ 1,5 Md€ sur 5 ans (matériels)",
+      "source_label": "Chiffrage de la campagne (plan Urgence climat)",
+      "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf#page=6"
+    },
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-immigration-01",
@@ -356,7 +582,7 @@
     "source_date": "2026-04-10",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-immigration-02",
@@ -369,7 +595,7 @@
     "source_date": "2026-05-11",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-institutions-01",
@@ -382,7 +608,7 @@
     "source_date": "2026-07-02",
     "source_page": "page PDF 36",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-institutions-02",
@@ -395,7 +621,7 @@
     "source_date": "2026-07-02",
     "source_page": "page PDF 43",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-institutions-03",
@@ -408,7 +634,46 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 28",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-institutions-04",
+    "theme": "institutions",
+    "title": "Exiger un casier judiciaire vierge des candidats aux élections",
+    "description": "Créer une condition d'éligibilité imposant aux candidats un bulletin n°2 du casier judiciaire vierge de condamnations pour crimes, délits sexuels ou manquements à la probité, dont la fraude fiscale et électorale.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°2 – Pour une loi de séparation de l'argent et de l'État",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/07/Debout-Livret-Probite-Web-1.pdf#page=39",
+    "source_date": "2026-07-02",
+    "source_page": "p. 39",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-institutions-05",
+    "theme": "institutions",
+    "title": "Interdire le cumul d'une fonction ministérielle et d'un exécutif local",
+    "description": "Mettre fin au cumul des fonctions ministérielles avec des responsabilités exécutives locales, et imposer aux ministres des stages d'immersion dans les métiers relevant de leur ministère.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°2 – Pour une loi de séparation de l'argent et de l'État",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/07/Debout-Livret-Probite-Web-1.pdf#page=40",
+    "source_date": "2026-07-02",
+    "source_page": "p. 40",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-institutions-06",
+    "theme": "institutions",
+    "title": "Nominations présidentielles : veto du Parlement à la majorité simple",
+    "description": "Réviser l'article 13 de la Constitution pour que les parlementaires puissent s'opposer à une nomination à la majorité simple, et rendre collégiales les nominations à la tête des établissements publics.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°2 – Pour une loi de séparation de l'argent et de l'État",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/07/Debout-Livret-Probite-Web-1.pdf#page=53",
+    "source_date": "2026-07-02",
+    "source_page": "p. 53",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-europe-01",
@@ -421,7 +686,7 @@
     "source_date": "2026-04-10",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-europe-02",
@@ -434,7 +699,20 @@
     "source_date": "2026-02-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-europe-03",
+    "theme": "europe",
+    "title": "Arrêter les négociations d'accords de libre-échange et refuser le CETA",
+    "description": "Mettre fin dès l'arrivée au pouvoir aux négociations d'accords de libre-échange en cours, refuser la ratification du CETA et déclencher les mesures de sauvegarde de l'accord UE-Mercosur.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°7 – Pour protéger notre industrie, relocaliser 100 produits stratégiques",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=30",
+    "source_date": "2026-10-15",
+    "source_page": "p. 30",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-international-01",
@@ -447,7 +725,7 @@
     "source_date": "2026-04-10",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-international-02",
@@ -460,7 +738,20 @@
     "source_date": "2026-02-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-international-03",
+    "theme": "international",
+    "title": "Prise de participations publiques dans l'industrie de défense",
+    "description": "Faire entrer l'État au capital des entreprises de défense qui bénéficient le plus de la commande publique, afin de contrôler l'argent public investi et de soutenir la recherche du secteur.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°7 – Pour protéger notre industrie, relocaliser 100 produits stratégiques",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=49",
+    "source_date": "2026-10-15",
+    "source_page": "p. 49",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-numerique-01",
@@ -469,11 +760,11 @@
     "description": "Le plan propose un moratoire de cinq ans sur les projets de centres de données non souverains et l'organisation de débats publics sur les projets existants.",
     "source_type": "officiel",
     "source_title": "Plan de campagne « Data centers »",
-    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan_Data_Centers_V2.pdf#page=15",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Data_CENTERS_V2.pdf#page=15",
     "source_date": "2026-10-08",
     "source_page": "page PDF 15",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-numerique-02",
@@ -482,11 +773,11 @@
     "description": "Le plan prévoit de réserver au numérique une fraction déterminée de la production d'électricité, inscrite dans la Stratégie nationale bas carbone et arbitrée par une assemblée citoyenne tirée au sort, et de prioriser les raccordements au réseau selon les usages.",
     "source_type": "officiel",
     "source_title": "Plan de campagne « Data centers »",
-    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan_Data_Centers_V2.pdf#page=5",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Data_CENTERS_V2.pdf#page=5",
     "source_date": "2026-10-08",
     "source_page": "page PDF 5",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-numerique-03",
@@ -499,7 +790,20 @@
     "source_date": "2026-02-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-numerique-04",
+    "theme": "numerique",
+    "title": "Réserver la certification de cloud souverain aux acteurs européens",
+    "description": "Réformer la certification SecNumCloud pour exclure les consortiums mêlant acteurs américains et français et l'étendre progressivement aux administrations et secteurs stratégiques ; créer une Fabrique des communs numériques.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°7 – Pour protéger notre industrie, relocaliser 100 produits stratégiques",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=39",
+    "source_date": "2026-10-15",
+    "source_page": "p. 39",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-culture-01",
@@ -512,7 +816,7 @@
     "source_date": "2026-07-17",
     "source_page": "page PDF 39",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-outre_mer-01",
@@ -525,7 +829,7 @@
     "source_date": "2026-07-17",
     "source_page": "page PDF 34",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-services_publics-01",
@@ -538,7 +842,7 @@
     "source_date": "2026-07-02",
     "source_page": "page PDF 46",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-services_publics-02",
@@ -551,7 +855,20 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 42",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "ruffin-services_publics-03",
+    "theme": "services_publics",
+    "title": "Créer un Commissariat général à la planification",
+    "description": "Fusionner le Secrétariat général à la planification écologique et le Haut-commissariat à la stratégie et au plan en un Commissariat général à la planification rattaché au Premier ministre.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°5 – Face au chantier du siècle : pour un travaillisme écologique",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf#page=24",
+    "source_date": "2026-09-09",
+    "source_page": "p. 24",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-famille-01",
@@ -564,7 +881,7 @@
     "source_date": "2026-07-17",
     "source_page": "page PDF 31",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "ruffin-famille-02",
@@ -577,6 +894,6 @@
     "source_date": "2026-07-17",
     "source_page": "page PDF 32",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   }
 ]

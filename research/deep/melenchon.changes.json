@@ -1,0 +1,869 @@
+[
+  {
+    "action": "update",
+    "measure_id": "melenchon-economie-01",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=9",
+        "page": "p. 9",
+        "excerpt": "complétées par une hausse du SMIC à 1 700 euros net"
+      },
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=34",
+        "page": "p. 66 (page PDF 34)",
+        "excerpt": "Porter immédiatement le SMIC mensuel à 1600 euros net"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-economie-05",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=16",
+        "page": "p. 16",
+        "excerpt": "pourrait investir chaque année 100 milliards d'euros supplémentaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-economie-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=25",
+        "page": "p. 49 (page PDF 25)",
+        "excerpt": "Interdire aux entreprises de distribuer un montant de dividendes supérieur à leurs bénéfices"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-economie-07",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/PLAN-AUTO_Vf_ST.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "2 millions de véhicules électriques (voitures et utilitaires) fabriqués chaque année en France"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-fiscalite-04",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=13",
+        "page": "p. 13",
+        "excerpt": "suppression de la flat tax"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-fiscalite-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=27",
+        "page": "p. 51-52 (pages PDF 26-27)",
+        "excerpt": "créer un héritage maximal de 12 millions d'euros"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-fiscalite-06",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=14",
+        "page": "p. 14",
+        "excerpt": "une taxe universelle sur les multinationales (5 milliards la première année)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-fiscalite-07",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=14",
+        "page": "p. 14",
+        "excerpt": "interrompre cette subvention au-dessus de 2 SMIC"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-emploi-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=33",
+        "page": "p. 65 (page PDF 33)",
+        "excerpt": "Généraliser une sixième semaine de congés payés pour tous les salariés"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-emploi-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=35",
+        "page": "p. 68 (page PDF 35)",
+        "excerpt": "Abroger la loi France Travail et l’obligation de réaliser 15h d’activités hebdomadaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-emploi-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=34",
+        "page": "p. 67 (page PDF 34)",
+        "excerpt": "limiter l’écart de 1 à 20 entre le salaire le plus bas"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-emploi-07",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=16",
+        "page": "p. 30 (page PDF 16)",
+        "excerpt": "Créer un droit de préemption pour permettre aux salariés de reprendre leur entreprise"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-retraites-03",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=11",
+        "page": "p. 11",
+        "excerpt": "nous abrogerons la réforme Borne qui a porté la retraite à 64 ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-retraites-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=37",
+        "page": "p. 72 (page PDF 37)",
+        "excerpt": "Augmenter de 0,25 point par an durant le quinquennat le taux de cotisation vieillesse"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-retraites-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=37",
+        "page": "p. 72 (page PDF 37)",
+        "excerpt": "Indexer le montant des retraites sur les salaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-energie-04",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=9",
+        "page": "p. 9",
+        "excerpt": "ramener le prix à la pompe à 1,70 euro par litre"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-energie-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=29",
+        "page": "p. 57 (page PDF 29)",
+        "excerpt": "Instaurer une première tranche gratuite de consommation d’électricité, de chaleur, d’eau, de gaz"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-energie-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=66",
+        "page": "p. 131 (page PDF 66)",
+        "excerpt": "Mettre en oeuvre un plan d’urgence pour l’éolien maritime"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-energie-07",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf#page=13",
+        "page": "p. 13",
+        "excerpt": "remplacement de 400 000 chaudières au fioul par an"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-ecologie-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=53",
+        "page": "p. 105 (page PDF 53)",
+        "excerpt": "Interdire les coupes rases sauf en cas d’impasse sanitaire avérée"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-ecologie-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=52",
+        "page": "p. 102-103 (page PDF 52)",
+        "excerpt": "Consacrer une « règle bleue »"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-ecologie-06",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=11",
+        "page": "p. 11",
+        "excerpt": "10 milliards devront être investis"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-ecologie-07",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "Refaire l’isolation d’au moins 700 000 logements par an"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-agriculture-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=51",
+        "page": "p. 100 (page PDF 51)",
+        "excerpt": "Faire une réforme agraire pour encourager l’installation de nouveaux agriculteurs"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-agriculture-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=51",
+        "page": "p. 100 (page PDF 51)",
+        "excerpt": "encadrant les marges des industries agro-alimentaires et de la grande distribution"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-agriculture-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=51",
+        "page": "p. 100 (page PDF 51)",
+        "excerpt": "garantir un prix minimum d’entrée face à la concurrence déloyale"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-agriculture-07",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=54",
+        "page": "p. 106 (page PDF 54)",
+        "excerpt": "Interdire les fermes-usines"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-logement-04",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf#page=8",
+        "page": "p. 8",
+        "excerpt": "400 000 NOUVEAUX LOGEMENTS ABORDABLES PAR AN DANS LES 5 PROCHAINES ANNÉES"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-logement-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=30",
+        "page": "p. 59 (page PDF 30)",
+        "excerpt": "un plafond de cinq logements transmissibles par héritage"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-logement-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=30",
+        "page": "p. 59 (page PDF 30)",
+        "excerpt": "limitant les locations de courte durée (de type AirBnB) à 60 jours par an"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-logement-07",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=30",
+        "page": "p. 58 (page PDF 30)",
+        "excerpt": "Rehausser le quota de logements sociaux dans les villes (loi SRU) à 30 %"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-sante-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=55",
+        "page": "p. 109 (page PDF 55)",
+        "excerpt": "Faire un pôle public du médicament"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-sante-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=56",
+        "page": "p. 110 (page PDF 56)",
+        "excerpt": "Réguler l’installation des médecins"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-sante-06",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "une hausse globale de 3 milliards d'euros du budget des hôpitaux"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-sante-07",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=57",
+        "page": "p. 112 (page PDF 57)",
+        "excerpt": "Interdire la publicité alimentaire sur tous les supports"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-education-04",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=9",
+        "page": "p. 9",
+        "excerpt": "ouvrir 10 000 postes pour l'année prochaine"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-education-05",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=10",
+        "page": "p. 9-10",
+        "excerpt": "créant 250 000 places pour 3,5 milliards d'euros"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-education-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=21",
+        "page": "p. 41-42 (pages PDF 21-22)",
+        "excerpt": "Abolir les privilèges de l’enseignement privé et abroger la loi Carle"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-education-07",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=24",
+        "page": "p. 46 (page PDF 24)",
+        "excerpt": "Mettre en place une conscription citoyenne de neuf mois"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-securite-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=18",
+        "page": "p. 34 (page PDF 18)",
+        "excerpt": "Interdire les tasers, les grenades de désencerclement"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-securite-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=40",
+        "page": "p. 79 (page PDF 40)",
+        "excerpt": "Mettre en place le récépissé de contrôle d’identité"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-securite-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=32",
+        "page": "p. 62 (page PDF 32)",
+        "excerpt": "Interdire dans la loi tout usage des technologies de reconnaissance"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-securite-07",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=31",
+        "page": "p. 60 (page PDF 31)",
+        "excerpt": "mécanisme contraignant de régulation carcérale"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-immigration-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=62",
+        "page": "p. 122 (page PDF 62)",
+        "excerpt": "instituer la carte de séjour de dix ans comme titre de séjour de référence"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-immigration-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=62",
+        "page": "p. 122 (page PDF 62)",
+        "excerpt": "Suspendre le règlement Dublin, renégocier les accords du Touquet"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-immigration-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=32",
+        "page": "p. 63 (page PDF 32)",
+        "excerpt": "abroger les tests osseux, interdire l’enfermement des enfants"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-institutions-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=11",
+        "page": "p. 21 (page PDF 11)",
+        "excerpt": "Abolir les procédures de « votes forcés » du Parlement"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-institutions-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=12",
+        "page": "p. 22 (page PDF 12)",
+        "excerpt": "Rendre inéligible toute personne condamnée pour corruption"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-institutions-07",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=40",
+        "page": "p. 79 (page PDF 40)",
+        "excerpt": "Instituer le droit de vote des étrangers aux élections locales"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-europe-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=65",
+        "page": "p. 128 (page PDF 65)",
+        "excerpt": "Utiliser le droit de veto de la France"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-europe-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=65",
+        "page": "p. 128 (page PDF 65)",
+        "excerpt": "Conditionner la contribution française au budget de l’Union européenne"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-europe-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=65",
+        "page": "p. 129 (page PDF 65)",
+        "excerpt": "Suspendre la participation (opt-out) de la France à certains programmes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-international-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=59",
+        "page": "p. 117 (page PDF 59)",
+        "excerpt": "Créer un pôle public de l’armement"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-international-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=60",
+        "page": "p. 118 (page PDF 60)",
+        "excerpt": "participer comme observateur au traité d’interdiction des armes nucléaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-international-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=60",
+        "page": "p. 118 (page PDF 60)",
+        "excerpt": "Refuser toute intervention militaire sans mandat clair de l’ONU"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-international-07",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=63",
+        "page": "p. 124 (page PDF 63)",
+        "excerpt": "Consacrer 0,7 % du revenu national brut à une aide publique au développement"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-numerique-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=68",
+        "page": "p. 134 (page PDF 68)",
+        "excerpt": "Construire un cloud véritablement public"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-numerique-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=68",
+        "page": "p. 134 (page PDF 68)",
+        "excerpt": "Généraliser l’usage des logiciels libres dans les administrations publiques"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-numerique-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=67",
+        "page": "p. 132 (page PDF 67)",
+        "excerpt": "Constitutionnaliser le droit au chiffrement des données"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-numerique-07",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=68",
+        "page": "p. 135 (page PDF 68)",
+        "excerpt": "Créer une fonderie française pour microprocesseurs"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-culture-03",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=13",
+        "page": "p. 25 (page PDF 13)",
+        "excerpt": "contribution audiovisuelle dédiée, universelle et progressive"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-culture-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=14",
+        "page": "p. 26 (page PDF 14)",
+        "excerpt": "Élire au Parlement les présidents de France Télévisions et de Radio France"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-culture-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=43",
+        "page": "p. 84 (page PDF 43)",
+        "excerpt": "Étendre la gratuité dans tous les musées"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-culture-06",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf#page=14",
+        "page": "p. 14",
+        "excerpt": "en multipliant par deux le budget public dédié"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-outre-mer-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=28",
+        "page": "p. 55 (page PDF 28)",
+        "excerpt": "garantir 50 % de recrutements locaux dans tous les corps de la fonction publique"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-outre-mer-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=28",
+        "page": "p. 55 (page PDF 28)",
+        "excerpt": "Assurer la continuité territoriale (desserte de service public à tarifs réglementés)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-outre-mer-06",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=47",
+        "page": "p. 93 (page PDF 47)",
+        "excerpt": "autonomie énergétique et 100 % renouvelable, autosuffisance alimentaire"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-services-publics-03",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=16",
+        "page": "p. 30 (page PDF 16)",
+        "excerpt": "Supprimer les mégarégions et les métropoles technocratiques"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-services-publics-04",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/plan_RURALITE_web.pdf#page=14",
+        "page": "p. 14",
+        "excerpt": "Rééquilibrer la dotation globale de fonctionnement (DGF)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-services-publics-05",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/plan_RURALITE_web.pdf#page=21",
+        "page": "p. 21",
+        "excerpt": "limiter à 15 minutes les temps de transport scolaire"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-services-publics-06",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/PLAN-AUTO_Vf_ST.pdf#page=15",
+        "page": "p. 15",
+        "excerpt": "1,4 million de véhicules légers et abordables loués d’ici 2032"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-services-publics-07",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "Nous reviendrons sur les coupes budgétaires subies depuis 2026"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-famille-04",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=41",
+        "page": "p. 80 (page PDF 41)",
+        "excerpt": "Créer 10 000 places par an en EHPAD publics pendant cinq ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-famille-05",
+    "evidence": [
+      {
+        "url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=42",
+        "page": "p. 82 (page PDF 42)",
+        "excerpt": "en revalorisant l’AAH au niveau du SMIC"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-famille-06",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "Nous ajouterons 2 milliard d'euros sur la lutte contre les violences faites aux enfants"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "melenchon-famille-07",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=8",
+        "page": "p. 8",
+        "excerpt": "fixé à 1 337 euros par mois, ce qui coûtera 9,5 milliards d'euros"
+      }
+    ]
+  },
+  {
+    "action": "program",
+    "measure_id": "program.note / program.thematic_links",
+    "evidence": [
+      {
+        "url": "https://melenchon2027.fr/programme/decouvrir/",
+        "page": null,
+        "excerpt": "Il compte 1 069 mesures concrètes"
+      },
+      {
+        "url": "https://melenchon2027.fr/programme/decouvrir/",
+        "page": null,
+        "excerpt": "Disponible le 6 novembre en librairie."
+      },
+      {
+        "url": "https://melenchon2027.fr/programme2025/livre/",
+        "page": null,
+        "excerpt": "L'Avenir en commun est en cours de réactualisation."
+      },
+      {
+        "url": "https://melenchon2027.fr/programme/plans-thematiques/",
+        "page": null,
+        "excerpt": "documents complémentaires de L’Avenir en Commun"
+      }
+    ]
+  }
+]

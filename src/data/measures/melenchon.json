@@ -2,19 +2,19 @@
   {
     "id": "melenchon-economie-01",
     "theme": "economie",
-    "title": "Porter le SMIC à 1 600 € net par mois et indexer les salaires sur l'inflation",
-    "description": "Le programme prévoit de relever immédiatement le SMIC mensuel à 1 600 euros net et d'indexer les salaires sur l'inflation, dans le secteur privé comme dans la fonction publique.",
+    "title": "Porter le SMIC à 1 700 € net par mois et indexer les salaires sur l'inflation",
+    "description": "Le document budgétaire publié par la campagne en octobre 2026 prévoit une hausse du SMIC à 1 700 euros net par mois, accompagnée d'une conférence exceptionnelle sur les salaires et d'une indexation générale des salaires sur l'inflation. L'édition 2025 de L'Avenir en commun retenait 1 600 euros net.",
     "source_type": "officiel",
-    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
-    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=34",
-    "source_date": "2025-02-18",
-    "source_page": "p. 66 (page PDF 34)",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=9",
+    "source_date": "2026-10-14",
+    "source_page": "p. 9",
     "precision": "chiffre",
     "indicator": {
       "key": "smic_net",
-      "value": 1600
+      "value": 1700
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-economie-02",
@@ -27,7 +27,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 73 (page PDF 37)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-economie-03",
@@ -40,7 +40,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 57 (page PDF 29)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-economie-04",
@@ -56,6 +56,45 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "melenchon-economie-05",
+    "theme": "economie",
+    "title": "Un pôle public bancaire pouvant investir 100 milliards d'euros de plus par an",
+    "description": "Le document budgétaire de la campagne propose de réformer la Caisse des dépôts, la Banque publique d'investissement, la Banque postale et la SFIL pour créer un pôle public bancaire qui, selon le document, pourrait investir chaque année 100 milliards d'euros supplémentaires, grâce notamment à une centralisation accrue de l'épargne réglementée ; la création d'un « livret B » est aussi envisagée.",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=16",
+    "source_date": "2026-10-14",
+    "source_page": "p. 15-16",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-economie-06",
+    "theme": "economie",
+    "title": "Interdire les dividendes supérieurs aux bénéfices et les licenciements boursiers",
+    "description": "Le programme prévoit d'interdire aux entreprises de verser des dividendes supérieurs à leurs bénéfices, de moduler l'impôt sur les sociétés selon l'usage des bénéfices et d'interdire les licenciements économiques dans les entreprises qui versent des dividendes ou reçoivent des aides publiques.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=25",
+    "source_date": "2025-02-18",
+    "source_page": "p. 49 (page PDF 25)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-economie-07",
+    "theme": "economie",
+    "title": "Produire 2 millions de véhicules électriques par an en France d'ici 2032",
+    "description": "Le plan automobile de la campagne vise la production en France de 2 millions de véhicules électriques par an (voitures et utilitaires) d'ici 2032, avec des véhicules légers vendus à partir de 10 000 euros, des aides conditionnées à un contenu européen d'au moins 85 % et un moratoire sur les fermetures de sites.",
+    "source_type": "officiel",
+    "source_title": "Plan d'investissement productif Automobile – L'Avenir en commun (campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/PLAN-AUTO_Vf_ST.pdf#page=10",
+    "source_date": "2026-10-10",
+    "source_page": "p. 10-17",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "melenchon-fiscalite-01",
     "theme": "fiscalite",
     "title": "Un impôt sur le revenu à 14 tranches",
@@ -66,7 +105,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 51 (page PDF 26)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-fiscalite-02",
@@ -83,7 +122,7 @@
       "key": "isf",
       "value": "retablissement"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-fiscalite-03",
@@ -96,7 +135,64 @@
     "source_date": "2025-02-18",
     "source_page": "p. 51 (page PDF 26)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-fiscalite-04",
+    "theme": "fiscalite",
+    "title": "Supprimer la flat tax et imposer les revenus du capital comme ceux du travail",
+    "description": "Le programme prévoit de supprimer le prélèvement forfaitaire unique (« flat tax ») et d'imposer les revenus du capital comme ceux du travail. Le document budgétaire d'octobre 2026 en attend 9 milliards d'euros de recettes.",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=13",
+    "source_date": "2026-10-14",
+    "source_page": "p. 13",
+    "precision": "chiffre",
+    "cost": {
+      "label": "Recette estimée : 9 Md€",
+      "source_label": "Chiffrage de La France insoumise (octobre 2026)",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=13"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-fiscalite-05",
+    "theme": "fiscalite",
+    "title": "Réformer les droits de succession et plafonner l'héritage à 12 millions d'euros",
+    "description": "Le programme prévoit d'augmenter les droits de succession sur les plus hauts patrimoines en comptabilisant l'ensemble des dons et héritages reçus au cours de la vie, et de fixer un héritage maximal de 12 millions d'euros.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=27",
+    "source_date": "2025-02-18",
+    "source_page": "p. 51-52 (pages PDF 26-27)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-fiscalite-06",
+    "theme": "fiscalite",
+    "title": "Une taxe universelle sur les multinationales et une taxe Gafam renforcée",
+    "description": "Le document budgétaire prévoit une taxe universelle sur les multinationales fondée sur l'activité réalisée en France (5 milliards d'euros la première année), le renforcement de la taxe sur les services numériques (3,9 milliards) et une taxe sur les superprofits (5 milliards).",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=14",
+    "source_date": "2026-10-14",
+    "source_page": "p. 14",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-fiscalite-07",
+    "theme": "fiscalite",
+    "title": "Supprimer les exonérations de cotisations sociales au-dessus de 2 SMIC",
+    "description": "Le document budgétaire propose d'interrompre les exonérations de cotisations sociales au-dessus de deux SMIC, ainsi que de rétablir la CVAE sur les plus grandes entreprises.",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=14",
+    "source_date": "2026-10-14",
+    "source_page": "p. 13-14",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-emploi-01",
@@ -109,7 +205,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 65 (page PDF 33)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-emploi-02",
@@ -122,7 +218,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 64 (page PDF 33)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-emploi-03",
@@ -135,7 +231,59 @@
     "source_date": "2025-02-18",
     "source_page": "p. 65 (page PDF 33)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-emploi-04",
+    "theme": "emploi",
+    "title": "Une sixième semaine de congés payés pour tous les salariés",
+    "description": "Le programme prévoit de généraliser une sixième semaine de congés payés et de convoquer une conférence nationale sur le partage du temps de travail.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=33",
+    "source_date": "2025-02-18",
+    "source_page": "p. 65 (page PDF 33)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-emploi-05",
+    "theme": "emploi",
+    "title": "Abroger les réformes de l'assurance-chômage et la loi France Travail",
+    "description": "Le programme prévoit de revenir sur les règles d'éligibilité et de calcul de l'allocation chômage introduites depuis 2017, d'indemniser dès le premier jour et d'abroger l'obligation de 15 heures d'activité hebdomadaire liée au RSA. Le document budgétaire d'octobre 2026 chiffre l'abrogation des réformes à 3 milliards d'euros.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=35",
+    "source_date": "2025-02-18",
+    "source_page": "p. 68 (page PDF 35)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-emploi-06",
+    "theme": "emploi",
+    "title": "Limiter l'écart de salaires de 1 à 20 dans une entreprise",
+    "description": "Le programme prévoit de fixer un salaire maximal autorisé limitant l'écart entre le plus bas et le plus haut salaire d'une entreprise à un rapport de 1 à 20, et de supprimer stock-options et actions gratuites.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=34",
+    "source_date": "2025-02-18",
+    "source_page": "p. 67 (page PDF 34)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-emploi-07",
+    "theme": "emploi",
+    "title": "Droit de préemption des salariés et veto suspensif sur les licenciements",
+    "description": "Le programme prévoit un droit de préemption permettant aux salariés de reprendre leur entreprise en coopérative, un droit de veto suspensif des comités d'entreprise sur les plans de licenciements et au moins un tiers de représentants des salariés dans les instances de décision des grandes entreprises.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=16",
+    "source_date": "2025-02-18",
+    "source_page": "p. 30 (page PDF 16)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-retraites-01",
@@ -152,7 +300,7 @@
       "key": "age_legal",
       "value": 60
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-retraites-02",
@@ -165,7 +313,51 @@
     "source_date": "2025-02-18",
     "source_page": "p. 72 (page PDF 37)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-retraites-03",
+    "theme": "retraites",
+    "title": "Abroger dès 2027 la réforme portant l'âge de départ à 64 ans",
+    "description": "Le document budgétaire d'octobre 2026 prévoit d'abroger dès 2027 la réforme de 2023 portant l'âge légal à 64 ans, pour un coût estimé à 9 milliards d'euros, présentée comme un premier pas vers le retour à 60 ans avec 40 annuités, objectif fixé sur la durée du mandat.",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=11",
+    "source_date": "2026-10-14",
+    "source_page": "p. 11",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 9 Md€ (première année)",
+      "source_label": "Chiffrage de La France insoumise (octobre 2026)",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=11"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-retraites-04",
+    "theme": "retraites",
+    "title": "Hausser de 0,25 point par an le taux de cotisation vieillesse",
+    "description": "Pour financer les retraites, le programme prévoit d'augmenter le taux de cotisation vieillesse de 0,25 point par an pendant le quinquennat et de soumettre à cotisation les dividendes, l'intéressement, la participation et l'épargne salariale.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=37",
+    "source_date": "2025-02-18",
+    "source_page": "p. 72 (page PDF 37)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-retraites-05",
+    "theme": "retraites",
+    "title": "Indexer les pensions sur les salaires et supprimer la décote",
+    "description": "Le programme prévoit d'indexer le montant des retraites sur l'évolution des salaires, de supprimer la décote et de porter le minimum vieillesse au niveau du seuil de pauvreté.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=37",
+    "source_date": "2025-02-18",
+    "source_page": "p. 72 (page PDF 37)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-energie-01",
@@ -178,7 +370,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 96 (page PDF 49)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-energie-02",
@@ -195,7 +387,7 @@
       "key": "nucleaire",
       "value": "sortie"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-energie-03",
@@ -208,7 +400,59 @@
     "source_date": "2025-02-18",
     "source_page": "p. 96 (page PDF 49)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-energie-04",
+    "theme": "energie",
+    "title": "Bloquer le prix du carburant à 1,70 € le litre",
+    "description": "Dans le cadre de l'« état d'urgence sociale », le document budgétaire d'octobre 2026 prévoit un décret de blocage des prix du carburant ramenant le prix à la pompe à 1,70 euro par litre.",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=9",
+    "source_date": "2026-10-14",
+    "source_page": "p. 9",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-energie-05",
+    "theme": "energie",
+    "title": "Une première tranche gratuite d'électricité, de chaleur, d'eau et de gaz",
+    "description": "Le programme prévoit d'instaurer une première tranche de consommation gratuite pour l'électricité, la chaleur, l'eau et le gaz, ainsi que des tarifs réglementés calculés à partir des coûts de production.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=29",
+    "source_date": "2025-02-18",
+    "source_page": "p. 57 et p. 97 (pages PDF 29 et 49)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-energie-06",
+    "theme": "energie",
+    "title": "Plan d'urgence pour l'éolien en mer et les énergies marines",
+    "description": "Le programme prévoit un plan d'urgence pour l'éolien maritime et le développement des énergies marines renouvelables sous maîtrise publique, au besoin par la nationalisation des activités de General Electric (ex-Alstom) et de Siemens-Gamesa.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=66",
+    "source_date": "2025-02-18",
+    "source_page": "p. 131 (page PDF 66)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-energie-07",
+    "theme": "energie",
+    "title": "Remplacer 400 000 chaudières au fioul et 350 000 au gaz par an",
+    "description": "Le plan BTP/Logement vise le remplacement de 400 000 chaudières au fioul par an, pour les faire quasiment disparaître en 2032, et de 350 000 chaudières à gaz par an, avec des aides renforcées à l'achat d'équipements bas-carbone pour les ménages populaires.",
+    "source_type": "officiel",
+    "source_title": "Plan d'investissement productif BTP/Logement – L'Avenir en commun (campagne Mélenchon 2027, septembre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf#page=13",
+    "source_date": "2026-09-28",
+    "source_page": "p. 13",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-ecologie-01",
@@ -221,7 +465,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 90 (page PDF 46)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-ecologie-02",
@@ -234,7 +478,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 90 (page PDF 46)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-ecologie-03",
@@ -247,7 +491,59 @@
     "source_date": "2025-02-18",
     "source_page": "p. 94 (page PDF 48)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-ecologie-04",
+    "theme": "ecologie",
+    "title": "Interdire les coupes rases en forêt",
+    "description": "Le programme prévoit d'interdire les coupes rases sauf impasse sanitaire avérée, d'augmenter les moyens de l'Office national des forêts et de laisser 25 % de la surface forestière en libre évolution.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=53",
+    "source_date": "2025-02-18",
+    "source_page": "p. 105-106 (pages PDF 53-54)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-ecologie-05",
+    "theme": "ecologie",
+    "title": "Une « règle bleue » et une gestion 100 % publique de l'eau",
+    "description": "Le programme prévoit d'inscrire l'eau comme bien commun dans la Constitution, d'organiser une gestion entièrement publique en régies, de rendre gratuits les mètres cubes indispensables et d'instaurer un moratoire sur les méga-bassines.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=52",
+    "source_date": "2025-02-18",
+    "source_page": "p. 102-103 (page PDF 52)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-ecologie-06",
+    "theme": "ecologie",
+    "title": "10 milliards d'euros d'urgence pour l'adaptation au changement climatique",
+    "description": "Le document budgétaire d'octobre 2026 prévoit 10 milliards d'euros d'investissements immédiats pour faire face aux canicules, incendies et sécheresses : équipement des hôpitaux, Ehpad et écoles, moyens des services d'incendie et de secours, adaptation des exploitations agricoles.",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=11",
+    "source_date": "2026-10-14",
+    "source_page": "p. 11",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-ecologie-07",
+    "theme": "ecologie",
+    "title": "Isoler au moins 700 000 logements par an, sans reste à charge pour les plus modestes",
+    "description": "Le plan BTP/Logement fixe l'objectif d'au moins 700 000 isolations de logements par an pour éradiquer les passoires et bouilloires thermiques en un quinquennat, avec une prise en charge publique de 100 % des travaux pour les ménages les plus modestes, dégressive ensuite selon les revenus.",
+    "source_type": "officiel",
+    "source_title": "Plan d'investissement productif BTP/Logement – L'Avenir en commun (campagne Mélenchon 2027, septembre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf#page=10",
+    "source_date": "2026-09-28",
+    "source_page": "p. 10",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-agriculture-01",
@@ -260,7 +556,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 99 (page PDF 50)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-agriculture-02",
@@ -273,7 +569,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 99 (page PDF 50)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-agriculture-03",
@@ -286,7 +582,59 @@
     "source_date": "2025-02-18",
     "source_page": "p. 100 (page PDF 51)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-agriculture-04",
+    "theme": "agriculture",
+    "title": "Refonder la PAC et engager une réforme agraire",
+    "description": "Le programme prévoit de réorienter les aides de la politique agricole commune vers la production écologique et l'emploi, et d'engager une réforme agraire favorisant l'installation et des exploitations à taille humaine.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=51",
+    "source_date": "2025-02-18",
+    "source_page": "p. 100 (page PDF 51)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-agriculture-05",
+    "theme": "agriculture",
+    "title": "Encadrer les marges de l'agro-industrie et de la grande distribution",
+    "description": "Le programme prévoit de limiter le prix final des produits alimentaires par des coefficients multiplicateurs et un encadrement des marges des industries agroalimentaires et de la grande distribution.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=51",
+    "source_date": "2025-02-18",
+    "source_page": "p. 100 (page PDF 51)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-agriculture-06",
+    "theme": "agriculture",
+    "title": "Protectionnisme écologique et prix minimum d'entrée sur les importations agricoles",
+    "description": "Le programme prévoit d'appliquer la clause de sauvegarde pour interdire l'importation de produits ne respectant pas une norme sanitaire nationale et de garantir un prix minimum d'entrée face à la concurrence jugée déloyale.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=51",
+    "source_date": "2025-02-18",
+    "source_page": "p. 100 (page PDF 51)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-agriculture-07",
+    "theme": "agriculture",
+    "title": "Interdire les fermes-usines",
+    "description": "Le programme prévoit d'interdire les fermes-usines, l'élevage en batterie des poules et lapins et le broyage des poussins, et de limiter les temps de transport des animaux vivants.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=54",
+    "source_date": "2025-02-18",
+    "source_page": "p. 106 (page PDF 54)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-logement-01",
@@ -299,7 +647,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 58 (page PDF 30)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-logement-02",
@@ -312,7 +660,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 58 (page PDF 30)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-logement-03",
@@ -325,7 +673,59 @@
     "source_date": "2025-02-18",
     "source_page": "p. 58 (page PDF 30)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-logement-04",
+    "theme": "logement",
+    "title": "400 000 logements abordables par an, dont 200 000 logements publics",
+    "description": "Le plan BTP/Logement de septembre 2026 fixe l'objectif de 400 000 nouveaux logements abordables par an pendant cinq ans, dont 200 000 logements publics (140 000 très sociaux), plus de 35 % étant issus de la mobilisation du parc existant (réquisition, taxation des logements vacants, transformation de bureaux).",
+    "source_type": "officiel",
+    "source_title": "Plan d'investissement productif BTP/Logement – L'Avenir en commun (campagne Mélenchon 2027, septembre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf#page=8",
+    "source_date": "2026-09-28",
+    "source_page": "p. 8",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-logement-05",
+    "theme": "logement",
+    "title": "Plafonner à cinq le nombre de logements transmissibles par héritage",
+    "description": "Le programme prévoit d'instaurer un plafond de cinq logements transmissibles par héritage ; au-delà, les biens seraient réquisitionnés par l'État et redistribués entre le parc social et des organismes de foncier solidaire.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=30",
+    "source_date": "2025-02-18",
+    "source_page": "p. 59 (page PDF 30)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-logement-06",
+    "theme": "logement",
+    "title": "Limiter les locations de type Airbnb à 60 jours par an",
+    "description": "Le programme prévoit de limiter les locations de courte durée à 60 jours par an et de supprimer la niche fiscale des meublés de tourisme ; le plan BTP/Logement y ajoute des quotas en zone tendue et l'interdiction dans l'hypercentre des grandes métropoles.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=30",
+    "source_date": "2025-02-18",
+    "source_page": "p. 59 (page PDF 30)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-logement-07",
+    "theme": "logement",
+    "title": "Porter à 30 % le quota de logements sociaux de la loi SRU",
+    "description": "Le programme prévoit de rehausser à 30 % le seuil de logements sociaux imposé aux communes par la loi SRU, dont 5 % de résidences universitaires et foyers de jeunes travailleurs, et d'aggraver les sanctions contre les communes qui ne le respectent pas.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=30",
+    "source_date": "2025-02-18",
+    "source_page": "p. 58 (page PDF 30)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-sante-01",
@@ -338,7 +738,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 109 (page PDF 55)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-sante-02",
@@ -351,7 +751,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 109 (page PDF 55)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-sante-03",
@@ -364,7 +764,59 @@
     "source_date": "2025-02-18",
     "source_page": "p. 111 (page PDF 56)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-sante-04",
+    "theme": "sante",
+    "title": "Créer un pôle public du médicament",
+    "description": "Le programme prévoit un pôle public du médicament chargé de relocaliser la production, de constituer une réserve stratégique et de contrôler les prix, avec la nationalisation de certaines filiales jugées critiques (dont la production du Doliprane).",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=55",
+    "source_date": "2025-02-18",
+    "source_page": "p. 109 (page PDF 55)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-sante-05",
+    "theme": "sante",
+    "title": "Réguler l'installation des médecins et recruter des médecins publics",
+    "description": "Contre les déserts médicaux, le programme prévoit de réguler l'installation des médecins, de recruter des médecins publics, de créer un réseau public de centres de santé et de rétablir l'obligation de participation à la permanence des soins.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=56",
+    "source_date": "2025-02-18",
+    "source_page": "p. 110 (page PDF 56)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-sante-06",
+    "theme": "sante",
+    "title": "3 milliards d'euros de plus pour l'hôpital et 10 000 postes de soignants",
+    "description": "Le document budgétaire d'octobre 2026 prévoit une hausse de 3 milliards d'euros du budget des hôpitaux avec au moins 10 000 créations de postes de personnel soignant.",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=10",
+    "source_date": "2026-10-14",
+    "source_page": "p. 10",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-sante-07",
+    "theme": "sante",
+    "title": "Interdire la publicité alimentaire visant les enfants et plafonner sel et sucre",
+    "description": "Le programme prévoit de créer un ministère de la Production alimentaire, d'interdire la publicité alimentaire destinée aux enfants et adolescents, de fixer des taux maximaux de sel, sucre et acides gras saturés et de rendre le Nutri-score obligatoire.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=57",
+    "source_date": "2025-02-18",
+    "source_page": "p. 112 (page PDF 57)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-education-01",
@@ -377,7 +829,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 45 (page PDF 23)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-education-02",
@@ -390,7 +842,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 39 (page PDF 20)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-education-03",
@@ -403,7 +855,59 @@
     "source_date": "2025-02-18",
     "source_page": "p. 40 (page PDF 21)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-education-04",
+    "theme": "education",
+    "title": "Ouvrir 10 000 postes dans l'Éducation nationale en 2027 et viser 19 élèves par classe",
+    "description": "Le document budgétaire d'octobre 2026 prévoit d'ouvrir 10 000 postes dans l'Éducation nationale dès 2027 (500 millions d'euros), avec l'objectif de se rapprocher sur le mandat de la moyenne européenne de 19 élèves par classe, ainsi que la gratuité de la cantine scolaire (3,6 milliards d'euros).",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=9",
+    "source_date": "2026-10-14",
+    "source_page": "p. 9",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-education-05",
+    "theme": "education",
+    "title": "Créer 250 000 places à l'université et abolir Parcoursup",
+    "description": "Le document budgétaire d'octobre 2026 prévoit de créer 250 000 places à l'université pour 3,5 milliards d'euros afin de pouvoir abolir Parcoursup et MonMaster ; le programme prévoit aussi la gratuité de l'enseignement supérieur.",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=10",
+    "source_date": "2026-10-14",
+    "source_page": "p. 9-10",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-education-06",
+    "theme": "education",
+    "title": "Réduire le financement public de l'enseignement privé sous contrat",
+    "description": "Le programme prévoit d'abroger la loi Carle, d'appliquer un malus au financement public des établissements privés sous contrat contribuant à la ségrégation scolaire et d'interdire les subventions facultatives des collectivités à ces établissements.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=21",
+    "source_date": "2025-02-18",
+    "source_page": "p. 41-42 (pages PDF 21-22)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-education-07",
+    "theme": "education",
+    "title": "Une conscription citoyenne de neuf mois rémunérée au SMIC",
+    "description": "Le programme prévoit de remplacer le Service national universel par une conscription citoyenne obligatoire de neuf mois pour les moins de 25 ans, rémunérée au SMIC, comprenant une formation militaire initiale (avec objection de conscience), des tâches d'utilité publique et le passage du permis de conduire.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=24",
+    "source_date": "2025-02-18",
+    "source_page": "p. 46 (page PDF 24)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-securite-01",
@@ -416,7 +920,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 61 (page PDF 31)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-securite-02",
@@ -429,7 +933,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 35 (page PDF 18)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-securite-03",
@@ -442,7 +946,59 @@
     "source_date": "2025-02-18",
     "source_page": "p. 35 (page PDF 18)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-securite-04",
+    "theme": "securite",
+    "title": "Interdire LBD, grenades de désencerclement, tasers et clé d'étranglement",
+    "description": "Le programme prévoit d'interdire les tasers, les grenades de désencerclement et les lanceurs de balles de défense, ainsi que le plaquage ventral et la clé d'étranglement, pour un maintien de l'ordre fondé sur la désescalade.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=18",
+    "source_date": "2025-02-18",
+    "source_page": "p. 34 (page PDF 18)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-securite-05",
+    "theme": "securite",
+    "title": "Instaurer un récépissé lors des contrôles d'identité",
+    "description": "Le programme prévoit la remise d'un récépissé à l'issue des contrôles d'identité par les forces de l'ordre, accompagnée de formations, de contrôles et de sanctions, afin de lutter contre les contrôles au faciès.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=40",
+    "source_date": "2025-02-18",
+    "source_page": "p. 79 (page PDF 40)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-securite-06",
+    "theme": "securite",
+    "title": "Interdire la reconnaissance faciale dans l'espace public",
+    "description": "Le programme prévoit d'interdire par la loi tout usage, y compris expérimental, des technologies de reconnaissance faciale dans les espaces et établissements publics.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=32",
+    "source_date": "2025-02-18",
+    "source_page": "p. 62 (page PDF 32)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-securite-07",
+    "theme": "securite",
+    "title": "Un mécanisme contraignant de régulation carcérale",
+    "description": "Le programme prévoit de mettre fin à la surpopulation carcérale par un mécanisme contraignant de régulation des entrées en prison, et de confier au Parlement l'orientation de la politique pénale par un vote annuel.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=31",
+    "source_date": "2025-02-18",
+    "source_page": "p. 60 (page PDF 31)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-immigration-01",
@@ -455,7 +1011,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 122 (page PDF 62)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-immigration-02",
@@ -468,7 +1024,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 123 (page PDF 62)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-immigration-03",
@@ -481,7 +1037,46 @@
     "source_date": "2025-02-18",
     "source_page": "p. 79 (page PDF 40)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-immigration-04",
+    "theme": "immigration",
+    "title": "Faire de la carte de séjour de dix ans le titre de référence",
+    "description": "Le programme prévoit de faciliter l'accès aux visas et d'instituer la carte de séjour de dix ans comme titre de séjour de référence.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=62",
+    "source_date": "2025-02-18",
+    "source_page": "p. 122 (page PDF 62)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-immigration-05",
+    "theme": "immigration",
+    "title": "Suspendre le règlement Dublin et renégocier les accords du Touquet",
+    "description": "Le programme prévoit de suspendre le règlement de Dublin, de renégocier les accords du Touquet, de « sortir de l'impasse de la politique de Schengen et Frontex » et d'en finir avec le « délit de solidarité ».",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=62",
+    "source_date": "2025-02-18",
+    "source_page": "p. 122 (page PDF 62)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-immigration-06",
+    "theme": "immigration",
+    "title": "Interdire l'enfermement des enfants en rétention et abroger les tests osseux",
+    "description": "Le programme prévoit d'interdire l'enfermement des enfants dans les centres de rétention administrative, d'abroger les tests osseux et d'appliquer la présomption de minorité.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=32",
+    "source_date": "2025-02-18",
+    "source_page": "p. 63 (page PDF 32)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-institutions-01",
@@ -494,7 +1089,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 20 (page PDF 11)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-institutions-02",
@@ -507,7 +1102,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 21 (page PDF 11)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-institutions-03",
@@ -520,7 +1115,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 23 (page PDF 12)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-institutions-04",
@@ -533,7 +1128,46 @@
     "source_date": "2025-02-18",
     "source_page": "p. 23 (page PDF 12)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-institutions-05",
+    "theme": "institutions",
+    "title": "Abolir le 49.3 et les procédures de vote forcé",
+    "description": "Dans le cadre de la 6e République, le programme prévoit d'abolir les procédures de « votes forcés » comme l'article 49.3 et d'obliger le gouvernement à rendre réellement des comptes devant le Parlement.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=11",
+    "source_date": "2025-02-18",
+    "source_page": "p. 21 (page PDF 11)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-institutions-06",
+    "theme": "institutions",
+    "title": "Interdire le pantouflage et rendre inéligibles les condamnés pour corruption",
+    "description": "Le programme prévoit un plan de séparation de l'argent et de l'État : inéligibilité des personnes condamnées pour corruption, obligation pour un haut fonctionnaire rejoignant le privé de démissionner et de rembourser sa formation avant dix ans de service, interdiction des lobbyistes au Parlement.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=12",
+    "source_date": "2025-02-18",
+    "source_page": "p. 22 (page PDF 12)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-institutions-07",
+    "theme": "institutions",
+    "title": "Droit de vote des étrangers aux élections locales",
+    "description": "Le programme prévoit d'instituer le droit de vote des étrangers aux élections locales.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=40",
+    "source_date": "2025-02-18",
+    "source_page": "p. 79 (page PDF 40)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-europe-01",
@@ -546,7 +1180,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 127 (page PDF 64)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-europe-02",
@@ -559,7 +1193,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 129 (page PDF 65)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-europe-03",
@@ -572,7 +1206,46 @@
     "source_date": "2025-02-18",
     "source_page": "p. 50 (page PDF 26)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-europe-04",
+    "theme": "europe",
+    "title": "Utiliser le veto français contre les nouveaux accords de libre-échange",
+    "description": "Le programme prévoit d'utiliser le droit de veto de la France pour refuser tout nouvel accord de libre-échange (dont le Mercosur, même révisé) et tout nouvel élargissement de l'UE sans harmonisation sociale, fiscale et environnementale préalable.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=65",
+    "source_date": "2025-02-18",
+    "source_page": "p. 128 (page PDF 65)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-europe-05",
+    "theme": "europe",
+    "title": "Conditionner la contribution française au budget de l'UE",
+    "description": "Parmi les leviers face aux institutions européennes, le programme prévoit de conditionner la contribution de la France au budget de l'Union européenne.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=65",
+    "source_date": "2025-02-18",
+    "source_page": "p. 128 (page PDF 65)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-europe-06",
+    "theme": "europe",
+    "title": "Se retirer de l'Europe de la défense (opt-out)",
+    "description": "Le programme prévoit de suspendre la participation de la France à certains programmes comme l'Europe de la défense et de s'opposer à la reconduction d'un commissaire européen à la Défense.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=65",
+    "source_date": "2025-02-18",
+    "source_page": "p. 129 (page PDF 65)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-international-01",
@@ -585,7 +1258,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 116 (page PDF 59)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-international-02",
@@ -598,7 +1271,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 120 (page PDF 61)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-international-03",
@@ -611,7 +1284,59 @@
     "source_date": "2025-02-18",
     "source_page": "p. 119 (page PDF 60)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-international-04",
+    "theme": "international",
+    "title": "Un pôle public de l'armement et une nouvelle loi de programmation militaire",
+    "description": "Le programme prévoit un livre blanc et une loi de programmation militaire visant l'indépendance et la souveraineté industrielle, la création d'un pôle public de l'armement et la priorité à l'achat de matériel militaire français.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=59",
+    "source_date": "2025-02-18",
+    "source_page": "p. 117 (page PDF 59)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-international-05",
+    "theme": "international",
+    "title": "Participer comme observateur au traité d'interdiction des armes nucléaires",
+    "description": "Le programme prévoit de relancer le désarmement multilatéral, de participer comme observateur au traité d'interdiction des armes nucléaires (TIAN) et de créer un « Commissariat à la dissuasion de demain » chargé d'étudier des options alternatives au nucléaire.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=60",
+    "source_date": "2025-02-18",
+    "source_page": "p. 118 (page PDF 60)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-international-06",
+    "theme": "international",
+    "title": "Aucune intervention militaire sans mandat de l'ONU",
+    "description": "Le programme réaffirme l'ONU comme seul organe légitime de sécurité collective et prévoit de refuser toute intervention militaire sans mandat clair des Nations unies.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=60",
+    "source_date": "2025-02-18",
+    "source_page": "p. 118 (page PDF 60)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-international-07",
+    "theme": "international",
+    "title": "Consacrer 0,7 % du revenu national brut à l'aide au développement",
+    "description": "Le programme prévoit de porter l'aide publique au développement à 0,7 % du revenu national brut et d'en réformer l'attribution par l'Agence française de développement.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=63",
+    "source_date": "2025-02-18",
+    "source_page": "p. 124 (page PDF 63)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-numerique-01",
@@ -624,7 +1349,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 133 (page PDF 67)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-numerique-02",
@@ -637,7 +1362,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 134 (page PDF 68)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-numerique-03",
@@ -650,7 +1375,59 @@
     "source_date": "2025-02-18",
     "source_page": "p. 135 (page PDF 68)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-numerique-04",
+    "theme": "numerique",
+    "title": "Un cloud public et l'hébergement des données publiques en France",
+    "description": "Le programme prévoit de construire un cloud public composé de data centers publics et de garantir l'hébergement des données des services publics et des entreprises essentielles sur des serveurs de droit français situés en France.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=68",
+    "source_date": "2025-02-18",
+    "source_page": "p. 134 (page PDF 68)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-numerique-05",
+    "theme": "numerique",
+    "title": "Généraliser les logiciels libres dans l'administration",
+    "description": "Le programme prévoit de créer une agence publique des logiciels libres et de généraliser leur usage dans les administrations et l'Éducation nationale.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=68",
+    "source_date": "2025-02-18",
+    "source_page": "p. 134 (page PDF 68)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-numerique-06",
+    "theme": "numerique",
+    "title": "Inscrire le droit au chiffrement dans la Constitution",
+    "description": "Le programme prévoit de constitutionnaliser le droit au chiffrement des données et des communications et de renforcer les moyens de contrôle de la CNIL.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=67",
+    "source_date": "2025-02-18",
+    "source_page": "p. 132 (page PDF 67)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-numerique-07",
+    "theme": "numerique",
+    "title": "Une fonderie française de microprocesseurs et l'encadrement des data centers",
+    "description": "Le programme prévoit de créer une fonderie française pour microprocesseurs et de soumettre la construction de data centers à autorisation, avec des objectifs de baisse de leur consommation électrique.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=68",
+    "source_date": "2025-02-18",
+    "source_page": "p. 135 (page PDF 68)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-culture-01",
@@ -663,7 +1440,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 84 (page PDF 43)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-culture-02",
@@ -676,7 +1453,59 @@
     "source_date": "2025-02-18",
     "source_page": "p. 26 (page PDF 14)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-culture-03",
+    "theme": "culture",
+    "title": "Une contribution audiovisuelle universelle et progressive",
+    "description": "Le programme prévoit de garantir l'indépendance et le financement de l'audiovisuel public par une contribution dédiée, universelle et progressive.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=13",
+    "source_date": "2025-02-18",
+    "source_page": "p. 25 (page PDF 13)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-culture-04",
+    "theme": "culture",
+    "title": "Élire au Parlement les présidents de France Télévisions et Radio France",
+    "description": "Le programme prévoit l'élection par le Parlement des présidents de France Télévisions et de Radio France, ainsi que des droits de gouvernance pour les abonnés et usagers des médias.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=14",
+    "source_date": "2025-02-18",
+    "source_page": "p. 26 (page PDF 14)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-culture-05",
+    "theme": "culture",
+    "title": "Gratuité de tous les musées",
+    "description": "Le programme prévoit d'étendre la gratuité à tous les musées, de garantir une tarification abordable dans les institutions publiques et de réorienter les moyens du Pass Culture vers des projets collectifs.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=43",
+    "source_date": "2025-02-18",
+    "source_page": "p. 84 (page PDF 43)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-culture-06",
+    "theme": "culture",
+    "title": "Doubler le budget public consacré au patrimoine",
+    "description": "Le plan BTP/Logement fixe l'objectif de doubler le nombre annuel de monuments dont l'état s'améliore, en multipliant par deux le budget public dédié à leur entretien.",
+    "source_type": "officiel",
+    "source_title": "Plan d'investissement productif BTP/Logement – L'Avenir en commun (campagne Mélenchon 2027, septembre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf#page=14",
+    "source_date": "2026-09-28",
+    "source_page": "p. 14",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-outre-mer-01",
@@ -689,7 +1518,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 55 (page PDF 28)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-outre-mer-02",
@@ -702,7 +1531,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 104 (page PDF 53)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-outre-mer-03",
@@ -715,7 +1544,46 @@
     "source_date": "2025-02-18",
     "source_page": "p. 101 (page PDF 51)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-outre-mer-04",
+    "theme": "outre_mer",
+    "title": "50 % de recrutements locaux dans la fonction publique outre-mer",
+    "description": "Le programme prévoit d'instaurer un principe de faveur garantissant 50 % de recrutements locaux dans tous les corps de la fonction publique dans les Outre-mer.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=28",
+    "source_date": "2025-02-18",
+    "source_page": "p. 55 (page PDF 28)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-outre-mer-05",
+    "theme": "outre_mer",
+    "title": "Continuité territoriale à tarifs réglementés et rattrapage des infrastructures",
+    "description": "Le programme prévoit d'assurer la continuité territoriale par une desserte de service public à tarifs réglementés et un plan de rattrapage des infrastructures routières et ferroviaires, en particulier à La Réunion et en Guyane.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=28",
+    "source_date": "2025-02-18",
+    "source_page": "p. 55 (page PDF 28)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-outre-mer-06",
+    "theme": "outre_mer",
+    "title": "Autonomie énergétique et autosuffisance alimentaire des Outre-mer",
+    "description": "Le programme fait des Outre-mer des territoires pilotes de la planification écologique avec un objectif d'autonomie énergétique à 100 % renouvelable et d'autosuffisance alimentaire, appuyé par une taxe kilométrique favorisant les productions locales.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=47",
+    "source_date": "2025-02-18",
+    "source_page": "p. 93 (page PDF 47)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-services-publics-01",
@@ -728,7 +1596,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 54 (page PDF 28)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-services-publics-02",
@@ -741,7 +1609,72 @@
     "source_date": "2025-02-18",
     "source_page": "p. 95 (page PDF 48)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-services-publics-03",
+    "theme": "services_publics",
+    "title": "Supprimer les métropoles et abroger la loi NOTRe",
+    "description": "Le programme prévoit de supprimer les « mégarégions » et les métropoles, de revenir sur l'appartenance obligatoire des communes à une intercommunalité en abrogeant la loi NOTRe et de refuser les fusions forcées de communes.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=16",
+    "source_date": "2025-02-18",
+    "source_page": "p. 30 (page PDF 16)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-services-publics-04",
+    "theme": "services_publics",
+    "title": "Rééquilibrer la DGF des communes et l'indexer sur l'inflation",
+    "description": "Le plan Ruralités prévoit de rééquilibrer la dotation globale de fonctionnement versée aux communes et de l'indexer sur l'inflation, de créer un fonds de soutien aux communes rurales et de rétablir une ingénierie publique gratuite pour les petites communes.",
+    "source_type": "officiel",
+    "source_title": "Plan thématique « Ruralités » – L'Avenir en commun (campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/plan_RURALITE_web.pdf#page=14",
+    "source_date": "2026-10-09",
+    "source_page": "p. 14",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-services-publics-05",
+    "theme": "services_publics",
+    "title": "Limiter à 15 minutes les temps de transport scolaire en zone rurale",
+    "description": "Le plan Ruralités prévoit de densifier le maillage des écoles en zone rurale pour limiter les temps de transport scolaire à 15 minutes, de maintenir les écoles à classe unique et de rendre les transports scolaires gratuits.",
+    "source_type": "officiel",
+    "source_title": "Plan thématique « Ruralités » – L'Avenir en commun (campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/plan_RURALITE_web.pdf#page=21",
+    "source_date": "2026-10-09",
+    "source_page": "p. 21",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-services-publics-06",
+    "theme": "services_publics",
+    "title": "Un service public de location de voitures électriques à prix abordable",
+    "description": "Le plan automobile prévoit un service public de location longue durée de véhicules électriques légers, financé par le pôle public bancaire, visant 1,4 million de véhicules loués d'ici 2032 (1 million commandés sur les trois premières années).",
+    "source_type": "officiel",
+    "source_title": "Plan d'investissement productif Automobile – L'Avenir en commun (campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/PLAN-AUTO_Vf_ST.pdf#page=15",
+    "source_date": "2026-10-10",
+    "source_page": "p. 15",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-services-publics-07",
+    "theme": "services_publics",
+    "title": "Annuler les coupes budgétaires depuis 2026 dans les services publics",
+    "description": "Le document budgétaire d'octobre 2026 prévoit de revenir sur les coupes subies depuis 2026 par plusieurs services publics (travail, logement, culture, sport, diplomatie, aide au développement) et d'indexer leur budget 2027 sur l'inflation, pour 7 milliards d'euros.",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=10",
+    "source_date": "2026-10-14",
+    "source_page": "p. 10",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-famille-01",
@@ -754,7 +1687,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 39 (page PDF 20)",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-famille-02",
@@ -767,7 +1700,7 @@
     "source_date": "2025-02-18",
     "source_page": "p. 52 (page PDF 27)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "melenchon-famille-03",
@@ -780,6 +1713,58 @@
     "source_date": "2025-02-18",
     "source_page": "p. 32 (page PDF 17)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-famille-04",
+    "theme": "famille",
+    "title": "Un service public de la dépendance et 10 000 places par an en Ehpad publics",
+    "description": "Le programme prévoit un service public de la dépendance pour aider les seniors à rester à domicile, la création de 10 000 places par an en Ehpad publics pendant cinq ans, la création d'au moins 210 000 emplois dans les Ehpad et la collectivisation des Ehpad privés à but lucratif.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=41",
+    "source_date": "2025-02-18",
+    "source_page": "p. 80 (page PDF 41)",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-famille-05",
+    "theme": "famille",
+    "title": "Revaloriser l'allocation aux adultes handicapés au niveau du SMIC",
+    "description": "Le programme prévoit de porter l'AAH au niveau du SMIC, d'imposer 100 % de logements accessibles dans le neuf et de créer un corps de fonctionnaires pour les accompagnants d'élèves en situation de handicap.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
+    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=42",
+    "source_date": "2025-02-18",
+    "source_page": "p. 82 (page PDF 42)",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-famille-06",
+    "theme": "famille",
+    "title": "3 milliards d'euros contre les violences sexistes et 2 milliards contre les violences faites aux enfants",
+    "description": "Le document budgétaire d'octobre 2026 prévoit de porter à 3 milliards d'euros le budget de lutte contre les violences sexistes et sexuelles (2,6 milliards supplémentaires) et d'ajouter 2 milliards d'euros pour lutter contre les violences faites aux enfants.",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=10",
+    "source_date": "2026-10-14",
+    "source_page": "p. 10",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "melenchon-famille-07",
+    "theme": "famille",
+    "title": "Une garantie d'autonomie pour les jeunes à 1 337 € par mois",
+    "description": "Le document budgétaire d'octobre 2026 prévoit d'avancer immédiatement vers la garantie d'autonomie pour les jeunes, afin qu'aucun ne vive sous le seuil de pauvreté fixé à 1 337 euros par mois, pour un coût de 9,5 milliards d'euros.",
+    "source_type": "officiel",
+    "source_title": "« Comment nous allons remettre de l'ordre dans les comptes publics » – orientations budgétaires 2027 de La France insoumise (site de campagne Mélenchon 2027, octobre 2026)",
+    "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=8",
+    "source_date": "2026-10-14",
+    "source_page": "p. 8",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   }
 ]

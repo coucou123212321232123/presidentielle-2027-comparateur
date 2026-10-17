@@ -52,6 +52,14 @@
     {
       "name": "Paul Midy",
       "role": "Co-responsable du programme"
+    },
+    {
+      "name": "Prisca Thevenot",
+      "role": "Directrice de la mobilisation et des territoires"
+    },
+    {
+      "name": "Thomas Cazenave",
+      "role": "Président du comité des maires"
     }
   ],
   "slogan": "La force d'agir",
@@ -86,7 +94,7 @@
     "format": "page_web",
     "published_date": null,
     "status": "partiel",
-    "note": "Le site de campagne présente quatre « chantiers capitaux » (école, travail et salaires, frontières, IA) et deux « dettes à résorber » (dette de l'État, dette écologique) ; les autres propositions sont détaillées au fil des actualités de campagne. Le candidat indique qu'une stratégie complète sur les salaires sera présentée ultérieurement. Pages programme non datées.",
+    "note": "Le site de campagne présente quatre « chantiers capitaux » (école, travail et salaires, frontières, IA) et deux « dettes à résorber » (dette de l’État, dette écologique), pages non datées ; les autres propositions sont détaillées au fil des actualités de campagne, dont une liste récapitulative publiée après le meeting de Lyon (11 octobre 2026). Deux documents PDF de campagne existent : le discours européen de Reims (17 septembre 2026) et une lettre aux Français sur les finances publiques (octobre 2026). Le parti Renaissance, dont il est secrétaire général, a publié en 2025 deux recueils de conventions thématiques (régalien ; économie et climat). Pas de programme complet en document unique au 16 octobre 2026.",
     "thematic_links": [
       {
         "theme": "education",
@@ -129,6 +137,62 @@
         "url": "https://attalpresident.fr/programme/dette-ecologique",
         "format": "page_web",
         "page_range": null
+      },
+      {
+        "theme": "fiscalite",
+        "title": "Lettre aux Français sur les finances publiques (octobre 2026)",
+        "url": "https://doc.parti.re/2026/Lettre-finances-publiques.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-2"
+      },
+      {
+        "theme": "europe",
+        "title": "Discours « Bâtir les États-Unis d’Europe », Reims (17 septembre 2026)",
+        "url": "https://doc.parti.re/2026/Discours_Europe.pdf",
+        "format": "pdf",
+        "page_range": "p. 4-22"
+      },
+      {
+        "theme": "education",
+        "title": "Mesures pour la jeunesse et l’avenir de la France (meeting de Lyon, 10 octobre 2026)",
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "securite",
+        "title": "Renaissance – « Une République ferme, une France apaisée » (convention régalienne, mai 2025)",
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "format": "pdf",
+        "page_range": "p. 8-65"
+      },
+      {
+        "theme": "economie",
+        "title": "Renaissance – « Pour une nouvelle donne économique et climatique » (conventions thématiques, juillet 2025) – volet économique et social",
+        "url": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+        "format": "pdf",
+        "page_range": "p. 10-47"
+      },
+      {
+        "theme": "ecologie",
+        "title": "Renaissance – « Pour une nouvelle donne économique et climatique » (conventions thématiques, juillet 2025) – volet climatique",
+        "url": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+        "format": "pdf",
+        "page_range": "p. 50-81"
+      },
+      {
+        "theme": "retraites",
+        "title": "Renaissance – « Bâtissons un nouveau modèle de retraite » (pétition, en ligne depuis 2025)",
+        "url": "https://parti-renaissance.fr/petitions/refonder-notre-systeme-de-retraite",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "numerique",
+        "title": "Renaissance – « Régulation des écrans et des réseaux sociaux chez les adolescents » (pétition, en ligne depuis 2025)",
+        "url": "https://parti-renaissance.fr/petitions/regulation-ecrans-et-rs",
+        "format": "page_web",
+        "page_range": null
       }
     ],
     "archive_url": "http://web.archive.org/web/20261014160050/https://attalpresident.fr/programme"
@@ -157,7 +221,23 @@
     {
       "label": "Public Sénat – Premier grand meeting de Gabriel Attal (30/05/2026)",
       "url": "https://www.publicsenat.fr/actualites/politique/un-an-pour-convaincre-pour-son-premier-grand-meeting-gabriel-attal-mise-sur-lespoir-et-joue-sa-difference-avec-edouard-philippe"
+    },
+    {
+      "label": "Discours de Gabriel Attal « Bâtir les États-Unis d’Europe » (Reims, 17/09/2026, PDF)",
+      "url": "https://doc.parti.re/2026/Discours_Europe.pdf"
+    },
+    {
+      "label": "Lettre de Gabriel Attal aux Français sur les finances publiques (PDF, octobre 2026)",
+      "url": "https://doc.parti.re/2026/Lettre-finances-publiques.pdf"
+    },
+    {
+      "label": "Renaissance – Conventions thématiques « Nouvelle donne économique et climatique » (21/07/2025, PDF)",
+      "url": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf"
+    },
+    {
+      "label": "Renaissance – Convention « Une République ferme, une France apaisée » (26/05/2025, PDF)",
+      "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf"
     }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

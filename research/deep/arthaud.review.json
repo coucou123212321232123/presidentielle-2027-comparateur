@@ -1,0 +1,17 @@
+[
+  {
+    "measure_id": "arthaud-energie-03",
+    "decision": "acceptee",
+    "motif": "Acceptée : les deux extraits figurent sur la page « Qui sommes-nous ? – Écologie » de Lutte ouvrière (200), page présentée par nathalie-arthaud.info comme « Nos positions » ; reformulation fidèle, attribution au parti indiquée dans source_title, aucun indicateur nucléaire ajouté (pas de valeur littérale)."
+  },
+  {
+    "measure_id": "arthaud-economie-01 (revérification, contenu inchangé)",
+    "decision": "acceptee",
+    "motif": "Acceptée : « Nous défendrons le SMIC à 2 200 € nets » confirmé dans le discours du 26 septembre 2026 et « le Smic à 2 200 € » dans l'éditorial signé du 12/10/2026 ; seul last_verified a changé ; indicateur littéral."
+  },
+  {
+    "measure_id": "program.note / program.thematic_links",
+    "decision": "acceptee",
+    "motif": "Acceptée : formule « programme révolutionnaire à imposer par les luttes, pas un programme électoral » confirmée p. 26 du PDF ; titres et plages de pages des sections de la brochure conformes (PDF 10, 15, 20) ; nathalie-arthaud.info renvoie bien « Nos positions » vers les pages « Qui sommes-nous ? » ; éditorial daté du 12/10/2026 ; toutes les URL ajoutées répondent 200."
+  }
+]

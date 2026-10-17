@@ -14,7 +14,7 @@
       "key": "smic_net",
       "value": 2200
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-economie-02",
@@ -27,7 +27,7 @@
     "source_date": "2026-06-26",
     "source_page": "p. 9 (PDF p. 11)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-economie-03",
@@ -40,7 +40,7 @@
     "source_date": "2026-06-26",
     "source_page": "p. 12 (PDF p. 14)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-economie-04",
@@ -53,7 +53,7 @@
     "source_date": "2026-06-26",
     "source_page": "p. 12 (PDF p. 14)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-fiscalite-01",
@@ -66,7 +66,7 @@
     "source_date": "2026-06-26",
     "source_page": "p. 12 (PDF p. 14)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-fiscalite-02",
@@ -105,7 +105,7 @@
     "source_date": "2026-06-26",
     "source_page": "p. 10 (PDF p. 12)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-emploi-03",
@@ -144,7 +144,7 @@
     "source_date": "2026-06-26",
     "source_page": "p. 5 (PDF p. 7)",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-energie-01",
@@ -170,7 +170,20 @@
     "source_date": "2026-09-29",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "arthaud-energie-03",
+    "theme": "energie",
+    "title": "Nucléaire : pas d'opposition à la technique, critique de sa gestion capitaliste",
+    "description": "Dans sa présentation de ses positions, Lutte ouvrière indique ne pas confondre la lutte contre les usages de techniques comme l'énergie nucléaire avec la lutte contre ces techniques elles-mêmes, et attribue le principal danger du nucléaire à la recherche du profit des entreprises qui l'exploitent. Le texte ne formule pas de proposition chiffrée sur le parc nucléaire.",
+    "source_type": "officiel",
+    "source_title": "Lutte ouvrière – « Qui sommes-nous ? » : Écologie (page de positions du parti de la candidate)",
+    "source_url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-ecologie",
+    "source_date": null,
+    "source_page": null,
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-ecologie-01",
@@ -248,7 +261,7 @@
     "source_date": "2026-10-04",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-sante-02",
@@ -274,7 +287,7 @@
     "source_date": "2026-10-04",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-immigration-01",
@@ -287,7 +300,7 @@
     "source_date": "2026-06-26",
     "source_page": "p. 14 (PDF p. 16)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-immigration-02",
@@ -300,7 +313,7 @@
     "source_date": "2026-06-26",
     "source_page": "p. 14 (PDF p. 16)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-immigration-03",
@@ -391,7 +404,7 @@
     "source_date": "2026-06-26",
     "source_page": "p. 16 (PDF p. 18)",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-numerique-01",
@@ -404,7 +417,7 @@
     "source_date": "2026-09-29",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-services_publics-01",
@@ -417,7 +430,7 @@
     "source_date": "2026-06-26",
     "source_page": "p. 10 (PDF p. 12)",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-services_publics-02",
@@ -456,7 +469,7 @@
     "source_date": "2026-10-04",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "arthaud-famille-02",

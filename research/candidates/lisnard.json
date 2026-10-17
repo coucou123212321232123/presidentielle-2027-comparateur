@@ -31,7 +31,10 @@
     "Président du Palais des festivals et des congrès de Cannes (à partir de 2001)"
   ],
   "key_people": [
-    { "name": "Alexandra Martin", "role": "Secrétaire générale de Nouvelle Énergie" }
+    {
+      "name": "Alexandra Martin",
+      "role": "Secrétaire générale de Nouvelle Énergie"
+    }
   ],
   "slogan": null,
   "slogan_source_url": null,
@@ -46,11 +49,26 @@
   "website": "https://www.unenouvelleenergie.fr/",
   "news_url": "https://www.unenouvelleenergie.fr/actualites/",
   "socials": [
-    { "platform": "X", "url": "https://x.com/nouv_energie" },
-    { "platform": "Facebook", "url": "https://www.facebook.com/Nouv.Energie" },
-    { "platform": "Instagram", "url": "https://www.instagram.com/nouv_energie/" },
-    { "platform": "YouTube", "url": "https://www.youtube.com/@david_lisnard" },
-    { "platform": "LinkedIn", "url": "https://www.linkedin.com/company/nouvelle-energie-pour-la-france/" }
+    {
+      "platform": "X",
+      "url": "https://x.com/nouv_energie"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/Nouv.Energie"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/nouv_energie/"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@david_lisnard"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/company/nouvelle-energie-pour-la-france/"
+    }
   ],
   "program": {
     "title": "Notre programme (Nouvelle Énergie)",
@@ -58,25 +76,124 @@
     "format": "page_web",
     "published_date": null,
     "status": "partiel",
-    "note": "Programme publié sur le site de Nouvelle Énergie : trois grands axes (pages non datées), cinq pages thématiques (éducation, sécurité, santé, agriculture, immigration), des carnets thématiques PDF (santé, mai 2026 ; agriculture, juin 2026), un « Livre noir de la bureaucratie » (avril 2026), le discours de Bayeux (17 juin 2026) et un espace « Questions » mis à jour le 3 octobre 2026. Le site de campagne lisnard2027.fr indique qu'il « ouvre prochainement ». Aucun document programmatique unique et complet n'est publié.",
+    "note": "Programme publié sur le site de Nouvelle Énergie : trois grands axes (« Être maître de notre destin », « Réussir une nouvelle ambition française », « Générer un renouveau civique », pages non datées), cinq pages thématiques (agriculture, éducation, immigration, santé, sécurité), deux carnets thématiques PDF (santé, mai 2026 ; agriculture, juin 2026), « Le livre noir – En finir avec la bureaucratie » (avril 2026), le discours de Bayeux (17 juin 2026) et un espace « Questions » d'environ 115 fiches sourcées mis à jour le 16 octobre 2026. Le site de campagne lisnard2027.fr indique toujours qu'il « ouvre prochainement » (16/10/2026). Aucun document programmatique unique et complet n'est publié ; certaines positions renvoient au livre « Ainsi va la France » (non consultable en ligne). Une page programme non datée mentionne un âge légal de 65 ans et un regroupement familial « conditionné », alors que les fiches « Questions » d'octobre 2026 écartent une nouvelle borne d'âge et évoquent la fin du regroupement familial.",
     "thematic_links": [
-      { "theme": "sante", "title": "Les Carnets – Santé (2026)", "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf", "format": "pdf", "page_range": "p. 7-10" },
-      { "theme": "agriculture", "title": "Les Carnets – Agriculture (2026)", "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf", "format": "pdf", "page_range": "p. 8-10" },
-      { "theme": "institutions", "title": "Discours de Bayeux – 17 juin 2026", "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/Discours-de-David-Lisnard-a-Bayeux-17062026.pdf", "format": "pdf", "page_range": "p. 8-12" },
-      { "theme": "services_publics", "title": "Le livre noir – En finir avec la bureaucratie", "url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf", "format": "pdf", "page_range": "p. 6-12, 23-24" },
-      { "theme": "education", "title": "Programme – École", "url": "https://www.unenouvelleenergie.fr/notre-programme/education/", "format": "page_web", "page_range": null },
-      { "theme": "securite", "title": "Programme – Sécurité", "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/", "format": "page_web", "page_range": null },
-      { "theme": "immigration", "title": "Programme – Immigration", "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/", "format": "page_web", "page_range": null }
+      {
+        "theme": "sante",
+        "title": "Les Carnets – Santé (2026)",
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf",
+        "format": "pdf",
+        "page_range": "p. 2-10"
+      },
+      {
+        "theme": "agriculture",
+        "title": "Les Carnets – Agriculture (2026)",
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf",
+        "format": "pdf",
+        "page_range": "p. 2-10"
+      },
+      {
+        "theme": "institutions",
+        "title": "Discours de Bayeux – 17 juin 2026",
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/Discours-de-David-Lisnard-a-Bayeux-17062026.pdf",
+        "format": "pdf",
+        "page_range": "p. 2-14"
+      },
+      {
+        "theme": "services_publics",
+        "title": "Le livre noir – En finir avec la bureaucratie",
+        "url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf",
+        "format": "pdf",
+        "page_range": "p. 2-24"
+      },
+      {
+        "theme": "education",
+        "title": "Programme – École",
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "securite",
+        "title": "Programme – Sécurité",
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "immigration",
+        "title": "Programme – Immigration",
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "agriculture",
+        "title": "Programme – Agriculture",
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "sante",
+        "title": "Programme – Santé",
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "economie",
+        "title": "Programme – Réussir une nouvelle ambition française",
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "institutions",
+        "title": "Programme – Être maître de notre destin",
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "ecologie",
+        "title": "Programme – Générer un renouveau civique",
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+        "format": "page_web",
+        "page_range": null
+      }
     ],
     "archive_url": null
   },
   "sources": [
-    { "label": "Wikipédia – David Lisnard", "url": "https://fr.wikipedia.org/wiki/David_Lisnard" },
-    { "label": "Wikipédia – Nouvelle Énergie", "url": "https://fr.wikipedia.org/wiki/Nouvelle_%C3%89nergie" },
-    { "label": "Public Sénat – Présidentielle 2027 : David Lisnard annonce sa candidature et quitte officiellement LR (1er avril 2026)", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr" },
-    { "label": "Nouvelle Énergie – David Lisnard est-il candidat à la présidentielle 2027 ? (mis à jour le 3 octobre 2026)", "url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-candidat-a-la-presidentielle-2027/" },
-    { "label": "Nouvelle Énergie – Notre programme", "url": "https://www.unenouvelleenergie.fr/notre-programme/" },
-    { "label": "Site de campagne David Lisnard 2027 (page d'attente)", "url": "https://www.lisnard2027.fr/" }
+    {
+      "label": "Wikipédia – David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "label": "Wikipédia – Nouvelle Énergie",
+      "url": "https://fr.wikipedia.org/wiki/Nouvelle_%C3%89nergie"
+    },
+    {
+      "label": "Public Sénat – Présidentielle 2027 : David Lisnard annonce sa candidature et quitte officiellement LR (1er avril 2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr"
+    },
+    {
+      "label": "Nouvelle Énergie – David Lisnard est-il candidat à la présidentielle 2027 ? (mis à jour le 3 octobre 2026)",
+      "url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-candidat-a-la-presidentielle-2027/"
+    },
+    {
+      "label": "Nouvelle Énergie – Notre programme",
+      "url": "https://www.unenouvelleenergie.fr/notre-programme/"
+    },
+    {
+      "label": "Site de campagne David Lisnard 2027 (page d'attente)",
+      "url": "https://www.lisnard2027.fr/"
+    },
+    {
+      "label": "Nouvelle Énergie – Questions (fiches mises à jour le 16 octobre 2026)",
+      "url": "https://www.unenouvelleenergie.fr/questions/"
+    }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

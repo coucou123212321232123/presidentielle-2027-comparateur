@@ -1,0 +1,470 @@
+[
+  {
+    "action": "update",
+    "measure_id": "villepin-economie-01",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "+200 € nets par mois en moyenne, +100 € au Smic"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+        "page": null,
+        "excerpt": "non contributives (famille, santé, handicap) vers la CSG"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "villepin-economie-02",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "1 200 à 1 500 Md€ d’actifs publics dans une caisse inaliénable : chaque Français actionnaire."
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Retour des autoroutes en régie publique à l’échéance des concessions."
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "villepin-retraites-03",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "un livret universel ouvert à la naissance, abondé par les droits de succession"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/protection-sociale.html",
+        "page": null,
+        "excerpt": "avec des intérêts à 5 % garantis par l’État"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "villepin-fiscalite-01",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Toutes supprimées par paliers sur cinq ans"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "villepin-fiscalite-02",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "majorité des trois cinquièmes pour créer un impôt ou une niche"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Neuf impôts, un code de quarante pages"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-economie-03",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "transmission d’entreprise sans droits de succession de son vivant"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "abolition des impôts de production"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-economie-04",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Industrie de 10 à 14 % de la valeur ajoutée, R&D à 3 % du PIB"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "crédit d’impôt recherche réservé à la France"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-economie-05",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Un Plan sous l’autorité du Président : nouveau nucléaire, IA souveraine, sûre et sobre."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-fiscalite-04",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Dès 2,2 M€, fortement progressif."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-fiscalite-05",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Aucun droit sous 1 M€, droits progressifs au-delà."
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Redistribution des droits de succession aux enfants nés dans l’année."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-fiscalite-06",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Une taxe locale sur le foncier nu"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-fiscalite-07",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/la-dette-cest-la-defaite.html",
+        "page": null,
+        "excerpt": "pour plus de 120 Mds€ à l’horizon 2031"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-energie-03",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Contrats universels au coût réel de production, fin des quasi-taxes : −15 % sur la facture."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-energie-04",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "6 EPR2, éolien en mer industrialisé, électrification massive des usages"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-energie-05",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/canicule-et-nos-villes.html",
+        "page": null,
+        "excerpt": "Je suis favorable à une bande de fluctuation des prix de l’essence et du diesel."
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/canicule-et-nos-villes.html",
+        "page": null,
+        "excerpt": "Ceux-ci ne monteraient pas au-delà de 2,50 euros"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-ecologie-04",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "1 million de voitures électriques en leasing social, 1 million de pompes à chaleur, dividende climatique."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-ecologie-05",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/nous-sommes-cernes-par-les-flammes.html",
+        "page": null,
+        "excerpt": "une véritable stratégie nationale « France habitable 2050 »"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/nous-sommes-cernes-par-les-flammes.html",
+        "page": null,
+        "excerpt": "une Assemblée du Futur réorganisant le fonctionnement du Conseil Economique"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-ecologie-06",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/canicule-et-nos-villes.html",
+        "page": null,
+        "excerpt": "Je crois à la nécessité d’un droit au répit"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/canicule-et-nos-villes.html",
+        "page": null,
+        "excerpt": "Il faudrait 1,4 milliard annuel jusqu’en 2050 pour être à la hauteur."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-logement-02",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "500 000 logements par an, coopératives de logement social et banque publique du logement"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "garantie locative universelle, justice du logement en trois mois"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-emploi-04",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/canicule-et-nos-villes.html",
+        "page": null,
+        "excerpt": "une grande conférence sociale de l’adaptation climatique du travail"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-services_publics-04",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "liaison toutes les heures entre chaque préfecture et ses sous-préfectures, à prix unique national"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-services_publics-05",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Une compétence, une collectivité, un impôt voté localement"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-institutions-04",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Des codes divisés par quatre, fin des surtranspositions."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-institutions-05",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/prenons-au-serieux-ce-que-dit-la-jeunesse-de-france.html",
+        "page": null,
+        "excerpt": "ouvrir le débat sur l’élargissement du droit de vote dès 16 ans"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/prenons-au-serieux-ce-que-dit-la-jeunesse-de-france.html",
+        "page": null,
+        "excerpt": "une Convention citoyenne de la jeunesse"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-institutions-06",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/risque-identitaire-territoires.html",
+        "page": null,
+        "excerpt": "mon malaise face au projet de loi constitutionnelle sur le statut de la Corse"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/risque-identitaire-territoires.html",
+        "page": null,
+        "excerpt": "une autonomie de responsabilité, non une autonomie d’identité"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-europe-04",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/la-dette-cest-la-defaite.html",
+        "page": null,
+        "excerpt": "pour des euro-obligations permettant d’adoucir les trajectoires de réduction des déficits"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/la-dette-cest-la-defaite.html",
+        "page": null,
+        "excerpt": "Je plaide également pour une politique de taux différenciés"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-international-04",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/iran-guerre-illegale-tribune.html",
+        "page": null,
+        "excerpt": "Pas une coalition militaire, mais une coalition de garde-fous."
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/iran-guerre-illegale-tribune.html",
+        "page": null,
+        "excerpt": "Une coalition aux Nations unies pour porter la voix du droit international."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-international-05",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/guerre-americaine-paix-mondiale.html",
+        "page": null,
+        "excerpt": "un bien commun qui n’appelle pas la domination mais la garantie collective"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/guerre-americaine-paix-mondiale.html",
+        "page": null,
+        "excerpt": "donner à l’Agence Internationale de l’Energie un mandat de maitrise des prix globaux"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-international-06",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/un-genocide-a-gaza.html",
+        "page": null,
+        "excerpt": "la suspension immédiate de l’accord d’association entre l’Union européenne et Israël"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/un-genocide-a-gaza.html",
+        "page": null,
+        "excerpt": "en appliquant ses mandats d’arrêt"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-securite-02",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/la-lutte-antiterroriste.html",
+        "page": null,
+        "excerpt": "Il faut garantir une stabilité juridique qui évite l'inflation des lois d’exception"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/la-lutte-antiterroriste.html",
+        "page": null,
+        "excerpt": "Le Parquet national antiterroriste est une réussite"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-securite-03",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/prenons-au-serieux-ce-que-dit-la-jeunesse-de-france.html",
+        "page": null,
+        "excerpt": "Le premier tient au maintien de l’ordre, qui doit viser d’abord la sécurité des lycéens"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "villepin-famille-02",
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/articles/le-scandale-de-la-pauvrete.html",
+        "page": null,
+        "excerpt": "centrer l’éducation prioritaire sur les enfants pauvres plutôt que sur des zonages abstraits"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/articles/le-scandale-de-la-pauvrete.html",
+        "page": null,
+        "excerpt": "Il faut une politique ciblée pour les femmes et notamment les familles monoparentales"
+      }
+    ]
+  },
+  {
+    "action": "program",
+    "measure_id": null,
+    "evidence": [
+      {
+        "url": "https://lafrancehumaniste.fr/france2027.html",
+        "page": null,
+        "excerpt": "Le programme · 20 propositions"
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/france2027.html",
+        "page": null,
+        "excerpt": "Les chantiers sont ouverts. Les fondements sont posés."
+      },
+      {
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "page": null,
+        "excerpt": "Vingt idées pour abolir les rentes, faire que le travail paye"
+      }
+    ]
+  }
+]

@@ -1,0 +1,627 @@
+[
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-economie-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "réserver une large proportion des achats publics (75 % à terme)"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-economie-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "instaurant un taux supérieur à l’inflation pour le Livret A"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-fiscalite-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "Supprimer les droits de succession sur la résidence principale"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-fiscalite-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "Créant une taxe sur l’exploitation des données personnelles"
+      },
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "Imposant le bénéfice consolidé des multinationales au prorata du chiffre d’affaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-fiscalite-06",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "division par 2 de l’IS pour les bénéfices réinvestis en France"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-emploi-03",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "Exonérer de charges patronales pendant 5 ans le CDI d’un chômeur de longue durée"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-emploi-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "l’ensemble des prestations sociales ne dépasse pas 70 % du SMIC net"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-emploi-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "baisser le taux d’IS de 1 % pour 2 % d’actionnariat salarié supplémentaire"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-retraites-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/agriculture/",
+        "page": null,
+        "excerpt": "en alignant les régimes de retraite agricole sur le régime général"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-energie-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "Réduire de 20 % le prix du gaz"
+      },
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "nous réautoriserons les importations de gaz russe"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-ecologie-03",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/environnement-energie/",
+        "page": null,
+        "excerpt": "objectif à court terme 30 % des eaux française en AMP dont 15 %"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-ecologie-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/environnement-energie/",
+        "page": null,
+        "excerpt": "Rendre obligatoire la vidéosurveillance dans tous les abattoirs"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-agriculture-03",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/agriculture/",
+        "page": null,
+        "excerpt": "Supprimer les cotisations sociales agricoles qui pèsent sur nos exploitations"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-agriculture-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/agriculture/",
+        "page": null,
+        "excerpt": "Réserver aux producteurs français 50% puis progressivement 80% des commandes publiques"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-agriculture-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/agriculture/",
+        "page": null,
+        "excerpt": "garantissant 50% des prêts bancaires d’installation par l’Etat"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-agriculture-06",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+        "page": null,
+        "excerpt": "Mettre en place des prix garantis au sein d’un tunnel « maximum-minimum »."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-logement-03",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "page": null,
+        "excerpt": "Créer un Prêt Accession à la Propriété (PAP) à taux d’intérêt préférentiel"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-logement-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "page": null,
+        "excerpt": "Mettre en place une garantie universelle des loyers impayés"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-logement-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "page": null,
+        "excerpt": "Réguler les locations de tourisme type Airbnb"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-sante-03",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/sante/",
+        "page": null,
+        "excerpt": "afin d’atteindre 12 000 praticiens par an"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-sante-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/sante/",
+        "page": null,
+        "excerpt": "Doubler le nombre de lits de réanimation (pour atteindre 10 000) en cinq ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-sante-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/sante/",
+        "page": null,
+        "excerpt": "Supprimer le système des ARS et les remplacer par des directions départementales"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-education-03",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "page": null,
+        "excerpt": "un examen sur le modèle du certificat d’études"
+      },
+      {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "page": null,
+        "excerpt": "Réserver l’accès au lycée à l’obtention du brevet."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-education-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "page": null,
+        "excerpt": "Augmenter de 15 % en 4 ans les salaires nets des professeurs."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-education-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "page": null,
+        "excerpt": "Conditionnement du versement des allocations familiales à l’assiduité scolaire."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-education-06",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "page": null,
+        "excerpt": "Revenir aux filières générales précédentes (S, ES, L)."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-securite-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/justice/",
+        "page": null,
+        "excerpt": "Abroger la loi du 23 mars 2019 de laxisme judiciaire"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-securite-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/justice/",
+        "page": null,
+        "excerpt": "Abroger l’ordonnance de 1945 concernant la justice des mineurs."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-securite-06",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/justice/",
+        "page": null,
+        "excerpt": "faire passer le budget de la justice de 10,1 milliards à 15 milliards"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-immigration-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+        "page": null,
+        "excerpt": "Rétablir le délit de séjour irrégulier puni d’emprisonnement ferme."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-immigration-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+        "page": null,
+        "excerpt": "Limiter le droit d’asile aux personnes le demandant directement aux frontières"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-immigration-06",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+        "page": null,
+        "excerpt": "Instaurer une double peine automatique quelle que soit la situation familiale."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-institutions-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+        "page": null,
+        "excerpt": "Rendre le référendum obligatoire pour toute modification affectant la Constitution"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-institutions-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+        "page": null,
+        "excerpt": "Rendre aux communes leur autonomie en abrogeant la loi NOTRe de 2015."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-institutions-06",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+        "page": null,
+        "excerpt": "Imposer un casier judiciaire vierge obligatoire pour tous les élus."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-europe-03",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+        "page": null,
+        "excerpt": "Constitutionnaliser l’argent liquide pour acter définitivement l’anonymat des dépenses."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-europe-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+        "page": null,
+        "excerpt": "Supprimer le « Digital Services Act »"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-europe-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+        "page": null,
+        "excerpt": "Nous mettrons fin au Pacte européen sur la migration et l’asile"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-europe-06",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "Rapatrier le pouvoir monétaire, bancaire et financier en France"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-international-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/defense/",
+        "page": null,
+        "excerpt": "augmenter notre budget de défense pour atteindre le chiffre raisonnable de 2,5% du PIB"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-international-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/defense/",
+        "page": null,
+        "excerpt": "prévoyant la construction de deux portes avions"
+      },
+      {
+        "url": "https://www.debout-la-france.fr/projet/defense/",
+        "page": null,
+        "excerpt": "Passer de 15 à 20 frégates de premier rang"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-international-06",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+        "page": null,
+        "excerpt": "Concentrer l’aide française au développement sur les pays francophones et francisant"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-numerique-03",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+        "page": null,
+        "excerpt": "Créer un label « IA Made in France »"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-numerique-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+        "page": null,
+        "excerpt": "Rendre obligatoire une domiciliation fiscale en France des agences des géants du numérique"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-numerique-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+        "page": null,
+        "excerpt": "Créer un visa spécial « IA et Tech »"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-culture-03",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+        "page": null,
+        "excerpt": "Proposer une loi renforcée de protection du français"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-culture-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+        "page": null,
+        "excerpt": "Renforcer les partenariats entre RFI, France 24 et TV5 Monde"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-outre_mer-03",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/outre-mer/",
+        "page": null,
+        "excerpt": "Pérenniser le ministère de la Mer et des Outre-mer"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-outre_mer-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/outre-mer/",
+        "page": null,
+        "excerpt": "Le remplacer par une TVA pour les produits importés"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-outre_mer-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/outre-mer/",
+        "page": null,
+        "excerpt": "Remettre à niveau les réseaux d’eau potable"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-services_publics-03",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "page": null,
+        "excerpt": "Supprimer progressivement les agences d’État : ADEME, ARS, ANAH, AFITF, INERIS, VNF"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-famille-04",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/handicap/",
+        "page": null,
+        "excerpt": "Revaloriser l’Allocation aux Adultes Handicapés (AAH) d’environ 300 euros"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-famille-05",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/handicap/",
+        "page": null,
+        "excerpt": "Accorder une part fiscale complète à tout foyer ayant un enfant en situation de handicap"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "dupont-aignan-famille-06",
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/projet/combat-pour-les-femmes/",
+        "page": null,
+        "excerpt": "Créer des tribunaux dédiés aux affaires de violences conjugales."
+      }
+    ]
+  },
+  {
+    "action": "program",
+    "measure_id": null,
+    "evidence": [
+      {
+        "url": "https://www.debout-la-france.fr/notre-projet/",
+        "page": null,
+        "excerpt": "Nos équipes travaillent actuellement à l’actualisation de notre programme"
+      }
+    ]
+  }
+]

@@ -33,9 +33,18 @@
     "Conseiller régional de Haute-Normandie (2004-2008)"
   ],
   "key_people": [
-    { "name": "Christophe Béchu", "role": "Codirecteur de campagne ; à la tête d'Horizons depuis le 1er octobre 2026" },
-    { "name": "Gilles Boyer", "role": "Codirecteur de campagne" },
-    { "name": "Marie Guévenoux", "role": "Codirectrice de campagne" }
+    {
+      "name": "Christophe Béchu",
+      "role": "Codirecteur de campagne ; à la tête d'Horizons depuis le 1er octobre 2026"
+    },
+    {
+      "name": "Gilles Boyer",
+      "role": "Codirecteur de campagne"
+    },
+    {
+      "name": "Marie Guévenoux",
+      "role": "Codirectrice de campagne"
+    }
   ],
   "slogan": null,
   "slogan_source_url": null,
@@ -49,10 +58,22 @@
   "website": "https://www.edouardphilippe.fr/",
   "news_url": "https://www.edouardphilippe.fr/actualites",
   "socials": [
-    { "platform": "X", "url": "https://x.com/EPhilippe_LH" },
-    { "platform": "Instagram", "url": "https://www.instagram.com/edouardphilippelh/" },
-    { "platform": "Facebook", "url": "https://www.facebook.com/edouardphilippelh" },
-    { "platform": "YouTube", "url": "https://www.youtube.com/@EdouardPhilippe" }
+    {
+      "platform": "X",
+      "url": "https://x.com/EPhilippe_LH"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/edouardphilippelh/"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/edouardphilippelh"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@EdouardPhilippe"
+    }
   ],
   "program": {
     "title": "Les priorités – Avec Édouard 2027",
@@ -60,25 +81,119 @@
     "format": "page_web",
     "published_date": null,
     "status": "partiel",
-    "note": "Pas de programme complet publié en document unique au 15 octobre 2026. Le site de campagne présente quatre pages de « priorités » ; d'après les captures de la Wayback Machine, leur liste détaillée de mesures a été mise en ligne entre le 5 et le 14 octobre 2026 (les versions de juillet à début octobre ne comportaient que les intitulés). Des annonces complémentaires sont faites par voie d'interviews (France 2, 8 octobre 2026) et de vidéos (retraites, 29 septembre 2026).",
+    "note": "Pas de programme complet publié en document unique au 16 octobre 2026. Le site de campagne présente quatre pages de « priorités » (premières orientations d’un programme annoncé comme « massif ») ; d’après les captures de la Wayback Machine, leur liste détaillée de mesures a été mise en ligne entre le 5 et le 14 octobre 2026. Des annonces complémentaires sont faites par interviews (France 2, 8 octobre 2026), vidéos (retraites, 29 septembre 2026), discours (Reims, 10 mai ; Adidas Arena, 5 juillet 2026) et publications d’Horizons (plan contre le narcotrafic, tribune aux entrepreneurs). Les « Notes d’Horizons » du pôle Idées (dont une sur la culture et une sur l’économie bleue en outre-mer) sont adressées par courriel aux adhérents.",
     "thematic_links": [
-      { "theme": "securite", "title": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "format": "page_web", "page_range": null },
-      { "theme": "education", "title": "Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "format": "page_web", "page_range": null },
-      { "theme": "economie", "title": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "format": "page_web", "page_range": null },
-      { "theme": "ecologie", "title": "Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "format": "page_web", "page_range": null },
-      { "theme": "securite", "title": "Le plan d'Édouard Philippe contre le narcotrafic", "url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/", "format": "page_web", "page_range": null }
+      {
+        "theme": "securite",
+        "title": "Pour une France plus sûre",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "education",
+        "title": "Pour une France plus attentive à ses enfants",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "economie",
+        "title": "Pour une France plus prospère",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "ecologie",
+        "title": "Pour une France plus conquérante",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "securite",
+        "title": "Le plan d'Édouard Philippe contre le narcotrafic",
+        "url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "fiscalite",
+        "title": "« Ma proposition aux entrepreneurs, pour une politique économique de prospérité » (tribune, novembre 2025)",
+        "url": "https://horizonsleparti.fr/ma-proposition-aux-entrepreneurs/",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "retraites",
+        "title": "Retraites : la réforme que je propose aux Français (29 septembre 2026)",
+        "url": "https://www.edouardphilippe.fr/actualites/retraites-la-reforme-que-je-propose-aux-francais",
+        "format": "video",
+        "page_range": null
+      },
+      {
+        "theme": "famille",
+        "title": "Trois principales annonces d’Édouard Philippe à l’Heure de vérité (8 octobre 2026)",
+        "url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "education",
+        "title": "Discours du meeting de l’Adidas Arena (5 juillet 2026, transcription)",
+        "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena",
+        "format": "page_web",
+        "page_range": null
+      }
     ],
-    "archive_url": null
+    "archive_url": "http://web.archive.org/web/20261015153859/https://www.edouardphilippe.fr/"
   },
   "sources": [
-    { "label": "Wikipédia – Édouard Philippe", "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe" },
-    { "label": "Wikipédia – Horizons (parti politique)", "url": "https://fr.wikipedia.org/wiki/Horizons_(parti_politique)" },
-    { "label": "France 3 Normandie – « Je serai candidat à la prochaine élection présidentielle » (3 septembre 2024)", "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/je-serai-candidat-a-la-prochaine-election-presidentielle-edouard-philippe-l-ancien-premier-ministre-et-maire-du-havre-officialise-sa-candidature-3026366.html" },
-    { "label": "Public Sénat – Édouard Philippe met en place son organigramme (mai 2026)", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-edouard-philippe-met-en-place-son-organigramme-pour-elargir-au-maximum-le-socle-et-depasser-horizons" },
-    { "label": "Avec Édouard 2027 – Le comité de campagne est lancé ! (8 septembre 2026)", "url": "https://www.edouardphilippe.fr/actualites/le-comite-de-campagne-est-lance" },
-    { "label": "Horizons – Discours au conseil national de Reims (10 mai 2026)", "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-du-conseil-national-a-reims-10-mai-2026/" },
-    { "label": "Horizons – Discours au meeting de l'Adidas Arena (5 juillet 2026)", "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/" },
-    { "label": "Wikimedia Commons – Edouard Philippe 3x4 crop.jpg", "url": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg" }
+    {
+      "label": "Wikipédia – Édouard Philippe",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "label": "Wikipédia – Horizons (parti politique)",
+      "url": "https://fr.wikipedia.org/wiki/Horizons_(parti_politique)"
+    },
+    {
+      "label": "France 3 Normandie – « Je serai candidat à la prochaine élection présidentielle » (3 septembre 2024)",
+      "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/je-serai-candidat-a-la-prochaine-election-presidentielle-edouard-philippe-l-ancien-premier-ministre-et-maire-du-havre-officialise-sa-candidature-3026366.html"
+    },
+    {
+      "label": "Public Sénat – Édouard Philippe met en place son organigramme (mai 2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-edouard-philippe-met-en-place-son-organigramme-pour-elargir-au-maximum-le-socle-et-depasser-horizons"
+    },
+    {
+      "label": "Avec Édouard 2027 – Le comité de campagne est lancé ! (8 septembre 2026)",
+      "url": "https://www.edouardphilippe.fr/actualites/le-comite-de-campagne-est-lance"
+    },
+    {
+      "label": "Horizons – Discours au conseil national de Reims (10 mai 2026)",
+      "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-du-conseil-national-a-reims-10-mai-2026/"
+    },
+    {
+      "label": "Horizons – Discours au meeting de l'Adidas Arena (5 juillet 2026)",
+      "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/"
+    },
+    {
+      "label": "Wikimedia Commons – Edouard Philippe 3x4 crop.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg"
+    },
+    {
+      "label": "Horizons – Le plan d’Édouard Philippe contre le narcotrafic (21/05/2026)",
+      "url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/"
+    },
+    {
+      "label": "Horizons – Tribune « Ma proposition aux entrepreneurs » (05/11/2025)",
+      "url": "https://horizonsleparti.fr/ma-proposition-aux-entrepreneurs/"
+    },
+    {
+      "label": "Avec Édouard 2027 – Discours de l’Adidas Arena (05/07/2026)",
+      "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena"
+    }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

@@ -35,25 +35,29 @@ export function CandidateCard({ candidate }: { candidate: Candidate }) {
                 {fullName(candidate)}
               </Link>
             </h2>
-            <p className="mt-0.5 text-sm text-ink-2">{candidate.party}</p>
+            <p className="mt-0.5 line-clamp-2 text-sm text-ink-2" title={candidate.party}>
+              {candidate.party}
+            </p>
             <div className="mt-2">
               <StatusBadge status={candidate.status} />
             </div>
           </div>
         </div>
 
-        {candidate.slogan && <p className="mt-4 font-display text-[15px] italic leading-snug text-ink-2">« {candidate.slogan} »</p>}
+        {candidate.slogan && (
+          <p className="mt-4 line-clamp-2 font-display text-[15px] italic leading-snug text-ink-2">« {candidate.slogan} »</p>
+        )}
 
-        <div className="mt-5">
+        {/* Échelle et actions ancrées en bas : alignées d'une carte à l'autre quelle que soit la hauteur de l'en-tête. */}
+        <div className="mt-auto pt-5">
           <PositionScale candidate={candidate} />
-        </div>
-
-        <div className="mt-auto flex items-center justify-between gap-2 pt-5">
-          <ProgramButton candidate={candidate} className="relative z-10" />
-          <span className="inline-flex items-center gap-1 text-xs font-medium text-muted transition-colors group-hover:text-ink">
-            {plural(measures.length, 'mesure', 'mesures')} · {plural(themeCount, 'thème', 'thèmes')}
-            <ArrowRight className="size-3.5 transition-transform group-hover:translate-x-0.5" aria-hidden="true" />
-          </span>
+          <div className="mt-4 flex flex-wrap items-center justify-between gap-2">
+            <ProgramButton candidate={candidate} className="relative z-10 whitespace-nowrap" />
+            <span className="inline-flex items-center gap-1 whitespace-nowrap text-xs font-medium text-muted transition-colors group-hover:text-ink">
+              {plural(measures.length, 'mesure', 'mesures')} · {plural(themeCount, 'thème', 'thèmes')}
+              <ArrowRight className="size-3.5 transition-transform group-hover:translate-x-0.5" aria-hidden="true" />
+            </span>
+          </div>
         </div>
       </div>
     </motion.article>

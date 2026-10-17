@@ -14,7 +14,7 @@
       "key": "smic_net",
       "value": 1600
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-economie-02",
@@ -27,7 +27,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 40",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-economie-03",
@@ -40,7 +40,46 @@
     "source_date": "2026-09-23",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-economie-04",
+    "theme": "economie",
+    "title": "Orienter la commande publique vers le « Fabriqué en France »",
+    "description": "Le projet prévoit d'orienter la commande publique française avec des critères durables et souverains et un indice d'achat local, et de créer des fonds régionaux permettant aux Régions d'entrer au capital d'entreprises clés.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=14",
+    "source_date": "2025-06-23",
+    "source_page": "p. 14",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-economie-05",
+    "theme": "economie",
+    "title": "Limiter les écarts de salaires au sein d'une même entreprise",
+    "description": "Le projet prévoit de travailler à limiter les écarts de salaires dans une même entreprise, en s'appuyant sur une proposition de la Confédération européenne des syndicats.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=40",
+    "source_date": "2025-06-23",
+    "source_page": "p. 40",
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-economie-06",
+    "theme": "economie",
+    "title": "« Taxe Amazon » pour financer le commerce de proximité",
+    "description": "Soutenir le commerce de proximité en zone rurale et les TPE/PME, et travailler à une « taxe Amazon » sur les grandes plateformes de e-commerce pour financer ce soutien.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=41",
+    "source_date": "2025-06-23",
+    "source_page": "p. 41",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-fiscalite-01",
@@ -58,7 +97,7 @@
       "source_label": "Chiffrage avancé par le candidat, rapporté par Public Sénat",
       "source_url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-fiscalite-02",
@@ -71,7 +110,7 @@
     "source_date": "2026-09-23",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-fiscalite-03",
@@ -84,7 +123,46 @@
     "source_date": "2025-06-23",
     "source_page": "p. 85",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-fiscalite-04",
+    "theme": "fiscalite",
+    "title": "Plafonner le crédit d'impôt recherche pour les grands groupes",
+    "description": "Refonder le crédit d'impôt recherche en le plafonnant pour les grands groupes et en le recentrant sur les PME, les ETI industrielles et les jeunes entreprises innovantes.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=24",
+    "source_date": "2025-06-23",
+    "source_page": "p. 24",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-fiscalite-05",
+    "theme": "fiscalite",
+    "title": "Supprimer les exonérations fiscales des transports polluants",
+    "description": "Supprimer les exonérations de TVA et de taxe sur le kérosène, taxer les plus gros pollueurs individuels (jets privés, yachts, SUV) et taxer les camions européens qui traversent le territoire sans payer de taxe.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=29",
+    "source_date": "2025-06-23",
+    "source_page": "p. 29",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-fiscalite-06",
+    "theme": "fiscalite",
+    "title": "Rééquilibrer l'imposition entre travail, capital, héritage et retraites",
+    "description": "Lancer un chantier fiscal visant à rééquilibrer la répartition de la taxation entre le travail, le capital, l'héritage et les retraites, le projet estimant que le système actuel favorise les héritiers et les retraités aisés.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=40",
+    "source_date": "2025-06-23",
+    "source_page": "p. 40",
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-emploi-01",
@@ -97,7 +175,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 42",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-emploi-02",
@@ -110,7 +188,59 @@
     "source_date": "2025-06-23",
     "source_page": "p. 53",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-emploi-03",
+    "theme": "emploi",
+    "title": "Salariés aux conseils d'administration dès 100 salariés",
+    "description": "Intégrer davantage de représentants des salariés dans les conseils d'administration des entreprises dès 100 salariés et instaurer un « chèque syndical ».",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=41",
+    "source_date": "2025-06-23",
+    "source_page": "p. 41",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-emploi-04",
+    "theme": "emploi",
+    "title": "Priorité aux accords de branche sur les accords d'entreprise",
+    "description": "Redonner la priorité aux accords de branches professionnelles par rapport aux accords d'entreprise.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=41",
+    "source_date": "2025-06-23",
+    "source_page": "p. 41",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-emploi-05",
+    "theme": "emploi",
+    "title": "Stratégie « Zéro mort au travail »",
+    "description": "Adopter une stratégie nationale « Zéro mort au travail », le projet relevant que la France compte le plus grand nombre de morts au travail en Europe.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=41",
+    "source_date": "2025-06-23",
+    "source_page": "p. 41",
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-emploi-06",
+    "theme": "emploi",
+    "title": "Créer une agence de financement de l'économie sociale et solidaire",
+    "description": "Créer une agence de financement de l'ESS pour y développer l'emploi, favoriser la conversion d'entreprises classiques en structures de l'ESS et assurer un financement de long terme.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=41",
+    "source_date": "2025-06-23",
+    "source_page": "p. 41",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-retraites-01",
@@ -127,7 +257,7 @@
       "key": "age_legal",
       "value": 62
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-retraites-02",
@@ -140,7 +270,33 @@
     "source_date": "2026-08-24",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-retraites-03",
+    "theme": "retraites",
+    "title": "Haut Conseil du pilotage des retraites piloté par les partenaires sociaux",
+    "description": "Créer un Haut Conseil du pilotage des retraites, adossé au comité de suivi des retraites, au sein duquel les partenaires sociaux seraient majoritaires, chargé de concevoir et d'ajuster le système.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=43",
+    "source_date": "2025-06-23",
+    "source_page": "p. 43",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-retraites-04",
+    "theme": "retraites",
+    "title": "Accroître le nombre de cotisants",
+    "description": "Porter un plan pour accroître le nombre de cotisants par une meilleure insertion des seniors, l'immigration légale de travail et la facilitation de l'entrée dans l'emploi.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=43",
+    "source_date": "2025-06-23",
+    "source_page": "p. 43",
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-energie-01",
@@ -157,7 +313,7 @@
       "key": "nucleaire",
       "value": "relance"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-energie-02",
@@ -170,7 +326,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 17",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-energie-03",
@@ -183,7 +339,33 @@
     "source_date": "2025-06-23",
     "source_page": "p. 17",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-energie-04",
+    "theme": "energie",
+    "title": "Interdire immédiatement les importations de gaz russe",
+    "description": "Interdire immédiatement toute importation de gaz russe, afin que la France cesse d'être le premier importateur européen de gaz naturel liquéfié russe.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=17",
+    "source_date": "2025-06-23",
+    "source_page": "p. 17",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-energie-05",
+    "theme": "energie",
+    "title": "Relancer et simplifier MaPrimeRénov'",
+    "description": "Relancer et simplifier MaPrimeRénov' pour accélérer les rénovations performantes et réduire durablement les dépenses de chauffage.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=17",
+    "source_date": "2025-06-23",
+    "source_page": "p. 17",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-ecologie-01",
@@ -196,7 +378,7 @@
     "source_date": "2026-10-12",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-ecologie-02",
@@ -209,7 +391,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 28",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-ecologie-03",
@@ -222,7 +404,46 @@
     "source_date": "2025-06-23",
     "source_page": "p. 35",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-ecologie-04",
+    "theme": "ecologie",
+    "title": "Loi anti fast-fashion, score carbone et fin du plastique jetable en 2030",
+    "description": "Adopter un « bouclier législatif pour la sobriété » : loi contre la fast-fashion, score carbone obligatoire sur les produits, extinction des publicités lumineuses la nuit et fin des plastiques à usage unique d'ici 2030.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=28",
+    "source_date": "2025-06-23",
+    "source_page": "p. 28",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-ecologie-05",
+    "theme": "ecologie",
+    "title": "Garantie universelle d'assurance climatique",
+    "description": "Instaurer une garantie universelle d'assurance climatique financée par les assurances pour protéger tous les citoyens face aux risques climatiques, en incitant à la prévention.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=28",
+    "source_date": "2025-06-23",
+    "source_page": "p. 28",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-ecologie-06",
+    "theme": "ecologie",
+    "title": "Refuser les méga-bassines et instaurer une tarification sociale de l'eau",
+    "description": "Refuser les méga-bassines au profit de solutions locales, transformer les comités de bassin en « Parlements de l'eau » et instaurer une tarification sociale de l'eau avec des aides automatiques au-delà de 3 % des revenus.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=35",
+    "source_date": "2025-06-23",
+    "source_page": "p. 35",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-agriculture-01",
@@ -235,7 +456,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 34",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-agriculture-02",
@@ -248,7 +469,59 @@
     "source_date": "2025-06-23",
     "source_page": "p. 34",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-agriculture-03",
+    "theme": "agriculture",
+    "title": "Revenu de transition écologique pour agriculteurs et pêcheurs",
+    "description": "Instaurer un revenu de transition écologique pour soutenir les agriculteurs et pêcheurs qui passent au bio ou à des pratiques durables, et soutenir la conversion au bio dans la PAC.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=34",
+    "source_date": "2025-06-23",
+    "source_page": "p. 34",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-agriculture-04",
+    "theme": "agriculture",
+    "title": "Cantines bio et locales, expérimentations de sécurité sociale de l'alimentation",
+    "description": "Faire de la cantine un lieu d'accès à une alimentation saine, locale et bio avec plus d'options végétariennes, et soutenir les expérimentations locales de sécurité sociale de l'alimentation.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=34",
+    "source_date": "2025-06-23",
+    "source_page": "p. 34",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-agriculture-05",
+    "theme": "agriculture",
+    "title": "Exclure les méga-chalutiers des eaux côtières",
+    "description": "Rééquilibrer les quotas de pêche en faveur de la pêche artisanale et côtière, exclure les méga-chalutiers des eaux côtières et faire respecter les aires marines protégées.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=34",
+    "source_date": "2025-06-23",
+    "source_page": "p. 34",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-agriculture-06",
+    "theme": "agriculture",
+    "title": "Fin progressive de l'élevage en cage au niveau européen",
+    "description": "Porter au niveau européen la disparition par étapes de l'élevage en cage, l'interdiction de l'élevage pour la fourrure et le renforcement des règles sur le transport des animaux.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=30",
+    "source_date": "2025-06-23",
+    "source_page": "p. 30",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-logement-01",
@@ -261,7 +534,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 64",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-logement-02",
@@ -274,7 +547,46 @@
     "source_date": "2025-06-23",
     "source_page": "p. 64",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-logement-03",
+    "theme": "logement",
+    "title": "Abroger la loi Kasbarian et étendre la garantie Visale",
+    "description": "Étendre le dispositif Visale à davantage de publics et sur une durée plus longue, et abroger la loi Kasbarian au profit d'un dispositif combinant indemnisation rapide des bailleurs et accompagnement des locataires.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=64",
+    "source_date": "2025-06-23",
+    "source_page": "p. 64",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-logement-04",
+    "theme": "logement",
+    "title": "Programme « Logement d'abord » contre le sans-abrisme",
+    "description": "Lancer un programme « Logement d'abord » faisant du logement stable le point de départ de l'insertion, sur le modèle finlandais.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=64",
+    "source_date": "2025-06-23",
+    "source_page": "p. 64",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-logement-05",
+    "theme": "logement",
+    "title": "Taxer plus fortement la vacance longue des logements",
+    "description": "Renforcer la fiscalité sur la vacance longue avec des barèmes progressifs et élargir le droit de préemption des collectivités sur les immeubles vides ou dégradés.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=64",
+    "source_date": "2025-06-23",
+    "source_page": "p. 64",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-sante-01",
@@ -287,7 +599,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 50",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-sante-02",
@@ -300,7 +612,59 @@
     "source_date": "2025-06-23",
     "source_page": "p. 50",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-sante-03",
+    "theme": "sante",
+    "title": "Sortir la prévention de l'ONDAM annuel",
+    "description": "Déployer un plan de prévention en sortant de l'objectif national de dépenses d'assurance maladie annuel, et créer un fonds territorial de prévention.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=52",
+    "source_date": "2025-06-23",
+    "source_page": "p. 52",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-sante-04",
+    "theme": "sante",
+    "title": "Santé mentale des jeunes, priorité nationale",
+    "description": "Faire de la santé mentale des jeunes une priorité nationale avec un dépistage précoce des troubles psychiques et addictifs, davantage de spécialistes et de places en établissements spécialisés.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=52",
+    "source_date": "2025-06-23",
+    "source_page": "p. 52",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-sante-05",
+    "theme": "sante",
+    "title": "Vers une Sécurité sociale unique fusionnant les régimes",
+    "description": "Ouvrir un chantier pour aller vers une Sécurité sociale unique fusionnant tous les régimes, pour garantir une couverture universelle et simplifier les démarches.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=53",
+    "source_date": "2025-06-23",
+    "source_page": "p. 53",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-sante-06",
+    "theme": "sante",
+    "title": "Nutri-Score obligatoire et taxation accrue des boissons sucrées",
+    "description": "Rendre obligatoire l'affichage du Nutri-Score à l'échelle nationale et européenne et taxer davantage les boissons trop sucrées.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=34",
+    "source_date": "2025-06-23",
+    "source_page": "p. 34",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-education-01",
@@ -313,7 +677,7 @@
     "source_date": "2026-10-05",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-education-02",
@@ -326,7 +690,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 68",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-education-03",
@@ -339,7 +703,46 @@
     "source_date": "2026-08-24",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-education-04",
+    "theme": "education",
+    "title": "Module obligatoire « Médias et Influence » au lycée",
+    "description": "Enseigner dès le primaire le décryptage des médias, des images et des algorithmes, et instaurer au lycée un module obligatoire « Médias et Influence » inspiré du modèle estonien.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=69",
+    "source_date": "2025-06-23",
+    "source_page": "p. 69",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-education-05",
+    "theme": "education",
+    "title": "Repenser Parcoursup et créer un capital formation universel",
+    "description": "Repenser Parcoursup dans une concertation avec parents, étudiants et universités, créer une aide nationale compensant l'éloignement géographique des études et ouvrir un chantier sur un capital formation universel.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=25",
+    "source_date": "2025-06-23",
+    "source_page": "p. 25",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-education-06",
+    "theme": "education",
+    "title": "Freiner les fermetures d'écoles rurales",
+    "description": "Freiner les fermetures d'écoles rurales et réévaluer les regroupements d'écoles, et lancer un plan de rénovation des écoles intégrant les enjeux climatiques.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=68",
+    "source_date": "2025-06-23",
+    "source_page": "p. 68",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-securite-01",
@@ -352,7 +755,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 60",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-securite-02",
@@ -365,7 +768,59 @@
     "source_date": "2025-06-23",
     "source_page": "p. 60",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-securite-03",
+    "theme": "securite",
+    "title": "Convention citoyenne sur les drogues et la légalisation du cannabis",
+    "description": "Organiser une convention citoyenne sur la politique en matière de drogues, portant notamment sur la question de la légalisation du cannabis.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=60",
+    "source_date": "2025-06-23",
+    "source_page": "p. 60",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-securite-04",
+    "theme": "securite",
+    "title": "Doubler le nombre de Maisons de la justice et du droit",
+    "description": "Doubler le nombre de Maisons du droit et de la justice, notamment en zones isolées, et traiter localement les délits mineurs par la médiation et les travaux d'intérêt général.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=61",
+    "source_date": "2025-06-23",
+    "source_page": "p. 61",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-securite-05",
+    "theme": "securite",
+    "title": "Lutter contre la surpopulation carcérale",
+    "description": "Lutter contre la surpopulation carcérale en adaptant les peines aux profils des détenus, développer la justice restaurative et les travaux d'intérêt général, et augmenter les effectifs judiciaires et pénitentiaires.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=61",
+    "source_date": "2025-06-23",
+    "source_page": "p. 61",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-securite-06",
+    "theme": "securite",
+    "title": "Généraliser les récépissés de contrôle d'identité",
+    "description": "Généraliser les récépissés de contrôle d'identité et rendre obligatoire une formation sur les discriminations pour les forces de l'ordre et les magistrats.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=80",
+    "source_date": "2025-06-23",
+    "source_page": "p. 80",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-immigration-01",
@@ -378,7 +833,7 @@
     "source_date": "2026-08-24",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-immigration-02",
@@ -391,7 +846,7 @@
     "source_date": "2026-10-05",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-immigration-03",
@@ -404,7 +859,46 @@
     "source_date": "2025-06-23",
     "source_page": "p. 82",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-immigration-04",
+    "theme": "immigration",
+    "title": "Droit au travail dès l'enregistrement de la demande d'asile",
+    "description": "Ouvrir le droit au travail sans autorisation spécifique dès l'enregistrement de la demande d'asile, et programmer des cours de français permettant d'atteindre le niveau A2.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=82",
+    "source_date": "2025-06-23",
+    "source_page": "p. 82",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-immigration-05",
+    "theme": "immigration",
+    "title": "Force européenne de sauvetage en mer",
+    "description": "Créer une force européenne de sauvetage en mer dotée de moyens suffisants et reconnaître un « devoir de sauver ».",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=82",
+    "source_date": "2025-06-23",
+    "source_page": "p. 82",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-immigration-06",
+    "theme": "immigration",
+    "title": "Remplacer le système de Dublin par une répartition européenne",
+    "description": "Harmoniser les procédures d'asile dans l'UE, établir un mécanisme européen de répartition mettant fin au système de Dublin et refuser l'externalisation des politiques migratoires.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=82",
+    "source_date": "2025-06-23",
+    "source_page": "p. 82",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-institutions-01",
@@ -417,7 +911,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 46",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-institutions-02",
@@ -430,7 +924,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 46",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-institutions-03",
@@ -443,7 +937,46 @@
     "source_date": "2025-06-23",
     "source_page": "p. 47",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-institutions-04",
+    "theme": "institutions",
+    "title": "Convention citoyenne préparant une assemblée constituante",
+    "description": "Lancer une convention citoyenne jetant les bases d'une assemblée constituante chargée de changer la Constitution ; supprimer l'article 40 qui limite l'initiative financière du Parlement.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=46",
+    "source_date": "2025-06-23",
+    "source_page": "p. 46",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-institutions-05",
+    "theme": "institutions",
+    "title": "Droit d'initiative citoyenne pour déclencher des référendums",
+    "description": "Instaurer un droit d'initiative citoyenne permettant de déclencher des référendums à l'échelle locale et nationale, et généraliser les conventions citoyennes.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=47",
+    "source_date": "2025-06-23",
+    "source_page": "p. 47",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-institutions-06",
+    "theme": "institutions",
+    "title": "« Bon pour la démocratie » pour financer les partis",
+    "description": "Réformer le financement des partis : chaque citoyen pourrait flécher une part du financement public vers le parti de son choix lors de sa déclaration d'impôts.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=47",
+    "source_date": "2025-06-23",
+    "source_page": "p. 47",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-europe-01",
@@ -460,7 +993,7 @@
       "key": "rapport_ue",
       "value": "approfondissement"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-europe-02",
@@ -473,7 +1006,46 @@
     "source_date": "2025-06-23",
     "source_page": "p. 11",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-europe-03",
+    "theme": "europe",
+    "title": "« Buy European Act » dans les marchés publics",
+    "description": "Porter une loi « Acheter européen » pour prioriser les productions européennes dans les marchés publics, et créer un label européen pour orienter l'épargne vers des projets en Europe.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=14",
+    "source_date": "2025-06-23",
+    "source_page": "p. 14",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-europe-04",
+    "theme": "europe",
+    "title": "Doubler le budget du programme de recherche Horizon Europe",
+    "description": "Doubler le budget d'Horizon Europe pour bâtir une recherche européenne unifiée, avec des investissements dans l'IA, le quantique et la deeptech.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=24",
+    "source_date": "2025-06-23",
+    "source_page": "p. 24",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-europe-05",
+    "theme": "europe",
+    "title": "Un « pacte girondin » de répartition des compétences",
+    "description": "Proposer un « contrat de souveraineté » clarifiant la répartition des compétences entre les échelons européen, national, régional et local.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=12",
+    "source_date": "2025-06-23",
+    "source_page": "p. 12",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-international-01",
@@ -486,7 +1058,7 @@
     "source_date": "2026-10-05",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-international-02",
@@ -499,7 +1071,59 @@
     "source_date": "2025-06-23",
     "source_page": "p. 11",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-international-03",
+    "theme": "international",
+    "title": "Aide publique au développement : objectif 0,7 % du RNB",
+    "description": "Intégrer à la loi de développement solidaire une programmation budgétaire annuelle pour atteindre progressivement 0,7 % du revenu national brut consacré à l'aide publique au développement.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=83",
+    "source_date": "2025-06-23",
+    "source_page": "p. 83",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-international-04",
+    "theme": "international",
+    "title": "Augmenter fortement la réserve opérationnelle",
+    "description": "Augmenter fortement la réserve opérationnelle en la plaçant au cœur de la défense nationale.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=10",
+    "source_date": "2025-06-23",
+    "source_page": "p. 10",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-international-05",
+    "theme": "international",
+    "title": "Programme « cyber sentinelle »",
+    "description": "Lancer un programme « cyber sentinelle » : brigades spécialisées contre la cybercriminalité dans tout le pays, centres régionaux et renforcement de l'ANSSI.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=10",
+    "source_date": "2025-06-23",
+    "source_page": "p. 10",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-international-06",
+    "theme": "international",
+    "title": "Accélérer la production d'armement et lancer un programme de drones",
+    "description": "Accélérer la production industrielle de défense par des contrats de moyen et long terme avec les industriels, et lancer de grands programmes de drones et de modernisation des capacités spatiales.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=10",
+    "source_date": "2025-06-23",
+    "source_page": "p. 10",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-numerique-01",
@@ -512,7 +1136,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 21",
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-numerique-02",
@@ -525,7 +1149,46 @@
     "source_date": "2025-06-23",
     "source_page": "p. 20",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-numerique-03",
+    "theme": "numerique",
+    "title": "Sortir de la dépendance aux GAFAM en cinq ans",
+    "description": "Créer un fonds souverain européen pour investir dans des alternatives numériques libres et européennes, afin de sortir de la dépendance aux GAFAM en cinq ans, et renforcer les sanctions contre les abus de position dominante.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=21",
+    "source_date": "2025-06-23",
+    "source_page": "p. 21",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-numerique-04",
+    "theme": "numerique",
+    "title": "Traité international sur l'intelligence artificielle",
+    "description": "Impulser un traité international posant les bases d'une régulation des usages de l'IA dans les domaines à très haut risque.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=20",
+    "source_date": "2025-06-23",
+    "source_page": "p. 20",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-numerique-05",
+    "theme": "numerique",
+    "title": "Campus international de l'IA et IA dans les services publics",
+    "description": "Ouvrir un campus international de l'IA formant codeurs, juristes et scientifiques, et investir dans les usages de l'IA à fort impact social dans les services publics (santé, éducation).",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=20",
+    "source_date": "2025-06-23",
+    "source_page": "p. 20",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-culture-01",
@@ -538,7 +1201,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 47",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-culture-02",
@@ -551,7 +1214,46 @@
     "source_date": "2025-06-23",
     "source_page": "p. 72",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-culture-03",
+    "theme": "culture",
+    "title": "Pacte d'aménagement culturel du territoire",
+    "description": "Lancer un Pacte d'aménagement culturel du territoire (PACT) avec les collectivités et les acteurs culturels pour garantir une présence culturelle de proximité, avec une déconcentration accrue du ministère.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=72",
+    "source_date": "2025-06-23",
+    "source_page": "p. 72",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-culture-04",
+    "theme": "culture",
+    "title": "Doubler Europe Créative et exclure la culture des accords de libre-échange",
+    "description": "Étendre l'exception culturelle à l'échelle européenne, doubler le budget du programme Europe Créative et exclure la culture de tout accord de libre-échange.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=72",
+    "source_date": "2025-06-23",
+    "source_page": "p. 72",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-culture-05",
+    "theme": "culture",
+    "title": "Une agence publique unique pour la diplomatie culturelle",
+    "description": "Créer une agence publique réunissant Instituts français, Alliances françaises et acteurs culturels, scientifiques et numériques pour porter la diplomatie culturelle et la francophonie.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=72",
+    "source_date": "2025-06-23",
+    "source_page": "p. 72",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-outre_mer-01",
@@ -564,7 +1266,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 65",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-outre_mer-02",
@@ -577,7 +1279,46 @@
     "source_date": "2025-06-23",
     "source_page": "p. 65",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-outre_mer-03",
+    "theme": "outre_mer",
+    "title": "Flécher une part de l'octroi de mer vers l'investissement local",
+    "description": "Flécher une part des revenus de l'octroi de mer vers des projets d'investissement locaux en fixant un seuil minimum.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=65",
+    "source_date": "2025-06-23",
+    "source_page": "p. 65",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-outre_mer-04",
+    "theme": "outre_mer",
+    "title": "Plan « Eau » pour les Outre-mer",
+    "description": "Mettre en place un plan « Eau » adapté aux besoins locaux pour moderniser les réseaux, améliorer leur gouvernance et garantir l'accès à l'eau.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=65",
+    "source_date": "2025-06-23",
+    "source_page": "p. 65",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-outre_mer-05",
+    "theme": "outre_mer",
+    "title": "Aligner les tarifs des télécoms et des livres sur l'Hexagone",
+    "description": "Assurer l'égalité des tarifs de télécommunication et des livres entre les Outre-mer et l'Hexagone.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=65",
+    "source_date": "2025-06-23",
+    "source_page": "p. 65",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-services_publics-01",
@@ -590,7 +1331,7 @@
     "source_date": "2025-06-23",
     "source_page": "p. 29",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-services_publics-02",
@@ -603,7 +1344,59 @@
     "source_date": "2025-06-23",
     "source_page": "p. 48",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-services_publics-03",
+    "theme": "services_publics",
+    "title": "Indexer le point d'indice des fonctionnaires sur l'inflation",
+    "description": "Revaloriser durablement les rémunérations de la fonction publique en indexant le point d'indice sur l'inflation et en corrigeant les écarts de rémunération entre ministères.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=40",
+    "source_date": "2025-06-23",
+    "source_page": "p. 40",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-services_publics-04",
+    "theme": "services_publics",
+    "title": "Créer un service public de transport rural",
+    "description": "Créer un service public de transport rural unifiant les offres existantes, adapté aux besoins des habitants et accessible aux personnes âgées ou handicapées.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=29",
+    "source_date": "2025-06-23",
+    "source_page": "p. 29",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-services_publics-05",
+    "theme": "services_publics",
+    "title": "Nouvelle loi de décentralisation et loi pluriannuelle des finances locales",
+    "description": "Porter une loi de décentralisation clarifiant les compétences territoriales, instaurer une loi pluriannuelle des finances locales et élire les conseils communautaires au suffrage universel direct.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=47",
+    "source_date": "2025-06-23",
+    "source_page": "p. 47",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-services_publics-06",
+    "theme": "services_publics",
+    "title": "Lutter contre le pantouflage et créer un observatoire de l'intégrité publique",
+    "description": "Agir contre le pantouflage, renforcer les moyens des organismes de lutte contre la corruption et créer un observatoire de l'intégrité publique.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=48",
+    "source_date": "2025-06-23",
+    "source_page": "p. 48",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-famille-01",
@@ -616,7 +1409,7 @@
     "source_date": "2026-10-05",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "glucksmann-famille-02",
@@ -629,6 +1422,58 @@
     "source_date": "2026-08-24",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-famille-03",
+    "theme": "famille",
+    "title": "Plan contre les violences sexistes et sexuelles d'un milliard d'euros",
+    "description": "Lancer un plan contre les violences sexistes et sexuelles inspiré de la politique espagnole, doté d'un milliard d'euros, avec la généralisation des bracelets anti-rapprochement.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=78",
+    "source_date": "2025-06-23",
+    "source_page": "p. 78",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-famille-04",
+    "theme": "famille",
+    "title": "Droit opposable à la garde d'enfant",
+    "description": "Investir dans le service public de la petite enfance, créer un droit opposable à la garde et réformer le congé parental pour plus d'égalité entre les parents.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=78",
+    "source_date": "2025-06-23",
+    "source_page": "p. 78",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-famille-05",
+    "theme": "famille",
+    "title": "Indemnité et droit au répit pour les proches aidants",
+    "description": "Renforcer les droits des proches aidants, créer un service de relais et de répit et travailler à une indemnité pour ceux qui réduisent ou arrêtent leur travail.",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=56",
+    "source_date": "2025-06-23",
+    "source_page": "p. 56",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "glucksmann-famille-06",
+    "theme": "famille",
+    "title": "Sortir la protection de l'enfance et les crèches de la logique de profit",
+    "description": "Réserver l'argent public de la protection de l'enfance aux structures sans but lucratif, encadrer strictement les crèches privées avec un statut de crèches « sous contrat ».",
+    "source_type": "officiel",
+    "source_title": "Place publique – « Notre vision pour la France. Acte I » (projet du parti)",
+    "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=57",
+    "source_date": "2025-06-23",
+    "source_page": "p. 57",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   }
 ]

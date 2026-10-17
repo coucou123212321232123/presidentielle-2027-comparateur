@@ -1,0 +1,187 @@
+[
+  {
+    "measure_id": "roussel-economie-05",
+    "decision": "rejetee",
+    "motif": "Rejetée (attribution, fraîcheur) : article signé d'un responsable du PCF dans l'hebdomadaire interne CommunisteS n° 1104, pas un document de campagne ni une déclaration du candidat ; le pied de page de l'article renvoie au n° 1000 du 12 juin 2024 (reprise possible). Les chiffres (1 million, 10 000 €, 100 €/mois) ne figurent dans aucun document officiel du candidat ; le cahier Mobilité p. 15 parle seulement d'une « petite voiture électrique abordable »."
+  },
+  {
+    "measure_id": "roussel-economie-06",
+    "decision": "rejetee",
+    "motif": "Rejetée (attribution) : propositions listées dans un article signé par une membre du Comité exécutif national (CommunisteS n° 1104), pas dans un document de campagne. La nationalisation de BNP Paribas et de la Société Générale n'est retrouvée ni dans la base commune du congrès ni dans les documents du candidat ; le fonds de 500 Md€ est déjà couvert par roussel-economie-03 (discours du candidat)."
+  },
+  {
+    "measure_id": "roussel-economie-07",
+    "decision": "corrigee",
+    "motif": "Corrigée : la phrase sur la conditionnalité des aides commence p. 45 et se termine p. 46 (« parlementaires ») ; page portée à p. 45-46. Contenu confirmé."
+  },
+  {
+    "measure_id": "roussel-fiscalite-03",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-fiscalite-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : modulation des cotisations confirmée p. 40, mais la réduction progressive de la CSG figure p. 36 ; page complétée."
+  },
+  {
+    "measure_id": "roussel-emploi-03",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-emploi-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-retraites-03",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-retraites-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-ecologie-03",
+    "decision": "corrigee",
+    "motif": "Corrigée : « financés notamment par des taxes affectées » n'est pas lié à ce plan dans la source (p. 11) ; retiré. Formulation exacte rétablie (10 Md€/an « avec une montée en charge sur 20 ans »)."
+  },
+  {
+    "measure_id": "roussel-ecologie-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : 30 % de fret et plan de 4 Md€ p. 13, mais les 10 Md€ pour les ports sont p. 14 ; page portée à p. 13-14."
+  },
+  {
+    "measure_id": "roussel-ecologie-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-agriculture-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-logement-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-logement-05",
+    "decision": "corrigee",
+    "motif": "Corrigée : la source dit « revenir sur la réduction de loyer de solidarité », pas « supprimer »."
+  },
+  {
+    "measure_id": "roussel-logement-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-logement-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-sante-03",
+    "decision": "corrigee",
+    "motif": "Corrigée : opposition à la 5e branche p. 31, financement public de l'autonomie p. 32, Ehpad hors privatisation p. 43 ; page complétée."
+  },
+  {
+    "measure_id": "roussel-sante-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-education-03",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-education-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-education-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-education-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-securite-03",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-immigration-03",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-institutions-03",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-institutions-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-europe-03",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-international-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-international-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-international-07",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-numerique-02",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-services_publics-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-services_publics-06",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-famille-04",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "roussel-famille-05",
+    "decision": "acceptee",
+    "motif": "Acceptée : contenu, chiffres et conditions confirmés à la page indiquée d'un document officiel du PCF (base commune du 40e congrès, cahiers thématiques) ou de la campagne (Plan Jeunesse, tracts listés sur fabienroussel2027.fr) ; attribution mentionnée dans source_title."
+  },
+  {
+    "measure_id": "program.note / program.thematic_links",
+    "decision": "corrigee",
+    "motif": "Corrigée : note et liens confirmés (rubrique « Matériel » de fabienroussel2027.fr avec Plan Jeunesse et tracts ; pcf.fr/le_programme en 404 ; nouvelles URL en 200, plages de pages conformes). Lien thématique « CommunisteS n° 1104 » retiré : ses deux mesures ont été rejetées (articles signés de l'hebdomadaire interne, pas un document programmatique)."
+  }
+]

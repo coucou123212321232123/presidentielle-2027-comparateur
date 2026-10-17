@@ -1,0 +1,257 @@
+[
+  {
+    "measure_id": "program",
+    "decision": "corrigee",
+    "motif": "Livrets, URL d'origine (HTTP 200, vrais PDF) et plages de pages vérifiés ; dates de couverture conformes. Corrigé : archive_url 20261002160019 renvoyée par l'API mais la capture répond HTTP 500 → remplacée par la capture 20260926135246 (renvoyée par l'API avec timestamp, HTTP 200, contenu « Nos propositions » confirmé). Phrase de la note sur la défiguration du 16/10 retirée : obsolète, les PDF d'origine sont de nouveau servis (vérifié le 17/10)."
+  },
+  {
+    "measure_id": "retailleau-energie-01",
+    "decision": "acceptee",
+    "motif": "Mise à jour conforme : huit EPR2 « dès les deux premières années du mandat » p. 14 et loi de programmation actant la relance du nucléaire p. 22 ; indicateur « relance » littéral."
+  },
+  {
+    "measure_id": "retailleau-ecologie-01",
+    "decision": "acceptee",
+    "motif": "Mise à jour conforme : suppression du principe de précaution de la Charte par révision constitutionnelle soumise au référendum (Agriculture p. 12) et remplacement par un principe de responsabilité (Produire plus p. 10)."
+  },
+  {
+    "measure_id": "retailleau-famille-01",
+    "decision": "corrigee",
+    "motif": "Corrigée : le livret conditionne le RF à une résidence régulière et à une activité professionnelle depuis au moins cinq ans (p. 11) — « universel » retiré et conditions ajoutées ; le montant est doublé POUR le troisième enfant mineur (480 €), pas « à partir du » troisième (p. 13 : 240 € pour le quatrième)."
+  },
+  {
+    "measure_id": "retailleau-economie-03",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; suppression ou recentrage des 50 règles et loi annuelle de simplification figurent p. 11 ; source_page corrigée en « p. 10-11 »."
+  },
+  {
+    "measure_id": "retailleau-economie-04",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-economie-05",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-economie-06",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; la répartition moitié salariés (≈ 500 €/an au salaire médian) / moitié entreprises figure p. 37 ; source_page corrigée en « p. 36-37 »."
+  },
+  {
+    "measure_id": "retailleau-fiscalite-03",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-fiscalite-04",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-emploi-03",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; règles de juin 2024 p. 31, troisième refus et ruptures conventionnelles p. 32, dégressivité au-dessus de 3 000 € nets p. 33 ; coût (8 Md€ + 4-5 Md€) conforme p. 34 ; source_page corrigée en « p. 31-33 »."
+  },
+  {
+    "measure_id": "retailleau-emploi-04",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; Code supplétif, primauté de l'accord d'entreprise puis de branche et référendum à l'initiative de l'employeur figurent p. 13 ; source_page corrigée en « p. 12-13 »."
+  },
+  {
+    "measure_id": "retailleau-emploi-05",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-emploi-06",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; seuil de 100 000 € bruts et « environ 3 % des salariés du privé » figurent p. 23 ; source_page corrigée en « p. 23-24 »."
+  },
+  {
+    "measure_id": "retailleau-energie-04",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; la réserve des conclusions de l'ASNR figure p. 12 ; source_page corrigée en « p. 11-12 »."
+  },
+  {
+    "measure_id": "retailleau-energie-05",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-energie-06",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-ecologie-03",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-ecologie-04",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-ecologie-05",
+    "decision": "acceptee",
+    "motif": "Communiqué signé Bruno Retailleau du 24/07/2026 ouvert sur l'URL d'origine (HTTP 200) et sur la capture Wayback : Beauvau de la sécurité civile, volontariat, recentrage des missions, débroussaillage, avions français en complément des Canadair confirmés ; type « declaration » correct."
+  },
+  {
+    "measure_id": "retailleau-agriculture-03",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; l'abandon de l'objectif Écophyto 2030 de -50 % figure p. 12 (néonicotinoïdes p. 17) ; source_page corrigée en « p. 12, 17 »."
+  },
+  {
+    "measure_id": "retailleau-agriculture-04",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; les délais opposables avec silence valant acceptation figurent p. 20 ; source_page corrigée en « p. 19-20 »."
+  },
+  {
+    "measure_id": "retailleau-agriculture-05",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; le relèvement du seuil de dégressivité de 52 à 100 ha figure p. 31 ; source_page corrigée en « p. 31-32 »."
+  },
+  {
+    "measure_id": "retailleau-agriculture-06",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-logement-04",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-logement-05",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; le réexamen tous les cinq ans figure p. 42 ; source_page corrigée en « p. 41-42 »."
+  },
+  {
+    "measure_id": "retailleau-logement-06",
+    "decision": "corrigee",
+    "motif": "Corrigée : l'option pour le PFU de 30 % est réservée aux bailleurs dont le patrimoine ancien est déjà amorti (p. 33) — condition ajoutée ; « cadre stable pour dix ans » figure p. 34 → source_page « p. 33-34 »."
+  },
+  {
+    "measure_id": "retailleau-education-04",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; la seconde voie pour les talents venus du privé figure p. 12 ; source_page corrigée en « p. 11-12 »."
+  },
+  {
+    "measure_id": "retailleau-education-05",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-education-06",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; « aucune exposition directe à l'IA avant le lycée » figure p. 19 ; source_page corrigée en « p. 19, 33 »."
+  },
+  {
+    "measure_id": "retailleau-securite-04",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-securite-05",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-securite-06",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-immigration-04",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-immigration-05",
+    "decision": "acceptee",
+    "motif": "Communiqué du 31/07/2026 signé B. Retailleau : PDF à l'URL d'origine (HTTP 200) identique octet pour octet à la capture Wayback ; suspension de la libre circulation avec l'Espagne, contrôles aux frontières, visas territorialisés, règlement retour et centres de retour dans des pays tiers confirmés."
+  },
+  {
+    "measure_id": "retailleau-europe-03",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-europe-04",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-europe-05",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-europe-06",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; coalition d'États favorables au nucléaire et saisine de la CJUE figurent p. 35 ; source_page corrigée en « p. 33-35 »."
+  },
+  {
+    "measure_id": "retailleau-international-03",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-numerique-03",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; la définition « capacité souveraine = SecNumCloud » figure p. 18 ; source_page corrigée en « p. 18-19 »."
+  },
+  {
+    "measure_id": "retailleau-numerique-04",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; inspection générale du numérique p. 36, triplement des moyens de VIGINUM p. 41 et « triplement des effectifs et du budget » au chiffrage p. 48 ; source_page corrigée en « p. 35-36, 41, 48 »."
+  },
+  {
+    "measure_id": "retailleau-numerique-05",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; le doublement du nombre d'ingénieurs spécialisés figure p. 12 ; source_page corrigée en « p. 12, 14 »."
+  },
+  {
+    "measure_id": "retailleau-numerique-06",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; liste des solutions extra-européennes p. 30, score devenant critère d'attribution p. 32 ; source_page corrigée en « p. 30-32 »."
+  },
+  {
+    "measure_id": "retailleau-culture-03",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-services_publics-03",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-services_publics-04",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-services_publics-05",
+    "decision": "corrigee",
+    "motif": "Contenu conforme au livret PDF (URL d'origine vérifiée le 17/10/2026) ; CTO de l'État p. 28-29 et budget de transformation numérique centralisé p. 29 ; source_page corrigée en « p. 28-29 »."
+  },
+  {
+    "measure_id": "retailleau-famille-03",
+    "decision": "corrigee",
+    "motif": "Corrigée : l'alignement des micro-crèches sur les MAM figure p. 20 → source_page « p. 20-21 » ; le coût de 800 M€ ne porte que sur les deux mesures fiscales (CIF, plafond d'exonération) selon p. 21 → libellé du coût précisé."
+  },
+  {
+    "measure_id": "retailleau-famille-04",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  },
+  {
+    "measure_id": "retailleau-famille-05",
+    "decision": "acceptee",
+    "motif": "Conforme au livret PDF (republicains.fr, URL d'origine servant de nouveau le vrai document, vérifié le 17/10/2026) : chiffres, conditions et page vérifiés."
+  }
+]

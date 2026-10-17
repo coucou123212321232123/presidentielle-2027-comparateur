@@ -1,29 +1,105 @@
 {
-  "last_updated": "2026-10-15",
-  "election": { "first_round": "2027-04-18", "second_round": "2027-05-02" },
+  "last_updated": "2026-10-17",
+  "election": {
+    "first_round": "2027-04-18",
+    "second_round": "2027-05-02"
+  },
   "inclusion_rule": "Sont présentées les personnalités déclarées candidates (ou considérées comme probables) et testées dans au moins un des trois derniers sondages nationaux de premier tour publiés au 15 octobre 2026 (Ifop 12-14 oct., Harris Interactive 5-8 oct., Odoxa 24 sept.-7 oct.), ainsi que les candidats déclarés soutenus par un parti représenté au Parlement et testés dans ces sondages. Les autres candidatures déclarées sont listées ci-dessous sans fiche détaillée. La liste officielle ne sera connue qu'après la validation des 500 parrainages par le Conseil constitutionnel.",
   "inclusion_sources": [
-    { "label": "Wikipédia – Candidatures à l'élection présidentielle française de 2027", "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027" },
-    { "label": "Wikipedia – Opinion polling for the 2027 French presidential election", "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_French_presidential_election" },
-    { "label": "Public Sénat – Qui sont les candidats déclarés ou presque ? (14/10/2026)", "url": "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque" }
+    {
+      "label": "Wikipédia – Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027"
+    },
+    {
+      "label": "Wikipedia – Opinion polling for the 2027 French presidential election",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_French_presidential_election"
+    },
+    {
+      "label": "Public Sénat – Qui sont les candidats déclarés ou presque ? (14/10/2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque"
+    }
   ],
   "other_declared": [
-    { "name": "François Asselineau", "party": "Union populaire républicaine", "declaration_date": null },
-    { "name": "Delphine Batho", "party": "Génération écologie", "declaration_date": "2025-11-25" },
-    { "name": "Olivier Becht", "party": "Renaissance / Agir", "declaration_date": "2026-09-24" },
-    { "name": "Karim Bouamrane", "party": "Parti socialiste (hors primaire)", "declaration_date": "2026-06-09" },
-    { "name": "Bernard Cazeneuve", "party": "La Convention", "declaration_date": "2026-07-16" },
-    { "name": "Sylvain Durif", "party": "Elvita", "declaration_date": "2026-08-23" },
-    { "name": "Anasse Kazib", "party": "Révolution permanente", "declaration_date": "2026-06-01" },
-    { "name": "Selma Labib", "party": "NPA – Révolutionnaires", "declaration_date": "2026-06-17" },
-    { "name": "Francis Lalanne", "party": "France Libre", "declaration_date": "2026-08-19" },
-    { "name": "Mira Markovic", "party": "Parti animaliste", "declaration_date": "2026-10-02" },
-    { "name": "Benoît Mathieu", "party": "Sans étiquette", "declaration_date": "2026-03-30" },
-    { "name": "Antoine Mikolajczak", "party": "Équinoxe", "declaration_date": "2026-06-27" },
-    { "name": "Manolo Mlekuz", "party": "Trajectoire", "declaration_date": null },
-    { "name": "Florian Philippot", "party": "Les Patriotes", "declaration_date": "2026-05-09" },
-    { "name": "Gilles Platret", "party": "Divers droite", "declaration_date": "2026-10-08" },
-    { "name": "Natacha Polony", "party": "Sans étiquette", "declaration_date": "2026-10-14" }
+    {
+      "name": "François Asselineau",
+      "party": "Union populaire républicaine",
+      "declaration_date": null
+    },
+    {
+      "name": "Delphine Batho",
+      "party": "Génération écologie",
+      "declaration_date": "2025-11-25"
+    },
+    {
+      "name": "Olivier Becht",
+      "party": "Renaissance / Agir",
+      "declaration_date": "2026-09-24"
+    },
+    {
+      "name": "Karim Bouamrane",
+      "party": "Parti socialiste (hors primaire)",
+      "declaration_date": "2026-06-09"
+    },
+    {
+      "name": "Bernard Cazeneuve",
+      "party": "La Convention",
+      "declaration_date": "2026-07-16"
+    },
+    {
+      "name": "Sylvain Durif",
+      "party": "Elvita",
+      "declaration_date": "2026-08-23"
+    },
+    {
+      "name": "Anasse Kazib",
+      "party": "Révolution permanente",
+      "declaration_date": "2026-06-01"
+    },
+    {
+      "name": "Selma Labib",
+      "party": "NPA – Révolutionnaires",
+      "declaration_date": "2026-06-17"
+    },
+    {
+      "name": "Francis Lalanne",
+      "party": "France Libre",
+      "declaration_date": "2026-08-19"
+    },
+    {
+      "name": "Mira Markovic",
+      "party": "Parti animaliste",
+      "declaration_date": "2026-10-02"
+    },
+    {
+      "name": "Benoît Mathieu",
+      "party": "Sans étiquette",
+      "declaration_date": "2026-03-30"
+    },
+    {
+      "name": "Antoine Mikolajczak",
+      "party": "Équinoxe",
+      "declaration_date": "2026-06-27"
+    },
+    {
+      "name": "Manolo Mlekuz",
+      "party": "Trajectoire",
+      "declaration_date": null
+    },
+    {
+      "name": "Florian Philippot",
+      "party": "Les Patriotes",
+      "declaration_date": "2026-05-09"
+    },
+    {
+      "name": "Gilles Platret",
+      "party": "Divers droite",
+      "declaration_date": "2026-10-08"
+    },
+    {
+      "name": "Natacha Polony",
+      "party": "Sans étiquette",
+      "declaration_date": "2026-10-14"
+    }
   ],
   "report_url": null
 }

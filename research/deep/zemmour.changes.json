@@ -1,0 +1,153 @@
+[
+  {
+    "action": "update",
+    "measure_id": "zemmour-economie-02",
+    "evidence": [
+      {
+        "url": "https://www.budget2027.fr/",
+        "page": null,
+        "excerpt": "140 milliards d’économies par an : le plan de Sarah Knafo"
+      },
+      {
+        "url": "https://www.budget2027.fr/",
+        "page": null,
+        "excerpt": "24 mesures : tout est listé, chiffré, sourcé."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "zemmour-emploi-01",
+    "evidence": [
+      {
+        "url": "https://www.budget2027.fr/",
+        "page": null,
+        "excerpt": "Limitation à trois ans de l’allocation RSA pour les bénéficiaires en capacité de travailler"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "zemmour-services_publics-03",
+    "evidence": [
+      {
+        "url": "https://www.budget2027.fr/",
+        "page": null,
+        "excerpt": "Non-remplacement de 800 000 départs administratifs sur l’ensemble du quinquennat"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "zemmour-immigration-05",
+    "evidence": [
+      {
+        "url": "https://www.budget2027.fr/",
+        "page": null,
+        "excerpt": "Fin de la gratuité des études pour les étudiants étrangers."
+      },
+      {
+        "url": "https://www.budget2027.fr/",
+        "page": null,
+        "excerpt": "Augmentation du coût des visas."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "zemmour-immigration-06",
+    "evidence": [
+      {
+        "url": "https://www.budget2027.fr/",
+        "page": null,
+        "excerpt": "Interdiction de l’hébergement d’urgence aux étrangers en situation irrégulière."
+      },
+      {
+        "url": "https://www.budget2027.fr/",
+        "page": null,
+        "excerpt": "Aide juridictionnelle réservée aux Français."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "zemmour-europe-02",
+    "evidence": [
+      {
+        "url": "https://www.budget2027.fr/",
+        "page": null,
+        "excerpt": "Retour au budget de l’UE pré-Covid et économies sur la dotation française."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "zemmour-culture-02",
+    "evidence": [
+      {
+        "url": "https://www.budget2027.fr/",
+        "page": null,
+        "excerpt": "Suppression des subventions à la presse."
+      },
+      {
+        "url": "https://www.budget2027.fr/",
+        "page": null,
+        "excerpt": "Suppression des subventions aux associations politisées."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "zemmour-education-05",
+    "evidence": [
+      {
+        "url": "https://www.youtube.com/watch?v=DhtIKLvqZqE",
+        "page": null,
+        "excerpt": "Je propose de rompre les accords Lang-Cloupet."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "zemmour-energie-03",
+    "evidence": [
+      {
+        "url": "https://combienjegagne.fr/",
+        "page": null,
+        "excerpt": "Supprimer les certificats d’économie d’énergie (CEE) : 15 centimes de moins par litre."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "zemmour-ecologie-01",
+    "evidence": [
+      {
+        "url": "https://www.stop-hausse-carburant.fr/",
+        "page": null,
+        "excerpt": "L'abrogation du SEQE 2 avant son entrée en vigueur en 2028."
+      }
+    ]
+  },
+  {
+    "action": "program",
+    "measure_id": null,
+    "evidence": [
+      {
+        "url": "https://www.parti-reconquete.fr/j-agis",
+        "page": null,
+        "excerpt": "L’avenir est à nous ... La vérité sur votre pouvoir d’achat ... Le programme pour la France"
+      },
+      {
+        "url": "https://assets.ericzemmour.fr/ressources/tracts/programme-pour-la-france.pdf",
+        "page": "p. 1",
+        "excerpt": "Nous allons construire ensemble le programme qui manque à la France"
+      },
+      {
+        "url": "https://www.budget2027.fr/",
+        "page": null,
+        "excerpt": "140 milliards d’économies par an : le plan de Sarah Knafo"
+      }
+    ]
+  }
+]

@@ -4,7 +4,11 @@ const shortFmt = new Intl.DateTimeFormat('fr-FR', { day: '2-digit', month: '2-di
 const parse = (iso: string) => new Date(`${iso}T12:00:00`)
 
 export const formatDate = (iso: string | null | undefined) => (iso ? dateFmt.format(parse(iso)) : '—')
-export const formatShortDate = (iso: string | null | undefined) => (iso ? shortFmt.format(parse(iso)) : '—')
+const monthFmt = new Intl.DateTimeFormat('fr-FR', { month: 'long', year: 'numeric' })
+
+/** Date courte (JJ/MM/AAAA), ou « juillet 2026 » pour une date connue seulement au mois près (YYYY-MM). */
+export const formatShortDate = (iso: string | null | undefined) =>
+  !iso ? '—' : iso.length === 7 ? monthFmt.format(parse(`${iso}-15`)) : shortFmt.format(parse(iso))
 
 export function ageAt(birthIso: string | null, refIso: string): number | null {
   if (!birthIso) return null

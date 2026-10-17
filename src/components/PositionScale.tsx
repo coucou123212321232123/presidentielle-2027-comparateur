@@ -7,8 +7,17 @@ import { ExternalLink } from './ExternalLink'
 export function PositionScale({ candidate, showSource = false }: { candidate: Candidate; showSource?: boolean }) {
   const idx = POSITION_ORDER.indexOf(candidate.position)
   const pct = (idx / (POSITION_ORDER.length - 1)) * 100
+  // Libellé placé sous le point, sans déborder de l'échelle aux extrémités.
+  const labelAlign = pct < 20 ? 'left' : pct > 80 ? 'right' : 'center'
+  const labelStyle =
+    labelAlign === 'left' ? { left: 0 } : labelAlign === 'right' ? { right: 0 } : { left: `${pct}%`, transform: 'translateX(-50%)' }
+
   return (
     <div>
+      {/* Pas de libellés aux extrémités : « Gauche » à côté d'« Extrême gauche » serait contradictoire. Seule la position est nommée. */}
+      <p className="mb-1.5 text-[10px] font-medium uppercase tracking-wide text-muted/80" aria-hidden="true">
+        Positionnement indicatif
+      </p>
       <div
         className="relative h-1.5 rounded-full bg-surface-2"
         role="img"
@@ -31,10 +40,10 @@ export function PositionScale({ candidate, showSource = false }: { candidate: Ca
           aria-hidden="true"
         />
       </div>
-      <div className="mt-1.5 flex justify-between text-[10px] font-medium uppercase tracking-wide text-muted" aria-hidden="true">
-        <span>Gauche</span>
-        <span className="text-ink-2">{POSITION_LABELS[candidate.position]}</span>
-        <span>Droite</span>
+      <div className="relative mt-2 h-4" aria-hidden="true">
+        <span className="absolute whitespace-nowrap text-[11px] font-semibold uppercase tracking-wide text-ink-2" style={labelStyle}>
+          {POSITION_LABELS[candidate.position]}
+        </span>
       </div>
       {showSource && candidate.position_source_url && (
         <p className="mt-1 text-[11px] text-muted">

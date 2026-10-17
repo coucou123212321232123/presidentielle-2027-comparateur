@@ -10,7 +10,7 @@
     "source_date": "2026-08-19",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-economie-02",
@@ -23,7 +23,7 @@
     "source_date": "2026-04-15",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-economie-03",
@@ -36,7 +36,7 @@
     "source_date": "2025-10-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-fiscalite-01",
@@ -49,7 +49,7 @@
     "source_date": "2025-10-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-fiscalite-02",
@@ -62,7 +62,7 @@
     "source_date": "2025-10-26",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-fiscalite-03",
@@ -75,7 +75,7 @@
     "source_date": "2026-08-19",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-emploi-01",
@@ -88,7 +88,7 @@
     "source_date": "2025-11-08",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-emploi-02",
@@ -101,7 +101,7 @@
     "source_date": "2025-10-26",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-retraites-01",
@@ -114,7 +114,7 @@
     "source_date": "2026-08-19",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-retraites-02",
@@ -127,7 +127,7 @@
     "source_date": "2026-08-19",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-ecologie-01",
@@ -140,7 +140,7 @@
     "source_date": "2026-08-03",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-agriculture-01",
@@ -153,7 +153,7 @@
     "source_date": "2026-01-08",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-agriculture-02",
@@ -166,7 +166,7 @@
     "source_date": "2026-01-10",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-logement-01",
@@ -179,7 +179,7 @@
     "source_date": "2026-08-04",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-sante-01",
@@ -192,7 +192,7 @@
     "source_date": "2026-01-10",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-sante-02",
@@ -205,7 +205,7 @@
     "source_date": "2026-08-19",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-education-01",
@@ -218,7 +218,7 @@
     "source_date": "2025-10-25",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-education-02",
@@ -231,7 +231,7 @@
     "source_date": "2026-08-03",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-securite-01",
@@ -244,7 +244,7 @@
     "source_date": "2025-10-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-securite-02",
@@ -257,7 +257,7 @@
     "source_date": "2026-03-30",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-immigration-01",
@@ -270,7 +270,7 @@
     "source_date": "2025-10-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-immigration-02",
@@ -283,20 +283,20 @@
     "source_date": "2026-05-08",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-institutions-01",
     "theme": "institutions",
-    "title": "Proposer par référendum un septennat unique",
-    "description": "Mandat présidentiel unique : proposition d'un septennat non renouvelable par référendum, et engagement personnel à n'exercer qu'un seul mandat.",
+    "title": "Instaurer un mandat présidentiel unique",
+    "description": "Engagement à n'exercer qu'un seul mandat de cinq ans (Le Figaro, Ouest-France, août 2026) et proposition, par référendum, d'un septennat unique (Le Figaro, L'Opinion, août 2026). En juillet 2026 (La Provence), il évoquait comme modalité institutionnelle un mandat unique de cinq ans.",
     "source_type": "declaration",
     "source_title": "Le Figaro – « Je n'ai pas le profil d'une prise de guerre, je trace ma route » (reproduit sur nousfrance.fr)",
     "source_url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/",
     "source_date": "2026-08-04",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-institutions-02",
@@ -309,7 +309,7 @@
     "source_date": "2025-10-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-institutions-03",
@@ -322,7 +322,7 @@
     "source_date": "2026-05-01",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-europe-01",
@@ -335,7 +335,7 @@
     "source_date": "2026-01-10",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-international-01",
@@ -348,7 +348,7 @@
     "source_date": "2026-01-10",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-culture-01",
@@ -361,7 +361,7 @@
     "source_date": "2026-08-03",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-culture-02",
@@ -374,7 +374,7 @@
     "source_date": "2026-01-06",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-culture-03",
@@ -387,7 +387,7 @@
     "source_date": "2026-05-01",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-services_publics-01",
@@ -400,7 +400,7 @@
     "source_date": "2026-07-05",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "bertrand-services_publics-02",
@@ -413,6 +413,19 @@
     "source_date": "2026-05-01",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "bertrand-services_publics-03",
+    "theme": "services_publics",
+    "title": "Confier aux régions la compétence du logement et de la santé",
+    "description": "Dans le cadre de sa « République des territoires », il demande que les régions reçoivent la responsabilité du logement et de la santé, estimant qu'elles accéléreraient les programmes immobiliers.",
+    "source_type": "declaration",
+    "source_title": "Paris Match – « Sébastien Lecornu subira le même sort que Michel Barnier et François Bayrou » (entretien reproduit sur nousfrance.fr)",
+    "source_url": "https://www.nousfrance.fr/2025/10/xavier-bertrand-sebastien-lecornu-subira-le-meme-sort-que-michel-barnier-et-francois-bayrou-paris-match/",
+    "source_date": "2025-10-30",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   }
 ]

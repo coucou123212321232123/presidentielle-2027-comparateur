@@ -1,0 +1,287 @@
+[
+  {
+    "measure_id": "attal-fiscalite-01",
+    "decision": "acceptee",
+    "motif": "Conforme au PDF de campagne (chiffres, échéances et pages vérifiés)."
+  },
+  {
+    "measure_id": "attal-europe-01",
+    "decision": "acceptee",
+    "motif": "Conforme au PDF de campagne (chiffres, échéances et pages vérifiés)."
+  },
+  {
+    "measure_id": "attal-europe-02",
+    "decision": "acceptee",
+    "motif": "Conforme au PDF de campagne (chiffres, échéances et pages vérifiés)."
+  },
+  {
+    "measure_id": "attal-economie-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-economie-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-fiscalite-05",
+    "decision": "corrigee",
+    "motif": "Corrigée : la lettre ne mentionne pas « investissement » comme dépense d'avenir ; reformulé « dépenses d'avenir, dont l'éducation » (lettre p. 2 et page campagne du 15/10)."
+  },
+  {
+    "measure_id": "attal-fiscalite-06",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-emploi-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-emploi-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-retraites-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-retraites-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : pétition Renaissance non datée, en ligne depuis au moins novembre 2025 (Wayback) ; source_title complété « (en ligne depuis 2025) ». Contenu conforme et attribué à G. Attal sur la page."
+  },
+  {
+    "measure_id": "attal-energie-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-energie-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-ecologie-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-ecologie-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-ecologie-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-ecologie-06",
+    "decision": "acceptee",
+    "motif": "Conforme à la page indiquée du document Renaissance de 2025 ; source_title mentionne le parti et la date (antérieure à la candidature)."
+  },
+  {
+    "measure_id": "attal-agriculture-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-agriculture-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-agriculture-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-logement-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-logement-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la page indiquée du document Renaissance de 2025 ; source_title mentionne le parti et la date (antérieure à la candidature)."
+  },
+  {
+    "measure_id": "attal-sante-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la page indiquée du document Renaissance de 2025 ; source_title mentionne le parti et la date (antérieure à la candidature)."
+  },
+  {
+    "measure_id": "attal-sante-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-education-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-education-06",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-education-07",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-education-08",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-education-09",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-securite-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-securite-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la page indiquée du document Renaissance de 2025 ; source_title mentionne le parti et la date (antérieure à la candidature)."
+  },
+  {
+    "measure_id": "attal-securite-06",
+    "decision": "corrigee",
+    "motif": "Corrigée : l'appel à une filière aéronautique européenne provient d'une autre page (Nevers, 15/07), pas de la source citée (La Grande-Motte) ; clause retirée."
+  },
+  {
+    "measure_id": "attal-securite-07",
+    "decision": "acceptee",
+    "motif": "Conforme à la page indiquée du document Renaissance de 2025 ; source_title mentionne le parti et la date (antérieure à la candidature)."
+  },
+  {
+    "measure_id": "attal-immigration-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la page indiquée du document Renaissance de 2025 ; source_title mentionne le parti et la date (antérieure à la candidature)."
+  },
+  {
+    "measure_id": "attal-immigration-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la page indiquée du document Renaissance de 2025 ; source_title mentionne le parti et la date (antérieure à la candidature)."
+  },
+  {
+    "measure_id": "attal-immigration-06",
+    "decision": "acceptee",
+    "motif": "Conforme à la page indiquée du document Renaissance de 2025 ; source_title mentionne le parti et la date (antérieure à la candidature)."
+  },
+  {
+    "measure_id": "attal-institutions-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-institutions-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-institutions-06",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-europe-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : le discours (p. 20) ne lie pas le référendum européen au traité négocié avec le noyau dur (p. 18) ; clause interprétative retirée."
+  },
+  {
+    "measure_id": "attal-europe-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-europe-06",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-europe-07",
+    "decision": "corrigee",
+    "motif": "Corrigée : la liste des douze projets (p. 13-14) omettait la « souveraineté cognitive » (règles sur les algorithmes) ; ajoutée."
+  },
+  {
+    "measure_id": "attal-international-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-international-05",
+    "decision": "corrigee",
+    "motif": "Corrigée : la sécurisation d'Ormuz aux côtés du Royaume-Uni provient de la page BFM TV, pas de la source citée (France Info) ; clause retirée."
+  },
+  {
+    "measure_id": "attal-international-06",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-numerique-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : pétition Renaissance non datée, en ligne depuis au moins septembre 2025 (Wayback) ; source_title complété « (en ligne depuis 2025) ». Contenu conforme et attribué à G. Attal sur la page."
+  },
+  {
+    "measure_id": "attal-numerique-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-numerique-06",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-numerique-07",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-services_publics-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la page indiquée du document Renaissance de 2025 ; source_title mentionne le parti et la date (antérieure à la candidature)."
+  },
+  {
+    "measure_id": "attal-services_publics-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la page indiquée du document Renaissance de 2025 ; source_title mentionne le parti et la date (antérieure à la candidature)."
+  },
+  {
+    "measure_id": "attal-famille-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-famille-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la source officielle de campagne (chiffres, conditions et date vérifiés)."
+  },
+  {
+    "measure_id": "attal-famille-06",
+    "decision": "acceptee",
+    "motif": "Conforme à la page indiquée du document Renaissance de 2025 ; source_title mentionne le parti et la date (antérieure à la candidature)."
+  },
+  {
+    "measure_id": "attal-famille-07",
+    "decision": "acceptee",
+    "motif": "Conforme à la page indiquée du document Renaissance de 2025 ; source_title mentionne le parti et la date (antérieure à la candidature)."
+  },
+  {
+    "measure_id": "program",
+    "decision": "acceptee",
+    "motif": "Bloc program vérifié : 4 PDF et pages ouverts (200), dates conformes (Reims 17/09/2026, lettre oct. 2026, conventions 26/05/2025 et 21/07/2025), statut « partiel » cohérent. Titres des deux pétitions complétés « en ligne depuis 2025 ». Ajouts key_people (P. Thevenot, T. Cazenave) confirmés sur attalpresident.fr/mon-equipe."
+  }
+]

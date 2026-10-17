@@ -31,11 +31,26 @@
     "Député de l'Aisne (2002-2016, avec interruptions)"
   ],
   "key_people": [
-    { "name": "Julien Dive", "role": "Porte-parole (député de l'Aisne)" },
-    { "name": "Sophie Gaugain", "role": "Porte-parole (vice-présidente de la région Normandie)" },
-    { "name": "Valérie Debord", "role": "Porte-parole (vice-présidente de la région Grand Est)" },
-    { "name": "Olivier Henno", "role": "Porte-parole (sénateur du Nord)" },
-    { "name": "Bernard Deflesselles", "role": "Secrétaire général de Nous France" }
+    {
+      "name": "Julien Dive",
+      "role": "Porte-parole (député de l'Aisne)"
+    },
+    {
+      "name": "Sophie Gaugain",
+      "role": "Porte-parole (vice-présidente de la région Normandie)"
+    },
+    {
+      "name": "Valérie Debord",
+      "role": "Porte-parole (vice-présidente de la région Grand Est)"
+    },
+    {
+      "name": "Olivier Henno",
+      "role": "Porte-parole (sénateur du Nord)"
+    },
+    {
+      "name": "Bernard Deflesselles",
+      "role": "Secrétaire général de Nous France"
+    }
   ],
   "slogan": null,
   "slogan_source_url": null,
@@ -50,10 +65,22 @@
   "website": "https://www.nousfrance.fr/",
   "news_url": "https://www.nousfrance.fr/les-actualites/",
   "socials": [
-    { "platform": "X", "url": "https://x.com/xavierbertrand" },
-    { "platform": "Instagram", "url": "https://www.instagram.com/xavier.bertrand/" },
-    { "platform": "Facebook", "url": "https://www.facebook.com/xavierbertrand02" },
-    { "platform": "X (Nous France)", "url": "https://x.com/NousFrance_fr" }
+    {
+      "platform": "X",
+      "url": "https://x.com/xavierbertrand"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/xavier.bertrand/"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/xavierbertrand02"
+    },
+    {
+      "platform": "X (Nous France)",
+      "url": "https://x.com/NousFrance_fr"
+    }
   ],
   "program": {
     "title": null,
@@ -61,18 +88,39 @@
     "format": "aucun",
     "published_date": null,
     "status": "en_cours_d_elaboration",
-    "note": "Aucun programme présidentiel 2027 publié au 15/10/2026 : le candidat indique « tester ses idées » et présenter un projet global lors de sa déclaration officielle, annoncée pour la fin 2026. Les pages « Propositions » du site nousfrance.fr datent de 2021 et 2024 (consultations intégrées, sans propositions détaillées) et n'ont pas été utilisées. Les mesures recensées proviennent d'entretiens et tribunes de 2025-2026 reproduits sur le site officiel de Nous France.",
+    "note": "Aucun programme présidentiel 2027 publié au 16/10/2026 : le candidat indique « tester ses idées » et présenter un projet lors de sa déclaration officielle, annoncée pour la fin 2026 (aucune déclaration officielle identifiée au 16/10/2026). Aucun document programmatique officiel n'a été trouvé : sur nousfrance.fr, les pages « Programme » (2021, 2024) et « Propositions » (pages des collectifs, 2022) ne contiennent que des titres, sans texte ni document téléchargeable ; la page « Des Régions d'espérer » (août 2026) relate une tournée d'écoute sans propositions. Les mesures recensées proviennent d'entretiens et tribunes de 2025-2026 reproduits sur le site officiel de Nous France ; son livre « Rien n'est jamais écrit » (Robert Laffont, 2025) n'est pas consultable en ligne.",
     "thematic_links": [],
     "archive_url": null
   },
   "sources": [
-    { "label": "Wikipédia – Xavier Bertrand", "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand" },
-    { "label": "Nous France – site officiel", "url": "https://www.nousfrance.fr/" },
-    { "label": "franceinfo – Déclaration au Medef (27/08/2026)", "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html" },
-    { "label": "LCP – « Tester ses idées », candidat indépendant (03/08/2026)", "url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en" },
-    { "label": "Le Monde (repris sur nousfrance.fr) – « Xavier Bertrand fait un pas de plus vers une candidature » (27/08/2026)", "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-fait-un-pas-de-plus-vers-une-candidature-a-la-presidentielle-le-monde/" },
-    { "label": "Ouest-France (repris sur nousfrance.fr) – « Xavier Bertrand presque candidat » (03/08/2026)", "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/" },
-    { "label": "Article de presse repris sur nousfrance.fr – « Présidentielle 2027 : Xavier Bertrand, candidat en embuscade » (29/09/2026)", "url": "https://www.nousfrance.fr/2026/09/presidentielle-2027-xavier-bertrand-candidat-en-embuscade/" }
+    {
+      "label": "Wikipédia – Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "label": "Nous France – site officiel",
+      "url": "https://www.nousfrance.fr/"
+    },
+    {
+      "label": "franceinfo – Déclaration au Medef (27/08/2026)",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html"
+    },
+    {
+      "label": "LCP – « Tester ses idées », candidat indépendant (03/08/2026)",
+      "url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en"
+    },
+    {
+      "label": "Le Monde (repris sur nousfrance.fr) – « Xavier Bertrand fait un pas de plus vers une candidature » (27/08/2026)",
+      "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-fait-un-pas-de-plus-vers-une-candidature-a-la-presidentielle-le-monde/"
+    },
+    {
+      "label": "Ouest-France (repris sur nousfrance.fr) – « Xavier Bertrand presque candidat » (03/08/2026)",
+      "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/"
+    },
+    {
+      "label": "Article de presse repris sur nousfrance.fr – « Présidentielle 2027 : Xavier Bertrand, candidat en embuscade » (29/09/2026)",
+      "url": "https://www.nousfrance.fr/2026/09/presidentielle-2027-xavier-bertrand-candidat-en-embuscade/"
+    }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

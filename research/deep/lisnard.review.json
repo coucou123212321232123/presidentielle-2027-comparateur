@@ -1,0 +1,182 @@
+[
+  {
+    "measure_id": "program",
+    "decision": "corrigee",
+    "motif": "Bloc program vérifié : lisnard2027.fr toujours « ouvre prochainement » ; 115 fiches « Questions » mises à jour le 16/10/2026 ; nouvelles pages thématiques (agriculture, santé, axes) en HTTP 200 ; plages de pages cohérentes avec les PDF (12, 12, 14 et 24 pages). Contradiction confirmée et fidèlement décrite : page « Réussir une nouvelle ambition française » (âge légal de 65 ans « impératif ») et page Immigration (regroupement familial « conditionné ») contre fiches du 16/10/2026 (« pas une nouvelle borne d'âge », livre « mettrait fin au regroupement familial »). Corrigé : « six pages thématiques » → « cinq » (la liste n'en compte que cinq et la fiche « Où trouver le programme » indique 5 déclinaisons)."
+  },
+  {
+    "measure_id": "lisnard-economie-04",
+    "decision": "acceptee",
+    "motif": "Conforme au Livre noir, p. 7 (PDF ouvert, HTTP 200) ; sans lien avec la contradiction âge légal / regroupement familial."
+  },
+  {
+    "measure_id": "lisnard-fiscalite-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du site de Nouvelle Énergie (HTTP 200, « Mis à jour le 16 octobre 2026 ») : chiffres et conditions vérifiés ; sans lien avec la contradiction âge légal / regroupement familial, aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-fiscalite-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du site de Nouvelle Énergie (HTTP 200, « Mis à jour le 16 octobre 2026 ») : chiffres et conditions vérifiés ; sans lien avec la contradiction âge légal / regroupement familial, aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-fiscalite-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du site de Nouvelle Énergie (HTTP 200, « Mis à jour le 16 octobre 2026 ») : chiffres et conditions vérifiés ; sans lien avec la contradiction âge légal / regroupement familial, aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-emploi-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du site de Nouvelle Énergie (HTTP 200, « Mis à jour le 16 octobre 2026 ») : chiffres et conditions vérifiés ; sans lien avec la contradiction âge légal / regroupement familial, aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-emploi-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » (mise à jour le 16/10/2026) qui présente la dégressivité comme position actuelle, même si les propos cités datent de 2024 et du livre ; aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-emploi-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la page programme « Réussir une nouvelle ambition française » (HTTP 200, non datée) ; point non concerné par la contradiction signalée et non contredit par les fiches « Questions » d'octobre 2026."
+  },
+  {
+    "measure_id": "lisnard-energie-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du site de Nouvelle Énergie (HTTP 200, « Mis à jour le 16 octobre 2026 ») : chiffres et conditions vérifiés ; sans lien avec la contradiction âge légal / regroupement familial, aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-ecologie-02",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du site de Nouvelle Énergie (HTTP 200, « Mis à jour le 16 octobre 2026 ») : chiffres et conditions vérifiés ; sans lien avec la contradiction âge légal / regroupement familial, aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-ecologie-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la page programme « Générer un renouveau civique » (HTTP 200, non datée) ; point non concerné par la contradiction signalée et non contredit par les fiches « Questions » d'octobre 2026."
+  },
+  {
+    "measure_id": "lisnard-ecologie-04",
+    "decision": "acceptee",
+    "motif": "Conforme au Livre noir, p. 8 (PDF ouvert, HTTP 200) ; sans lien avec la contradiction âge légal / regroupement familial."
+  },
+  {
+    "measure_id": "lisnard-agriculture-04",
+    "decision": "acceptee",
+    "motif": "Conforme au carnet Agriculture, p. 9 (PDF ouvert, HTTP 200) ; sans lien avec la contradiction âge légal / regroupement familial."
+  },
+  {
+    "measure_id": "lisnard-agriculture-05",
+    "decision": "acceptee",
+    "motif": "Conforme au carnet Agriculture, p. 8 (PDF ouvert, HTTP 200) ; sans lien avec la contradiction âge légal / regroupement familial."
+  },
+  {
+    "measure_id": "lisnard-agriculture-06",
+    "decision": "corrigee",
+    "motif": "Corrigée : le carnet Agriculture (p. 10) propose de « jeter les bases d'un processus d'harmonisation » des règles fiscales et sociales, pas une harmonisation : formulation ramenée à « amorce d'un processus d'harmonisation ». Reste conforme."
+  },
+  {
+    "measure_id": "lisnard-logement-03",
+    "decision": "acceptee",
+    "motif": "Conforme au Livre noir, p. 7 (PDF ouvert, HTTP 200) ; sans lien avec la contradiction âge légal / regroupement familial."
+  },
+  {
+    "measure_id": "lisnard-logement-04",
+    "decision": "acceptee",
+    "motif": "Conforme au Livre noir, p. 7 (PDF ouvert, HTTP 200) ; sans lien avec la contradiction âge légal / regroupement familial."
+  },
+  {
+    "measure_id": "lisnard-sante-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du site de Nouvelle Énergie (HTTP 200, « Mis à jour le 16 octobre 2026 ») : chiffres et conditions vérifiés ; sans lien avec la contradiction âge légal / regroupement familial, aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-sante-05",
+    "decision": "acceptee",
+    "motif": "Conforme au carnet Santé, p. 8 (PDF ouvert, HTTP 200) ; sans lien avec la contradiction âge légal / regroupement familial."
+  },
+  {
+    "measure_id": "lisnard-sante-06",
+    "decision": "acceptee",
+    "motif": "Conforme au carnet Santé, p. 10 (PDF ouvert, HTTP 200) ; sans lien avec la contradiction âge légal / regroupement familial."
+  },
+  {
+    "measure_id": "lisnard-education-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la page programme « Éducation » (HTTP 200, non datée) ; point non concerné par la contradiction signalée et non contredit par les fiches « Questions » d'octobre 2026."
+  },
+  {
+    "measure_id": "lisnard-education-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la page programme « Éducation » (HTTP 200, non datée) ; point non concerné par la contradiction signalée et non contredit par les fiches « Questions » d'octobre 2026."
+  },
+  {
+    "measure_id": "lisnard-education-06",
+    "decision": "acceptee",
+    "motif": "Conforme au Livre noir, p. 9 (PDF ouvert, HTTP 200) ; sans lien avec la contradiction âge légal / regroupement familial."
+  },
+  {
+    "measure_id": "lisnard-securite-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du site de Nouvelle Énergie (HTTP 200, « Mis à jour le 16 octobre 2026 ») : chiffres et conditions vérifiés ; sans lien avec la contradiction âge légal / regroupement familial, aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-securite-06",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du site de Nouvelle Énergie (HTTP 200, « Mis à jour le 16 octobre 2026 ») : chiffres et conditions vérifiés ; sans lien avec la contradiction âge légal / regroupement familial, aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-immigration-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la page programme « Immigration » (HTTP 200, non datée). Vérifié au regard de la contradiction signalée : la mesure ne porte pas sur le regroupement familial, et les fiches d'octobre 2026 (« politique migratoire ferme ») vont dans le même sens (expulsion des délinquants étrangers)."
+  },
+  {
+    "measure_id": "lisnard-immigration-06",
+    "decision": "acceptee",
+    "motif": "Conforme à la page programme « Immigration » (HTTP 200, non datée). Non concernée par la contradiction sur le regroupement familial ; la fiche du 16/10/2026 (« prêt à contester la CEDH ou réviser la Constitution ») est cohérente."
+  },
+  {
+    "measure_id": "lisnard-institutions-04",
+    "decision": "acceptee",
+    "motif": "Conforme à la page programme « Être maître de notre destin » (HTTP 200, non datée) ; point non concerné par la contradiction signalée et non contredit par les fiches « Questions » d'octobre 2026."
+  },
+  {
+    "measure_id": "lisnard-europe-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la page programme « Être maître de notre destin » (HTTP 200, non datée) ; point non concerné par la contradiction signalée et non contredit par les fiches « Questions » d'octobre 2026."
+  },
+  {
+    "measure_id": "lisnard-international-02",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du site de Nouvelle Énergie (HTTP 200, « Mis à jour le 16 octobre 2026 ») : chiffres et conditions vérifiés ; sans lien avec la contradiction âge légal / regroupement familial, aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-international-03",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du site de Nouvelle Énergie (HTTP 200, « Mis à jour le 16 octobre 2026 ») : chiffres et conditions vérifiés ; sans lien avec la contradiction âge légal / regroupement familial, aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-culture-02",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du 16/10/2026 (« Il assume des privatisations ciblées, comme France 2 » ; recentrage, fermeture ou réorganisation de chaînes)."
+  },
+  {
+    "measure_id": "lisnard-outre_mer-02",
+    "decision": "acceptee",
+    "motif": "Conforme à la page programme « Sécurité » (HTTP 200, non datée) ; point non concerné par la contradiction signalée et non contredit par les fiches « Questions » d'octobre 2026."
+  },
+  {
+    "measure_id": "lisnard-services_publics-04",
+    "decision": "corrigee",
+    "motif": "Corrigée : le SVA (1 600 exceptions, délai de 15 jours) figure p. 16, mais le partage obligatoire des données et le dossier numérique unique figurent p. 12 et 14 du Livre noir → source_page « p. 12, 14, 16 »."
+  },
+  {
+    "measure_id": "lisnard-services_publics-05",
+    "decision": "acceptee",
+    "motif": "Conforme à la fiche « Questions » du site de Nouvelle Énergie (HTTP 200, « Mis à jour le 16 octobre 2026 ») : chiffres et conditions vérifiés ; sans lien avec la contradiction âge légal / regroupement familial, aucune source plus récente contraire."
+  },
+  {
+    "measure_id": "lisnard-services_publics-06",
+    "decision": "acceptee",
+    "motif": "Conforme au discours de D. Lisnard publié dans le Livre noir, p. 24 (suppression de l'INSP, spoil system, DRH de l'État, « cent premiers jours ») ; type « declaration » correct."
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "action": "program",
+    "measure_id": null,
+    "evidence": [
+      {
+        "url": "https://www.nousfrance.fr/propositions/",
+        "page": null,
+        "excerpt": "Les Collectifs sont des groupes de réflexion sur des thèmes précis"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "bertrand-institutions-01",
+    "evidence": [
+      {
+        "url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/",
+        "page": null,
+        "excerpt": "il veut proposer aux Français le septennat unique"
+      },
+      {
+        "url": "https://www.nousfrance.fr/2026/08/presidentielle-2027-xavier-bertrand-un-non-candidat-en-campagne-lopinion/",
+        "page": null,
+        "excerpt": "rétablir le septennat"
+      },
+      {
+        "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
+        "page": null,
+        "excerpt": "logique d’un mandat unique de cinq ans"
+      },
+      {
+        "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
+        "page": null,
+        "excerpt": "ce sera pour un seul mandat de cing ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "bertrand-services_publics-03",
+    "evidence": [
+      {
+        "url": "https://www.nousfrance.fr/2025/10/xavier-bertrand-sebastien-lecornu-subira-le-meme-sort-que-michel-barnier-et-francois-bayrou-paris-match/",
+        "page": null,
+        "excerpt": "Donnez-nous la responsabilité du logement et de la santé"
+      },
+      {
+        "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
+        "page": null,
+        "excerpt": "Si on nous confiait pleinement la compétence du logement"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "bertrand-famille-01",
+    "evidence": [
+      {
+        "url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/",
+        "page": null,
+        "excerpt": "la monoparentalité, les parents isolés"
+      }
+    ]
+  }
+]

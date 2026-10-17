@@ -1,0 +1,839 @@
+[
+  {
+    "action": "update",
+    "measure_id": "attal-fiscalite-01",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/2026/Lettre-finances-publiques.pdf",
+        "page": "p. 1",
+        "excerpt": "j'actionnerai un frein d'urgence de 20 milliards d'euros"
+      },
+      {
+        "url": "https://doc.parti.re/2026/Lettre-finances-publiques.pdf",
+        "page": "p. 1",
+        "excerpt": "des comptes de la sécurité sociale à l'équilibre en trois ans"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-lettre-aux-francais-plan-finances-publiques",
+        "page": null,
+        "excerpt": "Un frein d’urgence de 20 milliards d’euros d’économies dès son arrivée"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "attal-europe-01",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/2026/Discours_Europe.pdf",
+        "page": "p. 12",
+        "excerpt": "une fusion économique et écologique d’abord entre un noyau dur de pays"
+      },
+      {
+        "url": "https://doc.parti.re/2026/Discours_Europe.pdf",
+        "page": "p. 19",
+        "excerpt": "un président élu au suffrage universel à travers l’Europe"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "attal-europe-02",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/2026/Discours_Europe.pdf",
+        "page": "p. 15",
+        "excerpt": "Nous achèverons également l’union bancaire et celle de nos marchés de capitaux."
+      },
+      {
+        "url": "https://doc.parti.re/2026/Discours_Europe.pdf",
+        "page": "p. 16",
+        "excerpt": "une préférence européenne enfin assumée"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-economie-03",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/programme/frontieres",
+        "page": null,
+        "excerpt": "des taxes à l'importation ciblées sur les produits chinois vendus à perte"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-economie-04",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-en-bretagne-trois-jours-au-contact-de-la-france-qui-travaille",
+        "page": null,
+        "excerpt": "la création d'un statut « Auto-TPE » pour faciliter l'embauche du premier salarié"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-fiscalite-05",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/2026/Lettre-finances-publiques.pdf",
+        "page": "p. 1",
+        "excerpt": "d'ici 10 ans, tout budget devra être voté à l'équilibre"
+      },
+      {
+        "url": "https://doc.parti.re/2026/Lettre-finances-publiques.pdf",
+        "page": "p. 2",
+        "excerpt": "J'y ajoute une deuxième règle d'or"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+        "page": null,
+        "excerpt": "Règle interdisant aux dépenses de fonctionnement de dépasser les dépenses d’avenir"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-fiscalite-06",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/a-la-ref-gabriel-attal-grand-gagnant-du-premier-debat-de-la-presidentielle-2027",
+        "page": null,
+        "excerpt": "mener enfin à terme la suppression de la CVAE"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/a-la-ref-gabriel-attal-grand-gagnant-du-premier-debat-de-la-presidentielle-2027",
+        "page": null,
+        "excerpt": "la pérennité du crédit d’impôt recherche et du pacte Dutreil"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-emploi-04",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+        "page": null,
+        "excerpt": "Généralisation du testing avec publication des résultats"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+        "page": null,
+        "excerpt": "Affichage des fourchettes des salaires dans les offres d’emploi"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-emploi-05",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+        "page": null,
+        "excerpt": "Contrat dès la première entre chaque lycéen professionnel et une entreprise"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-retraites-03",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/aux-assises-de-l-afer-gabriel-attal-defend-une-epargne-qui-finance-l-economie-francaise",
+        "page": null,
+        "excerpt": "que 50 % de l’intéressement et de la participation versés par les entreprises"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-appelle-a-une-rupture-economique-dans-les-echos",
+        "page": null,
+        "excerpt": "le fléchage obligatoire de 50 % de l’intéressement et de la participation"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-retraites-04",
+    "evidence": [
+      {
+        "url": "https://parti-renaissance.fr/petitions/refonder-notre-systeme-de-retraite",
+        "page": null,
+        "excerpt": "chaque euro cotisé correspond à un euro de pension acquis"
+      },
+      {
+        "url": "https://parti-renaissance.fr/petitions/refonder-notre-systeme-de-retraite",
+        "page": null,
+        "excerpt": "crédit d’impôt pour les foyers modestes pratiquant la capitalisation"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-energie-04",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/face-aux-canicules-gabriel-attal-veut-faire-de-la-geoenergie-le-grand-projet-energetique-de-la-france-du-xxie-siecle",
+        "page": null,
+        "excerpt": "multiplier par cinq les capacités de production d'ici 2035"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/face-aux-canicules-gabriel-attal-veut-faire-de-la-geoenergie-le-grand-projet-energetique-de-la-france-du-xxie-siecle",
+        "page": null,
+        "excerpt": "pour atteindre 160 millions d'euros par an"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-energie-05",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+        "page": null,
+        "excerpt": "Objectif d’une voiture électrique française à 10 000 €"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+        "page": null,
+        "excerpt": "Leasing électrique pour les travailleurs de première ligne"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-ecologie-03",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-un-plan-de-desendettement-et-un-messmer-ii-pour-sortir-des-dependances-francaises",
+        "page": null,
+        "excerpt": "rouvrir le sujet minier en France et en Europe"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-un-plan-de-desendettement-et-un-messmer-ii-pour-sortir-des-dependances-francaises",
+        "page": null,
+        "excerpt": "couvrir 30 % des besoins par la réutilisation et le recyclage"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-ecologie-04",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/face-aux-canicules-gabriel-attal-veut-faire-de-la-geoenergie-le-grand-projet-energetique-de-la-france-du-xxie-siecle",
+        "page": null,
+        "excerpt": "instaurer un véritable droit à la climatisation et à la rénovation"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-ecologie-05",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-plan-eau-argeles-sur-mer",
+        "page": null,
+        "excerpt": "dépistage automatique dans les captages"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-plan-eau-argeles-sur-mer",
+        "page": null,
+        "excerpt": "chasse intraitable aux polluants éternels, les PFAS"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-ecologie-06",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+        "page": "p. 65",
+        "excerpt": "rétablirons la possibilité, pour les villes le souhaitant, d’instaurer une Zone à faible émission"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-agriculture-03",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-l-ain-et-la-saone-et-loire",
+        "page": null,
+        "excerpt": "des prix planchers indexés sur les coûts de production"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-l-ain-et-la-saone-et-loire",
+        "page": null,
+        "excerpt": "contractualisation pluriannuelle de 3 à 5 ans pour la grande distribution"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-agriculture-04",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-l-ain-et-la-saone-et-loire",
+        "page": null,
+        "excerpt": "réaffirmé son opposition ferme au traité Mercosur"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-l-ain-et-la-saone-et-loire",
+        "page": null,
+        "excerpt": "l'intégration systématique de clauses miroir dans les accords commerciaux"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-agriculture-05",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-l-ain-et-la-saone-et-loire",
+        "page": null,
+        "excerpt": "l'incitation à la transmission, l'optimisation de la fiscalité sur le portage du foncier"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-logement-03",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/a-la-ref-gabriel-attal-grand-gagnant-du-premier-debat-de-la-presidentielle-2027",
+        "page": null,
+        "excerpt": "Il propose notamment un véritable statut du bailleur privé"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/a-la-ref-gabriel-attal-grand-gagnant-du-premier-debat-de-la-presidentielle-2027",
+        "page": null,
+        "excerpt": "aux locataires du parc social d’acheter leur logement"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-logement-04",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+        "page": "p. 79",
+        "excerpt": "créer jusqu’à 500 000 logements supplémentaires"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-sante-03",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 14",
+        "excerpt": "professionnel de la santé mentale au moins 2 fois avant ses 18 ans"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+        "page": null,
+        "excerpt": "Plan massif pour la santé mentale et la psychiatrie"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-sante-04",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-fin-de-vie-l-aboutissement-d-un-long-chemin-et-la-consecration-d-un-droit-nouveau",
+        "page": null,
+        "excerpt": "un investissement massif dans les soins palliatifs"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-fin-de-vie-l-aboutissement-d-un-long-chemin-et-la-consecration-d-un-droit-nouveau",
+        "page": null,
+        "excerpt": "la consécration d’un droit nouveau et d’une liberté nouvelle"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-education-05",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/dans-le-monde-gabriel-attal-devoile-son-projet-pour-faire-notre-ecole-la-meilleure-d-europe",
+        "page": null,
+        "excerpt": "un ministre de l’éducation nationale qui restera en poste cinq ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-education-06",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/dans-le-monde-gabriel-attal-devoile-son-projet-pour-faire-notre-ecole-la-meilleure-d-europe",
+        "page": null,
+        "excerpt": "chaque élève un assistant d’intelligence artificielle sécurisé, souverain"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/dans-le-monde-gabriel-attal-devoile-son-projet-pour-faire-notre-ecole-la-meilleure-d-europe",
+        "page": null,
+        "excerpt": "former 100 % des enseignants à l’intelligence artificielle"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-education-07",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/france-2-gabriel-attal-fait-de-l-ecole-une-priorite-pour-preparer-l-avenir-du-pays",
+        "page": null,
+        "excerpt": "la création d’un véritable corps professionnel pour les AESH"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-education-08",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-france-info-ecouter-la-jeunesse",
+        "page": null,
+        "excerpt": "évaluer tous les trois ans les licences et les masters"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-education-09",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-rtl-autorite-ecole-retraites-rassemblement-campagne",
+        "page": null,
+        "excerpt": "la création d’un conseil de discipline dès le primaire"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-rtl-autorite-ecole-retraites-rassemblement-campagne",
+        "page": null,
+        "excerpt": "la mise en place d’un barème national des sanctions"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-securite-04",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/en-vendee-gabriel-attal-exige-le-respect-du-droit-par-tous-face-aux-occupations-illegales-des-gens-du-voyage-et-fait-des-propositions",
+        "page": null,
+        "excerpt": "un registre national obligatoire répertoriant les groupes de plus de 20 caravanes"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/en-vendee-gabriel-attal-exige-le-respect-du-droit-par-tous-face-aux-occupations-illegales-des-gens-du-voyage-et-fait-des-propositions",
+        "page": null,
+        "excerpt": "la création d'un délit de maintien illicite"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-securite-05",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 20",
+        "excerpt": "doivent être systématiques dans les communes de plus de 10 000 habitants"
+      },
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 20",
+        "excerpt": "Rendre obligatoire l’armement des polices municipales"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-securite-06",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/en-deplacement-a-la-grande-motte-gabriel-attal-va-a-la-rencontre-de-la-france-qui-travaille-l-ete",
+        "page": null,
+        "excerpt": "davantage d’hélicoptères et d’avions bombardiers d’eau"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-continue-son-tour-de-france-a-nevers",
+        "page": null,
+        "excerpt": "bâtir une filière aéronautique européenne souveraine"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-securite-07",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 63",
+        "excerpt": "Créer un délit d’entrisme qui complètera le délit de séparatisme"
+      },
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 63",
+        "excerpt": "de 10 000€ à 1000€"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-immigration-04",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 53",
+        "excerpt": "allongement du délai de présence du conjoint de 18 à 24 mois"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-france-inter-election-presidentielle",
+        "page": null,
+        "excerpt": "l'augmentation de la durée de résidence requise en France"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-immigration-05",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 53",
+        "excerpt": "Cessation du versement de toute prestation sociale à l’expiration du titre de séjour"
+      },
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 53",
+        "excerpt": "Création de 3000 places supplémentaires à l’horizon 2030"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-immigration-06",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 51",
+        "excerpt": "Nous refusons la suppression du droit du sol sur le territoire hexagonal."
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-institutions-04",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
+        "page": null,
+        "excerpt": "la création d'un spoils system à la française"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-institutions-05",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/dans-le-parisien-gabriel-attal-vise-le-zero-deficit-en-2037",
+        "page": null,
+        "excerpt": "interdire de se représenter à l'élection suivante les parlementaires ayant voté des budgets"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-institutions-06",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-en-meeting-a-lyon-un-pacte-pour-la-jeunesse",
+        "page": null,
+        "excerpt": "une convention réunissant 150 jeunes tirés au sort, âgés de 16 à 25 ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-europe-04",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/2026/Discours_Europe.pdf",
+        "page": "p. 20",
+        "excerpt": "créer ces Etats-Unis d’Europe en faisant le premier référendum européen"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-europe-05",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/2026/Discours_Europe.pdf",
+        "page": "p. 16",
+        "excerpt": "dotés d’une arme de dissuasion commerciale"
+      },
+      {
+        "url": "https://doc.parti.re/2026/Discours_Europe.pdf",
+        "page": "p. 17",
+        "excerpt": "un Trésor unique capable d’émettre une dette commune"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-europe-06",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-pour-le-retour-du-royaume-uni-dans-l-union-europeenne-dans-le-figaro",
+        "page": null,
+        "excerpt": "préparer les conditions d'une future réadhésion"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-pour-le-retour-du-royaume-uni-dans-l-union-europeenne-dans-le-figaro",
+        "page": null,
+        "excerpt": "Gabriel Attal propose de bâtir une « Europe des coalitions »"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-europe-07",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/2026/Discours_Europe.pdf",
+        "page": "p. 13",
+        "excerpt": "notre propre constellation de satellites et la création du lanceur successeur"
+      },
+      {
+        "url": "https://doc.parti.re/2026/Discours_Europe.pdf",
+        "page": "p. 13",
+        "excerpt": "Créer notre propre système de paiement souverain"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-international-04",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/aux-rencontres-economiques-d-aix-en-provence-gabriel-attal-appelle-la-france-a-preparer-les-guerres-de-demain",
+        "page": null,
+        "excerpt": "déployer des fonds pour alimenter, soutenir et investir dans les entreprises de la défense"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-international-05",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-france-info-ia-pouvoir-d-achat-et-climat-au-coeur-de-sa-campagne",
+        "page": null,
+        "excerpt": "il faut maintenir, voire renforcer, les sanctions contre le régime des mollahs"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-bfm-tv-la-france-a-toujours-un-role-a-jouer-c-est-sa-mission-c-est-son-destin",
+        "page": null,
+        "excerpt": "garantir la sécurité du commerce international dans cette zone stratégique"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-international-06",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays",
+        "page": null,
+        "excerpt": "frapper en profondeur sur le territoire russe lorsqu’il s’agit de se défendre"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-numerique-04",
+    "evidence": [
+      {
+        "url": "https://parti-renaissance.fr/petitions/regulation-ecrans-et-rs",
+        "page": null,
+        "excerpt": "fermeture des réseaux sociaux de 22h à 8h pour les 15-18 ans"
+      },
+      {
+        "url": "https://parti-renaissance.fr/petitions/regulation-ecrans-et-rs",
+        "page": null,
+        "excerpt": "verser 2% de leurs revenus à un fonds dédié"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-numerique-05",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-appelle-a-une-rupture-economique-dans-les-echos",
+        "page": null,
+        "excerpt": "la création d’un crédit d’impôt productivité"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-appelle-a-une-rupture-economique-dans-les-echos",
+        "page": null,
+        "excerpt": "il appelle à revoir en profondeur l'AI Act européen"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-numerique-06",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-politico-europe-ukraine-ia-et-finances-publiques-quatre-priorites-pour-preparer-la-france-de-demain",
+        "page": null,
+        "excerpt": "on peut créer une régulation internationale de l'IA"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-numerique-07",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays",
+        "page": null,
+        "excerpt": "Il défend plutôt la transparence de leurs algorithmes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-services_publics-03",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+        "page": "p. 21",
+        "excerpt": "Nous ouvrirons le chatbot Albert à tous les Français"
+      },
+      {
+        "url": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+        "page": "p. 22",
+        "excerpt": "La création de \"France entreprises\" sur le modèle de France services"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-services_publics-04",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 26",
+        "excerpt": "Favoriser les permanences de la Gendarmerie nationale dans les services publics"
+      },
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 26",
+        "excerpt": "Développer les brigades mobiles de gendarmerie"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-famille-04",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+        "page": null,
+        "excerpt": "Un mois d’engagement civique obligatoire avant 25 ans"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-famille-05",
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-spa-de-plaisir-premieres-propositions-contre-labandon-animal",
+        "page": null,
+        "excerpt": "la suppression des salons du chiot et du chaton"
+      },
+      {
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-spa-de-plaisir-premieres-propositions-contre-labandon-animal",
+        "page": null,
+        "excerpt": "un fichier national des personnes interdites de détenir un animal"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-famille-06",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 61",
+        "excerpt": "nous proposons d’interdire le port du voile pour les enfants dans l’espace public"
+      },
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 62",
+        "excerpt": "créer un délit de contrainte au port du voile"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "attal-famille-07",
+    "evidence": [
+      {
+        "url": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+        "page": "p. 29",
+        "excerpt": "mettre en place un droit opposable à la garde d’enfants"
+      },
+      {
+        "url": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+        "page": "p. 29",
+        "excerpt": "rémunéré à 70% du plafond de la Sécurité sociale"
+      }
+    ]
+  },
+  {
+    "action": "program",
+    "measure_id": null,
+    "evidence": [
+      {
+        "url": "https://attalpresident.fr/programme",
+        "page": null,
+        "excerpt": "Voici les engagements concrets qui structurent la campagne"
+      },
+      {
+        "url": "https://doc.parti.re/2026/Discours_Europe.pdf",
+        "page": "p. 3",
+        "excerpt": "Bâtir les Etats-Unis d’Europe Reims, le 17 septembre 2026"
+      },
+      {
+        "url": "https://doc.parti.re/2026/Lettre-finances-publiques.pdf",
+        "page": "p. 1",
+        "excerpt": "Lettre de Gabriel Attal aux Français sur les finances publiques"
+      },
+      {
+        "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf",
+        "page": "p. 4",
+        "excerpt": "j’ai décidé de lancer trois premières conventions thématiques"
+      },
+      {
+        "url": "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf",
+        "page": "p. 1",
+        "excerpt": "POUR UNE NOUVELLE DONNE ÉCONOMIQUE ET CLIMATIQUE 21 07 25"
+      }
+    ]
+  }
+]

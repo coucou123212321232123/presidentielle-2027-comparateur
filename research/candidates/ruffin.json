@@ -63,59 +63,73 @@
     "format": "livret",
     "published_date": "2026-04-13",
     "status": "partiel",
-    "note": "Pas de programme complet à ce jour : la campagne publie des cahiers thématiques successifs (six entre avril et octobre 2026, le premier mis en ligne le 13 avril 2026) et un « plan d'action » sur les data centers (8 octobre 2026), rassemblés sur la page « Notre programme » créée le 12 octobre 2026. Le premier cahier annonce que les mesures concernant les agents du secteur public feront l'objet d'un cahier ultérieur. Aucune publication programmatique n'a été trouvée sur la santé et l'éducation. Le manifeste fondateur de Debout! (avril 2026, modifié en juin 2026) complète ces documents.",
+    "note": "Pas de programme complet à ce jour : la campagne publie des cahiers thématiques successifs (sept entre avril et octobre 2026, le premier mis en ligne le 13 avril 2026, le septième sur l'industrie le 15 octobre 2026) et des « plans d'action » (data centers, 8 octobre 2026 ; urgence climat, 12 octobre 2026), rassemblés sur la page « Notre programme ». Le premier cahier annonce que les mesures concernant les agents du secteur public feront l'objet d'un cahier ultérieur. Aucun cahier n'est consacré à la santé ni à l'éducation au 16 octobre 2026 : les seules propositions trouvées dans ces domaines figurent dans d'autres cahiers (pôle public du médicament dans le cahier n°7, soutien psychologique aux sinistrés dans le plan Urgence climat, enseignements artistiques dans le cahier n°3, places de BTS dans le cahier n°7). Le manifeste fondateur de Debout! (avril 2026, modifié en juin 2026) complète ces documents.",
     "thematic_links": [
       {
         "theme": "emploi",
         "title": "Cahier n°1 – Pour un statut des travailleuses et travailleurs essentiels",
         "url": "https://nouspresident.fr/wp-content/uploads/2026/04/Debout-Livret-Campagne_Web.pdf",
         "format": "pdf",
-        "page_range": null
+        "page_range": "p. 1-25"
       },
       {
         "theme": "institutions",
         "title": "Cahier n°2 – Pour une loi de séparation de l'argent et de l'État",
         "url": "https://nouspresident.fr/wp-content/uploads/2026/07/Debout-Livret-Probite-Web-1.pdf",
         "format": "pdf",
-        "page_range": null
+        "page_range": "p. 1-60"
       },
       {
         "theme": "famille",
         "title": "Cahier n°3 – Pour renouer avec le temps des loisirs",
         "url": "https://nouspresident.fr/wp-content/uploads/2026/09/Debout-Livret-Campagne-Loisirs-vdef-Web-1.pdf",
         "format": "pdf",
-        "page_range": null
+        "page_range": "p. 1-48"
       },
       {
         "theme": "agriculture",
         "title": "Cahier n°4 – Pour une exception agriculturelle française",
         "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-Agriculture-vWeb.pdf",
         "format": "pdf",
-        "page_range": null
+        "page_range": "p. 1-44"
       },
       {
         "theme": "ecologie",
         "title": "Cahier n°5 – Face au chantier du siècle : pour un travaillisme écologique",
         "url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf",
         "format": "pdf",
-        "page_range": null
+        "page_range": "p. 1-68"
       },
       {
         "theme": "logement",
         "title": "Cahier n°6 – Face à la crise du logement : faire sauter le verrou",
         "url": "https://nouspresident.fr/wp-content/uploads/2026/09/CC_Logement.pdf",
         "format": "pdf",
-        "page_range": null
+        "page_range": "p. 1-64"
+      },
+      {
+        "theme": "economie",
+        "title": "Cahier n°7 « Pour protéger notre industrie, relocaliser 100 produits stratégiques » (15 octobre 2026)",
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-64"
       },
       {
         "theme": "numerique",
-        "title": "Plan d'action « Data centers »",
-        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan_Data_Centers_V2.pdf",
+        "title": "Plan d'action « Data centers » (octobre 2026)",
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Data_CENTERS_V2.pdf",
         "format": "pdf",
-        "page_range": null
+        "page_range": "p. 1-15"
+      },
+      {
+        "theme": "ecologie",
+        "title": "Plan d'action « Urgence climat » (12 octobre 2026)",
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-16"
       }
     ],
-    "archive_url": null
+    "archive_url": "https://web.archive.org/web/20261015155357/https://nouspresident.fr/notre-programme/"
   },
   "sources": [
     {
@@ -157,7 +171,15 @@
     {
       "label": "Wikimedia Commons – François Ruffin (cropped).jpg",
       "url": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg"
+    },
+    {
+      "label": "Nous Président ! – Cahier n°7 sur l'industrie (15 octobre 2026)",
+      "url": "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/"
+    },
+    {
+      "label": "Nous Président ! – Plan Urgence climat (12 octobre 2026)",
+      "url": "https://nouspresident.fr/plan-urgence-climat/"
     }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

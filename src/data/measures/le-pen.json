@@ -3,7 +3,7 @@
     "id": "le-pen-economie-01",
     "theme": "economie",
     "title": "Baisser la TVA de 20 % à 5,5 % sur l'énergie",
-    "description": "Réduction du taux de TVA à 5,5 % sur l'électricité, le gaz, le fioul et les carburants. Le contre-budget 2026 du groupe RN chiffre la baisse de TVA sur les énergies à 10,96 Md€.",
+    "description": "Réduction du taux de TVA à 5,5 % sur l'électricité, le gaz, le fioul et les carburants. Le contre-budget 2027 du groupe RN chiffre à 12,2 Md€ la baisse de TVA sur les énergies (gaz, électricité, carburants, bois, fioul).",
     "source_type": "officiel",
     "source_title": "Notre projet pour une Europe des nations (programme RN, élections européennes 2024)",
     "source_url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf#page=7",
@@ -11,11 +11,11 @@
     "source_page": "p. 13",
     "precision": "chiffre",
     "cost": {
-      "label": "≈ 11 Md€ par an",
-      "source_label": "Contre-budget 2026 du groupe RN",
-      "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf#page=7"
+      "label": "≈ 12,2 Md€ par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-economie-02",
@@ -49,10 +49,54 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "le-pen-economie-04",
+    "theme": "economie",
+    "title": "Ramener la TICPE (accise sur les carburants) à son niveau de 2017",
+    "description": "Retour de l'accise sur les produits énergétiques (ex-TICPE) à son niveau de 2017, chiffré à 3,9 Md€ dans le contre-budget 2027 du groupe RN. Le dossier du groupe sur la crise du carburant (mars 2026) proposait en outre une baisse temporaire de 16 centimes par litre en période de crise.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6",
+    "source_date": "2026-10-15",
+    "source_page": "p. 6",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 3,9 Md€ par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-economie-05",
+    "theme": "economie",
+    "title": "Créer un fonds souverain pour orienter l'épargne vers la production",
+    "description": "Fonds souverain placé sous l'égide de la Caisse des dépôts, doté d'abord de biens nationaux (autoroutes, infrastructures), offrant aux souscripteurs un rendement minimum et une garantie en capital, pour financer des investissements jugés stratégiques.",
+    "source_type": "officiel",
+    "source_title": "La France entreprend – Projet de Marine Le Pen (livret RN)",
+    "source_url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf#page=12",
+    "source_date": "2024-09-06",
+    "source_page": "p. 23",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-economie-06",
+    "theme": "economie",
+    "title": "Publier une ordonnance de simplification normative dès le début du mandat",
+    "description": "Marine Le Pen et Jordan Bardella ont chargé une mission de consulter les fédérations professionnelles pour recenser les normes jugées nuisibles, en vue d'un « grand projet d'ordonnance de simplification » publié dès le début du mandat.",
+    "source_type": "officiel",
+    "source_title": "Communiqué du RN – Freins à la croissance et simplification : Jordan Bardella et Marine Le Pen associent le monde économique",
+    "source_url": "https://rassemblementnational.fr/communiques/freins-a-la-croissance-et-simplification-jordan-bardella-et-marine-le-pen-associent-le-monde-economique",
+    "source_date": "2026-04-20",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "le-pen-fiscalite-01",
     "theme": "fiscalite",
     "title": "Remplacer l'IFI par un impôt sur la fortune financière (IFF)",
-    "description": "Création d'un impôt sur la fortune financière en remplacement de l'impôt sur la fortune immobilière et de la taxe sur les holdings. Le contre-budget 2026 en attend 4 Md€ de recettes ; la mesure a été reprise par la candidate le 6 octobre 2026.",
+    "description": "Création d'un impôt sur la fortune financière en remplacement de l'impôt sur la fortune immobilière (et de la taxe sur les holdings dans le contre-budget 2026). Le contre-budget 2027 du groupe RN en attend 5 Md€ de recettes ; la mesure a été reprise par la candidate le 6 octobre 2026.",
     "source_type": "officiel",
     "source_title": "Contre-budget 2026 du groupe RN",
     "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf#page=7",
@@ -60,17 +104,17 @@
     "source_page": "p. 7",
     "precision": "chiffre",
     "cost": {
-      "label": "≈ +4 Md€ de recettes par an",
-      "source_label": "Contre-budget 2026 du groupe RN",
-      "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf#page=7"
+      "label": "≈ +5 Md€ de recettes par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=5"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-fiscalite-02",
     "theme": "fiscalite",
     "title": "Supprimer la CFE, la CVAE et la C3S (impôts de production)",
-    "description": "Suppression de la cotisation foncière des entreprises, de la cotisation sur la valeur ajoutée des entreprises et de la contribution sociale de solidarité des sociétés, chiffrée au total à 16,2 Md€ dans le contre-budget 2026.",
+    "description": "Suppression de la cotisation foncière des entreprises, de la cotisation sur la valeur ajoutée des entreprises et de la contribution sociale de solidarité des sociétés, chiffrées respectivement à 8,1, 3,7 et 5,3 Md€ dans le contre-budget 2027 du groupe RN.",
     "source_type": "officiel",
     "source_title": "Contre-budget 2026 du groupe RN",
     "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf#page=7",
@@ -78,11 +122,73 @@
     "source_page": "p. 7",
     "precision": "chiffre",
     "cost": {
-      "label": "≈ 16,2 Md€ par an",
-      "source_label": "Contre-budget 2026 du groupe RN",
-      "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf#page=7"
+      "label": "≈ 8,1 Md€ (CFE), 3,7 Md€ (CVAE) et 5,3 Md€ (C3S) par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-fiscalite-03",
+    "theme": "fiscalite",
+    "title": "Créer une taxe sur les rachats d'actions",
+    "description": "Taxe sur les rachats d'actions dont le contre-budget 2027 du groupe RN attend 11,3 Md€ de recettes ; le même document prévoit une taxe sur les « superdividendes ».",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=5",
+    "source_date": "2026-10-15",
+    "source_page": "p. 5",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ +11,3 Md€ de recettes par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=5"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-fiscalite-04",
+    "theme": "fiscalite",
+    "title": "Exonérer d'impôt sur le revenu les jeunes actifs jusqu'à 30 ans",
+    "description": "Exonération d'impôt sur le revenu pour les jeunes actifs jusqu'à 30 ans, dans la limite de revenus équivalant à 4 SMIC, inscrite au contre-budget 2027 du groupe RN. Le programme législatif de 2024 prévoyait de supprimer l'impôt sur le revenu des moins de 30 ans.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=12",
+    "source_date": "2026-10-15",
+    "source_page": "p. 12",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-fiscalite-05",
+    "theme": "fiscalite",
+    "title": "Alléger la fiscalité des successions et des donations",
+    "description": "Exonération de droits de succession sur l'immobilier transmis jusqu'à 300 000 € et réforme des donations : alignement des grands-parents sur les parents et 100 000 € par enfant tous les dix ans.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=12",
+    "source_date": "2026-10-15",
+    "source_page": "p. 12",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-fiscalite-06",
+    "theme": "fiscalite",
+    "title": "Ramener le prélèvement forfaitaire unique (PFU) à 30 %",
+    "description": "Annulation de la hausse de 1,4 point du prélèvement forfaitaire unique sur les revenus du capital pour le ramener à 30 %, chiffrée à 1,5 Md€ dans le contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6",
+    "source_date": "2026-10-15",
+    "source_page": "p. 6",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 1,5 Md€ par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
+    },
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-emploi-01",
@@ -122,6 +228,50 @@
     "source_page": "p. 22-23",
     "precision": "chiffre",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "le-pen-emploi-04",
+    "theme": "emploi",
+    "title": "Limiter les ruptures conventionnelles à une tous les dix ans",
+    "description": "Limitation à une rupture conventionnelle tous les dix ans, comptée pour 0,9 Md€ d'économies dans le contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=4",
+    "source_date": "2026-10-15",
+    "source_page": "p. 4",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 0,9 Md€ d'économies par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=4"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-emploi-05",
+    "theme": "emploi",
+    "title": "Pointage mensuel à France Travail pour percevoir l'assurance chômage",
+    "description": "Obligation de se présenter une fois par mois à France Travail pour pouvoir toucher l'allocation chômage, inscrite au contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=11",
+    "source_date": "2026-10-15",
+    "source_page": "p. 11",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-emploi-06",
+    "theme": "emploi",
+    "title": "Interdire les minima salariaux de branche inférieurs au SMIC",
+    "description": "Interdiction des salaires minimum de branche inférieurs au SMIC, avec une conférence sociale chargée de proposer sous un an un nouvel équilibre des cotisations sociales pour éviter les effets de seuil.",
+    "source_type": "officiel",
+    "source_title": "La France entreprend – Projet de Marine Le Pen (livret RN)",
+    "source_url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf#page=22",
+    "source_date": "2024-09-06",
+    "source_page": "p. 42",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-retraites-01",
@@ -177,6 +327,24 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "le-pen-retraites-04",
+    "theme": "retraites",
+    "title": "Favoriser le cumul emploi-retraite des soignants",
+    "description": "Mesure destinée à lutter contre les déserts médicaux, chiffrée à 0,2 Md€ dans le contre-budget 2027 du groupe RN. Le programme législatif de 2024 prévoyait d'alléger le cumul emploi-retraite des médecins et infirmiers et d'exonérer d'impôt sur le revenu ceux qui reprennent du service.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6",
+    "source_date": "2026-10-15",
+    "source_page": "p. 6",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 0,2 Md€ par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "le-pen-energie-01",
     "theme": "energie",
     "title": "Lancer un « plan Marie Curie » de relance du nucléaire",
@@ -225,6 +393,45 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "le-pen-energie-04",
+    "theme": "energie",
+    "title": "Abandonner le développement de l'éolien",
+    "description": "Le développement de l'énergie éolienne serait abandonné : les parcs existants iraient à leur terme et certains seraient démantelés ; le solaire serait limité aux zones pertinentes et à des filières françaises ou européennes. Le contre-budget 2027 prévoit aussi de supprimer l'exonération de taxe foncière sur l'éolien et d'augmenter la taxe sur l'éolien en mer.",
+    "source_type": "officiel",
+    "source_title": "La France entreprend – Projet de Marine Le Pen (livret RN)",
+    "source_url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf#page=10",
+    "source_date": "2024-09-06",
+    "source_page": "p. 19",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-energie-05",
+    "theme": "energie",
+    "title": "Rétablir un prix français de l'électricité pour baisser la facture de 30 à 40 %",
+    "description": "Rétablissement d'un prix français de l'électricité proche des coûts de production nationaux, présenté comme permettant de baisser la facture de 30 à 40 %. Le contre-budget 2027 du groupe RN inscrit la « création d'un prix national de l'électricité ».",
+    "source_type": "officiel",
+    "source_title": "Notre projet pour une Europe des nations (programme RN, élections européennes 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf#page=6",
+    "source_date": "2024-05-06",
+    "source_page": "p. 10",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-energie-06",
+    "theme": "energie",
+    "title": "Réunifier EDF en y réintégrant RTE et Enedis",
+    "description": "EDF serait reconstituée en entité unique de production et de distribution d'électricité, en réintégrant le gestionnaire du réseau de transport (RTE) et celui du réseau de distribution (Enedis).",
+    "source_type": "officiel",
+    "source_title": "La France entreprend – Projet de Marine Le Pen (livret RN)",
+    "source_url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf#page=10",
+    "source_date": "2024-09-06",
+    "source_page": "p. 18",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "le-pen-ecologie-01",
     "theme": "ecologie",
     "title": "Viser la neutralité carbone avant 2050",
@@ -249,6 +456,63 @@
     "source_page": "p. 13",
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "le-pen-ecologie-03",
+    "theme": "ecologie",
+    "title": "Plan Clim' : climatiser les bâtiments publics accueillant des publics fragiles",
+    "description": "Plan de rafraîchissement des bâtiments publics : environ 10 Md€ au premier quinquennat pour les crèches, écoles, collèges, lycées, hôpitaux et EHPAD, puis 10 Md€ au second pour les autres bâtiments publics, soit 20 Md€ sur dix ans.",
+    "source_type": "officiel",
+    "source_title": "Plan Clim' – présentation du dispositif (groupe RN à l'Assemblée nationale, juillet 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/07/GRN-DOSSIER-PLAN-CLIM.pdf#page=5",
+    "source_date": "2026-07-01",
+    "source_page": "p. 5",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 20 Md€ sur 10 ans (≈ 2 Md€ par an)",
+      "source_label": "Plan Clim' du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/07/GRN-DOSSIER-PLAN-CLIM.pdf#page=5"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-ecologie-04",
+    "theme": "ecologie",
+    "title": "Prêts verts à taux zéro pour climatiser les logements",
+    "description": "Prêts à taux zéro sans condition de ressources, d'un encours maximal de 20 Md€, permettant de climatiser une ou plusieurs pièces pour 20 € par mois au plus pendant dix ans, avec un objectif de 10 millions de foyers supplémentaires équipés ; la pompe à chaleur réversible serait privilégiée dans le cadre de « 100 % Renov ».",
+    "source_type": "officiel",
+    "source_title": "Plan Clim' – présentation du dispositif (groupe RN à l'Assemblée nationale, juillet 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/07/GRN-DOSSIER-PLAN-CLIM.pdf#page=6",
+    "source_date": "2026-07-01",
+    "source_page": "p. 6",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-ecologie-05",
+    "theme": "ecologie",
+    "title": "Instaurer une taxe carbone aux frontières de l'UE sur les produits finis",
+    "description": "Taxe carbone aux frontières européennes conçue comme un instrument de protectionnisme, portant sur les produits finis et semi-finis plutôt que sur les matières premières ; le groupe RN demande aussi que les engagements climatiques soient fondés sur l'empreinte carbone.",
+    "source_type": "officiel",
+    "source_title": "Notre projet pour une Europe des nations (programme RN, élections européennes 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf#page=5",
+    "source_date": "2024-05-06",
+    "source_page": "p. 8",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-ecologie-06",
+    "theme": "ecologie",
+    "title": "Rénover le réseau de distribution d'eau",
+    "description": "Plan de rénovation du réseau de distribution de l'eau pour réduire les pertes en ligne et améliorer la qualité de l'eau.",
+    "source_type": "officiel",
+    "source_title": "Un projet, une méthode (programme RN, législatives 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202406-programme.pdf#page=7",
+    "source_date": "2024-06-25",
+    "source_page": "p. 13",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-agriculture-01",
@@ -295,6 +559,45 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "le-pen-agriculture-04",
+    "theme": "agriculture",
+    "title": "Nationaliser et simplifier l'attribution des aides de la PAC",
+    "description": "Nationalisation et simplification des modalités d'attribution des aides de la PAC, complétées par des aides nationales, avec une « pause réglementaire » et une loi « Mangeons français » donnant aux producteurs français une priorité d'accès aux marchés publics.",
+    "source_type": "officiel",
+    "source_title": "Notre projet pour une Europe des nations (programme RN, élections européennes 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf#page=6",
+    "source_date": "2024-05-06",
+    "source_page": "p. 10",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-agriculture-05",
+    "theme": "agriculture",
+    "title": "Exclure l'agriculture des accords de libre-échange",
+    "description": "Défense d'une « exception agriculturelle » excluant l'agriculture des accords de libre-échange, refus des accords jugés risqués pour les filières stratégiques et moratoire sur la négociation de nouveaux accords par l'UE.",
+    "source_type": "officiel",
+    "source_title": "La France entreprend – Projet de Marine Le Pen (livret RN)",
+    "source_url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf#page=29",
+    "source_date": "2024-09-06",
+    "source_page": "p. 57",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-agriculture-06",
+    "theme": "agriculture",
+    "title": "Permettre à l'État d'intervenir dans les indices servant aux prix garantis",
+    "description": "Dans l'agroalimentaire, possibilité d'une intervention de l'État dans l'élaboration des indices utilisés pour fixer des prix garantis, en tenant compte des variations du prix des matières premières.",
+    "source_type": "officiel",
+    "source_title": "La France entreprend – Projet de Marine Le Pen (livret RN)",
+    "source_url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf#page=29",
+    "source_date": "2024-09-06",
+    "source_page": "p. 56",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "le-pen-logement-01",
     "theme": "logement",
     "title": "Priorité nationale pour le logement social et APL réservées aux Français",
@@ -324,7 +627,7 @@
     "id": "le-pen-logement-03",
     "theme": "logement",
     "title": "Remplacer MaPrimeRénov' par « 100 % Renov » fondé sur un prêt à taux zéro",
-    "description": "Financement des travaux de rénovation des ménages par un prêt à taux zéro dans un dispositif « 100 % Renov » remplaçant MaPrimeRénov'. Le contre-budget 2026 compte ce remplacement pour 3,4 Md€ d'économies.",
+    "description": "Financement des travaux de rénovation des ménages par un prêt à taux zéro dans un dispositif « 100 % Renov » remplaçant MaPrimeRénov'. Le contre-budget 2027 du groupe RN compte ce remplacement pour 5,1 Md€.",
     "source_type": "officiel",
     "source_title": "Lettre ouverte de Marine Le Pen aux professionnels de l'immobilier",
     "source_url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
@@ -332,11 +635,11 @@
     "source_page": null,
     "precision": "precis",
     "cost": {
-      "label": "≈ 3,4 Md€ d'économies par an",
-      "source_label": "Contre-budget 2026 du groupe RN",
-      "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf#page=7"
+      "label": "≈ 5,1 Md€ par an (gain budgétaire)",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=5"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-logement-04",
@@ -350,6 +653,32 @@
     "source_page": null,
     "precision": "chiffre",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "le-pen-logement-05",
+    "theme": "logement",
+    "title": "Abroger les interdictions et obligations liées au DPE",
+    "description": "Abrogation des interdictions et obligations liées aux diagnostics de performance énergétique (travaux, mise en location), remplacées par un accompagnement des rénovations avec les professionnels.",
+    "source_type": "officiel",
+    "source_title": "Un projet, une méthode (programme RN, législatives 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202406-programme.pdf#page=7",
+    "source_date": "2024-06-25",
+    "source_page": "p. 13",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-logement-06",
+    "theme": "logement",
+    "title": "Plafonner les aides au logement à 90 % du loyer",
+    "description": "Plafonnement des aides personnelles au logement à 90 % du loyer, inscrit parmi les économies du contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=11",
+    "source_date": "2026-10-15",
+    "source_page": "p. 11",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-sante-01",
@@ -396,6 +725,50 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "le-pen-sante-04",
+    "theme": "sante",
+    "title": "Rembourser à 100 % les soins dentaires",
+    "description": "Remboursement des soins dentaires à 100 % de la base de remboursement de la Sécurité sociale, chiffré à 1,4 Md€ dans le contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6",
+    "source_date": "2026-10-15",
+    "source_page": "p. 6",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 1,4 Md€ par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-sante-05",
+    "theme": "sante",
+    "title": "Accès direct au kinésithérapeute et aux autres spécialistes",
+    "description": "Suppression du passage obligé par le médecin avant de consulter un kinésithérapeute ou un autre spécialiste, inscrite au contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=11",
+    "source_date": "2026-10-15",
+    "source_page": "p. 11",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-sante-06",
+    "theme": "sante",
+    "title": "Mettre en place la carte Vitale biométrique",
+    "description": "Carte Vitale biométrique pour lutter contre la fraude, reprise dans le contre-budget 2027 du groupe RN avec la désactivation des cartes inactives depuis deux ans.",
+    "source_type": "officiel",
+    "source_title": "Un projet, une méthode (programme RN, législatives 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202406-programme.pdf#page=7",
+    "source_date": "2024-06-25",
+    "source_page": "p. 12",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "le-pen-education-01",
     "theme": "education",
     "title": "« Sacraliser » le budget de l'Éducation nationale",
@@ -433,6 +806,45 @@
     "source_page": "p. 19",
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "le-pen-education-04",
+    "theme": "education",
+    "title": "Faire du brevet un examen d'orientation après la 3e",
+    "description": "Le diplôme national du brevet deviendrait un examen d'orientation : selon ses résultats, l'élève serait orienté vers l'enseignement général, technologique ou professionnel, ou vers l'apprentissage.",
+    "source_type": "officiel",
+    "source_title": "La France entreprend – Projet de Marine Le Pen (livret RN)",
+    "source_url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf#page=12",
+    "source_date": "2024-09-06",
+    "source_page": "p. 22",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-education-05",
+    "theme": "education",
+    "title": "Rendre transparents les critères de sélection de Parcoursup",
+    "description": "Elle souhaite une « transparence totale » des critères retenus par chaque université ou école, chacune pouvant privilégier la note du baccalauréat ou le livret scolaire.",
+    "source_type": "declaration",
+    "source_title": "CNews – Ce qu'il faut retenir d'Objectif Élysée 2027 avec Marine Le Pen (15 octobre 2026)",
+    "source_url": "https://www.cnews.fr/france/2026-10-16/blocus-des-lycees-presidentielle-2027-jordan-bardella-ce-quil-faut-retenir",
+    "source_date": "2026-10-15",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-education-06",
+    "theme": "education",
+    "title": "Sensibiliser au numérique et à l'IA dès l'école primaire",
+    "description": "Introduction dès le primaire d'une sensibilisation au numérique et à l'IA, intégration de ses enjeux dans les cours de sciences et de philosophie au lycée et généralisation de modules d'IA dans l'enseignement supérieur.",
+    "source_type": "officiel",
+    "source_title": "Les enjeux de l'intelligence artificielle (livret du groupe RN à l'Assemblée nationale)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2025/02/WEB-GRN-LIVRET-IA.pdf#page=18",
+    "source_date": "2025-02-11",
+    "source_page": "p. 18",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-securite-01",
@@ -474,6 +886,50 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "le-pen-securite-04",
+    "theme": "securite",
+    "title": "Construire 30 000 places de prison",
+    "description": "Construction de 30 000 places de prison, inscrite au titre du programme présidentiel dans le contre-budget 2027 du groupe RN (1 Md€ la première année).",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6",
+    "source_date": "2026-10-15",
+    "source_page": "p. 6",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 1 Md€ en 2027",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-securite-05",
+    "theme": "securite",
+    "title": "Police municipale obligatoire dans les communes de plus de 10 000 habitants",
+    "description": "Obligation de créer une police municipale dans les communes de plus de 10 000 habitants.",
+    "source_type": "officiel",
+    "source_title": "Un projet, une méthode (programme RN, législatives 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202406-programme.pdf#page=6",
+    "source_date": "2024-06-25",
+    "source_page": "p. 11",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-securite-06",
+    "theme": "securite",
+    "title": "Référendum contre les idéologies islamistes, avec interdiction progressive du voile",
+    "description": "Elle propose un référendum visant à lutter contre les idéologies islamistes (financements, mosquées radicales, interdiction des Frères musulmans) et incluant une interdiction progressive du voile, d'abord par décret dans les universités, sorties scolaires, fédérations sportives et bâtiments publics. Ce référendum suivrait un premier référendum constitutionnel sur l'immigration.",
+    "source_type": "declaration",
+    "source_title": "L'Avenir (Belga) – En cas de victoire, Marine Le Pen veut interdire le voile « de manière progressive » (LCI, 16 septembre 2026)",
+    "source_url": "https://www.lavenir.net/actu/monde/2026/09/17/france-en-cas-de-victoire-marine-le-pen-veut-interdire-le-voile-de-maniere-progressive-4BGF3FXFXZBX7OL5YSN42XFUXM/",
+    "source_date": "2026-09-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "le-pen-immigration-01",
     "theme": "immigration",
     "title": "Référendum instaurant une préférence nationale",
@@ -507,7 +963,7 @@
     "id": "le-pen-immigration-03",
     "theme": "immigration",
     "title": "Conditionner les prestations de solidarité à 5 ans de travail en France",
-    "description": "Réserver les prestations de solidarité aux étrangers ayant travaillé au moins cinq ans à temps plein en France, mesure chiffrée à 6,1 Md€ d'économies dans le contre-budget 2026.",
+    "description": "Réserver les prestations de solidarité non contributives aux étrangers ayant travaillé au moins cinq ans à temps plein en France, mesure chiffrée à 7,5 Md€ d'économies dans le contre-budget 2027 du groupe RN.",
     "source_type": "officiel",
     "source_title": "Contre-budget 2026 du groupe RN",
     "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf#page=7",
@@ -515,11 +971,11 @@
     "source_page": "p. 7",
     "precision": "chiffre",
     "cost": {
-      "label": "≈ 6,1 Md€ d'économies par an",
-      "source_label": "Contre-budget 2026 du groupe RN",
-      "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf#page=7"
+      "label": "≈ 7,5 Md€ d'économies par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=4"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-immigration-04",
@@ -533,11 +989,60 @@
     "source_page": "p. 7",
     "precision": "chiffre",
     "cost": {
-      "label": "≈ 1,3 Md€ d'économies par an (AME)",
-      "source_label": "Contre-budget 2026 du groupe RN",
-      "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf#page=7"
+      "label": "≈ 1,1 Md€ d'économies par an (AME)",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=4"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-immigration-05",
+    "theme": "immigration",
+    "title": "Déposer les demandes d'asile dans les ambassades et consulats",
+    "description": "Obligation de déposer les demandes d'asile dans les ambassades et consulats, dans les pays d'origine, plutôt que sur le territoire français.",
+    "source_type": "officiel",
+    "source_title": "Un projet, une méthode (programme RN, législatives 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202406-programme.pdf#page=6",
+    "source_date": "2024-06-25",
+    "source_page": "p. 10",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-immigration-06",
+    "theme": "immigration",
+    "title": "Réserver les allocations familiales aux foyers dont un parent est français",
+    "description": "Allocations familiales réservées aux foyers dont au moins un parent est français, mesure chiffrée à 2,2 Md€ d'économies dans le contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=4",
+    "source_date": "2026-10-15",
+    "source_page": "p. 4",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 2,2 Md€ d'économies par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=4"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-immigration-07",
+    "theme": "immigration",
+    "title": "Taxer les transferts d'argent vers les pays tiers et l'embauche d'extra-Européens",
+    "description": "Taxation à 14 % des transferts d'argent vers les pays tiers et taxe de 1 000 € par an à l'embauche d'un salarié extra-européen, inscrites au contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=5",
+    "source_date": "2026-10-15",
+    "source_page": "p. 5",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ +1,9 Md€ (transferts) et +1 Md€ (embauche) de recettes par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=5"
+    },
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-institutions-01",
@@ -583,6 +1088,19 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "le-pen-institutions-04",
+    "theme": "institutions",
+    "title": "Doter la Corse d'un statut d'autonomie insulaire dans la Constitution",
+    "description": "Amendement de Marine Le Pen (rejeté) au projet de loi constitutionnelle sur la Corse : autonomie insulaire exercée par la collectivité de Corse, création de deux collectivités des pièves (Nord et Sud), adaptations locales des lois hors domaines régaliens, dérogations possibles au principe d'égalité pour l'emploi, le logement et le foncier, et loi organique soumise aux électeurs de Corse.",
+    "source_type": "vote_ou_bilan",
+    "source_title": "Assemblée nationale – Amendement n° 30 de Mme Le Pen et du groupe RN au projet de loi constitutionnelle « Corse autonome au sein de la République » (n° 2697)",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2697/AN/30.pdf",
+    "source_date": "2026-06-11",
+    "source_page": "p. 1",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "le-pen-europe-01",
     "theme": "europe",
     "title": "Ramener la contribution française au budget de l'UE à 5 Md€",
@@ -620,6 +1138,50 @@
     "source_page": "p. 11",
     "precision": "precis",
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "le-pen-europe-04",
+    "theme": "europe",
+    "title": "Refuser l'élargissement de l'UE aux Balkans, à la Turquie et à l'Ukraine",
+    "description": "Refus de tout élargissement de l'Union européenne aux pays des Balkans, à la Turquie et à l'Ukraine, présenté comme une menace pour l'agriculture et les salaires.",
+    "source_type": "officiel",
+    "source_title": "Notre projet pour une Europe des nations (programme RN, élections européennes 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf#page=5",
+    "source_date": "2024-05-06",
+    "source_page": "p. 8",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-europe-05",
+    "theme": "europe",
+    "title": "Refuser tout impôt européen et tout nouvel emprunt de la Commission",
+    "description": "Refus de tout impôt prélevé par l'Union européenne et arrêt des nouvelles souscriptions d'emprunts par la Commission européenne.",
+    "source_type": "officiel",
+    "source_title": "Notre projet pour une Europe des nations (programme RN, élections européennes 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf#page=7",
+    "source_date": "2024-05-06",
+    "source_page": "p. 13",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-europe-06",
+    "theme": "europe",
+    "title": "Récupérer la part française des droits de douane collectés par l'UE",
+    "description": "Restitution à la France de sa part des droits de douane collectés par l'Union européenne, chiffrée à 2,2 Md€ dans le contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=4",
+    "source_date": "2026-10-15",
+    "source_page": "p. 4",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 2,2 Md€ par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=4"
+    },
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-international-01",
@@ -661,6 +1223,45 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "le-pen-international-04",
+    "theme": "international",
+    "title": "Sanctuariser la loi de programmation militaire",
+    "description": "Sanctuarisation de la trajectoire budgétaire de la loi de programmation militaire, refus de tout transfert de compétences de défense et de diplomatie vers l'UE et préférence européenne dans les achats militaires des États européens.",
+    "source_type": "officiel",
+    "source_title": "Un projet, une méthode (programme RN, législatives 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202406-programme.pdf#page=6",
+    "source_date": "2024-06-25",
+    "source_page": "p. 10",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-international-05",
+    "theme": "international",
+    "title": "Conditionner l'aide au développement à la reprise des ressortissants expulsés",
+    "description": "Les aides au développement versées aux États tiers seraient conditionnées au maintien des populations dans leur pays, à la lutte contre les passeurs et à la reprise effective de leurs ressortissants expulsés ; le contre-budget 2027 prévoit aussi une rationalisation de l'aide publique au développement.",
+    "source_type": "officiel",
+    "source_title": "Notre projet pour une Europe des nations (programme RN, élections européennes 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf#page=5",
+    "source_date": "2024-05-06",
+    "source_page": "p. 9",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-international-06",
+    "theme": "international",
+    "title": "Redonner à la Francophonie une place centrale dans la politique étrangère",
+    "description": "Engagement à redonner à la Francophonie une « place de choix » dans la politique étrangère de la France.",
+    "source_type": "officiel",
+    "source_title": "Un projet, une méthode (programme RN, législatives 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202406-programme.pdf#page=11",
+    "source_date": "2024-06-25",
+    "source_page": "p. 21",
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "le-pen-numerique-01",
     "theme": "numerique",
     "title": "Taxer l'utilisation du réseau par les géants du numérique",
@@ -692,17 +1293,69 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "le-pen-numerique-03",
+    "theme": "numerique",
+    "title": "Abolir partiellement l'AI Act au profit d'une charte mondiale sur l'IA",
+    "description": "Proposition d'une charte mondiale sur l'intelligence artificielle sous l'égide de l'ONU, inspirée des travaux de l'OCDE, et abolition partielle du règlement européen sur l'IA (AI Act).",
+    "source_type": "officiel",
+    "source_title": "Les enjeux de l'intelligence artificielle (livret du groupe RN à l'Assemblée nationale)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2025/02/WEB-GRN-LIVRET-IA.pdf#page=13",
+    "source_date": "2025-02-11",
+    "source_page": "p. 13",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-numerique-04",
+    "theme": "numerique",
+    "title": "Régime dérogatoire au RGPD pour entraîner les modèles d'IA européens",
+    "description": "Régime dérogatoire au RGPD pour l'entraînement des modèles des entreprises européennes d'IA, autorisant notamment l'usage de bases de données publiques ou librement accessibles sans consentement individuel.",
+    "source_type": "officiel",
+    "source_title": "Les enjeux de l'intelligence artificielle (livret du groupe RN à l'Assemblée nationale)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2025/02/WEB-GRN-LIVRET-IA.pdf#page=14",
+    "source_date": "2025-02-11",
+    "source_page": "p. 14",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-numerique-05",
+    "theme": "numerique",
+    "title": "Créer des pôles régionaux d'excellence en IA",
+    "description": "Réseau de pôles régionaux d'excellence en intelligence artificielle reliant entreprises, universités et acteurs publics, sur le modèle néerlandais, complété par des zones franches technologiques pour les semi-conducteurs.",
+    "source_type": "officiel",
+    "source_title": "Les enjeux de l'intelligence artificielle (livret du groupe RN à l'Assemblée nationale)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2025/02/WEB-GRN-LIVRET-IA.pdf#page=7",
+    "source_date": "2025-02-11",
+    "source_page": "p. 7",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-numerique-06",
+    "theme": "numerique",
+    "title": "Défendre un cloud souverain européen",
+    "description": "Constitution d'un cloud souverain européen, et non d'un simple « cloud de confiance », et révision des règles de concurrence européennes pour permettre l'émergence de champions du numérique.",
+    "source_type": "officiel",
+    "source_title": "Notre projet pour une Europe des nations (programme RN, élections européennes 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf#page=9",
+    "source_date": "2024-05-06",
+    "source_page": "p. 17",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "le-pen-culture-01",
     "theme": "culture",
-    "title": "Privatiser l'audiovisuel public",
-    "description": "Privatisation de l'audiovisuel public dans le cadre d'un plan de rationalisation de la dépense publique.",
+    "title": "Baisser la dotation de l'audiovisuel public puis le privatiser",
+    "description": "Le contre-budget 2027 du groupe RN prévoit une baisse de la dotation à l'audiovisuel public puis sa privatisation, à l'exception notamment de FranceInfo et d'Arte. Le programme législatif de 2024 prévoyait la privatisation de l'audiovisuel public.",
     "source_type": "officiel",
-    "source_title": "Un projet, une méthode (programme RN, législatives 2024)",
-    "source_url": "https://rassemblementnational.fr/documents/202406-programme.pdf#page=10",
-    "source_date": "2024-06-25",
-    "source_page": "p. 18",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=11",
+    "source_date": "2026-10-15",
+    "source_page": "p. 11",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-culture-02",
@@ -721,6 +1374,19 @@
       "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf#page=7"
     },
     "last_verified": "2026-10-15"
+  },
+  {
+    "id": "le-pen-culture-03",
+    "theme": "culture",
+    "title": "Expérimenter un service national volontaire du patrimoine",
+    "description": "Expérimentation d'un service national volontaire consacré à la restauration, à la protection et à la valorisation du patrimoine bâti et naturel.",
+    "source_type": "officiel",
+    "source_title": "Un projet, une méthode (programme RN, législatives 2024)",
+    "source_url": "https://rassemblementnational.fr/documents/202406-programme.pdf#page=11",
+    "source_date": "2024-06-25",
+    "source_page": "p. 21",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-outre_mer-01",
@@ -762,6 +1428,50 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "le-pen-outre_mer-04",
+    "theme": "outre_mer",
+    "title": "Augmenter les crédits budgétaires de l'outre-mer",
+    "description": "Hausse des crédits budgétaires consacrés à l'outre-mer, inscrite au titre du programme présidentiel dans le contre-budget 2027 du groupe RN (0,6 Md€).",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6",
+    "source_date": "2026-10-15",
+    "source_page": "p. 6",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 0,6 Md€ par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-outre_mer-05",
+    "theme": "outre_mer",
+    "title": "Faire de l'accès à l'eau potable outre-mer une grande cause nationale",
+    "description": "Le groupe RN a présenté une résolution, non adoptée le 8 octobre 2026, pour faire de l'accès à l'eau potable dans les outre-mer une « grande cause publique et transpartisane ».",
+    "source_type": "vote_ou_bilan",
+    "source_title": "Communiqué de Marine Le Pen (RN) – Accès à l'eau dans les outremers",
+    "source_url": "https://rassemblementnational.fr/communiques/acces-a-leau-dans-les-outremers-le-vote-sectaire-du-parlement-empeche-ladoption-de-la-resolution-du-rn",
+    "source_date": "2026-10-08",
+    "source_page": null,
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-outre_mer-06",
+    "theme": "outre_mer",
+    "title": "Compenser la baisse des crédits agricoles ultramarins du PLF 2027",
+    "description": "Sur instruction de Marine Le Pen, le groupe RN a déposé en commission des finances un amendement au projet de loi de finances 2027 visant à compenser la baisse des aides aux filières canne-sucre et banane et la fin de l'abondement pour le fret de l'alimentation animale.",
+    "source_type": "vote_ou_bilan",
+    "source_title": "Communiqué d'André Rougé et Matthias Renault (RN) – PLF 2027 : rabotage des crédits agricoles ultramarins",
+    "source_url": "https://rassemblementnational.fr/communiques/projet-de-loi-de-finances-2027-le-rn-soppose-au-rabotage-des-credits-agricoles-ultramarins-et-depose-un-amendement-de-compensation",
+    "source_date": "2026-10-15",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "le-pen-services_publics-01",
     "theme": "services_publics",
     "title": "Supprimer la quasi-totalité des agences de l'État",
@@ -793,10 +1503,49 @@
     "last_verified": "2026-10-15"
   },
   {
+    "id": "le-pen-services_publics-03",
+    "theme": "services_publics",
+    "title": "Supprimer les intercommunalités (EPCI) et les métropoles",
+    "description": "Suppression des établissements publics de coopération intercommunale et des métropoles, avec une application stricte des compétences des collectivités, inscrite au contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=11",
+    "source_date": "2026-10-15",
+    "source_page": "p. 11",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-services_publics-04",
+    "theme": "services_publics",
+    "title": "Créer un ministère dédié à la lutte contre les fraudes",
+    "description": "Ministère spécifiquement chargé de la lutte contre toutes les formes de fraude : fiscale, sociale, ententes, atteintes à la concurrence et contrefaçons.",
+    "source_type": "officiel",
+    "source_title": "La France entreprend – Projet de Marine Le Pen (livret RN)",
+    "source_url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf#page=26",
+    "source_date": "2024-09-06",
+    "source_page": "p. 51",
+    "precision": "precis",
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-services_publics-05",
+    "theme": "services_publics",
+    "title": "Appliquer les 35 heures dans la fonction publique territoriale",
+    "description": "Application des 35 heures dans la fonction publique territoriale, assortie d'une baisse de la dotation globale de fonctionnement, inscrite au contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=11",
+    "source_date": "2026-10-15",
+    "source_page": "p. 11",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "le-pen-famille-01",
     "theme": "famille",
     "title": "Part fiscale pleine dès le deuxième enfant",
-    "description": "Attribution d'une part entière de quotient familial dès le deuxième enfant, chiffrée à 2,86 Md€ dans le contre-budget 2026.",
+    "description": "Attribution d'une part entière de quotient familial dès le deuxième enfant, chiffrée à 3,5 Md€ dans le contre-budget 2027 du groupe RN.",
     "source_type": "officiel",
     "source_title": "Contre-budget 2026 du groupe RN",
     "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf#page=7",
@@ -804,11 +1553,11 @@
     "source_page": "p. 7",
     "precision": "chiffre",
     "cost": {
-      "label": "≈ 2,86 Md€ par an",
-      "source_label": "Contre-budget 2026 du groupe RN",
-      "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf#page=7"
+      "label": "≈ 3,5 Md€ par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-famille-02",
@@ -832,26 +1581,62 @@
     "id": "le-pen-famille-03",
     "theme": "famille",
     "title": "Permis de conduire gratuit pour les jeunes au casier judiciaire vierge",
-    "description": "Gratuité du permis de conduire pour les jeunes sans antécédent judiciaire, annoncée avec la priorité nationale pour les logements étudiants.",
-    "source_type": "declaration",
-    "source_title": "Reuters (via Boursorama) – Marine Le Pen veut ramener le déficit budgétaire à 3 % d'ici 2030",
-    "source_url": "https://www.boursorama.com/actualite-economique/actualites/marine-le-pen-veut-ramener-le-deficit-budgetaire-a-3-d-ici-2030-e234d02e0ea563e2766ea6142c4a1bdc",
-    "source_date": "2026-10-06",
-    "source_page": null,
+    "description": "Gratuité du permis de conduire pour les jeunes au casier judiciaire vierge, inscrite au titre du programme présidentiel dans le contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=12",
+    "source_date": "2026-10-15",
+    "source_page": "p. 12",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   },
   {
     "id": "le-pen-famille-04",
     "theme": "famille",
-    "title": "Prêt à taux zéro transformé en subvention au troisième enfant",
-    "description": "Création d'un prêt public à taux zéro pour les couples, transformé en subvention pour ceux qui ont un troisième enfant.",
+    "title": "Prêt « jeunes ménages français » transformé en subvention au 3e enfant",
+    "description": "Prêt public à taux zéro destiné aux « jeunes ménages français », transformé en subvention à la naissance du troisième enfant ; mesure chiffrée à 1,6 Md€ dans le contre-budget 2027 du groupe RN. Le programme législatif de 2024 la réservait aux couples.",
     "source_type": "officiel",
-    "source_title": "Un projet, une méthode (programme RN, législatives 2024)",
-    "source_url": "https://rassemblementnational.fr/documents/202406-programme.pdf#page=9",
-    "source_date": "2024-06-25",
-    "source_page": "p. 16",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6",
+    "source_date": "2026-10-15",
+    "source_page": "p. 6",
+    "precision": "chiffre",
+    "last_verified": "2026-10-16",
+    "cost": {
+      "label": "≈ 1,6 Md€ par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
+    }
+  },
+  {
+    "id": "le-pen-famille-05",
+    "theme": "famille",
+    "title": "Revaloriser le congé de proche aidant",
+    "description": "Revalorisation du congé de proche aidant, chiffrée à 2 Md€ dans le contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6",
+    "source_date": "2026-10-15",
+    "source_page": "p. 6",
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 2 Md€ par an",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
+    },
+    "last_verified": "2026-10-16"
+  },
+  {
+    "id": "le-pen-famille-06",
+    "theme": "famille",
+    "title": "Garantir une AAH toujours supérieure au seuil de pauvreté",
+    "description": "Engagement à maintenir l'allocation aux adultes handicapés au-dessus du seuil de pauvreté, inscrit au contre-budget 2027 du groupe RN.",
+    "source_type": "officiel",
+    "source_title": "Contre-budget 2027 du groupe RN à l'Assemblée nationale (dossier, octobre 2026)",
+    "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=12",
+    "source_date": "2026-10-15",
+    "source_page": "p. 12",
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-16"
   }
 ]

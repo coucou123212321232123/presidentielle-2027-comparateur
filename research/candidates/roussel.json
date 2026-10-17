@@ -27,8 +27,14 @@
     "Candidat du PCF à l'élection présidentielle de 2022"
   ],
   "key_people": [
-    { "name": "Ian Brossat", "role": "Directeur de campagne (selon LCP, septembre 2026)" },
-    { "name": "Léon Deffontaines", "role": "Porte-parole du PCF" }
+    {
+      "name": "Ian Brossat",
+      "role": "Directeur de campagne (selon LCP, septembre 2026)"
+    },
+    {
+      "name": "Léon Deffontaines",
+      "role": "Porte-parole du PCF"
+    }
   ],
   "slogan": "Vivre ! Mieux, ensemble, en paix",
   "slogan_source_url": "https://www.fabienroussel2027.fr/",
@@ -43,11 +49,26 @@
   "website": "https://www.fabienroussel2027.fr/",
   "news_url": "https://www.pcf.fr/actualites",
   "socials": [
-    { "platform": "X", "url": "https://x.com/Fabien_Roussel" },
-    { "platform": "X (PCF)", "url": "https://twitter.com/PCF" },
-    { "platform": "Facebook (PCF)", "url": "https://www.facebook.com/Particommuniste/" },
-    { "platform": "Instagram (PCF)", "url": "https://www.instagram.com/pcfparticommunistefrancais" },
-    { "platform": "YouTube (PCF)", "url": "https://www.youtube.com/user/CNPCF" }
+    {
+      "platform": "X",
+      "url": "https://x.com/Fabien_Roussel"
+    },
+    {
+      "platform": "X (PCF)",
+      "url": "https://twitter.com/PCF"
+    },
+    {
+      "platform": "Facebook (PCF)",
+      "url": "https://www.facebook.com/Particommuniste/"
+    },
+    {
+      "platform": "Instagram (PCF)",
+      "url": "https://www.instagram.com/pcfparticommunistefrancais"
+    },
+    {
+      "platform": "YouTube (PCF)",
+      "url": "https://www.youtube.com/user/CNPCF"
+    }
   ],
   "program": {
     "title": "Base commune du 40e congrès du PCF (CommunisteS n° 1095) et « Cahiers thématiques des jours heureux »",
@@ -55,24 +76,121 @@
     "format": "pdf",
     "published_date": "2026-07-15",
     "status": "partiel",
-    "note": "Aucun programme présidentiel 2027 n'est publié au 15 octobre 2026 : le site de campagne fabienroussel2027.fr présente cinq orientations sans mesures détaillées. Les références officielles récentes sont la base commune adoptée au 40e congrès (Lille, 3-5 juillet 2026) avec le discours de clôture du candidat, et les cahiers thématiques du PCF publiés entre décembre 2025 et mai 2026 (dates déduites des fichiers mis en ligne sur pcf.fr). Les pages « programme » de 2022 (« 180 propositions ») restent partiellement en ligne sur pcf.fr mais la page d'accueil du programme renvoie une erreur 404 : elles n'ont pas été utilisées.",
+    "note": "Aucun programme présidentiel 2027 n'est publié au 16 octobre 2026 : le site de campagne fabienroussel2027.fr présente cinq orientations (« Vivre ! ») et une rubrique « Matériel » (affiches, tracts, Plan Jeunesse 2027-2032 publié le 6 octobre 2026). Les références officielles récentes sont la base commune adoptée au 40e congrès (Lille, 3-5 juillet 2026) avec le discours de clôture du candidat, les cahiers thématiques des jours heureux du PCF publiés entre décembre 2025 et mai 2026 (dates déduites des fichiers mis en ligne sur pcf.fr), le Plan Jeunesse et les tracts de campagne d'octobre 2026. Les pages « programme » de 2022 (« 180 propositions ») ne sont plus accessibles sur pcf.fr (erreur 404) et n'ont pas été utilisées.",
     "thematic_links": [
-      { "theme": "sante", "title": "Cahier thématique Sécurité sociale (santé, retraites, famille)", "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf", "format": "pdf", "page_range": null },
-      { "theme": "logement", "title": "Cahier thématique Logement", "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf", "format": "pdf", "page_range": null },
-      { "theme": "services_publics", "title": "Cahier thématique Mobilité", "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf", "format": "pdf", "page_range": null },
-      { "theme": "famille", "title": "Cahier thématique Handicap", "url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf", "format": "pdf", "page_range": null },
-      { "theme": "emploi", "title": "Cahier thématique Économie sociale et solidaire", "url": "https://assets.nationbuilder.com/pcf/pages/37448/attachments/original/1769765304/document_-_cahier_ess.pdf", "format": "pdf", "page_range": null },
-      { "theme": "international", "title": "Cahier thématique Paix & défense nationale", "url": "https://assets.nationbuilder.com/pcf/pages/41211/attachments/original/1779954906/document_cahier_paix_ppp_stc.pdf", "format": "pdf", "page_range": null }
+      {
+        "theme": "sante",
+        "title": "Cahier thématique Sécurité sociale (santé, retraites, famille)",
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-46 (retraites p. 21, autonomie p. 31-32, synthèse p. 43)"
+      },
+      {
+        "theme": "logement",
+        "title": "Cahier thématique Logement",
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-52"
+      },
+      {
+        "theme": "services_publics",
+        "title": "Cahier thématique Mobilité",
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-24"
+      },
+      {
+        "theme": "famille",
+        "title": "Cahier thématique Handicap",
+        "url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-16"
+      },
+      {
+        "theme": "emploi",
+        "title": "Cahier thématique Économie sociale et solidaire",
+        "url": "https://assets.nationbuilder.com/pcf/pages/37448/attachments/original/1769765304/document_-_cahier_ess.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-11"
+      },
+      {
+        "theme": "international",
+        "title": "Cahier thématique Paix & défense nationale",
+        "url": "https://assets.nationbuilder.com/pcf/pages/41211/attachments/original/1779954906/document_cahier_paix_ppp_stc.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-60 (Ukraine p. 38, Palestine p. 40, dissuasion p. 58-59)"
+      },
+      {
+        "theme": "education",
+        "title": "Plan « Jeunesse 2027-2032 » de Fabien Roussel (octobre 2026)",
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-12"
+      },
+      {
+        "theme": "services_publics",
+        "title": "Tract de campagne « Services publics : notre richesse, notre avenir » (octobre 2026)",
+        "url": "https://assets.nationbuilder.com/pcf/pages/44585/attachments/original/1791210591/tract_service_public.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-2"
+      },
+      {
+        "theme": "securite",
+        "title": "Tract de campagne « Des moyens pour nos pompiers » (octobre 2026)",
+        "url": "https://assets.nationbuilder.com/pcf/pages/44583/attachments/original/1791210341/tract_pompier.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-2"
+      },
+      {
+        "theme": "international",
+        "title": "PCF – Document de mobilisation Palestine (octobre 2026)",
+        "url": "https://assets.nationbuilder.com/pcf/pages/44675/attachments/original/1791443697/document_palestine_octobre2026_light.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-2"
+      },
+      {
+        "theme": "institutions",
+        "title": "Base commune du 40e congrès – Partie II (paix, République, travail)",
+        "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=29",
+        "format": "pdf",
+        "page_range": "p. 29-51"
+      }
     ],
     "archive_url": null
   },
   "sources": [
-    { "label": "Wikipédia – Fabien Roussel", "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel" },
-    { "label": "Wikipédia – Parti communiste français", "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais" },
-    { "label": "Site de campagne fabienroussel2027.fr", "url": "https://www.fabienroussel2027.fr/" },
-    { "label": "PCF – CommunisteS n° 1095 (40e congrès, discours de clôture et base commune)", "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf" },
-    { "label": "LCP – Fabien Roussel officiellement candidat (6 septembre 2026)", "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389" },
-    { "label": "LCP – Fête de l'Huma (11 septembre 2026)", "url": "https://lcp.fr/actualites/presidentielle-a-la-fete-de-l-huma-fabien-roussel-au-defi-de-prouver-l-utilite-d-une" }
+    {
+      "label": "Wikipédia – Fabien Roussel",
+      "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+    },
+    {
+      "label": "Wikipédia – Parti communiste français",
+      "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais"
+    },
+    {
+      "label": "Site de campagne fabienroussel2027.fr",
+      "url": "https://www.fabienroussel2027.fr/"
+    },
+    {
+      "label": "PCF – CommunisteS n° 1095 (40e congrès, discours de clôture et base commune)",
+      "url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf"
+    },
+    {
+      "label": "LCP – Fabien Roussel officiellement candidat (6 septembre 2026)",
+      "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389"
+    },
+    {
+      "label": "LCP – Fête de l'Huma (11 septembre 2026)",
+      "url": "https://lcp.fr/actualites/presidentielle-a-la-fete-de-l-huma-fabien-roussel-au-defi-de-prouver-l-utilite-d-une"
+    },
+    {
+      "label": "fabienroussel2027.fr – Matériel de campagne",
+      "url": "https://www.fabienroussel2027.fr/materiel"
+    },
+    {
+      "label": "PCF – Cahiers thématiques",
+      "url": "https://www.pcf.fr/cahiers_thematiques"
+    }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

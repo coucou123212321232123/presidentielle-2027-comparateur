@@ -64,56 +64,49 @@
     "format": "pdf",
     "published_date": null,
     "status": "publie",
-    "note": "Programme du parti Les Écologistes (557 mesures, 209 pages), daté de « juillet 2026 » sur sa couverture. Le site de campagne marinetondelier.fr le présente comme le programme de la candidate, complété par des livrets thématiques de campagne. Le maintien de la candidature dépend du référendum interne des adhérents du 10 au 13 décembre 2026.",
+    "note": "Programme du parti Les Écologistes (557 mesures, 208 pages), daté de « juillet 2026 » sur sa couverture et présenté comme « adopté en juillet 2026 » dans le dossier Budget 2027 du parti. Le site de campagne marinetondelier.fr le complète par des livrets thématiques (enfance, santé environnementale, santé reproductive, solitude, littoraux, montagne), deux carnets de doctrine (international, numérique) et des dossiers de presse (budget 2027, bouclier social, rentrée scolaire, fraîcheur, incendies). Le maintien de la candidature dépend du référendum interne des adhérents du 10 au 13 décembre 2026.",
     "thematic_links": [
-      {
-        "theme": "famille",
-        "title": "Livret « Pour un pays à hauteur d'enfants » (septembre 2026)",
-        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
-        "format": "pdf",
-        "page_range": null
-      },
-      {
-        "theme": "sante",
-        "title": "Livret « Santé environnementale »",
-        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
-        "format": "pdf",
-        "page_range": null
-      },
-      {
-        "theme": "sante",
-        "title": "Livret « Prendre soin de notre santé reproductive »",
-        "url": "https://marinetondelier.fr/s/Livret-sante-reproductive.pdf",
-        "format": "pdf",
-        "page_range": null
-      },
-      {
-        "theme": "famille",
-        "title": "Livret « Solitude »",
-        "url": "https://marinetondelier.fr/s/Livret-solitude.pdf",
-        "format": "pdf",
-        "page_range": null
-      },
-      {
-        "theme": "ecologie",
-        "title": "Livret « Des littoraux à vivre, à protéger et à transmettre »",
-        "url": "https://marinetondelier.fr/s/Livret-littoraux.pdf",
-        "format": "pdf",
-        "page_range": null
-      },
-      {
-        "theme": "services_publics",
-        "title": "Livret « Pour une montagne vivante, accueillante et résiliente »",
-        "url": "https://marinetondelier.fr/s/Livret-montagne.pdf",
-        "format": "pdf",
-        "page_range": null
-      },
       {
         "theme": "energie",
         "title": "Programme – chapitre 1 « Gagner la bataille du climat »",
         "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=15",
         "format": "pdf",
         "page_range": "p. 15-18"
+      },
+      {
+        "theme": "logement",
+        "title": "Programme – chapitre 2 « Pouvoir se loger décemment »",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=19",
+        "format": "pdf",
+        "page_range": "p. 19-21"
+      },
+      {
+        "theme": "ecologie",
+        "title": "Programme – chapitres 3 à 8 (mobilités, adaptation, biodiversité, océans, forêts, condition animale)",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=22",
+        "format": "pdf",
+        "page_range": "p. 22-37"
+      },
+      {
+        "theme": "agriculture",
+        "title": "Programme – partie II « Préserver la souveraineté alimentaire »",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=38",
+        "format": "pdf",
+        "page_range": "p. 38-50"
+      },
+      {
+        "theme": "economie",
+        "title": "Programme – chapitres 13-16 et 18-20 (rémunérations, entreprises, marché, finance, industrie)",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=54",
+        "format": "pdf",
+        "page_range": "p. 54-64, 69-78"
+      },
+      {
+        "theme": "emploi",
+        "title": "Programme – chapitre 14 « Travailler mieux »",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=56",
+        "format": "pdf",
+        "page_range": "p. 56-58"
       },
       {
         "theme": "fiscalite",
@@ -123,11 +116,88 @@
         "page_range": "p. 65-68"
       },
       {
+        "theme": "numerique",
+        "title": "Programme – chapitre 21 « Protéger nos techno-diversités numériques »",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=79",
+        "format": "pdf",
+        "page_range": "p. 79-82"
+      },
+      {
+        "theme": "services_publics",
+        "title": "Programme – chapitre 22 « Décentraliser les services publics »",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=86",
+        "format": "pdf",
+        "page_range": "p. 86-88"
+      },
+      {
+        "theme": "education",
+        "title": "Programme – chapitres 23-25 (école, enseignement supérieur, recherche)",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=89",
+        "format": "pdf",
+        "page_range": "p. 89-97"
+      },
+      {
+        "theme": "culture",
+        "title": "Programme – chapitres 26-27 (culture, sport)",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=98",
+        "format": "pdf",
+        "page_range": "p. 98-103"
+      },
+      {
+        "theme": "sante",
+        "title": "Programme – chapitres 28-30 (santé environnementale, prévention, offre de soins)",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=107",
+        "format": "pdf",
+        "page_range": "p. 107-115"
+      },
+      {
+        "theme": "retraites",
+        "title": "Programme – chapitre 31 « Adopter une autre réforme des retraites »",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=116",
+        "format": "pdf",
+        "page_range": "p. 116-117"
+      },
+      {
+        "theme": "famille",
+        "title": "Programme – chapitres 32-43 (pauvreté, familles, jeunes, grand âge, égalité, handicap)",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=118",
+        "format": "pdf",
+        "page_range": "p. 118-147"
+      },
+      {
+        "theme": "services_publics",
+        "title": "Programme – chapitres 44-45 (quartiers populaires, ruralités)",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=148",
+        "format": "pdf",
+        "page_range": "p. 148-151"
+      },
+      {
+        "theme": "outre_mer",
+        "title": "Programme – chapitre 46 « Accomplir l'égalité avec tous les territoires dits d'Outre-mer »",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=152",
+        "format": "pdf",
+        "page_range": "p. 152-154"
+      },
+      {
         "theme": "institutions",
         "title": "Programme – partie VII « Défendre l'État de droit »",
         "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=159",
         "format": "pdf",
-        "page_range": "p. 159-187"
+        "page_range": "p. 159-186"
+      },
+      {
+        "theme": "securite",
+        "title": "Programme – chapitres 50-53 et 57-58 (police, justice, prison, terrorisme, narcotrafic)",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=164",
+        "format": "pdf",
+        "page_range": "p. 164-171, 180-184"
+      },
+      {
+        "theme": "immigration",
+        "title": "Programme – chapitre 56 « Garantir les libertés de migration »",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=177",
+        "format": "pdf",
+        "page_range": "p. 177-179"
       },
       {
         "theme": "europe",
@@ -135,6 +205,111 @@
         "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=189",
         "format": "pdf",
         "page_range": "p. 189-208"
+      },
+      {
+        "theme": "international",
+        "title": "Programme – chapitres 61-66 (défense, Ukraine, diplomatie, Moyen-Orient, coopération)",
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=192",
+        "format": "pdf",
+        "page_range": "p. 192-207"
+      },
+      {
+        "theme": "fiscalite",
+        "title": "Dossier de presse « Budget 2027 : la grande transmission doit financer la grande transition » (26 août 2026)",
+        "url": "https://marinetondelier.fr/s/dossierpresse-budget2027.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-8"
+      },
+      {
+        "theme": "economie",
+        "title": "Dossier de presse « Alléger les factures des Français·es : notre bouclier social et environnemental » (septembre 2026)",
+        "url": "https://marinetondelier.fr/s/dp-bouclier-social-pour-envoi.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-10"
+      },
+      {
+        "theme": "education",
+        "title": "Dossier de presse « Éducation nationale : état d'urgence pédagogique, état d'urgence écologique » (31 août 2026)",
+        "url": "https://marinetondelier.fr/s/dossierpresse-rentree.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-12"
+      },
+      {
+        "theme": "ecologie",
+        "title": "Dossier de presse « Pour un droit à la fraîcheur » (juin 2026)",
+        "url": "https://marinetondelier.fr/s/dossierdeprese-fraicheur-2.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-13"
+      },
+      {
+        "theme": "ecologie",
+        "title": "Dossier de presse « Protéger : nos propositions face aux incendies » (27 juillet 2026)",
+        "url": "https://marinetondelier.fr/s/dossierpresse-incencies-1.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-17"
+      },
+      {
+        "theme": "famille",
+        "title": "Livret « Pour un pays à hauteur d'enfants » (septembre 2026)",
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-40"
+      },
+      {
+        "theme": "sante",
+        "title": "Livret « À notre santé ! » – santé environnementale (mai 2026)",
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-44"
+      },
+      {
+        "theme": "sante",
+        "title": "Livret « Prendre soin de notre santé reproductive » (septembre 2026)",
+        "url": "https://marinetondelier.fr/s/Livret-sante-reproductive.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-52"
+      },
+      {
+        "theme": "famille",
+        "title": "Livret « Lutter contre la solitude : 30 propositions pour une écologie du lien » (mai 2026)",
+        "url": "https://marinetondelier.fr/s/Livret-solitude.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-28"
+      },
+      {
+        "theme": "ecologie",
+        "title": "Livret « Des littoraux à vivre, à protéger et à transmettre » (septembre 2026)",
+        "url": "https://marinetondelier.fr/s/Livret-littoraux.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-26"
+      },
+      {
+        "theme": "services_publics",
+        "title": "Livret « La montagne, un territoire vivant, accueillant, en pleine transition »",
+        "url": "https://marinetondelier.fr/s/Livret-montagne.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-18"
+      },
+      {
+        "theme": "international",
+        "title": "Carnet de doctrine international « Face aux impérialismes, l'Europe comme puissance écologique »",
+        "url": "https://marinetondelier.fr/s/CARNET-DE-DOCTRINE-INTERNATIONAL.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-32"
+      },
+      {
+        "theme": "numerique",
+        "title": "Carnet de doctrine numérique « Technodiversités : reprendre la main sur le numérique » (juillet 2026)",
+        "url": "https://marinetondelier.fr/s/Carnet-numerique.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-36"
+      },
+      {
+        "theme": "fiscalite",
+        "title": "« Sortie de crise : le plan des Écologistes » (plan budgétaire, septembre 2025, antérieur au programme)",
+        "url": "https://marinetondelier.fr/s/25-09-plan-de-sortie-de-crise.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-24"
       }
     ],
     "archive_url": null
@@ -179,7 +354,19 @@
     {
       "label": "Wikimedia Commons – Huma2023MarineTondelier (cropped).jpg",
       "url": "https://commons.wikimedia.org/wiki/File:Huma2023MarineTondelier_(cropped).jpg"
+    },
+    {
+      "label": "Campagne Marine Tondelier – livrets thématiques",
+      "url": "https://marinetondelier.fr/livrets-thematiques"
+    },
+    {
+      "label": "Campagne Marine Tondelier – dossiers d'actualité",
+      "url": "https://marinetondelier.fr/dossiers-actu"
+    },
+    {
+      "label": "Campagne Marine Tondelier – carnets de doctrine",
+      "url": "https://marinetondelier.fr/carnets-de-doctrine"
     }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

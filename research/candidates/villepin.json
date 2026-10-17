@@ -76,9 +76,16 @@
     "main_url": "https://lafrancehumaniste.fr/france2027.html",
     "format": "page_web",
     "published_date": null,
-    "status": "en_cours_d_elaboration",
-    "note": "Projet présenté par La France humaniste comme « en construction » : un texte socle (discours de la Sorbonne, 27 mars 2026) et huit « chantiers » publiés sous forme de chroniques signées par Dominique de Villepin entre février et septembre 2026 (éducation, fiscalité, écologie, agriculture, IA, culture, institutions, Europe). D'autres chroniques du site (protection sociale, travail, santé) complètent les mesures recensées.",
+    "status": "partiel",
+    "note": "Projet présenté par La France humaniste comme « en construction ». La page Projet France 2027 réunit un texte socle (discours de la Sorbonne, 27 mars 2026), un « Projet économique » de 20 propositions chiffrées (page non datée, absente des archives consultées) et huit « chantiers » publiés sous forme de chroniques signées par Dominique de Villepin entre février et septembre 2026 (éducation, fiscalité, écologie, agriculture, IA, culture, institutions, Europe). D’autres chroniques du site (protection sociale, travail, santé, canicules, dette, jeunesse) complètent les mesures recensées. Candidature non officiellement déclarée au 16 octobre 2026.",
     "thematic_links": [
+      {
+        "theme": "economie",
+        "title": "Projet économique : 20 propositions pour 2027 (« Rouvrir les sources de l’abondance »)",
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "format": "page_web",
+        "page_range": null
+      },
       {
         "theme": "education",
         "title": "Refonder l'école pour refaire société",
@@ -141,6 +148,34 @@
         "url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
         "format": "page_web",
         "page_range": null
+      },
+      {
+        "theme": "fiscalite",
+        "title": "La dette c’est la défaite : choisir le sursaut (21 août 2026)",
+        "url": "https://lafrancehumaniste.fr/articles/la-dette-cest-la-defaite.html",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "ecologie",
+        "title": "Canicule : Et nos villes continuent de brûler... (23 juin 2026)",
+        "url": "https://lafrancehumaniste.fr/articles/canicule-et-nos-villes.html",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "sante",
+        "title": "Vers une protection sociale rénovée (4 décembre 2025)",
+        "url": "https://lafrancehumaniste.fr/articles/protection-sociale.html",
+        "format": "page_web",
+        "page_range": null
+      },
+      {
+        "theme": "emploi",
+        "title": "Un nouveau monde du travail (8 décembre 2025)",
+        "url": "https://lafrancehumaniste.fr/articles/un-nouveau-monde-du-travail.html",
+        "format": "page_web",
+        "page_range": null
       }
     ],
     "archive_url": "http://web.archive.org/web/20260919214128/https://lafrancehumaniste.fr/france2027"
@@ -173,7 +208,11 @@
     {
       "label": "LCP – « Nous voulons être présents en 2027 »",
       "url": "https://lcp.fr/actualites/dominique-de-villepin-nous-voulons-etre-presents-en-2027-429413"
+    },
+    {
+      "label": "La France humaniste – Projet économique : 20 propositions pour 2027",
+      "url": "https://lafrancehumaniste.fr/programme/economie.html"
     }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-16"
 }

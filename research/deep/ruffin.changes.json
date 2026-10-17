@@ -1,0 +1,314 @@
+[
+  {
+    "action": "program",
+    "measure_id": null,
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/notre-programme/",
+        "page": null,
+        "excerpt": "Pour protéger notre industrie, relocaliser 100 produits stratégiques"
+      },
+      {
+        "url": "https://nouspresident.fr/plan-urgence-climat/",
+        "page": null,
+        "excerpt": "PLAN URGENCE CLIMAT"
+      },
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Data_CENTERS_V2.pdf",
+        "page": null,
+        "excerpt": "Nouvelle URL du plan Data centers (l'ancienne renvoie une erreur 404)"
+      },
+      {
+        "url": "https://archive.org/wayback/available?url=https://nouspresident.fr/notre-programme/",
+        "page": null,
+        "excerpt": "Capture Wayback disponible (archive_url)"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "ruffin-numerique-01",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Data_CENTERS_V2.pdf#page=15",
+        "page": "p. 15",
+        "excerpt": "un moratoire de cinq ans sur les projets de centres de"
+      }
+    ]
+  },
+  {
+    "action": "update",
+    "measure_id": "ruffin-numerique-02",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Data_CENTERS_V2.pdf#page=5",
+        "page": "p. 5",
+        "excerpt": "nous réserverons au numérique une fraction déterminée de notre"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-economie-04",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=29",
+        "page": "p. 29",
+        "excerpt": "un « Buy French Act » pour aller vers 80% de commande publique localisée en France"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-economie-05",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=41",
+        "page": "p. 41",
+        "excerpt": "Nous proposons donc de rendre obligatoire le label — jusqu'ici facultatif — Origin'Info"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-fiscalite-03",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=47",
+        "page": "p. 47",
+        "excerpt": "Le crédit d'impôt recherche (CIR) sera également recentré sur les PME et ETI industrielles"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-fiscalite-04",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=51",
+        "page": "p. 51",
+        "excerpt": "Un taux minimum même modéré de 5% ne présenterait aucun risque significatif"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-emploi-05",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf#page=22",
+        "page": "p. 22",
+        "excerpt": "Une loi dédiée à l'adaptation du travail aux vagues de chaleur"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-emploi-06",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf#page=23",
+        "page": "p. 23",
+        "excerpt": "les comités d'hygiène, de sécurité et des conditions de travail (CHSCT) seront pleinement rétablis"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-ecologie-04",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf#page=15",
+        "page": "p. 15",
+        "excerpt": "une Sécurité climatique, nouvelle branche permanente de la Sécurité sociale"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-ecologie-05",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf#page=55",
+        "page": "p. 55",
+        "excerpt": "Nous acterons donc le retour de la consigne du verre"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-ecologie-06",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf#page=38",
+        "page": "p. 38",
+        "excerpt": "tripler la part du fret ferroviaire dans le transport de marchandises"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-agriculture-05",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf#page=10",
+        "page": "p. 10",
+        "excerpt": "Subvention directe de 5 000 € par paysan impacté"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-logement-05",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/09/CC_Logement.pdf#page=29",
+        "page": "p. 29",
+        "excerpt": "Doubler les montants possibles des prêts à taux zéro"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-logement-06",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/09/CC_Logement.pdf#page=34",
+        "page": "p. 34",
+        "excerpt": "en imposant les usages occasionnels au moins deux fois plus qu'actuellement"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-sante-01",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=48",
+        "page": "p. 48",
+        "excerpt": "la proposition de pôle public du médicament à « 2 étages »"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-sante-02",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf#page=7",
+        "page": "p. 7",
+        "excerpt": "Nous proposons une prise en charge à 100 % et un accès direct de 12 séances"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-education-01",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/09/Debout-Livret-Campagne-Loisirs-vdef-Web-1.pdf#page=42",
+        "page": "p. 42",
+        "excerpt": "REFONDER LA PÉDAGOGIE ET L'AMBITION POPULAIRE DES ENSEIGNEMENTS ARTISTIQUES"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-education-02",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=57",
+        "page": "p. 57",
+        "excerpt": "le nombre et la diversité des places de BTS dans les villes petites et moyennes"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-securite-03",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf#page=5",
+        "page": "p. 5",
+        "excerpt": "permettant d'atteindre +20 000 sapeurs-pompiers professionnels à l'horizon 2030"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-institutions-04",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/07/Debout-Livret-Probite-Web-1.pdf#page=39",
+        "page": "p. 39",
+        "excerpt": "présenter un bulletin n°2 du casier judiciaire vierge"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-institutions-05",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/07/Debout-Livret-Probite-Web-1.pdf#page=40",
+        "page": "p. 40",
+        "excerpt": "Il sera mis fin à la possibilité de cumuler les fonctions ministérielles"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-institutions-06",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/07/Debout-Livret-Probite-Web-1.pdf#page=53",
+        "page": "p. 53",
+        "excerpt": "puissent s'opposer à une nomination à une majorité simple"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-europe-03",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=30",
+        "page": "p. 30",
+        "excerpt": "Nous refuserons également la ratification du CETA"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-numerique-04",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=39",
+        "page": "p. 39",
+        "excerpt": "Elle sera réservée aux acteurs de droit européen"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-international-03",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf#page=49",
+        "page": "p. 49",
+        "excerpt": "il s'agira de monter au capital des entreprises qui vont le plus bénéficier"
+      }
+    ]
+  },
+  {
+    "action": "add",
+    "measure_id": "ruffin-services_publics-03",
+    "evidence": [
+      {
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf#page=24",
+        "page": "p. 24",
+        "excerpt": "au sein d'un Commissariat général à la planification"
+      }
+    ]
+  }
+]
