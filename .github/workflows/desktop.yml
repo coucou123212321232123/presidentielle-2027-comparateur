@@ -36,9 +36,9 @@ jobs:
         run: |
           npm version "1.1.${{ github.run_number }}" --no-git-tag-version
           echo "VERSION=1.1.${{ github.run_number }}" >> "$GITHUB_ENV"
-      - name: Runtime Electron attendu par la configuration (build.electronDist)
+      - name: Runtime Electron téléchargé par electron-builder (build.electronDist ne sert qu'aux postes locaux)
         shell: bash
-        run: cp -r node_modules/electron/dist node_modules/.electron-dist
+        run: node -e "const fs=require('fs');const p=JSON.parse(fs.readFileSync('package.json','utf8'));delete p.build.electronDist;fs.writeFileSync('package.json',JSON.stringify(p,null,2))"
       - run: npm run build:desktop
       - run: npx electron-builder --win nsis portable --publish never
       - name: Publier la version
