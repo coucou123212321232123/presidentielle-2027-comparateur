@@ -52,18 +52,22 @@ async function download(urls: string[]): Promise<Uint8Array> {
   for (const url of urls) {
     const file = join(CACHE, url.replace(/^.*\/repository\//, '').replace(/\//g, '_'))
     if (existsSync(file)) return new Uint8Array(readFileSync(file))
-    console.log(`↓ ${url}`)
-    try {
-      const res = await fetch(url, { signal: AbortSignal.timeout(300_000) })
-      if (!res.ok) {
-        console.warn(`  ${res.status} ${res.statusText}`)
-        continue
+    // Le serveur de l'Assemblée coupe parfois la connexion : trois essais espacés.
+    for (let attempt = 1; attempt <= 3; attempt++) {
+      console.log(`↓ ${url}${attempt > 1 ? ` (essai ${attempt})` : ''}`)
+      try {
+        const res = await fetch(url, { signal: AbortSignal.timeout(300_000) })
+        if (!res.ok) {
+          console.warn(`  ${res.status} ${res.statusText}`)
+          break
+        }
+        const buf = new Uint8Array(await res.arrayBuffer())
+        writeFileSync(file, buf)
+        return buf
+      } catch (e) {
+        console.warn(`  échec : ${(e as Error).message}`)
+        await new Promise((r) => setTimeout(r, 5000 * attempt))
       }
-      const buf = new Uint8Array(await res.arrayBuffer())
-      writeFileSync(file, buf)
-      return buf
-    } catch (e) {
-      console.warn(`  échec : ${(e as Error).message}`)
     }
   }
   throw new Error(`Téléchargement impossible : ${urls.join(' | ')}`)
