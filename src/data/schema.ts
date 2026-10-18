@@ -254,6 +254,33 @@ export const VotesFileSchema = z.object({
   scrutins: z.array(ScrutinSchema),
 })
 
+/**
+ * Index de recherche : tous les votes sur l'ensemble d'un texte, votes solennels, motions de censure et
+ * déclarations du gouvernement des législatures couvertes. Format compact, chargé à la demande.
+ */
+export const VotesIndexSchema = z.object({
+  generated_at: z.string(),
+  /** Groupes politiques : référence → [sigle, nom, couleur]. */
+  groups: z.record(z.string(), z.tuple([z.string(), z.string(), z.string()])),
+  scrutins: z.array(
+    z.object({
+      id: z.string().regex(/^l\d+-\d+$/),
+      legislature: z.number().int(),
+      numero: z.number().int(),
+      date: isoDate,
+      title: z.string().min(1),
+      kind: z.enum(['projet_de_loi', 'proposition_de_loi', 'motion_de_censure', 'declaration', 'resolution', 'autre']),
+      censure: z.boolean(),
+      result: z.enum(['adopte', 'rejete']),
+      majority_required: z.number().int().nullable(),
+      totals: z.object({ pour: z.number().int(), contre: z.number().int(), abstention: z.number().int(), non_votant: z.number().int() }),
+      /** [référence du groupe, membres, pour, contre, abstention, non-votants, absents] */
+      groups: z.array(z.tuple([z.string(), z.number(), z.number(), z.number(), z.number(), z.number(), z.number()])),
+      candidates: z.array(z.object({ candidate: z.string(), group: z.string(), vote: VotePositionSchema })),
+    }),
+  ),
+})
+
 /** Paquet de données publié en ligne (public-data/data-v2.json) et téléchargé par l'application de bureau. */
 export const DataBundleSchema = z.object({
   version: z.literal(2),
@@ -290,4 +317,5 @@ export type GlossaryEntry = z.infer<typeof GlossaryEntrySchema>
 export type VotePosition = z.infer<typeof VotePositionSchema>
 export type Scrutin = z.infer<typeof ScrutinSchema>
 export type VotesFile = z.infer<typeof VotesFileSchema>
+export type VotesIndex = z.infer<typeof VotesIndexSchema>
 
