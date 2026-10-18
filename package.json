@@ -14,7 +14,8 @@
     "app": "npm run build:desktop && electron .",
     "dist:win": "npm run build:desktop && electron-builder --win nsis portable",
     "export-data": "tsx scripts/export-data.ts",
-    "build:pages": "npm run validate-data && tsc -b && vite build --mode pages && node -e \"require('fs').copyFileSync('dist/index.html','dist/404.html')\""
+    "build:pages": "npm run validate-data && tsc -b && vite build --mode pages && node -e \"require('fs').copyFileSync('dist/index.html','dist/404.html')\"",
+    "fetch-votes": "tsx scripts/fetch-votes.ts"
   },
   "dependencies": {
     "@fontsource-variable/fraunces": "^5.3.0",
@@ -29,6 +30,7 @@
     "zustand": "^5.0.15"
   },
   "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/vite": "^4.3.3",
     "@types/node": "^26.6.5",
     "@types/react": "^19.3.0",
@@ -36,6 +38,7 @@
     "@vitejs/plugin-react": "^6.1.2",
     "electron": "^44.7.2",
     "electron-builder": "^26.15.3",
+    "fflate": "^0.8.2",
     "tailwindcss": "^4.3.3",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2",

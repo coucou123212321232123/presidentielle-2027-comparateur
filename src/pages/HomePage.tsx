@@ -1,20 +1,58 @@
 import { useMemo, useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
-import { ArrowRight, Columns3, Search, UserX } from 'lucide-react'
-import { candidates, candidateById, measuresByCandidate, meta, themeById, totalMeasures } from '../data'
+import { ArrowRight, Columns3, Search, Sparkles, UserX } from 'lucide-react'
+import { allCandidateIds, candidates, candidateById, meta, themeById, totalMeasures, useMeasures } from '../data'
 import type { CandidateStatus } from '../data/schema'
 import { CandidateCard } from '../components/CandidateCard'
 import { CandidateAvatar } from '../components/CandidateAvatar'
 import { SourceTypeBadge } from '../components/Badges'
 import { Chip, EmptyState } from '../components/ui'
 import { FAMILY_LABELS, POSITION_ORDER, STATUS_LABELS, familyOf, type Family } from '../lib/labels'
-import { formatDate, fullName, normalize, plural } from '../lib/format'
+import { formatDate, formatShortDate, fullName, normalize, plural } from '../lib/format'
+import { newCount, useNovelty } from '../lib/novelty'
 
 type Sort = 'alpha' | 'axis'
 
 function daysUntil(iso: string) {
   return Math.max(0, Math.ceil((new Date(`${iso}T08:00:00`).getTime() - Date.now()) / 86_400_000))
+}
+
+/** Mesures ajoutées depuis la dernière visite, par candidat, avec « Marquer comme vu ». */
+function NewsBanner() {
+  const { since, firstVisit, markSeen } = useNovelty()
+  const perCandidate = candidates.map((c) => ({ c, n: newCount(since, c.id) })).filter((x) => x.n > 0)
+  const total = perCandidate.reduce((a, x) => a + x.n, 0)
+  if (!total) return null
+  return (
+    <section aria-labelledby="news-title" className="mb-8 rounded-2xl border border-line bg-surface p-4 shadow-soft sm:p-5">
+      <div className="flex flex-wrap items-start justify-between gap-3">
+        <h2 id="news-title" className="flex items-center gap-2 text-sm font-semibold text-ink">
+          <Sparkles className="size-4 text-red-600 dark:text-red-400" aria-hidden="true" />
+          {firstVisit
+            ? `${plural(total, 'mesure ajoutée', 'mesures ajoutées')} lors de la mise à jour du ${formatShortDate(meta.last_updated)}`
+            : `${plural(total, 'nouvelle mesure', 'nouvelles mesures')} depuis votre dernière visite`}
+        </h2>
+        <button type="button" onClick={markSeen} className="text-xs font-medium text-muted underline-offset-2 hover:text-ink hover:underline">
+          Marquer comme vu
+        </button>
+      </div>
+      <ul className="mt-3 flex flex-wrap gap-2">
+        {perCandidate.map(({ c, n }) => (
+          <li key={c.id}>
+            <Link
+              to={`/candidats/${c.id}?nouveautes=1`}
+              className="inline-flex items-center gap-2 rounded-full border border-line bg-surface py-1 pl-1 pr-3 text-sm text-ink-2 hover:text-ink"
+            >
+              <CandidateAvatar candidate={c} size="sm" decorative />
+              {c.last_name}
+              <span className="text-xs font-semibold tabular-nums text-red-700 dark:text-red-300">+{n}</span>
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
 }
 
 export function HomePage() {
@@ -49,13 +87,17 @@ export function HomePage() {
       : list
   }, [families, statuses, q, sort])
 
+  // Les mesures ne sont chargées que lorsqu'une recherche les concerne (3 caractères ou plus).
+  const searching = q.length >= 3
+  const all = useMeasures(searching ? allCandidateIds : [])
+  const searchLoading = searching && all === null
   const measureHits = useMemo(() => {
-    if (q.length < 3) return []
-    return Object.entries(measuresByCandidate)
+    if (!searching || !all) return []
+    return Object.entries(all)
       .flatMap(([cid, list]) => list.map((m) => ({ m, c: candidateById[cid] })))
       .filter(({ m }) => normalize(`${m.title} ${m.description}`).includes(q))
       .slice(0, 40)
-  }, [q])
+  }, [q, searching, all])
 
   return (
     <div>
@@ -96,6 +138,8 @@ export function HomePage() {
           ))}
         </dl>
       </section>
+
+      <NewsBanner />
 
       <section aria-label="Recherche et filtres" className="mb-6 space-y-4">
         <label className="relative block">
@@ -152,7 +196,8 @@ export function HomePage() {
       ) : (
         // Une recherche qui ne vise aucun candidat mais trouve des mesures affiche directement ces mesures.
         candidates.length > 0 &&
-        measureHits.length === 0 && (
+        measureHits.length === 0 &&
+        !searchLoading && (
           <EmptyState
             icon={<UserX className="size-8" />}
             title={q ? `Aucun candidat ni aucune mesure ne correspond à « ${query.trim()} »` : 'Aucun candidat ne correspond à ces critères'}
@@ -160,6 +205,12 @@ export function HomePage() {
             Modifiez la recherche ou retirez des filtres.
           </EmptyState>
         )
+      )}
+
+      {searchLoading && (
+        <p className="mt-8 text-sm text-muted" role="status">
+          Recherche dans les mesures…
+        </p>
       )}
 
       <AnimatePresence>

@@ -14,7 +14,8 @@
       "key": "smic_net",
       "value": 1700
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-economie-02",
@@ -27,7 +28,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 73 (page PDF 37)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-economie-03",
@@ -40,7 +42,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 57 (page PDF 29)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-economie-04",
@@ -53,7 +56,8 @@
     "source_date": "2026-09-18",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-economie-05",
@@ -66,7 +70,8 @@
     "source_date": "2026-10-14",
     "source_page": "p. 15-16",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-economie-06",
@@ -79,7 +84,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 49 (page PDF 25)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-economie-07",
@@ -92,7 +98,8 @@
     "source_date": "2026-10-10",
     "source_page": "p. 10-17",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-fiscalite-01",
@@ -105,7 +112,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 51 (page PDF 26)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-fiscalite-02",
@@ -122,7 +130,8 @@
       "key": "isf",
       "value": "retablissement"
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-fiscalite-03",
@@ -135,7 +144,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 51 (page PDF 26)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-fiscalite-04",
@@ -153,7 +163,8 @@
       "source_label": "Chiffrage de La France insoumise (octobre 2026)",
       "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=13"
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-fiscalite-05",
@@ -166,7 +177,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 51-52 (pages PDF 26-27)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-fiscalite-06",
@@ -179,7 +191,8 @@
     "source_date": "2026-10-14",
     "source_page": "p. 14",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-fiscalite-07",
@@ -192,7 +205,8 @@
     "source_date": "2026-10-14",
     "source_page": "p. 13-14",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-emploi-01",
@@ -205,7 +219,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 65 (page PDF 33)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-emploi-02",
@@ -218,7 +233,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 64 (page PDF 33)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-emploi-03",
@@ -231,7 +247,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 65 (page PDF 33)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-emploi-04",
@@ -244,7 +261,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 65 (page PDF 33)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-emploi-05",
@@ -257,7 +275,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 68 (page PDF 35)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-emploi-06",
@@ -270,7 +289,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 67 (page PDF 34)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-emploi-07",
@@ -283,7 +303,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 30 (page PDF 16)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-retraites-01",
@@ -300,7 +321,8 @@
       "key": "age_legal",
       "value": 60
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-retraites-02",
@@ -313,7 +335,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 72 (page PDF 37)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-retraites-03",
@@ -331,7 +354,12 @@
       "source_label": "Chiffrage de La France insoumise (octobre 2026)",
       "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf#page=11"
     },
-    "last_verified": "2026-10-16"
+    "indicator": {
+      "key": "abrogation_2023",
+      "value": "abrogation"
+    },
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-retraites-04",
@@ -344,7 +372,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 72 (page PDF 37)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-retraites-05",
@@ -357,7 +386,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 72 (page PDF 37)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-energie-01",
@@ -370,7 +400,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 96 (page PDF 49)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-energie-02",
@@ -387,7 +418,8 @@
       "key": "nucleaire",
       "value": "sortie"
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-energie-03",
@@ -400,7 +432,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 96 (page PDF 49)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-energie-04",
@@ -413,7 +446,8 @@
     "source_date": "2026-10-14",
     "source_page": "p. 9",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-energie-05",
@@ -426,7 +460,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 57 et p. 97 (pages PDF 29 et 49)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-energie-06",
@@ -439,7 +474,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 131 (page PDF 66)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-energie-07",
@@ -452,7 +488,8 @@
     "source_date": "2026-09-28",
     "source_page": "p. 13",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-ecologie-01",
@@ -465,7 +502,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 90 (page PDF 46)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-ecologie-02",
@@ -478,7 +516,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 90 (page PDF 46)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-ecologie-03",
@@ -491,7 +530,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 94 (page PDF 48)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-ecologie-04",
@@ -504,7 +544,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 105-106 (pages PDF 53-54)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-ecologie-05",
@@ -517,7 +558,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 102-103 (page PDF 52)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-ecologie-06",
@@ -530,7 +572,8 @@
     "source_date": "2026-10-14",
     "source_page": "p. 11",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-ecologie-07",
@@ -543,7 +586,8 @@
     "source_date": "2026-09-28",
     "source_page": "p. 10",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-agriculture-01",
@@ -556,7 +600,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 99 (page PDF 50)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-agriculture-02",
@@ -569,7 +614,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 99 (page PDF 50)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-agriculture-03",
@@ -582,7 +628,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 100 (page PDF 51)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-agriculture-04",
@@ -595,7 +642,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 100 (page PDF 51)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-agriculture-05",
@@ -608,7 +656,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 100 (page PDF 51)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-agriculture-06",
@@ -621,7 +670,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 100 (page PDF 51)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-agriculture-07",
@@ -634,7 +684,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 106 (page PDF 54)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-logement-01",
@@ -647,7 +698,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 58 (page PDF 30)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-logement-02",
@@ -660,7 +712,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 58 (page PDF 30)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-logement-03",
@@ -673,7 +726,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 58 (page PDF 30)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-logement-04",
@@ -686,7 +740,8 @@
     "source_date": "2026-09-28",
     "source_page": "p. 8",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-logement-05",
@@ -699,7 +754,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 59 (page PDF 30)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-logement-06",
@@ -712,7 +768,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 59 (page PDF 30)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-logement-07",
@@ -725,7 +782,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 58 (page PDF 30)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-sante-01",
@@ -738,7 +796,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 109 (page PDF 55)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-sante-02",
@@ -751,7 +810,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 109 (page PDF 55)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-sante-03",
@@ -764,7 +824,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 111 (page PDF 56)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-sante-04",
@@ -777,7 +838,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 109 (page PDF 55)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-sante-05",
@@ -790,7 +852,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 110 (page PDF 56)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-sante-06",
@@ -803,7 +866,8 @@
     "source_date": "2026-10-14",
     "source_page": "p. 10",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-sante-07",
@@ -816,7 +880,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 112 (page PDF 57)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-education-01",
@@ -829,7 +894,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 45 (page PDF 23)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-education-02",
@@ -842,7 +908,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 39 (page PDF 20)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-education-03",
@@ -855,7 +922,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 40 (page PDF 21)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-education-04",
@@ -868,7 +936,8 @@
     "source_date": "2026-10-14",
     "source_page": "p. 9",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-education-05",
@@ -881,7 +950,8 @@
     "source_date": "2026-10-14",
     "source_page": "p. 9-10",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-education-06",
@@ -894,7 +964,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 41-42 (pages PDF 21-22)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-education-07",
@@ -907,7 +978,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 46 (page PDF 24)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-securite-01",
@@ -920,7 +992,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 61 (page PDF 31)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-securite-02",
@@ -933,7 +1006,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 35 (page PDF 18)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-securite-03",
@@ -946,7 +1020,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 35 (page PDF 18)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-securite-04",
@@ -959,7 +1034,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 34 (page PDF 18)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-securite-05",
@@ -972,7 +1048,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 79 (page PDF 40)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-securite-06",
@@ -985,7 +1062,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 62 (page PDF 32)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-securite-07",
@@ -998,7 +1076,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 60 (page PDF 31)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-immigration-01",
@@ -1011,7 +1090,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 122 (page PDF 62)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-immigration-02",
@@ -1024,7 +1104,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 123 (page PDF 62)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-immigration-03",
@@ -1037,7 +1118,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 79 (page PDF 40)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-immigration-04",
@@ -1050,7 +1132,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 122 (page PDF 62)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-immigration-05",
@@ -1063,7 +1146,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 122 (page PDF 62)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-immigration-06",
@@ -1076,7 +1160,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 63 (page PDF 32)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-institutions-01",
@@ -1089,7 +1174,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 20 (page PDF 11)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-institutions-02",
@@ -1102,7 +1188,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 21 (page PDF 11)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-institutions-03",
@@ -1115,7 +1202,12 @@
     "source_date": "2025-02-18",
     "source_page": "p. 23 (page PDF 12)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "indicator": {
+      "key": "ric",
+      "value": "oui"
+    },
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-institutions-04",
@@ -1128,7 +1220,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 23 (page PDF 12)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-institutions-05",
@@ -1141,7 +1234,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 21 (page PDF 11)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-institutions-06",
@@ -1154,7 +1248,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 22 (page PDF 12)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-institutions-07",
@@ -1167,7 +1262,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 79 (page PDF 40)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-europe-01",
@@ -1180,7 +1276,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 127 (page PDF 64)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-europe-02",
@@ -1193,7 +1290,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 129 (page PDF 65)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-europe-03",
@@ -1206,7 +1304,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 50 (page PDF 26)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-europe-04",
@@ -1219,7 +1318,12 @@
     "source_date": "2025-02-18",
     "source_page": "p. 128 (page PDF 65)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "indicator": {
+      "key": "mercosur",
+      "value": "contre"
+    },
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-europe-05",
@@ -1232,7 +1336,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 128 (page PDF 65)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-europe-06",
@@ -1245,7 +1350,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 129 (page PDF 65)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-international-01",
@@ -1258,7 +1364,12 @@
     "source_date": "2025-02-18",
     "source_page": "p. 116 (page PDF 59)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "indicator": {
+      "key": "otan",
+      "value": "sortie"
+    },
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-international-02",
@@ -1271,7 +1382,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 120 (page PDF 61)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-international-03",
@@ -1284,7 +1396,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 119 (page PDF 60)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-international-04",
@@ -1297,7 +1410,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 117 (page PDF 59)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-international-05",
@@ -1310,7 +1424,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 118 (page PDF 60)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-international-06",
@@ -1323,7 +1438,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 118 (page PDF 60)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-international-07",
@@ -1336,7 +1452,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 124 (page PDF 63)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-numerique-01",
@@ -1349,7 +1466,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 133 (page PDF 67)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-numerique-02",
@@ -1362,7 +1480,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 134 (page PDF 68)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-numerique-03",
@@ -1375,7 +1494,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 135 (page PDF 68)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-numerique-04",
@@ -1388,7 +1508,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 134 (page PDF 68)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-numerique-05",
@@ -1401,7 +1522,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 134 (page PDF 68)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-numerique-06",
@@ -1414,7 +1536,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 132 (page PDF 67)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-numerique-07",
@@ -1427,7 +1550,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 135 (page PDF 68)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-culture-01",
@@ -1440,7 +1564,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 84 (page PDF 43)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-culture-02",
@@ -1453,7 +1578,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 26 (page PDF 14)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-culture-03",
@@ -1466,7 +1592,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 25 (page PDF 13)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-culture-04",
@@ -1479,7 +1606,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 26 (page PDF 14)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-culture-05",
@@ -1492,7 +1620,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 84 (page PDF 43)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-culture-06",
@@ -1505,7 +1634,8 @@
     "source_date": "2026-09-28",
     "source_page": "p. 14",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-outre-mer-01",
@@ -1518,7 +1648,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 55 (page PDF 28)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-outre-mer-02",
@@ -1531,7 +1662,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 104 (page PDF 53)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-outre-mer-03",
@@ -1544,7 +1676,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 101 (page PDF 51)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-outre-mer-04",
@@ -1557,7 +1690,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 55 (page PDF 28)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-outre-mer-05",
@@ -1570,7 +1704,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 55 (page PDF 28)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-outre-mer-06",
@@ -1583,7 +1718,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 93 (page PDF 47)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-services-publics-01",
@@ -1596,7 +1732,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 54 (page PDF 28)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-services-publics-02",
@@ -1609,7 +1746,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 95 (page PDF 48)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-services-publics-03",
@@ -1622,7 +1760,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 30 (page PDF 16)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-services-publics-04",
@@ -1635,7 +1774,8 @@
     "source_date": "2026-10-09",
     "source_page": "p. 14",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-services-publics-05",
@@ -1648,7 +1788,8 @@
     "source_date": "2026-10-09",
     "source_page": "p. 21",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-services-publics-06",
@@ -1661,7 +1802,8 @@
     "source_date": "2026-10-10",
     "source_page": "p. 15",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-services-publics-07",
@@ -1674,7 +1816,8 @@
     "source_date": "2026-10-14",
     "source_page": "p. 10",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-famille-01",
@@ -1687,7 +1830,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 39 (page PDF 20)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-famille-02",
@@ -1700,7 +1844,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 52 (page PDF 27)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-famille-03",
@@ -1713,7 +1858,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 32 (page PDF 17)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "melenchon-famille-04",
@@ -1726,7 +1872,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 80 (page PDF 41)",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-famille-05",
@@ -1739,7 +1886,8 @@
     "source_date": "2025-02-18",
     "source_page": "p. 82 (page PDF 42)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-famille-06",
@@ -1752,7 +1900,8 @@
     "source_date": "2026-10-14",
     "source_page": "p. 10",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "melenchon-famille-07",
@@ -1765,6 +1914,7 @@
     "source_date": "2026-10-14",
     "source_page": "p. 8",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   }
 ]

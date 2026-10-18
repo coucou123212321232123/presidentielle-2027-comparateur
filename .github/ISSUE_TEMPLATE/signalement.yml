@@ -1,0 +1,56 @@
+name: Signaler une erreur
+description: Mesure mal résumée, source cassée ou incorrecte, position manquante ou dépassée.
+title: "Signalement : "
+labels: ["signalement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci ! Chaque signalement est contre-vérifié sur la source officielle avant toute correction (voir la page Méthodologie).
+        Les champs ci-dessous sont pré-remplis quand vous venez du bouton « Signaler une erreur » d'une mesure.
+  - type: input
+    id: candidat
+    attributes:
+      label: Candidat
+      placeholder: "Ex. Gabriel Attal (attal)"
+    validations:
+      required: false
+  - type: textarea
+    id: mesure
+    attributes:
+      label: Mesure concernée
+      description: Identifiant, titre et texte de la mesure telle qu'affichée.
+    validations:
+      required: false
+  - type: textarea
+    id: source
+    attributes:
+      label: Source actuellement indiquée
+    validations:
+      required: false
+  - type: dropdown
+    id: probleme
+    attributes:
+      label: Type de problème
+      options:
+        - Résumé inexact ou incomplet
+        - Source cassée ou ne contenant pas la mesure
+        - Mesure abandonnée ou remplacée par le candidat
+        - Mesure ou position manquante
+        - Mauvais thème ou mauvaise étiquette de source
+        - Autre
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Ce qui est faux et la correction proposée
+    validations:
+      required: true
+  - type: input
+    id: source_correcte
+    attributes:
+      label: Source à l'appui (URL)
+      description: Une source officielle du candidat de préférence. Sans source, la correction ne peut pas être vérifiée.
+    validations:
+      required: false

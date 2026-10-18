@@ -1,5 +1,5 @@
 import { lazy, Suspense, type ReactNode } from 'react'
-import { BrowserRouter, HashRouter, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, HashRouter, Navigate, Route, Routes, useParams, useSearchParams } from 'react-router-dom'
 import { MotionConfig } from 'framer-motion'
 import { Layout } from './components/Layout'
 import { Skeleton } from './components/ui'
@@ -11,6 +11,7 @@ const ThemesPage = lazy(() => import('./pages/ThemesPage'))
 const ProgramsPage = lazy(() => import('./pages/ProgramsPage'))
 const MethodologyPage = lazy(() => import('./pages/MethodologyPage'))
 const NotFoundPage = lazy(() => import('./pages/NotFoundPage'))
+const VotesPage = lazy(() => import('./pages/VotesPage'))
 
 function PageSkeleton() {
   return (
@@ -31,6 +32,16 @@ const Router = window.location.protocol === 'file:' ? HashRouter : BrowserRouter
 // Sous-dossier de publication (ex. /presidentielle-2027-comparateur sur GitHub Pages) ; vide en local.
 const basename = window.location.protocol === 'file:' ? undefined : import.meta.env.BASE_URL.replace(/\/$/, '') || undefined
 
+/** Lien de partage (/partage/energie/attal/philippe/) : redirige vers le comparateur correspondant. */
+function ShareRedirect() {
+  const { theme = '', a, b } = useParams()
+  const [params] = useSearchParams()
+  const ids = a && b ? [a, b] : (params.get('c') ?? '').split(',').filter(Boolean)
+  const q = new URLSearchParams({ theme })
+  const c = ids.length ? `&c=${ids.join(',')}` : ''
+  return <Navigate to={`/comparateur?${q.toString()}${c}`} replace />
+}
+
 const lazyPage = (node: ReactNode) => <Suspense fallback={<PageSkeleton />}>{node}</Suspense>
 
 export function App() {
@@ -44,7 +55,10 @@ export function App() {
             <Route path="comparateur" element={lazyPage(<ComparePage />)} />
             <Route path="themes" element={lazyPage(<ThemesPage />)} />
             <Route path="programmes" element={lazyPage(<ProgramsPage />)} />
+            <Route path="votes" element={lazyPage(<VotesPage />)} />
+            <Route path="votes/:id" element={lazyPage(<VotesPage />)} />
             <Route path="methodologie" element={lazyPage(<MethodologyPage />)} />
+            <Route path="partage/:theme/:a?/:b?" element={<ShareRedirect />} />
             <Route path="*" element={lazyPage(<NotFoundPage />)} />
           </Route>
         </Routes>

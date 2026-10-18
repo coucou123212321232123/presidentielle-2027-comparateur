@@ -1,13 +1,17 @@
 import { motion } from 'framer-motion'
-import { Coins } from 'lucide-react'
+import { Coins, Flag } from 'lucide-react'
 import type { Measure } from '../data/schema'
 import { formatShortDate } from '../lib/format'
-import { PrecisionBadge, SourceTypeBadge } from './Badges'
+import { isNewMeasure, useNovelty } from '../lib/novelty'
+import { reportUrl } from '../lib/report'
+import { NewBadge, PrecisionBadge, SourceTypeBadge } from './Badges'
 import { ExternalLink } from './ExternalLink'
+import { Glossed } from './Glossary'
 import { cx } from './ui'
 
 export function MeasureCard({ measure, accent, compact = false }: { measure: Measure; accent?: string; compact?: boolean }) {
   const secondary = measure.source_type !== 'officiel'
+  const since = useNovelty((s) => s.since)
   return (
     <motion.article
       layout="position"
@@ -21,9 +25,14 @@ export function MeasureCard({ measure, accent, compact = false }: { measure: Mea
       <div className="mb-2 flex flex-wrap items-center gap-1.5">
         <SourceTypeBadge type={measure.source_type} />
         <PrecisionBadge precision={measure.precision} />
+        {isNewMeasure(measure, since) && <NewBadge added={measure.added} />}
       </div>
-      <h4 className="break-words text-[15px] font-semibold leading-snug text-ink">{measure.title}</h4>
-      <p className="mt-1.5 text-sm leading-relaxed text-ink-2">{measure.description}</p>
+      <h4 className="break-words text-[15px] font-semibold leading-snug text-ink">
+        <Glossed text={measure.title} />
+      </h4>
+      <p className="mt-1.5 text-sm leading-relaxed text-ink-2">
+        <Glossed text={measure.description} />
+      </p>
 
       {measure.cost && (
         <p className="mt-2.5 flex items-start gap-1.5 rounded-lg bg-surface-2 px-2.5 py-1.5 text-xs text-ink-2">
@@ -55,8 +64,21 @@ export function MeasureCard({ measure, accent, compact = false }: { measure: Mea
             {measure.source_type === 'analyse_tierce' ? 'Source externe : ne provient pas du candidat' : 'Hors programme écrit'}
           </span>
         )}
-        <span className="ml-auto whitespace-nowrap" title="Date de dernière vérification">
-          Vérifié le {formatShortDate(measure.last_verified)}
+        <span className="ml-auto flex items-center gap-3">
+          <span className="whitespace-nowrap" title="Date de dernière vérification">
+            Vérifié le {formatShortDate(measure.last_verified)}
+          </span>
+          <a
+            href={reportUrl(measure)}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="no-print inline-flex items-center gap-1 whitespace-nowrap hover:text-ink"
+            title="Ouvre un formulaire pré-rempli sur GitHub (compte GitHub nécessaire)"
+            data-no-export="true"
+          >
+            <Flag className="size-3" aria-hidden="true" /> Signaler une erreur
+            <span className="sr-only"> (s'ouvre dans un nouvel onglet)</span>
+          </a>
         </span>
       </footer>
     </motion.article>

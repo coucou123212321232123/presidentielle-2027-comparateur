@@ -1,0 +1,586 @@
+[
+  {
+    "id": "aah",
+    "term": "AAH",
+    "expansion": "Allocation aux adultes handicapés",
+    "aliases": [],
+    "definition": "Aide financière versée sous conditions de ressources aux personnes handicapées dont le taux d'incapacité, reconnu par la MDPH, atteint un certain seuil.",
+    "source_label": "Mon Parcours Handicap (gouv.fr) – AAH : définition",
+    "source_url": "https://www.monparcourshandicap.gouv.fr/glossaire/aah"
+  },
+  {
+    "id": "aesh",
+    "term": "AESH",
+    "expansion": "Accompagnant des élèves en situation de handicap",
+    "aliases": [
+      "AESH-i",
+      "AESH-m"
+    ],
+    "definition": "Personnel de l'Éducation nationale qui aide les élèves handicapés à l'école, sous la responsabilité pédagogique des enseignants, sur notification de la MDPH.",
+    "source_label": "Ministère de l'Éducation nationale – Être accompagnant des élèves en situation de handicap (AESH)",
+    "source_url": "https://www.education.gouv.fr/etre-accompagnant-des-eleves-en-situation-de-handicap-aesh-12188"
+  },
+  {
+    "id": "ame",
+    "term": "AME",
+    "expansion": "Aide médicale de l'État",
+    "aliases": [],
+    "definition": "Dispositif qui prend en charge les soins des étrangers en situation irrégulière résidant en France de façon stable, sous conditions de résidence et de ressources.",
+    "source_label": "Ameli.fr (Assurance maladie) – Aide médicale de l'État (AME)",
+    "source_url": "https://www.ameli.fr/assure/droits-demarches/situations-particulieres/situation-irreguliere-ame"
+  },
+  {
+    "id": "anah",
+    "term": "ANAH",
+    "expansion": "Agence nationale de l'habitat",
+    "aliases": [
+      "Anah"
+    ],
+    "definition": "Établissement public de l'État chargé d'améliorer le parc de logements privés existants : rénovation énergétique (MaPrimeRénov'), adaptation, lutte contre l'habitat indigne.",
+    "source_label": "Anah – Nos grandes missions de service public",
+    "source_url": "https://www.anah.gouv.fr/action/missions"
+  },
+  {
+    "id": "apl",
+    "term": "APL",
+    "expansion": "Aide personnalisée au logement",
+    "aliases": [],
+    "definition": "Aide versée par la CAF ou la MSA, sous conditions de ressources, pour réduire le loyer ou la mensualité de prêt d'une résidence principale ; elle est versée au bailleur ou au prêteur.",
+    "source_label": "Service-public.gouv.fr – Aide personnalisée au logement (APL)",
+    "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12006?ori=eph"
+  },
+  {
+    "id": "ars",
+    "term": "ARS",
+    "expansion": "Agence régionale de santé",
+    "aliases": [],
+    "definition": "Établissement public qui pilote la politique de santé dans chaque région : veille sanitaire, prévention, organisation et financement des hôpitaux, soins de ville et établissements médico-sociaux.",
+    "source_label": "Agences régionales de santé – Qu'est-ce qu'une agence régionale de santé",
+    "source_url": "https://www.ars.sante.fr/quest-ce-quune-agence-regionale-de-sante"
+  },
+  {
+    "id": "aspa",
+    "term": "ASPA",
+    "expansion": "Allocation de solidarité aux personnes âgées",
+    "aliases": [
+      "Aspa",
+      "minimum vieillesse"
+    ],
+    "definition": "Prestation, dite « minimum vieillesse », qui complète les ressources des retraités aux revenus modestes jusqu'à un plafond ; elle est récupérable sur la succession au-delà d'un seuil.",
+    "source_label": "L'Assurance retraite – Demander une allocation de solidarité (Aspa)",
+    "source_url": "https://www.lassuranceretraite.fr/portail-info/hors-menu/annexe/services-en-ligne/demander-une-aspa.html"
+  },
+  {
+    "id": "bce",
+    "term": "BCE",
+    "expansion": "Banque centrale européenne",
+    "aliases": [],
+    "definition": "Banque centrale de la zone euro, indépendante, dont la mission principale est de maintenir la stabilité des prix, notamment en fixant les taux d'intérêt directeurs.",
+    "source_label": "Banque centrale européenne – Cinq choses à savoir sur la BCE",
+    "source_url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/five_things.fr.html"
+  },
+  {
+    "id": "brav-m",
+    "term": "BRAV-M",
+    "expansion": "Brigade de répression de l'action violente motocycliste",
+    "aliases": [
+      "Brav-M",
+      "BRAVM"
+    ],
+    "definition": "Unité de la préfecture de police de Paris, créée en 2019, composée d'équipages à moto et intervenant lors de manifestations ou de violences urbaines.",
+    "source_label": "Police nationale (interieur.gouv.fr) – Glossaire",
+    "source_url": "https://www.police-nationale.interieur.gouv.fr/glossaire"
+  },
+  {
+    "id": "c3s",
+    "term": "C3S",
+    "expansion": "Contribution sociale de solidarité des sociétés",
+    "aliases": [],
+    "definition": "Contribution due par les entreprises dont le chiffre d'affaires dépasse un seuil élevé, recouvrée par l'Urssaf et affectée au financement de l'assurance vieillesse.",
+    "source_label": "Urssaf.fr – Entreprise redevable de la C3S",
+    "source_url": "https://www.urssaf.fr/accueil/autre/contribution-c3s.html"
+  },
+  {
+    "id": "cdd",
+    "term": "CDD",
+    "expansion": "Contrat à durée déterminée",
+    "aliases": [],
+    "definition": "Contrat de travail conclu pour une durée limitée et une tâche précise et temporaire, uniquement dans les cas prévus par la loi (remplacement, surcroît d'activité, saisonnier…).",
+    "source_label": "Ministère du Travail – Le contrat à durée déterminée (CDD)",
+    "source_url": "https://travail-emploi.gouv.fr/le-contrat-duree-determinee-cdd"
+  },
+  {
+    "id": "cdi",
+    "term": "CDI",
+    "expansion": "Contrat à durée indéterminée",
+    "aliases": [],
+    "definition": "Contrat de travail sans date de fin, forme normale et générale de la relation de travail ; il peut être rompu par démission, licenciement ou rupture conventionnelle.",
+    "source_label": "Code du travail numérique (ministère du Travail) – Le contrat de travail à durée indéterminée (CDI)",
+    "source_url": "https://code.travail.gouv.fr/fiche-ministere-travail/le-contrat-de-travail-a-duree-indeterminee-cdi"
+  },
+  {
+    "id": "cedh",
+    "term": "CEDH",
+    "expansion": "Cour européenne des droits de l'homme / Convention européenne des droits de l'homme",
+    "aliases": [
+      "CourEDH"
+    ],
+    "definition": "Désigne la Convention européenne des droits de l'homme du Conseil de l'Europe ou la Cour, siégeant à Strasbourg, qui juge les recours pour sa violation. Elle ne relève pas de l'Union européenne.",
+    "source_label": "Cour européenne des droits de l'homme – Questions & Réponses",
+    "source_url": "https://www.echr.coe.int/documents/d/echr/questions_answers_fra"
+  },
+  {
+    "id": "cese",
+    "term": "CESE",
+    "expansion": "Conseil économique, social et environnemental",
+    "aliases": [
+      "Cese"
+    ],
+    "definition": "Assemblée consultative prévue par la Constitution, composée de représentants de la société civile, qui conseille le Gouvernement et le Parlement et peut être saisie par pétition.",
+    "source_label": "CESE – Qu'est-ce que le CESE ?",
+    "source_url": "https://www.lecese.fr/decouvrir-cese/cese-en-bref"
+  },
+  {
+    "id": "ceta",
+    "term": "CETA",
+    "expansion": "Accord économique et commercial global UE-Canada (Comprehensive Economic and Trade Agreement)",
+    "aliases": [
+      "AECG"
+    ],
+    "definition": "Accord de libre-échange entre l'Union européenne et le Canada, appliqué à titre provisoire depuis 2017 ; son entrée en vigueur complète suppose sa ratification par tous les États membres.",
+    "source_label": "Direction générale du Trésor – Accord économique et commercial global (AECG/CETA)",
+    "source_url": "https://www.tresor.economie.gouv.fr/Pays/CA/ceta"
+  },
+  {
+    "id": "cfe",
+    "term": "CFE",
+    "expansion": "Cotisation foncière des entreprises",
+    "aliases": [],
+    "definition": "Impôt local dû par les entreprises et indépendants, calculé sur la valeur locative des biens immobiliers qu'ils utilisent ; c'est l'une des deux composantes de la CET avec la CVAE.",
+    "source_label": "Economie.gouv.fr – Tout savoir sur la cotisation foncière des entreprises (CFE)",
+    "source_url": "https://www.economie.gouv.fr/entreprises/gerer-sa-fiscalite-et-ses-impots/autres-impots-et-taxes/tout-savoir-sur-la-cotisation-fonciere-des-entreprises-cfe"
+  },
+  {
+    "id": "cjue",
+    "term": "CJUE",
+    "expansion": "Cour de justice de l'Union européenne",
+    "aliases": [],
+    "definition": "Institution judiciaire de l'Union européenne, siégeant à Luxembourg, qui veille à l'interprétation et à l'application uniformes du droit de l'UE dans les États membres.",
+    "source_label": "Curia (CJUE) – Présentation de la Cour de justice de l'Union européenne",
+    "source_url": "https://curia.europa.eu/site/jcms/d2_5088/fr/que-fait-la-cjue"
+  },
+  {
+    "id": "cnil",
+    "term": "CNIL",
+    "expansion": "Commission nationale de l'informatique et des libertés",
+    "aliases": [
+      "Cnil"
+    ],
+    "definition": "Autorité administrative indépendante chargée de veiller à la protection des données personnelles en France : information, conseil, contrôle et sanction.",
+    "source_label": "CNIL – Les missions",
+    "source_url": "https://www.cnil.fr/fr/les-missions"
+  },
+  {
+    "id": "csg",
+    "term": "CSG",
+    "expansion": "Contribution sociale généralisée",
+    "aliases": [],
+    "definition": "Prélèvement sur la plupart des revenus (salaires, pensions, allocations chômage, revenus du patrimoine et de placements) qui finance la protection sociale.",
+    "source_label": "Urssaf.fr – La CSG-CRDS",
+    "source_url": "https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/csg-crds.html"
+  },
+  {
+    "id": "cvae",
+    "term": "CVAE",
+    "expansion": "Cotisation sur la valeur ajoutée des entreprises",
+    "aliases": [],
+    "definition": "Impôt local dû par les entreprises au-delà d'un certain chiffre d'affaires, assis sur la valeur ajoutée qu'elles produisent ; sa suppression progressive est engagée.",
+    "source_label": "Economie.gouv.fr – Qu'est-ce que la cotisation sur la valeur ajoutée des entreprises (CVAE) ?",
+    "source_url": "https://www.economie.gouv.fr/entreprises/gerer-sa-fiscalite-et-ses-impots/autres-impots-et-taxes/quest-ce-que-la-cotisation-sur-la-valeur-ajoutee-des-entreprises-cvae"
+  },
+  {
+    "id": "dgf",
+    "term": "DGF",
+    "expansion": "Dotation globale de fonctionnement",
+    "aliases": [],
+    "definition": "Principale dotation versée chaque année par l'État aux communes, intercommunalités et départements pour financer leur fonctionnement ; son montant est fixé par la loi de finances.",
+    "source_label": "Collectivites-locales.gouv.fr – Présentation de la dotation globale de fonctionnement (DGF)",
+    "source_url": "https://www.collectivites-locales.gouv.fr/gerer-les-finances-publiques-locales/execution-des-recettes-et-des-depenses-locales/recettes-locales/dotations/dotation-globale-de-fonctionnement/presentation-de-la-dotation-globale-de-fonctionnement"
+  },
+  {
+    "id": "dpe",
+    "term": "DPE",
+    "expansion": "Diagnostic de performance énergétique",
+    "aliases": [],
+    "definition": "Document qui classe un logement de A à G selon sa consommation d'énergie et ses émissions de gaz à effet de serre ; il est obligatoire en cas de vente ou de location.",
+    "source_label": "Ministère de la Transition écologique – Diagnostic de performance énergétique (DPE)",
+    "source_url": "https://www.ecologie.gouv.fr/politiques-publiques/diagnostic-performance-energetique-dpe"
+  },
+  {
+    "id": "ehpad",
+    "term": "EHPAD",
+    "expansion": "Établissement d'hébergement pour personnes âgées dépendantes",
+    "aliases": [
+      "Ehpad",
+      "Éhpad"
+    ],
+    "definition": "Maison de retraite médicalisée qui accueille des personnes âgées ayant besoin d'aide et de soins au quotidien, avec hébergement, restauration, animation et soins.",
+    "source_label": "Pour-les-personnes-agees.gouv.fr – Les EHPAD",
+    "source_url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-dans-un-ehpad/les-differents-etablissements-medicalises/les-ehpad"
+  },
+  {
+    "id": "epci",
+    "term": "EPCI",
+    "expansion": "Établissement public de coopération intercommunale",
+    "aliases": [],
+    "definition": "Structure regroupant plusieurs communes pour exercer des compétences en commun : communautés de communes, d'agglomération, urbaines, métropoles et syndicats de communes.",
+    "source_label": "Insee – Définition : Établissement public de coopération intercommunale / EPCI",
+    "source_url": "https://www.insee.fr/fr/metadonnees/definition/c1160"
+  },
+  {
+    "id": "epr",
+    "term": "EPR",
+    "expansion": "Réacteur pressurisé européen (European Pressurized Reactor)",
+    "aliases": [],
+    "definition": "Modèle de réacteur nucléaire à eau sous pression de forte puissance, dit de troisième génération ; en France, le premier est celui de Flamanville 3, en Normandie.",
+    "source_label": "ASNR – Le réacteur nucléaire EPR de Flamanville : introduction",
+    "source_url": "https://recherche-expertise.asnr.fr/savoir-comprendre/surete/reacteur-nucleaire-epr-flamanville-introduction"
+  },
+  {
+    "id": "epr2",
+    "term": "EPR2",
+    "expansion": "EPR 2 (évolution du réacteur pressurisé européen)",
+    "aliases": [
+      "EPR 2",
+      "EPR-2"
+    ],
+    "definition": "Version de l'EPR conçue par EDF et Framatome pour être plus simple à construire, retenue pour le programme français de nouveaux réacteurs (sites de Penly, Gravelines et Bugey).",
+    "source_label": "Ministère de la Transition écologique – Examen des conditions de mise en œuvre d'un programme de construction de nouveaux réacteurs nucléaires",
+    "source_url": "https://www.ecologie.gouv.fr/politiques-publiques/examen-conditions-mise-oeuvre-dun-programme-construction-nouveaux-reacteurs"
+  },
+  {
+    "id": "eti",
+    "term": "ETI",
+    "expansion": "Entreprise de taille intermédiaire",
+    "aliases": [],
+    "definition": "Catégorie statistique d'entreprises située entre les PME et les grandes entreprises, définie par des seuils d'effectif, de chiffre d'affaires et de bilan (décret de 2008).",
+    "source_label": "Insee – Les catégories d'entreprise en France : de la microentreprise à la grande entreprise",
+    "source_url": "https://www.insee.fr/fr/statistiques/1379705"
+  },
+  {
+    "id": "hlm",
+    "term": "HLM",
+    "expansion": "Habitation à loyer modéré",
+    "aliases": [
+      "Hlm"
+    ],
+    "definition": "Logement social construit avec l'aide de l'État, dont le loyer est encadré et l'accès réservé aux ménages dont les ressources ne dépassent pas certains plafonds.",
+    "source_label": "Ministère de la Transition écologique – Logement social (HLM) : définition, catégories, financement, attribution, acteurs",
+    "source_url": "https://www.ecologie.gouv.fr/politiques-publiques/logement-social-hlm-definition-categories-financement-attribution-acteurs"
+  },
+  {
+    "id": "ifi",
+    "term": "IFI",
+    "expansion": "Impôt sur la fortune immobilière",
+    "aliases": [],
+    "definition": "Impôt annuel sur le patrimoine immobilier net des ménages au-delà d'un seuil ; il a remplacé l'ISF en 2018 et ne porte plus sur les placements financiers.",
+    "source_label": "Economie.gouv.fr – Comment fonctionne l'impôt sur la fortune immobilière (IFI) ?",
+    "source_url": "https://www.economie.gouv.fr/particuliers/impots-et-fiscalite/gerer-mes-autres-impots-et-taxes/comment-fonctionne-limpot-sur-la"
+  },
+  {
+    "id": "igpn",
+    "term": "IGPN",
+    "expansion": "Inspection générale de la police nationale",
+    "aliases": [],
+    "definition": "Service d'inspection et de contrôle de la police nationale (« police des polices ») : enquêtes administratives et judiciaires sur les agents, audits et contrôles des services.",
+    "source_label": "Police nationale (interieur.gouv.fr) – L'inspection générale de la police nationale (IGPN)",
+    "source_url": "https://www.police-nationale.interieur.gouv.fr/nous-decouvrir/notre-organisation/organisation/linspection-generale-de-police-nationale-igpn"
+  },
+  {
+    "id": "isf",
+    "term": "ISF",
+    "expansion": "Impôt de solidarité sur la fortune",
+    "aliases": [],
+    "definition": "Ancien impôt annuel sur l'ensemble du patrimoine net des ménages (immobilier et financier) au-delà d'un seuil, supprimé en 2018 et remplacé par l'IFI.",
+    "source_label": "Economie.gouv.fr – Comment fonctionne l'impôt sur la fortune immobilière (IFI) ?",
+    "source_url": "https://www.economie.gouv.fr/particuliers/impots-et-fiscalite/gerer-mes-autres-impots-et-taxes/comment-fonctionne-limpot-sur-la"
+  },
+  {
+    "id": "lbd",
+    "term": "LBD",
+    "expansion": "Lanceur de balles de défense",
+    "aliases": [],
+    "definition": "Arme dite « de force intermédiaire », en dotation dans la police et la gendarmerie, qui tire des projectiles de 40 mm ; son emploi est encadré par une instruction ministérielle.",
+    "source_label": "Ministère de l'Intérieur (gendarmerie.interieur.gouv.fr) – Instruction n° 233500 du 27 juillet 2017",
+    "source_url": "https://www.gendarmerie.interieur.gouv.fr/content/download/27911/file/INSTRUCTION%20233500%2027%20juillet%202017.pdf?inLanguage=fre-FR&version=1"
+  },
+  {
+    "id": "mercosur",
+    "term": "Mercosur",
+    "expansion": "Marché commun du Sud (accord UE-Mercosur)",
+    "aliases": [
+      "MERCOSUR",
+      "UE-Mercosur"
+    ],
+    "definition": "Union douanière d'Amérique du Sud (Argentine, Brésil, Paraguay, Uruguay). L'accord UE-Mercosur est un accord de partenariat et de commerce qui réduit notamment les droits de douane entre les deux zones.",
+    "source_label": "Commission européenne – L'accord commercial UE-Mercosur",
+    "source_url": "https://commission.europa.eu/topics/trade/eu-mercosur-trade-agreement_en?prefLang=fr"
+  },
+  {
+    "id": "ocde",
+    "term": "OCDE",
+    "expansion": "Organisation de coopération et de développement économiques",
+    "aliases": [
+      "Ocde"
+    ],
+    "definition": "Organisation internationale, siégeant à Paris, où les pays membres comparent leurs politiques publiques et élaborent des normes communes, notamment économiques et fiscales.",
+    "source_label": "Représentation permanente de la France auprès de l'OCDE (diplomatie.gouv.fr) – Objectifs et missions de l'OCDE",
+    "source_url": "https://ocde.diplomatie.gouv.fr/fr/objectifs-et-missions-de-locde"
+  },
+  {
+    "id": "ondam",
+    "term": "ONDAM",
+    "expansion": "Objectif national de dépenses d'assurance maladie",
+    "aliases": [
+      "Ondam"
+    ],
+    "definition": "Montant prévisionnel des dépenses d'assurance maladie (soins de ville, hôpital, médico-social) à ne pas dépasser, voté chaque année par le Parlement dans la loi de financement de la Sécurité sociale.",
+    "source_label": "Securite-sociale.fr – L'objectif national des dépenses d'assurance maladie (ONDAM)",
+    "source_url": "https://www.securite-sociale.fr/home/la-secu-en-detail/comptes-statistiques-et-etudes-de-la-s%C3%A9curit%C3%A9-sociale/lobjectif-national-des-depens-1.html"
+  },
+  {
+    "id": "oqtf",
+    "term": "OQTF",
+    "expansion": "Obligation de quitter le territoire français",
+    "aliases": [],
+    "definition": "Décision du préfet imposant à un étranger en situation irrégulière de quitter la France, avec ou sans délai de départ volontaire ; elle peut être contestée devant le tribunal administratif.",
+    "source_label": "Service-public.gouv.fr – Obligation de quitter le territoire français (OQTF)",
+    "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18362"
+  },
+  {
+    "id": "otan",
+    "term": "OTAN",
+    "expansion": "Organisation du traité de l'Atlantique Nord",
+    "aliases": [
+      "Otan",
+      "NATO"
+    ],
+    "definition": "Alliance militaire fondée en 1949 par le traité de Washington, reposant sur la défense collective : une attaque armée contre un membre est considérée comme dirigée contre tous (article 5).",
+    "source_label": "OTAN – Le Traité fondateur",
+    "source_url": "https://www.nato.int/cps/fr/natohq/topics_67656.htm"
+  },
+  {
+    "id": "pac",
+    "term": "PAC",
+    "expansion": "Politique agricole commune",
+    "aliases": [],
+    "definition": "Politique de l'Union européenne qui soutient les agriculteurs (aides au revenu, régulation des marchés, développement rural), financée par le budget européen.",
+    "source_label": "Ministère de l'Agriculture – PAC (politique agricole commune)",
+    "source_url": "https://agriculture.gouv.fr/pac-politique-agricole-commune"
+  },
+  {
+    "id": "pfas",
+    "term": "PFAS",
+    "expansion": "Substances per- et polyfluoroalkylées",
+    "aliases": [
+      "polluants éternels"
+    ],
+    "definition": "Famille de milliers de composés chimiques très persistants, surnommés « polluants éternels », utilisés pour leurs propriétés antiadhésives, imperméabilisantes ou résistantes à la chaleur.",
+    "source_label": "Ministère de la Transition écologique – Tout savoir sur les PFAS",
+    "source_url": "https://www.ecologie.gouv.fr/dossiers/pfas"
+  },
+  {
+    "id": "pfu",
+    "term": "PFU",
+    "expansion": "Prélèvement forfaitaire unique",
+    "aliases": [
+      "flat tax",
+      "Flat tax"
+    ],
+    "definition": "Imposition à taux unique (impôt sur le revenu et prélèvements sociaux) des revenus de placements comme les dividendes, intérêts et plus-values ; on peut opter à la place pour le barème progressif.",
+    "source_label": "Economie.gouv.fr – Comment fonctionne le prélèvement forfaitaire unique (PFU) ?",
+    "source_url": "https://www.economie.gouv.fr/particuliers/impots-et-fiscalite/gerer-mes-autres-impots-et-taxes/comment-fonctionne-le-prelevement"
+  },
+  {
+    "id": "pib",
+    "term": "PIB",
+    "expansion": "Produit intérieur brut",
+    "aliases": [],
+    "definition": "Mesure de la richesse produite par l'ensemble des acteurs économiques sur le territoire national pendant une période donnée ; sa variation sert à mesurer la croissance.",
+    "source_label": "Insee – Définition : Produit intérieur brut",
+    "source_url": "https://insee.fr/fr/metadonnees/definition/c1365"
+  },
+  {
+    "id": "plf",
+    "term": "PLF",
+    "expansion": "Projet de loi de finances",
+    "aliases": [],
+    "definition": "Texte préparé par le Gouvernement et voté par le Parlement chaque automne, qui fixe les recettes et les dépenses de l'État pour l'année suivante.",
+    "source_label": "Economie.gouv.fr – Le projet de loi de finances (PLF), comment ça marche ?",
+    "source_url": "https://www.economie.gouv.fr/actualites/le-projet-de-loi-de-finances-plf-comment-ca-marche"
+  },
+  {
+    "id": "plfss",
+    "term": "PLFSS",
+    "expansion": "Projet de loi de financement de la Sécurité sociale",
+    "aliases": [],
+    "definition": "Texte examiné chaque automne par le Parlement, qui fixe les prévisions de recettes et les objectifs de dépenses de la Sécurité sociale, dont l'ONDAM.",
+    "source_label": "Economie.gouv.fr – Le projet de loi de financement de la sécurité sociale (PLFSS) : comment ça marche ?",
+    "source_url": "https://www.economie.gouv.fr/actualites/le-projet-de-loi-de-financement-de-la-securite-sociale-plfss-comment-ca-marche"
+  },
+  {
+    "id": "pme",
+    "term": "PME",
+    "expansion": "Petite et moyenne entreprise",
+    "aliases": [],
+    "definition": "Entreprise de moins de 250 personnes dont le chiffre d'affaires ou le total de bilan ne dépasse pas certains seuils ; la catégorie inclut les microentreprises.",
+    "source_label": "Insee – Définition : Petite et moyenne entreprise",
+    "source_url": "https://www.insee.fr/fr/metadonnees/definition/c1962"
+  },
+  {
+    "id": "ptz",
+    "term": "PTZ",
+    "expansion": "Prêt à taux zéro",
+    "aliases": [
+      "PTZ+"
+    ],
+    "definition": "Prêt sans intérêts, accordé sous conditions de ressources par des banques conventionnées, pour aider les primo-accédants à acheter leur résidence principale, en complément d'un autre crédit.",
+    "source_label": "Economie.gouv.fr – Prêt à taux zéro (PTZ) : tout ce qu'il faut savoir",
+    "source_url": "https://www.economie.gouv.fr/particuliers/emprunter-et-sassurer/pret-taux-zero-ptz-tout-ce-quil-faut-savoir"
+  },
+  {
+    "id": "rgpd",
+    "term": "RGPD",
+    "expansion": "Règlement général sur la protection des données",
+    "aliases": [
+      "GDPR"
+    ],
+    "definition": "Règlement européen applicable depuis 2018 qui encadre la collecte et l'utilisation des données personnelles et renforce les droits des personnes dans toute l'Union européenne.",
+    "source_label": "CNIL – RGPD : de quoi parle-t-on ?",
+    "source_url": "https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on"
+  },
+  {
+    "id": "ric",
+    "term": "RIC",
+    "expansion": "Référendum d'initiative citoyenne",
+    "aliases": [],
+    "definition": "Référendum que des citoyens pourraient déclencher eux-mêmes par pétition, sans passer par le Parlement. Il n'existe pas en droit français, qui prévoit seulement le référendum d'initiative partagée (RIP).",
+    "source_label": "Conseil constitutionnel – Rapport d'activité 2020 : le référendum d'initiative partagée",
+    "source_url": "https://www.conseil-constitutionnel.fr/rapport-activite-2020-numerique/decisions-michel-verpeaux.php"
+  },
+  {
+    "id": "rsa",
+    "term": "RSA",
+    "expansion": "Revenu de solidarité active",
+    "aliases": [],
+    "definition": "Revenu minimum versé par la CAF ou la MSA aux personnes sans ressources ou à faibles ressources, en contrepartie d'engagements d'insertion sociale ou professionnelle.",
+    "source_label": "Ministère des Solidarités – Le revenu de solidarité active (RSA)",
+    "source_url": "https://solidarites.gouv.fr/le-revenu-de-solidarite-active-rsa"
+  },
+  {
+    "id": "seqe",
+    "term": "SEQE",
+    "expansion": "Système d'échange de quotas d'émission de l'UE (marché carbone européen)",
+    "aliases": [
+      "SEQE-UE",
+      "SEQE 2",
+      "SEQE-UE 2",
+      "ETS 2",
+      "ETS2"
+    ],
+    "definition": "Marché carbone européen : les émetteurs doivent détenir un quota par tonne de CO2 émise, sous un plafond qui baisse. Le SEQE 2 l'étend aux carburants des bâtiments et du transport routier.",
+    "source_label": "Ministère de la Transition écologique – Marchés du carbone : SEQE-UE",
+    "source_url": "https://www.ecologie.gouv.fr/politiques-publiques/marches-du-carbone-seqe-ue"
+  },
+  {
+    "id": "smic",
+    "term": "SMIC",
+    "expansion": "Salaire minimum interprofessionnel de croissance",
+    "aliases": [
+      "Smic"
+    ],
+    "definition": "Salaire horaire minimum légal qu'un employeur doit verser à un salarié majeur. Le brut inclut les cotisations salariales ; le net, plus bas, est ce que le salarié perçoit après leur déduction.",
+    "source_label": "Service-public.gouv.fr – Smic (salaire minimum interprofessionnel de croissance)",
+    "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2300?lang=fr"
+  },
+  {
+    "id": "smr",
+    "term": "SMR",
+    "expansion": "Petit réacteur modulaire (Small Modular Reactor)",
+    "aliases": [],
+    "definition": "Réacteur nucléaire de faible puissance dont les modules sont fabriqués en usine puis assemblés sur site ; plusieurs projets sont à l'étude en France et dans le monde.",
+    "source_label": "ASNR – Petits réacteurs modulaires",
+    "source_url": "https://reglementation-controle.asnr.fr/controle/petits-reacteurs-modulaires"
+  },
+  {
+    "id": "sru",
+    "term": "SRU",
+    "expansion": "Loi relative à la solidarité et au renouvellement urbains (2000)",
+    "aliases": [
+      "loi SRU"
+    ],
+    "definition": "Loi de 2000 sur l'urbanisme et le logement, dont l'article 55 impose à certaines communes d'atteindre une part minimale de logements sociaux, sous peine de pénalités.",
+    "source_label": "Ministère de la Transition écologique – Loi solidarité et renouvellement urbain (SRU)",
+    "source_url": "https://www.ecologie.gouv.fr/politiques-publiques/loi-solidarite-renouvellement-urbain-sru"
+  },
+  {
+    "id": "ticpe",
+    "term": "TICPE",
+    "expansion": "Taxe intérieure de consommation sur les produits énergétiques",
+    "aliases": [
+      "accise sur les énergies"
+    ],
+    "definition": "Taxe indirecte sur les produits pétroliers utilisés comme carburant ou combustible (essence, gazole, fioul), proportionnelle aux volumes ; elle est désormais appelée « accise sur les énergies ».",
+    "source_label": "Economie.gouv.fr – Ce qu'il faut savoir sur la TICPE",
+    "source_url": "https://www.economie.gouv.fr/entreprises/gerer-sa-fiscalite-et-ses-impots/autres-impots-et-taxes/ce-quil-faut-savoir-sur-la-taxe"
+  },
+  {
+    "id": "tpe",
+    "term": "TPE",
+    "expansion": "Très petite entreprise",
+    "aliases": [],
+    "definition": "Terme courant désignant les entreprises de moins de 10 personnes, ce qui correspond en statistique à la catégorie des « microentreprises » définie en 2008.",
+    "source_label": "Insee – Les très petites entreprises, 2 millions d'unités très diverses",
+    "source_url": "https://www.insee.fr/fr/statistiques/1379753"
+  },
+  {
+    "id": "tva",
+    "term": "TVA",
+    "expansion": "Taxe sur la valeur ajoutée",
+    "aliases": [],
+    "definition": "Impôt indirect sur la consommation, payé par le consommateur final : les entreprises le collectent sur leurs ventes et le reversent à l'État, après déduction de la TVA payée sur leurs achats.",
+    "source_label": "Economie.gouv.fr (Facil'éco) – TVA : définition",
+    "source_url": "https://www.economie.gouv.fr/facileco/tva-taxe-valeur-ajoutee-definition"
+  },
+  {
+    "id": "urssaf",
+    "term": "URSSAF",
+    "expansion": "Union de recouvrement des cotisations de sécurité sociale et d'allocations familiales",
+    "aliases": [
+      "Urssaf"
+    ],
+    "definition": "Réseau d'organismes qui collecte les cotisations et contributions sociales des employeurs et des indépendants, puis les reverse aux caisses qui versent les prestations.",
+    "source_label": "Urssaf.fr – Découvrir l'Urssaf",
+    "source_url": "https://www.urssaf.fr/accueil/decouvrir-urssaf.html"
+  },
+  {
+    "id": "zan",
+    "term": "ZAN",
+    "expansion": "Zéro artificialisation nette",
+    "aliases": [],
+    "definition": "Objectif fixé par la loi Climat et résilience de 2021 : d'ici 2050, les sols nouvellement artificialisés devront être compensés par autant de surfaces désartificialisées (renaturées).",
+    "source_label": "Ministère de la Transition écologique – Artificialisation des sols",
+    "source_url": "https://www.ecologie.gouv.fr/politiques-publiques/artificialisation-sols"
+  },
+  {
+    "id": "zfe",
+    "term": "ZFE",
+    "expansion": "Zone à faibles émissions mobilité",
+    "aliases": [
+      "ZFE-m"
+    ],
+    "definition": "Zone urbaine où la circulation des véhicules les plus polluants est restreinte, selon leur vignette Crit'Air, afin d'améliorer la qualité de l'air.",
+    "source_label": "Ministère de la Transition écologique – Zones à faibles émissions (ZFE)",
+    "source_url": "https://www.ecologie.gouv.fr/politiques-publiques/zones-faibles-emissions-zfe"
+  }
+]

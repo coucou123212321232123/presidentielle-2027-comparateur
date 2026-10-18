@@ -1,6 +1,7 @@
-import { FileText, Globe, BookOpen, Video, FileX, BadgeCheck, MessageSquareQuote, Vote, Search } from 'lucide-react'
+import { FileText, Globe, BookOpen, Video, FileX, BadgeCheck, MessageSquareQuote, Vote, Search, Sparkles } from 'lucide-react'
 import type { CandidateStatus, Precision, ProgramFormat, ProgramStatus, SourceType } from '../data/schema'
 import { FORMAT_LABELS, PRECISION_LABELS, PROGRAM_STATUS_LABELS, SOURCE_TYPE_LABELS, STATUS_LABELS } from '../lib/labels'
+import { formatShortDate } from '../lib/format'
 import { Badge } from './ui'
 
 const SOURCE_TONES = { officiel: 'blue', declaration: 'violet', vote_ou_bilan: 'teal', analyse_tierce: 'amber' } as const
@@ -35,4 +36,23 @@ const FORMAT_ICONS = { pdf: FileText, page_web: Globe, livret: BookOpen, video: 
 export function FormatIcon({ format, className = 'size-4' }: { format: ProgramFormat; className?: string }) {
   const Icon = FORMAT_ICONS[format]
   return <Icon className={className} aria-label={FORMAT_LABELS[format]} role="img" />
+}
+
+/** Mesure ajoutée depuis la dernière visite (ou, à la première visite, lors de la dernière mise à jour). */
+export function NewBadge({ added }: { added: string }) {
+  return (
+    <Badge tone="new" title={`Ajoutée le ${formatShortDate(added)}, depuis votre dernière visite`}>
+      <Sparkles className="size-3" aria-hidden="true" />
+      Nouveau
+    </Badge>
+  )
+}
+
+export function NewCountBadge({ n }: { n: number }) {
+  return (
+    <Badge tone="new" title="Mesures ajoutées depuis votre dernière visite">
+      <Sparkles className="size-3" aria-hidden="true" />
+      {n} nouvelle{n > 1 ? 's' : ''}
+    </Badge>
+  )
 }

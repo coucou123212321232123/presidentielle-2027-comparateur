@@ -1,0 +1,47 @@
+# Votes à l'Assemblée : récupère l'open data officiel (data.assemblee-nationale.fr) et met à jour
+# src/data/votes.json sur la branche concernée. Déclenché quand la sélection des scrutins ou le script change,
+# chaque lundi, ou à la main.
+name: Votes à l'Assemblée
+
+on:
+  push:
+    paths:
+      - research/votes/selection.json
+      - scripts/fetch-votes.ts
+      - .github/workflows/votes.yml
+  schedule:
+    - cron: '17 5 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: votes-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  votes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+        env:
+          ELECTRON_SKIP_BINARY_DOWNLOAD: '1'
+      - name: Scrutins candidats (aide au choix des textes)
+        run: npm run fetch-votes -- --list "motion de censure|ensemble du projet de loi de financ|confiance|politique g[ée]n[ée]rale|suspension.*retraite|retraite.*suspension|immigration|aide [àa] mourir|interruption volontaire"
+      - name: Votes des textes sélectionnés
+        run: npm run fetch-votes
+      - run: npm run validate-data
+      - name: Enregistrer les données
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/votes.json
+          if git diff --cached --quiet; then echo "Aucun changement"; exit 0; fi
+          git commit -m "Données : votes à l'Assemblée (open data)"
+          git push

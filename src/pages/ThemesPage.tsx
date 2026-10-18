@@ -2,14 +2,14 @@ import { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
 import { Columns3, X } from 'lucide-react'
-import { candidates, measuresFor, themes } from '../data'
+import { allCandidateIds, byTheme, candidates, countFor, themes, useMeasures } from '../data'
 import type { Candidate, Measure, Precision, SourceType, Theme } from '../data/schema'
 import { CandidateAvatar } from '../components/CandidateAvatar'
 import { MeasureCard } from '../components/MeasureCard'
 import { MeasureFilters } from '../components/MeasureFilters'
 import { ThemeIcon } from '../components/ThemeIcon'
 import { ThemeProgramLink } from '../components/Program'
-import { PageHeader } from '../components/ui'
+import { PageHeader, Skeleton } from '../components/ui'
 import { useMeasureFilter } from '../lib/store'
 import { fullName } from '../lib/format'
 
@@ -25,7 +25,17 @@ interface Selection {
   theme: Theme
 }
 
-function DetailDialog({ selection, onClose, apply }: { selection: Selection | null; onClose: () => void; apply: (l: Measure[]) => Measure[] }) {
+function DetailDialog({
+  selection,
+  onClose,
+  apply,
+  all,
+}: {
+  selection: Selection | null
+  onClose: () => void
+  apply: (l: Measure[]) => Measure[]
+  all: Record<string, Measure[]>
+}) {
   const ref = useRef<HTMLDialogElement>(null)
   useEffect(() => {
     const d = ref.current
@@ -61,9 +71,9 @@ function DetailDialog({ selection, onClose, apply }: { selection: Selection | nu
             </header>
             <div className="flex-1 space-y-3 overflow-y-auto p-4">
               {(() => {
-                const all = measuresFor(selection.candidate.id, selection.theme.id)
-                const list = apply(all)
-                if (!all.length) return <p className="text-sm text-muted">Pas de position publiée à ce jour.</p>
+                const mine = byTheme(all[selection.candidate.id] ?? [], selection.theme.id)
+                const list = apply(mine)
+                if (!mine.length) return <p className="text-sm text-muted">Pas de position publiée à ce jour.</p>
                 if (!list.length) return <p className="text-sm text-muted">Aucune mesure ne correspond aux filtres actifs.</p>
                 return list.map((m) => <MeasureCard key={m.id} measure={m} accent={selection.candidate.color} />)
               })()}
@@ -87,6 +97,8 @@ function DetailDialog({ selection, onClose, apply }: { selection: Selection | nu
 export default function ThemesPage() {
   const { apply } = useMeasureFilter()
   const [selection, setSelection] = useState<Selection | null>(null)
+  // La matrice résume tous les candidats : c'est la seule page qui charge l'ensemble des mesures.
+  const all = useMeasures(allCandidateIds)
 
   return (
     <div>
@@ -99,6 +111,9 @@ export default function ThemesPage() {
         <MeasureFilters />
       </div>
 
+      {!all ? (
+        <Skeleton className="h-[70vh]" />
+      ) : (
       <div className="relative overflow-x-auto rounded-2xl border border-line bg-surface shadow-soft scrollbar-thin">
         <table className="border-separate border-spacing-0 text-sm">
           <caption className="sr-only">Matrice des mesures par thème et par candidat</caption>
@@ -127,8 +142,8 @@ export default function ThemesPage() {
                   </Link>
                 </th>
                 {candidates.map((c) => {
-                  const all = measuresFor(c.id, t.id)
-                  const list = apply(all)
+                  const total = countFor(c.id, t.id)
+                  const list = apply(byTheme(all[c.id], t.id))
                   const top = headline(list)
                   return (
                     <td key={c.id} className="border-b border-line p-1.5 align-top">
@@ -143,9 +158,9 @@ export default function ThemesPage() {
                           {list.length > 1 && <span className="mt-1 block text-[11px] font-medium text-muted">+{list.length - 1} autre{list.length > 2 ? 's' : ''}</span>}
                         </button>
                       ) : (
-                        <span className="block p-2 text-[13px] text-muted/60" title={all.length ? 'Filtré' : 'Pas de position publiée à ce jour'}>
-                          {all.length ? '·' : '—'}
-                          <span className="sr-only">{all.length ? 'Mesures masquées par les filtres' : 'Pas de position publiée à ce jour'}</span>
+                        <span className="block p-2 text-[13px] text-muted/60" title={total ? 'Filtré' : 'Pas de position publiée à ce jour'}>
+                          {total ? '·' : '—'}
+                          <span className="sr-only">{total ? 'Mesures masquées par les filtres' : 'Pas de position publiée à ce jour'}</span>
                         </span>
                       )}
                     </td>
@@ -156,8 +171,9 @@ export default function ThemesPage() {
           </tbody>
         </table>
       </div>
+      )}
 
-      <DetailDialog selection={selection} onClose={() => setSelection(null)} apply={apply} />
+      {all && <DetailDialog selection={selection} onClose={() => setSelection(null)} apply={apply} all={all} />}
     </div>
   )
 }

@@ -10,7 +10,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-economie-02",
@@ -23,7 +24,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-fiscalite-01",
@@ -36,7 +38,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-fiscalite-02",
@@ -54,7 +57,8 @@
       "source_label": "Chiffrage du candidat",
       "source_url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-emploi-01",
@@ -67,7 +71,8 @@
     "source_date": "2026-10-08",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-emploi-02",
@@ -80,7 +85,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-emploi-03",
@@ -93,7 +99,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-retraites-01",
@@ -110,7 +117,8 @@
       "key": "age_legal",
       "value": 65
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-retraites-02",
@@ -123,7 +131,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-retraites-03",
@@ -136,7 +145,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-energie-01",
@@ -153,7 +163,8 @@
       "key": "nucleaire",
       "value": "relance"
     },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-ecologie-01",
@@ -166,7 +177,8 @@
     "source_date": "2026-10-14",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-ecologie-02",
@@ -179,7 +191,8 @@
     "source_date": "2026-10-14",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-ecologie-03",
@@ -192,7 +205,8 @@
     "source_date": "2026-10-14",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-agriculture-01",
@@ -205,7 +219,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-agriculture-02",
@@ -218,7 +233,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-agriculture-03",
@@ -231,7 +247,8 @@
     "source_date": "2026-10-14",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-logement-01",
@@ -244,7 +261,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-logement-02",
@@ -257,7 +275,8 @@
     "source_date": "2025-12-10",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-sante-01",
@@ -270,7 +289,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-sante-02",
@@ -283,7 +303,8 @@
     "source_date": "2026-05-10",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-sante-03",
@@ -296,7 +317,8 @@
     "source_date": "2026-07-05",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-education-01",
@@ -309,7 +331,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-education-02",
@@ -322,7 +345,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-education-03",
@@ -335,7 +359,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-education-04",
@@ -348,7 +373,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-securite-01",
@@ -361,7 +387,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-securite-02",
@@ -374,7 +401,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-securite-03",
@@ -387,7 +415,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-securite-04",
@@ -400,7 +429,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-immigration-01",
@@ -413,7 +443,8 @@
     "source_date": "2026-10-08",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-immigration-02",
@@ -426,7 +457,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-immigration-03",
@@ -439,7 +471,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-immigration-04",
@@ -452,7 +485,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-institutions-01",
@@ -465,7 +499,8 @@
     "source_date": "2026-10-08",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-institutions-02",
@@ -478,7 +513,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-europe-01",
@@ -491,7 +527,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-europe-02",
@@ -504,7 +541,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-europe-03",
@@ -517,7 +555,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-international-01",
@@ -530,7 +569,8 @@
     "source_date": "2026-05-26",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-international-02",
@@ -543,7 +583,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-international-03",
@@ -556,7 +597,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-numerique-01",
@@ -569,7 +611,8 @@
     "source_date": "2026-10-14",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-numerique-02",
@@ -582,7 +625,8 @@
     "source_date": "2026-10-14",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-numerique-03",
@@ -595,7 +639,8 @@
     "source_date": "2026-10-14",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-outre_mer-01",
@@ -608,7 +653,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-outre_mer-02",
@@ -621,7 +667,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-outre_mer-03",
@@ -634,7 +681,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-services_publics-01",
@@ -647,7 +695,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-services_publics-02",
@@ -660,7 +709,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-services_publics-03",
@@ -673,7 +723,8 @@
     "source_date": "2026-07-05",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-famille-01",
@@ -686,7 +737,8 @@
     "source_date": "2026-10-08",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-famille-02",
@@ -699,7 +751,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-famille-03",
@@ -712,7 +765,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "philippe-economie-03",
@@ -725,7 +779,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-economie-04",
@@ -738,7 +793,8 @@
     "source_date": "2026-05-10",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-economie-05",
@@ -751,7 +807,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-fiscalite-03",
@@ -764,7 +821,8 @@
     "source_date": "2025-11-05",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-fiscalite-04",
@@ -777,7 +835,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-emploi-04",
@@ -790,7 +849,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-retraites-04",
@@ -803,7 +863,8 @@
     "source_date": "2026-07-05",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-energie-02",
@@ -816,7 +877,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-ecologie-04",
@@ -829,7 +891,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-ecologie-05",
@@ -842,7 +905,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-ecologie-06",
@@ -855,7 +919,8 @@
     "source_date": "2026-07-05",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-ecologie-07",
@@ -868,7 +933,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-ecologie-08",
@@ -881,7 +947,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-agriculture-04",
@@ -894,7 +961,8 @@
     "source_date": "2026-09-12",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-sante-04",
@@ -907,7 +975,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-education-05",
@@ -920,7 +989,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-education-06",
@@ -933,7 +1003,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-education-07",
@@ -946,7 +1017,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-education-08",
@@ -959,7 +1031,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-education-09",
@@ -972,7 +1045,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-securite-05",
@@ -985,7 +1059,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-securite-06",
@@ -998,7 +1073,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-securite-07",
@@ -1011,7 +1087,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-securite-08",
@@ -1024,7 +1101,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-securite-09",
@@ -1037,7 +1115,8 @@
     "source_date": "2025-05-17",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-immigration-05",
@@ -1050,7 +1129,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-immigration-06",
@@ -1063,7 +1143,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-immigration-07",
@@ -1076,7 +1157,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-europe-04",
@@ -1089,7 +1171,8 @@
     "source_date": "2026-05-21",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-outre_mer-04",
@@ -1102,7 +1185,8 @@
     "source_date": "2026-05-21",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-famille-04",
@@ -1115,7 +1199,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "philippe-famille-05",
@@ -1128,6 +1213,7 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   }
 ]

@@ -1,12 +1,14 @@
-import { SlidersHorizontal, X } from 'lucide-react'
+import { SlidersHorizontal, Sparkles, X } from 'lucide-react'
 import type { Precision, SourceType } from '../data/schema'
 import { PRECISION_LABELS, SOURCE_TYPE_LABELS } from '../lib/labels'
 import { useFilters } from '../lib/store'
+import { useNovelty } from '../lib/novelty'
 import { Chip } from './ui'
 
 export function MeasureFilters() {
   const f = useFilters()
-  const active = f.sourceTypes.length > 0 || f.precisions.length > 0 || f.onlyCosted
+  const since = useNovelty((s) => s.since)
+  const active = f.sourceTypes.length > 0 || f.precisions.length > 0 || f.onlyCosted || f.onlyNew
   return (
     <div className="flex flex-col gap-3 rounded-2xl border border-line bg-surface p-4" role="group" aria-label="Filtres des mesures">
       <div className="flex items-center justify-between">
@@ -37,6 +39,11 @@ export function MeasureFilters() {
         <Chip active={f.onlyCosted} onClick={() => f.setOnlyCosted(!f.onlyCosted)} className="text-xs">
           Chiffrées uniquement
         </Chip>
+        {(since !== null || f.onlyNew) && (
+          <Chip active={f.onlyNew} onClick={() => f.setOnlyNew(!f.onlyNew)} className="text-xs">
+            <Sparkles className="size-3.5" aria-hidden="true" /> Nouvelles uniquement
+          </Chip>
+        )}
       </div>
     </div>
   )

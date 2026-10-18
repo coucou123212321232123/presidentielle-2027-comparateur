@@ -14,7 +14,8 @@
       "key": "smic_net",
       "value": 1700
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-economie-02",
@@ -27,7 +28,8 @@
     "source_date": "2026-04-26",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-economie-03",
@@ -40,7 +42,8 @@
     "source_date": "2026-04-10",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-economie-04",
@@ -53,7 +56,8 @@
     "source_date": "2026-10-15",
     "source_page": "p. 29",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-economie-05",
@@ -66,7 +70,8 @@
     "source_date": "2026-10-15",
     "source_page": "p. 41",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-fiscalite-01",
@@ -79,7 +84,8 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 28",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-fiscalite-02",
@@ -92,7 +98,8 @@
     "source_date": "2026-09-24",
     "source_page": "page PDF 31",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-fiscalite-03",
@@ -105,7 +112,8 @@
     "source_date": "2026-10-15",
     "source_page": "p. 47",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-fiscalite-04",
@@ -118,7 +126,8 @@
     "source_date": "2026-10-15",
     "source_page": "p. 51",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-emploi-01",
@@ -131,7 +140,8 @@
     "source_date": "2026-04-13",
     "source_page": "page PDF 16",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-emploi-02",
@@ -144,7 +154,8 @@
     "source_date": "2026-04-13",
     "source_page": "page PDF 18",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-emploi-03",
@@ -157,7 +168,8 @@
     "source_date": "2026-04-13",
     "source_page": "page PDF 21",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-emploi-04",
@@ -170,7 +182,8 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 20",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-emploi-05",
@@ -183,7 +196,8 @@
     "source_date": "2026-09-09",
     "source_page": "p. 22-23",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-emploi-06",
@@ -196,7 +210,8 @@
     "source_date": "2026-09-09",
     "source_page": "p. 23",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-retraites-01",
@@ -209,7 +224,12 @@
     "source_date": "2026-04-10",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "indicator": {
+      "key": "abrogation_2023",
+      "value": "abrogation"
+    },
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-retraites-02",
@@ -222,7 +242,8 @@
     "source_date": "2026-04-13",
     "source_page": "page PDF 20",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-energie-01",
@@ -236,6 +257,7 @@
     "source_page": "page PDF 40",
     "precision": "chiffre",
     "last_verified": "2026-10-16",
+    "added": "2026-10-15",
     "indicator": {
       "key": "nucleaire",
       "value": "relance"
@@ -252,7 +274,8 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 40",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-ecologie-01",
@@ -265,7 +288,8 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 28",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-ecologie-02",
@@ -278,7 +302,8 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 36",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-ecologie-03",
@@ -291,7 +316,8 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 33",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-ecologie-04",
@@ -304,7 +330,8 @@
     "source_date": "2026-10-12",
     "source_page": "p. 15",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-ecologie-05",
@@ -317,7 +344,8 @@
     "source_date": "2026-09-09",
     "source_page": "p. 55",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-ecologie-06",
@@ -330,7 +358,8 @@
     "source_date": "2026-09-09",
     "source_page": "p. 38",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-agriculture-01",
@@ -343,7 +372,8 @@
     "source_date": "2026-10-07",
     "source_page": "page PDF 33",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-agriculture-02",
@@ -356,7 +386,8 @@
     "source_date": "2026-10-07",
     "source_page": "page PDF 35",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-agriculture-03",
@@ -369,7 +400,8 @@
     "source_date": "2026-10-07",
     "source_page": "page PDF 36",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-agriculture-04",
@@ -382,7 +414,8 @@
     "source_date": "2026-10-07",
     "source_page": "page PDF 38",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-agriculture-05",
@@ -395,7 +428,8 @@
     "source_date": "2026-10-12",
     "source_page": "p. 10",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-logement-01",
@@ -408,7 +442,8 @@
     "source_date": "2026-09-24",
     "source_page": "page PDF 26",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-logement-02",
@@ -421,7 +456,8 @@
     "source_date": "2026-09-24",
     "source_page": "page PDF 40",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-logement-03",
@@ -434,7 +470,8 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 30",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-logement-04",
@@ -447,7 +484,8 @@
     "source_date": "2026-09-24",
     "source_page": "page PDF 37",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-logement-05",
@@ -460,7 +498,8 @@
     "source_date": "2026-09-24",
     "source_page": "p. 29-30",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-logement-06",
@@ -473,7 +512,8 @@
     "source_date": "2026-09-24",
     "source_page": "p. 33-34",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-sante-01",
@@ -486,7 +526,8 @@
     "source_date": "2026-10-15",
     "source_page": "p. 48-49",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-sante-02",
@@ -499,7 +540,8 @@
     "source_date": "2026-10-12",
     "source_page": "p. 7",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-education-01",
@@ -512,7 +554,8 @@
     "source_date": "2026-07-17",
     "source_page": "p. 42-43",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-education-02",
@@ -525,7 +568,8 @@
     "source_date": "2026-10-15",
     "source_page": "p. 57-58",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-securite-01",
@@ -538,7 +582,8 @@
     "source_date": "2026-07-02",
     "source_page": "page PDF 51",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-securite-02",
@@ -551,7 +596,8 @@
     "source_date": "2026-07-02",
     "source_page": "page PDF 52",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-securite-03",
@@ -569,7 +615,8 @@
       "source_label": "Chiffrage de la campagne (plan Urgence climat)",
       "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf#page=6"
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-immigration-01",
@@ -582,7 +629,8 @@
     "source_date": "2026-04-10",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-immigration-02",
@@ -595,7 +643,8 @@
     "source_date": "2026-05-11",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-institutions-01",
@@ -608,7 +657,8 @@
     "source_date": "2026-07-02",
     "source_page": "page PDF 36",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-institutions-02",
@@ -621,7 +671,8 @@
     "source_date": "2026-07-02",
     "source_page": "page PDF 43",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-institutions-03",
@@ -634,7 +685,12 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 28",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "indicator": {
+      "key": "ric",
+      "value": "oui"
+    },
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-institutions-04",
@@ -647,7 +703,8 @@
     "source_date": "2026-07-02",
     "source_page": "p. 39",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-institutions-05",
@@ -660,7 +717,8 @@
     "source_date": "2026-07-02",
     "source_page": "p. 40",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-institutions-06",
@@ -673,7 +731,8 @@
     "source_date": "2026-07-02",
     "source_page": "p. 53",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-europe-01",
@@ -686,7 +745,8 @@
     "source_date": "2026-04-10",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-europe-02",
@@ -699,7 +759,8 @@
     "source_date": "2026-02-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-europe-03",
@@ -712,7 +773,8 @@
     "source_date": "2026-10-15",
     "source_page": "p. 30",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-international-01",
@@ -725,7 +787,8 @@
     "source_date": "2026-04-10",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-international-02",
@@ -738,7 +801,8 @@
     "source_date": "2026-02-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-international-03",
@@ -751,7 +815,8 @@
     "source_date": "2026-10-15",
     "source_page": "p. 49",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-numerique-01",
@@ -764,7 +829,8 @@
     "source_date": "2026-10-08",
     "source_page": "page PDF 15",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-numerique-02",
@@ -777,7 +843,8 @@
     "source_date": "2026-10-08",
     "source_page": "page PDF 5",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-numerique-03",
@@ -790,7 +857,8 @@
     "source_date": "2026-02-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-numerique-04",
@@ -803,7 +871,8 @@
     "source_date": "2026-10-15",
     "source_page": "p. 39",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-culture-01",
@@ -816,7 +885,8 @@
     "source_date": "2026-07-17",
     "source_page": "page PDF 39",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-outre_mer-01",
@@ -829,7 +899,8 @@
     "source_date": "2026-07-17",
     "source_page": "page PDF 34",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-services_publics-01",
@@ -842,7 +913,8 @@
     "source_date": "2026-07-02",
     "source_page": "page PDF 46",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-services_publics-02",
@@ -855,7 +927,8 @@
     "source_date": "2026-09-09",
     "source_page": "page PDF 42",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-services_publics-03",
@@ -868,7 +941,8 @@
     "source_date": "2026-09-09",
     "source_page": "p. 24",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "ruffin-famille-01",
@@ -881,7 +955,8 @@
     "source_date": "2026-07-17",
     "source_page": "page PDF 31",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "ruffin-famille-02",
@@ -894,6 +969,7 @@
     "source_date": "2026-07-17",
     "source_page": "page PDF 32",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   }
 ]

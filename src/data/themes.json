@@ -7,13 +7,16 @@
   ] },
   { "id": "emploi", "label": "Emploi et travail", "short": "Emploi", "icon": "Briefcase", "description": "Chômage, temps de travail, assurance chômage, droit du travail.", "indicators": [] },
   { "id": "retraites", "label": "Retraites", "short": "Retraites", "icon": "Hourglass", "description": "Âge de départ, durée de cotisation, niveau des pensions, financement.", "indicators": [
-    { "key": "age_legal", "label": "Âge légal de départ proposé", "type": "number", "unit": "ans" }
+    { "key": "age_legal", "label": "Âge légal de départ proposé", "type": "number", "unit": "ans" },
+    { "key": "abrogation_2023", "label": "Abrogation de la réforme de 2023 (âge légal à 64 ans)", "type": "enum", "options": { "abrogation": "Abrogation", "pas_d_abrogation": "Pas d'abrogation" } }
   ] },
   { "id": "energie", "label": "Énergie", "short": "Énergie", "icon": "Zap", "description": "Nucléaire, renouvelables, prix de l'électricité, souveraineté énergétique.", "indicators": [
     { "key": "nucleaire", "label": "Nucléaire", "type": "enum", "options": { "relance": "Relance / nouveaux réacteurs", "maintien": "Maintien du parc", "sortie": "Sortie progressive" } }
   ] },
   { "id": "ecologie", "label": "Écologie et climat", "short": "Écologie", "icon": "Leaf", "description": "Climat, biodiversité, transports, pollution, adaptation.", "indicators": [] },
-  { "id": "agriculture", "label": "Agriculture", "short": "Agriculture", "icon": "Wheat", "description": "Revenus agricoles, PAC, pesticides, alimentation, accords commerciaux.", "indicators": [] },
+  { "id": "agriculture", "label": "Agriculture", "short": "Agriculture", "icon": "Wheat", "description": "Revenus agricoles, PAC, pesticides, alimentation, accords commerciaux.", "indicators": [
+    { "key": "mercosur", "label": "Accord commercial UE-Mercosur", "type": "enum", "options": { "contre": "Opposé à l'accord", "pour": "Favorable à l'accord" } }
+  ] },
   { "id": "logement", "label": "Logement", "short": "Logement", "icon": "House", "description": "Construction, loyers, logement social, accès à la propriété.", "indicators": [] },
   { "id": "sante", "label": "Santé", "short": "Santé", "icon": "HeartPulse", "description": "Hôpital, déserts médicaux, assurance maladie, prévention.", "indicators": [] },
   { "id": "education", "label": "Éducation", "short": "Éducation", "icon": "GraduationCap", "description": "École, enseignants, enseignement supérieur, recherche.", "indicators": [] },
@@ -22,12 +25,16 @@
     { "key": "referendum_immigration", "label": "Référendum sur l'immigration", "type": "enum", "options": { "oui": "Proposé", "non": "Non proposé / opposé" } }
   ] },
   { "id": "institutions", "label": "Institutions et démocratie", "short": "Institutions", "icon": "Landmark", "description": "Constitution, mode de scrutin, référendum, décentralisation.", "indicators": [
-    { "key": "proportionnelle", "label": "Proportionnelle aux législatives", "type": "enum", "options": { "integrale": "Intégrale", "partielle": "Partielle / dose", "contre": "Contre" } }
+    { "key": "proportionnelle", "label": "Proportionnelle aux législatives", "type": "enum", "options": { "integrale": "Intégrale", "partielle": "Partielle / dose", "contre": "Contre" } },
+    { "key": "ric", "label": "Référendum d'initiative citoyenne (RIC)", "type": "enum", "options": { "oui": "Proposé", "non": "Opposé" } }
   ] },
   { "id": "europe", "label": "Europe", "short": "Europe", "icon": "Euro", "description": "Union européenne, traités, budget européen, souveraineté.", "indicators": [
     { "key": "rapport_ue", "label": "Rapport à l'Union européenne", "type": "enum", "options": { "approfondissement": "Approfondissement", "reforme": "Réforme des traités / désobéissance ciblée", "souverainete_nationale": "Primauté de la souveraineté nationale", "sortie": "Sortie de l'UE" } }
   ] },
-  { "id": "international", "label": "International et défense", "short": "Défense", "icon": "Shield", "description": "Armées, OTAN, Ukraine, Proche-Orient, diplomatie.", "indicators": [] },
+  { "id": "international", "label": "International et défense", "short": "Défense", "icon": "Shield", "description": "Armées, OTAN, Ukraine, Proche-Orient, diplomatie.", "indicators": [
+    { "key": "defense_pib", "label": "Budget de la défense visé", "type": "number", "unit": "% du PIB" },
+    { "key": "otan", "label": "Place de la France dans l'OTAN", "type": "enum", "options": { "maintien": "Maintien", "sortie_commandement": "Sortie du commandement intégré", "sortie": "Sortie de l'OTAN" } }
+  ] },
   { "id": "numerique", "label": "Numérique et IA", "short": "Numérique", "icon": "Cpu", "description": "Intelligence artificielle, plateformes, données, cybersécurité.", "indicators": [] },
   { "id": "culture", "label": "Culture et médias", "short": "Culture", "icon": "Theater", "description": "Création, patrimoine, audiovisuel public, pluralisme des médias.", "indicators": [] },
   { "id": "outre_mer", "label": "Outre-mer", "short": "Outre-mer", "icon": "Palmtree", "description": "Vie chère, statuts, développement des territoires ultramarins.", "indicators": [] },

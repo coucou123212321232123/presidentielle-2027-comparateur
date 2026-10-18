@@ -1,11 +1,11 @@
-import { useMemo, useState } from 'react'
+import { useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
 import { ArrowLeft, Columns3, Globe, Users, Target, Briefcase, History, FileSearch } from 'lucide-react'
-import { candidateById, measuresFor, meta, themes } from '../data'
+import { byTheme, candidateById, countFor, meta, summary, themes, useMeasures, useMeasuresFailed } from '../data'
 import type { ThemeId } from '../data/schema'
 import { CandidateAvatar } from '../components/CandidateAvatar'
-import { StatusBadge } from '../components/Badges'
+import { NewCountBadge, StatusBadge } from '../components/Badges'
 import { PositionScale } from '../components/PositionScale'
 import { ProgramBlock, ThemeProgramLink } from '../components/Program'
 import { ExternalLink } from '../components/ExternalLink'
@@ -13,8 +13,9 @@ import { Accordion } from '../components/Accordion'
 import { MeasureCard } from '../components/MeasureCard'
 import { MeasureFilters } from '../components/MeasureFilters'
 import { ThemeIcon } from '../components/ThemeIcon'
-import { Card, EmptyState } from '../components/ui'
+import { Card, EmptyState, Skeleton } from '../components/ui'
 import { useMeasureFilter } from '../lib/store'
+import { newCount, useNovelty } from '../lib/novelty'
 import { ageAt, formatDate, formatShortDate, fullName, plural } from '../lib/format'
 import NotFoundPage from './NotFoundPage'
 
@@ -35,15 +36,22 @@ export default function CandidatePage() {
   const [params] = useSearchParams()
   const candidate = candidateById[id]
   const initialTheme = params.get('theme') as ThemeId | null
-  const [open, setOpen] = useState<Set<ThemeId>>(() => new Set(initialTheme ? [initialTheme] : []))
+  const since = useNovelty((s) => s.since)
+  // Depuis le bandeau des nouveautés : les thèmes qui contiennent de nouvelles mesures sont dépliés.
+  const [open, setOpen] = useState<Set<ThemeId>>(() =>
+    params.get('nouveautes') ? new Set(themes.filter((t) => newCount(since, id, t.id) > 0).map((t) => t.id)) : new Set(initialTheme ? [initialTheme] : []),
+  )
   const { apply, active } = useMeasureFilter()
+  const loaded = useMeasures(candidate ? [candidate.id] : [])
+  const failed = useMeasuresFailed()
 
-  const all = useMemo(() => (candidate ? measuresFor(candidate.id) : []), [candidate])
   if (!candidate) return <NotFoundPage />
 
+  const all = loaded?.[candidate.id] ?? null
+  const total = countFor(candidate.id)
   const age = ageAt(candidate.birth_date, meta.last_updated)
-  const covered = themes.filter((t) => all.some((m) => m.theme === t.id))
-  const uncovered = themes.filter((t) => !all.some((m) => m.theme === t.id))
+  const covered = themes.filter((t) => summary[candidate.id]?.byTheme[t.id])
+  const uncovered = themes.filter((t) => !summary[candidate.id]?.byTheme[t.id])
   const toggle = (t: ThemeId) =>
     setOpen((s) => {
       const n = new Set(s)
@@ -229,7 +237,7 @@ export default function CandidatePage() {
               Mesures par thème
             </h2>
             <p className="mt-1 text-sm text-muted">
-              {plural(all.length, 'mesure sourcée', 'mesures sourcées')} sur {plural(covered.length, 'thème', 'thèmes')}.
+              {plural(total, 'mesure sourcée', 'mesures sourcées')} sur {plural(covered.length, 'thème', 'thèmes')}.
             </p>
           </div>
           <div className="flex gap-2 text-sm">
@@ -252,9 +260,18 @@ export default function CandidatePage() {
         )}
 
         <div className="space-y-3">
+          {failed && !all && (
+            <p className="rounded-xl bg-surface-2 px-4 py-3 text-sm text-ink-2" role="alert">
+              Les mesures n'ont pas pu être chargées (connexion interrompue ou nouvelle version publiée).{' '}
+              <button type="button" onClick={() => window.location.reload()} className="font-semibold underline underline-offset-2">
+                Recharger la page
+              </button>
+            </p>
+          )}
           {covered.map((t) => {
-            const list = apply(all.filter((m) => m.theme === t.id))
-            const total = all.filter((m) => m.theme === t.id).length
+            const list = all ? apply(byTheme(all, t.id)) : []
+            const count = countFor(candidate.id, t.id)
+            const fresh = newCount(since, candidate.id, t.id)
             return (
               <Accordion
                 key={t.id}
@@ -266,9 +283,12 @@ export default function CandidatePage() {
                       <ThemeIcon theme={t} />
                     </span>
                     <span>
-                      <span className="block font-semibold text-ink">{t.label}</span>
+                      <span className="flex flex-wrap items-center gap-2 font-semibold text-ink">
+                        {t.label}
+                        {fresh > 0 && <NewCountBadge n={fresh} />}
+                      </span>
                       <span className="block text-xs text-muted">
-                        {active ? `${list.length} / ${total} mesures (filtrées)` : plural(total, 'mesure', 'mesures')}
+                        {active && all ? `${list.length} / ${count} mesures (filtrées)` : plural(count, 'mesure', 'mesures')}
                       </span>
                     </span>
                   </span>
@@ -280,14 +300,24 @@ export default function CandidatePage() {
                     <Columns3 className="size-4" aria-hidden="true" /> Comparer ce thème
                   </Link>
                 </div>
-                <div className="grid gap-3 md:grid-cols-2">
-                  <AnimatePresence mode="popLayout">
-                    {list.map((m) => (
-                      <MeasureCard key={m.id} measure={m} accent={candidate.color} />
+                {all ? (
+                  <>
+                    <div className="grid gap-3 md:grid-cols-2">
+                      <AnimatePresence mode="popLayout">
+                        {list.map((m) => (
+                          <MeasureCard key={m.id} measure={m} accent={candidate.color} />
+                        ))}
+                      </AnimatePresence>
+                    </div>
+                    {list.length === 0 && <p className="text-sm text-muted">Aucune mesure ne correspond aux filtres actifs.</p>}
+                  </>
+                ) : (
+                  <div className="grid gap-3 md:grid-cols-2" aria-busy="true" aria-label="Chargement des mesures">
+                    {Array.from({ length: Math.min(count, 4) }, (_, i) => (
+                      <Skeleton key={i} className="h-36" />
                     ))}
-                  </AnimatePresence>
-                </div>
-                {list.length === 0 && <p className="text-sm text-muted">Aucune mesure ne correspond aux filtres actifs.</p>}
+                  </div>
+                )}
               </Accordion>
             )
           })}

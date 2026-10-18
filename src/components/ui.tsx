@@ -10,7 +10,7 @@ export function Badge({
   className,
 }: {
   children: ReactNode
-  tone?: 'neutral' | 'blue' | 'violet' | 'amber' | 'teal' | 'green' | 'rose'
+  tone?: 'neutral' | 'blue' | 'violet' | 'amber' | 'teal' | 'green' | 'rose' | 'new'
   title?: string
   className?: string
 }) {
@@ -22,6 +22,7 @@ export function Badge({
     teal: 'bg-teal-50 text-teal-900 ring-teal-200 dark:bg-teal-950/50 dark:text-teal-200 dark:ring-teal-900',
     green: 'bg-emerald-50 text-emerald-900 ring-emerald-200 dark:bg-emerald-950/50 dark:text-emerald-200 dark:ring-emerald-900',
     rose: 'bg-rose-50 text-rose-900 ring-rose-200 dark:bg-rose-950/50 dark:text-rose-200 dark:ring-rose-900',
+    new: 'bg-red-600 text-white ring-red-600 dark:bg-red-500 dark:ring-red-500',
   }
   return (
     <span

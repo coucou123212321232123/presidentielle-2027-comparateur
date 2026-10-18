@@ -1,10 +1,16 @@
 import { create } from 'zustand'
 import { DataBundleSchema, type DataBundle } from './schema'
 
-/** Adresse du paquet de données publié (public-data/data.json sur GitHub), surchargeable par VITE_DATA_URL ; vide = désactivé. */
+/** Adresse du paquet de données publié (public-data/data-v2.json sur GitHub), surchargeable par VITE_DATA_URL ; vide = désactivé. */
 export const REMOTE_DATA_URL: string =
   import.meta.env.VITE_DATA_URL ??
-  'https://raw.githubusercontent.com/coucou123212321232123/presidentielle-2027-comparateur/main/public-data/data.json'
+  'https://raw.githubusercontent.com/coucou123212321232123/presidentielle-2027-comparateur/main/public-data/data-v2.json'
+
+/**
+ * Application de bureau (fichiers locaux) : elle télécharge les nouvelles données au démarrage.
+ * La version web, republiée à chaque mise à jour des données, n'a rien à télécharger en plus.
+ */
+export const isDesktop = window.location.protocol === 'file:'
 
 const CACHE_KEY = 'donnees-presidentielle-2027'
 const TIMEOUT_MS = 8000
@@ -37,6 +43,15 @@ export const useDataUpdate = create<UpdateState>((set) => ({
  * Données invalides, hors ligne ou serveur indisponible : on garde silencieusement la version actuelle.
  */
 export async function checkForDataUpdate(current: { last_updated: string; generated_at: string }) {
+  if (!isDesktop) {
+    // Anciennes versions web : elles gardaient une copie complète (~1 Mo) des données, devenue inutile.
+    try {
+      localStorage.removeItem(CACHE_KEY)
+    } catch {
+      /* stockage indisponible */
+    }
+    return
+  }
   if (!REMOTE_DATA_URL) return
   try {
     const res = await fetch(`${REMOTE_DATA_URL}?t=${Date.now()}`, { cache: 'no-store', signal: AbortSignal.timeout(TIMEOUT_MS) })

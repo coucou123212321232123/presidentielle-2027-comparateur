@@ -10,7 +10,8 @@
     "source_date": "2026-07",
     "source_page": "p. 55",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-economie-02",
@@ -23,7 +24,8 @@
     "source_date": "2026-07",
     "source_page": "p. 119",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-economie-03",
@@ -36,7 +38,12 @@
     "source_date": "2026-07",
     "source_page": "p. 64",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "indicator": {
+      "key": "mercosur",
+      "value": "contre"
+    },
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-economie-04",
@@ -49,7 +56,8 @@
     "source_date": "2026-09",
     "source_page": "p. 5",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-economie-05",
@@ -62,7 +70,8 @@
     "source_date": "2026-07",
     "source_page": "p. 55",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-economie-06",
@@ -75,7 +84,8 @@
     "source_date": "2026-07",
     "source_page": "p. 77",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-fiscalite-01",
@@ -92,7 +102,8 @@
       "key": "isf",
       "value": "retablissement"
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-fiscalite-02",
@@ -105,7 +116,8 @@
     "source_date": "2026-07",
     "source_page": "p. 68",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-fiscalite-03",
@@ -123,7 +135,8 @@
       "source_label": "Chiffrage des Écologistes (dossier Budget 2027)",
       "source_url": "https://marinetondelier.fr/s/dossierpresse-budget2027.pdf#page=6"
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-fiscalite-04",
@@ -136,7 +149,8 @@
     "source_date": "2026-07",
     "source_page": "p. 66",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-fiscalite-05",
@@ -149,7 +163,8 @@
     "source_date": "2026-07",
     "source_page": "p. 67",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-fiscalite-06",
@@ -162,7 +177,8 @@
     "source_date": "2026-07",
     "source_page": "p. 68",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-emploi-01",
@@ -175,7 +191,8 @@
     "source_date": "2026-07",
     "source_page": "p. 57",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-emploi-02",
@@ -188,7 +205,8 @@
     "source_date": "2026-07",
     "source_page": "p. 57",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-emploi-03",
@@ -201,7 +219,8 @@
     "source_date": "2026-07",
     "source_page": "p. 57",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-emploi-04",
@@ -214,7 +233,8 @@
     "source_date": "2026-07",
     "source_page": "p. 57",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-emploi-05",
@@ -227,7 +247,8 @@
     "source_date": "2026-07",
     "source_page": "p. 60",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-emploi-06",
@@ -240,7 +261,8 @@
     "source_date": "2026-07",
     "source_page": "p. 57",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-retraites-01",
@@ -253,11 +275,18 @@
     "source_date": "2026-07",
     "source_page": "p. 116",
     "precision": "chiffre",
-    "indicator": {
-      "key": "age_legal",
-      "value": 62
-    },
-    "last_verified": "2026-10-16"
+    "indicator": [
+      {
+        "key": "age_legal",
+        "value": 62
+      },
+      {
+        "key": "abrogation_2023",
+        "value": "abrogation"
+      }
+    ],
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-retraites-02",
@@ -270,7 +299,8 @@
     "source_date": "2026-07",
     "source_page": "p. 117",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-retraites-03",
@@ -283,7 +313,8 @@
     "source_date": "2026-07",
     "source_page": "p. 117",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-retraites-04",
@@ -296,7 +327,8 @@
     "source_date": "2026-07",
     "source_page": "p. 117",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-retraites-05",
@@ -309,7 +341,8 @@
     "source_date": "2026-07",
     "source_page": "p. 117",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-energie-01",
@@ -326,7 +359,8 @@
       "key": "nucleaire",
       "value": "sortie"
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-energie-02",
@@ -339,7 +373,8 @@
     "source_date": "2026-07",
     "source_page": "p. 16",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-energie-03",
@@ -352,7 +387,8 @@
     "source_date": "2026-07",
     "source_page": "p. 16",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-energie-04",
@@ -365,7 +401,8 @@
     "source_date": "2026-07",
     "source_page": "p. 17",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-energie-05",
@@ -378,7 +415,8 @@
     "source_date": "2026-07",
     "source_page": "p. 17",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-energie-06",
@@ -391,7 +429,8 @@
     "source_date": "2026-07",
     "source_page": "p. 119",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-ecologie-01",
@@ -404,7 +443,8 @@
     "source_date": "2026-07",
     "source_page": "p. 29",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-ecologie-02",
@@ -417,7 +457,8 @@
     "source_date": "2026-07",
     "source_page": "p. 107",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-ecologie-03",
@@ -430,7 +471,8 @@
     "source_date": "2026-07",
     "source_page": "p. 27",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-ecologie-04",
@@ -443,7 +485,8 @@
     "source_date": "2026-07",
     "source_page": "p. 23",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-ecologie-05",
@@ -456,7 +499,8 @@
     "source_date": "2026-07",
     "source_page": "p. 25",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-ecologie-06",
@@ -469,7 +513,8 @@
     "source_date": "2026-07",
     "source_page": "p. 24",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-agriculture-01",
@@ -482,7 +527,8 @@
     "source_date": "2026-07",
     "source_page": "p. 48",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-agriculture-02",
@@ -495,7 +541,8 @@
     "source_date": "2026-07",
     "source_page": "p. 49",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-agriculture-03",
@@ -508,7 +555,8 @@
     "source_date": "2026-07",
     "source_page": "p. 49-50",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-agriculture-04",
@@ -521,7 +569,8 @@
     "source_date": "2026-07",
     "source_page": "p. 45",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-agriculture-05",
@@ -534,7 +583,8 @@
     "source_date": "2026-07",
     "source_page": "p. 50",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-agriculture-06",
@@ -547,7 +597,8 @@
     "source_date": "2026-07",
     "source_page": "p. 46",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-logement-01",
@@ -560,7 +611,8 @@
     "source_date": "2026-07",
     "source_page": "p. 20",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-logement-02",
@@ -573,7 +625,8 @@
     "source_date": "2026-07",
     "source_page": "p. 21",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-logement-03",
@@ -586,7 +639,8 @@
     "source_date": "2026-07",
     "source_page": "p. 20",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-logement-04",
@@ -599,7 +653,8 @@
     "source_date": "2026-07",
     "source_page": "p. 20",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-logement-05",
@@ -612,7 +667,8 @@
     "source_date": "2026-07",
     "source_page": "p. 21",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-logement-06",
@@ -625,7 +681,8 @@
     "source_date": "2026-07",
     "source_page": "p. 119",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-sante-01",
@@ -638,7 +695,8 @@
     "source_date": "2026-07",
     "source_page": "p. 114",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-sante-02",
@@ -651,7 +709,8 @@
     "source_date": "2026-07",
     "source_page": "p. 151",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-sante-03",
@@ -664,7 +723,8 @@
     "source_date": "2026-07",
     "source_page": "p. 111",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-sante-04",
@@ -677,7 +737,8 @@
     "source_date": "2026-07",
     "source_page": "p. 111",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-sante-05",
@@ -690,7 +751,8 @@
     "source_date": "2026-07",
     "source_page": "p. 111",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-sante-06",
@@ -703,7 +765,8 @@
     "source_date": "2026-07",
     "source_page": "p. 112",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-education-01",
@@ -716,7 +779,8 @@
     "source_date": "2026-07",
     "source_page": "p. 90",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-education-02",
@@ -729,7 +793,8 @@
     "source_date": "2026-07",
     "source_page": "p. 90",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-education-03",
@@ -742,7 +807,8 @@
     "source_date": "2026-07",
     "source_page": "p. 92",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-education-04",
@@ -755,7 +821,8 @@
     "source_date": "2026-07",
     "source_page": "p. 93",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-education-05",
@@ -768,7 +835,8 @@
     "source_date": "2026-07",
     "source_page": "p. 91",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-education-06",
@@ -781,7 +849,8 @@
     "source_date": "2026-08-31",
     "source_page": "p. 12",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-securite-01",
@@ -794,7 +863,8 @@
     "source_date": "2026-07",
     "source_page": "p. 164",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-securite-02",
@@ -807,7 +877,8 @@
     "source_date": "2026-07",
     "source_page": "p. 165",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-securite-03",
@@ -820,7 +891,8 @@
     "source_date": "2026-07",
     "source_page": "p. 167",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-securite-04",
@@ -833,7 +905,8 @@
     "source_date": "2026-07",
     "source_page": "p. 184",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-securite-05",
@@ -846,7 +919,8 @@
     "source_date": "2026-07",
     "source_page": "p. 170",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-securite-06",
@@ -859,7 +933,8 @@
     "source_date": "2026-07",
     "source_page": "p. 165",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-immigration-01",
@@ -872,7 +947,8 @@
     "source_date": "2026-07",
     "source_page": "p. 178",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-immigration-02",
@@ -885,7 +961,8 @@
     "source_date": "2026-07",
     "source_page": "p. 178",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-immigration-03",
@@ -898,7 +975,8 @@
     "source_date": "2026-07",
     "source_page": "p. 179",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-immigration-04",
@@ -911,7 +989,8 @@
     "source_date": "2026-07",
     "source_page": "p. 178",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-immigration-05",
@@ -924,7 +1003,8 @@
     "source_date": "2026-07",
     "source_page": "p. 178",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-immigration-06",
@@ -937,7 +1017,8 @@
     "source_date": "2026-07",
     "source_page": "p. 179",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-institutions-01",
@@ -950,7 +1031,8 @@
     "source_date": "2026-07",
     "source_page": "p. 159",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-institutions-02",
@@ -967,7 +1049,8 @@
       "key": "proportionnelle",
       "value": "integrale"
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-institutions-03",
@@ -980,7 +1063,12 @@
     "source_date": "2026-07",
     "source_page": "p. 161",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "indicator": {
+      "key": "ric",
+      "value": "oui"
+    },
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-institutions-04",
@@ -993,7 +1081,8 @@
     "source_date": "2026-07",
     "source_page": "p. 163",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-institutions-05",
@@ -1006,7 +1095,8 @@
     "source_date": "2026-07",
     "source_page": "p. 160",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-institutions-06",
@@ -1019,7 +1109,8 @@
     "source_date": "2026-07",
     "source_page": "p. 163",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-europe-01",
@@ -1036,7 +1127,8 @@
       "key": "rapport_ue",
       "value": "approfondissement"
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-europe-02",
@@ -1049,7 +1141,8 @@
     "source_date": "2026-07",
     "source_page": "p. 190",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-europe-03",
@@ -1062,7 +1155,8 @@
     "source_date": "2026-07",
     "source_page": "p. 63",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-europe-04",
@@ -1075,7 +1169,8 @@
     "source_date": "2026-07",
     "source_page": "p. 64",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-europe-05",
@@ -1088,7 +1183,8 @@
     "source_date": "2026-07",
     "source_page": "p. 94",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-international-01",
@@ -1101,7 +1197,8 @@
     "source_date": "2026-07",
     "source_page": "p. 197",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-international-02",
@@ -1114,7 +1211,8 @@
     "source_date": "2026-07",
     "source_page": "p. 195",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-international-03",
@@ -1127,7 +1225,8 @@
     "source_date": "2026-07",
     "source_page": "p. 202",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-international-04",
@@ -1140,7 +1239,8 @@
     "source_date": "2026-07",
     "source_page": "p. 193-194",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-international-05",
@@ -1153,7 +1253,8 @@
     "source_date": "2026-07",
     "source_page": "p. 194",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-international-06",
@@ -1166,7 +1267,8 @@
     "source_date": "2026-07",
     "source_page": "p. 205",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-numerique-01",
@@ -1179,7 +1281,8 @@
     "source_date": "2026-07",
     "source_page": "p. 80",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-numerique-02",
@@ -1192,7 +1295,8 @@
     "source_date": "2026-07",
     "source_page": "p. 82",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-numerique-03",
@@ -1205,7 +1309,8 @@
     "source_date": "2026-07",
     "source_page": "p. 81",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-numerique-04",
@@ -1218,7 +1323,8 @@
     "source_date": "2026-07",
     "source_page": "p. 81",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-numerique-05",
@@ -1231,7 +1337,8 @@
     "source_date": "2026-07",
     "source_page": "p. 81",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-culture-01",
@@ -1244,7 +1351,8 @@
     "source_date": "2026-07",
     "source_page": "p. 99",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-culture-02",
@@ -1257,7 +1365,8 @@
     "source_date": "2026-07",
     "source_page": "p. 100",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-culture-03",
@@ -1270,7 +1379,8 @@
     "source_date": "2026-07",
     "source_page": "p. 175",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-culture-04",
@@ -1283,7 +1393,8 @@
     "source_date": "2026-07",
     "source_page": "p. 99",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-culture-05",
@@ -1296,7 +1407,8 @@
     "source_date": "2026-07",
     "source_page": "p. 100",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-outre_mer-01",
@@ -1309,7 +1421,8 @@
     "source_date": "2026-07",
     "source_page": "p. 152",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-outre_mer-02",
@@ -1322,7 +1435,8 @@
     "source_date": "2026-07",
     "source_page": "p. 153",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-outre_mer-03",
@@ -1335,7 +1449,8 @@
     "source_date": "2026-07",
     "source_page": "p. 153",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-outre_mer-04",
@@ -1348,7 +1463,8 @@
     "source_date": "2026-07",
     "source_page": "p. 153",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-outre_mer-05",
@@ -1361,7 +1477,8 @@
     "source_date": "2026-07",
     "source_page": "p. 153",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-services_publics-01",
@@ -1374,7 +1491,8 @@
     "source_date": "2026-07",
     "source_page": "p. 150",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-services_publics-02",
@@ -1387,7 +1505,8 @@
     "source_date": "2026-07",
     "source_page": "p. 87",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-services_publics-03",
@@ -1400,7 +1519,8 @@
     "source_date": "2026-07",
     "source_page": "p. 87",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-services_publics-04",
@@ -1413,7 +1533,8 @@
     "source_date": "2026-07",
     "source_page": "p. 25",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-services_publics-05",
@@ -1426,7 +1547,8 @@
     "source_date": "2026-07",
     "source_page": "p. 25",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-famille-01",
@@ -1439,7 +1561,8 @@
     "source_date": "2026-07",
     "source_page": "p. 124",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-famille-02",
@@ -1452,7 +1575,8 @@
     "source_date": "2026-09-17",
     "source_page": "p. 15",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "tondelier-famille-03",
@@ -1465,7 +1589,8 @@
     "source_date": "2026-07",
     "source_page": "p. 130",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-famille-04",
@@ -1478,7 +1603,8 @@
     "source_date": "2026-07",
     "source_page": "p. 133-134",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-famille-05",
@@ -1491,7 +1617,8 @@
     "source_date": "2026-07",
     "source_page": "p. 143",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "tondelier-famille-06",
@@ -1504,6 +1631,7 @@
     "source_date": "2026-07",
     "source_page": "p. 123-124",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   }
 ]
