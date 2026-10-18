@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T12:00:36.638Z",
+  "generated_at": "2026-10-18T12:06:39.193Z",
   "source_label": "Assemblée nationale – données ouvertes (scrutins, députés et groupes)",
   "source_url": "https://data.assemblee-nationale.fr/",
   "scrutins": [
@@ -32,20 +32,20 @@
           "pour": 61,
           "contre": 2,
           "abstention": 3,
-          "non_votant": 3,
-          "absent": 2
+          "non_votant": 0,
+          "absent": 5
         },
         {
           "ref": "PO845514",
           "short": "GDR",
           "label": "Gauche Démocrate et Républicaine",
           "color": "#830E21",
-          "members": 18,
+          "members": 17,
           "pour": 10,
           "contre": 2,
           "abstention": 3,
-          "non_votant": 3,
-          "absent": 0
+          "non_votant": 0,
+          "absent": 2
         },
         {
           "ref": "PO845439",
@@ -56,32 +56,32 @@
           "pour": 33,
           "contre": 2,
           "abstention": 1,
-          "non_votant": 1,
-          "absent": 1
+          "non_votant": 0,
+          "absent": 2
         },
         {
           "ref": "PO845419",
           "short": "SOC",
           "label": "Socialistes et apparentés",
           "color": "#F5B4CE",
-          "members": 73,
+          "members": 68,
           "pour": 57,
           "contre": 4,
           "abstention": 6,
-          "non_votant": 6,
-          "absent": 0
+          "non_votant": 0,
+          "absent": 1
         },
         {
           "ref": "PO845485",
           "short": "LIOT",
           "label": "Libertés, Indépendants, Outre-mer et Territoires",
           "color": "#FFD96F",
-          "members": 26,
+          "members": 23,
           "pour": 10,
           "contre": 8,
           "abstention": 4,
-          "non_votant": 4,
-          "absent": 0
+          "non_votant": 0,
+          "absent": 1
         },
         {
           "ref": "PO845454",
@@ -100,11 +100,11 @@
           "short": "EPR",
           "label": "Ensemble pour la République",
           "color": "#7B4591",
-          "members": 100,
+          "members": 91,
           "pour": 64,
           "contre": 18,
           "abstention": 9,
-          "non_votant": 9,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -112,11 +112,11 @@
           "short": "HOR",
           "label": "Horizons & Indépendants",
           "color": "#B5E2F9",
-          "members": 36,
+          "members": 35,
           "pour": 16,
           "contre": 18,
           "abstention": 1,
-          "non_votant": 1,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -124,11 +124,11 @@
           "short": "DR",
           "label": "Droite Républicaine",
           "color": "#8CB0DC",
-          "members": 50,
+          "members": 48,
           "pour": 5,
           "contre": 41,
           "abstention": 2,
-          "non_votant": 2,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -228,19 +228,19 @@
           "pour": 1,
           "contre": 10,
           "abstention": 2,
-          "non_votant": 2,
-          "absent": 2
+          "non_votant": 0,
+          "absent": 4
         },
         {
           "ref": "PO845439",
           "short": "ECOS",
           "label": "Écologiste et Social",
           "color": "#77AA79",
-          "members": 65,
+          "members": 38,
           "pour": 2,
           "contre": 9,
           "abstention": 27,
-          "non_votant": 27,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -248,11 +248,11 @@
           "short": "SOC",
           "label": "Socialistes et apparentés",
           "color": "#F5B4CE",
-          "members": 74,
+          "members": 69,
           "pour": 64,
           "contre": 0,
           "abstention": 5,
-          "non_votant": 5,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -260,11 +260,11 @@
           "short": "LIOT",
           "label": "Libertés, Indépendants, Outre-mer et Territoires",
           "color": "#FFD96F",
-          "members": 24,
+          "members": 22,
           "pour": 20,
           "contre": 0,
           "abstention": 2,
-          "non_votant": 2,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -296,11 +296,11 @@
           "short": "HOR",
           "label": "Horizons & Indépendants",
           "color": "#B5E2F9",
-          "members": 59,
+          "members": 34,
           "pour": 9,
           "contre": 0,
           "abstention": 25,
-          "non_votant": 25,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -308,11 +308,11 @@
           "short": "DR",
           "label": "Droite Républicaine",
           "color": "#8CB0DC",
-          "members": 77,
+          "members": 49,
           "pour": 18,
           "contre": 3,
           "abstention": 28,
-          "non_votant": 28,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -344,11 +344,11 @@
           "short": "NI",
           "label": "Non inscrit",
           "color": "#8D949A",
-          "members": 10,
+          "members": 9,
           "pour": 6,
           "contre": 2,
           "abstention": 1,
-          "non_votant": 1,
+          "non_votant": 0,
           "absent": 0
         }
       ],
@@ -448,8 +448,8 @@
           "pour": 1,
           "contre": 14,
           "abstention": 2,
-          "non_votant": 2,
-          "absent": 3
+          "non_votant": 0,
+          "absent": 5
         },
         {
           "ref": "PO845454",
@@ -460,20 +460,20 @@
           "pour": 0,
           "contre": 0,
           "abstention": 15,
-          "non_votant": 15,
-          "absent": 6
+          "non_votant": 0,
+          "absent": 21
         },
         {
           "ref": "PO845407",
           "short": "EPR",
           "label": "Ensemble pour la République",
           "color": "#7B4591",
-          "members": 140,
+          "members": 91,
           "pour": 0,
           "contre": 7,
           "abstention": 66,
-          "non_votant": 67,
-          "absent": 0
+          "non_votant": 1,
+          "absent": 17
         },
         {
           "ref": "PO845470",
@@ -532,8 +532,8 @@
           "pour": 0,
           "contre": 5,
           "abstention": 1,
-          "non_votant": 1,
-          "absent": 2
+          "non_votant": 0,
+          "absent": 3
         }
       ],
       "candidates": [
@@ -628,11 +628,11 @@
           "short": "LIOT",
           "label": "Libertés, Indépendants, Outre-mer et Territoires",
           "color": "#FFD96F",
-          "members": 27,
+          "members": 23,
           "pour": 4,
           "contre": 15,
           "abstention": 4,
-          "non_votant": 4,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -652,11 +652,11 @@
           "short": "EPR",
           "label": "Ensemble pour la République",
           "color": "#7B4591",
-          "members": 92,
+          "members": 91,
           "pour": 90,
           "contre": 0,
           "abstention": 1,
-          "non_votant": 1,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -676,11 +676,11 @@
           "short": "DR",
           "label": "Droite Républicaine",
           "color": "#8CB0DC",
-          "members": 58,
+          "members": 49,
           "pour": 27,
           "contre": 13,
           "abstention": 9,
-          "non_votant": 9,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -716,8 +716,8 @@
           "pour": 3,
           "contre": 6,
           "abstention": 1,
-          "non_votant": 1,
-          "absent": 0
+          "non_votant": 0,
+          "absent": 1
         }
       ],
       "candidates": [
@@ -1024,8 +1024,8 @@
           "pour": 84,
           "contre": 0,
           "abstention": 1,
-          "non_votant": 2,
-          "absent": 7
+          "non_votant": 1,
+          "absent": 8
         },
         {
           "ref": "PO845470",
@@ -1184,8 +1184,8 @@
           "pour": 0,
           "contre": 2,
           "abstention": 1,
-          "non_votant": 1,
-          "absent": 19
+          "non_votant": 0,
+          "absent": 20
         },
         {
           "ref": "PO845454",
@@ -1240,12 +1240,12 @@
           "short": "UDR",
           "label": "UDR",
           "color": "#3367A7",
-          "members": 24,
+          "members": 16,
           "pour": 0,
           "contre": 0,
           "abstention": 12,
-          "non_votant": 12,
-          "absent": 0
+          "non_votant": 0,
+          "absent": 4
         },
         {
           "ref": "PO845401",
@@ -1256,8 +1256,8 @@
           "pour": 118,
           "contre": 0,
           "abstention": 3,
-          "non_votant": 3,
-          "absent": 1
+          "non_votant": 0,
+          "absent": 4
         },
         {
           "ref": "PO840056",
@@ -1268,8 +1268,8 @@
           "pour": 0,
           "contre": 2,
           "abstention": 2,
-          "non_votant": 2,
-          "absent": 2
+          "non_votant": 0,
+          "absent": 4
         }
       ],
       "candidates": [
@@ -1364,11 +1364,11 @@
           "short": "LIOT",
           "label": "Libertés, Indépendants, Outre-mer et Territoires",
           "color": "#F8D434",
-          "members": 24,
+          "members": 22,
           "pour": 19,
           "contre": 1,
           "abstention": 2,
-          "non_votant": 2,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -1380,8 +1380,8 @@
           "pour": 47,
           "contre": 0,
           "abstention": 2,
-          "non_votant": 2,
-          "absent": 0
+          "non_votant": 0,
+          "absent": 2
         },
         {
           "ref": "PO800538",
@@ -1412,12 +1412,12 @@
           "short": "LR",
           "label": "Les Républicains",
           "color": "#4565AD",
-          "members": 63,
+          "members": 62,
           "pour": 40,
           "contre": 15,
           "abstention": 4,
-          "non_votant": 4,
-          "absent": 0
+          "non_votant": 0,
+          "absent": 3
         },
         {
           "ref": "PO800520",
@@ -1428,19 +1428,19 @@
           "pour": 46,
           "contre": 12,
           "abstention": 14,
-          "non_votant": 14,
-          "absent": 2
+          "non_votant": 0,
+          "absent": 16
         },
         {
           "ref": "PO793087",
           "short": "NI",
           "label": "Non inscrit",
           "color": "#8D949A",
-          "members": 6,
+          "members": 5,
           "pour": 2,
           "contre": 2,
           "abstention": 1,
-          "non_votant": 1,
+          "non_votant": 0,
           "absent": 0
         }
       ],
@@ -1541,11 +1541,11 @@
           "short": "LIOT",
           "label": "Libertés, Indépendants, Outre-mer et Territoires",
           "color": "#F8D434",
-          "members": 26,
+          "members": 21,
           "pour": 8,
           "contre": 8,
           "abstention": 5,
-          "non_votant": 5,
+          "non_votant": 0,
           "absent": 0
         },
         {
@@ -1553,24 +1553,24 @@
           "short": "DEM",
           "label": "Démocrate (MoDem et Indépendants)",
           "color": "#CE5215",
-          "members": 65,
+          "members": 51,
           "pour": 30,
           "contre": 5,
           "abstention": 15,
-          "non_votant": 15,
-          "absent": 0
+          "non_votant": 0,
+          "absent": 1
         },
         {
           "ref": "PO800538",
           "short": "RE",
           "label": "Renaissance",
           "color": "#61468F",
-          "members": 185,
+          "members": 170,
           "pour": 131,
           "contre": 20,
           "abstention": 17,
-          "non_votant": 17,
-          "absent": 0
+          "non_votant": 0,
+          "absent": 2
         },
         {
           "ref": "PO800514",
@@ -1613,11 +1613,11 @@
           "short": "NI",
           "label": "Non inscrit",
           "color": "#8D949A",
-          "members": 5,
+          "members": 4,
           "pour": 2,
           "contre": 1,
           "abstention": 1,
-          "non_votant": 1,
+          "non_votant": 0,
           "absent": 0
         }
       ],
