@@ -2,10 +2,11 @@ import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { ArrowRight } from 'lucide-react'
 import type { Candidate } from '../data/schema'
-import { measuresFor } from '../data'
+import { countFor, summary } from '../data'
 import { fullName, plural } from '../lib/format'
+import { newCount, useNovelty } from '../lib/novelty'
 import { CandidateAvatar } from './CandidateAvatar'
-import { StatusBadge } from './Badges'
+import { NewCountBadge, StatusBadge } from './Badges'
 import { PositionScale } from './PositionScale'
 import { ProgramButton } from './Program'
 
@@ -15,8 +16,9 @@ export const cardVariants = {
 }
 
 export function CandidateCard({ candidate }: { candidate: Candidate }) {
-  const measures = measuresFor(candidate.id)
-  const themeCount = new Set(measures.map((m) => m.theme)).size
+  const total = countFor(candidate.id)
+  const themeCount = Object.keys(summary[candidate.id]?.byTheme ?? {}).length
+  const fresh = newCount(useNovelty((s) => s.since), candidate.id)
   return (
     <motion.article
       variants={cardVariants}
@@ -38,8 +40,9 @@ export function CandidateCard({ candidate }: { candidate: Candidate }) {
             <p className="mt-0.5 line-clamp-2 text-sm text-ink-2" title={candidate.party}>
               {candidate.party}
             </p>
-            <div className="mt-2">
+            <div className="mt-2 flex flex-wrap gap-1.5">
               <StatusBadge status={candidate.status} />
+              {fresh > 0 && <NewCountBadge n={fresh} />}
             </div>
           </div>
         </div>
@@ -54,7 +57,7 @@ export function CandidateCard({ candidate }: { candidate: Candidate }) {
           <div className="mt-4 flex flex-wrap items-center justify-between gap-2">
             <ProgramButton candidate={candidate} className="relative z-10 whitespace-nowrap" />
             <span className="inline-flex items-center gap-1 whitespace-nowrap text-xs font-medium text-muted transition-colors group-hover:text-ink">
-              {plural(measures.length, 'mesure', 'mesures')} · {plural(themeCount, 'thème', 'thèmes')}
+              {plural(total, 'mesure', 'mesures')} · {plural(themeCount, 'thème', 'thèmes')}
               <ArrowRight className="size-3.5 transition-transform group-hover:translate-x-0.5" aria-hidden="true" />
             </span>
           </div>

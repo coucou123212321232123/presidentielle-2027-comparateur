@@ -1,0 +1,95 @@
+{
+  "_doc": "Grands textes retenus pour la page Votes. Chaque entrée désigne un scrutin public de l'Assemblée nationale par sa législature et, soit son numéro, soit sa date et une expression régulière appliquée à l'intitulé officiel (insensible à la casse). Les chiffres viennent exclusivement de l'open data de l'Assemblée (scripts/fetch-votes.ts). Le contexte est rédigé de façon factuelle et neutre.",
+  "scrutins": [
+    {
+      "legislature": 16,
+      "date": "2023-03-20",
+      "match": "motion de censure.*(Bertrand Pancher|Pancher|LIOT|Libert)",
+      "short_title": "Réforme des retraites : motion de censure transpartisane",
+      "theme": "retraites",
+      "context": "Le projet de loi de financement rectificative de la sécurité sociale pour 2023, qui porte l'âge légal de départ à 64 ans, n'a pas été soumis au vote final de l'Assemblée : le gouvernement a engagé sa responsabilité (article 49.3). Cette motion de censure, déposée par le groupe LIOT, était le seul moyen de s'y opposer par un vote ; elle a été rejetée, entraînant l'adoption du texte.",
+      "numero": 1240
+    },
+    {
+      "legislature": 16,
+      "date": "2023-12-19",
+      "match": "ensemble du projet de loi pour contr[ôo]ler l'immigration",
+      "short_title": "Loi immigration : vote final",
+      "theme": "immigration",
+      "context": "Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), dernière étape avant la promulgation. Le Conseil constitutionnel a ensuite censuré, totalement ou partiellement, 35 articles (décision du 25 janvier 2024).",
+      "numero": 3213
+    },
+    {
+      "legislature": 16,
+      "date": "2024-01-30",
+      "match": "libert[ée] de recourir .{0,40}interruption volontaire de grossesse",
+      "short_title": "IVG dans la Constitution : vote en première lecture",
+      "theme": "famille",
+      "context": "Vote de l'Assemblée sur le projet de loi constitutionnelle inscrivant dans la Constitution la liberté de recourir à l'interruption volontaire de grossesse. Le texte a ensuite été adopté par le Sénat puis par le Parlement réuni en Congrès le 4 mars 2024.",
+      "numero": 3289
+    },
+    {
+      "legislature": 17,
+      "date": "2024-12-04",
+      "match": "motion de censure",
+      "short_title": "Budget de la Sécurité sociale 2025 : censure du gouvernement Barnier",
+      "theme": "economie",
+      "context": "Motion de censure déposée après l'engagement de la responsabilité du gouvernement (article 49.3) sur le projet de loi de financement de la sécurité sociale pour 2025. Adoptée, elle a entraîné la démission du gouvernement de Michel Barnier.",
+      "numero": 519
+    },
+    {
+      "legislature": 17,
+      "date": "2025-09-08",
+      "match": "(d[ée]claration de politique g[ée]n[ée]rale|engag.*responsabilit[ée]|article 50-1|confiance)",
+      "short_title": "Vote de confiance du gouvernement Bayrou",
+      "theme": "economie",
+      "context": "Le Premier ministre a engagé la responsabilité de son gouvernement sur une déclaration de politique générale consacrée à la situation des finances publiques. Le vote négatif a entraîné la démission du gouvernement de François Bayrou.",
+      "numero": 3054
+    },
+    {
+      "legislature": 17,
+      "numero": 217,
+      "date": "2024-10-31",
+      "match": "annulant les derni[èe]res r[ée]formes",
+      "short_title": "Proposition d'abrogation des dernières réformes des retraites",
+      "theme": "retraites",
+      "context": "Proposition de loi examinée en première lecture, qui visait à annuler les dernières réformes portant sur l'âge de départ et le nombre d'annuités, dont celle de 2023. Elle a été rejetée."
+    },
+    {
+      "legislature": 17,
+      "numero": 456,
+      "date": "2024-11-26",
+      "match": "Mercosur",
+      "short_title": "Accord UE-Mercosur : vote sur la déclaration du gouvernement",
+      "theme": "agriculture",
+      "context": "Déclaration du gouvernement suivie d'un vote (article 50-1 de la Constitution), consacrée aux négociations sur l'accord d'association entre l'Union européenne et le Mercosur. Le gouvernement y exposait son opposition au projet d'accord en l'état ; voter pour revenait à approuver cette déclaration. Ce vote n'a pas de portée législative."
+    },
+    {
+      "legislature": 17,
+      "numero": 4241,
+      "date": "2025-11-21",
+      "match": "premi[èe]re partie du projet de loi de finances pour 2026",
+      "short_title": "Budget de l'État 2026 : rejet de la partie recettes",
+      "theme": "economie",
+      "context": "Vote sur la première partie (recettes) du projet de loi de finances pour 2026, en première lecture. Son rejet a valu rejet de l'ensemble du projet par l'Assemblée à ce stade : le texte a été transmis au Sénat dans sa version initiale."
+    },
+    {
+      "legislature": 17,
+      "numero": 4758,
+      "date": "2025-12-16",
+      "match": "financement de la s[ée]curit[ée] sociale pour 2026",
+      "short_title": "Budget de la Sécurité sociale 2026 : vote définitif",
+      "theme": "economie",
+      "context": "Vote en lecture définitive du projet de loi de financement de la sécurité sociale pour 2026 : faute d'accord avec le Sénat, l'Assemblée a statué en dernier."
+    },
+    {
+      "legislature": 17,
+      "numero": 8280,
+      "date": "2026-07-15",
+      "match": "aide [àa] mourir",
+      "short_title": "Aide à mourir : adoption définitive",
+      "theme": "famille",
+      "context": "Vote en lecture définitive de la proposition de loi relative au droit à l'aide à mourir : faute d'accord avec le Sénat, l'Assemblée a statué en dernier. En première lecture, le 27 mai 2025, le texte avait été adopté par 305 voix contre 199."
+    }
+  ]
+}

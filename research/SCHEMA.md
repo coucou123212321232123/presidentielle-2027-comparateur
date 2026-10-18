@@ -77,12 +77,14 @@ Tableau JSON :
     "precision": "chiffre | precis | orientation_generale",
     "cost": { "label": "≈ 10 Md€ par an", "source_label": "Chiffrage du candidat", "source_url": "https://..." },
     "indicator": { "key": "nucleaire", "value": "relance" },
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   }
 ]
 ```
 
 - `source_date` : `YYYY-MM-DD`, ou `YYYY-MM` si le document n'indique que le mois (ex. « juillet 2026 » → `2026-07`). Ne jamais inventer un jour par convention ; `null` si la date est inconnue.
+- `added` : date d'ajout de la mesure à l'outil (= date de la mise à jour qui l'a publiée). Elle ne change plus ensuite, même si la mesure est modifiée ; elle alimente le badge « Nouveau ».
 - `cost` et `indicator` : optionnels (omets-les ou `null` si inconnus). `source_page` : `null` si inconnu.
 - `precision` : `chiffre` = contient une valeur chiffrée (montant, âge, nombre…) ; `precis` = mesure concrète et identifiable sans chiffre ; `orientation_generale` = intention/principe.
 - `source_type` :
@@ -95,7 +97,7 @@ Tableau JSON :
 ### Thèmes (identifiants obligatoires)
 `economie` (Économie et pouvoir d'achat) · `fiscalite` · `emploi` (Emploi et travail) · `retraites` · `energie` · `ecologie` (Écologie et climat) · `agriculture` · `logement` · `sante` · `education` · `securite` (Sécurité et justice) · `immigration` (Immigration et asile) · `institutions` (Institutions et démocratie) · `europe` · `international` (International et défense) · `numerique` (Numérique et IA) · `culture` (Culture et médias) · `outre_mer` · `services_publics` (Services publics et territoires) · `famille` (Famille et société)
 
-### Indicateurs comparables (champ `indicator`, uniquement si la source l'énonce explicitement)
+### Indicateurs comparables (champ `indicator`, uniquement si la valeur est écrite telle quelle dans la source)
 - `retraites` → `{ "key": "age_legal", "value": 62 }` (nombre : âge légal de départ proposé)
 - `energie` → `{ "key": "nucleaire", "value": "relance" | "maintien" | "sortie" }`
 - `economie` → `{ "key": "smic_net", "value": 1600 }` (nombre : SMIC net mensuel proposé en €)
@@ -103,7 +105,12 @@ Tableau JSON :
 - `institutions` → `{ "key": "proportionnelle", "value": "integrale" | "partielle" | "contre" }`
 - `immigration` → `{ "key": "referendum_immigration", "value": "oui" | "non" }`
 - `europe` → `{ "key": "rapport_ue", "value": "approfondissement" | "reforme" | "souverainete_nationale" | "sortie" }`
-Une seule mesure par candidat porte un indicateur donné.
+- `retraites` → `{ "key": "abrogation_2023", "value": "abrogation" | "pas_d_abrogation" }` (abroger la réforme de 2023 / le report à 64 ans, ou refus explicite de l'abroger)
+- `institutions` → `{ "key": "ric", "value": "oui" | "non" }` (référendum d'initiative citoyenne proposé / opposé)
+- `international` → `{ "key": "defense_pib", "value": 3 }` (nombre : budget de la défense visé, en % du PIB)
+- `international` → `{ "key": "otan", "value": "maintien" | "sortie_commandement" | "sortie" }`
+- `agriculture` → `{ "key": "mercosur", "value": "contre" | "pour" }` (accord commercial UE-Mercosur)
+Une seule mesure par candidat porte un indicateur donné. La mesure peut relever d'un autre thème que celui où l'indicateur est affiché (ex. Mercosur énoncé dans une mesure « Europe »). Une mesure qui énonce plusieurs valeurs en porte une liste : `"indicator": [{ "key": "age_legal", "value": 62 }, { "key": "abrogation_2023", "value": "abrogation" }]`.
 
 ### Choix du lien principal du programme (`program.main_url`) — règle commune à tous les candidats
 1. Programme présidentiel 2027 publié → ce document (`status: publie`, ou `partiel` s'il est annoncé incomplet).

@@ -12,13 +12,15 @@ npm run preview        # sert le build
 npm run validate-data  # contrôle d'intégrité des données (Zod)
 npm run check-links    # teste toutes les URLs → link-report.md + src/data/link-status.json
 npm run merge-research # fusionne research/candidates/*.json dans src/data/candidates.json
+npm run fetch-votes    # importe les scrutins de l'Assemblée (open data) → src/data/votes.json
+npm run og-images      # régénère les vignettes de partage public/og/*.png (police Inter installée)
 ```
 
 ### Version web et téléphone (GitHub Pages)
 
 Site publié : https://coucou123212321232123.github.io/presidentielle-2027-comparateur/
 
-Le workflow `.github/workflows/pages.yml` reconstruit et publie le site à chaque push sur `main` (dont les mises à jour hebdomadaires des données), via `npm run build:pages`. L'application est installable sur téléphone (manifeste + service worker `public/sw.js`) : iPhone → Safari → Partager → « Sur l'écran d'accueil » ; Android → Chrome → ⋮ → « Installer l'application ». Elle fonctionne hors ligne après une première visite.
+Le workflow `.github/workflows/pages.yml` reconstruit et publie le site à chaque push sur `main` (dont les mises à jour hebdomadaires des données), via `npm run build:pages`. Celui-ci génère aussi, pour chaque adresse partageable (fiches candidats, votes, `/partage/<thème>/` et `/partage/<thème>/<a>/<b>/` pour chaque paire de candidats), une page avec titre, description et vignette (Open Graph) : un lien partagé sur WhatsApp ou un réseau social affiche un aperçu. La version web n'embarque que le résumé des mesures : le détail est chargé candidat par candidat, à la demande. L'application est installable sur téléphone (manifeste + service worker `public/sw.js`) : iPhone → Safari → Partager → « Sur l'écran d'accueil » ; Android → Chrome → ⋮ → « Installer l'application ». Elle fonctionne hors ligne après une première visite.
 
 ### Application Windows (Electron)
 
@@ -40,6 +42,8 @@ Le routage utilise des URLs « propres » (`/candidats/attal`, `/comparateur?the
 | `/comparateur?theme=…&c=a,b&vue=tableau` | Comparateur par thème (2 à 4 candidats), vues colonnes/tableau, indicateurs de convergence, partage, export image/PDF |
 | `/themes` | Matrice thèmes × candidats, détail au clic |
 | `/programmes` | Tableau récapitulatif des programmes |
+| `/votes/:id` | Votes à l'Assemblée sur les grands textes : hémicycle siège par siège, détail par groupe, vote des candidats alors députés |
+| `/partage/:theme/:a?/:b?` | Lien de partage d'une comparaison (aperçu soigné), redirige vers le comparateur |
 | `/methodologie` | Sources, classement, critères d'inclusion, signalement d'erreur |
 
 ## Données (`src/data/`)
@@ -51,6 +55,8 @@ src/data/
   themes.json        # 20 thèmes + indicateurs comparables
   measures/<id>.json # mesures d'un candidat
   meta.json          # date de mise à jour, règle d'inclusion, autres candidatures
+  glossary.json      # sigles expliqués au survol (définition + source officielle)
+  votes.json         # scrutins de l'Assemblée (généré par fetch-votes)
   link-status.json   # généré par check-links
 research/
   SCHEMA.md          # format détaillé et règles de collecte
@@ -80,8 +86,9 @@ research/
 | `source_title`, `source_url`, `source_date`, `source_page` | Source (ancre `#page=N` pour les PDF) |
 | `precision` | `chiffre` · `precis` · `orientation_generale` |
 | `cost` | `{ label, source_label, source_url }` si un chiffrage est publié |
-| `indicator` | `{ key, value }` pour les points de comparaison (ex. `age_legal`, `nucleaire`) |
+| `indicator` | `{ key, value }` (ou une liste) pour les points de comparaison (ex. `age_legal`, `nucleaire`, `otan`) |
 | `last_verified` | Date de vérification |
+| `added` | Date d'ajout à l'outil (badge « Nouveau ») |
 
 ## Mettre à jour les données
 
@@ -92,7 +99,9 @@ research/
 
 **Mettre à jour un programme** : modifiez le bloc `program` (URL principale, `published_date`, `status: "publie"`, livrets dans `thematic_links`), puis vérifiez une capture sur `https://archive.org/wayback/available?url=<url>` pour `archive_url`.
 
-**Ajouter une mesure** : ajoutez un objet dans `src/data/measures/<id>.json` avec une URL ouverte et vérifiée, la date de la source et `last_verified`. Pas de source = pas de mesure.
+**Ajouter une mesure** : ajoutez un objet dans `src/data/measures/<id>.json` avec une URL ouverte et vérifiée, la date de la source, `last_verified` et `added` (date du jour). Pas de source = pas de mesure.
+
+**Signalements** : le bouton « Signaler une erreur » de chaque mesure ouvre un formulaire GitHub pré-rempli (`.github/ISSUE_TEMPLATE/signalement.yml`, label `signalement`), traité par la routine hebdomadaire (`research/UPDATE_PROCEDURE.md`, étape 0).
 
 Puis : `npm run check-links` (met à jour `link-status.json` : un lien cassé bascule automatiquement sur son archive ou affiche « Lien indisponible »), mettez à jour `last_updated` dans `meta.json`, et `npm run build`.
 
@@ -102,4 +111,4 @@ Neutralité stricte (même structure et même ton pour tous, aucun classement ni
 
 ## Stack
 
-Vite · React 19 · TypeScript · Tailwind CSS 4 · Framer Motion · React Router · Zustand · Zod · html-to-image · lucide-react.
+Vite · React 19 · TypeScript · Tailwind CSS 4 · Framer Motion · React Router · Zustand · Zod · html-to-image · lucide-react · fflate et resvg (scripts).

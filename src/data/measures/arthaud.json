@@ -14,7 +14,8 @@
       "key": "smic_net",
       "value": 2200
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-economie-02",
@@ -27,7 +28,8 @@
     "source_date": "2026-06-26",
     "source_page": "p. 9 (PDF p. 11)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-economie-03",
@@ -40,7 +42,8 @@
     "source_date": "2026-06-26",
     "source_page": "p. 12 (PDF p. 14)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-economie-04",
@@ -53,7 +56,8 @@
     "source_date": "2026-06-26",
     "source_page": "p. 12 (PDF p. 14)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-fiscalite-01",
@@ -66,7 +70,8 @@
     "source_date": "2026-06-26",
     "source_page": "p. 12 (PDF p. 14)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-fiscalite-02",
@@ -79,7 +84,8 @@
     "source_date": "2026-09-21",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-emploi-01",
@@ -92,7 +98,8 @@
     "source_date": "2025-05-05",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-emploi-02",
@@ -105,7 +112,8 @@
     "source_date": "2026-06-26",
     "source_page": "p. 10 (PDF p. 12)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-emploi-03",
@@ -118,7 +126,8 @@
     "source_date": "2025-12-15",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-retraites-01",
@@ -131,7 +140,8 @@
     "source_date": "2026-09-28",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-retraites-02",
@@ -144,7 +154,8 @@
     "source_date": "2026-06-26",
     "source_page": "p. 5 (PDF p. 7)",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-energie-01",
@@ -157,7 +168,8 @@
     "source_date": "2026-09-28",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-energie-02",
@@ -170,7 +182,8 @@
     "source_date": "2026-09-29",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-energie-03",
@@ -183,7 +196,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "arthaud-ecologie-01",
@@ -196,7 +210,8 @@
     "source_date": "2026-08-10",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-ecologie-02",
@@ -209,7 +224,8 @@
     "source_date": "2026-08-17",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-agriculture-01",
@@ -222,7 +238,8 @@
     "source_date": "2026-07-20",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-logement-01",
@@ -235,7 +252,8 @@
     "source_date": "2026-07-21",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-logement-02",
@@ -248,7 +266,8 @@
     "source_date": "2026-09-21",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-sante-01",
@@ -261,7 +280,8 @@
     "source_date": "2026-10-04",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-sante-02",
@@ -274,7 +294,8 @@
     "source_date": "2025-05-05",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-education-01",
@@ -287,7 +308,8 @@
     "source_date": "2026-10-04",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-immigration-01",
@@ -300,7 +322,8 @@
     "source_date": "2026-06-26",
     "source_page": "p. 14 (PDF p. 16)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-immigration-02",
@@ -313,7 +336,8 @@
     "source_date": "2026-06-26",
     "source_page": "p. 14 (PDF p. 16)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-immigration-03",
@@ -326,7 +350,8 @@
     "source_date": "2026-09-14",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-institutions-01",
@@ -339,7 +364,8 @@
     "source_date": "2025-12-15",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-europe-01",
@@ -352,7 +378,8 @@
     "source_date": null,
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-international-01",
@@ -365,7 +392,8 @@
     "source_date": "2025-03-10",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-international-02",
@@ -378,7 +406,8 @@
     "source_date": "2025-12-01",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-international-03",
@@ -391,7 +420,8 @@
     "source_date": "2026-03-23",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-international-04",
@@ -404,7 +434,8 @@
     "source_date": "2026-06-26",
     "source_page": "p. 16 (PDF p. 18)",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-numerique-01",
@@ -417,7 +448,8 @@
     "source_date": "2026-09-29",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-services_publics-01",
@@ -430,7 +462,8 @@
     "source_date": "2026-06-26",
     "source_page": "p. 10 (PDF p. 12)",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-services_publics-02",
@@ -443,7 +476,8 @@
     "source_date": "2025-05-05",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-services_publics-03",
@@ -456,7 +490,8 @@
     "source_date": "2026-09-28",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-famille-01",
@@ -469,7 +504,8 @@
     "source_date": "2026-10-04",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "arthaud-famille-02",
@@ -482,6 +518,7 @@
     "source_date": null,
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   }
 ]

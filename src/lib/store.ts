@@ -1,13 +1,16 @@
 import { create } from 'zustand'
 import type { Measure, Precision, SourceType } from '../data/schema'
+import { isNewMeasure, useNovelty } from './novelty'
 
 interface FilterState {
   sourceTypes: SourceType[]
   precisions: Precision[]
   onlyCosted: boolean
+  onlyNew: boolean
   toggleSourceType: (s: SourceType) => void
   togglePrecision: (p: Precision) => void
   setOnlyCosted: (v: boolean) => void
+  setOnlyNew: (v: boolean) => void
   reset: () => void
 }
 
@@ -18,23 +21,27 @@ export const useFilters = create<FilterState>((set) => ({
   sourceTypes: [],
   precisions: [],
   onlyCosted: false,
+  onlyNew: false,
   toggleSourceType: (s) => set((st) => ({ sourceTypes: toggle(st.sourceTypes, s) })),
   togglePrecision: (p) => set((st) => ({ precisions: toggle(st.precisions, p) })),
   setOnlyCosted: (onlyCosted) => set({ onlyCosted }),
-  reset: () => set({ sourceTypes: [], precisions: [], onlyCosted: false }),
+  setOnlyNew: (onlyNew) => set({ onlyNew }),
+  reset: () => set({ sourceTypes: [], precisions: [], onlyCosted: false, onlyNew: false }),
 }))
 
 export const isCosted = (m: Measure) => m.precision === 'chiffre' || Boolean(m.cost)
 
 export function useMeasureFilter() {
-  const { sourceTypes, precisions, onlyCosted } = useFilters()
-  const active = sourceTypes.length > 0 || precisions.length > 0 || onlyCosted
+  const { sourceTypes, precisions, onlyCosted, onlyNew } = useFilters()
+  const since = useNovelty((s) => s.since)
+  const active = sourceTypes.length > 0 || precisions.length > 0 || onlyCosted || onlyNew
   const apply = (list: Measure[]) =>
     list.filter(
       (m) =>
         (sourceTypes.length === 0 || sourceTypes.includes(m.source_type)) &&
         (precisions.length === 0 || precisions.includes(m.precision)) &&
-        (!onlyCosted || isCosted(m)),
+        (!onlyCosted || isCosted(m)) &&
+        (!onlyNew || isNewMeasure(m, since)),
     )
   return { apply, active }
 }

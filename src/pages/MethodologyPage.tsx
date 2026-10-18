@@ -1,11 +1,14 @@
 import type { ReactNode } from 'react'
-import { candidateById, candidates, changelog, meta, totalMeasures } from '../data'
+import { Link } from 'react-router-dom'
+import { Flag } from 'lucide-react'
+import { candidateById, candidates, changelog, glossary, meta, themes, totalMeasures } from '../data'
 import { PrecisionBadge, SourceTypeBadge } from '../components/Badges'
 import { ExternalLink } from '../components/ExternalLink'
 import { Card, PageHeader } from '../components/ui'
 import { PRECISION_LABELS, SOURCE_TYPE_LABELS } from '../lib/labels'
 import type { Precision, SourceType } from '../data/schema'
 import { formatDate, formatShortDate, fullName } from '../lib/format'
+import { reportUrl } from '../lib/report'
 
 function Section({ title, children }: { title: string; children: ReactNode }) {
   return (
@@ -107,9 +110,39 @@ export default function MethodologyPage() {
 
       <Section title="Points de comparaison">
         <p>
-          Pour certains thèmes (âge de départ à la retraite, nucléaire, SMIC, ISF, proportionnelle, référendum sur l'immigration, rapport à
-          l'Union européenne), le comparateur indique si les candidats sélectionnés ont la même position ou des positions différentes —
-          uniquement lorsque cette position est explicitement énoncée dans une source.
+          Pour certains thèmes, le comparateur indique si les candidats sélectionnés ont la même position ou des positions différentes —
+          uniquement lorsque la valeur est écrite telle quelle dans la source (« 64 ans », « sortir du commandement intégré de l'OTAN »…).
+          Toute interprétation est exclue : sinon, « Non précisé ».
+        </p>
+        <ul className="grid gap-x-6 gap-y-1 text-sm sm:grid-cols-2">
+          {themes.flatMap((t) =>
+            t.indicators.map((d) => (
+              <li key={d.key}>
+                <span className="text-ink">{d.label}</span> <span className="text-muted">· {t.short}</span>
+              </li>
+            )),
+          )}
+        </ul>
+      </Section>
+
+      <Section title="Votes à l'Assemblée">
+        <p>
+          La page <Link to="/votes" className="text-accent hover:underline">Votes</Link> présente quelques grands textes (retraites,
+          immigration, budgets, Constitution, fin de vie) avec le décompte officiel par groupe politique et le vote personnel des candidats
+          qui étaient alors députés. Les chiffres sont importés automatiquement des données ouvertes de l'Assemblée nationale
+          (data.assemblee-nationale.fr), sans saisie manuelle, et étiquetés « Vote / bilan ». Seuls les scrutins publics de l'Assemblée sont
+          couverts : les votes au Sénat ou au Parlement européen n'y figurent pas.
+        </p>
+      </Section>
+
+      <Section title="Badge « Nouveau » et glossaire">
+        <p>
+          Chaque mesure porte sa date d'ajout. Le badge « Nouveau » signale celles ajoutées depuis votre dernière visite (à la première
+          visite : celles de la dernière mise à jour). Cette date est conservée uniquement dans votre navigateur.
+        </p>
+        <p>
+          Les {glossary.length} sigles les plus fréquents (ISF, PFU, EPR2, AME…) sont soulignés en pointillé : une définition courte et sourcée
+          s'affiche au survol, ou au toucher sur téléphone.
         </p>
       </Section>
 
@@ -157,9 +190,21 @@ export default function MethodologyPage() {
 
       <Section title="Signaler une erreur">
         <p>
-          Une mesure mal résumée, une source cassée, une position manquante ? Les données sont de simples fichiers JSON dans{' '}
-          <code>src/data/</code> : signalez l'erreur au mainteneur de l'outil en indiquant le candidat, la mesure (identifiant affiché dans
-          l'URL ou le titre) et la source correcte. Toute correction est vérifiée sur le document officiel avant publication.
+          Une mesure mal résumée, une source cassée, une position manquante ? Chaque mesure comporte un lien « Signaler une erreur » qui
+          ouvre un formulaire pré-rempli (mesure, candidat, source) sur le dépôt GitHub de l'outil ; un compte GitHub gratuit est nécessaire.
+          Les signalements sont traités chaque semaine avec la même contre-vérification que les mises à jour : rien n'est corrigé sans
+          source.
+        </p>
+        <p>
+          <a
+            href={reportUrl()}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-1.5 rounded-full border border-line bg-surface px-4 py-2 text-sm font-semibold text-ink-2 hover:text-ink"
+          >
+            <Flag className="size-4" aria-hidden="true" /> Signaler une erreur
+            <span className="sr-only"> (s'ouvre dans un nouvel onglet)</span>
+          </a>
         </p>
       </Section>
     </div>

@@ -8,6 +8,8 @@ import { join, basename } from 'node:path'
 import {
   CandidateSchema,
   ChangelogSchema,
+  GlossarySchema,
+  VotesFileSchema,
   LinkStatusSchema,
   MeasureFileSchema,
   MetaSchema,
@@ -16,6 +18,7 @@ import {
   type Candidate,
   type Theme,
 } from '../src/data/schema.ts'
+import { indicatorsOf } from '../src/data/summary.ts'
 
 const DATA = join(import.meta.dirname, '..', 'src', 'data')
 const errors: string[] = []
@@ -51,6 +54,18 @@ const linkParsed = LinkStatusSchema.safeParse(readJson(join(DATA, 'link-status.j
 if (!linkParsed.success) zodIssues('link-status.json', linkParsed.error.issues)
 const changelogParsed = ChangelogSchema.safeParse(readJson(join(DATA, 'changelog.json')))
 if (!changelogParsed.success) zodIssues('changelog.json', changelogParsed.error.issues)
+const votesParsed = VotesFileSchema.safeParse(readJson(join(DATA, 'votes.json')))
+if (!votesParsed.success) zodIssues('votes.json', votesParsed.error.issues)
+const glossaryParsed = GlossarySchema.safeParse(readJson(join(DATA, 'glossary.json')))
+if (!glossaryParsed.success) zodIssues('glossary.json', glossaryParsed.error.issues)
+else {
+  const seen = new Set<string>()
+  for (const g of glossaryParsed.data)
+    for (const form of [g.term, ...g.aliases]) {
+      if (seen.has(form)) errors.push(`glossary.json : « ${form} » défini plusieurs fois`)
+      seen.add(form)
+    }
+}
 
 // Candidats
 const candParsed = CandidateSchema.array().safeParse(readJson(join(DATA, 'candidates.json')))
@@ -87,15 +102,16 @@ for (const file of files) {
     if (measureIds.has(m.id)) errors.push(`measures/${file} : id de mesure dupliqué « ${m.id} »`)
     measureIds.add(m.id)
     if (!m.source_date) warnings.push(`measures/${file} › ${m.id} : date de source inconnue`)
-    if (m.indicator) {
-      const def = themes.find((t) => t.id === m.theme)?.indicators.find((d) => d.key === m.indicator!.key)
-      if (!def) errors.push(`measures/${file} › ${m.id} : indicateur « ${m.indicator.key} » non défini pour le thème ${m.theme}`)
-      else if (def.type === 'number' && typeof m.indicator.value !== 'number')
+    for (const ind of indicatorsOf(m)) {
+      // Un point de comparaison est affiché dans un thème, mais la mesure qui l'énonce peut relever d'un autre thème.
+      const def = themes.flatMap((t) => t.indicators).find((d) => d.key === ind.key)
+      if (!def) errors.push(`measures/${file} › ${m.id} : indicateur « ${ind.key} » non défini`)
+      else if (def.type === 'number' && typeof ind.value !== 'number')
         errors.push(`measures/${file} › ${m.id} : l'indicateur ${def.key} attend un nombre`)
-      else if (def.type === 'enum' && !(String(m.indicator.value) in (def.options ?? {})))
-        errors.push(`measures/${file} › ${m.id} : valeur « ${m.indicator.value} » invalide pour ${def.key}`)
-      if (seenIndicators.has(m.indicator.key)) errors.push(`measures/${file} : indicateur ${m.indicator.key} présent plusieurs fois`)
-      seenIndicators.add(m.indicator.key)
+      else if (def.type === 'enum' && !(String(ind.value) in (def.options ?? {})))
+        errors.push(`measures/${file} › ${m.id} : valeur « ${ind.value} » invalide pour ${def.key}`)
+      if (seenIndicators.has(ind.key)) errors.push(`measures/${file} : indicateur ${ind.key} présent plusieurs fois`)
+      seenIndicators.add(ind.key)
     }
   }
 }

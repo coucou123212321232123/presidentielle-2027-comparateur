@@ -1,6 +1,7 @@
 /**
- * Assemble toutes les données en un seul paquet `public-data/data.json`, publié en ligne et
- * téléchargé par l'application au démarrage. Le paquet est validé intégralement avant écriture.
+ * Assemble toutes les données en un seul paquet `public-data/data-v2.json`, publié en ligne et
+ * téléchargé par l'application de bureau au démarrage. Le paquet est validé intégralement avant écriture.
+ * `public-data/data.json` reste publié au format 1 pour les applications installées avant la version 2.
  */
 import { mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs'
 import { basename, join } from 'node:path'
@@ -17,7 +18,7 @@ const measures = Object.fromEntries(
 )
 
 const parsed = DataBundleSchema.safeParse({
-  version: 1,
+  version: 2,
   generated_at: new Date().toISOString(),
   meta: read('meta.json'),
   themes: read('themes.json'),
@@ -25,6 +26,8 @@ const parsed = DataBundleSchema.safeParse({
   measures,
   link_status: read('link-status.json'),
   changelog: read('changelog.json'),
+  glossary: read('glossary.json'),
+  votes: read('votes.json'),
 })
 
 if (!parsed.success) {
@@ -33,8 +36,20 @@ if (!parsed.success) {
 }
 
 mkdirSync(join(ROOT, 'public-data'), { recursive: true })
-writeFileSync(join(ROOT, 'public-data', 'data.json'), JSON.stringify(parsed.data))
+writeFileSync(join(ROOT, 'public-data', 'data-v2.json'), JSON.stringify(parsed.data))
+// Format 1 : un seul indicateur par mesure (le premier) ; les champs ajoutés depuis sont ignorés par ces versions.
+const legacy = {
+  ...parsed.data,
+  version: 1,
+  measures: Object.fromEntries(
+    Object.entries(parsed.data.measures).map(([id, list]) => [
+      id,
+      list.map((m) => ({ ...m, indicator: Array.isArray(m.indicator) ? m.indicator[0] : m.indicator })),
+    ]),
+  ),
+}
+writeFileSync(join(ROOT, 'public-data', 'data.json'), JSON.stringify(legacy))
 // Horodatage repris par l'application : des données intégrées identiques à la version en ligne ne déclenchent pas de mise à jour.
 writeFileSync(join(DATA, 'bundle-info.json'), JSON.stringify({ generated_at: parsed.data.generated_at }, null, 2) + '\n')
 const count = Object.values(parsed.data.measures).reduce((n, l) => n + l.length, 0)
-console.log(`✔ public-data/data.json : ${parsed.data.candidates.length} candidats, ${count} mesures (données du ${parsed.data.meta.last_updated})`)
+console.log(`✔ public-data/data-v2.json : ${parsed.data.candidates.length} candidats, ${count} mesures (données du ${parsed.data.meta.last_updated})`)

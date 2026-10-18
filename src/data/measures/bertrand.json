@@ -10,7 +10,8 @@
     "source_date": "2026-08-19",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-economie-02",
@@ -23,7 +24,8 @@
     "source_date": "2026-04-15",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-economie-03",
@@ -36,7 +38,8 @@
     "source_date": "2025-10-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-fiscalite-01",
@@ -49,7 +52,8 @@
     "source_date": "2025-10-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-fiscalite-02",
@@ -62,7 +66,8 @@
     "source_date": "2025-10-26",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-fiscalite-03",
@@ -75,7 +80,8 @@
     "source_date": "2026-08-19",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-emploi-01",
@@ -88,7 +94,8 @@
     "source_date": "2025-11-08",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-emploi-02",
@@ -101,7 +108,8 @@
     "source_date": "2025-10-26",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-retraites-01",
@@ -114,7 +122,8 @@
     "source_date": "2026-08-19",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-retraites-02",
@@ -127,7 +136,8 @@
     "source_date": "2026-08-19",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-ecologie-01",
@@ -140,7 +150,8 @@
     "source_date": "2026-08-03",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-agriculture-01",
@@ -153,7 +164,12 @@
     "source_date": "2026-01-08",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "indicator": {
+      "key": "mercosur",
+      "value": "contre"
+    },
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-agriculture-02",
@@ -166,7 +182,8 @@
     "source_date": "2026-01-10",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-logement-01",
@@ -179,7 +196,8 @@
     "source_date": "2026-08-04",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-sante-01",
@@ -192,7 +210,8 @@
     "source_date": "2026-01-10",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-sante-02",
@@ -205,7 +224,8 @@
     "source_date": "2026-08-19",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-education-01",
@@ -218,7 +238,8 @@
     "source_date": "2025-10-25",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-education-02",
@@ -231,7 +252,8 @@
     "source_date": "2026-08-03",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-securite-01",
@@ -244,7 +266,8 @@
     "source_date": "2025-10-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-securite-02",
@@ -257,7 +280,8 @@
     "source_date": "2026-03-30",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-immigration-01",
@@ -270,7 +294,8 @@
     "source_date": "2025-10-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-immigration-02",
@@ -283,7 +308,8 @@
     "source_date": "2026-05-08",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-institutions-01",
@@ -296,7 +322,8 @@
     "source_date": "2026-08-04",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-institutions-02",
@@ -309,7 +336,8 @@
     "source_date": "2025-10-25",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-institutions-03",
@@ -322,7 +350,8 @@
     "source_date": "2026-05-01",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-europe-01",
@@ -335,7 +364,8 @@
     "source_date": "2026-01-10",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-international-01",
@@ -348,7 +378,8 @@
     "source_date": "2026-01-10",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-culture-01",
@@ -361,7 +392,8 @@
     "source_date": "2026-08-03",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-culture-02",
@@ -374,7 +406,8 @@
     "source_date": "2026-01-06",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-culture-03",
@@ -387,7 +420,8 @@
     "source_date": "2026-05-01",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-services_publics-01",
@@ -400,7 +434,8 @@
     "source_date": "2026-07-05",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-services_publics-02",
@@ -413,7 +448,8 @@
     "source_date": "2026-05-01",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "bertrand-services_publics-03",
@@ -426,6 +462,7 @@
     "source_date": "2025-10-30",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   }
 ]

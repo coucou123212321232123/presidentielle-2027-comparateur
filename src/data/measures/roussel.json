@@ -10,7 +10,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 9",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-economie-02",
@@ -23,7 +24,8 @@
     "source_date": "2026-09-11",
     "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-economie-03",
@@ -36,7 +38,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 11",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-economie-04",
@@ -49,7 +52,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 45",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-economie-07",
@@ -62,7 +66,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 45-46",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-fiscalite-01",
@@ -75,7 +80,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 42",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-fiscalite-02",
@@ -88,7 +94,8 @@
     "source_date": "2026-09-06",
     "source_page": null,
     "precision": "precis",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-fiscalite-03",
@@ -101,7 +108,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 37",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-fiscalite-04",
@@ -114,7 +122,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 36 et 40",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-emploi-01",
@@ -127,7 +136,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 7",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-emploi-02",
@@ -140,7 +150,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 11",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-emploi-03",
@@ -153,7 +164,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 43",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-emploi-04",
@@ -166,7 +178,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 9",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-retraites-01",
@@ -188,7 +201,8 @@
       "key": "age_legal",
       "value": 60
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-retraites-02",
@@ -201,7 +215,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 21",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-retraites-03",
@@ -214,7 +229,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 21",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-retraites-04",
@@ -227,7 +243,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 43",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-energie-01",
@@ -240,7 +257,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 47",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-energie-02",
@@ -253,7 +271,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 47",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-energie-03",
@@ -266,7 +285,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 9",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-ecologie-01",
@@ -279,7 +299,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 47",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-ecologie-02",
@@ -292,7 +313,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 19",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-ecologie-03",
@@ -305,7 +327,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 11",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-ecologie-04",
@@ -318,7 +341,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 13-14",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-ecologie-05",
@@ -331,7 +355,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 17",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-agriculture-01",
@@ -344,7 +369,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 46",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-agriculture-02",
@@ -357,7 +383,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 45",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-agriculture-03",
@@ -370,7 +397,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 46",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-agriculture-04",
@@ -383,7 +411,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 46",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-logement-01",
@@ -396,7 +425,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 13",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-logement-02",
@@ -409,7 +439,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 16",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-logement-03",
@@ -422,7 +453,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 29",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-logement-04",
@@ -435,7 +467,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 12",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-logement-05",
@@ -448,7 +481,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 15",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-logement-06",
@@ -461,7 +495,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 26",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-logement-07",
@@ -474,7 +509,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 35",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-sante-01",
@@ -487,7 +523,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 43",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-sante-02",
@@ -500,7 +537,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 48",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-sante-03",
@@ -513,7 +551,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 31-32 et 43",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-sante-04",
@@ -526,7 +565,8 @@
     "source_date": "2026-10-06",
     "source_page": "p. 6",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-education-01",
@@ -539,7 +579,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 50",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-education-02",
@@ -552,7 +593,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 50",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-education-03",
@@ -570,7 +612,8 @@
       "source_label": "Chiffrage du Plan Jeunesse 2027-2032",
       "source_url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=11"
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-education-04",
@@ -583,7 +626,8 @@
     "source_date": "2026-10-06",
     "source_page": "p. 5",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-education-05",
@@ -596,7 +640,8 @@
     "source_date": "2026-10-06",
     "source_page": "p. 7",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-education-06",
@@ -609,7 +654,8 @@
     "source_date": "2026-10-06",
     "source_page": "p. 8",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-securite-01",
@@ -622,7 +668,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 36",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-securite-02",
@@ -635,7 +682,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 36",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-securite-03",
@@ -648,7 +696,8 @@
     "source_date": "2026-10-05",
     "source_page": "p. 2",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-immigration-01",
@@ -661,7 +710,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 39",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-immigration-02",
@@ -674,7 +724,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 39",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-immigration-03",
@@ -687,7 +738,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 39",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-institutions-01",
@@ -700,7 +752,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 35",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-institutions-02",
@@ -713,7 +766,12 @@
     "source_date": "2026-07-15",
     "source_page": "p. 35",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "indicator": {
+      "key": "ric",
+      "value": "oui"
+    },
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-institutions-03",
@@ -726,7 +784,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 34",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-institutions-04",
@@ -739,7 +798,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 35",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-europe-01",
@@ -752,7 +812,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 30",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-europe-02",
@@ -765,7 +826,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 31",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-europe-03",
@@ -778,7 +840,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 30",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-international-01",
@@ -791,7 +854,12 @@
     "source_date": "2026-07-15",
     "source_page": "p. 30",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "indicator": {
+      "key": "otan",
+      "value": "sortie"
+    },
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-international-02",
@@ -804,7 +872,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 32",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-international-03",
@@ -817,7 +886,8 @@
     "source_date": "2026-09-11",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-international-04",
@@ -830,7 +900,8 @@
     "source_date": "2026-05-28",
     "source_page": "p. 40",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-international-05",
@@ -843,7 +914,8 @@
     "source_date": "2026-05-28",
     "source_page": "p. 58-59",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-international-06",
@@ -856,7 +928,8 @@
     "source_date": "2026-05-28",
     "source_page": "p. 38",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-international-07",
@@ -869,7 +942,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 32",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-numerique-01",
@@ -882,7 +956,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 50",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-numerique-02",
@@ -895,7 +970,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 49",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-culture-01",
@@ -908,7 +984,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 50",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-culture-02",
@@ -921,7 +998,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 33",
     "precision": "orientation_generale",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-outre_mer-01",
@@ -934,7 +1012,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 32",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-services_publics-01",
@@ -947,7 +1026,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 9",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-services_publics-02",
@@ -960,7 +1040,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 48",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-services_publics-03",
@@ -978,7 +1059,8 @@
       "source_label": "Estimation du cahier thématique Mobilité du PCF",
       "source_url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf#page=18"
     },
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-services_publics-04",
@@ -991,7 +1073,8 @@
     "source_date": "2026-09-11",
     "source_page": null,
     "precision": "orientation_generale",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-10-15",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-services_publics-05",
@@ -1004,7 +1087,8 @@
     "source_date": "2026-10-05",
     "source_page": "p. 2",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-services_publics-06",
@@ -1017,7 +1101,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 9",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-famille-01",
@@ -1030,7 +1115,8 @@
     "source_date": "2026-07-15",
     "source_page": "p. 37",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-famille-02",
@@ -1043,7 +1129,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 43",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-famille-03",
@@ -1056,7 +1143,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 11",
     "precision": "chiffre",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-15"
   },
   {
     "id": "roussel-famille-04",
@@ -1069,7 +1157,8 @@
     "source_date": "2025-12-18",
     "source_page": "p. 9",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   },
   {
     "id": "roussel-famille-05",
@@ -1082,6 +1171,7 @@
     "source_date": "2026-07-15",
     "source_page": "p. 37",
     "precision": "precis",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-10-16",
+    "added": "2026-10-17"
   }
 ]

@@ -8,12 +8,14 @@ import { formatShortDate } from '../lib/format'
 import { useColorMode } from '../lib/store'
 import { cx } from './ui'
 import { ErrorBoundary } from './ErrorBoundary'
+import { GlossaryTooltip } from './Glossary'
 
 const NAV = [
   { to: '/', label: 'Candidats', end: true },
   { to: '/comparateur', label: 'Comparateur' },
   { to: '/themes', label: 'Thèmes' },
   { to: '/programmes', label: 'Programmes' },
+  { to: '/votes', label: 'Votes' },
   { to: '/methodologie', label: 'Méthodologie' },
 ]
 
@@ -199,6 +201,7 @@ export function Layout() {
         </motion.div>
       </main>
       <Footer />
+      <GlossaryTooltip />
     </div>
   )
 }
