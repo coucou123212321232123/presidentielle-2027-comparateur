@@ -25,7 +25,7 @@ function ResultBadge({ s }: { s: Scrutin }) {
 function Detail({ s }: { s: Scrutin }) {
   const theme = themeById[s.theme]
   return (
-    <motion.article key={s.id} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.25 }} className="space-y-5">
+    <motion.article key={s.id} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.25 }} className="min-w-0 space-y-5">
       <Card className="p-5 sm:p-6">
         <div className="mb-3 flex flex-wrap items-center gap-2">
           <SourceTypeBadge type="vote_ou_bilan" />
@@ -87,15 +87,15 @@ function Detail({ s }: { s: Scrutin }) {
           Vote personnel tel qu'enregistré par l'Assemblée. Les autres candidats n'étaient pas députés à cette date.
         </p>
         {s.candidates.length ? (
-          <ul className="grid gap-2 sm:grid-cols-2">
+          <ul className="grid grid-cols-1 gap-2 sm:grid-cols-2">
             {s.candidates.map((p) => {
               const c = candidateById[p.candidate]
               if (!c) return null
               return (
                 <li key={p.candidate}>
-                  <Link to={`/candidats/${c.id}`} className="flex items-center gap-3 rounded-xl border border-line p-3 hover:bg-surface-2/60">
+                  <Link to={`/candidats/${c.id}`} className="flex flex-wrap items-center gap-3 rounded-xl border border-line p-3 hover:bg-surface-2/60">
                     <CandidateAvatar candidate={c} size="md" decorative />
-                    <span className="min-w-0 flex-1">
+                    <span className="min-w-0 flex-1 basis-36">
                       <span className="block truncate font-semibold text-ink">{fullName(c)}</span>
                       <span className="block text-xs text-muted">{p.group ? `Groupe ${p.group}` : 'Député(e)'}</span>
                     </span>
@@ -192,8 +192,8 @@ export default function VotesPage() {
           Les votes sont importés depuis les données ouvertes de l'Assemblée nationale.
         </EmptyState>
       ) : (
-        <div className="grid gap-6 lg:grid-cols-[minmax(0,19rem)_minmax(0,1fr)]">
-          <nav aria-label="Scrutins" className="lg:sticky lg:top-24 lg:self-start">
+        <div className="grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,19rem)_minmax(0,1fr)]">
+          <nav aria-label="Scrutins" className="min-w-0 lg:sticky lg:top-24 lg:self-start">
             <ul className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-2 scrollbar-thin lg:mx-0 lg:flex-col lg:overflow-visible lg:px-0">
               {list.map((s) => {
                 const active = s.id === current.id

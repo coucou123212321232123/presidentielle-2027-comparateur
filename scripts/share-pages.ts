@@ -87,7 +87,7 @@ for (const c of candidates) {
 function indicator(def: IndicatorDef, c: Candidate) {
   for (const m of measures[c.id] ?? []) {
     const ind = indicatorsOf(m).find((i) => i.key === def.key)
-    if (ind) return def.type === 'enum' ? (def.options?.[String(ind.value)] ?? String(ind.value)) : `${ind.value}${def.unit ? ` ${def.unit}` : ''}`
+    if (ind) return def.type === 'enum' ? (def.options?.[String(ind.value)] ?? String(ind.value)) : `${ind.value.toLocaleString('fr-FR')}${def.unit ? ` ${def.unit}` : ''}`
   }
   return 'non précisé'
 }

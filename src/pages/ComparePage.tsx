@@ -28,7 +28,7 @@ function indicatorValue(def: IndicatorDef, list: Measure[] | undefined) {
     const ind = indicatorsOf(m).find((i) => i.key === def.key)
     if (!ind) continue
     const v = ind.value
-    return { raw: String(v), label: def.type === 'enum' ? (def.options?.[String(v)] ?? String(v)) : `${v}${def.unit ? ` ${def.unit}` : ''}`, measure: m }
+    return { raw: String(v), label: def.type === 'enum' ? (def.options?.[String(v)] ?? String(v)) : `${v.toLocaleString('fr-FR')}${def.unit ? ` ${def.unit}` : ''}`, measure: m }
   }
   return null
 }
@@ -41,7 +41,7 @@ function Indicators({ theme, selected, all }: { theme: Theme; selected: Candidat
       <h2 className="mb-1 flex items-center gap-2 text-sm font-semibold text-ink">
         <GitCompareArrows className="size-4 text-muted" aria-hidden="true" /> Points de comparaison factuels
       </h2>
-      <p className="mb-4 text-xs text-muted">Uniquement lorsque la position est explicitement énoncée dans une source. Sinon : « Non précisé ».</p>
+      <p className="mb-4 text-xs text-muted">Uniquement lorsque la valeur est écrite telle quelle dans une source (cliquez pour l'ouvrir). Sinon : « Non précisé ».</p>
       <div className="space-y-4">
         {theme.indicators.map((def) => {
           const values = selected.map((c) => ({ c, v: indicatorValue(def, all[c.id]) }))

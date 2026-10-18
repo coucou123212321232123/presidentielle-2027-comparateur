@@ -123,8 +123,7 @@ export function Hemicycle({ scrutin }: { scrutin: Scrutin }) {
 
       <figcaption className="mt-3 flex flex-wrap gap-x-4 gap-y-1.5 text-xs text-ink-2">
         {mode === 'vote'
-          ? VOTE_ORDER.filter((v) => v !== 'absent' || scrutin.groups.some((g) => g.absent > 0))
-              .filter((v) => !scrutin.censure || v === 'pour' || v === 'absent')
+          ? VOTE_ORDER.filter((v) => scrutin.groups.some((g) => g[v] > 0) || v === 'pour' || (!scrutin.censure && v === 'contre'))
               .map((v) => (
                 <span key={v} className="inline-flex items-center gap-1.5">
                   <span
