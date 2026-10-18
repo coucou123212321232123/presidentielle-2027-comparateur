@@ -254,6 +254,27 @@ export const VotesFileSchema = z.object({
   scrutins: z.array(ScrutinSchema),
 })
 
+const VoteArgumentSchema = z.object({
+  /** Sigles des groupes qui ont avancé l'argument (et voté dans ce sens). */
+  groups: z.array(z.string()).min(1),
+  text: z.string().min(1).max(400),
+  source_label: z.string().min(1),
+  source_url: httpUrl,
+})
+
+/** Contenu d'un texte voté et arguments rapportés de chaque camp, avec leurs sources (research/votes/explications). */
+export const VoteExplanationSchema = z.object({
+  id: z.string().regex(/^l\d+-\d+$/),
+  summary: z.string().min(1),
+  arguments: z.object({
+    pour: z.array(VoteArgumentSchema),
+    contre: z.array(VoteArgumentSchema),
+    abstention: z.array(VoteArgumentSchema).optional(),
+  }),
+  sources: z.array(z.object({ label: z.string().min(1), url: httpUrl })),
+})
+export const VoteExplanationsSchema = z.array(VoteExplanationSchema)
+
 /**
  * Index de recherche : tous les votes sur l'ensemble d'un texte, votes solennels, motions de censure et
  * déclarations du gouvernement des législatures couvertes. Format compact, chargé à la demande.
@@ -293,6 +314,7 @@ export const DataBundleSchema = z.object({
   changelog: ChangelogSchema,
   glossary: GlossarySchema,
   votes: VotesFileSchema,
+  vote_explanations: VoteExplanationsSchema.optional(),
 })
 
 export type ThemeId = z.infer<typeof ThemeIdSchema>
@@ -318,4 +340,6 @@ export type VotePosition = z.infer<typeof VotePositionSchema>
 export type Scrutin = z.infer<typeof ScrutinSchema>
 export type VotesFile = z.infer<typeof VotesFileSchema>
 export type VotesIndex = z.infer<typeof VotesIndexSchema>
+export type VoteExplanation = z.infer<typeof VoteExplanationSchema>
+export type VoteArgument = z.infer<typeof VoteArgumentSchema>
 

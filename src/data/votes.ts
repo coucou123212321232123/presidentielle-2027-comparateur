@@ -1,10 +1,16 @@
 import { useEffect, useState } from 'react'
-import type { Scrutin, ThemeId, VotesFile, VotesIndex } from './schema'
+import type { Scrutin, ThemeId, VoteExplanation, VotesFile, VotesIndex } from './schema'
 import votesRaw from './votes.json'
+import explanationsRaw from './votes-explanations.json'
 import { cachedData } from '.'
 
 // Module à part : les votes ne sont chargés qu'avec les pages qui les affichent (Votes, fiches candidats).
 export const votes: VotesFile = cachedData?.votes ?? (votesRaw as VotesFile)
+
+/** Contenu du texte et arguments de chaque camp, par identifiant de scrutin. */
+export const explanations = new Map<string, VoteExplanation>(
+  (cachedData?.vote_explanations ?? (explanationsRaw as VoteExplanation[])).map((e) => [e.id, e]),
+)
 
 export type IndexKind = VotesIndex['scrutins'][number]['kind']
 
