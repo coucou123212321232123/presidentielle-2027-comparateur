@@ -1,8 +1,560 @@
 {
-  "generated_at": "2026-10-18T11:57:59.541Z",
+  "generated_at": "2026-10-18T12:00:36.638Z",
   "source_label": "Assemblée nationale – données ouvertes (scrutins, députés et groupes)",
   "source_url": "https://data.assemblee-nationale.fr/",
   "scrutins": [
+    {
+      "id": "l17-8280",
+      "legislature": 17,
+      "numero": 8280,
+      "date": "2026-07-15",
+      "short_title": "Aide à mourir : adoption définitive",
+      "theme": "famille",
+      "context": "Vote en lecture définitive de la proposition de loi relative au droit à l'aide à mourir : faute d'accord avec le Sénat, l'Assemblée a statué en dernier. En première lecture, le 27 mai 2025, le texte avait été adopté par 305 voix contre 199.",
+      "official_title": "L'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
+      "vote_type": "scrutin public solennel",
+      "censure": false,
+      "result": "adopte",
+      "majority_required": 267,
+      "totals": {
+        "pour": 291,
+        "contre": 241,
+        "abstention": 29,
+        "non_votant": 0
+      },
+      "groups": [
+        {
+          "ref": "PO845413",
+          "short": "LFI-NFP",
+          "label": "La France insoumise - Nouveau Front Populaire",
+          "color": "#C00D0D",
+          "members": 71,
+          "pour": 61,
+          "contre": 2,
+          "abstention": 3,
+          "non_votant": 3,
+          "absent": 2
+        },
+        {
+          "ref": "PO845514",
+          "short": "GDR",
+          "label": "Gauche Démocrate et Républicaine",
+          "color": "#830E21",
+          "members": 18,
+          "pour": 10,
+          "contre": 2,
+          "abstention": 3,
+          "non_votant": 3,
+          "absent": 0
+        },
+        {
+          "ref": "PO845439",
+          "short": "ECOS",
+          "label": "Écologiste et Social",
+          "color": "#77AA79",
+          "members": 38,
+          "pour": 33,
+          "contre": 2,
+          "abstention": 1,
+          "non_votant": 1,
+          "absent": 1
+        },
+        {
+          "ref": "PO845419",
+          "short": "SOC",
+          "label": "Socialistes et apparentés",
+          "color": "#F5B4CE",
+          "members": 73,
+          "pour": 57,
+          "contre": 4,
+          "abstention": 6,
+          "non_votant": 6,
+          "absent": 0
+        },
+        {
+          "ref": "PO845485",
+          "short": "LIOT",
+          "label": "Libertés, Indépendants, Outre-mer et Territoires",
+          "color": "#FFD96F",
+          "members": 26,
+          "pour": 10,
+          "contre": 8,
+          "abstention": 4,
+          "non_votant": 4,
+          "absent": 0
+        },
+        {
+          "ref": "PO845454",
+          "short": "DEM",
+          "label": "Les Démocrates",
+          "color": "#F07E26",
+          "members": 37,
+          "pour": 20,
+          "contre": 16,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 1
+        },
+        {
+          "ref": "PO845407",
+          "short": "EPR",
+          "label": "Ensemble pour la République",
+          "color": "#7B4591",
+          "members": 100,
+          "pour": 64,
+          "contre": 18,
+          "abstention": 9,
+          "non_votant": 9,
+          "absent": 0
+        },
+        {
+          "ref": "PO845470",
+          "short": "HOR",
+          "label": "Horizons & Indépendants",
+          "color": "#B5E2F9",
+          "members": 36,
+          "pour": 16,
+          "contre": 18,
+          "abstention": 1,
+          "non_votant": 1,
+          "absent": 0
+        },
+        {
+          "ref": "PO845425",
+          "short": "DR",
+          "label": "Droite Républicaine",
+          "color": "#8CB0DC",
+          "members": 50,
+          "pour": 5,
+          "contre": 41,
+          "abstention": 2,
+          "non_votant": 2,
+          "absent": 0
+        },
+        {
+          "ref": "PO872880",
+          "short": "UDDPLR",
+          "label": "Union des droites pour la République",
+          "color": "#3367A7",
+          "members": 17,
+          "pour": 0,
+          "contre": 17,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845401",
+          "short": "RN",
+          "label": "Rassemblement National",
+          "color": "#313567",
+          "members": 122,
+          "pour": 12,
+          "contre": 106,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 4
+        },
+        {
+          "ref": "PO840056",
+          "short": "NI",
+          "label": "Non inscrit",
+          "color": "#8D949A",
+          "members": 10,
+          "pour": 3,
+          "contre": 7,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        }
+      ],
+      "candidates": [
+        {
+          "candidate": "attal",
+          "group": "EPR",
+          "vote": "pour"
+        },
+        {
+          "candidate": "le-pen",
+          "group": "RN",
+          "vote": "contre"
+        },
+        {
+          "candidate": "ruffin",
+          "group": "ECOS",
+          "vote": "pour"
+        }
+      ],
+      "source_url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280"
+    },
+    {
+      "id": "l17-4758",
+      "legislature": 17,
+      "numero": 4758,
+      "date": "2025-12-16",
+      "short_title": "Budget de la Sécurité sociale 2026 : vote définitif",
+      "theme": "economie",
+      "context": "Vote en lecture définitive du projet de loi de financement de la sécurité sociale pour 2026 : faute d'accord avec le Sénat, l'Assemblée a statué en dernier.",
+      "official_title": "L'ensemble du projet de loi de financement de la sécurité sociale pour 2026 (lecture définitive).",
+      "vote_type": "scrutin public solennel",
+      "censure": false,
+      "result": "adopte",
+      "majority_required": 240,
+      "totals": {
+        "pour": 247,
+        "contre": 232,
+        "abstention": 90,
+        "non_votant": 0
+      },
+      "groups": [
+        {
+          "ref": "PO845413",
+          "short": "LFI-NFP",
+          "label": "La France insoumise - Nouveau Front Populaire",
+          "color": "#C00D0D",
+          "members": 71,
+          "pour": 0,
+          "contre": 69,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 2
+        },
+        {
+          "ref": "PO845514",
+          "short": "GDR",
+          "label": "Gauche Démocrate et Républicaine",
+          "color": "#830E21",
+          "members": 17,
+          "pour": 1,
+          "contre": 10,
+          "abstention": 2,
+          "non_votant": 2,
+          "absent": 2
+        },
+        {
+          "ref": "PO845439",
+          "short": "ECOS",
+          "label": "Écologiste et Social",
+          "color": "#77AA79",
+          "members": 65,
+          "pour": 2,
+          "contre": 9,
+          "abstention": 27,
+          "non_votant": 27,
+          "absent": 0
+        },
+        {
+          "ref": "PO845419",
+          "short": "SOC",
+          "label": "Socialistes et apparentés",
+          "color": "#F5B4CE",
+          "members": 74,
+          "pour": 64,
+          "contre": 0,
+          "abstention": 5,
+          "non_votant": 5,
+          "absent": 0
+        },
+        {
+          "ref": "PO845485",
+          "short": "LIOT",
+          "label": "Libertés, Indépendants, Outre-mer et Territoires",
+          "color": "#FFD96F",
+          "members": 24,
+          "pour": 20,
+          "contre": 0,
+          "abstention": 2,
+          "non_votant": 2,
+          "absent": 0
+        },
+        {
+          "ref": "PO845454",
+          "short": "DEM",
+          "label": "Les Démocrates",
+          "color": "#F07E26",
+          "members": 36,
+          "pour": 36,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845407",
+          "short": "EPR",
+          "label": "Ensemble pour la République",
+          "color": "#7B4591",
+          "members": 91,
+          "pour": 91,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845470",
+          "short": "HOR",
+          "label": "Horizons & Indépendants",
+          "color": "#B5E2F9",
+          "members": 59,
+          "pour": 9,
+          "contre": 0,
+          "abstention": 25,
+          "non_votant": 25,
+          "absent": 0
+        },
+        {
+          "ref": "PO845425",
+          "short": "DR",
+          "label": "Droite Républicaine",
+          "color": "#8CB0DC",
+          "members": 77,
+          "pour": 18,
+          "contre": 3,
+          "abstention": 28,
+          "non_votant": 28,
+          "absent": 0
+        },
+        {
+          "ref": "PO872880",
+          "short": "UDDPLR",
+          "label": "Union des droites pour la République",
+          "color": "#3367A7",
+          "members": 16,
+          "pour": 0,
+          "contre": 16,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845401",
+          "short": "RN",
+          "label": "Rassemblement National",
+          "color": "#313567",
+          "members": 123,
+          "pour": 0,
+          "contre": 123,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO840056",
+          "short": "NI",
+          "label": "Non inscrit",
+          "color": "#8D949A",
+          "members": 10,
+          "pour": 6,
+          "contre": 2,
+          "abstention": 1,
+          "non_votant": 1,
+          "absent": 0
+        }
+      ],
+      "candidates": [
+        {
+          "candidate": "attal",
+          "group": "EPR",
+          "vote": "pour"
+        },
+        {
+          "candidate": "le-pen",
+          "group": "RN",
+          "vote": "contre"
+        },
+        {
+          "candidate": "ruffin",
+          "group": "ECOS",
+          "vote": "contre"
+        }
+      ],
+      "source_url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758"
+    },
+    {
+      "id": "l17-4241",
+      "legislature": 17,
+      "numero": 4241,
+      "date": "2025-11-21",
+      "short_title": "Budget de l'État 2026 : rejet de la partie recettes",
+      "theme": "economie",
+      "context": "Vote sur la première partie (recettes) du projet de loi de finances pour 2026, en première lecture. Son rejet a valu rejet de l'ensemble du projet par l'Assemblée à ce stade : le texte a été transmis au Sénat dans sa version initiale.",
+      "official_title": "La première partie du projet de loi de finances pour 2026 (première lecture).",
+      "vote_type": "scrutin public solennel",
+      "censure": false,
+      "result": "rejete",
+      "majority_required": 203,
+      "totals": {
+        "pour": 1,
+        "contre": 404,
+        "abstention": 84,
+        "non_votant": 1
+      },
+      "groups": [
+        {
+          "ref": "PO845413",
+          "short": "LFI-NFP",
+          "label": "La France insoumise - Nouveau Front Populaire",
+          "color": "#C00D0D",
+          "members": 71,
+          "pour": 0,
+          "contre": 71,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845514",
+          "short": "GDR",
+          "label": "Gauche Démocrate et Républicaine",
+          "color": "#830E21",
+          "members": 17,
+          "pour": 0,
+          "contre": 16,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 1
+        },
+        {
+          "ref": "PO845439",
+          "short": "ECOS",
+          "label": "Écologiste et Social",
+          "color": "#77AA79",
+          "members": 38,
+          "pour": 0,
+          "contre": 37,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 1
+        },
+        {
+          "ref": "PO845419",
+          "short": "SOC",
+          "label": "Socialistes et apparentés",
+          "color": "#F5B4CE",
+          "members": 69,
+          "pour": 0,
+          "contre": 57,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 12
+        },
+        {
+          "ref": "PO845485",
+          "short": "LIOT",
+          "label": "Libertés, Indépendants, Outre-mer et Territoires",
+          "color": "#FFD96F",
+          "members": 22,
+          "pour": 1,
+          "contre": 14,
+          "abstention": 2,
+          "non_votant": 2,
+          "absent": 3
+        },
+        {
+          "ref": "PO845454",
+          "short": "DEM",
+          "label": "Les Démocrates",
+          "color": "#F07E26",
+          "members": 36,
+          "pour": 0,
+          "contre": 0,
+          "abstention": 15,
+          "non_votant": 15,
+          "absent": 6
+        },
+        {
+          "ref": "PO845407",
+          "short": "EPR",
+          "label": "Ensemble pour la République",
+          "color": "#7B4591",
+          "members": 140,
+          "pour": 0,
+          "contre": 7,
+          "abstention": 66,
+          "non_votant": 67,
+          "absent": 0
+        },
+        {
+          "ref": "PO845470",
+          "short": "HOR",
+          "label": "Horizons & Indépendants",
+          "color": "#B5E2F9",
+          "members": 34,
+          "pour": 0,
+          "contre": 34,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845425",
+          "short": "DR",
+          "label": "Droite Républicaine",
+          "color": "#8CB0DC",
+          "members": 49,
+          "pour": 0,
+          "contre": 33,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 16
+        },
+        {
+          "ref": "PO872880",
+          "short": "UDDPLR",
+          "label": "Union des droites pour la République",
+          "color": "#3367A7",
+          "members": 16,
+          "pour": 0,
+          "contre": 13,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 3
+        },
+        {
+          "ref": "PO845401",
+          "short": "RN",
+          "label": "Rassemblement National",
+          "color": "#313567",
+          "members": 123,
+          "pour": 0,
+          "contre": 117,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 6
+        },
+        {
+          "ref": "PO840056",
+          "short": "NI",
+          "label": "Non inscrit",
+          "color": "#8D949A",
+          "members": 9,
+          "pour": 0,
+          "contre": 5,
+          "abstention": 1,
+          "non_votant": 1,
+          "absent": 2
+        }
+      ],
+      "candidates": [
+        {
+          "candidate": "attal",
+          "group": "EPR",
+          "vote": "abstention"
+        },
+        {
+          "candidate": "le-pen",
+          "group": "RN",
+          "vote": "contre"
+        },
+        {
+          "candidate": "ruffin",
+          "group": "ECOS",
+          "vote": "contre"
+        }
+      ],
+      "source_url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4241"
+    },
     {
       "id": "l17-3054",
       "legislature": 17,
@@ -188,190 +740,6 @@
       "source_url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3054"
     },
     {
-      "id": "l17-2107",
-      "legislature": 17,
-      "numero": 2107,
-      "date": "2025-05-27",
-      "short_title": "Aide à mourir : vote en première lecture",
-      "theme": "famille",
-      "context": "Vote solennel de l'Assemblée en première lecture sur la proposition de loi relative au droit à l'aide à mourir.",
-      "official_title": "L’ensemble de la proposition de loi relative au droit à l’aide à mourir (première lecture).",
-      "vote_type": "scrutin public solennel",
-      "censure": false,
-      "result": "adopte",
-      "majority_required": 253,
-      "totals": {
-        "pour": 305,
-        "contre": 199,
-        "abstention": 57,
-        "non_votant": 0
-      },
-      "groups": [
-        {
-          "ref": "PO845413",
-          "short": "LFI-NFP",
-          "label": "La France insoumise - Nouveau Front Populaire",
-          "color": "#C00D0D",
-          "members": 71,
-          "pour": 62,
-          "contre": 1,
-          "abstention": 3,
-          "non_votant": 3,
-          "absent": 2
-        },
-        {
-          "ref": "PO845514",
-          "short": "GDR",
-          "label": "Gauche Démocrate et Républicaine",
-          "color": "#830E21",
-          "members": 19,
-          "pour": 12,
-          "contre": 1,
-          "abstention": 3,
-          "non_votant": 3,
-          "absent": 0
-        },
-        {
-          "ref": "PO845439",
-          "short": "ECOS",
-          "label": "Écologiste et Social",
-          "color": "#77AA79",
-          "members": 38,
-          "pour": 33,
-          "contre": 1,
-          "abstention": 1,
-          "non_votant": 1,
-          "absent": 2
-        },
-        {
-          "ref": "PO845419",
-          "short": "SOC",
-          "label": "Socialistes et apparentés",
-          "color": "#F5B4CE",
-          "members": 67,
-          "pour": 59,
-          "contre": 4,
-          "abstention": 2,
-          "non_votant": 2,
-          "absent": 0
-        },
-        {
-          "ref": "PO845485",
-          "short": "LIOT",
-          "label": "Libertés, Indépendants, Outre-mer et Territoires",
-          "color": "#FFD96F",
-          "members": 32,
-          "pour": 11,
-          "contre": 3,
-          "abstention": 9,
-          "non_votant": 9,
-          "absent": 0
-        },
-        {
-          "ref": "PO845454",
-          "short": "DEM",
-          "label": "Les Démocrates",
-          "color": "#F07E26",
-          "members": 43,
-          "pour": 20,
-          "contre": 9,
-          "abstention": 7,
-          "non_votant": 7,
-          "absent": 0
-        },
-        {
-          "ref": "PO845407",
-          "short": "EPR",
-          "label": "Ensemble pour la République",
-          "color": "#7B4591",
-          "members": 103,
-          "pour": 64,
-          "contre": 11,
-          "abstention": 14,
-          "non_votant": 14,
-          "absent": 0
-        },
-        {
-          "ref": "PO845470",
-          "short": "HOR",
-          "label": "Horizons & Indépendants",
-          "color": "#B5E2F9",
-          "members": 39,
-          "pour": 14,
-          "contre": 13,
-          "abstention": 6,
-          "non_votant": 6,
-          "absent": 0
-        },
-        {
-          "ref": "PO845425",
-          "short": "DR",
-          "label": "Droite Républicaine",
-          "color": "#8CB0DC",
-          "members": 57,
-          "pour": 7,
-          "contre": 34,
-          "abstention": 8,
-          "non_votant": 8,
-          "absent": 0
-        },
-        {
-          "ref": "PO847173",
-          "short": "UDR",
-          "label": "UDR",
-          "color": "#3367A7",
-          "members": 16,
-          "pour": 0,
-          "contre": 16,
-          "abstention": 0,
-          "non_votant": 0,
-          "absent": 0
-        },
-        {
-          "ref": "PO845401",
-          "short": "RN",
-          "label": "Rassemblement National",
-          "color": "#313567",
-          "members": 126,
-          "pour": 19,
-          "contre": 101,
-          "abstention": 3,
-          "non_votant": 3,
-          "absent": 0
-        },
-        {
-          "ref": "PO840056",
-          "short": "NI",
-          "label": "Non inscrit",
-          "color": "#8D949A",
-          "members": 11,
-          "pour": 4,
-          "contre": 5,
-          "abstention": 1,
-          "non_votant": 1,
-          "absent": 0
-        }
-      ],
-      "candidates": [
-        {
-          "candidate": "attal",
-          "group": "EPR",
-          "vote": "pour"
-        },
-        {
-          "candidate": "le-pen",
-          "group": "RN",
-          "vote": "contre"
-        },
-        {
-          "candidate": "ruffin",
-          "group": "ECOS",
-          "vote": "pour"
-        }
-      ],
-      "source_url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2107"
-    },
-    {
       "id": "l17-519",
       "legislature": 17,
       "numero": 519,
@@ -554,6 +922,374 @@
         }
       ],
       "source_url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/519"
+    },
+    {
+      "id": "l17-456",
+      "legislature": 17,
+      "numero": 456,
+      "date": "2024-11-26",
+      "short_title": "Accord UE-Mercosur : vote sur la déclaration du gouvernement",
+      "theme": "agriculture",
+      "context": "Déclaration du gouvernement suivie d'un vote (article 50-1 de la Constitution), consacrée aux négociations sur l'accord d'association entre l'Union européenne et le Mercosur. Le gouvernement y exposait son opposition au projet d'accord en l'état ; voter pour revenait à approuver cette déclaration. Ce vote n'a pas de portée législative.",
+      "official_title": "La déclaration du Gouvernement portant sur les négociations en cours relatives à l'accord d'association entre l'Union européenne et le Mercosur (application de l'article 50-1 de la Constitution).",
+      "vote_type": "scrutin public solennel",
+      "censure": false,
+      "result": "adopte",
+      "majority_required": 278,
+      "totals": {
+        "pour": 485,
+        "contre": 69,
+        "abstention": 1,
+        "non_votant": 1
+      },
+      "groups": [
+        {
+          "ref": "PO845413",
+          "short": "LFI-NFP",
+          "label": "La France insoumise - Nouveau Front Populaire",
+          "color": "#C00D0D",
+          "members": 71,
+          "pour": 0,
+          "contre": 69,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 2
+        },
+        {
+          "ref": "PO845514",
+          "short": "GDR",
+          "label": "Gauche Démocrate et Républicaine",
+          "color": "#830E21",
+          "members": 17,
+          "pour": 16,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 1
+        },
+        {
+          "ref": "PO845439",
+          "short": "ECOS",
+          "label": "Écologiste et Social",
+          "color": "#77AA79",
+          "members": 38,
+          "pour": 38,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845419",
+          "short": "SOC",
+          "label": "Socialistes et apparentés",
+          "color": "#F5B4CE",
+          "members": 66,
+          "pour": 66,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845485",
+          "short": "LIOT",
+          "label": "Libertés, Indépendants, Outre-mer et Territoires",
+          "color": "#FFD96F",
+          "members": 23,
+          "pour": 23,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845454",
+          "short": "DEM",
+          "label": "Les Démocrates",
+          "color": "#F07E26",
+          "members": 36,
+          "pour": 34,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 2
+        },
+        {
+          "ref": "PO845407",
+          "short": "EPR",
+          "label": "Ensemble pour la République",
+          "color": "#7B4591",
+          "members": 94,
+          "pour": 84,
+          "contre": 0,
+          "abstention": 1,
+          "non_votant": 2,
+          "absent": 7
+        },
+        {
+          "ref": "PO845470",
+          "short": "HOR",
+          "label": "Horizons & Indépendants",
+          "color": "#B5E2F9",
+          "members": 34,
+          "pour": 34,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845425",
+          "short": "DR",
+          "label": "Droite Républicaine",
+          "color": "#8CB0DC",
+          "members": 47,
+          "pour": 46,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 1
+        },
+        {
+          "ref": "PO847173",
+          "short": "UDR",
+          "label": "UDR",
+          "color": "#3367A7",
+          "members": 16,
+          "pour": 13,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 3
+        },
+        {
+          "ref": "PO845401",
+          "short": "RN",
+          "label": "Rassemblement National",
+          "color": "#313567",
+          "members": 124,
+          "pour": 122,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 2
+        },
+        {
+          "ref": "PO840056",
+          "short": "NI",
+          "label": "Non inscrit",
+          "color": "#8D949A",
+          "members": 9,
+          "pour": 9,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        }
+      ],
+      "candidates": [
+        {
+          "candidate": "attal",
+          "group": "EPR",
+          "vote": "pour"
+        },
+        {
+          "candidate": "le-pen",
+          "group": "RN",
+          "vote": "pour"
+        },
+        {
+          "candidate": "ruffin",
+          "group": "ECOS",
+          "vote": "pour"
+        }
+      ],
+      "source_url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/456"
+    },
+    {
+      "id": "l17-217",
+      "legislature": 17,
+      "numero": 217,
+      "date": "2024-10-31",
+      "short_title": "Proposition d'abrogation des dernières réformes des retraites",
+      "theme": "retraites",
+      "context": "Proposition de loi examinée en première lecture, qui visait à annuler les dernières réformes portant sur l'âge de départ et le nombre d'annuités, dont celle de 2023. Elle a été rejetée.",
+      "official_title": "L'ensemble de la proposition de loi visant à restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l’âge de départ et le nombre d’annuités (première lecture).",
+      "vote_type": "scrutin public ordinaire",
+      "censure": false,
+      "result": "rejete",
+      "majority_required": 159,
+      "totals": {
+        "pour": 119,
+        "contre": 197,
+        "abstention": 18,
+        "non_votant": 2
+      },
+      "groups": [
+        {
+          "ref": "PO845413",
+          "short": "LFI-NFP",
+          "label": "La France insoumise - Nouveau Front Populaire",
+          "color": "#C00D0D",
+          "members": 71,
+          "pour": 0,
+          "contre": 0,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 71
+        },
+        {
+          "ref": "PO845514",
+          "short": "GDR",
+          "label": "Gauche Démocrate et Républicaine",
+          "color": "#830E21",
+          "members": 17,
+          "pour": 0,
+          "contre": 9,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 8
+        },
+        {
+          "ref": "PO845439",
+          "short": "ECOS",
+          "label": "Écologiste et Social",
+          "color": "#77AA79",
+          "members": 38,
+          "pour": 0,
+          "contre": 26,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 12
+        },
+        {
+          "ref": "PO845419",
+          "short": "SOC",
+          "label": "Socialistes et apparentés",
+          "color": "#F5B4CE",
+          "members": 66,
+          "pour": 1,
+          "contre": 51,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 14
+        },
+        {
+          "ref": "PO845485",
+          "short": "LIOT",
+          "label": "Libertés, Indépendants, Outre-mer et Territoires",
+          "color": "#FFD96F",
+          "members": 23,
+          "pour": 0,
+          "contre": 2,
+          "abstention": 1,
+          "non_votant": 1,
+          "absent": 19
+        },
+        {
+          "ref": "PO845454",
+          "short": "DEM",
+          "label": "Les Démocrates",
+          "color": "#F07E26",
+          "members": 36,
+          "pour": 0,
+          "contre": 17,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 19
+        },
+        {
+          "ref": "PO845407",
+          "short": "EPR",
+          "label": "Ensemble pour la République",
+          "color": "#7B4591",
+          "members": 94,
+          "pour": 0,
+          "contre": 58,
+          "abstention": 0,
+          "non_votant": 1,
+          "absent": 35
+        },
+        {
+          "ref": "PO845470",
+          "short": "HOR",
+          "label": "Horizons & Indépendants",
+          "color": "#B5E2F9",
+          "members": 34,
+          "pour": 0,
+          "contre": 19,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 15
+        },
+        {
+          "ref": "PO845425",
+          "short": "DR",
+          "label": "Droite Républicaine",
+          "color": "#8CB0DC",
+          "members": 47,
+          "pour": 0,
+          "contre": 13,
+          "abstention": 0,
+          "non_votant": 1,
+          "absent": 33
+        },
+        {
+          "ref": "PO847173",
+          "short": "UDR",
+          "label": "UDR",
+          "color": "#3367A7",
+          "members": 24,
+          "pour": 0,
+          "contre": 0,
+          "abstention": 12,
+          "non_votant": 12,
+          "absent": 0
+        },
+        {
+          "ref": "PO845401",
+          "short": "RN",
+          "label": "Rassemblement National",
+          "color": "#313567",
+          "members": 125,
+          "pour": 118,
+          "contre": 0,
+          "abstention": 3,
+          "non_votant": 3,
+          "absent": 1
+        },
+        {
+          "ref": "PO840056",
+          "short": "NI",
+          "label": "Non inscrit",
+          "color": "#8D949A",
+          "members": 8,
+          "pour": 0,
+          "contre": 2,
+          "abstention": 2,
+          "non_votant": 2,
+          "absent": 2
+        }
+      ],
+      "candidates": [
+        {
+          "candidate": "attal",
+          "group": "EPR",
+          "vote": "contre"
+        },
+        {
+          "candidate": "le-pen",
+          "group": "RN",
+          "vote": "pour"
+        },
+        {
+          "candidate": "ruffin",
+          "group": "ECOS",
+          "vote": "absent"
+        }
+      ],
+      "source_url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/217"
     },
     {
       "id": "l16-3289",
