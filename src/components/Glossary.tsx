@@ -1,5 +1,6 @@
 import { Fragment, useEffect, useLayoutEffect, useRef, useState, type ReactNode } from 'react'
 import { createPortal } from 'react-dom'
+import { Link } from 'react-router-dom'
 import { create } from 'zustand'
 import { glossary } from '../data'
 import type { GlossaryEntry } from '../data/schema'
@@ -64,15 +65,16 @@ function Term({ entry, children }: { entry: GlossaryEntry; children: ReactNode }
 /**
  * Texte dont les sigles du glossaire (ISF, PFU, EPR2…) sont expliqués au survol ou au toucher.
  * Seule la première occurrence de chaque sigle est soulignée, pour garder le texte lisible.
+ * `skip` : formes à ne pas expliquer dans ce contexte (ex. « EPR », aussi sigle d'un groupe de l'Assemblée).
  */
-export function Glossed({ text }: { text: string }) {
+export function Glossed({ text, skip }: { text: string; skip?: ReadonlySet<string> }) {
   if (!pattern) return <>{text}</>
   const seen = new Set<string>()
   const parts: ReactNode[] = []
   let last = 0
   for (const match of text.matchAll(pattern)) {
     const entry = byForm.get(match[0])!
-    if (seen.has(entry.id)) continue
+    if (seen.has(entry.id) || skip?.has(match[0])) continue
     seen.add(entry.id)
     parts.push(text.slice(last, match.index))
     parts.push(
@@ -148,10 +150,13 @@ export function GlossaryTooltip() {
         {entry.term} <span className="font-normal text-muted">· {entry.expansion}</span>
       </p>
       <p className="mt-1 leading-relaxed text-ink-2">{entry.definition}</p>
-      <p className="mt-2 text-xs">
+      <p className="mt-2 flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1 text-xs">
         <ExternalLink href={entry.source_url} className="text-accent hover:underline">
           {entry.source_label}
         </ExternalLink>
+        <Link to={`/glossaire#${entry.id}`} onClick={close} className="font-medium text-muted hover:text-ink">
+          Tout le glossaire
+        </Link>
       </p>
     </div>,
     document.body,

@@ -12,6 +12,7 @@ const ProgramsPage = lazy(() => import('./pages/ProgramsPage'))
 const MethodologyPage = lazy(() => import('./pages/MethodologyPage'))
 const NotFoundPage = lazy(() => import('./pages/NotFoundPage'))
 const VotesPage = lazy(() => import('./pages/VotesPage'))
+const GlossaryPage = lazy(() => import('./pages/GlossaryPage'))
 
 function PageSkeleton() {
   return (
@@ -57,7 +58,8 @@ export function App() {
             <Route path="programmes" element={lazyPage(<ProgramsPage />)} />
             <Route path="votes" element={lazyPage(<VotesPage />)} />
             <Route path="votes/:id" element={lazyPage(<VotesPage />)} />
-            <Route path="methodologie" element={lazyPage(<MethodologyPage />)} />
+            <Route path="glossaire" element={lazyPage(<GlossaryPage />)} />
+            <Route path="methodologie"element={lazyPage(<MethodologyPage />)} />
             <Route path="partage/:theme/:a?/:b?" element={<ShareRedirect />} />
             <Route path="*" element={lazyPage(<NotFoundPage />)} />
           </Route>

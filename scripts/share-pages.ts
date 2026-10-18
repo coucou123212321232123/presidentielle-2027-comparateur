@@ -72,6 +72,11 @@ page('comparateur/', { ...home, title: 'Comparer les programmes par thème – P
 page('themes/', { ...home, title: 'Thèmes × candidats – Présidentielle 2027' })
 page('programmes/', { ...home, title: 'Programmes officiels des candidats – Présidentielle 2027' })
 page('methodologie/', { ...home, title: 'Méthodologie et sources – Présidentielle 2027' })
+page('glossaire/', {
+  ...home,
+  title: 'Glossaire des sigles et termes – Présidentielle 2027',
+  description: `ISF, PFU, AME, EPR2… les sigles des programmes et des textes votés, expliqués en quelques mots avec leur source officielle. ${DISCLAIMER}`,
+})
 
 for (const c of candidates) {
   const list = measures[c.id] ?? []

@@ -8,6 +8,7 @@ import type { VoteArgument, VotePosition } from '../data/schema'
 import { CandidateAvatar } from '../components/CandidateAvatar'
 import { SourceTypeBadge } from '../components/Badges'
 import { ExternalLink } from '../components/ExternalLink'
+import { Glossed } from '../components/Glossary'
 import { GroupBar, Hemicycle, VOTE_COLORS, VOTE_ORDER, VoteBadge, VoteDot, voteLabel, type HemicycleMode } from '../components/Hemicycle'
 import { ThemeIcon } from '../components/ThemeIcon'
 import { Badge, Card, Chip, EmptyState, PageHeader, Skeleton, cx } from '../components/ui'
@@ -15,6 +16,9 @@ import { formatDate, formatShortDate, fullName, normalize, plural } from '../lib
 import NotFoundPage from './NotFoundPage'
 
 /* ───────────────────────── Éléments communs ───────────────────────── */
+
+// Sigles des groupes parlementaires (« EPR » = Ensemble pour la République) : à ne pas confondre avec ceux du glossaire.
+const GROUP_ACRONYMS: ReadonlySet<string> = new Set(votes.scrutins.flatMap((sc) => sc.groups.map((g) => g.short)))
 
 function ResultBadge({ s, size = 'sm' }: { s: VoteView; size?: 'sm' | 'lg' }) {
   const adopted = s.result === 'adopte'
@@ -469,7 +473,7 @@ function ArgumentColumn({ s, side, items }: { s: VoteView; side: 'pour' | 'contr
                   )
                 })}
               </span>
-              {a.text}{' '}
+              <Glossed text={a.text} skip={GROUP_ACRONYMS} />{' '}
               <ExternalLink href={a.source_url} className="inline break-words text-xs text-muted hover:text-ink" icon={false}>
                 ({a.source_label})
               </ExternalLink>
@@ -493,7 +497,9 @@ function Explanation({ s }: { s: VoteView }) {
       <h2 className="mb-2 flex items-center gap-2 text-sm font-semibold text-ink">
         <FileText className="size-4 text-muted" aria-hidden="true" /> Ce que contient le texte
       </h2>
-      <p className="leading-relaxed text-ink-2">{e.summary}</p>
+      <p className="leading-relaxed text-ink-2">
+        <Glossed text={e.summary} skip={GROUP_ACRONYMS} />
+      </p>
       {e.sources.length > 0 && (
         <p className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-xs text-muted">
           Sources :
@@ -558,7 +564,11 @@ function Detail({ s }: { s: VoteView }) {
           <ResultBar s={s} />
         </div>
         <div className="space-y-3 border-t border-line bg-surface-2/50 p-5 text-sm leading-relaxed text-ink-2 sm:p-6">
-          {s.context && <p>{s.context}</p>}
+          {s.context && (
+            <p>
+              <Glossed text={s.context} skip={GROUP_ACRONYMS} />
+            </p>
+          )}
           <details>
             <summary className="cursor-pointer text-xs font-medium text-muted hover:text-ink">Intitulé officiel du scrutin</summary>
             <p className="mt-2 text-sm">{s.official_title}</p>

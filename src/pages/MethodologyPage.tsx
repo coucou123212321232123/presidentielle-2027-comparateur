@@ -143,7 +143,11 @@ export default function MethodologyPage() {
         </p>
         <p>
           Les {glossary.length} sigles les plus fréquents (ISF, PFU, EPR2, AME…) sont soulignés en pointillé : une définition courte et sourcée
-          s'affiche au survol, ou au toucher sur téléphone.
+          s'affiche au survol, ou au toucher sur téléphone. Ils sont tous réunis sur la page{' '}
+          <Link to="/glossaire" className="text-accent hover:underline">
+            Glossaire
+          </Link>
+          .
         </p>
       </Section>
 
