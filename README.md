@@ -24,6 +24,12 @@ Le workflow `.github/workflows/pages.yml` reconstruit et publie le site à chaqu
 
 ### Application Windows (Electron)
 
+**Télécharger** : https://github.com/coucou123212321232123/presidentielle-2027-comparateur/releases/latest (`Presidentielle-2027-Setup-….exe` à installer, ou `…-Portable-….exe` sans installation).
+
+Le workflow `.github/workflows/desktop.yml` construit l'application sur un serveur Windows de GitHub et la publie comme « release » à chaque mise à jour du code sur `main` (version `1.1.<numéro>`). Au démarrage, l'application vérifie s'il existe une version plus récente et propose de l'installer : plus besoin de reconstruire l'exécutable à la main. Les données, elles, sont mises à jour au démarrage sans réinstallation.
+
+Construction locale (facultative) :
+
 ```bash
 npm run app        # construit puis ouvre l'application de bureau
 npm run dist:win   # génère release/Presidentielle-2027-Setup-x.y.z.exe (installeur) et release/Presidentielle-2027-Portable-x.y.z.exe

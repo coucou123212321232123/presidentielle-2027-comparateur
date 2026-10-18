@@ -1,0 +1,54 @@
+# Application Windows : construit l'installeur et la version portable sur un serveur Windows de GitHub,
+# puis les publie comme « release » GitHub à chaque mise à jour du code sur main. L'application installée
+# vérifie au démarrage s'il existe une version plus récente et propose de l'installer (electron/main.cjs).
+name: Application Windows
+
+on:
+  push:
+    branches: [main, 'claude/**']
+    paths-ignore:
+      - 'src/data/**'
+      - 'public-data/**'
+      - 'research/**'
+      - 'link-report.md'
+      - 'README.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: desktop-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Numéro de version (1.1.<numéro de construction>)
+        shell: bash
+        run: |
+          npm version "1.1.${{ github.run_number }}" --no-git-tag-version
+          echo "VERSION=1.1.${{ github.run_number }}" >> "$GITHUB_ENV"
+      - name: Runtime Electron attendu par la configuration (build.electronDist)
+        shell: bash
+        run: cp -r node_modules/electron/dist node_modules/.electron-dist
+      - run: npm run build:desktop
+      - run: npx electron-builder --win nsis portable --publish never
+      - name: Publier la version
+        # Les branches de travail construisent seulement l'application (vérification) ; main la publie.
+        if: github.ref == 'refs/heads/main'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "v$VERSION" release/*.exe \
+            --title "Application Windows $VERSION" \
+            --notes "Installeur (Setup) et version portable de l'application de bureau, construits automatiquement depuis main ($GITHUB_SHA). Les applications déjà installées proposent cette mise à jour au démarrage." \
+            --latest
