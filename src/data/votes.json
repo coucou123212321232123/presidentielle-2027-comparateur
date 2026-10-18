@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:55:43.162Z",
+  "generated_at": "2026-10-18T11:57:59.541Z",
   "source_label": "Assemblée nationale – données ouvertes (scrutins, députés et groupes)",
   "source_url": "https://data.assemblee-nationale.fr/",
   "scrutins": [
@@ -132,18 +132,6 @@
           "absent": 0
         },
         {
-          "ref": "PO845401",
-          "short": "RN",
-          "label": "Rassemblement National",
-          "color": "#313567",
-          "members": 123,
-          "pour": 0,
-          "contre": 123,
-          "abstention": 0,
-          "non_votant": 0,
-          "absent": 0
-        },
-        {
           "ref": "PO872880",
           "short": "UDDPLR",
           "label": "Union des droites pour la République",
@@ -151,6 +139,18 @@
           "members": 15,
           "pour": 0,
           "contre": 15,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845401",
+          "short": "RN",
+          "label": "Rassemblement National",
+          "color": "#313567",
+          "members": 123,
+          "pour": 0,
+          "contre": 123,
           "abstention": 0,
           "non_votant": 0,
           "absent": 0
@@ -539,7 +539,7 @@
       "candidates": [
         {
           "candidate": "attal",
-          "group": "",
+          "group": "EPR",
           "vote": "absent"
         },
         {
