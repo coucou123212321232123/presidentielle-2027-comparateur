@@ -1,5 +1,5 @@
 import { create } from 'zustand'
-import { DataBundleSchema, type DataBundle } from './schema'
+import type { DataBundle } from './schema'
 
 /** Adresse du paquet de données publié (public-data/data-v2.json sur GitHub), surchargeable par VITE_DATA_URL ; vide = désactivé. */
 export const REMOTE_DATA_URL: string =
@@ -20,8 +20,9 @@ export function readCachedBundle(): DataBundle | null {
   try {
     const raw = localStorage.getItem(CACHE_KEY)
     if (!raw) return null
-    const parsed = DataBundleSchema.safeParse(JSON.parse(raw))
-    return parsed.success ? parsed.data : null
+    // Copie validée intégralement (Zod) au téléchargement : on vérifie seulement qu'elle est au format actuel.
+    const bundle = JSON.parse(raw) as DataBundle
+    return bundle?.version === 2 && bundle.meta && bundle.measures ? bundle : null
   } catch {
     return null
   }
@@ -56,6 +57,7 @@ export async function checkForDataUpdate(current: { last_updated: string; genera
   try {
     const res = await fetch(`${REMOTE_DATA_URL}?t=${Date.now()}`, { cache: 'no-store', signal: AbortSignal.timeout(TIMEOUT_MS) })
     if (!res.ok) return
+    const { DataBundleSchema } = await import('./schema')
     const parsed = DataBundleSchema.safeParse(await res.json())
     if (!parsed.success) return
     const remote = parsed.data

@@ -3,7 +3,8 @@ import { basename, join } from 'node:path'
 import { defineConfig, type Plugin } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
-import { summarize, type Measure } from './src/data/schema.ts'
+import type { Measure } from './src/data/schema.ts'
+import { summarize } from './src/data/summary.ts'
 
 // electron : fichiers chargés en local (file://), chemins relatifs.
 // pages : site publié sous https://<compte>.github.io/presidentielle-2027-comparateur/.
@@ -38,5 +39,6 @@ export default defineConfig(({ mode }) => ({
   plugins: [react(), tailwindcss(), measureSummary()],
   base: BASES[mode] ?? '/',
   server: { host: '127.0.0.1', port: 5173 },
-  build: { outDir: mode === 'electron' ? 'dist-electron' : 'dist' },
+  // Bundle principal : React, fiches candidats et statut des liens ; les mesures sont chargées à part.
+  build: { chunkSizeWarningLimit: 700, outDir: mode === 'electron' ? 'dist-electron' : 'dist' },
 }))

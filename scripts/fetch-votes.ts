@@ -38,7 +38,7 @@ interface Selection {
 // Ordre d'affichage des groupes dans l'hémicycle, de la gauche vers la droite (sigles successifs des législatures 16 et 17).
 const SEAT_ORDER = [
   'LFI-NFP', 'LFI-NUPES', 'LFI', 'GDR', 'GDR-NUPES', 'ECOS', 'ECOLO', 'ECO', 'SOC', 'SOC-A', 'LIOT', 'DEM', 'MODEM',
-  'EPR', 'RE', 'REN', 'HOR', 'DR', 'LR', 'UDR', 'RN', 'NI',
+  'EPR', 'RE', 'REN', 'HOR', 'DR', 'LR', 'UDR', 'UDDPLR', 'RN', 'NI',
 ]
 
 /** Les fichiers de l'Assemblée représentent une liste à un élément par un objet seul : on normalise. */
@@ -91,6 +91,8 @@ interface Actor {
   ref: string
   name: string
   deputy: Mandat[]
+  /** Appartenances aux groupes politiques (pour situer un député absent). */
+  groups: { organe: string; start: string; end: string | null }[]
 }
 
 async function loadActors(leg: number) {
@@ -109,7 +111,10 @@ async function loadActors(leg: number) {
       const deputy = list(a.mandats?.mandat)
         .filter((m: any) => m.typeOrgane === 'ASSEMBLEE')
         .map((m: any) => ({ legislature: num(m.legislature), start: String(m.dateDebut ?? '').slice(0, 10), end: m.dateFin ? String(m.dateFin).slice(0, 10) : null }))
-      actors.set(text(a.uid), { ref: text(a.uid), name: `${ident.prenom ?? ''} ${ident.nom ?? ''}`.trim(), deputy })
+      const groups = list(a.mandats?.mandat)
+        .filter((m: any) => m.typeOrgane === 'GP')
+        .map((m: any) => ({ organe: text(list(m.organes?.organeRef)[0]), start: String(m.dateDebut ?? '').slice(0, 10), end: m.dateFin ? String(m.dateFin).slice(0, 10) : null }))
+      actors.set(text(a.uid), { ref: text(a.uid), name: `${ident.prenom ?? ''} ${ident.nom ?? ''}`.trim(), deputy, groups })
     }
   }
   console.log(`  législature ${leg} : ${actors.size} acteurs, ${organes.size} groupes politiques`)
@@ -142,7 +147,9 @@ async function main() {
     const label = (s: any) => `${s.titre ?? ''} ${s.objet?.libelle ?? ''}`
 
     if (listPattern) {
-      for (const s of scrutins.filter((x: any) => listPattern.test(label(x))).sort((a: any, b: any) => num(a.numero) - num(b.numero))) {
+      // Votes solennels, motions de censure et votes sur l'ensemble d'un texte uniquement (pas les amendements).
+      const major = (x: any) => ['SPS', 'MOC'].includes(x.typeVote?.codeTypeVote) || /^l'ensemble/i.test(String(x.titre))
+      for (const s of scrutins.filter((x: any) => major(x) && listPattern.test(label(x))).sort((a: any, b: any) => num(a.numero) - num(b.numero))) {
         const d = s.syntheseVote?.decompte ?? {}
         console.log(`  L${leg} n°${s.numero} ${s.dateScrutin} [${s.typeVote?.codeTypeVote}] ${s.sort?.code} pour=${d.pour} contre=${d.contre} abst=${d.abstentions} · ${String(s.titre).slice(0, 220)}`)
       }
@@ -194,7 +201,8 @@ async function main() {
         if (v) personal.push({ candidate: c.id, group: v.group, vote: v.vote })
         else if (deputy) {
           // Député à cette date mais absent des listes nominatives : n'a pas pris part au vote.
-          personal.push({ candidate: c.id, group: '', vote: 'absent' })
+          const gp = actor.groups.find((g) => g.start <= date && (!g.end || g.end >= date))
+          personal.push({ candidate: c.id, group: (gp && organes.get(gp.organe)?.short) ?? '', vote: 'absent' })
         }
       }
 

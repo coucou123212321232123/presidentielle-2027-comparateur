@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import { create } from 'zustand'
-import { summarize, type Candidate, type Changelog, type GlossaryEntry, type VotesFile, type LinkStatus, type Measure, type MeasureSummary, type Meta, type Theme, type ThemeId } from './schema'
+import { summarize, type MeasureSummary } from './summary'
+import type { Candidate, Changelog, GlossaryEntry, VotesFile, LinkStatus, Measure, Meta, Theme, ThemeId } from './schema'
 import candidatesRaw from './candidates.json'
 import themesRaw from './themes.json'
 import metaRaw from './meta.json'

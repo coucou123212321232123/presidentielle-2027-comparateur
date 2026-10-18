@@ -17,8 +17,8 @@ import {
   THEME_IDS,
   type Candidate,
   type Theme,
-  indicatorsOf,
 } from '../src/data/schema.ts'
+import { indicatorsOf } from '../src/data/summary.ts'
 
 const DATA = join(import.meta.dirname, '..', 'src', 'data')
 const errors: string[] = []
