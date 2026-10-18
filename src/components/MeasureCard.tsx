@@ -9,17 +9,29 @@ import { ExternalLink } from './ExternalLink'
 import { Glossed } from './Glossary'
 import { cx } from './ui'
 
-export function MeasureCard({ measure, accent, compact = false }: { measure: Measure; accent?: string; compact?: boolean }) {
+export function MeasureCard({
+  measure,
+  accent,
+  compact = false,
+  highlight = false,
+}: {
+  measure: Measure
+  accent?: string
+  compact?: boolean
+  /** Mesure ouverte depuis la recherche : encadrée pour être repérée tout de suite. */
+  highlight?: boolean
+}) {
   const secondary = measure.source_type !== 'officiel'
   const since = useNovelty((s) => s.since)
   return (
     <motion.article
+      id={`mesure-${measure.id}`}
       layout="position"
       initial={{ opacity: 0, y: 8 }}
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -4 }}
       transition={{ duration: 0.25, ease: 'easeOut' }}
-      className={cx('relative min-w-0 rounded-xl border border-line bg-surface', compact ? 'p-3.5' : 'p-4')}
+      className={cx('relative min-w-0 scroll-mt-24 rounded-xl border border-line bg-surface', compact ? 'p-3.5' : 'p-4', highlight && 'ring-2 ring-accent')}
     >
       {accent && <span className="absolute inset-y-3 left-0 w-[3px] rounded-r-full" style={{ backgroundColor: accent }} aria-hidden="true" />}
       <div className="mb-2 flex flex-wrap items-center gap-1.5">

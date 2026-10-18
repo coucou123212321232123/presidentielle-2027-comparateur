@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
 import { ArrowLeft, Columns3, Globe, Users, Target, Briefcase, History, FileSearch, Landmark } from 'lucide-react'
@@ -38,6 +38,7 @@ export default function CandidatePage() {
   const [params] = useSearchParams()
   const candidate = candidateById[id]
   const initialTheme = params.get('theme') as ThemeId | null
+  const target = params.get('mesure')
   const since = useNovelty((s) => s.since)
   // Depuis le bandeau des nouveautés : les thèmes qui contiennent de nouvelles mesures sont dépliés.
   const [open, setOpen] = useState<Set<ThemeId>>(() =>
@@ -46,6 +47,13 @@ export default function CandidatePage() {
   const { apply, active } = useMeasureFilter()
   const loaded = useMeasures(candidate ? [candidate.id] : [])
   const failed = useMeasuresFailed()
+
+  // Depuis la recherche (?mesure=…) : une fois les mesures chargées et le thème déplié, on amène la mesure à l'écran.
+  useEffect(() => {
+    if (!target || !loaded) return
+    const t = window.setTimeout(() => document.getElementById(`mesure-${target}`)?.scrollIntoView({ block: 'center' }), 350)
+    return () => window.clearTimeout(t)
+  }, [target, loaded])
 
   if (!candidate) return <NotFoundPage />
 
@@ -298,7 +306,11 @@ export default function CandidatePage() {
             </p>
           )}
           {covered.map((t) => {
-            const list = all ? apply(byTheme(all, t.id)) : []
+            const inTheme = all ? byTheme(all, t.id) : []
+            const filteredList = apply(inTheme)
+            // La mesure recherchée reste visible même si les filtres actifs l'excluent.
+            const sought = inTheme.find((m) => m.id === target && !filteredList.includes(m))
+            const list = sought ? [...filteredList, sought] : filteredList
             const count = countFor(candidate.id, t.id)
             const fresh = newCount(since, candidate.id, t.id)
             return (
@@ -334,7 +346,7 @@ export default function CandidatePage() {
                     <div className="grid gap-3 md:grid-cols-2">
                       <AnimatePresence mode="popLayout">
                         {list.map((m) => (
-                          <MeasureCard key={m.id} measure={m} accent={candidate.color} />
+                          <MeasureCard key={m.id} measure={m} accent={candidate.color} highlight={m.id === target} />
                         ))}
                       </AnimatePresence>
                     </div>

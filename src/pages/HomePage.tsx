@@ -222,7 +222,7 @@ export function HomePage() {
             <ul className="divide-y divide-line overflow-hidden rounded-2xl border border-line bg-surface">
               {measureHits.map(({ m, c }) => (
                 <li key={m.id}>
-                  <Link to={`/candidats/${c.id}?theme=${m.theme}`} className="flex items-start gap-3 px-4 py-3 transition-colors hover:bg-surface-2/60">
+                  <Link to={`/candidats/${c.id}?theme=${m.theme}&mesure=${m.id}`} className="flex items-start gap-3 px-4 py-3 transition-colors hover:bg-surface-2/60">
                     <CandidateAvatar candidate={c} size="sm" decorative />
                     <span className="min-w-0 flex-1">
                       <span className="block text-sm font-semibold text-ink">{m.title}</span>
