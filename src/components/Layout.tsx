@@ -190,12 +190,19 @@ export function Layout() {
 
   return (
     <div className="flex min-h-dvh flex-col">
-      <a href="#main" className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-surface focus:px-4 focus:py-2 focus:shadow-lift">
+      <a
+        href="#main"
+        // Sans changer l'adresse : dans l'application de bureau, « #main » remplacerait la page affichée (#/glossaire…).
+        onClick={(e) => {
+          e.preventDefault()
+          document.getElementById('main')?.focus()
+        }}
+        className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-surface focus:px-4 focus:py-2 focus:shadow-lift">
         Aller au contenu
       </a>
       <Banner />
       <Header />
-      <main id="main" className="mx-auto w-full max-w-7xl flex-1 px-4 pt-8 sm:px-6 sm:pt-12">
+      <main id="main" tabIndex={-1} className="mx-auto focus:outline-none w-full max-w-7xl flex-1 px-4 pt-8 sm:px-6 sm:pt-12">
         {/* Transition d'entrée uniquement : la nouvelle page s'affiche immédiatement, même en navigation rapide. */}
         <motion.div key={location.pathname} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.25, ease: 'easeOut' }}>
           <ErrorBoundary resetKey={location.pathname}>{outlet}</ErrorBoundary>

@@ -75,13 +75,16 @@ export default function GlossaryPage() {
           className="mb-8 flex flex-wrap gap-1"
         >
           {groups.map(([l]) => (
-            <a
+            // Bouton et non lien « #lettre-A » : dans l'application de bureau, l'ancre remplacerait l'adresse de la page (#/glossaire).
+            <button
               key={l}
-              href={`#lettre-${l}`}
+              type="button"
+              onClick={() => document.getElementById(`lettre-${l}`)?.scrollIntoView({ behavior: 'smooth' })}
+              aria-label={`Aller à la lettre ${l}`}
               className="flex size-8 items-center justify-center rounded-lg border border-line bg-surface text-sm font-semibold text-ink-2 hover:text-ink"
             >
               {l}
-            </a>
+            </button>
           ))}
         </nav>
       )}
