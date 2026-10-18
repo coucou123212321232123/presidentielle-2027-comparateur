@@ -1,5 +1,8 @@
 import { useMemo } from 'react'
 import type { Scrutin, VotePosition } from '../data/schema'
+
+/** Ce dont l'hémicycle a besoin d'un scrutin (grand texte commenté ou vote de l'index de recherche). */
+type ScrutinCounts = Pick<Scrutin, 'groups' | 'totals' | 'censure'>
 import { cx } from './ui'
 
 export const VOTE_ORDER: VotePosition[] = ['pour', 'contre', 'abstention', 'non_votant', 'absent']
@@ -30,7 +33,7 @@ export function VoteDot({ vote, className = 'size-2.5' }: { vote: VotePosition; 
 }
 
 /** Vote personnel d'un député (pastille de couleur + libellé). */
-export function VoteBadge({ scrutin, vote, size = 'sm' }: { scrutin: Scrutin; vote: VotePosition; size?: 'sm' | 'lg' }) {
+export function VoteBadge({ scrutin, vote, size = 'sm' }: { scrutin: Pick<Scrutin, 'censure'>; vote: VotePosition; size?: 'sm' | 'lg' }) {
   const label = vote === 'absent' && !scrutin.censure ? "N'a pas pris part au vote" : voteLabel(vote, scrutin.censure)
   return (
     <span
@@ -97,7 +100,7 @@ export function Hemicycle({
   focus,
   onFocus,
 }: {
-  scrutin: Scrutin
+  scrutin: ScrutinCounts
   mode: HemicycleMode
   focus: string | null
   onFocus: (group: string | null) => void
@@ -119,11 +122,11 @@ export function Hemicycle({
   }, [scrutin, seats])
 
   const headline = scrutin.censure
-    ? { big: String(scrutin.totals.pour), small: 'voix pour la censure' }
-    : { big: `${scrutin.totals.pour} – ${scrutin.totals.contre}`, small: 'pour – contre' }
+    ? { big: String(scrutin.totals.pour), small: 'pour la censure' }
+    : { big: String(scrutin.totals.pour), small: `pour · ${scrutin.totals.contre} contre` }
 
   return (
-    <svg viewBox="-1.32 -1.3 2.64 1.4" className="w-full select-none" role="img" aria-label={describe(scrutin)}>
+    <svg viewBox="-1.5 -1.27 3 1.32" className="w-full select-none" role="img" aria-label={describe(scrutin)}>
       {/* Arcs et sigles des groupes */}
       {arcs.map((a) => {
         const mid = (a.from + a.to) / 2
@@ -132,7 +135,7 @@ export function Hemicycle({
         return (
           <g key={a.group} opacity={dim ? 0.3 : 1} onPointerEnter={() => onFocus(a.group)} onPointerLeave={() => onFocus(null)} className="transition-opacity">
             <path d={arcPath(1.065, a.from + 0.012, a.to - 0.012)} fill="none" stroke={a.color} strokeWidth={0.028} strokeLinecap="round" />
-            {a.from - a.to > 0.11 && (
+            {a.from - a.to > 0.14 && (
               <text
                 x={label.x}
                 y={label.y}
@@ -175,17 +178,17 @@ export function Hemicycle({
       })}
 
       {/* Résultat au centre */}
-      <text x="0" y="-0.13" textAnchor="middle" className="fill-ink font-display" style={{ fontSize: 0.16, fontWeight: 600 }}>
+      <text x="0" y="-0.1" textAnchor="middle" className="fill-ink font-display" style={{ fontSize: 0.15, fontWeight: 600 }}>
         {headline.big}
       </text>
-      <text x="0" y="-0.035" textAnchor="middle" className="fill-muted" style={{ fontSize: 0.055 }}>
+      <text x="0" y="-0.02" textAnchor="middle" className="fill-muted" style={{ fontSize: 0.052 }}>
         {headline.small}
       </text>
     </svg>
   )
 }
 
-function describe(s: Scrutin) {
+function describe(s: ScrutinCounts) {
   return `Hémicycle : ${
     s.censure ? `${s.totals.pour} députés pour la censure` : `${s.totals.pour} pour, ${s.totals.contre} contre, ${s.totals.abstention} abstentions`
   }, répartis par groupe politique de la gauche vers la droite`

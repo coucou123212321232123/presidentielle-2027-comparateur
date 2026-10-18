@@ -131,7 +131,8 @@ export default function MethodologyPage() {
           immigration, budgets, Constitution, fin de vie) avec le décompte officiel par groupe politique et le vote personnel des candidats
           qui étaient alors députés. Les chiffres sont importés automatiquement des données ouvertes de l'Assemblée nationale
           (data.assemblee-nationale.fr), sans saisie manuelle, et étiquetés « Vote / bilan ». Seuls les scrutins publics de l'Assemblée sont
-          couverts : les votes au Sénat ou au Parlement européen n'y figurent pas.
+          couverts : les votes au Sénat ou au Parlement européen n'y figurent pas. Une recherche porte en outre sur tous les textes votés depuis
+          2022 (propositions et projets de loi, motions de censure, déclarations du gouvernement), hors amendements.
         </p>
       </Section>
 

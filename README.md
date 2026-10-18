@@ -42,7 +42,8 @@ Le routage utilise des URLs « propres » (`/candidats/attal`, `/comparateur?the
 | `/comparateur?theme=…&c=a,b&vue=tableau` | Comparateur par thème (2 à 4 candidats), vues colonnes/tableau, indicateurs de convergence, partage, export image/PDF |
 | `/themes` | Matrice thèmes × candidats, détail au clic |
 | `/programmes` | Tableau récapitulatif des programmes |
-| `/votes/:id` | Votes à l'Assemblée sur les grands textes : hémicycle siège par siège, détail par groupe, vote des candidats alors députés |
+| `/votes?q=…&type=…&candidat=…` | Votes à l'Assemblée : grands textes commentés et recherche dans tous les textes votés depuis 2022 (propositions et projets de loi, motions de censure, déclarations) |
+| `/votes/:id` | Détail d'un vote : résultat, hémicycle député par député, vote des candidats alors députés, vote par groupe |
 | `/partage/:theme/:a?/:b?` | Lien de partage d'une comparaison (aperçu soigné), redirige vers le comparateur |
 | `/methodologie` | Sources, classement, critères d'inclusion, signalement d'erreur |
 
@@ -56,7 +57,8 @@ src/data/
   measures/<id>.json # mesures d'un candidat
   meta.json          # date de mise à jour, règle d'inclusion, autres candidatures
   glossary.json      # sigles expliqués au survol (définition + source officielle)
-  votes.json         # scrutins de l'Assemblée (généré par fetch-votes)
+  votes.json         # grands textes commentés de l'Assemblée (généré par fetch-votes)
+  votes-index.json   # tous les textes votés depuis 2022, pour la recherche (généré par fetch-votes)
   link-status.json   # généré par check-links
 research/
   SCHEMA.md          # format détaillé et règles de collecte
