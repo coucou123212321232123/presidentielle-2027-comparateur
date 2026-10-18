@@ -216,7 +216,7 @@ export default function CandidatePage() {
                 </ul>
                 <p className="mt-3 text-xs text-muted">
                   <Link to={`/votes?candidat=${candidate.id}`} className="hover:text-ink hover:underline">
-                    {myVotes.length > 6 ? `Voir ses ${myVotes.length} votes sur les grands textes et tous les autres` : 'Voir tous ses votes'}
+                    {myVotes.length > 6 ? `Voir ses ${myVotes.length} votes sur les grands textes` : 'Voir tous ses votes'}
                   </Link>{' '}
                   · source : Assemblée nationale
                 </p>
