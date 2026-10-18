@@ -202,7 +202,7 @@ export default function CandidatePage() {
                   <SourceTypeBadge type="vote_ou_bilan" />
                 </div>
                 <ul className="space-y-3 text-sm">
-                  {myVotes.map(({ s, vote }) => (
+                  {myVotes.slice(0, 6).map(({ s, vote }) => (
                     <li key={s.id}>
                       <Link to={`/votes/${s.id}`} className="block rounded-lg hover:bg-surface-2/60">
                         <span className="block font-medium text-ink">{s.short_title}</span>
@@ -215,8 +215,8 @@ export default function CandidatePage() {
                   ))}
                 </ul>
                 <p className="mt-3 text-xs text-muted">
-                  <Link to="/votes" className="hover:text-ink hover:underline">
-                    Voir tous les votes et l'hémicycle
+                  <Link to={`/votes?candidat=${candidate.id}`} className="hover:text-ink hover:underline">
+                    {myVotes.length > 6 ? `Voir ses ${myVotes.length} votes sur les grands textes et tous les autres` : 'Voir tous ses votes'}
                   </Link>{' '}
                   · source : Assemblée nationale
                 </p>
