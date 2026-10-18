@@ -1,10 +1,10 @@
 import { useMemo, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { motion } from 'framer-motion'
-import { ArrowLeft, ArrowRight, CheckCircle2, Info, Landmark, Search, XCircle } from 'lucide-react'
+import { ArrowLeft, ArrowRight, CheckCircle2, FileText, Info, Landmark, MessageSquareQuote, Search, XCircle } from 'lucide-react'
 import { candidateById, candidates, themeById } from '../data'
-import { curatedViews, KIND_LABELS, useVoteIndex, votes, type IndexKind, type VoteView } from '../data/votes'
-import type { VotePosition } from '../data/schema'
+import { curatedViews, explanations, KIND_LABELS, useVoteIndex, votes, type IndexKind, type VoteView } from '../data/votes'
+import type { VoteArgument, VotePosition } from '../data/schema'
 import { CandidateAvatar } from '../components/CandidateAvatar'
 import { SourceTypeBadge } from '../components/Badges'
 import { ExternalLink } from '../components/ExternalLink'
@@ -436,6 +436,90 @@ function GroupRows({ s, focus, onFocus }: { s: VoteView; focus: string | null; o
   )
 }
 
+/** Arguments d'un camp : texte rapporté, groupes qui l'ont avancé, source. */
+function ArgumentColumn({ s, side, items }: { s: VoteView; side: 'pour' | 'contre' | 'abstention'; items: VoteArgument[] }) {
+  const title =
+    side === 'abstention'
+      ? 'Pourquoi certains se sont abstenus'
+      : s.censure
+        ? side === 'pour'
+          ? 'Pourquoi ils ont voté la censure'
+          : 'Pourquoi les autres ne l\'ont pas votée'
+        : side === 'pour'
+          ? 'Pourquoi ils ont voté pour'
+          : 'Pourquoi ils ont voté contre'
+  const color = side === 'pour' ? VOTE_COLORS.pour : side === 'contre' ? VOTE_COLORS.contre : VOTE_COLORS.abstention
+  return (
+    <div className="rounded-xl border border-line bg-surface p-4" style={{ borderTop: `3px solid ${color}` }}>
+      <h3 className="mb-3 flex items-center gap-2 text-sm font-semibold text-ink">
+        <VoteDot vote={side} /> {title}
+      </h3>
+      {items.length ? (
+        <ul className="space-y-3">
+          {items.map((a, i) => (
+            <li key={i} className="text-sm leading-relaxed text-ink-2">
+              <span className="mb-1 flex flex-wrap gap-1">
+                {a.groups.map((g) => {
+                  const grp = s.groups.find((x) => x.short === g)
+                  return (
+                    <span key={g} className="inline-flex items-center gap-1 rounded-full bg-surface-2 px-2 py-0.5 text-[11px] font-semibold text-ink" title={grp?.label}>
+                      <span className="size-2 rounded-full" style={{ backgroundColor: grp?.color ?? '#9ca3af' }} aria-hidden="true" />
+                      {g}
+                    </span>
+                  )
+                })}
+              </span>
+              {a.text}{' '}
+              <ExternalLink href={a.source_url} className="inline break-words text-xs text-muted hover:text-ink" icon={false}>
+                ({a.source_label})
+              </ExternalLink>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p className="text-sm text-muted">Aucun argument sourcé n'a été trouvé pour ce camp.</p>
+      )}
+    </div>
+  )
+}
+
+/** Contenu global du texte et arguments rapportés de chaque camp. */
+function Explanation({ s }: { s: VoteView }) {
+  const e = explanations.get(s.id)
+  if (!e) return null
+  const abst = e.arguments.abstention ?? []
+  return (
+    <Card className="mb-6 p-5 sm:p-6">
+      <h2 className="mb-2 flex items-center gap-2 text-sm font-semibold text-ink">
+        <FileText className="size-4 text-muted" aria-hidden="true" /> Ce que contient le texte
+      </h2>
+      <p className="leading-relaxed text-ink-2">{e.summary}</p>
+      {e.sources.length > 0 && (
+        <p className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-xs text-muted">
+          Sources :
+          {e.sources.map((src) => (
+            <ExternalLink key={src.url} href={src.url} className="hover:text-ink">
+              {src.label}
+            </ExternalLink>
+          ))}
+        </p>
+      )}
+
+      <h2 className="mb-1 mt-6 flex items-center gap-2 text-sm font-semibold text-ink">
+        <MessageSquareQuote className="size-4 text-muted" aria-hidden="true" /> Les arguments de chaque camp
+      </h2>
+      <p className="mb-4 text-xs text-muted">
+        Arguments avancés par les groupes lors des débats, rapportés d'après la presse et les comptes rendus, sans jugement sur leur bien-fondé.
+      </p>
+      <div className={cx('grid gap-4', abst.length ? 'lg:grid-cols-3' : 'md:grid-cols-2')}>
+        <ArgumentColumn s={s} side="pour" items={e.arguments.pour} />
+        <ArgumentColumn s={s} side="contre" items={e.arguments.contre} />
+        {abst.length > 0 && <ArgumentColumn s={s} side="abstention" items={abst} />}
+      </div>
+    </Card>
+  )
+}
+
 function Detail({ s }: { s: VoteView }) {
   const [mode, setMode] = useState<HemicycleMode>('vote')
   const [focus, setFocus] = useState<string | null>(null)
@@ -481,6 +565,8 @@ function Detail({ s }: { s: VoteView }) {
           </details>
         </div>
       </Card>
+
+      <Explanation s={s} />
 
       <div className="mb-6 grid gap-6 lg:grid-cols-[minmax(0,1.6fr)_minmax(0,1fr)]">
         {/* Hémicycle */}

@@ -11,6 +11,7 @@ import {
   GlossarySchema,
   VotesFileSchema,
   VotesIndexSchema,
+  VoteExplanationsSchema,
   LinkStatusSchema,
   MeasureFileSchema,
   MetaSchema,
@@ -59,6 +60,27 @@ const votesParsed = VotesFileSchema.safeParse(readJson(join(DATA, 'votes.json'))
 if (!votesParsed.success) zodIssues('votes.json', votesParsed.error.issues)
 const votesIndexParsed = VotesIndexSchema.safeParse(readJson(join(DATA, 'votes-index.json')))
 if (!votesIndexParsed.success) zodIssues('votes-index.json', votesIndexParsed.error.issues.slice(0, 20))
+const explanationsParsed = VoteExplanationsSchema.safeParse(readJson(join(DATA, 'votes-explanations.json')))
+if (!explanationsParsed.success) zodIssues('votes-explanations.json', explanationsParsed.error.issues)
+else if (votesParsed.success) {
+  const byId = new Map(votesParsed.data.scrutins.map((s) => [s.id, s]))
+  for (const e of explanationsParsed.data) {
+    const s = byId.get(e.id)
+    if (!s) {
+      warnings.push(`votes-explanations.json › ${e.id} : scrutin absent de votes.json`)
+      continue
+    }
+    // Un argument n'est attribué qu'à des groupes qui ont voté dans ce sens (au moins en partie).
+    for (const side of ['pour', 'contre', 'abstention'] as const)
+      for (const a of e.arguments[side] ?? [])
+        for (const g of a.groups) {
+          const grp = s.groups.find((x) => x.short === g)
+          const counted = side === 'contre' && s.censure ? (grp ? grp.members - grp.pour : 0) : (grp?.[side] ?? 0)
+          if (!grp) errors.push(`votes-explanations.json › ${e.id} : groupe « ${g} » inconnu pour ce scrutin`)
+          else if (!counted) errors.push(`votes-explanations.json › ${e.id} : « ${g} » n'a pas voté ${side}`)
+        }
+  }
+}
 const glossaryParsed = GlossarySchema.safeParse(readJson(join(DATA, 'glossary.json')))
 if (!glossaryParsed.success) zodIssues('glossary.json', glossaryParsed.error.issues)
 else {

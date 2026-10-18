@@ -16,7 +16,8 @@
     "export-data": "tsx scripts/export-data.ts",
     "build:pages": "npm run validate-data && tsc -b && vite build --mode pages && tsx scripts/share-pages.ts",
     "fetch-votes": "tsx scripts/fetch-votes.ts",
-    "og-images": "tsx scripts/og-images.ts"
+    "og-images": "tsx scripts/og-images.ts",
+    "merge-vote-explanations": "tsx scripts/merge-vote-explanations.ts"
   },
   "dependencies": {
     "@fontsource-variable/fraunces": "^5.3.0",
