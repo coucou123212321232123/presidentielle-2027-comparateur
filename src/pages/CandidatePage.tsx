@@ -1,11 +1,12 @@
 import { useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
-import { ArrowLeft, Columns3, Globe, Users, Target, Briefcase, History, FileSearch } from 'lucide-react'
-import { byTheme, candidateById, countFor, meta, summary, themes, useMeasures, useMeasuresFailed } from '../data'
+import { ArrowLeft, Columns3, Globe, Users, Target, Briefcase, History, FileSearch, Landmark } from 'lucide-react'
+import { byTheme, candidateById, countFor, meta, summary, themes, useMeasures, useMeasuresFailed, votes } from '../data'
 import type { ThemeId } from '../data/schema'
 import { CandidateAvatar } from '../components/CandidateAvatar'
-import { NewCountBadge, StatusBadge } from '../components/Badges'
+import { NewCountBadge, SourceTypeBadge, StatusBadge } from '../components/Badges'
+import { VoteBadge } from '../components/Hemicycle'
 import { PositionScale } from '../components/PositionScale'
 import { ProgramBlock, ThemeProgramLink } from '../components/Program'
 import { ExternalLink } from '../components/ExternalLink'
@@ -52,6 +53,7 @@ export default function CandidatePage() {
   const age = ageAt(candidate.birth_date, meta.last_updated)
   const covered = themes.filter((t) => summary[candidate.id]?.byTheme[t.id])
   const uncovered = themes.filter((t) => !summary[candidate.id]?.byTheme[t.id])
+  const myVotes = votes.scrutins.flatMap((s) => s.candidates.filter((p) => p.candidate === candidate.id).map((p) => ({ s, vote: p.vote })))
   const toggle = (t: ThemeId) =>
     setOpen((s) => {
       const n = new Set(s)
@@ -193,6 +195,32 @@ export default function CandidatePage() {
                 </>
               )}
             </InfoCard>
+            {myVotes.length > 0 && (
+              <InfoCard icon={<Landmark className="size-4" />} title="Votes à l'Assemblée sur les grands textes">
+                <div className="mb-3">
+                  <SourceTypeBadge type="vote_ou_bilan" />
+                </div>
+                <ul className="space-y-3 text-sm">
+                  {myVotes.map(({ s, vote }) => (
+                    <li key={s.id}>
+                      <Link to={`/votes/${s.id}`} className="block rounded-lg hover:bg-surface-2/60">
+                        <span className="block font-medium text-ink">{s.short_title}</span>
+                        <span className="mt-1 flex flex-wrap items-center gap-2 text-xs text-muted">
+                          <VoteBadge scrutin={s} vote={vote} />
+                          {formatShortDate(s.date)}
+                        </span>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+                <p className="mt-3 text-xs text-muted">
+                  <Link to="/votes" className="hover:text-ink hover:underline">
+                    Voir tous les votes et l'hémicycle
+                  </Link>{' '}
+                  · source : Assemblée nationale
+                </p>
+              </InfoCard>
+            )}
             {candidate.key_people.length > 0 && (
               <InfoCard icon={<Users className="size-4" />} title="Équipe et porte-parole">
                 <ul className="space-y-2 text-sm">
