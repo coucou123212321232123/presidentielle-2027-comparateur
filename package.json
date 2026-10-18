@@ -14,8 +14,9 @@
     "app": "npm run build:desktop && electron .",
     "dist:win": "npm run build:desktop && electron-builder --win nsis portable",
     "export-data": "tsx scripts/export-data.ts",
-    "build:pages": "npm run validate-data && tsc -b && vite build --mode pages && node -e \"require('fs').copyFileSync('dist/index.html','dist/404.html')\"",
-    "fetch-votes": "tsx scripts/fetch-votes.ts"
+    "build:pages": "npm run validate-data && tsc -b && vite build --mode pages && tsx scripts/share-pages.ts",
+    "fetch-votes": "tsx scripts/fetch-votes.ts",
+    "og-images": "tsx scripts/og-images.ts"
   },
   "dependencies": {
     "@fontsource-variable/fraunces": "^5.3.0",

@@ -174,17 +174,32 @@ async function main() {
       const date = String(s.dateScrutin).slice(0, 10)
       const censure = s.typeVote?.codeTypeVote === 'MOC' || /motion de censure/i.test(label(s))
       const seen = new Map<string, { vote: VotePosition; group: string }>()
+      let debugShown = false
       const groups = list(s.ventilationVotes?.organe?.groupes?.groupe).map((g: any) => {
         const ref = text(g.organeRef)
         const o = organes.get(ref) ?? { ref, short: ref, label: ref, color: '#9ca3af' }
-        const d = g.vote?.decompteVoix ?? {}
+        // Décompte établi à partir des listes nominatives (un député = une ligne), recoupé avec le décompte agrégé.
+        const counts = { pour: 0, contre: 0, abstention: 0, non_votant: 0 }
         for (const [key, vote] of VOTE_KEYS)
-          for (const v of list(g.vote?.decompteNominatif?.[key]?.votant)) seen.set(text(v.acteurRef), { vote, group: o.short })
-        const counts = { pour: num(d.pour), contre: num(d.contre), abstention: num(d.abstentions), non_votant: num(d.nonVotants) + num(d.nonVotantsVolontaires) }
+          for (const v of list(g.vote?.decompteNominatif?.[key]?.votant)) {
+            seen.set(text(v.acteurRef), { vote, group: o.short })
+            counts[vote as keyof typeof counts]++
+          }
+        const d = g.vote?.decompteVoix ?? {}
+        if (num(d.pour) !== counts.pour || num(d.contre) !== counts.contre || num(d.abstentions) !== counts.abstention) {
+          problems.push(`${sel.short_title} › ${o.short} : listes nominatives ≠ décompte agrégé (${JSON.stringify(d)})`)
+        }
+        if (!debugShown) {
+          console.log(`    exemple de décompte agrégé (${o.short}) : ${JSON.stringify(d)} · nominatif : ${JSON.stringify(counts)}`)
+          debugShown = true
+        }
         const members = num(g.nombreMembresGroupe)
         const voted = counts.pour + counts.contre + counts.abstention + counts.non_votant
+        if (voted > members) problems.push(`${sel.short_title} › ${o.short} : ${voted} votes pour ${members} membres`)
         return { ref, short: o.short, label: o.label, color: o.color, members: Math.max(members, voted), ...counts, absent: Math.max(0, members - voted) }
       })
+      const seats = groups.reduce((n, g) => n + g.members, 0)
+      console.log(`    ${seats} sièges · pour ${groups.reduce((n, g) => n + g.pour, 0)}/${num(s.syntheseVote?.decompte?.pour)} · contre ${groups.reduce((n, g) => n + g.contre, 0)}/${num(s.syntheseVote?.decompte?.contre)}`)
       groups.sort((a, b) => {
         const ia = SEAT_ORDER.indexOf(a.short)
         const ib = SEAT_ORDER.indexOf(b.short)
@@ -221,7 +236,7 @@ async function main() {
         censure,
         result: /adopt/i.test(code) ? 'adopte' : 'rejete',
         majority_required: s.syntheseVote?.nbrSuffragesRequis ? num(s.syntheseVote.nbrSuffragesRequis) : null,
-        totals: { pour: num(d.pour), contre: num(d.contre), abstention: num(d.abstentions), non_votant: num(d.nonVotants) + num(d.nonVotantsVolontaires) },
+        totals: { pour: num(d.pour), contre: num(d.contre), abstention: num(d.abstentions), non_votant: groups.reduce((n, g) => n + g.non_votant, 0) },
         groups,
         candidates: personal,
         source_url: `https://www.assemblee-nationale.fr/dyn/${leg}/scrutins/${num(s.numero)}`,

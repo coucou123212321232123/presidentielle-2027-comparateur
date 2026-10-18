@@ -1,14 +1,13 @@
 import { useEffect } from 'react'
 import { create } from 'zustand'
 import { summarize, type MeasureSummary } from './summary'
-import type { Candidate, Changelog, GlossaryEntry, VotesFile, LinkStatus, Measure, Meta, Theme, ThemeId } from './schema'
+import type { Candidate, Changelog, GlossaryEntry, LinkStatus, Measure, Meta, Theme, ThemeId } from './schema'
 import candidatesRaw from './candidates.json'
 import themesRaw from './themes.json'
 import metaRaw from './meta.json'
 import linkStatusRaw from './link-status.json'
 import changelogRaw from './changelog.json'
 import glossaryRaw from './glossary.json'
-import votesRaw from './votes.json'
 import bundleInfo from './bundle-info.json'
 import embeddedSummary from 'virtual:measure-summary'
 import { isDesktop, readCachedBundle } from './remote'
@@ -27,6 +26,9 @@ const measureLoaders = Object.fromEntries(
 const cachedBundle = isDesktop ? readCachedBundle() : null
 const cached = cachedBundle && cachedBundle.meta.last_updated >= (metaRaw as Meta).last_updated ? cachedBundle : null
 
+/** Données téléchargées par l'application de bureau, si plus récentes que les données intégrées. */
+export const cachedData = cached
+
 export const dataSource: 'integrees' | 'en_ligne' = cached ? 'en_ligne' : 'integrees'
 export const generatedAt = cached?.generated_at ?? bundleInfo.generated_at
 export const meta: Meta = cached?.meta ?? (metaRaw as Meta)
@@ -34,7 +36,6 @@ export const themes: Theme[] = cached?.themes ?? (themesRaw as Theme[])
 export const linkStatus: LinkStatus = cached?.link_status ?? (linkStatusRaw as LinkStatus)
 export const changelog: Changelog = cached?.changelog ?? (changelogRaw as Changelog)
 export const glossary: GlossaryEntry[] = cached?.glossary ?? (glossaryRaw as GlossaryEntry[])
-export const votes: VotesFile = cached?.votes ?? (votesRaw as VotesFile)
 
 export const candidates: Candidate[] = (cached?.candidates ?? (candidatesRaw as Candidate[]))
   .slice()
