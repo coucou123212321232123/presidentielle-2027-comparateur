@@ -107,7 +107,7 @@
       "contre": [
         {
           "groups": [
-            "LFI",
+            "LFI-NFP",
             "GDR",
             "ECOS",
             "SOC"
@@ -118,7 +118,7 @@
         },
         {
           "groups": [
-            "LFI",
+            "LFI-NFP",
             "GDR",
             "ECOS",
             "SOC"
@@ -265,7 +265,7 @@
       "contre": [
         {
           "groups": [
-            "LFI"
+            "LFI-NFP"
           ],
           "text": "Les insoumis, dont Gabrielle Cathala, ont dénoncé une dérive avec la prolongation de la vidéosurveillance algorithmique jusqu'à fin 2027, dont plusieurs députés jugent les résultats mitigés.",
           "source_label": "Reporterre – La vidéosurveillance algorithmique pourrait être reconduite au nom des JO 2030",
@@ -293,7 +293,7 @@
       "pour": [
         {
           "groups": [
-            "LFI",
+            "LFI-NFP",
             "ECOS",
             "GDR"
           ],
@@ -385,7 +385,7 @@
       "contre": [
         {
           "groups": [
-            "LFI"
+            "LFI-NFP"
           ],
           "text": "Pour Sébastien Delogu (LFI), le recul des services publics, des centres sociaux et de l'offre médicale crée des zones de relégation où le trafic devient une source d'emploi et de revenus.",
           "source_label": "LCP – L'Assemblée nationale valide la stratégie du gouvernement contre le narcotrafic",
@@ -462,7 +462,7 @@
       "contre": [
         {
           "groups": [
-            "LFI"
+            "LFI-NFP"
           ],
           "text": "Pour Bastien Lachaud (LFI), la stratégie du gouvernement relève d'une « fuite en avant militariste » ; selon lui, préparer la paix suppose de mobiliser d'abord d'autres moyens que les armes.",
           "source_label": "LCP – Vote sur la défense nationale : ce qu'il faut retenir du débat en 6 points",
@@ -502,7 +502,7 @@
       "contre": [
         {
           "groups": [
-            "LFI"
+            "LFI-NFP"
           ],
           "text": "Pour Éric Coquerel (LFI), président de la commission des finances, voter le texte reviendrait à avaliser des coupes décidées par décret, qu'il chiffre à 36,5 milliards d'euros pour l'année.",
           "source_label": "franceinfo – L'Assemblée adopte sur le fil le projet de loi fin de gestion 2025",
@@ -545,7 +545,7 @@
       "contre": [
         {
           "groups": [
-            "LFI",
+            "LFI-NFP",
             "GDR",
             "ECOS",
             "SOC",
@@ -586,7 +586,7 @@
       "pour": [
         {
           "groups": [
-            "LFI"
+            "LFI-NFP"
           ],
           "text": "Pour les insoumis, dont Aurélie Trouvé, la suspension annoncée de la réforme des retraites constitue « un leurre, une tromperie, un subterfuge » qui ne justifie pas d'épargner le gouvernement.",
           "source_label": "LCP – Le gouvernement Lecornu échappe à la censure : et maintenant ?",
@@ -654,14 +654,6 @@
           "text": "Le RN a fait valoir qu'une large majorité de Français souhaitait le départ du gouvernement et a appelé Emmanuel Macron à dissoudre l'Assemblée nationale.",
           "source_label": "LCP – Vote de confiance : le RN et la gauche annoncent qu'ils voteront contre",
           "source_url": "https://lcp.fr/actualites/vote-de-confiance-le-rn-et-lfi-annoncent-qu-ils-voteront-contre-le-gouvernement-de"
-        },
-        {
-          "groups": [
-            "SOC"
-          ],
-          "text": "Pour Boris Vallaud (SOC), le recours au vote de confiance n'était « pas un acte de courage mais une dérobade ».",
-          "source_label": "Aleteia – Vote de confiance : le gouvernement Bayrou renversé",
-          "source_url": "https://fr.aleteia.org/2025/09/08/vote-de-confiance-le-gouvernement-bayrou-renverse/"
         }
       ],
       "abstention": []

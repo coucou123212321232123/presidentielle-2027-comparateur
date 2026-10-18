@@ -65,3 +65,9 @@ Si une étape échoue (validation, build, push), **rien n'est publié** et le ra
 ## Votes à l'Assemblée
 
 Les décomptes de `src/data/votes.json` ne sont jamais saisis à la main : le workflow `.github/workflows/votes.yml` les importe chaque lundi depuis les données ouvertes de l'Assemblée (`npm run fetch-votes`). Pour ajouter un grand texte, ajouter une entrée dans `research/votes/selection.json` (législature, numéro du scrutin, intitulé court, thème, contexte factuel et neutre) : le push déclenche l'import. Les étapes de la navette (première lecture, texte de CMP, lecture définitive) et les motions de censure sont précisées dans le contexte.
+
+### Explications des votes
+
+Pour chaque grand texte, `research/votes/explications/*.json` contient le contenu du texte et les arguments de chaque camp, rapportés et attribués aux groupes qui ont voté dans ce sens, chacun avec sa source (presse de référence, comptes rendus, vie-publique.fr). `npm run merge-vote-explanations` les publie dans `src/data/votes-explanations.json` ; `npm run validate-data` refuse un argument attribué à un groupe qui n'a pas voté dans ce sens. Un camp sans argument sourcé reste vide (« Aucun argument sourcé n'a été trouvé ») : rien n'est complété sans source.
+
+Votes encore sans explication (recherche interrompue faute de quota de recherche) : l16-897, l16-236, l16-186, l17-519, l17-456, l17-438, l17-217, l16-3725. Les compléter en priorité lors de la prochaine mise à jour, ainsi que les camps restés vides.

@@ -470,7 +470,7 @@ function ArgumentColumn({ s, side, items }: { s: VoteView; side: 'pour' | 'contr
                 })}
               </span>
               {a.text}{' '}
-              <ExternalLink href={a.source_url} className="whitespace-nowrap text-xs text-muted hover:text-ink" icon={false}>
+              <ExternalLink href={a.source_url} className="inline break-words text-xs text-muted hover:text-ink" icon={false}>
                 ({a.source_label})
               </ExternalLink>
             </li>
