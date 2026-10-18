@@ -502,8 +502,8 @@ function Detail({ s }: { s: VoteView }) {
                 ))}
           </div>
           <p className="mt-3 text-xs text-muted">
-            Un point par député, regroupés par groupe (de la gauche vers la droite, ordre indicatif). Survolez un groupe pour le mettre en
-            évidence. La place d'un point ne correspond pas au siège réel.
+            Un bloc par groupe politique (de la gauche vers la droite, ordre indicatif), un point par député. Survolez ou touchez un bloc
+            pour afficher le vote du groupe. La place d'un point ne correspond pas au siège réel.
           </p>
         </Card>
 
