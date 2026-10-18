@@ -193,6 +193,59 @@ function SearchResults({ query, kind, candidate }: { query: string; kind: IndexK
   )
 }
 
+/** Les grands textes commentés, filtrables par thème et regroupés par année. */
+function CuratedList() {
+  const [theme, setTheme] = useState<string>('')
+  const themesUsed = [...new Set(curatedViews.map((s) => s.theme).filter(Boolean))]
+    .map((id) => themeById[id!])
+    .filter(Boolean)
+    .sort((a, b) => a.short.localeCompare(b.short, 'fr'))
+  const list = curatedViews.filter((s) => !theme || s.theme === theme)
+  const years = [...new Set(list.map((s) => s.date.slice(0, 4)))]
+
+  return (
+    <section aria-labelledby="grands-textes">
+      <h2 id="grands-textes" className="mb-1 font-display text-2xl font-semibold text-ink">
+        Les grands textes
+      </h2>
+      <p className="mb-4 text-sm text-muted">
+        {plural(curatedViews.length, 'vote commenté', 'votes commentés')} : contexte, hémicycle et vote des candidats alors députés.
+      </p>
+      <div className="mb-6 flex flex-wrap gap-2" role="group" aria-label="Filtrer par thème">
+        <Chip active={!theme} onClick={() => setTheme('')} className="text-xs">
+          Tous les thèmes
+        </Chip>
+        {themesUsed.map((t) => (
+          <Chip key={t.id} active={theme === t.id} onClick={() => setTheme(theme === t.id ? '' : t.id)} className="text-xs">
+            <ThemeIcon theme={t} className="size-3.5" /> {t.short}
+            <span className="tabular-nums opacity-60">{curatedViews.filter((s) => s.theme === t.id).length}</span>
+          </Chip>
+        ))}
+      </div>
+      {list.length ? (
+        <div className="space-y-8">
+          {years.map((y) => (
+            <div key={y}>
+              <h3 className="mb-3 text-xs font-semibold uppercase tracking-[0.14em] text-muted">{y}</h3>
+              <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+                {list
+                  .filter((s) => s.date.startsWith(y))
+                  .map((s) => (
+                    <motion.div key={s.id} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.2 }}>
+                      <VoteCard s={s} />
+                    </motion.div>
+                  ))}
+              </div>
+            </div>
+          ))}
+        </div>
+      ) : (
+        <EmptyState icon={<Landmark className="size-8" />} title="Aucun scrutin importé pour le moment" />
+      )}
+    </section>
+  )
+}
+
 function VotesList() {
   const [params, setParams] = useSearchParams()
   const query = params.get('q') ?? ''
@@ -259,28 +312,7 @@ function VotesList() {
       {searching ? (
         <SearchResults key={`${query}|${kind}|${candidate}`} query={query} kind={kind} candidate={candidate} />
       ) : (
-        <section aria-labelledby="grands-textes">
-          <h2 id="grands-textes" className="mb-1 font-display text-2xl font-semibold text-ink">
-            Les grands textes
-          </h2>
-          <p className="mb-5 text-sm text-muted">Une sélection commentée : contexte, hémicycle et vote des candidats alors députés.</p>
-          {curatedViews.length ? (
-            <motion.div
-              initial="hidden"
-              animate="show"
-              variants={{ show: { transition: { staggerChildren: 0.04 } } }}
-              className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3"
-            >
-              {curatedViews.map((s) => (
-                <motion.div key={s.id} variants={{ hidden: { opacity: 0, y: 10 }, show: { opacity: 1, y: 0 } }}>
-                  <VoteCard s={s} />
-                </motion.div>
-              ))}
-            </motion.div>
-          ) : (
-            <EmptyState icon={<Landmark className="size-8" />} title="Aucun scrutin importé pour le moment" />
-          )}
-        </section>
+        <CuratedList />
       )}
     </div>
   )
