@@ -13,7 +13,7 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { unzipSync, strFromU8 } from 'fflate'
-import { THEME_IDS, VotesFileSchema, type Candidate, type Scrutin, type ThemeId, type VotePosition } from '../src/data/schema.ts'
+import { THEME_IDS, VotesFileSchema, VotesIndexSchema, type Candidate, type Scrutin, type ThemeId, type VotePosition, type VotesIndex } from '../src/data/schema.ts'
 
 const ROOT = join(import.meta.dirname, '..')
 const CACHE = join(ROOT, '.cache', 'votes')
@@ -132,18 +132,103 @@ const VOTE_KEYS: [string, VotePosition][] = [
   ['nonVotants', 'non_votant'],
 ]
 
+
+interface Context {
+  organes: Map<string, Organe>
+  byName: Map<string, Actor>
+  candidates: Candidate[]
+  problems: string[]
+}
+
+/** Décompte d'un scrutin : groupes (d'après les listes nominatives), vote des candidats députés, résultat. */
+function analyse(s: any, leg: number, tag: string, { organes, byName, candidates, problems }: Context) {
+  const date = String(s.dateScrutin).slice(0, 10)
+  const censure = s.typeVote?.codeTypeVote === 'MOC' || /motion de censure/i.test(`${s.titre ?? ''} ${s.objet?.libelle ?? ''}`)
+  const seen = new Map<string, { vote: VotePosition; group: string }>()
+  const groups = list(s.ventilationVotes?.organe?.groupes?.groupe).map((g: any) => {
+    const ref = text(g.organeRef)
+    const o = organes.get(ref) ?? { ref, short: ref, label: ref, color: '#9ca3af' }
+    // Décompte établi à partir des listes nominatives (un député = une ligne), recoupé avec le décompte agrégé.
+    const counts = { pour: 0, contre: 0, abstention: 0, non_votant: 0 }
+    for (const [key, vote] of VOTE_KEYS)
+      for (const v of list(g.vote?.decompteNominatif?.[key]?.votant)) {
+        seen.set(text(v.acteurRef), { vote, group: o.short })
+        counts[vote as keyof typeof counts]++
+      }
+    const d = g.vote?.decompteVoix ?? {}
+    if (num(d.pour) !== counts.pour || num(d.contre) !== counts.contre || num(d.abstentions) !== counts.abstention) {
+      problems.push(`${tag} › ${o.short} : listes nominatives ≠ décompte agrégé (${JSON.stringify(d)})`)
+    }
+    const members = num(g.nombreMembresGroupe)
+    const voted = counts.pour + counts.contre + counts.abstention + counts.non_votant
+    if (voted > members) problems.push(`${tag} › ${o.short} : ${voted} votes pour ${members} membres`)
+    return { ref, short: o.short, label: o.label, color: o.color, members: Math.max(members, voted), ...counts, absent: Math.max(0, members - voted) }
+  })
+  groups.sort((a, b) => {
+    const ia = SEAT_ORDER.indexOf(a.short)
+    const ib = SEAT_ORDER.indexOf(b.short)
+    return (ia < 0 ? SEAT_ORDER.length - 1.5 : ia) - (ib < 0 ? SEAT_ORDER.length - 1.5 : ib)
+  })
+  for (const g of groups) if (!SEAT_ORDER.includes(g.short)) problems.push(`Groupe sans place définie dans l'hémicycle : ${g.short} (${g.label})`)
+
+  const personal: Scrutin['candidates'] = []
+  for (const c of candidates) {
+    const actor = byName.get(norm(`${c.first_name} ${c.last_name}`))
+    if (!actor) continue
+    const deputy = actor.deputy.some((m) => m.start <= date && (!m.end || m.end >= date))
+    const v = seen.get(actor.ref)
+    if (v) personal.push({ candidate: c.id, group: v.group, vote: v.vote })
+    else if (deputy) {
+      // Député à cette date mais absent des listes nominatives : n'a pas pris part au vote.
+      const gp = actor.groups.find((g) => g.start <= date && (!g.end || g.end >= date))
+      personal.push({ candidate: c.id, group: (gp && organes.get(gp.organe)?.short) ?? '', vote: 'absent' })
+    }
+  }
+
+  const d = s.syntheseVote?.decompte ?? {}
+  const code = String(s.sort?.code ?? '')
+  return {
+    id: `l${leg}-${num(s.numero)}`,
+    legislature: leg,
+    numero: num(s.numero),
+    date,
+    official_title: String(s.titre ?? s.objet?.libelle ?? '').replace(/^./, (c) => c.toUpperCase()),
+    vote_type: String(s.typeVote?.libelleTypeVote ?? ''),
+    censure,
+    result: (/adopt/i.test(code) ? 'adopte' : 'rejete') as 'adopte' | 'rejete',
+    majority_required: s.syntheseVote?.nbrSuffragesRequis ? num(s.syntheseVote.nbrSuffragesRequis) : null,
+    totals: { pour: num(d.pour), contre: num(d.contre), abstention: num(d.abstentions), non_votant: groups.reduce((n, g) => n + g.non_votant, 0) },
+    groups,
+    candidates: personal,
+    source_url: `https://www.assemblee-nationale.fr/dyn/${leg}/scrutins/${num(s.numero)}`,
+  }
+}
+
+function kindOf(title: string, censure: boolean): VotesIndex['scrutins'][number]['kind'] {
+  if (censure) return 'motion_de_censure'
+  if (/d[ée]claration/i.test(title)) return 'declaration'
+  if (/projet de loi/i.test(title)) return 'projet_de_loi'
+  if (/proposition de loi/i.test(title)) return 'proposition_de_loi'
+  if (/proposition de r[ée]solution/i.test(title)) return 'resolution'
+  return 'autre'
+}
+
 async function main() {
   const listArg = process.argv.indexOf('--list')
   const listPattern = listArg > -1 ? new RegExp(process.argv[listArg + 1] ?? '.', 'i') : null
   const selection: Selection[] = JSON.parse(readFileSync(join(ROOT, 'research', 'votes', 'selection.json'), 'utf8')).scrutins
   const candidates: Candidate[] = JSON.parse(readFileSync(join(ROOT, 'src', 'data', 'candidates.json'), 'utf8'))
-  const legislatures = [...new Set(selection.map((s) => s.legislature))].sort()
+  // Législatures couvertes : celles des textes sélectionnés, et toutes celles depuis 2022 pour la recherche.
+  const legislatures = [...new Set([16, 17, ...selection.map((s) => s.legislature)])].sort()
   const out: Scrutin[] = []
+  const index: VotesIndex['scrutins'] = []
+  const groupDefs: VotesIndex['groups'] = {}
   const problems: string[] = []
 
   for (const leg of legislatures) {
     const { organes, actors } = await loadActors(leg)
     const byName = new Map([...actors.values()].map((a) => [norm(a.name), a]))
+    const ctx: Context = { organes, byName, candidates, problems }
     const scrutins = readZipJson(await download(scrutinsZip(leg)), () => true)
       .map(({ json }) => json.scrutin)
       .filter(Boolean)
@@ -174,78 +259,31 @@ async function main() {
           console.log(`    candidat : L${leg} n°${s.numero} ${s.dateScrutin} · ${String(s.titre).slice(0, 200)}`)
         continue
       }
-      const s = found[0]
-      const date = String(s.dateScrutin).slice(0, 10)
-      const censure = s.typeVote?.codeTypeVote === 'MOC' || /motion de censure/i.test(label(s))
-      const seen = new Map<string, { vote: VotePosition; group: string }>()
-      let debugShown = false
-      const groups = list(s.ventilationVotes?.organe?.groupes?.groupe).map((g: any) => {
-        const ref = text(g.organeRef)
-        const o = organes.get(ref) ?? { ref, short: ref, label: ref, color: '#9ca3af' }
-        // Décompte établi à partir des listes nominatives (un député = une ligne), recoupé avec le décompte agrégé.
-        const counts = { pour: 0, contre: 0, abstention: 0, non_votant: 0 }
-        for (const [key, vote] of VOTE_KEYS)
-          for (const v of list(g.vote?.decompteNominatif?.[key]?.votant)) {
-            seen.set(text(v.acteurRef), { vote, group: o.short })
-            counts[vote as keyof typeof counts]++
-          }
-        const d = g.vote?.decompteVoix ?? {}
-        if (num(d.pour) !== counts.pour || num(d.contre) !== counts.contre || num(d.abstentions) !== counts.abstention) {
-          problems.push(`${sel.short_title} › ${o.short} : listes nominatives ≠ décompte agrégé (${JSON.stringify(d)})`)
-        }
-        if (!debugShown) {
-          console.log(`    exemple de décompte agrégé (${o.short}) : ${JSON.stringify(d)} · nominatif : ${JSON.stringify(counts)}`)
-          debugShown = true
-        }
-        const members = num(g.nombreMembresGroupe)
-        const voted = counts.pour + counts.contre + counts.abstention + counts.non_votant
-        if (voted > members) problems.push(`${sel.short_title} › ${o.short} : ${voted} votes pour ${members} membres`)
-        return { ref, short: o.short, label: o.label, color: o.color, members: Math.max(members, voted), ...counts, absent: Math.max(0, members - voted) }
-      })
-      const seats = groups.reduce((n, g) => n + g.members, 0)
-      console.log(`    ${seats} sièges · pour ${groups.reduce((n, g) => n + g.pour, 0)}/${num(s.syntheseVote?.decompte?.pour)} · contre ${groups.reduce((n, g) => n + g.contre, 0)}/${num(s.syntheseVote?.decompte?.contre)}`)
-      groups.sort((a, b) => {
-        const ia = SEAT_ORDER.indexOf(a.short)
-        const ib = SEAT_ORDER.indexOf(b.short)
-        return (ia < 0 ? SEAT_ORDER.length - 1.5 : ia) - (ib < 0 ? SEAT_ORDER.length - 1.5 : ib)
-      })
-      for (const g of groups) if (!SEAT_ORDER.includes(g.short)) problems.push(`Groupe sans place définie dans l'hémicycle : ${g.short} (${g.label})`)
+      const a = analyse(found[0], leg, sel.short_title, ctx)
+      out.push({ ...a, short_title: sel.short_title, theme: sel.theme, context: sel.context })
+      console.log(`  ✔ ${sel.short_title} → n°${a.numero} (${a.date}) · ${a.candidates.map((p) => `${p.candidate}=${p.vote}`).join(', ') || 'aucun candidat député'}`)
+    }
 
-      const personal: Scrutin['candidates'] = []
-      for (const c of candidates) {
-        const actor = byName.get(norm(`${c.first_name} ${c.last_name}`))
-        if (!actor) continue
-        const deputy = actor.deputy.some((m) => m.start <= date && (!m.end || m.end >= date))
-        const v = seen.get(actor.ref)
-        if (v) personal.push({ candidate: c.id, group: v.group, vote: v.vote })
-        else if (deputy) {
-          // Député à cette date mais absent des listes nominatives : n'a pas pris part au vote.
-          const gp = actor.groups.find((g) => g.start <= date && (!g.end || g.end >= date))
-          personal.push({ candidate: c.id, group: (gp && organes.get(gp.organe)?.short) ?? '', vote: 'absent' })
-        }
-      }
-
-      const d = s.syntheseVote?.decompte ?? {}
-      const code = String(s.sort?.code ?? '')
-      out.push({
-        id: `l${leg}-${num(s.numero)}`,
+    // Index de recherche : tous les votes sur l'ensemble d'un texte, votes solennels, motions de censure et déclarations.
+    for (const sc of scrutins) {
+      const title = String(sc.titre ?? '')
+      if (!['SPS', 'MOC'].includes(sc.typeVote?.codeTypeVote) && !/^(l'ensemble|la premi[èe]re partie|la d[ée]claration)/i.test(title)) continue
+      const a = analyse(sc, leg, `n°${sc.numero}`, ctx)
+      for (const g of a.groups) groupDefs[g.ref] = [g.short, g.label, g.color]
+      index.push({
+        id: a.id,
         legislature: leg,
-        numero: num(s.numero),
-        date,
-        short_title: sel.short_title,
-        theme: sel.theme,
-        context: sel.context,
-        official_title: String(s.titre ?? s.objet?.libelle ?? '').replace(/^./, (c) => c.toUpperCase()),
-        vote_type: String(s.typeVote?.libelleTypeVote ?? ''),
-        censure,
-        result: /adopt/i.test(code) ? 'adopte' : 'rejete',
-        majority_required: s.syntheseVote?.nbrSuffragesRequis ? num(s.syntheseVote.nbrSuffragesRequis) : null,
-        totals: { pour: num(d.pour), contre: num(d.contre), abstention: num(d.abstentions), non_votant: groups.reduce((n, g) => n + g.non_votant, 0) },
-        groups,
-        candidates: personal,
-        source_url: `https://www.assemblee-nationale.fr/dyn/${leg}/scrutins/${num(s.numero)}`,
+        numero: a.numero,
+        date: a.date,
+        title: a.official_title,
+        kind: kindOf(title, a.censure),
+        censure: a.censure,
+        result: a.result,
+        majority_required: a.majority_required,
+        totals: a.totals,
+        groups: a.groups.map((g) => [g.ref, g.members, g.pour, g.contre, g.abstention, g.non_votant, g.absent]),
+        candidates: a.candidates,
       })
-      console.log(`  ✔ ${sel.short_title} → n°${s.numero} (${date}) · ${personal.map((p) => `${p.candidate}=${p.vote}`).join(', ') || 'aucun candidat député'}`)
     }
   }
 
@@ -261,9 +299,19 @@ async function main() {
     for (const i of parsed.error.issues) console.error(`✖ ${i.path.map(String).join('.')} : ${i.message}`)
     process.exit(1)
   }
-  for (const p of problems) console.warn(`⚠ ${p}`)
+  for (const p of new Set(problems)) console.warn(`⚠ ${p}`)
   writeFileSync(join(ROOT, 'src', 'data', 'votes.json'), JSON.stringify(parsed.data, null, 2) + '\n')
   console.log(`✔ src/data/votes.json : ${out.length}/${selection.length} scrutins`)
+
+  index.sort((a, b) => b.date.localeCompare(a.date) || b.numero - a.numero)
+  const parsedIndex = VotesIndexSchema.safeParse({ generated_at: parsed.data.generated_at, groups: groupDefs, scrutins: index })
+  if (!parsedIndex.success) {
+    for (const i of parsedIndex.error.issues.slice(0, 20)) console.error(`✖ index › ${i.path.map(String).join('.')} : ${i.message}`)
+    process.exit(1)
+  }
+  // Fichier compact (une ligne) : chargé par l'application seulement quand on lance une recherche.
+  writeFileSync(join(ROOT, 'src', 'data', 'votes-index.json'), JSON.stringify(parsedIndex.data) + '\n')
+  console.log(`✔ src/data/votes-index.json : ${index.length} scrutins recherchables`)
 }
 
 main().catch((e) => {
