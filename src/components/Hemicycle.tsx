@@ -54,31 +54,57 @@ interface Seat {
   x: number
   y: number
   angle: number
+  row: number
+}
+
+interface Sector {
+  from: number
+  to: number
+  seats: Seat[]
 }
 
 const INNER = 0.4
+/** Espace angulaire laissé entre deux groupes, pour que chaque parti forme un bloc bien distinct. */
+const GAP = 0.035
 
 /**
- * Positions des sièges en demi-cercle : rangées réparties proportionnellement à leur longueur, puis sièges
- * triés de la gauche vers la droite (angle décroissant), ce qui donne à chaque groupe un secteur.
+ * Un secteur par groupe politique, de la gauche vers la droite, proportionnel à son nombre de membres.
+ * Dans chaque secteur, les sièges sont répartis sur les rangées proportionnellement à leur longueur,
+ * puis triés par angle : les positions de vote d'un groupe forment des tranches contiguës.
  */
-function layout(total: number) {
+function sectorLayout(sizes: number[]) {
+  const total = sizes.reduce((a, b) => a + b, 0) || 1
   const rows = Math.max(4, Math.round(Math.sqrt(total / 3.4)))
   const radii = Array.from({ length: rows }, (_, i) => INNER + ((1 - INNER) * i) / (rows - 1))
-  const sum = radii.reduce((a, b) => a + b, 0)
-  const counts = radii.map((r) => Math.max(1, Math.round((total * r) / sum)))
-  counts[rows - 1] += total - counts.reduce((a, b) => a + b, 0)
-  const seats: Seat[] = []
-  radii.forEach((r, i) => {
-    const n = counts[i]
-    for (let j = 0; j < n; j++) {
-      const angle = n === 1 ? Math.PI / 2 : Math.PI - (Math.PI * j) / (n - 1)
-      seats.push({ x: r * Math.cos(angle), y: r * Math.sin(angle), angle })
-    }
+  const sumR = radii.reduce((a, b) => a + b, 0)
+  const available = Math.PI - GAP * Math.max(0, sizes.length - 1)
+  let start = Math.PI
+  const sectors: Sector[] = sizes.map((n) => {
+    const span = (available * n) / total
+    const from = start
+    const to = start - span
+    start = to - GAP
+    // Sièges par rangée (méthode du plus fort reste), pour que le total du groupe soit exact.
+    const raw = radii.map((r) => (n * r) / sumR)
+    const counts = raw.map(Math.floor)
+    raw
+      .map((v, i) => ({ i, rest: v - Math.floor(v) }))
+      .sort((a, b) => b.rest - a.rest)
+      .slice(0, n - counts.reduce((a, b) => a + b, 0))
+      .forEach(({ i }) => counts[i]++)
+    const seats: Seat[] = []
+    radii.forEach((r, row) => {
+      for (let j = 0; j < counts[row]; j++) {
+        const angle = from - (span * (j + 0.5)) / counts[row]
+        seats.push({ x: r * Math.cos(angle), y: r * Math.sin(angle), angle, row })
+      }
+    })
+    seats.sort((a, b) => b.angle - a.angle || a.row - b.row)
+    return { from, to, seats }
   })
-  seats.sort((a, b) => b.angle - a.angle || a.y - b.y)
-  const spacing = Math.min((1 - INNER) / (rows - 1), Math.PI / counts[rows - 1])
-  return { seats, dot: spacing * 0.43 }
+  const radial = (1 - INNER) / (rows - 1)
+  const along = (available * sumR) / total
+  return { sectors, dot: Math.min(radial, along) * 0.42 }
 }
 
 const polar = (r: number, a: number) => ({ x: r * Math.cos(a), y: -r * Math.sin(a) })
@@ -87,12 +113,21 @@ function arcPath(r: number, from: number, to: number) {
   const p2 = polar(r, to)
   return `M ${p1.x} ${p1.y} A ${r} ${r} 0 0 1 ${p2.x} ${p2.y}`
 }
+/** Secteur d'anneau (zone de survol d'un groupe, y compris l'espace entre les points). */
+function wedgePath(r0: number, r1: number, from: number, to: number) {
+  const a = polar(r1, from)
+  const b = polar(r1, to)
+  const c = polar(r0, to)
+  const d = polar(r0, from)
+  return `M ${a.x} ${a.y} A ${r1} ${r1} 0 0 1 ${b.x} ${b.y} L ${c.x} ${c.y} A ${r0} ${r0} 0 0 0 ${d.x} ${d.y} Z`
+}
 
 export type HemicycleMode = 'vote' | 'groupe'
 
 /**
- * Hémicycle de l'Assemblée : un point par député, groupes de la gauche vers la droite (arc et sigle autour),
- * colorés par position de vote ou par groupe. Un groupe survolé (ici ou dans la liste) est mis en évidence.
+ * Hémicycle de l'Assemblée : un bloc par groupe politique (de la gauche vers la droite), un point par député,
+ * coloré par position de vote ou par groupe. Survoler (ou toucher) un bloc met le groupe en évidence et
+ * affiche son décompte au centre.
  */
 export function Hemicycle({
   scrutin,
@@ -105,37 +140,24 @@ export function Hemicycle({
   focus: string | null
   onFocus: (group: string | null) => void
 }) {
-  const total = scrutin.groups.reduce((n, g) => n + g.members, 0)
-  const { seats, dot } = useMemo(() => layout(total), [total])
-
-  // Chaque groupe reçoit un secteur contigu ; à l'intérieur, les sièges sont rangés par position de vote.
-  const { assigned, arcs } = useMemo(() => {
-    const assigned: { group: string; color: string; vote: VotePosition }[] = []
-    const arcs: { group: string; color: string; from: number; to: number }[] = []
-    for (const g of scrutin.groups) {
-      const start = assigned.length
-      for (const v of VOTE_ORDER) for (let i = 0; i < g[v]; i++) assigned.push({ group: g.short, color: g.color, vote: v })
-      const own = seats.slice(start, assigned.length)
-      if (own.length) arcs.push({ group: g.short, color: g.color, from: Math.max(...own.map((s) => s.angle)), to: Math.min(...own.map((s) => s.angle)) })
-    }
-    return { assigned, arcs }
-  }, [scrutin, seats])
-
-  const headline = scrutin.censure
-    ? { big: String(scrutin.totals.pour), small: 'pour la censure' }
-    : { big: String(scrutin.totals.pour), small: `pour · ${scrutin.totals.contre} contre` }
+  const groups = useMemo(() => scrutin.groups.filter((g) => g.members > 0), [scrutin])
+  const { sectors, dot } = useMemo(() => sectorLayout(groups.map((g) => g.members)), [groups])
+  const focused = groups.find((g) => g.short === focus)
+  const r0 = INNER - dot * 2
+  const r1 = 1 + dot * 2
 
   return (
-    <svg viewBox="-1.5 -1.27 3 1.32" className="w-full select-none" role="img" aria-label={describe(scrutin)}>
-      {/* Arcs et sigles des groupes */}
-      {arcs.map((a) => {
-        const mid = (a.from + a.to) / 2
-        const label = polar(1.17, mid)
-        const dim = focus !== null && focus !== a.group
+    <svg viewBox="-1.5 -1.27 3 1.32" className="w-full touch-manipulation select-none" role="img" aria-label={describe(scrutin)}>
+      {groups.map((g, gi) => {
+        const sec = sectors[gi]
+        const dim = focus !== null && focus !== g.short
+        const mid = (sec.from + sec.to) / 2
+        const label = polar(1.16, mid)
+        const votes = VOTE_ORDER.flatMap((v) => Array.from({ length: g[v] }, () => v))
         return (
-          <g key={a.group} opacity={dim ? 0.3 : 1} onPointerEnter={() => onFocus(a.group)} onPointerLeave={() => onFocus(null)} className="transition-opacity">
-            <path d={arcPath(1.065, a.from + 0.012, a.to - 0.012)} fill="none" stroke={a.color} strokeWidth={0.028} strokeLinecap="round" />
-            {a.from - a.to > 0.14 && (
+          <g key={g.ref} opacity={dim ? 0.15 : 1} className="transition-opacity duration-150">
+            <path d={arcPath(1.065, sec.from, sec.to)} fill="none" stroke={g.color} strokeWidth={0.03} strokeLinecap="round" />
+            {sec.from - sec.to > 0.12 && (
               <text
                 x={label.x}
                 y={label.y}
@@ -144,46 +166,72 @@ export function Hemicycle({
                 className="fill-ink-2"
                 style={{ fontSize: 0.058, fontWeight: 600 }}
               >
-                {a.group}
+                {g.short}
               </text>
             )}
+            {sec.seats.map((s, i) => {
+              const v = votes[i] ?? 'absent'
+              const hollow = mode === 'vote' && v === 'absent'
+              return (
+                <circle
+                  key={i}
+                  cx={s.x}
+                  cy={-s.y}
+                  r={hollow ? dot * 0.82 : dot}
+                  fill={hollow ? 'none' : mode === 'vote' ? VOTE_COLORS[v] : g.color}
+                  stroke={hollow ? 'var(--color-muted)' : 'none'}
+                  strokeWidth={hollow ? dot * 0.3 : 0}
+                  opacity={mode === 'groupe' && v === 'absent' ? 0.3 : hollow ? 0.6 : 1}
+                />
+              )
+            })}
           </g>
         )
       })}
 
-      {/* Sièges */}
-      {seats.map((s, i) => {
-        const a = assigned[i]
-        if (!a) return null
-        const dim = focus !== null && focus !== a.group
-        const absent = a.vote === 'absent'
-        const hollow = mode === 'vote' && absent
+      {/* Zones de survol : un secteur entier par groupe, posé au-dessus des points. */}
+      {groups.map((g, gi) => {
+        const sec = sectors[gi]
         return (
-          <circle
-            key={i}
-            cx={s.x}
-            cy={-s.y}
-            r={hollow ? dot * 0.85 : dot}
-            fill={hollow ? 'none' : mode === 'vote' ? VOTE_COLORS[a.vote] : a.color}
-            stroke={hollow ? 'var(--color-muted)' : 'none'}
-            strokeWidth={hollow ? dot * 0.28 : 0}
-            opacity={dim ? 0.12 : mode === 'groupe' && absent ? 0.35 : hollow ? 0.6 : 1}
-            onPointerEnter={() => onFocus(a.group)}
-            onPointerLeave={() => onFocus(null)}
-            className="transition-opacity"
+          <path
+            key={g.ref}
+            d={wedgePath(r0, r1 + 0.12, sec.from + GAP / 2, sec.to - GAP / 2)}
+            fill="transparent"
+            className="cursor-pointer"
+            onPointerEnter={(e) => e.pointerType === 'mouse' && onFocus(g.short)}
+            onPointerLeave={(e) => e.pointerType === 'mouse' && onFocus(null)}
+            onClick={() => onFocus(focus === g.short ? null : g.short)}
           >
-            <title>{`${a.group} · ${voteLabel(a.vote, scrutin.censure)}`}</title>
-          </circle>
+            <title>{g.label}</title>
+          </path>
         )
       })}
 
-      {/* Résultat au centre */}
-      <text x="0" y="-0.1" textAnchor="middle" className="fill-ink font-display" style={{ fontSize: 0.15, fontWeight: 600 }}>
-        {headline.big}
-      </text>
-      <text x="0" y="-0.02" textAnchor="middle" className="fill-muted" style={{ fontSize: 0.052 }}>
-        {headline.small}
-      </text>
+      {/* Centre : résultat d'ensemble, ou décompte du groupe survolé */}
+      {focused ? (
+        <g pointerEvents="none">
+          <text x="0" y="-0.21" textAnchor="middle" className="font-display" fill={focused.color} style={{ fontSize: 0.105, fontWeight: 700 }}>
+            {focused.short}
+          </text>
+          <text x="0" y="-0.12" textAnchor="middle" className="fill-ink" style={{ fontSize: 0.05, fontWeight: 600 }}>
+            {scrutin.censure ? `${focused.pour} pour la censure` : `${focused.pour} pour · ${focused.contre} contre`}
+          </text>
+          <text x="0" y="-0.055" textAnchor="middle" className="fill-muted" style={{ fontSize: 0.042 }}>
+            {scrutin.censure
+              ? `sur ${focused.members} membres`
+              : `${focused.abstention} abst. · ${focused.absent + focused.non_votant} sans vote · ${focused.members} membres`}
+          </text>
+        </g>
+      ) : (
+        <g pointerEvents="none">
+          <text x="0" y="-0.1" textAnchor="middle" className="fill-ink font-display" style={{ fontSize: 0.15, fontWeight: 600 }}>
+            {scrutin.totals.pour}
+          </text>
+          <text x="0" y="-0.02" textAnchor="middle" className="fill-muted" style={{ fontSize: 0.05 }}>
+            {scrutin.censure ? 'pour la censure' : `pour · ${scrutin.totals.contre} contre`}
+          </text>
+        </g>
+      )}
     </svg>
   )
 }
