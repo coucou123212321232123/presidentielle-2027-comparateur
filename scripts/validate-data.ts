@@ -10,6 +10,7 @@ import {
   ChangelogSchema,
   GlossarySchema,
   VotesFileSchema,
+  VotesIndexSchema,
   LinkStatusSchema,
   MeasureFileSchema,
   MetaSchema,
@@ -56,6 +57,8 @@ const changelogParsed = ChangelogSchema.safeParse(readJson(join(DATA, 'changelog
 if (!changelogParsed.success) zodIssues('changelog.json', changelogParsed.error.issues)
 const votesParsed = VotesFileSchema.safeParse(readJson(join(DATA, 'votes.json')))
 if (!votesParsed.success) zodIssues('votes.json', votesParsed.error.issues)
+const votesIndexParsed = VotesIndexSchema.safeParse(readJson(join(DATA, 'votes-index.json')))
+if (!votesIndexParsed.success) zodIssues('votes-index.json', votesIndexParsed.error.issues.slice(0, 20))
 const glossaryParsed = GlossarySchema.safeParse(readJson(join(DATA, 'glossary.json')))
 if (!glossaryParsed.success) zodIssues('glossary.json', glossaryParsed.error.issues)
 else {

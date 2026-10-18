@@ -299,7 +299,7 @@ async function main() {
     for (const i of parsed.error.issues) console.error(`✖ ${i.path.map(String).join('.')} : ${i.message}`)
     process.exit(1)
   }
-  for (const p of problems) console.warn(`⚠ ${p}`)
+  for (const p of new Set(problems)) console.warn(`⚠ ${p}`)
   writeFileSync(join(ROOT, 'src', 'data', 'votes.json'), JSON.stringify(parsed.data, null, 2) + '\n')
   console.log(`✔ src/data/votes.json : ${out.length}/${selection.length} scrutins`)
 
