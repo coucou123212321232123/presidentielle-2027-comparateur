@@ -163,6 +163,15 @@ for (const c of candidates) {
 
 const total = measureIds.size
 console.log(`\n${candidates.length} candidats · ${themes.length} thèmes · ${total} mesures\n`)
+// Groupe du parti de chaque candidat : candidat connu, et sigle présent dans les scrutins de la législature.
+const partyGroups = readJson(join(DATA, 'party-groups.json')) as { candidates: Record<string, { groups: Record<string, string> }> }
+for (const [id, p] of Object.entries(partyGroups.candidates)) {
+  if (!ids.has(id)) errors.push(`party-groups.json : candidat inconnu « ${id} »`)
+  if (votesParsed.success)
+    for (const [leg, short] of Object.entries(p.groups))
+      if (!votesParsed.data.scrutins.some((s) => String(s.legislature) === leg && s.groups.some((g) => g.short === short)))
+        errors.push(`party-groups.json › ${id} : groupe « ${short} » absent des scrutins de la ${leg}e législature`)
+}
 if (parrainagesParsed.success)
   for (const c of parrainagesParsed.data.candidates)
     if (c.candidate && !ids.has(c.candidate)) errors.push(`parrainages.json : candidat inconnu « ${c.candidate} »`)

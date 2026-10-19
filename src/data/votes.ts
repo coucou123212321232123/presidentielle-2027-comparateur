@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import type { Scrutin, ThemeId, VoteExplanation, VotesFile, VotesIndex } from './schema'
 import votesRaw from './votes.json'
 import explanationsRaw from './votes-explanations.json'
+import partyGroupsRaw from './party-groups.json'
 import { cachedData } from '.'
 
 // Module à part : les votes ne sont chargés qu'avec les pages qui les affichent (Votes, fiches candidats).
@@ -11,6 +12,14 @@ export const votes: VotesFile = cachedData?.votes ?? (votesRaw as VotesFile)
 export const explanations = new Map<string, VoteExplanation>(
   (cachedData?.vote_explanations ?? (explanationsRaw as VoteExplanation[])).map((e) => [e.id, e]),
 )
+
+/** Groupe de l'Assemblée où siègent les députés du parti d'un candidat, par législature (src/data/party-groups.json). */
+export interface PartyGroup {
+  party: string
+  groups: Record<string, string>
+  note?: string
+}
+export const partyGroups = partyGroupsRaw as { rule: string; source_label: string; source_url: string; candidates: Record<string, PartyGroup> }
 
 export type IndexKind = VotesIndex['scrutins'][number]['kind']
 

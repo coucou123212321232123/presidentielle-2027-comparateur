@@ -3,7 +3,7 @@ import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
 import { ArrowLeft, ChevronDown, Columns3, Globe, Users, Target, Briefcase, History, FileSearch, Landmark } from 'lucide-react'
 import { byTheme, candidateById, countFor, meta, summary, themes, useMeasures, useMeasuresFailed } from '../data'
-import { votes } from '../data/votes'
+import { partyGroups, votes, type PartyGroup } from '../data/votes'
 import type { ThemeId } from '../data/schema'
 import { CandidateAvatar } from '../components/CandidateAvatar'
 import { NewCountBadge, SourceTypeBadge, StatusBadge } from '../components/Badges'
@@ -21,40 +21,106 @@ import { newCount, useNovelty } from '../lib/novelty'
 import { ageAt, formatDate, formatShortDate, fullName, plural } from '../lib/format'
 import NotFoundPage from './NotFoundPage'
 
-type CandidateVote = { s: (typeof votes.scrutins)[number]; vote: (typeof votes.scrutins)[number]['candidates'][number]['vote'] }
+type Scrutin = (typeof votes.scrutins)[number]
+type Position = Scrutin['candidates'][number]['vote']
+type GroupCount = Scrutin['groups'][number]
 
-/** Votes du candidat (député) sur les grands textes d'un thème : repliés par défaut, ouverts à la demande. */
-function ThemeVotes({ list }: { list: CandidateVote[] }) {
+/** Position majoritaire d'un groupe : « absent » s'il n'a pas pris part au vote, null si ses voix sont partagées à égalité. */
+function groupPosition(s: Scrutin, g: GroupCount): Position | null {
+  if (s.censure) return g.pour * 2 > g.members ? 'pour' : 'absent'
+  const ranked = (['pour', 'contre', 'abstention'] as const).map((v) => [v, g[v]] as const).sort((a, b) => b[1] - a[1])
+  if (!ranked[0][1]) return 'absent'
+  if (ranked[0][1] === ranked[1][1]) return null
+  return ranked[0][0]
+}
+
+function groupCounts(s: Scrutin, g: GroupCount) {
+  if (s.censure) return `${g.pour} député${g.pour > 1 ? 's' : ''} sur ${g.members} ${g.pour > 1 ? 'ont' : 'a'} voté la censure`
+  return `${g.pour} pour · ${g.contre} contre · ${g.abstention} abst. (${g.members} députés)`
+}
+
+/** Groupe de l'Assemblée où siègent les députés du parti du candidat, pour une législature. */
+const partyGroupOf = (candidateId: string, s: Scrutin) => {
+  const short = (partyGroups.candidates as Record<string, PartyGroup>)[candidateId]?.groups[String(s.legislature)]
+  return short ? s.groups.find((g) => g.short === short) : undefined
+}
+
+/**
+ * Votes à l'Assemblée sur les grands textes d'un thème : position du groupe du parti du candidat
+ * (et son vote personnel s'il était député). Repliés par défaut, ouverts à la demande.
+ */
+function ThemeVotes({ candidateId, theme }: { candidateId: string; theme: ThemeId }) {
   const [open, setOpen] = useState(false)
-  if (!list.length) return null
+  const party = (partyGroups.candidates as Record<string, PartyGroup>)[candidateId]
+  const rows = votes.scrutins
+    .filter((s) => s.theme === theme)
+    .map((s) => ({ s, group: partyGroupOf(candidateId, s), personal: s.candidates.find((p) => p.candidate === candidateId)?.vote }))
+    .filter((r) => r.group || r.personal)
+    .sort((a, b) => b.s.date.localeCompare(a.s.date))
+  if (!rows.length) return null
   return (
     <div className="mt-4 border-t border-line pt-3">
       <button
         type="button"
         onClick={() => setOpen((o) => !o)}
         aria-expanded={open}
-        className="inline-flex items-center gap-1.5 text-sm font-medium text-muted hover:text-ink"
+        className="inline-flex items-center gap-1.5 text-left text-sm font-medium text-muted hover:text-ink"
       >
-        <Landmark className="size-4" aria-hidden="true" />
-        {open ? 'Masquer ses votes sur ce thème' : `Voir ses votes à l'Assemblée sur ce thème (${list.length})`}
-        <ChevronDown className={cx('size-4 transition-transform', open && 'rotate-180')} aria-hidden="true" />
+        <Landmark className="size-4 shrink-0" aria-hidden="true" />
+        {open
+          ? 'Masquer les votes sur ce thème'
+          : `${party ? 'Voir les votes de son parti' : 'Voir ses votes'} à l'Assemblée sur ce thème (${rows.length})`}
+        <ChevronDown className={cx('size-4 shrink-0 transition-transform', open && 'rotate-180')} aria-hidden="true" />
       </button>
       {open && (
         <div className="mt-3">
           <ul className="divide-y divide-line overflow-hidden rounded-xl border border-line">
-            {list.map(({ s, vote }) => (
-              <li key={s.id}>
-                <Link to={`/votes/${s.id}`} className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 px-3 py-2.5 hover:bg-surface-2/60">
-                  <span className="min-w-0">
-                    <span className="block text-sm font-medium text-ink">{s.short_title}</span>
-                    <span className="block text-xs text-muted">Vote du {formatShortDate(s.date)}</span>
-                  </span>
-                  <VoteBadge scrutin={s} vote={vote} />
-                </Link>
-              </li>
-            ))}
+            {rows.map(({ s, group, personal }) => {
+              const pos = group ? groupPosition(s, group) : null
+              return (
+                <li key={s.id}>
+                  <Link to={`/votes/${s.id}`} className="flex flex-col gap-2 px-3 py-2.5 hover:bg-surface-2/60 sm:flex-row sm:items-start sm:justify-between sm:gap-4">
+                    <span className="min-w-0 flex-1">
+                      <span className="block text-sm font-medium text-ink">{s.short_title}</span>
+                      <span className="block text-xs text-muted">Vote du {formatShortDate(s.date)}</span>
+                    </span>
+                    <span className="flex shrink-0 flex-col items-start gap-1 sm:items-end">
+                      {group && (
+                        <>
+                          <span className="flex flex-wrap items-center gap-1.5 text-xs text-muted">
+                            Groupe {group.short} :
+                            {pos ? (
+                              <VoteBadge scrutin={s} vote={pos} />
+                            ) : (
+                              <span className="rounded-full border border-dashed border-line px-2.5 py-0.5 font-semibold">Partagé</span>
+                            )}
+                          </span>
+                          <span className="text-[11px] tabular-nums text-muted">{groupCounts(s, group)}</span>
+                        </>
+                      )}
+                      {personal && (
+                        <span className="flex flex-wrap items-center gap-1.5 text-xs text-muted">
+                          Son vote de député : <VoteBadge scrutin={s} vote={personal} />
+                        </span>
+                      )}
+                    </span>
+                  </Link>
+                </li>
+              )
+            })}
           </ul>
-          <p className="mt-2 text-xs text-muted">Votes enregistrés par l'Assemblée nationale pendant son mandat de député · grands textes uniquement.</p>
+          <p className="mt-2 text-xs text-muted">
+            {party ? (
+              <>
+                Position majoritaire du groupe où siègent les députés de {party.party} ({[...new Set(Object.values(party.groups))].join(', ')}), et
+                décompte officiel.{party.note ? ` ${party.note}` : ''}{' '}
+              </>
+            ) : null}
+            Grands textes uniquement · source :{' '}
+            <ExternalLink href={partyGroups.source_url} className="hover:text-ink">
+              {partyGroups.source_label}
+            </ExternalLink>
+          </p>
         </div>
       )}
     </div>
@@ -102,6 +168,7 @@ export default function CandidatePage() {
   const age = ageAt(candidate.birth_date, meta.last_updated)
   const covered = themes.filter((t) => summary[candidate.id]?.byTheme[t.id])
   const uncovered = themes.filter((t) => !summary[candidate.id]?.byTheme[t.id])
+  const party = (partyGroups.candidates as Record<string, PartyGroup>)[candidate?.id ?? '']
   const myVotes = votes.scrutins.flatMap((s) => s.candidates.filter((p) => p.candidate === candidate.id).map((p) => ({ s, vote: p.vote })))
   const toggle = (t: ThemeId) =>
     setOpen((s) => {
@@ -244,6 +311,20 @@ export default function CandidatePage() {
                 </>
               )}
             </InfoCard>
+            {party && (
+              <InfoCard icon={<Landmark className="size-4" />} title="Son parti à l'Assemblée nationale">
+                <p className="text-sm leading-relaxed text-ink-2">
+                  Les députés de {party.party} siègent dans le groupe {[...new Set(Object.values(party.groups))].join(' puis ')}. Leurs votes sur
+                  les grands textes sont indiqués dans chaque thème, sous les mesures (« Voir les votes de son parti »).
+                </p>
+                <p className="mt-3 text-xs text-muted">
+                  <Link to="/votes" className="hover:text-ink hover:underline">
+                    Tous les grands textes votés
+                  </Link>{' '}
+                  · source : Assemblée nationale
+                </p>
+              </InfoCard>
+            )}
             {myVotes.length > 0 && (
               <InfoCard icon={<Landmark className="size-4" />} title="Votes à l'Assemblée sur les grands textes">
                 <div className="mb-3">
@@ -391,7 +472,7 @@ export default function CandidatePage() {
                       </AnimatePresence>
                     </div>
                     {list.length === 0 && <p className="text-sm text-muted">Aucune mesure ne correspond aux filtres actifs.</p>}
-                    <ThemeVotes list={myVotes.filter((v) => v.s.theme === t.id).sort((a, b) => b.s.date.localeCompare(a.s.date))} />
+                    <ThemeVotes candidateId={candidate.id} theme={t.id} />
                   </>
                 ) : (
                   <div className="grid gap-3 md:grid-cols-2" aria-busy="true" aria-label="Chargement des mesures">

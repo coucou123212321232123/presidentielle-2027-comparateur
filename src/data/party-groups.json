@@ -1,0 +1,22 @@
+{
+  "rule": "Groupe de l'Assemblée nationale où siègent les députés du parti du candidat, d'après le parti de rattachement déclaré par chaque député (données ouvertes de l'Assemblée). Seuls les partis qui forment un groupe sont repris : les autres candidats n'apparaissent pas.",
+  "source_label": "Assemblée nationale – données ouvertes (députés, partis de rattachement et groupes)",
+  "source_url": "https://data.assemblee-nationale.fr/",
+  "candidates": {
+    "attal": {
+      "party": "Renaissance",
+      "groups": { "16": "RE", "17": "EPR" },
+      "note": "Les députés Renaissance sont rattachés à « Ensemble » dans les données de l'Assemblée ; ils forment le groupe Renaissance (2022-2024) puis Ensemble pour la République (depuis 2024)."
+    },
+    "le-pen": { "party": "Rassemblement national", "groups": { "16": "RN", "17": "RN" } },
+    "melenchon": { "party": "La France insoumise", "groups": { "16": "LFI-NUPES", "17": "LFI-NFP" } },
+    "philippe": { "party": "Horizons", "groups": { "16": "HOR", "17": "HOR" } },
+    "retailleau": { "party": "Les Républicains", "groups": { "16": "LR", "17": "DR" } },
+    "roussel": {
+      "party": "Parti communiste français",
+      "groups": { "16": "GDR-NUPES", "17": "GDR" },
+      "note": "Depuis 2024, la majorité des députés rattachés au PCF siègent dans le groupe Gauche démocrate et républicaine, quelques-uns dans le groupe Écologiste et social."
+    },
+    "tondelier": { "party": "Les Écologistes", "groups": { "16": "ECOLO", "17": "ECOS" } }
+  }
+}
