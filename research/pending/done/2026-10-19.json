@@ -1,0 +1,477 @@
+{
+  "date": "2026-10-19",
+  "since": "2026-10-17",
+  "signalements": "Aucune issue ouverte portant le label signalement.",
+  "proposals": [
+    {
+      "candidate": "glucksmann",
+      "kind": "update_candidate",
+      "data": {
+        "id": "glucksmann",
+        "key_people": [
+          {
+            "name": "Aurore Lalucq",
+            "role": "Coprésidente de Place publique"
+          },
+          {
+            "name": "Yannick Jadot",
+            "role": "Soutien, chargé de préparer le volet écologique du programme (selon Wikipédia et L'Info Durable)"
+          },
+          {
+            "name": "Nicolas Mayer-Rossignol",
+            "role": "Maire de Rouen, chargé du projet et du programme (selon actu.fr et franceinfo)"
+          }
+        ],
+        "sources_add": [
+          {
+            "label": "actu.fr (12/09/2026) – Nicolas Mayer-Rossignol rejoint Raphaël Glucksmann",
+            "url": "https://actu.fr/normandie/rouen_76540/le-combat-de-ma-vie-militante-pourquoi-nicolas-mayer-rossignol-rejoint-raphael-glucksmann-pour-la-presidentielle_64774359.html"
+          },
+          {
+            "label": "franceinfo (13/10/2026) – Les huit défis de Raphaël Glucksmann après la primaire",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/les-emmerdes-commencent-les-huit-defis-que-raphael-glucksmann-va-devoir-relever-apres-sa-victoire-a-la-primaire-de-la-gauche_8234041.html"
+          }
+        ],
+        "last_verified": "2026-10-19"
+      },
+      "evidence": [
+        {
+          "url": "https://actu.fr/normandie/rouen_76540/le-combat-de-ma-vie-militante-pourquoi-nicolas-mayer-rossignol-rejoint-raphael-glucksmann-pour-la-presidentielle_64774359.html",
+          "excerpt": "chargé du projet et du programme de Raphaël Glucksmann"
+        },
+        {
+          "url": "https://www.franceinfo.fr/elections/presidentielle/les-emmerdes-commencent-les-huit-defis-que-raphael-glucksmann-va-devoir-relever-apres-sa-victoire-a-la-primaire-de-la-gauche_8234041.html",
+          "excerpt": "chargé en septembre de piloter la construction du projet"
+        }
+      ],
+      "reason": "Changement d'équipe : rôle de responsable du projet/programme confirmé par deux médias indépendants (actu.fr, 12/09/2026 ; franceinfo, 13/10/2026), absent de key_people. 'sources_add' = entrées à ajouter au tableau sources existant (ne pas remplacer). Non proposé faute de second média fiable : Simon Bernard « coordinateur de sa campagne » (franceinfo seul ; autres mentions = sites d'opinion ou post X).",
+      "n": 1,
+      "decision": "acceptee",
+      "motif": "Sources rouvertes : actu.fr (12/09/2026) indique que Nicolas Mayer-Rossignol est « en charge du projet et du programme » de Raphaël Glucksmann ; franceinfo (13/10/2026) indique qu'il a été « chargé en septembre de piloter la construction du projet ». Deux médias indépendants et concordants, rôle repris fidèlement, ton neutre. Aucune source plus récente ne contredit. Format conforme (key_people complet, sources_add à ajouter). L'exclusion de Simon Bernard (franceinfo seul) est justifiée."
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "id": "philippe-education-10",
+        "theme": "education",
+        "title": "Rythmes scolaires : apprentissages concentrés le matin",
+        "description": "Lors d'une réunion de campagne numérique consacrée à l'école (15 octobre 2026), Édouard Philippe s'est dit favorable à concentrer les heures d'apprentissage le matin afin de libérer l'après-midi pour le sport et la culture. Il a également posé la question d'une limitation des vacances de la Toussaint et de Pâques, sans détailler de modalités.",
+        "source_type": "declaration",
+        "source_title": "franceinfo (avec AFP) – Édouard Philippe prône une évolution des rythmes scolaires (16 octobre 2026)",
+        "source_url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-philippe-prone-une-evolution-des-rythmes-scolaires-avec-un-apprentissage-concentre-en-matinee-et-des-vacances-plus-courtes_8239537.html",
+        "source_date": "2026-10-16",
+        "source_page": null,
+        "precision": "orientation_generale",
+        "last_verified": "2026-10-19",
+        "added": "2026-10-19"
+      },
+      "evidence": [
+        {
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-philippe-prone-une-evolution-des-rythmes-scolaires-avec-un-apprentissage-concentre-en-matinee-et-des-vacances-plus-courtes_8239537.html",
+          "excerpt": "si on veut concentrer les heures d'apprentissage le matin"
+        },
+        {
+          "url": "https://actu.orange.fr/politique/edouard-philippe-milite-pour-des-heures-d-apprentissage-concentrees-en-matinee-pour-reformer-les-rythmes-scolaires-l-express-via-6medias-CNT000002sV5ti.html",
+          "excerpt": "concentrer les heures d'apprentissage le matin pour pouvoir avoir le temps"
+        },
+        {
+          "url": "https://www.journaldunet.com/business/action-publique/1556729-edouard-philippe-propose-de-concentrer-les-heures-d-apprentissage-le-matin-et-de-reduire-les-vacances/",
+          "excerpt": "limiter le nombre de jours de congés ou de vacances au moment de la Toussaint"
+        }
+      ],
+      "reason": "Déclaration du candidat lors de sa réunion de campagne sur l'école du 15 octobre 2026, rapportée par deux médias indépendants concordants (franceinfo/AFP ; 6Médias/L'Express via Orange, non attribué à l'AFP), plus le Journal du Net. Non couverte par les mesures existantes : philippe-education-06 porte sur l'avancement de la rentrée et la fin d'année, pas sur le rythme quotidien. Les vacances plus courtes ont été posées sous forme de question (« une question assez explosive ») : la description le dit, d'où precision = orientation_generale. Pas d'indicateur.",
+      "n": 2,
+      "decision": "acceptee",
+      "motif": "franceinfo/AFP (16/10/2026), 6Médias/L'Express via Orange et Journal du Net rouverts. Tous rapportent la réunion de campagne du 15 octobre 2026 sur l'éducation, l'idée de concentrer les apprentissages le matin pour libérer l'après-midi (sport, culture, langues) et la question, présentée par lui comme « assez explosive », de limiter les vacances de la Toussaint et de Pâques. La forme interrogative est bien rendue, d'où orientation_generale. Les deux médias ont rédigé des textes distincts. Pas de doublon : philippe-education-02 porte sur l'autonomie des chefs d'établissement, philippe-education-06 sur la rentrée et le mois de juin. Le format est conforme."
+    },
+    {
+      "candidate": "attal",
+      "kind": "update_candidate",
+      "data": {
+        "id": "attal",
+        "key_people": [
+          {
+            "name": "Maxime Cordier",
+            "role": "Co-directeur de campagne"
+          },
+          {
+            "name": "Franck Riester",
+            "role": "Co-directeur de campagne"
+          },
+          {
+            "name": "Fanny Anor",
+            "role": "Co-directrice de campagne"
+          },
+          {
+            "name": "Agnès Pannier-Runacher",
+            "role": "Co-responsable du programme"
+          },
+          {
+            "name": "Paul Midy",
+            "role": "Co-responsable du programme"
+          },
+          {
+            "name": "Prisca Thevenot",
+            "role": "Directrice de la mobilisation et des territoires"
+          },
+          {
+            "name": "Thomas Cazenave",
+            "role": "Président du comité des maires"
+          },
+          {
+            "name": "Céline Géraud",
+            "role": "Responsable des porte-paroles"
+          },
+          {
+            "name": "Jean-Charles Orsucci",
+            "role": "Porte-parole"
+          },
+          {
+            "name": "Violette Spillebout",
+            "role": "Porte-parole"
+          },
+          {
+            "name": "Abdoulaye Kanté",
+            "role": "Porte-parole"
+          },
+          {
+            "name": "Rachel-Flore Pardo",
+            "role": "Porte-parole"
+          },
+          {
+            "name": "Jad Zahab",
+            "role": "Porte-parole"
+          }
+        ],
+        "last_verified": "2026-10-19"
+      },
+      "evidence": [
+        {
+          "url": "https://attalpresident.fr/mon-equipe",
+          "excerpt": "Céline Géraud – Responsable des porte-paroles"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe",
+          "excerpt": "Violette Spillebout – Porte-parole"
+        }
+      ],
+      "reason": "Complément, pas un changement survenu depuis le 17 octobre. La page officielle « Équipe » liste une responsable des porte-paroles et cinq porte-paroles, absents de key_people ; les sept personnes déjà présentes sont confirmées avec les mêmes rôles. Rôles repris tels qu'affichés sur le site. L'équipe a été présentée le 3 septembre 2026 (LCP, Public Sénat), donc ce n'est pas une nouveauté de la semaine. Le trésorier et les ambassadeurs thématiques ne sont pas repris.",
+      "n": 3,
+      "decision": "acceptee",
+      "motif": "Page officielle attalpresident.fr/mon-equipe rouverte : les sept personnes déjà présentes ont les mêmes rôles. Céline Géraud y figure comme « Responsable des porte-paroles », et Jean-Charles Orsucci, Violette Spillebout, Abdoulaye Kanté, Rachel-Flore Pardo et Jad Zahab comme porte-parole (la page écrit « Porte-Parole » pour Jad Zahab, simple différence de casse). La source est officielle et le format conforme."
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "id": "lisnard-economie-05",
+        "theme": "economie",
+        "title": "Cesser de subventionner les entreprises pour compenser leurs charges",
+        "description": "Fin des subventions aux entreprises destinées à compenser leurs charges, remplacées par une baisse directe de la fiscalité et des charges. Mesure annoncée au meeting de Saint-Raphaël du 3 juillet 2026.",
+        "source_type": "officiel",
+        "source_title": "Nouvelle Énergie – Quel candidat à la présidentielle 2027 veut supprimer les subventions aux entreprises ?",
+        "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-subventions-aux-entreprises/",
+        "source_date": "2026-10-16",
+        "source_page": null,
+        "precision": "precis",
+        "cost": null,
+        "indicator": null,
+        "last_verified": "2026-10-19",
+        "added": "2026-10-19"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-subventions-aux-entreprises/",
+          "excerpt": "nous cesserons de subventionner les entreprises pour compenser les charges"
+        }
+      ],
+      "reason": "Fiche « Questions » du site officiel (mise à jour le 16/10/2026) non encore exploitée ; aucune mesure existante sur les subventions aux entreprises (vérifié : economie-01 à 04, fiscalite-01 à 05).",
+      "n": 4,
+      "decision": "acceptee",
+      "motif": "Fiche officielle « Questions » de Nouvelle Énergie rouverte (« Mis à jour le 16 octobre 2026 »). Elle dit : cesser de subventionner les entreprises pour compenser leurs charges, et baisser directement la fiscalité et les charges, d'après le meeting de Saint-Raphaël du 3 juillet 2026. La citation de l'evidence est exacte. Source officielle, source_date conforme à la date de mise à jour, aucun doublon parmi economie-01 à 04 et fiscalite-01 à 05. Format conforme."
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "id": "lisnard-economie-06",
+        "theme": "economie",
+        "title": "Ramener en dix ans la dépense publique au niveau actuel des Pays-Bas",
+        "description": "Objectif, sur dix ans, de ramener la dépense publique au niveau actuel des Pays-Bas, soit 45 % de la richesse produite contre 57 % en France selon le candidat, un écart qu'il chiffre à 350 Md€.",
+        "source_type": "declaration",
+        "source_title": "Entretien au JDNews, reproduit sur le site de Nouvelle Énergie – « Redresser la France ne se résume pas à un slogan »",
+        "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+        "source_date": "2026-10-15",
+        "source_page": null,
+        "precision": "chiffre",
+        "cost": null,
+        "indicator": null,
+        "last_verified": "2026-10-19",
+        "added": "2026-10-19"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+          "excerpt": "ramener notre dépense publique au niveau actuel des Pays-Bas"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+          "excerpt": "La dépense publique y représente 45 % de la richesse produite"
+        }
+      ],
+      "reason": "Entretien du candidat reproduit sur son site officiel (15/10/2026), non encore exploité. Objectif de long terme distinct de lisnard-economie-01 (200 Md€ d'économies). Source primaire = reproduction intégrale sur le site du parti du candidat ; l'article original du JDNews n'a pas été retrouvé en ligne.",
+      "n": 5,
+      "decision": "acceptee",
+      "motif": "Entretien au JDNews reproduit en entier sur le site officiel du parti (daté du 15 octobre 2026), ce qui en fait une source primaire. Le texte dit : « Mon objectif, sur dix ans, consiste à ramener notre dépense publique au niveau actuel des Pays-Bas » ; 45 % contre 57 % ; « Douze points d'écart, soit 350 milliards d'euros ». Description fidèle, l'attribution « selon le candidat » est correcte. C'est un objectif distinct de lisnard-economie-01 (200 Md€). Type declaration et precision chiffre corrects."
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "id": "lisnard-retraites-04",
+        "theme": "retraites",
+        "title": "Faire converger les régimes de retraite public et privé",
+        "description": "Convergence des systèmes de retraite du secteur public et du secteur privé, annoncée avec la mise en place d'une retraite individualisée mêlant capitalisation et répartition.",
+        "source_type": "declaration",
+        "source_title": "Entretien au JDNews, reproduit sur le site de Nouvelle Énergie – « Redresser la France ne se résume pas à un slogan »",
+        "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+        "source_date": "2026-10-15",
+        "source_page": null,
+        "precision": "precis",
+        "cost": null,
+        "indicator": null,
+        "last_verified": "2026-10-19",
+        "added": "2026-10-19"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+          "excerpt": "Nous ferons converger les systèmes de retraite public et privé."
+        }
+      ],
+      "reason": "Entretien du candidat reproduit sur son site officiel (15/10/2026). Aucune mesure existante sur la convergence public-privé (retraites-01 : capitalisation ; 02 : réforme 2023 ; 03 : socle par répartition et agence unique).",
+      "n": 6,
+      "decision": "acceptee",
+      "motif": "Même entretien sur le site officiel : « Nous ferons converger les systèmes de retraite public et privé. Nous mettrons en place une retraite par capitalisation et créerons une retraite individualisée, mêlant capitalisation et répartition. » Reformulation fidèle et neutre. Pas de doublon avec retraites-01 (étage de capitalisation), 02 (réforme 2023) ni 03 (socle par répartition, agence unique)."
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "id": "lisnard-education-07",
+        "theme": "education",
+        "title": "Un réseau d'établissements publics d'excellence à l'échelle des anciens cantons",
+        "description": "Création d'un réseau d'établissements publics d'excellence à l'échelle des anciens cantons, avec des internats d'excellence, ainsi que d'établissements disciplinaires avec internat pour les élèves perturbateurs.",
+        "source_type": "declaration",
+        "source_title": "Entretien au JDNews, reproduit sur le site de Nouvelle Énergie – « Redresser la France ne se résume pas à un slogan »",
+        "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+        "source_date": "2026-10-15",
+        "source_page": null,
+        "precision": "precis",
+        "cost": null,
+        "indicator": null,
+        "last_verified": "2026-10-19",
+        "added": "2026-10-19"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+          "excerpt": "un réseau d’établissements publics d’excellence à l’échelle des anciens cantons"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+          "excerpt": "des établissements disciplinaires pour les élèves récalcitrants"
+        }
+      ],
+      "reason": "Entretien du candidat reproduit sur son site officiel (15/10/2026). Distinct de lisnard-education-04 (classes d'excellence en mathématiques par académie) ; les internats disciplinaires fermés figurent déjà dans securite-01 mais sous l'angle pénal (mineurs délinquants).",
+      "n": 7,
+      "decision": "acceptee",
+      "motif": "Même entretien sur le site officiel : « un réseau d'établissements publics d'excellence à l'échelle des anciens cantons, avec des internats d'excellence, ainsi que des établissements disciplinaires pour les élèves récalcitrants ». Le passage parle plus loin d'« internats de redressement », et un autre passage d'élèves qui perturbent les classes placés dans des « établissements disciplinaires avec internat ». Description fidèle. Distinct d'education-04 (classes d'excellence par académie) ; securite-01 traite le volet pénal."
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "update_program",
+      "data": {
+        "id": "lisnard",
+        "program": {
+          "note": "Programme publié sur le site de Nouvelle Énergie : trois grands axes (« Être maître de notre destin », « Réussir une nouvelle ambition française », « Générer un renouveau civique », pages non datées), cinq pages thématiques (agriculture, éducation, immigration, santé, sécurité), deux carnets thématiques PDF (santé, mai 2026 ; agriculture, juin 2026), « Le livre noir – En finir avec la bureaucratie » (avril 2026), le discours de Bayeux (17 juin 2026) et un espace « Questions » de 158 fiches sourcées réparties en dix catégories, mises à jour le 16 octobre 2026. Le site de campagne lisnard2027.fr indique toujours qu'il « ouvre prochainement » (19/10/2026). Aucun document programmatique unique et complet n'est publié ; certaines positions renvoient au livre « Ainsi va la France » (non consultable en ligne). Une page programme non datée mentionne un âge légal de 65 ans et un regroupement familial « conditionné », alors que les fiches « Questions » d'octobre 2026 écartent une nouvelle borne d'âge et évoquent la fin du regroupement familial."
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/questions/",
+          "excerpt": "158 fiches en 10 catégories (décompte de la page)"
+        },
+        {
+          "url": "https://www.lisnard2027.fr/",
+          "excerpt": "Le site de campagne ouvre prochainement."
+        }
+      ],
+      "reason": "La note indiquait « environ 115 fiches » ; la page /questions/ en liste 158 au 19/10/2026 (décompte, pas une citation). Date de vérification du site de campagne actualisée. Seuls ces deux éléments changent.",
+      "n": 8,
+      "decision": "rejetee",
+      "motif": "Critère 1 (fidélité) non rempli. La page /questions/ rouverte le 19/10/2026 (curl et WebFetch) liste 105 fiches réparties en 10 catégories, et non 158 : Le candidat 25, Pouvoir d'achat et fiscalité 15, Dette et dépense publique 13, Santé 7, Retraites 5, Sécurité et justice 16, Immigration 6, Décentralisation et normes 8, École 5, Écologie 5. Le sitemap questions-sitemap.xml compte 116 URL, soit 105 fiches, 10 pages de catégorie et l'index. Le chiffre de 158 est faux, et l'ancien « environ 115 » ne correspondait pas non plus au nombre de fiches. La mention « ouvre prochainement » de lisnard2027.fr est confirmée au 19/10/2026. À reproposer avec « 105 fiches sourcées réparties en dix catégories »."
+    },
+    {
+      "candidate": "le-pen",
+      "kind": "add_measure",
+      "data": {
+        "id": "le-pen-famille-07",
+        "theme": "famille",
+        "title": "Confier la protection de l'enfance à l'État et à un ministère de plein exercice",
+        "description": "Reprise par l'État de la protection de l'enfance, aujourd'hui pilotée par les départements, avec des règles nationales communes de prise en charge, d'évaluation et de placement fixées par un ministère dédié. Elle propose aussi de privilégier l'accompagnement des parents avant toute séparation et l'accueil chez des proches plutôt qu'en foyer.",
+        "source_type": "declaration",
+        "source_title": "ICI Occitanie – Marine Le Pen en campagne dans le Tarn-et-Garonne dévoile ses propositions sur la protection de l'enfance (12 octobre 2026)",
+        "source_url": "https://www.ici.fr/occitanie/tarn-et-garonne-82/moissac/marine-le-pen-en-campagne-dans-le-tarn-et-garonne-devoile-ses-propositions-sur-la-protection-de-l-enfance-2825246",
+        "source_date": "2026-10-12",
+        "source_page": null,
+        "precision": "precis",
+        "cost": null,
+        "indicator": null,
+        "last_verified": "2026-10-19",
+        "added": "2026-10-19"
+      },
+      "evidence": [
+        {
+          "url": "https://www.ici.fr/occitanie/tarn-et-garonne-82/moissac/marine-le-pen-en-campagne-dans-le-tarn-et-garonne-devoile-ses-propositions-sur-la-protection-de-l-enfance-2825246",
+          "excerpt": "reprise en main de cette politique par l’État"
+        },
+        {
+          "url": "https://www.ici.fr/occitanie/tarn-et-garonne-82/moissac/marine-le-pen-en-campagne-dans-le-tarn-et-garonne-devoile-ses-propositions-sur-la-protection-de-l-enfance-2825246",
+          "excerpt": "accueil chez des proches plutôt qu’en foyer"
+        },
+        {
+          "url": "https://www.radiototem.net/moissac-marine-le-pen-defend-une-recentralisation-de-la-protection-de-l-enfance",
+          "excerpt": "un ministère de plein exercice"
+        },
+        {
+          "url": "https://www.radiototem.net/moissac-marine-le-pen-defend-une-recentralisation-de-la-protection-de-l-enfance",
+          "excerpt": "renationaliser la protection de l'enfance"
+        },
+        {
+          "url": "https://www.enfancejeunesseinfos.fr/protection-de-lenfance-marine-le-pen-veut-que-letat-reprenne-integralement-la-main/",
+          "excerpt": "L'État doit reprendre intégralement la main."
+        }
+      ],
+      "reason": "Propositions présentées par la candidate à Moissac le 12 octobre 2026 (déplacement de campagne), non encore intégrées ; aucune mesure existante sur la protection de l'enfance. Déclaration rapportée par deux médias indépendants concordants (ICI Occitanie, Radio Totem), plus Enfance Jeunesse Infos (13 octobre, partiellement payant). Le renommage de l'ASE en « aide sociale à la famille » (ICI seul) n'est pas repris. ICI mentionne aussi « ministère de la Famille » tandis que Radio Totem parle d'un ministère dédié : le titre s'en tient à « ministère de plein exercice ».",
+      "n": 9,
+      "decision": "acceptee",
+      "motif": "Deux médias indépendants rouverts et concordants. ICI Occitanie (12/10/2026) : reprise en main par l'État de cette politique « aujourd'hui pilotée par les départements », règles nationales communes de prise en charge, d'évaluation et de placement, accompagnement des parents, accueil chez des proches plutôt qu'en foyer. Radio Totem (12/10/2026) : « un ministère de plein exercice » qui définirait les règles de prise en charge, les critères de placement et l'évaluation, « renationaliser », soutien aux familles avant toute séparation, placement auprès de proches. Propos de la candidate elle-même. Titre et description fidèles et neutres. Aucune mesure existante sur la protection de l'enfance. Format conforme."
+    },
+    {
+      "candidate": "le-pen",
+      "kind": "update_candidate",
+      "data": {
+        "id": "le-pen",
+        "status_note": "Candidature annoncée le 7 juillet 2026 au journal de 20 h de TF1, le jour de l'arrêt de la cour d'appel de Paris dans l'affaire des assistants parlementaires du FN au Parlement européen. L'arrêt confirme sa culpabilité pour détournement de fonds publics et prononce trois ans d'emprisonnement dont deux avec sursis (un an ferme aménageable sous surveillance électronique), 100 000 € d'amende et 45 mois d'inéligibilité dont 30 avec sursis ; la part ferme de 15 mois d'inéligibilité, exécutée depuis le jugement de première instance du 31 mars 2025 (exécution provisoire), ne fait pas obstacle à une candidature en 2027 selon Public Sénat et Toute l'Europe. Le même soir, elle a annoncé former un pourvoi en cassation, qui suspend l'exécution des peines prononcées en appel. Dans un communiqué du 8 juillet 2026, la Cour de cassation a indiqué pouvoir se prononcer « au plus tard début avril 2027 », calendrier susceptible d'évoluer ; selon L'Express (17 octobre 2026, d'après RTL) et 24matins, la Cour de cassation doit examiner le 16 décembre 2026 les questions prioritaires de constitutionnalité soulevées par la candidate et ses coprévenus, avant l'examen des pourvois sur le fond. Elle a annoncé mener campagne en « binôme » avec Jordan Bardella, qui serait son Premier ministre en cas de victoire.",
+        "last_verified": "2026-10-19"
+      },
+      "evidence": [
+        {
+          "url": "https://actu.orange.fr/politique/affaire-des-assistants-parlementaires-du-rn-la-cour-de-cassation-fixera-le-sort-de-marine-le-pen-le-16-decembre-l-express-via-6medias-CNT000002t1bDR.html",
+          "excerpt": "La décision de la Cour sera rendue, en principe, le jour même."
+        },
+        {
+          "url": "https://actu.orange.fr/politique/affaire-des-assistants-parlementaires-du-rn-la-cour-de-cassation-fixera-le-sort-de-marine-le-pen-le-16-decembre-l-express-via-6medias-CNT000002t1bDR.html",
+          "excerpt": "Cour de cassation fixera le sort de Marine Le Pen le 16 décembre"
+        },
+        {
+          "url": "https://www.24matins.fr/le-pen-face-a-une-echeance-judiciaire-cle-avant-la-presidentielle-1422589",
+          "excerpt": "la Cour de cassation examinera les questions prioritaires de constitutionnalité"
+        }
+      ],
+      "reason": "La fiche indique qu'aucune date d'audience n'était repérée au 15 octobre 2026. Deux médias (L'Express via 6Médias/Orange, 17 octobre 2026, citant RTL ; 24matins, 17 octobre 2026) rapportent l'examen des QPC le 16 décembre (année déduite du contexte « 16 décembre prochain »). Aucun communiqué de la Cour de cassation n'a pu être consulté (site non accessible) ; les deux articles semblent reposer sur la même information initiale de RTL, à apprécier au critère de recoupement. Le statut (declare) n'est pas modifié.",
+      "n": 10,
+      "decision": "rejetee",
+      "motif": "Critère 5 (recoupement) non rempli. La date d'examen des QPC (16 décembre) repose uniquement sur RTL, reprise par L'Express/6Médias (qui cite RTL) et par 24matins (qui reprend la même information). Ces deux reprises d'une même origine ne sont pas indépendantes. Aucun communiqué de la Cour de cassation ni autre média indépendant trouvé (recherches web au 19/10/2026). La note existante reste valable."
+    },
+    {
+      "candidate": "meta",
+      "kind": "update_candidate",
+      "data": {
+        "other_declared_add": {
+          "name": "Juan Branco",
+          "party": "Les Ruches",
+          "declaration_date": "2025-12-19"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.sudradio.fr/sud-radio/presidentielle-2027-qui-sont-les-candidats-declares",
+          "excerpt": "Il annonce sa candidature [...] au micro de Sud Radio le 19 décembre 2025"
+        },
+        {
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "excerpt": "Candidat à la présidentielle depuis décembre 2025, Juan Branco"
+        }
+      ],
+      "reason": "Candidature déclarée confirmée par deux médias indépendants (Sud Radio, franceinfo au 14/10/2026), absente de meta.other_declared. Non testé dans les sondages de la règle : pas de fiche. Déclaration antérieure à la dernière mise à jour (lacune de la liste, pas une nouveauté de la semaine). Le 19 décembre 2025 est la date de l'annonce rapportée par Sud Radio (média qui a diffusé l'annonce) ; franceinfo indique « décembre 2025 ».",
+      "n": 11,
+      "decision": "acceptee",
+      "motif": "Candidature confirmée par deux médias indépendants (Sud Radio ; franceinfo, portraits des candidats déclarés). Le parti « Les Ruches » est donné par franceinfo. Correction mineure : declaration_date passe à null. Le jour (19 décembre 2025) n'est donné que par Sud Radio, franceinfo indiquant seulement « décembre 2025 », et aucune seconde source indépendante ne le confirme (Wikipédia n'en est pas une).",
+      "data_applied": {
+        "other_declared_add": {
+          "name": "Juan Branco",
+          "party": "Les Ruches",
+          "declaration_date": null
+        }
+      }
+    },
+    {
+      "candidate": "meta",
+      "kind": "update_candidate",
+      "data": {
+        "other_declared_add": {
+          "name": "Clara Egger",
+          "party": "Solution démocratique",
+          "declaration_date": "2026-04-20"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.sudradio.fr/sud-radio/presidentielle-2027-qui-sont-les-candidats-declares",
+          "excerpt": "elle présente sa candidature le 20 avril 2026 dans un communiqué"
+        },
+        {
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "excerpt": "elle se déclare à nouveau candidate en 2026"
+        }
+      ],
+      "reason": "Candidature déclarée confirmée par deux médias indépendants (Sud Radio, franceinfo au 14/10/2026), absente de meta.other_declared. Non testée dans les sondages : pas de fiche. Date du 20 avril 2026 donnée par Sud Radio seul (franceinfo : « en 2026 ») ; le vérificateur peut mettre declaration_date à null s'il exige deux sources pour la date. Lacune de la liste, pas une nouveauté de la semaine.",
+      "n": 12,
+      "decision": "acceptee",
+      "motif": "Candidature confirmée par deux médias indépendants (Sud Radio ; franceinfo : « elle se déclare à nouveau candidate en 2026 »), parti Solution démocratique. Correction mineure : declaration_date passe à null. Le 20 avril 2026 n'est donné que par Sud Radio, franceinfo n'indique que l'année, et le communiqué officiel n'a pas été retrouvé.",
+      "data_applied": {
+        "other_declared_add": {
+          "name": "Clara Egger",
+          "party": "Solution démocratique",
+          "declaration_date": null
+        }
+      }
+    }
+  ],
+  "log": {
+    "arthaud": "Aucun changement. Consulté : https://www.nathalie-arthaud.info (dernières publications du 16/10/2026 : journal n° 3037, passages BFMTV ; seuls des agendas sont postérieurs : fêtes de Toulouse 17-18/10, Bordeaux 18/10, Besançon 7/11) ; https://www.lutte-ouvriere.org/portail/index.html (brèves du 17/10 « 17 octobre : dans la rue n'en déplaise au gouvernement », « Cisjordanie », et du 18/10 « CHU Limoges » : brèves non signées par la candidate, aucune proposition nouvelle) ; https://www.lutte-ouvriere.org/portail/editoriaux/index.html (dernier éditorial du 12/10/2026, déjà dans thematic_links ; pas d'éditorial daté du 19/10) ; https://www.lutte-ouvriere.org/portail/brochures/index.html (dernier discours : meeting du 26/09/2026, déjà exploité). La brochure principale (brochure-ete-2026.pdf) répond en 200. WebSearch (actualité oct. 2026, parrainages) : aucune déclaration, retrait ou changement d'équipe depuis le 17/10 ; franceinfo la compte parmi les candidats déclarés au 14/10/2026. Statut 'declare' et status_source_url (ICI, 200) restent exacts. Résultats elyseescope.com écartés (source interdite).",
+    "roussel": "Aucun changement. fabienroussel2027.fr et pcf.fr renvoient un 403 (défi Cloudflare) à WebFetch et à curl ; contrôle indirect : sitemap https://www.fabienroussel2027.fr/sitemap.xml (accessible) : aucune page modifiée après le 08/10/2026 (dernières : autocollants du 08/10, plan_jeunesse_2027_2032 du 06/10, affiches et tracts du 05/10, déjà exploités) ; flux https://www.pcf.fr/actualites.rss : nouveaux articles du 17/10 (« Dans la rue, toutes générations confondues ») et du 18/10 (« Faisons vivre cette France qui respecte son peuple et protège ses enfants », auteur indiqué Soizic Lozachmeur ; « Déclaration d'Emmanuel Macron : aucune réponse aux attentes du pays… ») : contenus inaccessibles (403, Wayback en 429), donc non lus, aucune proposition ; ce sont des textes du parti, pas des documents de campagne du candidat. Wayback : dernières captures du site de campagne du 09-10/10, de pcf.fr/actualites du 15/10. WebSearch (Roussel candidat oct. 2026, propositions, 17-19 octobre ; LCP, franceinfo, Public Sénat, ICI, France 24) : aucune nouvelle proposition, retrait ou changement d'équipe depuis le 17/10 ; Ian Brossat reste cité comme directeur de campagne. status_source_url LCP (200) et base commune du 40e congrès (200) OK. À revérifier au prochain passage : les deux articles pcf.fr des 17-18/10 quand le site sera accessible.",
+    "melenchon": "Aucun changement. melenchon2027.fr renvoie 403 à WebFetch mais 200 à curl ; API WordPress consultée : https://melenchon2027.fr/wp-json/wp/v2/media (aucun nouveau PDF depuis le 14/10 : derniers = Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf et PLAN-AUTO_Vf_ST.pdf, déjà exploités ; seules des bannières d'événements les 17 et 19/10), /wp-json/wp/v2/pages (dernières modifications : Automobile 16/10, plans-investissement et Ruralité 15/10, Découvrir le programme 15/10, tous antérieurs au 17/10), /wp-json/wp/v2/posts (uniquement des événements : réunions publiques, meeting au Havre). Dossiers de presse jamais référencés lus en entier : DOSSIER-DE-PRESSE_0810.pdf et DOSSIER-DE-PRESSE_23septembre.pdf (chiffres militants, agenda : sortie de L'Avenir en commun le 6/11, convention au Bourget le 7/11, meeting du Havre le 5/12) : aucune mesure nouvelle. melenchon.fr : seul billet postérieur au 17/10 = « 17 octobre : Macron joue le pourrissement » (18/10), vidéo d'un entretien LCI sans transcription ; aucun article de presse sur son contenu trouvé, donc rien retenu. lafranceinsoumise.fr : dernier article du 15/10. WebSearch (campagne oct. 2026, programme, équipe ; LCP, franceinfo, France 24) : confirme la parution le 6/11 et la convention du 7/11 (déjà dans la note du programme) ; aucun changement de statut ou d'équipe. status_source_url LCP (200) et programme2025/livre/ (200) OK.",
+    "ruffin": "Consulté : https://nouspresident.fr, https://nouspresident.fr/notre-programme/, https://nouspresident.fr/cahiers-de-campagne/ (7 cahiers, aucun nouveau ni annoncé), https://nouspresident.fr/nos-plans-daction/ (2 plans, inchangés), https://francoisruffin.fr/ et https://francoisruffin.fr/category/actu/blog/ (dernier billet 15/10/2026 « L'objectif 2027 sur LCI », sans texte ni proposition), https://debout.fr/ (rien de daté, aucune équipe nommée). WebSearch (actualité depuis le 17/10, candidature, union, équipe) : rien de nouveau ; Le Moniteur (01/10/2026) reprend le cahier logement déjà exploité. Relu le cahier n°6 (CC_Logement.pdf p. 43 : plan logement jeunes 200 000 places d'ici 2032, construction hors-site) : non proposé, car cela recoupe largement ruffin-logement-02 (40 000 logements/an pour étudiants et jeunes actifs). Statut (déclaré, candidature maintenue) toujours exact. Aucun changement.",
+    "glucksmann": "Consulté : https://glucks2027.fr/ (pas de rubrique programme, pas de document, pas d'équipe nommée), https://place-publique.eu/posts (dernier billet 05/10/2026), https://place-publique.eu/pages/69jA2SKIG5udlNX7wI3dmc/le-projet (seul l'Acte I est publié, pas d'Acte II/III), https://www.publicsenat.fr/dossier/raphael-glucksmann (articles du 11 au 13/10, rien après le 17/10), article Public Sénat du 12/10 sur les moyens de campagne (trésorière du PS, aucun rôle d'équipe), franceinfo 13/10 (équipe : Mayer-Rossignol pour le projet, Simon Bernard coordinateur, Aurélien Rousseau conseiller politique ; aucune mesure nouvelle au-delà des méga-héritages et des « 100 jours » déjà présents), actu.fr 12/09 (vérifié par curl). WebSearch : aucune nouvelle proposition ni changement de statut depuis le 17/10 ; meeting d'investiture évoqué pour les 7-8 novembre (non retenu, non confirmé). Statut toujours exact. 1 proposition (key_people).",
+    "tondelier": "Consulté : https://marinetondelier.fr (rubriques inchangées), https://marinetondelier.fr/journal-de-campagne (dernier épisode 34, 14/10/2026, « Reprise de campagne »), https://marinetondelier.fr/blog (dernier billet 14/10/2026 : retour après congé maternité ; engagement sur un congé parental « mieux rémunéré » pour les deux parents, couvert par tondelier-famille-01), https://marinetondelier.fr/dossiers-actu (6 PDF, tous déjà référencés), https://marinetondelier.fr/livrets-thematiques (6 livrets, déjà référencés), https://marinetondelier.fr/carnets-de-doctrine (2 carnets, déjà référencés) ; https://lesecologistes.fr/posts renvoie 403. WebSearch : franceinfo 18/10/2026 (réaction après la mobilisation du 17 octobre, présentée comme « candidate à la présidentielle », pas de proposition concrète) ; aucune nouvelle sur le référendum interne du 10-13 décembre ni sur l'équipe. Statut toujours exact. Aucun changement.",
+    "attal": "Consulté : https://attalpresident.fr/actualites (dernière actualité le 15/10/2026 : France Info jeunesse et lettre aux Français sur les finances publiques, toutes deux déjà exploitées ; rien daté du 17 au 19/10) ; https://attalpresident.fr/programme (6 chantiers inchangés, aucun nouveau PDF ; slogan « La force d'agir » confirmé) ; les 6 pages /programme/* répondent en HTTP 200 ; https://attalpresident.fr/mon-equipe (porte-paroles absents de la fiche, voir proposition) ; /consultation renvoie vers un formulaire Tally, aucun contenu programmatique. WebSearch depuis le 17/10 : seule une réaction aux violences du 17 octobre, sans proposition (LCP, CNews 18/10). Statut « declare » toujours exact. Résultats ElyséeScope et MonVote2027 ignorés (sources interdites). 1 proposition (update_candidate, key_people).",
+    "philippe": "Consulté : https://www.edouardphilippe.fr/actualites (dernière actualité le 12/10/2026, annonce de la réunion école du 15/10 ; rien daté du 17 au 19/10) ; les 4 pages « priorités » (plus-sûre, plus-prospère, plus-attentive-à-ses-enfants, plus-conquérante) relues : aucune date ni mention de mise à jour, contenu conforme à la mise à jour précédente ; Wayback inaccessible (HTTP 429), donc comparaison par capture impossible ; https://www.edouardphilippe.fr/actualites/le-comite-de-campagne-est-lance (pas de nouveau porte-parole). WebSearch : réunion de campagne numérique sur l'école du 15/10 (franceinfo/AFP, 6Médias/L'Express, JDN), d'où 1 add_measure (rythmes scolaires). Réaction aux violences du 17 octobre sur BFMTV le 18/10 : interrogations sur le renseignement et le maintien de l'ordre, sans mesure concrète ; article Europe 1 inaccessible (403), donc rien retenu. Aucun changement d'équipe trouvé. Statut « declare » toujours exact. 1 proposition.",
+    "villepin": "Consulté : https://lafrancehumaniste.fr/chroniques.html, avec une nouvelle chronique du 18/10/2026, https://lafrancehumaniste.fr/articles/pour-les-etats-generaux-de-la-republique.html, signée D. de Villepin. C'est une réaction aux violences du 17 octobre, sous forme d'appel immédiat à « réunir des Etats Généraux de la République », sans auteur désigné pour les convoquer, et non une mesure de programme 2027 : non retenue. https://lafrancehumaniste.fr/france2027.html : 8 chantiers, texte socle et projet économique inchangés, seuls PDF les statuts et le règlement intérieur, aucune déclaration de candidature. https://lafrancehumaniste.fr/programme/economie.html renvoie HTTP 403 à curl (blocage anti-robot) ; aucune modification signalée. WebSearch : aucune déclaration de candidature ni changement d'équipe depuis le 17/10 (dernières sources : franceinfo et Euronews, fin août 2026). Statut « probable » et status_note toujours exacts. Aucune proposition.",
+    "bertrand": "Consulté : https://www.nousfrance.fr/ (accueil, menu, rubriques programme), https://www.nousfrance.fr/les-actualites/ (dernier article : 29/09/2026), https://www.nousfrance.fr/agenda/ (aucun événement affiché). Le site n'a pas de program.main_url ni de thematic_links. WebSearch : candidature/déclaration officielle, Nous France, réactions aux violences du 17 octobre, mesure « baisse de 2,4 points des cotisations salariales » (trouvée seulement sur monvote2027.fr, source interdite, et dans un entretien de février 2022 sur nousfrance.fr : non retenue car antérieure à 2025 et liée à la campagne 2022), article echodumardi « République des territoires » (daté du 31/10/2021 : non retenu). Aucune déclaration officielle de candidature, aucun programme, aucun changement d'équipe identifié depuis le 17/10/2026. Statut « probable » et status_note toujours exacts. Résultat : aucun changement.",
+    "retailleau": "Consulté : https://republicains.fr/actualites/m/bruno-retailleau/ et https://republicains.fr/actualites/ (dernier article : 23/09/2026), https://republicains.fr/nos-propositions/ (toujours les huit livrets déjà recensés + notes Calaméo déjà connues ; aucun nouveau document). WebSearch : propositions présidentielle 2027, annonces depuis le 17/10, interviews « s'il est élu ». Seule actualité nouvelle : le 17-18/10/2026, il a demandé au président et au gouvernement de décréter l'état d'urgence (et, selon Boursorama, un couvre-feu et des peines incompressibles) après les violences du 17 octobre (France 24, CNews, Public Sénat, Boursorama) — non retenu comme mesure : demande adressée à l'exécutif en place sur un événement d'actualité, pas un engagement de programme. Causeur (18/10/2026) : déjeuner annoncé Lisnard-Retailleau-Ménard, aucun changement de statut ni d'équipe. Statut « declare » toujours exact. Résultat : aucun changement.",
+    "lisnard": "Consulté : https://www.unenouvelleenergie.fr/actualites/ (dernier article : 15/10/2026), https://www.unenouvelleenergie.fr/notre-programme/ (mêmes quatre documents PDF, aucun nouveau carnet), https://www.unenouvelleenergie.fr/questions/ (158 fiches, toutes mises à jour au plus tard le 16/10/2026), https://www.lisnard2027.fr/ (page d'attente), fiches /questions/ polices municipales, justice plus rapide, subventions aux entreprises ; articles du 15/10/2026 : JDNews (« Redresser la France… »), BFMTV, Le Crayon, Ouest-France (« Il y a une dynamique… »), Le Figaro (« C'est juste fou… »). Propositions : 4 nouvelles mesures (economie-05, economie-06, retraites-04, education-07) et 1 mise à jour de la note programme. Non retenu : polices municipales et justice (positions d'AMF/Cannes ou déjà couvertes par securite-02) ; gouvernement « entre neuf et quatorze membres » (JDNews) proche de « gouvernement de douze ministres » déjà dans services_publics-02, non modifié faute de contradiction nette ; DRH de l'État déjà dans services_publics-06 ; alignement de la CSG déjà dans emploi-03. Équipe : le Figaro (repris sur le site) cite Alexandra Ardisson « responsable des élus » et évoque un « directeur de campagne » sans le nommer (rôle de Philippe Castanet non établi) → aucune modification de key_people. Le PDF du discours de Saint-Raphaël (https://www.unenouvelleenergie.fr/app/uploads/2026/07/Discours-de-David-Lisnard-a-Saint-Raphael.pdf) redirige vers un stockage S3 qui renvoie 403 AccessDenied : non exploitable. Statut « declare » toujours exact (Ouest-France du 15/10 : il dit disposer de ses 500 parrainages ; il demande toujours une primaire en décembre-janvier).",
+    "dupont-aignan": "Consulté : https://www.dupontaignan.fr/actualite/ (dernier article 14/10/2026), sitemaps Yoast de dupontaignan.fr et debout-la-france.fr (aucune page ni fiche projet modifiée après le 2026-10-16 ; dernières fiches projet modifiées : transport-automobilistes 15/10, produire-en-france 13/10, IA/justice/instruction-publique 12/10, déjà exploitées), https://www.debout-la-france.fr/ (vidéos YouTube des 14-17/10 sans transcription consultable ; événement Saint-Étienne 19/10), articles « Mondial de l'automobile » (14/10) et « Salon SME » (13/10) : propositions générales déjà couvertes (droits de douane, fin de l'interdiction des moteurs thermiques 2035) ou sans mesure concrète. WebSearch actualité : aucune nouvelle candidature, retrait, programme ou changement d'équipe. Statut inchangé. Aucun changement.",
+    "le-pen": "Consulté : https://rassemblementnational.fr/communiques (derniers 15-16/10 : communiqués Garraud, Rougé ; communiqué outre-mer PLF 2027 déjà exploité), https://rassemblementnational.fr/lettre-ouverte (dernière 21/09/2026, déjà exploitée), https://marinelepen.com/ (page d'inscription, meeting d'Orléans du 25/10/2026 – XIXe congrès du RN 24-25/10, pas de rubrique programme). WebSearch : déplacement de Moissac du 12/10 (protection de l'enfance) → 1 add_measure ; audience QPC devant la Cour de cassation le 16/12/2026 → 1 update_candidate (status_note) ; propos du 16/10 contre Richard Ferrand (Public Sénat) et réaction aux émeutes du 17/10 (Euronews, 18/10) sans nouvelle proposition ; interview CNews du 15/10 déjà exploitée ; Sébastien Chenu chiffre la réforme des retraites à 9 Md€ (non retenu : propos d'un tiers, réforme attendue le 17/11) ; hausse de 4 %/an des salaires des professeurs évoquée par Jordan Bardella (non retenue : attribution). Nomination de Marine Hamelet comme « porte-parole présidentielle sur la protection de l'enfance » rapportée par ICI seul : non proposée (pas de second média ni source officielle).",
+    "zemmour": "Consulté : https://www.parti-reconquete.fr/ (dernières actualités 12/10/2026), https://www.parti-reconquete.fr/j-agis (5 tracts PDF, tous déjà exploités), https://leprogrammepourlafrance.fr/ (consultation en cours, pas de programme publié), https://www.budget2027.fr/ (24 mesures inchangées), https://www.stop-blocages.fr/ (nouvelle pétition, inaccessible : protection Cloudflare, non exploitée). WebSearch : réactions aux émeutes du 17/10 (Europe 1, inaccessible en 403 ; JDD) — peines planchers, loi anticasseurs et déchéance de nationalité déjà couvertes par zemmour-securite-02/03/04 ; déchéance pour les pilleurs rapportée par une seule source secondaire, non retenue. Aucune déclaration formelle de candidature distincte, aucun directeur de campagne nommé trouvés. Statut inchangé. Aucun changement.",
+    "nouvelles_candidatures": "Période 2026-10-17 → 2026-10-19. AUCUNE nouvelle déclaration ni aucun retrait depuis le 17/10 trouvé (dernière déclaration : Natacha Polony, 14/10, déjà dans other_declared). Sources : https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027 (historique des révisions 17-18/10 : ajout de Thierry Breton en « pressenti », pas de nouvelle déclaration) ; https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html (30 candidats au 14/10/2026) ; https://www.sudradio.fr/sud-radio/presidentielle-2027-qui-sont-les-candidats-declares (20/07/2026) ; recherches web « annonce sa candidature », « renonce/retire », Bruno Le Maire (décision promise « en octobre », aucune annonce trouvée au 19/10 : https://lcp.fr/actualites/presidentielle-2027-bruno-le-maire-dira-en-octobre-s-il-est-candidat-437967), Zemmour (officialisation du 17/09 confirmée par https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871, déjà fiche).\n\nSONDAGES de premier tour publiés depuis le 15/10 : (1) Elabe pour BFMTV/La Tribune Dimanche, publié le 17/10/2026 (terrain 14-16/10 selon Wikipédia) https://elabe.fr/presidentielle-2027-octobre/ — testés : Le Pen, Philippe, Glucksmann, Mélenchon, Attal, Retailleau, Lisnard, Zemmour, Tondelier, Ruffin, Dupont-Aignan, Villepin, Roussel, Arthaud : tous ont une fiche. (2) OpinionWay pour CNEWS, terrain 13-14/10, notice datée du 15/10 https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf — testés : Arthaud, Mélenchon, Roussel, Tondelier, Glucksmann, Karim Bouamrane (<1 %), Attal, Philippe, Retailleau, Lisnard, Dupont-Aignan, Zemmour, Le Pen (le questionnaire liste aussi François Hollande à la place de Glucksmann, probablement une coquille). Karim Bouamrane (déjà dans other_declared, déclaré le 09/06/2026 et maintenu selon franceinfo au 14/10) est donc testé dans un sondage national, mais ce sondage n'est pas l'un des trois que cite inclusion_rule (Ifop, Harris, Odoxa) : selon la règle actuelle il ne reçoit pas de fiche ; cas signalé pour la prochaine révision de la règle par le mainteneur, sans proposition ici. (3) Selon le tableau Wikipédia https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_French_presidential_election : Cluster17 (14-15/10) et YouGov (12-15/10) ne testent que des personnalités ayant déjà une fiche ; OpinionWay pour Les Echos/Radio Classique (13-14/10) idem ; les sources primaires de ces trois sondages n'ont pas été ouvertes. Aucune personnalité sans fiche ne répond à la règle d'inclusion.\n\nCANDIDATURES ABSENTES de other_declared (lacunes, pas des nouveautés de la semaine) : Juan Branco et Clara Egger proposés (deux médias chacun). Jean Lassalle (Résistons) et Jean-François Legendre (A nous maintenant) figurent comme candidats sur franceinfo (14/10) mais n'ont qu'UNE source fiable confirmée (Europe 1 sur Lassalle : https://www.europe1.fr/node/970134, bloqué en 403, non lu ; Wikipédia le classe en « pressenti ») : non proposés. Selon Sud Radio (20/07), Florian Philippot « se retirera pour favoriser l'union souverainiste » ; c'est une intention, pas un retrait, et franceinfo le liste encore candidat au 14/10 : aucun changement. Sources interdites rencontrées et écartées : elyseescope.com, france-vote.fr, repere2027.fr, electionpresidentielle2027.com, parlons-politique.fr."
+  },
+  "decisions_summary": {
+    "acceptees": 10,
+    "rejetees": 2,
+    "equite": "Les 15 candidats ont été traités avec la même grille (journal par candidat). Les écarts de volume (Lisnard 4 mesures) reflètent une mise à jour de l'espace « Questions » (16/10) et un entretien reproduit sur le site officiel (15/10) ; 0 proposition pour 9 candidats faute de publication nouvelle."
+  }
+}

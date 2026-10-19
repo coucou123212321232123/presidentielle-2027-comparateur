@@ -62,6 +62,34 @@
     "added": "2026-10-17"
   },
   {
+    "id": "lisnard-economie-05",
+    "theme": "economie",
+    "title": "Cesser de subventionner les entreprises pour compenser leurs charges",
+    "description": "Fin des subventions aux entreprises destinées à compenser leurs charges, remplacées par une baisse directe de la fiscalité et des charges. Mesure annoncée au meeting de Saint-Raphaël du 3 juillet 2026.",
+    "source_type": "officiel",
+    "source_title": "Nouvelle Énergie – Quel candidat à la présidentielle 2027 veut supprimer les subventions aux entreprises ?",
+    "source_url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-subventions-aux-entreprises/",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-19",
+    "added": "2026-10-19"
+  },
+  {
+    "id": "lisnard-economie-06",
+    "theme": "economie",
+    "title": "Ramener en dix ans la dépense publique au niveau actuel des Pays-Bas",
+    "description": "Objectif, sur dix ans, de ramener la dépense publique au niveau actuel des Pays-Bas, soit 45 % de la richesse produite contre 57 % en France selon le candidat, un écart qu'il chiffre à 350 Md€.",
+    "source_type": "declaration",
+    "source_title": "Entretien au JDNews, reproduit sur le site de Nouvelle Énergie – « Redresser la France ne se résume pas à un slogan »",
+    "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+    "source_date": "2026-10-15",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-10-19",
+    "added": "2026-10-19"
+  },
+  {
     "id": "lisnard-fiscalite-01",
     "theme": "fiscalite",
     "title": "Baisser de 40 Md€ les impôts de production, en commençant par la C3S",
@@ -259,6 +287,20 @@
     "indicator": null,
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
+  },
+  {
+    "id": "lisnard-retraites-04",
+    "theme": "retraites",
+    "title": "Faire converger les régimes de retraite public et privé",
+    "description": "Convergence des systèmes de retraite du secteur public et du secteur privé, annoncée avec la mise en place d'une retraite individualisée mêlant capitalisation et répartition.",
+    "source_type": "declaration",
+    "source_title": "Entretien au JDNews, reproduit sur le site de Nouvelle Énergie – « Redresser la France ne se résume pas à un slogan »",
+    "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+    "source_date": "2026-10-15",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-19",
+    "added": "2026-10-19"
   },
   {
     "id": "lisnard-energie-01",
@@ -696,6 +738,20 @@
     "precision": "precis",
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
+  },
+  {
+    "id": "lisnard-education-07",
+    "theme": "education",
+    "title": "Un réseau d'établissements publics d'excellence à l'échelle des anciens cantons",
+    "description": "Création d'un réseau d'établissements publics d'excellence à l'échelle des anciens cantons, avec des internats d'excellence, ainsi que d'établissements disciplinaires avec internat pour les élèves perturbateurs.",
+    "source_type": "declaration",
+    "source_title": "Entretien au JDNews, reproduit sur le site de Nouvelle Énergie – « Redresser la France ne se résume pas à un slogan »",
+    "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+    "source_date": "2026-10-15",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-19",
+    "added": "2026-10-19"
   },
   {
     "id": "lisnard-securite-01",

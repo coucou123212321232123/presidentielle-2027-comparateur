@@ -240,6 +240,30 @@
       {
         "name": "Thomas Cazenave",
         "role": "Président du comité des maires"
+      },
+      {
+        "name": "Céline Géraud",
+        "role": "Responsable des porte-paroles"
+      },
+      {
+        "name": "Jean-Charles Orsucci",
+        "role": "Porte-parole"
+      },
+      {
+        "name": "Violette Spillebout",
+        "role": "Porte-parole"
+      },
+      {
+        "name": "Abdoulaye Kanté",
+        "role": "Porte-parole"
+      },
+      {
+        "name": "Rachel-Flore Pardo",
+        "role": "Porte-parole"
+      },
+      {
+        "name": "Jad Zahab",
+        "role": "Porte-parole"
       }
     ],
     "slogan": "La force d'agir",
@@ -419,7 +443,7 @@
         "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf"
       }
     ],
-    "last_verified": "2026-10-16",
+    "last_verified": "2026-10-19",
     "color": "#D97706"
   },
   {
@@ -873,6 +897,10 @@
       {
         "name": "Yannick Jadot",
         "role": "Soutien, chargé de préparer le volet écologique du programme (selon Wikipédia et L'Info Durable)"
+      },
+      {
+        "name": "Nicolas Mayer-Rossignol",
+        "role": "Maire de Rouen, chargé du projet et du programme (selon actu.fr et franceinfo)"
       }
     ],
     "slogan": "Ensemble, réveillons la France.",
@@ -1126,9 +1154,17 @@
       {
         "label": "L'Info Durable – Ambitions écologiques de Raphaël Glucksmann (12 octobre 2026)",
         "url": "https://www.linfodurable.fr/politique/apres-la-primaire-quelles-ambitions-ecologiques-pour-raphael-glucksmann-59331"
+      },
+      {
+        "label": "actu.fr (12/09/2026) – Nicolas Mayer-Rossignol rejoint Raphaël Glucksmann",
+        "url": "https://actu.fr/normandie/rouen_76540/le-combat-de-ma-vie-militante-pourquoi-nicolas-mayer-rossignol-rejoint-raphael-glucksmann-pour-la-presidentielle_64774359.html"
+      },
+      {
+        "label": "franceinfo (13/10/2026) – Les huit défis de Raphaël Glucksmann après la primaire",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/les-emmerdes-commencent-les-huit-defis-que-raphael-glucksmann-va-devoir-relever-apres-sa-victoire-a-la-primaire-de-la-gauche_8234041.html"
       }
     ],
-    "last_verified": "2026-10-16",
+    "last_verified": "2026-10-19",
     "color": "#DB2777"
   },
   {

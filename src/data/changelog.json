@@ -73,5 +73,37 @@
         "text": "34 → 36 mesures ; 8 ajouts écartés : propositions présentées comme le plan de Sarah Knafo et non comme le programme du candidat."
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "summary": "Mise à jour hebdomadaire : 6 mesures ajoutées (Le Pen, Lisnard, Philippe), équipes de campagne complétées (Attal, Glucksmann) et 2 candidatures déclarées ajoutées à la liste des autres candidats ; 2 propositions écartées après contre-vérification.",
+    "accepted": 10,
+    "rejected": 2,
+    "changes": [
+      {
+        "candidate": "attal",
+        "text": "Équipe de campagne : ajout de la responsable des porte-paroles et des cinq porte-paroles (page « Mon équipe » du site de campagne)."
+      },
+      {
+        "candidate": "glucksmann",
+        "text": "Équipe de campagne : ajout de Nicolas Mayer-Rossignol, chargé du projet et du programme."
+      },
+      {
+        "candidate": "le-pen",
+        "text": "1 mesure ajoutée (protection de l'enfance confiée à l'État, déplacement à Moissac du 12 octobre 2026) ; 1 précision sur la procédure judiciaire écartée faute de recoupement indépendant."
+      },
+      {
+        "candidate": "lisnard",
+        "text": "4 mesures ajoutées (subventions aux entreprises, dépense publique, convergence des retraites, établissements d'excellence) issues de l'espace « Questions » et d'un entretien reproduit sur le site de Nouvelle Énergie ; 1 mise à jour de la note du programme écartée (décompte inexact)."
+      },
+      {
+        "candidate": "philippe",
+        "text": "1 mesure ajoutée (rythmes scolaires, réunion de campagne du 15 octobre 2026)."
+      },
+      {
+        "candidate": "Autres candidatures déclarées",
+        "text": "Juan Branco (Les Ruches) et Clara Egger (Solution démocratique) ajoutés à la liste des autres candidatures déclarées."
+      }
+    ]
   }
 ]

@@ -60,6 +60,30 @@
     {
       "name": "Thomas Cazenave",
       "role": "Président du comité des maires"
+    },
+    {
+      "name": "Céline Géraud",
+      "role": "Responsable des porte-paroles"
+    },
+    {
+      "name": "Jean-Charles Orsucci",
+      "role": "Porte-parole"
+    },
+    {
+      "name": "Violette Spillebout",
+      "role": "Porte-parole"
+    },
+    {
+      "name": "Abdoulaye Kanté",
+      "role": "Porte-parole"
+    },
+    {
+      "name": "Rachel-Flore Pardo",
+      "role": "Porte-parole"
+    },
+    {
+      "name": "Jad Zahab",
+      "role": "Porte-parole"
     }
   ],
   "slogan": "La force d'agir",
@@ -239,5 +263,5 @@
       "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf"
     }
   ],
-  "last_verified": "2026-10-16"
+  "last_verified": "2026-10-19"
 }

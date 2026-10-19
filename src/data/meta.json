@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17",
+  "last_updated": "2026-10-19",
   "election": {
     "first_round": "2027-04-18",
     "second_round": "2027-05-02"
@@ -41,6 +41,11 @@
       "declaration_date": "2026-06-09"
     },
     {
+      "name": "Juan Branco",
+      "party": "Les Ruches",
+      "declaration_date": null
+    },
+    {
       "name": "Bernard Cazeneuve",
       "party": "La Convention",
       "declaration_date": "2026-07-16"
@@ -49,6 +54,11 @@
       "name": "Sylvain Durif",
       "party": "Elvita",
       "declaration_date": "2026-08-23"
+    },
+    {
+      "name": "Clara Egger",
+      "party": "Solution démocratique",
+      "declaration_date": null
     },
     {
       "name": "Anasse Kazib",

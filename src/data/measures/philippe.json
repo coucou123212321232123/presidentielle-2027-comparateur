@@ -1049,6 +1049,20 @@
     "added": "2026-10-17"
   },
   {
+    "id": "philippe-education-10",
+    "theme": "education",
+    "title": "Rythmes scolaires : apprentissages concentrés le matin",
+    "description": "Lors d'une réunion de campagne numérique consacrée à l'école (15 octobre 2026), Édouard Philippe s'est dit favorable à concentrer les heures d'apprentissage le matin afin de libérer l'après-midi pour le sport et la culture. Il a également posé la question d'une limitation des vacances de la Toussaint et de Pâques, sans détailler de modalités.",
+    "source_type": "declaration",
+    "source_title": "franceinfo (avec AFP) – Édouard Philippe prône une évolution des rythmes scolaires (16 octobre 2026)",
+    "source_url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-philippe-prone-une-evolution-des-rythmes-scolaires-avec-un-apprentissage-concentre-en-matinee-et-des-vacances-plus-courtes_8239537.html",
+    "source_date": "2026-10-16",
+    "source_page": null,
+    "precision": "orientation_generale",
+    "last_verified": "2026-10-19",
+    "added": "2026-10-19"
+  },
+  {
     "id": "philippe-securite-05",
     "theme": "securite",
     "title": "Magistrats issus d’autres métiers du droit et « devoir de redevabilité »",

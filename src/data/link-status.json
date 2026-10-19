@@ -1,2789 +1,2844 @@
 {
   "http://web.archive.org/web/20260919214128/https://lafrancehumaniste.fr/france2027": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "http://web.archive.org/web/20261014160050/https://attalpresident.fr/programme": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "http://web.archive.org/web/20261015153859/https://www.edouardphilippe.fr/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://acteurspublics.fr/articles/bruno-retailleau-veut-faire-travailler-davantage-les-fonctionnaires/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
+  },
+  "https://actu.fr/normandie/rouen_76540/le-combat-de-ma-vie-militante-pourquoi-nicolas-mayer-rossignol-rejoint-raphael-glucksmann-pour-la-presidentielle_64774359.html": {
+    "ok": true,
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://actu.orange.fr/france/presidentielle-2027-francois-ruffin-lance-sa-campagne-en-se-posant-en-defenseur-des-travailleurs-essentiels-magic-CNT000002oTqjw.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://actu.orange.fr/politique/un-nouveau-macron-est-possible-apres-la-victoire-de-raphael-glucksmann-a-la-primaire-sociale-democrate-la-gauche-reagit-magic-CNT000002sD0Nv.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.ericzemmour.fr/ressources/tracts/avenir-est-a-nous.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.ericzemmour.fr/ressources/tracts/mercosur.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.ericzemmour.fr/ressources/tracts/programme-pour-la-france.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.ericzemmour.fr/ressources/tracts/sante.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.nationbuilder.com/pcf/pages/37448/attachments/original/1769765304/document_-_cahier_ess.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.nationbuilder.com/pcf/pages/41211/attachments/original/1779954906/document_cahier_paix_ppp_stc.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.nationbuilder.com/pcf/pages/44583/attachments/original/1791210341/tract_pompier.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.nationbuilder.com/pcf/pages/44585/attachments/original/1791210591/tract_service_public.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://assets.nationbuilder.com/pcf/pages/44675/attachments/original/1791443697/document_palestine_octobre2026_light.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/a-la-ref-gabriel-attal-grand-gagnant-du-premier-debat-de-la-presidentielle-2027": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/aux-assises-de-l-afer-gabriel-attal-defend-une-epargne-qui-finance-l-economie-francaise": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/aux-rencontres-economiques-d-aix-en-provence-gabriel-attal-appelle-la-france-a-preparer-les-guerres-de-demain": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/dans-la-tribune-dimanche-gabriel-attal-veut-un-referendum-pour-interdire-les-reseaux-sociaux-aux-moins-de-15-ans": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/dans-le-monde-gabriel-attal-devoile-son-projet-pour-faire-notre-ecole-la-meilleure-d-europe": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/dans-le-parisien-gabriel-attal-vise-le-zero-deficit-en-2037": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/dans-le-telegramme-gabriel-attal-veut-un-choc-de-salaires-et-instaurer-le-droit-au-brut": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/en-deplacement-a-la-grande-motte-gabriel-attal-va-a-la-rencontre-de-la-france-qui-travaille-l-ete": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/en-vendee-gabriel-attal-exige-le-respect-du-droit-par-tous-face-aux-occupations-illegales-des-gens-du-voyage-et-fait-des-propositions": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/eurosatory-gabriel-attal-presente-sa-strategie-de-souverainete-technologique-et-d-independance-europeenne-au-salon": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/face-aux-canicules-gabriel-attal-veut-faire-de-la-geoenergie-le-grand-projet-energetique-de-la-france-du-xxie-siecle": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/france-2-gabriel-attal-fait-de-l-ecole-une-priorite-pour-preparer-l-avenir-du-pays": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-a-la-spa-de-plaisir-premieres-propositions-contre-labandon-animal": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-annonce-ses-premieres-mesures-pour-les-familles-monoparentales-a-la-premiere-universite-d-ete": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-appelle-a-une-rupture-economique-dans-les-echos": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-dans-l-ain-et-la-saone-et-loire": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-dans-le-figaro-appelle-a-une-nouvelle-justice": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-dans-politico-europe-ukraine-ia-et-finances-publiques-quatre-priorites-pour-preparer-la-france-de-demain": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-debat-avec-les-francais-a-blois-et-a-bourges": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-en-bretagne-trois-jours-au-contact-de-la-france-qui-travaille": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-en-meeting-a-lyon-un-pacte-pour-la-jeunesse": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-fin-de-vie-l-aboutissement-d-un-long-chemin-et-la-consecration-d-un-droit-nouveau": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-france-info-ecouter-la-jeunesse": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-plan-eau-argeles-sur-mer": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-pour-le-retour-du-royaume-uni-dans-l-union-europeenne-dans-le-figaro": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-presente-un-plan-de-desendettement-et-un-messmer-ii-pour-sortir-des-dependances-francaises": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-rtl-autorite-ecole-retraites-rassemblement-campagne": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-sur-bfm-tv-sa-strategie-de-rupture-pour-rebatir-la-justice-et-proteger-les-enfants": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-sur-france-info-ia-pouvoir-d-achat-et-climat-au-coeur-de-sa-campagne": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/gabriel-attal-veut-liberer-l-acces-au-logement-et-relancer-le-secteur-du-batiment": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/actualites/meeting-de-gabriel-attal-a-paris-l-elan-d-une-france-qui-choisit-l-avenir": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/gabriel-attal": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/mon-equipe": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/programme": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/programme/dette-de-letat": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/programme/dette-ecologique": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/programme/education": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/programme/frontieres": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/programme/intelligence-artificielle": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://attalpresident.fr/programme/travail-salaires": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://back.deputes-rn.fr/wp-content/uploads/2025/02/WEB-GRN-LIVRET-IA.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://back.deputes-rn.fr/wp-content/uploads/2026/04/202603-dossier-presse-GRN-Crise-carburant.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://back.deputes-rn.fr/wp-content/uploads/2026/06/GRN-MLP-PPLC-CORSE.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://back.deputes-rn.fr/wp-content/uploads/2026/07/GRN-DOSSIER-PLAN-CLIM.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://bsky.app/profile/francoisruffin.fr": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://bsky.app/profile/jlmelenchon.bsky.social": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://bsky.app/profile/marinetondelier.fr": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://bsky.app/profile/raphaelglucksmann.bsky.social": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_(cropped).jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:David_Lisnard_en_2026.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Huma2023MarineTondelier_(cropped).jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_(cropped).jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(cropped).jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Nathalie_Arthaud_(LO)_19-05-2024.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Nicolas_Dupont-Aignan,_homme_politique_fran%C3%A7ais.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Portrait_d%27%C3%89ric_Zemmour,_avril_2022.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://commons.wikimedia.org/wiki/File:Xavier_Bertrand_-_2025_(cropped).jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://debout.fr/notre-manifeste/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://doc.parti.re/2026/Discours_Europe.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://doc.parti.re/2026/Lettre-finances-publiques.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_French_presidential_election": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.euronews.com/my-europe/2026/08/30/presidentielle-2027-dominique-de-villepin-presque-candidat-olivier-faure-a-la-primaire-soc": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Bruno_Retailleau": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Centre_droit": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/David_Lisnard": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Debout_!": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Debout_la_France": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Dominique_de_Villepin": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Fabien_Roussel": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Gabriel_Attal": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Horizons_(parti_politique)": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/La_France_insoumise": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Les_%C3%89cologistes": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Les_R%C3%A9publicains": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Lutte_ouvri%C3%A8re": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Marine_Le_Pen": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Marine_Tondelier": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Nathalie_Arthaud": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Nouvelle_%C3%89nergie": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Place_publique_(parti_politique)": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Rassemblement_national": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Reconqu%C3%AAte_(parti_politique)": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Renaissance_(parti)": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://fr.wikipedia.org/wiki/Xavier_Bertrand": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/je-serai-candidat-a-la-prochaine-election-presidentielle-edouard-philippe-l-ancien-premier-ministre-et-maire-du-havre-officialise-sa-candidature-3026366.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://francoisruffin.fr": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://francoisruffin.fr/category/actu/blog/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://glucks2027.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://horizonsleparti.fr/discours-dedouard-philippe-lors-du-conseil-national-a-reims-10-mai-2026/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://horizonsleparti.fr/discours-du-congres-de-marseille-17-mai-2025/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://horizonsleparti.fr/ma-proposition-aux-entrepreneurs/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/canicule-et-nos-villes.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/guerre-americaine-paix-mondiale.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/humanisme-intelligence-artificielle.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/ia-pouvoir-de-dire-non-monopole-americain.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/iran-guerre-illegale-tribune.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/la-dette-cest-la-defaite.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/la-grande-adaptation-du-territoire.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/la-lutte-antiterroriste.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/le-scandale-de-la-pauvrete.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/nous-sommes-cernes-par-les-flammes.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/pourquoi-je-suis-ecogaulliste.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/prenons-au-serieux-ce-que-dit-la-jeunesse-de-france.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/protection-sociale.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/recoudre-la-france.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/risque-identitaire-territoires.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/sante-et-environnement.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/un-genocide-a-gaza.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/articles/un-nouveau-monde-du-travail.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/chroniques.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/france2027.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/parrainage.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafrancehumaniste.fr/programme/economie.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lafranceinsoumise.fr/actualites/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/candidature-a-la-presidentielle-pas-de-choix-definitif-des-ecologistes-avant-la-mi": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/dominique-de-villepin-nous-voulons-etre-presents-en-2027-429413": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/pourvoi-de-marine-le-pen-la-cour-de-cassation-pourrait-etre-en-mesure-de-se-prononcer": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/presidentielle-a-la-fete-de-l-huma-fabien-roussel-au-defi-de-prouver-l-utilite-d-une": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/presidentielle-le-programme-remanie-de-la-nouvelle-france-de-jean-luc-melenchon-sera": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/presidentielle-melenchon-de-nouveau-candidat-qu-est-ce-qui-a-change-depuis-2022-435895": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lcp.fr/actualites/retraites-bruno-retailleau-veut-un-age-minimal-de-depart-a-63-ans-et-un-taux-plein-a-65": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://leprogrammepourlafrance.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf": {
     "ok": true,
     "status": 403,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://lesecologistes.fr/pages/6ImK65GKUnvibm33WGkjkj/projet-2027": {
     "ok": true,
     "status": 403,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://lesecologistes.fr/posts/78KU8DBF54s0dLt0K4oq5f/pour-un-pays-a-hauteur-d-enfants-nos-propositions-pour-l-enfance": {
     "ok": true,
     "status": 403,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://linkedin.com/company/lafrancehumaniste": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/breves/logement-toit-toutes-195933.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/editoriaux/29-septembre-apres-faisons-eclater-colere-197439.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/editoriaux/carburants-prix-budget-stop-racket-197249.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/editoriaux/catastrophes-lete-capitalistes-probleme-travailleurs-solutions-196254.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/editoriaux/desastre-climatique-responsables-capitalistes-payer-196394.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/editoriaux/euro-larmee-homme-guerre-182538.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/editoriaux/faut-mettre-leconomie-sous-controle-travailleurs-189196.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/editoriaux/galonnes-cherchent-chair-canon-188858.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/editoriaux/interdiction-licenciements-sous-peine-requisition-184019.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/editoriaux/non-guerre-entre-travailleurs-197063.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/editoriaux/politique-ecologique-consequente-cest-renverser-capitalisme-195906.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/editoriaux/troupes-francaises-hors-moyen-orient-bas-guerre-imperialiste-192972.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/editoriaux/vive-mobilisation-lyceenne-faisons-naitre-travailleurs-mardi-6-octobre-mobilises-197642.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-europe": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-feminisme": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinelepen.com/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/carnets-de-doctrine": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/dossiers-actu": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/journal-de-campagne": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/livrets-thematiques": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/25-09-plan-de-sortie-de-crise.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/CARNET-DE-DOCTRINE-INTERNATIONAL.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/Carnet-numerique.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/dossierdeprese-fraicheur-2.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/dossierpresse-budget2027.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/dossierpresse-incencies-1.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/dossierpresse-rentree.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/dp-bouclier-social-pour-envoi.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/livret-enfance-vf.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/Livret-littoraux.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/Livret-montagne.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/Livret-sante-reproductive.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://marinetondelier.fr/s/Livret-solitude.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://melenchon.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://melenchon.fr/2026/09/18/pourquoi-faut-il-constituer-des-stocks-publics-de-matieres-premieres-essentielles-pour-stabiliser-les-prix-comme-le-propose-jean-luc-melenchon/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://melenchon2027.fr/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://melenchon2027.fr/lettre-au-peuple-de-france/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://melenchon2027.fr/programme/decouvrir/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://melenchon2027.fr/programme/plans-investissement/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://melenchon2027.fr/programme/plans-thematiques/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://melenchon2027.fr/programme2025/livre/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://melenchon2027.fr/wp-content/uploads/2026/04/PROGRAMME-FRONT-POPULAIRE.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://melenchon2027.fr/wp-content/uploads/2026/10/plan_RURALITE_web.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://melenchon2027.fr/wp-content/uploads/2026/10/PLAN-AUTO_Vf_ST.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr/notre-programme/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr/plan-urgence-climat/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr/wp-content/uploads/2026/04/Debout-Livret-Campagne_Web.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr/wp-content/uploads/2026/07/Debout-Livret-Probite-Web-1.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr/wp-content/uploads/2026/09/CC_Logement.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr/wp-content/uploads/2026/09/Debout-Livret-Campagne-Loisirs-vdef-Web-1.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-Agriculture-vWeb.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Data_CENTERS_V2.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/Discours-de-David-Lisnard-a-Bayeux-17062026.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://parti-renaissance.fr/petitions/refonder-notre-systeme-de-retraite": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://parti-renaissance.fr/petitions/regulation-ecrans-et-rs": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://place-publique.eu/pages/69jA2SKIG5udlNX7wI3dmc/le-projet": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://place-publique.eu/posts": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/communiques": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/communiques/acces-a-leau-dans-les-outremers-le-vote-sectaire-du-parlement-empeche-ladoption-de-la-resolution-du-rn": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/communiques/communique-de-presse-de-julien-sanchez-directeur-de-campagne-de-marine-le-pen-2": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/communiques/communique-de-presse-de-julien-sanchez-directeur-de-campagne-pour-lelection-presidentielle": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/communiques/freins-a-la-croissance-et-simplification-jordan-bardella-et-marine-le-pen-associent-le-monde-economique": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/communiques/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/communiques/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-2": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/communiques/projet-de-loi-de-finances-2027-le-rn-soppose-au-rabotage-des-credits-agricoles-ultramarins-et-depose-un-amendement-de-compensation": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/communiques/rencontre-des-entrepreneurs-de-france-du-medef-andre-rouge-met-en-valeur-le-programme-de-marine-le-pen-pour-les-outremers": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/documents/202406-programme.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-buralistes-de-france": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/actualites/2026/02/12/je-suis-candidat-a-lelection-presidentielle/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/actualites/2026/03/01/la-dissuasion-nucleaire-francaise-ne-se-partage-pas/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/actualites/2026/05/02/priorite-travail-france-35h-salaires-retraites/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/actualites/2026/06/06/il-faut-creer-une-cour-disciplinaire-de-la-magistrature/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/actualites/2026/07/14/lunite-nationale-premiere-de-nos-armes/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/actualites/2026/07/24/incendies-face-a-lurgence-le-gouvernement-doit-agir-et-donner-a-nos-sapeurs-pompiers-les-moyens-de-nous-proteger/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/actualites/2026/08/02/lespace-schengen-doit-etre-reserve-aux-europeens/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/actualites/2026/08/09/face-au-rechauffement-climatique-adapter-la-france-plutot-que-punir/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/actualites/2026/08/26/je-serai-le-president-qui-baissera-les-impots-de-succession/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/actualites/2026/09/02/en-france-la-seule-cour-supreme-cest-le-peuple-je-lui-donnerai-le-dernier-mot/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/actualites/m/bruno-retailleau/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/nos-propositions/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/wp-content/uploads/2026/08/CP_BR_31_07_26.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/wp-content/uploads/2026/09/CP_BR_PP_809.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://t.me/EricZemmourOfficiel": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://t.me/JLMelenchon": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://t.me/s/dupontaignan": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://twitter.com/n_arthaud": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://twitter.com/PCF": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Nicolas_Dupont-Aignan%2C_homme_politique_fran%C3%A7ais.jpg/500px-Nicolas_Dupont-Aignan%2C_homme_politique_fran%C3%A7ais.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg/500px-1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fran%C3%A7ois_Ruffin_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ruffin_%28cropped%29.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_%28cropped%29.jpg/500px-Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_%28cropped%29.jpg": {
     "ok": true,
-    "status": 429,
-    "checked_at": "2026-10-17T17:28:02.463Z",
-    "note": "Protection anti-robot : non vérifiable automatiquement"
+    "status": 200,
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Huma2023MarineTondelier_%28cropped%29.jpg/500px-Huma2023MarineTondelier_%28cropped%29.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_%28cropped%29.jpg/500px-Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_%28cropped%29.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Nathalie_Arthaud_%28LO%29_19-05-2024.jpg/500px-Nathalie_Arthaud_%28LO%29_19-05-2024.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Marine_Le_Pen_2025_%28cropped%29.jpg/500px-Marine_Le_Pen_2025_%28cropped%29.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Portrait_d%27%C3%89ric_Zemmour%2C_avril_2022.jpg/500px-Portrait_d%27%C3%89ric_Zemmour%2C_avril_2022.jpg": {
     "ok": true,
-    "status": 429,
-    "checked_at": "2026-10-17T17:28:02.463Z",
-    "note": "Protection anti-robot : non vérifiable automatiquement"
+    "status": 200,
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Xavier_Bertrand_-_2025_%28cropped%29.jpg/500px-Xavier_Bertrand_-_2025_%28cropped%29.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Edouard_Philippe_3x4_crop.jpg/500px-Edouard_Philippe_3x4_crop.jpg": {
     "ok": true,
-    "status": 429,
-    "checked_at": "2026-10-17T17:28:02.463Z",
-    "note": "Protection anti-robot : non vérifiable automatiquement"
+    "status": 200,
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Roussel_Fabien_1.jpg/500px-Roussel_Fabien_1.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg/500px-Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gabriel_Attal_2025_%28close_crop%29.jpg/500px-Gabriel_Attal_2025_%28close_crop%29.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/David_Lisnard_en_2026.jpg/500px-David_Lisnard_en_2026.jpg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://web.archive.org/web/20260925081255/https://choisir2027.fr/wp-content/uploads/2026/09/Profession-de-foi-RG.pdf": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://web.archive.org/web/20260926135246/https://republicains.fr/nos-propositions/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://web.archive.org/web/20261012153628/http://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://web.archive.org/web/20261015155357/https://nouspresident.fr/notre-programme/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.assemblee-nationale.fr/dyn/17/amendements/2697/AN/30.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.boursorama.com/actualite-economique/actualites/marine-le-pen-veut-ramener-le-deficit-budgetaire-a-3-d-ici-2030-e234d02e0ea563e2766ea6142c4a1bdc": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.budget2027.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.cnews.fr/france/2025-08-31/finances-publiques-crise-democratique-municipales-2026-ce-quil-faut-retenir-du": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.cnews.fr/france/2026-05-19/immigration-negative-erreur-de-la-binationalite-rassemblement-national-ce-quil": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.cnews.fr/france/2026-09-13/presidentielle-2027-remigration-intelligence-artificielle-ce-quil-faut-retenir-du": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.cnews.fr/france/2026-09-18/des-robots-la-place-des-immigres-la-proposition-choc-deric-zemmour-pour-reduire": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.cnews.fr/france/2026-09-24/guerre-en-ukraine-la-dissuasion-nucleaire-nappartient-qua-la-france-juge-marine": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.cnews.fr/france/2026-10-08/presidentielle-2027-edouard-philippe-prevoit-une-dissolution-et-une-vingtaine": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.cnews.fr/france/2026-10-13/niveau-scolaire-francais-que-propose-eric-zemmour-pour-retablir-la-meilleure": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.cnews.fr/france/2026-10-16/blocus-des-lycees-presidentielle-2027-jordan-bardella-ce-quil-faut-retenir": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/notre-projet/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/affaires-etrangeres/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/affaires-europeennes/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/agriculture/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/combat-pour-les-femmes/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/culture-patrimoine/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/defense/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/economie-travail/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/environnement-energie/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/equilibre-territoire-monde-rural/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/famille/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/handicap/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/immigration-et-assimilation/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/instruction-publique/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/intelligence-artificielle/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/justice/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/logement/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/outre-mer/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/produire-en-france/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/retraites/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/sante/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/securite/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.debout-la-france.fr/projet/transport-automobilistes/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.defense-92.fr/politique/presidentielle-2027-bruno-retailleau-presente-a-nanterre-son-plan-durgence-contre-les-trafics-87292": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.dupontaignan.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.dupontaignan.fr/actualite/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.dupontaignan.fr/actualite/pour-un-referendum-sur-la-peine-de-mort-pour-les-meurtriers-d-enfants/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.edouardphilippe.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.edouardphilippe.fr/actualites": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.edouardphilippe.fr/actualites/festival-les-terres-de-jim-edouard-philippe-est-alle-a-la-rencontre-des-agriculteurs": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.edouardphilippe.fr/actualites/le-comite-de-campagne-est-lance": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.edouardphilippe.fr/actualites/retraites-la-reforme-que-je-propose-aux-francais": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.empruntis.com/financement/actualites/2025/logement-pistes-edouard-philippe-sortir-crise-20373/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.europe1.fr/economie/retraites-marine-le-pen-pour-une-part-de-capitalisation-volontaire-953651": {
     "ok": true,
     "status": 403,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.europe1.fr/international/candidat-a-la-prochaine-presidentielle-edouard-philippe-a-rencontre-volodymyr-zelensky-a-kiev-ce-mardi-938750": {
     "ok": true,
     "status": 403,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.europe1.fr/politique/budget-2027-marine-le-pen-promet-140-milliards-deuros-nets-deconomies-dici-2032-pour-eviter-a-la-france-le-defaut-de-paiement-1126400": {
     "ok": true,
     "status": 403,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.europe1.fr/politique/presidentielle-2027-eric-zemmour-appelle-a-un-vote-du-sursaut-lors-de-son-discours-de-rentree-1075178": {
     "ok": true,
     "status": 403,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.europe1.fr/politique/presidentielle-2027-pour-eric-zemmour-sa-candidature-a-lelysee-na-jamais-fait-lobjet-du-moindre-doute-1054310": {
     "ok": true,
     "status": 403,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.fabienroussel2027.fr/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.fabienroussel2027.fr/materiel": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.facebook.com/BrunoRetailleau": {
     "ok": true,
     "status": 400,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.facebook.com/edouardphilippelh": {
     "ok": true,
     "status": 400,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.facebook.com/GabrielAttal": {
     "ok": true,
     "status": 400,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.facebook.com/lafrancehumaniste/": {
     "ok": true,
     "status": 400,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.facebook.com/nathaliearthaud": {
     "ok": true,
     "status": 400,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.facebook.com/nicolasdupontaignan/": {
     "ok": true,
     "status": 400,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.facebook.com/Nouv.Energie": {
     "ok": true,
     "status": 400,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.facebook.com/Particommuniste/": {
     "ok": true,
     "status": 400,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.facebook.com/raphaelglucksmann/": {
     "ok": true,
     "status": 400,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.facebook.com/xavierbertrand02": {
     "ok": true,
     "status": 400,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.facebook.com/ZemmourEric/": {
     "ok": true,
     "status": 400,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.franceinfo.fr/elections/presidentielle/la-patronne-des-ecologistes-marine-tondelier-se-declare-candidate-a-l-election-presidentielle-de-2027_7568824.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
+  },
+  "https://www.franceinfo.fr/elections/presidentielle/les-emmerdes-commencent-les-huit-defis-que-raphael-glucksmann-va-devoir-relever-apres-sa-victoire-a-la-primaire-de-la-gauche_8234041.html": {
+    "ok": true,
+    "status": 200,
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
+  },
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-philippe-prone-une-evolution-des-rythmes-scolaires-avec-un-apprentissage-concentre-en-matinee-et-des-vacances-plus-courtes_8239537.html": {
+    "ok": true,
+    "status": 200,
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.francetvinfo.fr/politique/nicolas-dupont-aignan/le-souverainiste-nicolas-dupont-aignan-se-lance-pour-la-4e-fois-dans-la-course-a-l-elysee_7118136.html": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.ici.fr/infos/politique/henin-beaumont-marine-le-pen-veut-mettre-la-priorite-nationale-au-centre-d-un-grand-chantier-sur-le-logement-9670977": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
+  },
+  "https://www.ici.fr/occitanie/tarn-et-garonne-82/moissac/marine-le-pen-en-campagne-dans-le-tarn-et-garonne-devoile-ses-propositions-sur-la-protection-de-l-enfance-2825246": {
+    "ok": true,
+    "status": 200,
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.instagram.com/bruno_retailleau": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.instagram.com/dupontaignan/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.instagram.com/edouardphilippelh/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.instagram.com/ericzemmour_/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.instagram.com/gabrielattal/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 429,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.instagram.com/jlmelenchon/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 429,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.instagram.com/lafrancehumaniste/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.instagram.com/marine_lepen/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.instagram.com/marinetondelier": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.instagram.com/nathalie_arthaud_lo/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.instagram.com/nouv_energie/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 429,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.instagram.com/pcfparticommunistefrancais": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.instagram.com/raphaelglucksmann/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 429,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.instagram.com/xavier.bertrand/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lavenir.net/actu/monde/2026/09/17/france-en-cas-de-victoire-marine-le-pen-veut-interdire-le-voile-de-maniere-progressive-4BGF3FXFXZBX7OL5YSN42XFUXM/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lefigaro.fr/politique/nicolas-dupont-aignan-se-declare-candidat-a-la-prochaine-election-presidentielle-20250308": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.lejdd.fr/politique/emeutes-lyceennes-il-faut-en-finir-avec-lexcuse-de-minorite-martele-eric-zemmour-185988": {
     "ok": true,
     "status": 403,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.lejdd.fr/politique/interdiction-du-voile-dans-lespace-public-eric-zemmour-abonde-dans-le-sens-du-rn-182307": {
     "ok": true,
     "status": 403,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.lejdd.fr/politique/nunez-va-se-coucher-zemmour-exhorte-le-gouvernement-a-traiter-lalgerie-comme-un-pays-ennemi-163623": {
     "ok": true,
     "status": 403,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.lemonde.fr/politique/article/2026/04/10/presidentielle-dominique-de-villepin-se-veut-le-candidat-du-rassemblement-en-2027_6679080_823448.html": {
     "ok": true,
-    "status": 402,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.linfodurable.fr/politique/apres-la-primaire-quelles-ambitions-ecologiques-pour-raphael-glucksmann-59331": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.linkedin.com/company/nouvelle-energie-pour-la-france/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.linkedin.com/in/dupontaignan/": {
     "ok": true,
     "status": 999,
-    "checked_at": "2026-10-17T17:28:02.463Z",
+    "checked_at": "2026-10-19T07:45:06.918Z",
     "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.linkedin.com/in/raphaelglucksmann/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 999,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.lisnard2027.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lutte-ouvriere.org/portail/brochures/index.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lutte-ouvriere.org/portail/brochures/meeting-14-fevrier-2026-discours-nathalie-arthaud-191591.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lutte-ouvriere.org/portail/editoriaux/17-octobre-apres-montrons-lesprit-revolte-na-dage-205755.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lutte-ouvriere.org/portail/editoriaux/index.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lutte-ouvriere.org/portail/index.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/index.html": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-ecologie": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-nos-idees-et-positions-politiques-logement-un-droit-fondamental-conquerir": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nathalie-arthaud.info": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2025/10/avant-la-presidentielle-xavier-bertrand-se-pose-en-opposant-dinteret-general-liberation/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2025/10/xavier-bertrand-se-presente-comme-le-candidat-des-classes-moyennes-contre-les-extremes-afp/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2025/10/xavier-bertrand-sebastien-lecornu-subira-le-meme-sort-que-michel-barnier-et-francois-bayrou-paris-match/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2025/11/presidentielle-2027-xavier-bertrand-veut-retenter-sa-chance/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/01/saisir-la-cjue-le-dernier-recours-contre-le-mercosur-par-julien-dive-et-xavier-bertrand-la-tribune/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/01/xavier-bertrand-la-commission-denquete-parlementaire-sur-laudiovisuel-public-est-instrumentalisee-par-son-rapporteur-a-des-fins-ideologiques-le-monde/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/03/lettre-aux-maires-de-xavier-bertrand/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/04/hausse-du-carburant-la-proposition-de-xavier-bertrand/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/05/lcp-la-manche-est-en-train-de-devenir-un-cimetiere-marin-a-ciel-ouvert-denonce-xavier-bertrand/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/05/xavier-bertrand-paris-na-pas-envie-de-depenser-un-euro-de-plus-pour-la-corse-corse-matin/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/08/je-my-prepare-pas-encore-officiellement-candidat-xavier-bertrand-pose-les-bases-de-son-projet-pour-la-presidentielle-avec-la-culture-en-toile-de-fond-var-matin/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/08/presidentielle-2027-xavier-bertrand-un-non-candidat-en-campagne-lopinion/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/08/xavier-bertrand-fait-un-pas-de-plus-vers-une-candidature-a-la-presidentielle-le-monde/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/2026/09/presidentielle-2027-xavier-bertrand-candidat-en-embuscade/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.nousfrance.fr/les-actualites/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.parti-reconquete.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.parti-reconquete.fr/le-mouvement": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.pcf.fr/actualites": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.pcf.fr/cahiers_thematiques": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/je-suis-pret-bruno-retailleau-se-declare-candidat-a-lelection-presidentielle-2027": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/legislatives-marine-le-pen-prete-a-defendre-le-retour-la-proportionnelle-integrale-de-1986-0": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/presidentielle-edouard-philippe-met-en-place-son-organigramme-pour-elargir-au-maximum-le-socle-et-depasser-horizons": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/presidentielle-limmigration-nouveau-clivage-a-gauche": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/presidentielle-pas-candidat-pour-le-moment-raphael-glucksmann-trace-son-chemin-et-defend-sa-vision-pour-le-pays": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/reculer-ou-avancer-lage-legal-avec-ou-sans-capitalisation-ce-que-proposent-les-principaux-candidats-a-lelection-presidentielle-sur-les-retraites": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.publicsenat.fr/actualites/politique/un-an-pour-convaincre-pour-son-premier-grand-meeting-gabriel-attal-mise-sur-lespoir-et-joue-sa-difference-avec-edouard-philippe": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.stop-hausse-carburant.fr/": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.tf1info.fr/politique/candidate-a-la-election-presidentielle-2027-marine-le-pen-rn-devoile-son-affiche-de-campagne-pour-la-france-la-renaissance-2451969.html": {
     "ok": true,
-    "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "status": 403,
+    "checked_at": "2026-10-19T07:45:06.918Z",
+    "note": "Protection anti-robot : non vérifiable automatiquement"
   },
   "https://www.tiktok.com/@brunoretailleauoff": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.tiktok.com/@dupontaignannicolas": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.tiktok.com/@jlmelenchon": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.tiktok.com/@lafrancehumaniste": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.tiktok.com/@nathaliearthaud": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.touteleurope.eu/vie-politique-des-etats-membres/proces-des-assistants-du-rn-marine-le-pen-condamnee-en-appel-mais-eligible-a-l-election-presidentielle-2027/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.twitch.tv/jlmelenchon": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/actualites/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
+  },
+  "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/": {
+    "ok": true,
+    "status": 200,
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/notre-programme/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/notre-programme/agriculture/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/notre-programme/education/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/notre-programme/immigration/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/notre-programme/sante/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/notre-programme/securite/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-candidat-a-la-presidentielle-2027/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-favorable-a-la-retraite-par-capitalisation/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/david-lisnard-veut-il-baisser-les-impots/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/david-lisnard-veut-il-privatiser-les-services-publics/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/david-lisnard-veut-il-supprimer-la-securite-sociale/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/que-ferait-david-lisnard-des-200-milliards-d-economies/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-age-de-depart-a-la-retraite-david-lisnard-defend-il/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-defend-les-commercants-et-les-artisans/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-construire-des-places-de-prison/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-retablir-la-responsabilite-des-magistrats/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-un-referendum-sur-l-immigration/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-baisser-les-impots/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-construire-de-nouveaux-reacteurs-nucleaires/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-faire-baisser-le-prix-du-carburant/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-que-le-travail-paie-plus-que-l-assistanat/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-que-les-peines-soient-reellement-executees/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reduire-le-nombre-de-fonctionnaires/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reformer-l-assurance-chomage/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reformer-le-statut-de-la-fonction-publique/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-regrouper-les-aides-sociales-en-une-allocation-unique/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-rendre-les-parents-responsables-des-delits-de-leurs-enfants/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-renforcer-l-armee/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-droits-de-succession/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
+  },
+  "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-subventions-aux-entreprises/": {
+    "ok": true,
+    "status": 200,
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-zones-a-faibles-emissions-zfe/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quelle-est-la-position-de-david-lisnard-sur-la-guerre-en-ukraine/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.youtube.com/@Bruno_Retailleau": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.youtube.com/@david_lisnard": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.youtube.com/@dominiquedevillepin": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.youtube.com/@EdouardPhilippe": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.youtube.com/@EricZemmourOff": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.youtube.com/@francois_ruffin": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.youtube.com/@JLMelenchon": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.youtube.com/channel/UCU3z3px1_RCqYBwrs8LJVWg": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.youtube.com/channel/UCZsh-MrJftAOP_-ZgRgLScw": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.youtube.com/user/CNPCF": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.youtube.com/user/ndatv": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://www.youtube.com/watch?v=DhtIKLvqZqE": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/BrunoRetailleau": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/dupontaignan/": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/EPhilippe_LH": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/Fabien_Roussel": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/Francois_Ruffin": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/GabrielAttal": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/jlmelenchon": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/LFHumaniste": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/marinetondelier": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/MLP_officiel": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/NousFrance_fr": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/nouv_energie": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/Reconquete_off": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/xavierbertrand": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   },
   "https://x.com/ZemmourEric": {
     "ok": true,
     "status": 200,
-    "checked_at": "2026-10-17T17:28:02.463Z"
+    "checked_at": "2026-10-19T07:45:06.918Z"
   }
 }
