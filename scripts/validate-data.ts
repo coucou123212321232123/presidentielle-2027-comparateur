@@ -67,7 +67,8 @@ else if (votesParsed.success) {
   for (const e of explanationsParsed.data) {
     const s = byId.get(e.id)
     if (!s) {
-      warnings.push(`votes-explanations.json › ${e.id} : scrutin absent de votes.json`)
+      // Une explication n'est publiée qu'avec les décomptes officiels du scrutin (npm run fetch-votes), qui permettent de vérifier l'attribution des arguments.
+      errors.push(`votes-explanations.json › ${e.id} : scrutin absent de votes.json (lancer npm run fetch-votes après l'ajout dans research/votes/selection.json)`)
       continue
     }
     // Un argument n'est attribué qu'à des groupes qui ont voté dans ce sens (au moins en partie).

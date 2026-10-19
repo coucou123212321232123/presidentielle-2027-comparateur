@@ -50,9 +50,11 @@ Sources interdites (non fiables ou non primaires) : `elyseescope.com`, `votons-2
 
 1. Appliquer les seuls changements acceptés (fiches dans `research/candidates/`, mesures dans `src/data/measures/`), avec `last_verified` = date du jour, et `added` = date du jour pour chaque **nouvelle** mesure (ne pas modifier `added` d'une mesure existante).
 2. Mettre à jour `meta.last_updated` et ajouter une entrée dans `src/data/changelog.json` (date, résumé neutre par candidat, nombre de changements acceptés / rejetés).
-3. Lancer, et **ne publier que si tout passe** :
+3. Lancer, et **ne publier que si tout passe** (`fetch-votes` et `merge-vote-explanations` : voir l'étape V) :
    ```bash
    npm run merge-research
+   npm run fetch-votes
+   npm run merge-vote-explanations
    npm run validate-data
    npm run check-links
    npm run export-data
@@ -62,12 +64,45 @@ Sources interdites (non fiables ou non primaires) : `elyseescope.com`, `votons-2
 
 Si une étape échoue (validation, build, push), **rien n'est publié** et le rapport de la tâche indique pourquoi.
 
-## Votes à l'Assemblée
+## Étape V — Grands textes votés à l'Assemblée (avant la publication de l'étape 4)
 
-Les décomptes de `src/data/votes.json` ne sont jamais saisis à la main : le workflow `.github/workflows/votes.yml` les importe chaque lundi (matin et soir) depuis les données ouvertes de l'Assemblée (`npm run fetch-votes`). Pour ajouter un grand texte, ajouter une entrée dans `research/votes/selection.json` (législature, numéro du scrutin, intitulé court, thème, contexte factuel et neutre) : le push déclenche l'import. Les étapes de la navette (première lecture, texte de CMP, lecture définitive) et les motions de censure sont précisées dans le contexte.
+Les décomptes de `src/data/votes.json` et de `src/data/votes-index.json` ne sont **jamais saisis à la main** : ils viennent des données ouvertes de l'Assemblée (`npm run fetch-votes`), importées aussi par le workflow `.github/workflows/votes.yml` chaque lundi (05:17 et 17:47 UTC) et à chaque modification de `research/votes/selection.json`. Ne jamais modifier ces deux fichiers autrement que par ce script.
 
-### Explications des votes
+### V.1 — Repérage (mécanique, sans choix éditorial)
 
-Pour chaque grand texte, `research/votes/explications/*.json` contient le contenu du texte et les arguments de chaque camp, rapportés et attribués aux groupes qui ont voté dans ce sens, chacun avec sa source (presse de référence, comptes rendus, vie-publique.fr). `npm run merge-vote-explanations` les publie dans `src/data/votes-explanations.json` ; `npm run validate-data` refuse un argument attribué à un groupe qui n'a pas voté dans ce sens. Un camp sans argument sourcé reste vide (« Aucun argument sourcé n'a été trouvé ») : rien n'est complété sans source.
+`npm run votes-candidates` liste les scrutins postérieurs à `research/votes/suivi.json` (`last_checked`) qui remplissent les critères chiffrés : vote sur l'ensemble d'un texte, vote solennel ou déclaration du gouvernement avec **au moins 400 suffrages** (pour + contre + abstentions) ; motion de censure **adoptée ou ayant recueilli au moins 250 voix**. Tous les scrutins listés sont examinés, quel que soit le sujet ou les groupes qui l'ont porté.
 
-Votes encore sans explication (recherche interrompue faute de quota de recherche) : l16-897, l16-236, l16-186, l17-519, l17-456, l17-438, l17-217, l16-3725. Les compléter en priorité lors de la prochaine mise à jour, ainsi que les camps restés vides.
+Un scrutin listé n'est écarté que dans ces cas (motif noté dans le journal) :
+- **même texte, même étape** qu'un scrutin déjà retenu (ex. loi organique jumelle votée le même jour sur le même sujet : on garde le texte principal et on le précise dans son contexte) ;
+- **étape intermédiaire** d'un texte déjà retenu : une nouvelle étape n'est ajoutée que si elle est décisive (adoption définitive : texte de CMP ou lecture définitive ; rejet ; nouvelle lecture après censure du Conseil constitutionnel) ;
+- vote de pure procédure sans portée sur le fond.
+
+Pour chaque scrutin retenu, ajouter une entrée à `research/votes/selection.json` : `legislature`, `numero`, `short_title` (intitulé court et neutre, repris de l'intitulé officiel), `theme` (identifiant de `src/data/themes.json`), `context` (factuel : objet du texte d'après l'intitulé officiel et le dossier législatif, étape de la navette, auteur ou gouvernement à l'origine). Puis lancer `npm run fetch-votes` : si le téléchargement échoue (serveur de l'Assemblée indisponible), **retirer les ajouts de la semaine** de `selection.json` et ne rien publier pour eux (le scrutin reste repéré la semaine suivante : ne pas avancer `last_checked`).
+
+### V.2 — Explications (un sous-agent de collecte)
+
+Pour chaque scrutin ajouté, puis pour les textes encore sans explication (liste ci-dessous) et les camps restés vides, rédiger dans `research/votes/explications/<AAAA-MM-JJ>.json` (même format que les lots existants : `id`, `summary`, `arguments.pour` / `contre` / `abstention`, `sources`) :
+- **`summary`** : ce que contient le texte (principales dispositions, chiffres exacts), son étape et ses suites connues (CMP, saisine ou décision du Conseil constitutionnel, promulgation). Chaque fait avec sa source dans `sources`.
+- **Arguments** : ceux avancés en séance ou publiquement par les groupes, **rapportés et attribués** (« Pour ses défenseurs… », « Selon le groupe X… »), au plus trois par camp, chacun avec `groups` (sigles exacts du scrutin, uniquement des groupes ayant voté dans ce sens) et sa source. **Même effort de recherche pour chaque camp** : un camp sans argument sourcé reste vide, jamais complété par une déduction.
+- **Sources à privilégier** : compte rendu intégral et dossier législatif (assemblee-nationale.fr, senat.fr), vie-publique.fr, legifrance.gouv.fr, conseil-constitutionnel.fr, LCP, Public Sénat, AFP et presse nationale de référence ; presse régionale pour un texte local. **À éviter** : sites d'opinion, blogs, sites partisans, médias étrangers ou spécialisés hors de leur domaine (ex. site boursier pour une loi pénale), agrégateurs ; plus la liste des sources interdites ci-dessus.
+
+### V.3 — Contre-vérification indépendante (sous-agent distinct, obligatoire)
+
+Un sous-agent qui ne reçoit que les entrées ajoutées à `selection.json` et le fichier d'explications de la semaine (pas le raisonnement de la collecte) rouvre chaque source et applique la grille. Une entrée n'est publiée **que si tous les critères sont remplis** ; sinon l'élément fautif est retiré (argument, phrase du résumé) ou l'entrée entière, avec son motif.
+
+| # | Critère | Règle |
+|---|---|---|
+| 1 | **Scrutin** | Le numéro, la date et l'intitulé correspondent à la page officielle du scrutin (`https://www.assemblee-nationale.fr/dyn/<législature>/scrutins/<numéro>`). |
+| 2 | **Fidélité du résumé** | Chaque fait du `summary` et du `context` est dans une source citée : mêmes chiffres, mêmes conditions, même étape. Les suites (CMP, Conseil constitutionnel, promulgation) exigent une source officielle ou deux médias indépendants. |
+| 3 | **Attribution** | Chaque argument est attribué, dans la source, au groupe ou à ses membres ; les `groups` ont tous voté dans ce sens (vérifié aussi par `npm run validate-data`). |
+| 4 | **Neutralité** | Arguments rapportés, sans adjectif évaluatif ni jugement ; citation < 15 mots ; `short_title` et `context` neutres. |
+| 5 | **Équilibre** | Les camps pour, contre (et abstention s'il est notable) ont été recherchés avec le même effort ; pas plus de trois arguments par camp. |
+| 6 | **Fiabilité** | Sources de la liste « à privilégier » ; aucune source « à éviter » ou interdite. |
+| 7 | **URL** | Chaque URL est ouverte et confirmée. Jamais d'URL reconstruite. |
+| 8 | **Repérage** | Les scrutins listés par `votes-candidates` et écartés le sont pour un motif de V.1, noté dans le journal. |
+
+### V.4 — Application
+
+Appliquer les seules entrées acceptées, relancer `npm run fetch-votes` puis `npm run merge-vote-explanations` (étape 4.3), mettre `research/votes/suivi.json` à la date du dernier scrutin indexé (affichée par `votes-candidates`) si le repérage a été mené à bien, et consigner dans le fichier `pending` archivé (étape 4.5) : scrutins ajoutés, écartés (motif), explications acceptées / rejetées (motif). Ajouter au `changelog` une ligne neutre par texte ajouté ou expliqué : `{ "candidate": "Votes à l'Assemblée", "text": "<intitulé court> (scrutin du <date>) : ajouté | explication ajoutée" }`.
+
+Votes encore sans explication (recherche interrompue faute de quota de recherche) : l16-897, l16-236, l16-186, l17-519, l17-456, l17-438, l17-217, l16-3725. Les compléter en priorité, ainsi que les camps restés vides ; retirer un identifiant de cette liste une fois son explication publiée.

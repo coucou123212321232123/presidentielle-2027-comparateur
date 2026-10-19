@@ -1,0 +1,4 @@
+{
+  "_doc": "Date du dernier scrutin examiné par la routine hebdomadaire pour la liste des grands textes (npm run votes-candidates). Mise à jour à chaque passage, même sans ajout.",
+  "last_checked": "2026-10-13"
+}
