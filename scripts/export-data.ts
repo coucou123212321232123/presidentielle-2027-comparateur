@@ -29,6 +29,9 @@ const parsed = DataBundleSchema.safeParse({
   glossary: read('glossary.json'),
   votes: read('votes.json'),
   vote_explanations: read('votes-explanations.json'),
+  calendar: read('calendar.json'),
+  parrainages: read('parrainages.json'),
+  speaking_time: read('speaking-time.json'),
 })
 
 if (!parsed.success) {

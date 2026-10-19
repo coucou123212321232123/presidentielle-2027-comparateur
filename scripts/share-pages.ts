@@ -72,6 +72,11 @@ page('comparateur/', { ...home, title: 'Comparer les programmes par thème – P
 page('themes/', { ...home, title: 'Thèmes × candidats – Présidentielle 2027' })
 page('programmes/', { ...home, title: 'Programmes officiels des candidats – Présidentielle 2027' })
 page('methodologie/', { ...home, title: 'Méthodologie et sources – Présidentielle 2027' })
+page('election/', {
+  ...home,
+  title: 'Calendrier, parrainages et temps de parole – Présidentielle 2027',
+  description: `Dates officielles de l'élection, parrainages publiés par le Conseil constitutionnel et temps de parole relevé par l'Arcom. ${DISCLAIMER}`,
+})
 page('glossaire/', {
   ...home,
   title: 'Glossaire des sigles et termes – Présidentielle 2027',

@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
-import { ArrowLeft, Columns3, Globe, Users, Target, Briefcase, History, FileSearch, Landmark } from 'lucide-react'
+import { ArrowLeft, ChevronDown, Columns3, Globe, Users, Target, Briefcase, History, FileSearch, Landmark } from 'lucide-react'
 import { byTheme, candidateById, countFor, meta, summary, themes, useMeasures, useMeasuresFailed } from '../data'
 import { votes } from '../data/votes'
 import type { ThemeId } from '../data/schema'
@@ -15,11 +15,51 @@ import { Accordion } from '../components/Accordion'
 import { MeasureCard } from '../components/MeasureCard'
 import { MeasureFilters } from '../components/MeasureFilters'
 import { ThemeIcon } from '../components/ThemeIcon'
-import { Card, EmptyState, Skeleton } from '../components/ui'
+import { Card, cx, EmptyState, Skeleton } from '../components/ui'
 import { useMeasureFilter } from '../lib/store'
 import { newCount, useNovelty } from '../lib/novelty'
 import { ageAt, formatDate, formatShortDate, fullName, plural } from '../lib/format'
 import NotFoundPage from './NotFoundPage'
+
+type CandidateVote = { s: (typeof votes.scrutins)[number]; vote: (typeof votes.scrutins)[number]['candidates'][number]['vote'] }
+
+/** Votes du candidat (député) sur les grands textes d'un thème : repliés par défaut, ouverts à la demande. */
+function ThemeVotes({ list }: { list: CandidateVote[] }) {
+  const [open, setOpen] = useState(false)
+  if (!list.length) return null
+  return (
+    <div className="mt-4 border-t border-line pt-3">
+      <button
+        type="button"
+        onClick={() => setOpen((o) => !o)}
+        aria-expanded={open}
+        className="inline-flex items-center gap-1.5 text-sm font-medium text-muted hover:text-ink"
+      >
+        <Landmark className="size-4" aria-hidden="true" />
+        {open ? 'Masquer ses votes sur ce thème' : `Voir ses votes à l'Assemblée sur ce thème (${list.length})`}
+        <ChevronDown className={cx('size-4 transition-transform', open && 'rotate-180')} aria-hidden="true" />
+      </button>
+      {open && (
+        <div className="mt-3">
+          <ul className="divide-y divide-line overflow-hidden rounded-xl border border-line">
+            {list.map(({ s, vote }) => (
+              <li key={s.id}>
+                <Link to={`/votes/${s.id}`} className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 px-3 py-2.5 hover:bg-surface-2/60">
+                  <span className="min-w-0">
+                    <span className="block text-sm font-medium text-ink">{s.short_title}</span>
+                    <span className="block text-xs text-muted">Vote du {formatShortDate(s.date)}</span>
+                  </span>
+                  <VoteBadge scrutin={s} vote={vote} />
+                </Link>
+              </li>
+            ))}
+          </ul>
+          <p className="mt-2 text-xs text-muted">Votes enregistrés par l'Assemblée nationale pendant son mandat de député · grands textes uniquement.</p>
+        </div>
+      )}
+    </div>
+  )
+}
 
 function InfoCard({ icon, title, children }: { icon: React.ReactNode; title: string; children: React.ReactNode }) {
   return (
@@ -351,6 +391,7 @@ export default function CandidatePage() {
                       </AnimatePresence>
                     </div>
                     {list.length === 0 && <p className="text-sm text-muted">Aucune mesure ne correspond aux filtres actifs.</p>}
+                    <ThemeVotes list={myVotes.filter((v) => v.s.theme === t.id).sort((a, b) => b.s.date.localeCompare(a.s.date))} />
                   </>
                 ) : (
                   <div className="grid gap-3 md:grid-cols-2" aria-busy="true" aria-label="Chargement des mesures">

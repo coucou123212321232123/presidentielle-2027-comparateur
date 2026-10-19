@@ -16,6 +16,7 @@ const NAV = [
   { to: '/themes', label: 'Thèmes' },
   { to: '/programmes', label: 'Programmes' },
   { to: '/votes', label: 'Votes' },
+  { to: '/election', label: 'Élection' },
   { to: '/glossaire', label: 'Glossaire' },
   { to: '/methodologie', label: 'Méthodologie' },
 ]
@@ -71,7 +72,7 @@ function Header() {
     <header className="sticky top-0 z-40 border-b border-line bg-bg/80 backdrop-blur-md">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
         <Logo />
-        <nav aria-label="Navigation principale" className="hidden lg:block">
+        <nav aria-label="Navigation principale" className="hidden xl:block">
           <ul className="flex items-center gap-1">
             {NAV.map((n) => (
               <li key={n.to}>
@@ -93,7 +94,7 @@ function Header() {
           <ThemeToggle />
           <button
             type="button"
-            className="flex size-9 items-center justify-center rounded-full border border-line bg-surface lg:hidden"
+            className="flex size-9 items-center justify-center rounded-full border border-line bg-surface xl:hidden"
             onClick={() => setOpen((o) => !o)}
             aria-expanded={open}
             aria-controls="mobile-nav"
@@ -111,7 +112,7 @@ function Header() {
             initial={{ height: 0, opacity: 0 }}
             animate={{ height: 'auto', opacity: 1 }}
             exit={{ height: 0, opacity: 0 }}
-            className="overflow-hidden border-t border-line lg:hidden"
+            className="overflow-hidden border-t border-line xl:hidden"
           >
             <ul className="flex flex-col gap-1 px-4 py-3">
               {NAV.map((n) => (

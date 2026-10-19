@@ -64,6 +64,16 @@ Sources interdites (non fiables ou non primaires) : `elyseescope.com`, `votons-2
 
 Si une étape échoue (validation, build, push), **rien n'est publié** et le rapport de la tâche indique pourquoi.
 
+## Étape E — Calendrier électoral, parrainages et temps de parole (avant la publication de l'étape 4)
+
+Les chiffres des parrainages (`src/data/parrainages.json`) et du temps de parole (`src/data/speaking-time.json`) ne sont **jamais saisis à la main** : le workflow `.github/workflows/elections.yml` les importe chaque jour depuis les fichiers officiels (`npm run fetch-parrainages`, `npm run fetch-speaking-time`). La routine ne fait que tenir à jour leurs **sources** et le calendrier :
+
+1. **Calendrier** (`src/data/calendar.json`) : vérifier sur les sources officielles (info.gouv.fr, elections.interieur.gouv.fr, Journal officiel / legifrance.gouv.fr, conseil-constitutionnel.fr) si une date a été publiée ou modifiée : décret de convocation des électeurs, ouverture de la collecte des parrainages, ouverture de la campagne officielle, publication de la liste des candidats. Une date n'entre dans `events` (ordre chronologique, `qualifier` « exacte » ou « au_plus_tard », source officielle) que si un texte ou un site officiel la donne ; elle sort alors de `pending`. Jamais de date tirée d'un site non officiel.
+2. **Parrainages** : dès que le Conseil constitutionnel ouvre son site de l'élection 2027 et publie le fichier des parrainages validés, renseigner `research/parrainages/source.json` : `csv_url` (adresse exacte du fichier, relevée sur le site du Conseil, jamais reconstruite), `page_url` et `page_label` (page officielle des parrainages). Vérifier avec `npm run fetch-parrainages` que le format est reconnu (le script refuse un fichier dont les colonnes ont changé : signaler alors le problème dans le rapport, sans modifier le script). Mettre `closed` à `true` une fois la liste officielle des candidats publiée.
+3. **Temps de parole** : rien à faire hors période électorale. Si l'Arcom ouvre un relevé spécifique à l'élection présidentielle 2027 (période électorale), le signaler dans le rapport : son intégration demande une évolution du script.
+
+Ces vérifications passent par la même contre-vérification indépendante que l'étape 2 (critères 4, 5, 7 et 9 : fiabilité, recoupement, fraîcheur, URL) et sont consignées dans le fichier `pending` archivé.
+
 ## Étape V — Grands textes votés à l'Assemblée (avant la publication de l'étape 4)
 
 Les décomptes de `src/data/votes.json` et de `src/data/votes-index.json` ne sont **jamais saisis à la main** : ils viennent des données ouvertes de l'Assemblée (`npm run fetch-votes`), importées aussi par le workflow `.github/workflows/votes.yml` chaque lundi (05:17 et 17:47 UTC) et à chaque modification de `research/votes/selection.json`. Ne jamais modifier ces deux fichiers autrement que par ce script.

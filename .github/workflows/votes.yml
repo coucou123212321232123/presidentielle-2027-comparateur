@@ -44,7 +44,15 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/data/votes.json src/data/votes-index.json
-          if git diff --cached --quiet; then echo "Aucun changement"; exit 0; fi
+          # L'horodatage de génération change à chaque passage : on ne publie que si les votes ont changé.
+          changed=0
+          for f in src/data/votes.json src/data/votes-index.json; do
+            if ! diff <(git show HEAD:$f | grep -v '"generated_at"') <(grep -v '"generated_at"' $f) >/dev/null; then changed=1; fi
+          done
+          if [ "$changed" = 0 ]; then echo "Aucun changement"; exit 0; fi
+          # Paquet téléchargé par l'application de bureau, pour qu'elle reçoive aussi les nouveaux votes.
+          npm run export-data
+          git add src/data/votes.json src/data/votes-index.json public-data src/data/bundle-info.json
           git commit -m "Données : votes à l'Assemblée (open data)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push

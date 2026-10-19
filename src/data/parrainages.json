@@ -1,0 +1,14 @@
+{
+  "status": "non_commence",
+  "threshold": 500,
+  "rule": {
+    "text": "Pour figurer sur la liste des candidats, il faut au moins 500 présentations d'élus, venant d'au moins 30 départements ou collectivités d'outre-mer, sans que plus d'un dixième (50) viennent d'un même département.",
+    "source_label": "Conseil constitutionnel – Les parrainages à l’élection présidentielle",
+    "source_url": "https://www.conseil-constitutionnel.fr/nouveaux-cahiers-du-conseil-constitutionnel/les-parrainages-a-l-election-presidentielle"
+  },
+  "source_label": null,
+  "source_url": null,
+  "published_at": null,
+  "fetched_at": null,
+  "candidates": []
+}

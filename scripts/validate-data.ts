@@ -6,7 +6,10 @@
 import { readFileSync, readdirSync } from 'node:fs'
 import { join, basename } from 'node:path'
 import {
+  CalendarSchema,
   CandidateSchema,
+  ParrainagesSchema,
+  SpeakingTimeSchema,
   ChangelogSchema,
   GlossarySchema,
   VotesFileSchema,
@@ -82,6 +85,19 @@ else if (votesParsed.success) {
         }
   }
 }
+// Calendrier, parrainages (Conseil constitutionnel) et temps de parole (Arcom) : schéma et cohérence.
+const calendarParsed = CalendarSchema.safeParse(readJson(join(DATA, 'calendar.json')))
+if (!calendarParsed.success) zodIssues('calendar.json', calendarParsed.error.issues)
+else {
+  const dates = calendarParsed.data.events.map((e) => e.date)
+  if (dates.some((d, i) => i > 0 && d < dates[i - 1])) errors.push('calendar.json : les étapes doivent être dans l’ordre chronologique')
+}
+const parrainagesParsed = ParrainagesSchema.safeParse(readJson(join(DATA, 'parrainages.json')))
+if (!parrainagesParsed.success) zodIssues('parrainages.json', parrainagesParsed.error.issues)
+else if (parrainagesParsed.data.status !== 'non_commence' && !parrainagesParsed.data.source_url)
+  errors.push('parrainages.json : source officielle manquante')
+const speakingParsed = SpeakingTimeSchema.safeParse(readJson(join(DATA, 'speaking-time.json')))
+if (!speakingParsed.success) zodIssues('speaking-time.json', speakingParsed.error.issues)
 const glossaryParsed = GlossarySchema.safeParse(readJson(join(DATA, 'glossary.json')))
 if (!glossaryParsed.success) zodIssues('glossary.json', glossaryParsed.error.issues)
 else {
@@ -147,6 +163,12 @@ for (const c of candidates) {
 
 const total = measureIds.size
 console.log(`\n${candidates.length} candidats · ${themes.length} thèmes · ${total} mesures\n`)
+if (parrainagesParsed.success)
+  for (const c of parrainagesParsed.data.candidates)
+    if (c.candidate && !ids.has(c.candidate)) errors.push(`parrainages.json : candidat inconnu « ${c.candidate} »`)
+if (speakingParsed.success)
+  for (const id of Object.keys(speakingParsed.data.candidates)) if (!ids.has(id)) errors.push(`speaking-time.json : candidat inconnu « ${id} »`)
+
 if (warnings.length) {
   console.log(`⚠  ${warnings.length} avertissement(s) :`)
   for (const w of warnings) console.log(`   - ${w}`)

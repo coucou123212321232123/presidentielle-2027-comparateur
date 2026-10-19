@@ -1,0 +1,57 @@
+# Parrainages (Conseil constitutionnel) et temps de parole (Arcom) : importe chaque jour les fichiers officiels
+# et met à jour src/data/parrainages.json et src/data/speaking-time.json, puis le paquet téléchargé par
+# l'application de bureau. Ne publie rien si les données n'ont pas changé ou si la validation échoue.
+name: Parrainages et temps de parole
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - research/parrainages/source.json
+      - scripts/fetch-parrainages.ts
+      - scripts/fetch-speaking-time.ts
+      - scripts/lib/open-data.ts
+      - .github/workflows/elections.yml
+  schedule:
+    - cron: '37 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: elections
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+        env:
+          ELECTRON_SKIP_BINARY_DOWNLOAD: '1'
+      - name: Parrainages (Conseil constitutionnel)
+        run: npm run fetch-parrainages
+      - name: Temps de parole (Arcom)
+        run: npm run fetch-speaking-time
+      - name: Enregistrer les données
+        run: |
+          # L'horodatage de récupération change à chaque passage : on ne publie que si les chiffres ont changé.
+          changed=0
+          for f in src/data/parrainages.json src/data/speaking-time.json; do
+            if ! diff <(git show HEAD:$f | grep -v '"fetched_at"') <(grep -v '"fetched_at"' $f) >/dev/null; then changed=1; fi
+          done
+          if [ "$changed" = 0 ]; then echo "Aucun changement"; exit 0; fi
+          npm run validate-data
+          npm run export-data
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/parrainages.json src/data/speaking-time.json public-data src/data/bundle-info.json
+          git commit -m "Données : parrainages et temps de parole (sources officielles)"
+          git pull --rebase origin main
+          git push

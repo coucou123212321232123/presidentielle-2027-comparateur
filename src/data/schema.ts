@@ -302,6 +302,67 @@ export const VotesIndexSchema = z.object({
   ),
 })
 
+/** Calendrier électoral : chaque date avec sa source officielle (src/data/calendar.json). */
+export const CalendarSchema = z.object({
+  election: z.string().min(1),
+  events: z.array(
+    z.object({
+      id: z.string().regex(/^[a-z0-9-]+$/),
+      label: z.string().min(1),
+      date: isoDate,
+      /** « au plus tard » quand le texte officiel fixe une date limite plutôt qu'une date exacte. */
+      qualifier: z.enum(['exacte', 'au_plus_tard']),
+      note: z.string().optional(),
+      main: z.boolean().optional(),
+      source_label: z.string().min(1),
+      source_url: httpUrl,
+    }),
+  ),
+  /** Étapes dont la date n'est pas encore publiée officiellement (affichées sans date). */
+  pending: z.array(z.object({ label: z.string().min(1), note: z.string().min(1) })),
+})
+
+/** Parrainages publiés par le Conseil constitutionnel (src/data/parrainages.json, écrit par scripts/fetch-parrainages.ts). */
+export const ParrainagesSchema = z.object({
+  status: z.enum(['non_commence', 'en_cours', 'clos']),
+  threshold: z.number().int(),
+  rule: z.object({ text: z.string().min(1), source_label: z.string().min(1), source_url: httpUrl }),
+  source_label: z.string().nullable(),
+  source_url: httpUrl.nullable(),
+  /** Date de la dernière publication du Conseil constitutionnel prise en compte. */
+  published_at: isoDate.nullable(),
+  fetched_at: z.string().nullable(),
+  candidates: z.array(
+    z.object({
+      name: z.string().min(1),
+      /** Identifiant du candidat dans le comparateur, s'il y figure. */
+      candidate: z.string().nullable(),
+      total: z.number().int(),
+      departments: z.number().int(),
+      max_department: z.number().int(),
+    }),
+  ),
+})
+
+/** Temps de parole relevé par l'Arcom (hors période électorale), par mois (src/data/speaking-time.json). */
+export const SpeakingTimeSchema = z.object({
+  source_label: z.string().min(1),
+  source_url: httpUrl,
+  fetched_at: z.string(),
+  /** Mois publiés, du plus ancien au plus récent (AAAA-MM). */
+  months: z.array(z.string().regex(/^\d{4}-\d{2}$/)),
+  candidates: z.record(
+    z.string(),
+    z.object({
+      /** Libellé de la personnalité et appartenance politique tels que publiés par l'Arcom. */
+      name: z.string(),
+      affiliation: z.string(),
+      /** Secondes de temps de parole (télévision et radio), par mois. */
+      seconds: z.record(z.string(), z.number().int()),
+    }),
+  ),
+})
+
 /** Paquet de données publié en ligne (public-data/data-v2.json) et téléchargé par l'application de bureau. */
 export const DataBundleSchema = z.object({
   version: z.literal(2),
@@ -315,6 +376,9 @@ export const DataBundleSchema = z.object({
   glossary: GlossarySchema,
   votes: VotesFileSchema,
   vote_explanations: VoteExplanationsSchema.optional(),
+  calendar: CalendarSchema.optional(),
+  parrainages: ParrainagesSchema.optional(),
+  speaking_time: SpeakingTimeSchema.optional(),
 })
 
 export type ThemeId = z.infer<typeof ThemeIdSchema>
@@ -342,4 +406,7 @@ export type VotesFile = z.infer<typeof VotesFileSchema>
 export type VotesIndex = z.infer<typeof VotesIndexSchema>
 export type VoteExplanation = z.infer<typeof VoteExplanationSchema>
 export type VoteArgument = z.infer<typeof VoteArgumentSchema>
+export type Calendar = z.infer<typeof CalendarSchema>
+export type Parrainages = z.infer<typeof ParrainagesSchema>
+export type SpeakingTime = z.infer<typeof SpeakingTimeSchema>
 

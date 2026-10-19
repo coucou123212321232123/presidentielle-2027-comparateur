@@ -1,0 +1,7 @@
+{
+  "_doc": "Fichier CSV officiel des parrainages publié par le Conseil constitutionnel pour 2027 (même format qu'en 2022 : Civilité;Nom;Prénom;Mandat;Circonscription;Département;Candidat;Date de publication). À renseigner par la routine dès que le Conseil constitutionnel ouvre son site de l'élection, avec l'URL exacte relevée sur ce site (jamais reconstruite). Tant que csv_url est null, la page indique que la collecte n'a pas commencé.",
+  "csv_url": null,
+  "page_url": null,
+  "page_label": null,
+  "closed": false
+}

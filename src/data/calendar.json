@@ -1,0 +1,62 @@
+{
+  "election": "Élection présidentielle 2027",
+  "events": [
+    {
+      "id": "inscription",
+      "label": "Date limite d'inscription sur les listes électorales",
+      "date": "2027-03-12",
+      "qualifier": "exacte",
+      "note": "Date limite de droit commun pour pouvoir voter au premier tour.",
+      "source_label": "info.gouv.fr – Élection présidentielle 2027 : dates et vote",
+      "source_url": "https://www.info.gouv.fr/actualite/election-presidentielle-2027"
+    },
+    {
+      "id": "cloture-parrainages",
+      "label": "Clôture des parrainages",
+      "date": "2027-03-12",
+      "qualifier": "exacte",
+      "note": "Dernier jour pour que les présentations d'élus parviennent au Conseil constitutionnel.",
+      "source_label": "info.gouv.fr – Élection présidentielle 2027 : dates et vote",
+      "source_url": "https://www.info.gouv.fr/actualite/election-presidentielle-2027"
+    },
+    {
+      "id": "liste-officielle",
+      "label": "Publication de la liste officielle des candidats",
+      "date": "2027-03-26",
+      "qualifier": "au_plus_tard",
+      "note": "Liste établie par le Conseil constitutionnel.",
+      "source_label": "info.gouv.fr – Élection présidentielle 2027 : dates et vote",
+      "source_url": "https://www.info.gouv.fr/actualite/election-presidentielle-2027"
+    },
+    {
+      "id": "premier-tour",
+      "label": "Premier tour",
+      "date": "2027-04-18",
+      "qualifier": "exacte",
+      "main": true,
+      "note": "Samedi 17 avril en Guadeloupe, Martinique, Guyane, à Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin et en Polynésie française.",
+      "source_label": "info.gouv.fr – Élection présidentielle 2027 : dates et vote",
+      "source_url": "https://www.info.gouv.fr/actualite/election-presidentielle-2027"
+    },
+    {
+      "id": "second-tour",
+      "label": "Second tour",
+      "date": "2027-05-02",
+      "qualifier": "exacte",
+      "main": true,
+      "note": "Samedi 1er mai dans les mêmes territoires d'outre-mer.",
+      "source_label": "info.gouv.fr – Élection présidentielle 2027 : dates et vote",
+      "source_url": "https://www.info.gouv.fr/actualite/election-presidentielle-2027"
+    }
+  ],
+  "pending": [
+    {
+      "label": "Décret de convocation des électeurs et ouverture de la collecte des parrainages",
+      "note": "Date pas encore publiée au Journal officiel. Elle sera ajoutée dès sa publication."
+    },
+    {
+      "label": "Ouverture de la campagne officielle",
+      "note": "Date pas encore fixée par un texte publié. Elle sera ajoutée dès sa publication."
+    }
+  ]
+}

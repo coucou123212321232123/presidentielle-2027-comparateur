@@ -14,8 +14,10 @@ import { newCount, useNovelty } from '../lib/novelty'
 
 type Sort = 'alpha' | 'axis'
 
+/** Jours calendaires (heure de Paris) jusqu'à une date AAAA-MM-JJ, comme sur la page Élection. */
 function daysUntil(iso: string) {
-  return Math.max(0, Math.ceil((new Date(`${iso}T08:00:00`).getTime() - Date.now()) / 86_400_000))
+  const today = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Paris' }).format(new Date())
+  return Math.max(0, Math.round((Date.parse(`${iso}T00:00:00Z`) - Date.parse(`${today}T00:00:00Z`)) / 86_400_000))
 }
 
 /** Mesures ajoutées depuis la dernière visite, par candidat, avec « Marquer comme vu ». */
@@ -130,10 +132,15 @@ export function HomePage() {
             { label: 'candidats présentés', value: candidates.length },
             { label: 'mesures sourcées', value: totalMeasures },
             { label: 'jours avant le 1er tour', value: daysUntil(meta.election.first_round) },
-          ].map((s) => (
-            <div key={s.label} className="rounded-2xl border border-line bg-surface p-4 shadow-soft">
+          ].map((s, i) => (
+            <div key={s.label} className="relative rounded-2xl border border-line bg-surface p-4 shadow-soft">
               <dt className="text-xs leading-tight text-muted">{s.label}</dt>
               <dd className="mt-1 font-display text-3xl font-semibold tabular-nums text-ink">{s.value}</dd>
+              {i === 2 && (
+                <Link to="/election" className="mt-1 block text-xs font-medium text-muted after:absolute after:inset-0 hover:text-ink">
+                  Calendrier →
+                </Link>
+              )}
             </div>
           ))}
         </dl>

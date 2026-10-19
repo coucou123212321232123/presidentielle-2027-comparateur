@@ -1,9 +1,11 @@
+import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { Coins, Flag } from 'lucide-react'
+import { Check, Coins, Flag, Link2 } from 'lucide-react'
 import type { Measure } from '../data/schema'
 import { formatShortDate } from '../lib/format'
 import { isNewMeasure, useNovelty } from '../lib/novelty'
 import { reportUrl } from '../lib/report'
+import { copyText, measureUrl } from '../lib/share'
 import { NewBadge, PrecisionBadge, SourceTypeBadge } from './Badges'
 import { ExternalLink } from './ExternalLink'
 import { Glossed } from './Glossary'
@@ -80,6 +82,7 @@ export function MeasureCard({
           <span className="whitespace-nowrap" title="Date de dernière vérification">
             Vérifié le {formatShortDate(measure.last_verified)}
           </span>
+          <CopyLinkButton measure={measure} />
           <a
             href={reportUrl(measure)}
             target="_blank"
@@ -94,5 +97,29 @@ export function MeasureCard({
         </span>
       </footer>
     </motion.article>
+  )
+}
+
+function CopyLinkButton({ measure }: { measure: Measure }) {
+  const [state, setState] = useState<'idle' | 'copied' | 'failed'>('idle')
+  const copied = state === 'copied'
+  return (
+    <button
+      type="button"
+      onClick={async () => {
+        const url = measureUrl(measure)
+        let result: typeof state = (await copyText(url)) ? 'copied' : 'failed'
+        // Dernier recours (téléphones) : la feuille de partage du système.
+        if (result === 'failed' && navigator.share) result = await navigator.share({ title: measure.title, url }).then(() => 'idle' as const, () => 'failed' as const)
+        setState(result)
+        window.setTimeout(() => setState('idle'), 2500)
+      }}
+      className="no-print inline-flex items-center gap-1 whitespace-nowrap hover:text-ink"
+      title="Copier un lien direct vers cette mesure, à partager"
+      data-no-export="true"
+    >
+      {copied ? <Check className="size-3 text-green-600" aria-hidden="true" /> : <Link2 className="size-3" aria-hidden="true" />}
+      <span aria-live="polite">{copied ? 'Lien copié' : state === 'failed' ? 'Copie impossible' : 'Copier le lien'}</span>
+    </button>
   )
 }
