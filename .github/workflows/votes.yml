@@ -1,6 +1,6 @@
 # Votes à l'Assemblée : récupère l'open data officiel (data.assemblee-nationale.fr) et met à jour
 # src/data/votes.json sur la branche concernée. Déclenché quand la sélection des scrutins ou le script change,
-# chaque lundi, ou à la main.
+# chaque lundi (matin, puis soir pour rattraper un lancement manqué ou une coupure du serveur), ou à la main.
 name: Votes à l'Assemblée
 
 on:
@@ -11,6 +11,7 @@ on:
       - .github/workflows/votes.yml
   schedule:
     - cron: '17 5 * * 1'
+    - cron: '47 17 * * 1'
   workflow_dispatch:
 
 permissions:

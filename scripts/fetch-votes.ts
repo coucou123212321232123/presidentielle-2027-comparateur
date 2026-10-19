@@ -52,8 +52,10 @@ async function download(urls: string[]): Promise<Uint8Array> {
   for (const url of urls) {
     const file = join(CACHE, url.replace(/^.*\/repository\//, '').replace(/\//g, '_'))
     if (existsSync(file)) return new Uint8Array(readFileSync(file))
-    // Le serveur de l'Assemblée coupe parfois la connexion : trois essais espacés.
-    for (let attempt = 1; attempt <= 3; attempt++) {
+    // Le serveur de l'Assemblée coupe parfois la connexion : six essais de plus en plus espacés.
+    // Seul un fichier absent (erreur HTTP) fait passer à l'adresse suivante ; une coupure persistante arrête tout,
+    // pour ne jamais publier des votes calculés à partir d'un fichier de remplacement incomplet.
+    for (let attempt = 1; ; attempt++) {
       console.log(`↓ ${url}${attempt > 1 ? ` (essai ${attempt})` : ''}`)
       try {
         const res = await fetch(url, { signal: AbortSignal.timeout(300_000) })
@@ -66,7 +68,8 @@ async function download(urls: string[]): Promise<Uint8Array> {
         return buf
       } catch (e) {
         console.warn(`  échec : ${(e as Error).message}`)
-        await new Promise((r) => setTimeout(r, 5000 * attempt))
+        if (attempt === 6) throw new Error(`Téléchargement interrompu à chaque essai : ${url}`)
+        await new Promise((r) => setTimeout(r, 15_000 * attempt))
       }
     }
   }
@@ -122,6 +125,7 @@ async function loadActors(leg: number) {
     }
   }
   console.log(`  législature ${leg} : ${actors.size} acteurs, ${organes.size} groupes politiques`)
+  if (!actors.size || !organes.size) throw new Error(`Législature ${leg} : aucun député ou aucun groupe lu, fichier incomplet`)
   return { organes, actors }
 }
 

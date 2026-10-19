@@ -64,7 +64,7 @@ Si une étape échoue (validation, build, push), **rien n'est publié** et le ra
 
 ## Votes à l'Assemblée
 
-Les décomptes de `src/data/votes.json` ne sont jamais saisis à la main : le workflow `.github/workflows/votes.yml` les importe chaque lundi depuis les données ouvertes de l'Assemblée (`npm run fetch-votes`). Pour ajouter un grand texte, ajouter une entrée dans `research/votes/selection.json` (législature, numéro du scrutin, intitulé court, thème, contexte factuel et neutre) : le push déclenche l'import. Les étapes de la navette (première lecture, texte de CMP, lecture définitive) et les motions de censure sont précisées dans le contexte.
+Les décomptes de `src/data/votes.json` ne sont jamais saisis à la main : le workflow `.github/workflows/votes.yml` les importe chaque lundi (matin et soir) depuis les données ouvertes de l'Assemblée (`npm run fetch-votes`). Pour ajouter un grand texte, ajouter une entrée dans `research/votes/selection.json` (législature, numéro du scrutin, intitulé court, thème, contexte factuel et neutre) : le push déclenche l'import. Les étapes de la navette (première lecture, texte de CMP, lecture définitive) et les motions de censure sont précisées dans le contexte.
 
 ### Explications des votes
 
