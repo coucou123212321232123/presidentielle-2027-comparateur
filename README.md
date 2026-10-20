@@ -18,7 +18,7 @@ npm run og-images      # régénère les vignettes de partage public/og/*.png (p
 
 ### Version web et téléphone (GitHub Pages)
 
-Site publié : https://coucou123212321232123.github.io/presidentielle-2027-comparateur/
+Site publié : https://programmes-2027.fr/
 
 Le workflow `.github/workflows/pages.yml` reconstruit et publie le site à chaque push sur `main` (dont les mises à jour hebdomadaires des données), via `npm run build:pages`. Celui-ci génère aussi, pour chaque adresse partageable (fiches candidats, votes, `/partage/<thème>/` et `/partage/<thème>/<a>/<b>/` pour chaque paire de candidats), une page avec titre, description et vignette (Open Graph) : un lien partagé sur WhatsApp ou un réseau social affiche un aperçu. La version web n'embarque que le résumé des mesures : le détail est chargé candidat par candidat, à la demande. L'application est installable sur téléphone (manifeste + service worker `public/sw.js`) : iPhone → Safari → Partager → « Sur l'écran d'accueil » ; Android → Chrome → ⋮ → « Installer l'application ». Elle fonctionne hors ligne après une première visite.
 

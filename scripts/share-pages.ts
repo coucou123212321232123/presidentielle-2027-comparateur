@@ -13,7 +13,7 @@ import { indicatorsOf } from '../src/data/summary.ts'
 
 const ROOT = join(import.meta.dirname, '..')
 const DIST = join(ROOT, 'dist')
-const SITE = (process.env.SITE_URL ?? 'https://coucou123212321232123.github.io/presidentielle-2027-comparateur/').replace(/\/?$/, '/')
+const SITE = (process.env.SITE_URL ?? 'https://programmes-2027.fr/').replace(/\/?$/, '/')
 const read = <T,>(f: string): T => JSON.parse(readFileSync(join(ROOT, 'src', 'data', f), 'utf8'))
 
 const candidates = read<Candidate[]>('candidates.json').sort((a, b) => a.last_name.localeCompare(b.last_name, 'fr'))

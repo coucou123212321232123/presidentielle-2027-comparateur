@@ -7,8 +7,8 @@ import type { Measure } from './src/data/schema.ts'
 import { summarize } from './src/data/summary.ts'
 
 // electron : fichiers chargés en local (file://), chemins relatifs.
-// pages : site publié sous https://<compte>.github.io/presidentielle-2027-comparateur/.
-const BASES: Record<string, string> = { electron: './', pages: '/presidentielle-2027-comparateur/' }
+// pages : site publié à la racine de https://programmes-2027.fr/ (GitHub Pages, domaine personnalisé).
+const BASES: Record<string, string> = { electron: './', pages: '/' }
 
 const MEASURES_DIR = join(import.meta.dirname, 'src', 'data', 'measures')
 const SUMMARY_ID = 'virtual:measure-summary'

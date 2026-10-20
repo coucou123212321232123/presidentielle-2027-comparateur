@@ -31,7 +31,7 @@ function PageSkeleton() {
 
 // Ouverte comme fichier local (application de bureau), l'app utilise un routage par ancre (#/comparateur).
 const Router = window.location.protocol === 'file:' ? HashRouter : BrowserRouter
-// Sous-dossier de publication (ex. /presidentielle-2027-comparateur sur GitHub Pages) ; vide en local.
+// Sous-dossier de publication éventuel (BASE_URL) ; vide à la racine du domaine et en local.
 const basename = window.location.protocol === 'file:' ? undefined : import.meta.env.BASE_URL.replace(/\/$/, '') || undefined
 
 /** Lien de partage (/partage/energie/attal/philippe/) : redirige vers le comparateur correspondant. */

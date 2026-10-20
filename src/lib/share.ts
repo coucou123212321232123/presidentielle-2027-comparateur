@@ -2,7 +2,7 @@ import { candidates } from '../data'
 import type { Measure, ThemeId } from '../data/schema'
 
 /** Adresse publique du site : l'application de bureau (fichier local) partage des liens vers la version web. */
-const PUBLIC_SITE = 'https://coucou123212321232123.github.io/presidentielle-2027-comparateur/'
+const PUBLIC_SITE = 'https://programmes-2027.fr/'
 const siteBase = () => (window.location.protocol === 'file:' ? PUBLIC_SITE : `${window.location.origin}${import.meta.env.BASE_URL}`)
 
 /**
