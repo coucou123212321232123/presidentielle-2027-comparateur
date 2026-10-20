@@ -4,6 +4,7 @@ import { AnimatePresence, motion } from 'framer-motion'
 import { Info, Menu, Moon, RefreshCw, Sun, X } from 'lucide-react'
 import { generatedAt, meta } from '../data'
 import { checkForDataUpdate, useDataUpdate } from '../data/remote'
+import { countPage } from '../lib/analytics'
 import { formatShortDate } from '../lib/format'
 import { useColorMode } from '../lib/store'
 import { cx } from './ui'
@@ -171,8 +172,13 @@ function Footer() {
         <p>
           Outil indépendant et non officiel, sans affiliation partisane. Aucune recommandation de vote.
         </p>
-        <p>
-          Premier tour : {formatShortDate(meta.election.first_round)} · Second tour : {formatShortDate(meta.election.second_round)}
+        <p className="flex flex-wrap gap-x-3 gap-y-1">
+          <span>
+            Premier tour : {formatShortDate(meta.election.first_round)} · Second tour : {formatShortDate(meta.election.second_round)}
+          </span>
+          <Link to="/mentions-legales" className="underline underline-offset-2 hover:text-ink">
+            Mentions légales
+          </Link>
         </p>
       </div>
     </footer>
@@ -184,6 +190,7 @@ export function Layout() {
   const outlet = useOutlet()
   useEffect(() => {
     window.scrollTo({ top: 0 })
+    countPage(location.pathname)
   }, [location.pathname])
   useEffect(() => {
     checkForDataUpdate({ last_updated: meta.last_updated, generated_at: generatedAt })

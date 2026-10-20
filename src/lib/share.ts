@@ -1,8 +1,8 @@
 import { candidates } from '../data'
 import type { Measure, ThemeId } from '../data/schema'
+import { PUBLIC_SITE } from './site'
 
-/** Adresse publique du site : l'application de bureau (fichier local) partage des liens vers la version web. */
-const PUBLIC_SITE = 'https://programmes-2027.fr/'
+/** L'application de bureau (fichier local) partage des liens vers la version web. */
 const siteBase = () => (window.location.protocol === 'file:' ? PUBLIC_SITE : `${window.location.origin}${import.meta.env.BASE_URL}`)
 
 /**

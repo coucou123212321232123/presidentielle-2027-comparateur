@@ -320,6 +320,20 @@ export const CalendarSchema = z.object({
   ),
   /** Étapes dont la date n'est pas encore publiée officiellement (affichées sans date). */
   pending: z.array(z.object({ label: z.string().min(1), note: z.string().min(1) })),
+  /** Débats télévisés annoncés (chaîne ou deux médias indépendants), dans l'ordre chronologique. */
+  debates: z.array(
+    z.object({
+      date: isoDate,
+      time: z.string().regex(/^\d{2}:\d{2}$/).optional(),
+      title: z.string().min(1),
+      channels: z.array(z.string().min(1)).min(1),
+      /** Identifiants des candidats invités, s'ils sont annoncés. */
+      participants: z.array(z.string()).optional(),
+      note: z.string().optional(),
+      source_label: z.string().min(1),
+      source_url: httpUrl,
+    }),
+  ),
 })
 
 /** Parrainages publiés par le Conseil constitutionnel (src/data/parrainages.json, écrit par scripts/fetch-parrainages.ts). */

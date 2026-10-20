@@ -37,8 +37,11 @@ interface Meta {
 }
 
 let count = 0
+/** Pages proposées aux moteurs de recherche (sitemap.xml) : toutes sauf les liens de partage, qui redirigent. */
+const indexable: string[] = []
 function page(path: string, m: Meta) {
   const url = SITE + path
+  if (!path.startsWith('partage/')) indexable.push(url)
   const tags = [
     `<meta property="og:type" content="website" />`,
     `<meta property="og:site_name" content="Présidentielle 2027 – Comparateur de programmes" />`,
@@ -77,6 +80,7 @@ page('election/', {
   title: 'Calendrier, parrainages et temps de parole – Présidentielle 2027',
   description: `Dates officielles de l'élection, parrainages publiés par le Conseil constitutionnel et temps de parole relevé par l'Arcom. ${DISCLAIMER}`,
 })
+page('mentions-legales/', { ...home, title: 'Mentions légales – Présidentielle 2027' })
 page('glossaire/', {
   ...home,
   title: 'Glossaire des sigles et termes – Présidentielle 2027',
@@ -151,4 +155,14 @@ for (const s of votes.scrutins) {
 
 // Adresse inconnue (et anciennes adresses du comparateur) : application avec l'aperçu par défaut.
 writeFileSync(join(DIST, '404.html'), readFileSync(join(DIST, 'index.html')))
+
+// Moteurs de recherche : plan du site et robots.txt (tout est public, sauf les liens de partage redondants).
+const lastmod = new Date().toISOString().slice(0, 10)
+const urls = indexable.map((u) => `  <url><loc>${esc(u)}</loc><lastmod>${lastmod}</lastmod></url>`).join('\n')
+writeFileSync(
+  join(DIST, 'sitemap.xml'),
+  `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`,
+)
+writeFileSync(join(DIST, 'robots.txt'), `User-agent: *\nAllow: /\nDisallow: /partage/\n\nSitemap: ${SITE}sitemap.xml\n`)
+console.log(`✔ sitemap.xml : ${indexable.length} pages · robots.txt`)
 console.log(`✔ ${count} pages d'aperçu de partage (${SITE})`)

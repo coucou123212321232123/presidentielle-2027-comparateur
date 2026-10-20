@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { CalendarDays, Clock, Info, PenLine, Radio } from 'lucide-react'
+import { CalendarDays, Clock, Info, PenLine, Radio, Tv } from 'lucide-react'
 import { candidateById, candidates } from '../data'
 import { calendar, daysUntil, formatDuration, nextEvent, parrainages, speakingTime } from '../data/elections'
 import { CandidateAvatar } from '../components/CandidateAvatar'
@@ -76,6 +76,61 @@ function Timeline() {
             ))}
           </ul>
         </div>
+      )}
+    </section>
+  )
+}
+
+function Debates() {
+  const list = calendar.debates
+  return (
+    <section aria-labelledby="debats" className="mb-12">
+      <h2 id="debats" className="mb-4 flex items-center gap-2 font-display text-2xl font-semibold text-ink">
+        <Tv className="size-5 text-muted" aria-hidden="true" /> Débats télévisés
+      </h2>
+      {list.length === 0 ? (
+        <Card className="flex items-start gap-3 p-5 text-sm text-ink-2">
+          <Info className="mt-0.5 size-4 shrink-0 text-muted" aria-hidden="true" />
+          <p>
+            Aucun débat entre candidats n'a encore été annoncé par les chaînes. Les dates s'afficheront ici dès leur annonce officielle, avec
+            la chaîne et les candidats invités.
+          </p>
+        </Card>
+      ) : (
+        <ul className="space-y-3">
+          {list.map((d) => {
+            const past = daysUntil(d.date) < 0
+            return (
+              <li key={`${d.date}-${d.title}`}>
+                <Card className={cx('p-4 sm:p-5', past && 'opacity-60')}>
+                  <p className="text-sm font-semibold tabular-nums text-muted">
+                    {formatDate(d.date)}
+                    {d.time && ` à ${d.time.replace(':', ' h ')}`} · {d.channels.join(', ')}
+                    {past && ' · passé'}
+                  </p>
+                  <p className="mt-0.5 font-semibold text-ink">{d.title}</p>
+                  {d.participants && d.participants.length > 0 && (
+                    <p className="mt-2 flex flex-wrap gap-1.5">
+                      {d.participants.map((id) => {
+                        const c = candidateById[id]
+                        return c ? (
+                          <Link key={id} to={`/candidats/${id}`} className="inline-flex items-center gap-1.5 rounded-full border border-line py-0.5 pl-0.5 pr-2.5 text-xs text-ink-2 hover:text-ink">
+                            <CandidateAvatar candidate={c} size="sm" decorative />
+                            {fullName(c)}
+                          </Link>
+                        ) : null
+                      })}
+                    </p>
+                  )}
+                  {d.note && <p className="mt-1 text-sm text-ink-2">{d.note}</p>}
+                  <ExternalLink href={d.source_url} className="mt-1 inline-flex text-xs text-muted hover:text-ink">
+                    {d.source_label}
+                  </ExternalLink>
+                </Card>
+              </li>
+            )
+          })}
+        </ul>
       )}
     </section>
   )
@@ -218,11 +273,12 @@ export default function ElectionPage() {
   return (
     <div>
       <PageHeader eyebrow="L'élection" title={calendar.election}>
-        Les dates officielles, l'avancée des parrainages et le temps de parole des candidats, d'après les sources officielles et mis à jour
+        Les dates officielles, les débats télévisés, l'avancée des parrainages et le temps de parole des candidats, d'après les sources officielles et mis à jour
         automatiquement.
       </PageHeader>
       <Countdown />
       <Timeline />
+      <Debates />
       <Parrainages />
       <SpeakingTime />
     </div>

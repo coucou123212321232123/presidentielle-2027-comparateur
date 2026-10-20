@@ -91,6 +91,11 @@ if (!calendarParsed.success) zodIssues('calendar.json', calendarParsed.error.iss
 else {
   const dates = calendarParsed.data.events.map((e) => e.date)
   if (dates.some((d, i) => i > 0 && d < dates[i - 1])) errors.push('calendar.json : les étapes doivent être dans l’ordre chronologique')
+  const debateDates = calendarParsed.data.debates.map((d) => d.date)
+  if (debateDates.some((d, i) => i > 0 && d < debateDates[i - 1])) errors.push('calendar.json : les débats doivent être dans l’ordre chronologique')
+  const known = new Set((readJson(join(DATA, 'candidates.json')) as Candidate[]).map((c) => c.id))
+  for (const d of calendarParsed.data.debates)
+    for (const id of d.participants ?? []) if (!known.has(id)) errors.push(`calendar.json › débat du ${d.date} : candidat inconnu « ${id} »`)
 }
 const parrainagesParsed = ParrainagesSchema.safeParse(readJson(join(DATA, 'parrainages.json')))
 if (!parrainagesParsed.success) zodIssues('parrainages.json', parrainagesParsed.error.issues)
