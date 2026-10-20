@@ -1,13 +1,13 @@
-import { GOATCOUNTER_CODE, PUBLIC_SITE } from './site'
+import { PUBLIC_SITE, UMAMI_WEBSITE_ID } from './site'
 
 /**
- * Mesure d'audience anonyme (GoatCounter : sans cookie ni identifiant persistant, tableau de bord privé).
+ * Mesure d'audience anonyme (Umami Cloud : sans cookie, tableau de bord privé).
  * Active uniquement sur le site public : ni en développement, ni dans l'application de bureau.
  */
-type GoatCounter = { no_onload?: boolean; count?: (vars: { path: string }) => void }
+type Umami = { track: (payload?: (props: Record<string, unknown>) => Record<string, unknown>) => void }
 declare global {
   interface Window {
-    goatcounter?: GoatCounter
+    umami?: Umami
   }
 }
 
@@ -15,23 +15,25 @@ const enabled = typeof window !== 'undefined' && window.location.origin === new 
 let pending: string | null = null
 
 if (enabled) {
-  // Application monopage : chaque changement de page est compté à la main (pas de comptage automatique au chargement).
-  window.goatcounter = { no_onload: true }
   const script = document.createElement('script')
-  script.async = true
-  script.src = 'https://gc.zgo.at/count.js'
-  script.dataset.goatcounter = `https://${GOATCOUNTER_CODE}.goatcounter.com/count`
+  script.defer = true
+  script.src = 'https://cloud.umami.is/script.js'
+  script.dataset.websiteId = UMAMI_WEBSITE_ID
+  // Comptage manuel : la recherche modifie l'adresse à chaque lettre tapée (?q=…), elle ne doit ni compter
+  // comme une visite ni être transmise.
+  script.dataset.autoTrack = 'false'
+  script.dataset.domains = new URL(PUBLIC_SITE).hostname
   script.addEventListener('load', () => {
     if (pending) countPage(pending)
   })
   document.head.appendChild(script)
 }
 
-/** Compte une page vue (chemin sans les paramètres, qui peuvent contenir une recherche). */
+/** Compte une page vue (chemin seul, sans les paramètres d'adresse). */
 export function countPage(path: string) {
   if (!enabled) return
-  if (window.goatcounter?.count) {
-    window.goatcounter.count({ path })
+  if (window.umami) {
+    window.umami.track((props) => ({ ...props, url: path, title: document.title }))
     pending = null
   } else pending = path
 }

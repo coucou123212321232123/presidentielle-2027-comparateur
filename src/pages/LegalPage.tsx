@@ -81,11 +81,12 @@ export default function LegalPage() {
         </p>
         <p>
           La fréquentation est mesurée de façon anonyme avec{' '}
-          <ExternalLink href="https://www.goatcounter.com/help/privacy" className="text-accent hover:underline">
-            GoatCounter
+          <ExternalLink href="https://umami.is/privacy" className="text-accent hover:underline">
+            Umami
           </ExternalLink>
-          , sans cookie ni identifiant persistant : seuls des totaux sont conservés (pages vues, site de provenance, type de navigateur et
-          d'écran, pays). Ces statistiques sont réservées à l'éditeur. Cette mesure n'a pas lieu dans l'application de bureau.
+          , sans cookie ni identifiant persistant et sans conserver votre adresse IP : seuls des totaux sont exploités (pages vues, site de
+          provenance, type de navigateur et d'appareil, pays). Les recherches saisies sur le site ne sont pas transmises. Ces statistiques sont
+          réservées à l'éditeur. Cette mesure n'a pas lieu dans l'application de bureau.
         </p>
         <p>
           Le bouton « Signaler une erreur » ouvre un formulaire sur GitHub : ce que vous y saisissez est public et soumis aux conditions de
