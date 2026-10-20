@@ -333,7 +333,9 @@ export const CalendarSchema = z.object({
       source_label: z.string().min(1),
       source_url: httpUrl,
     }),
-  ),
+  )
+    // Absent des paquets de données publiés avant l'ajout des débats.
+    .default([]),
 })
 
 /** Parrainages publiés par le Conseil constitutionnel (src/data/parrainages.json, écrit par scripts/fetch-parrainages.ts). */
