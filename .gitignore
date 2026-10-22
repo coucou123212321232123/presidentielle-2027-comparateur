@@ -4,3 +4,4 @@ dist
 dist-electron
 release
 .cache
+brag-output*
