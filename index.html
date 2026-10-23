@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Outil indépendant et non officiel pour consulter les candidats à l'élection présidentielle 2027 et comparer leurs mesures par thème, avec liens vers les programmes officiels." />
     <meta name="theme-color" content="#fafaf9" />
+    <link rel="icon" href="/favicon.ico" sizes="48x48" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png" />
     <link rel="manifest" href="/manifest.webmanifest" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -18,6 +20,16 @@
         var t = localStorage.getItem('theme');
         if (t === 'dark' || (!t && matchMedia('(prefers-color-scheme: dark)').matches)) document.documentElement.classList.add('dark');
       } catch (e) {}
+    </script>
+    <!-- Nom du site et logo pour les moteurs de recherche (affichés dans les résultats Google). -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Présidentielle 2027 – Comparateur de programmes",
+        "alternateName": ["Programmes 2027", "programmes-2027.fr"],
+        "url": "https://programmes-2027.fr/"
+      }
     </script>
   </head>
   <body>

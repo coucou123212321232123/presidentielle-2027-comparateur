@@ -253,13 +253,11 @@ export default function CandidatePage() {
         <ProgramBlock candidate={candidate} />
       </div>
 
-      {/* Portrait */}
-      <section aria-labelledby="portrait" className="mb-12">
-        <h2 id="portrait" className="sr-only">
-          Portrait
-        </h2>
-        <div className="grid gap-4 lg:grid-cols-3">
-          <div className="space-y-4 lg:col-span-2">
+      {/* Colonne principale (parcours, axes, mesures) et colonne latérale (fonctions, votes, équipe, sources) :
+          les mesures ne sont plus repoussées vers le bas quand la colonne latérale est longue. */}
+      <div className="mb-12">
+        <div className="grid items-start gap-4 lg:grid-cols-3">
+          <div className="min-w-0 space-y-4 lg:col-span-2">
             <InfoCard icon={<History className="size-4" />} title="Parcours">
               <p className="leading-relaxed text-ink-2">{candidate.bio_summary}</p>
             </InfoCard>
@@ -287,6 +285,122 @@ export default function CandidatePage() {
                 )}
               </InfoCard>
             )}
+            {/* Programme par thème */}
+            <section aria-labelledby="mesures" className="pt-6">
+              <div className="mb-5 flex flex-wrap items-end justify-between gap-3">
+                <div>
+                  <h2 id="mesures" className="font-display text-2xl font-semibold text-ink">
+                    Mesures par thème
+                  </h2>
+                  <p className="mt-1 text-sm text-muted">
+                    {plural(total, 'mesure sourcée', 'mesures sourcées')} sur {plural(covered.length, 'thème', 'thèmes')}.
+                  </p>
+                </div>
+                <div className="flex gap-2 text-sm">
+                  <button type="button" className="font-medium text-muted hover:text-ink" onClick={() => setOpen(new Set(covered.map((t) => t.id)))}>
+                    Tout déplier
+                  </button>
+                  <span className="text-line" aria-hidden="true">|</span>
+                  <button type="button" className="font-medium text-muted hover:text-ink" onClick={() => setOpen(new Set())}>
+                    Tout replier
+                  </button>
+                </div>
+              </div>
+
+              <div className="mb-5">
+                <MeasureFilters />
+              </div>
+
+              {covered.length === 0 && (
+                <EmptyState title="Pas de position publiée à ce jour">Aucune mesure sourcée n'a été recensée pour ce candidat.</EmptyState>
+              )}
+
+              <div className="space-y-3">
+                {failed && !all && (
+                  <p className="rounded-xl bg-surface-2 px-4 py-3 text-sm text-ink-2" role="alert">
+                    Les mesures n'ont pas pu être chargées (connexion interrompue ou nouvelle version publiée).{' '}
+                    <button type="button" onClick={() => window.location.reload()} className="font-semibold underline underline-offset-2">
+                      Recharger la page
+                    </button>
+                  </p>
+                )}
+                {covered.map((t) => {
+                  const inTheme = all ? byTheme(all, t.id) : []
+                  const filteredList = apply(inTheme)
+                  // La mesure recherchée reste visible même si les filtres actifs l'excluent.
+                  const sought = inTheme.find((m) => m.id === target && !filteredList.includes(m))
+                  const list = sought ? [...filteredList, sought] : filteredList
+                  const count = countFor(candidate.id, t.id)
+                  const fresh = newCount(since, candidate.id, t.id)
+                  return (
+                    <Accordion
+                      key={t.id}
+                      open={open.has(t.id)}
+                      onToggle={() => toggle(t.id)}
+                      header={
+                        <span className="flex items-center gap-3">
+                          <span className="flex size-9 items-center justify-center rounded-xl bg-surface-2 text-ink-2">
+                            <ThemeIcon theme={t} />
+                          </span>
+                          <span>
+                            <span className="flex flex-wrap items-center gap-2 font-semibold text-ink">
+                              {t.label}
+                              {fresh > 0 && <NewCountBadge n={fresh} />}
+                            </span>
+                            <span className="block text-xs text-muted">
+                              {active && all ? `${list.length} / ${count} mesures (filtrées)` : plural(count, 'mesure', 'mesures')}
+                            </span>
+                          </span>
+                        </span>
+                      }
+                    >
+                      <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
+                        <ThemeProgramLink candidate={candidate} theme={t.id} />
+                        <Link to={`/comparateur?theme=${t.id}&c=${candidate.id}`} className="inline-flex items-center gap-1 text-sm font-medium text-muted hover:text-ink">
+                          <Columns3 className="size-4" aria-hidden="true" /> Comparer ce thème
+                        </Link>
+                      </div>
+                      {all ? (
+                        <>
+                          <div className="grid gap-3 md:grid-cols-2">
+                            <AnimatePresence mode="popLayout">
+                              {list.map((m) => (
+                                <MeasureCard key={m.id} measure={m} accent={candidate.color} highlight={m.id === target} />
+                              ))}
+                            </AnimatePresence>
+                          </div>
+                          {list.length === 0 && <p className="text-sm text-muted">Aucune mesure ne correspond aux filtres actifs.</p>}
+                          <ThemeVotes candidateId={candidate.id} theme={t.id} />
+                        </>
+                      ) : (
+                        <div className="grid gap-3 md:grid-cols-2" aria-busy="true" aria-label="Chargement des mesures">
+                          {Array.from({ length: Math.min(count, 4) }, (_, i) => (
+                            <Skeleton key={i} className="h-36" />
+                          ))}
+                        </div>
+                      )}
+                    </Accordion>
+                  )
+                })}
+              </div>
+
+              {uncovered.length > 0 && (
+                <div className="mt-8">
+                  <h3 className="mb-2 text-sm font-semibold text-ink">Pas de position publiée à ce jour</h3>
+                  <p className="mb-3 text-sm text-muted">
+                    Aucune source n'a été trouvée pour ces thèmes à la date de vérification. Rien n'est déduit ni complété.
+                  </p>
+                  <ul className="flex flex-wrap gap-2">
+                    {uncovered.map((t) => (
+                      <li key={t.id} className="inline-flex items-center gap-1.5 rounded-full border border-dashed border-line px-3 py-1 text-sm text-muted">
+                        <ThemeIcon theme={t} className="size-3.5" />
+                        {t.short}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </section>
           </div>
           <div className="space-y-4">
             <InfoCard icon={<Briefcase className="size-4" />} title="Fonctions">
@@ -385,124 +499,7 @@ export default function CandidatePage() {
             </InfoCard>
           </div>
         </div>
-      </section>
-
-      {/* Programme par thème */}
-      <section aria-labelledby="mesures">
-        <div className="mb-5 flex flex-wrap items-end justify-between gap-3">
-          <div>
-            <h2 id="mesures" className="font-display text-2xl font-semibold text-ink">
-              Mesures par thème
-            </h2>
-            <p className="mt-1 text-sm text-muted">
-              {plural(total, 'mesure sourcée', 'mesures sourcées')} sur {plural(covered.length, 'thème', 'thèmes')}.
-            </p>
-          </div>
-          <div className="flex gap-2 text-sm">
-            <button type="button" className="font-medium text-muted hover:text-ink" onClick={() => setOpen(new Set(covered.map((t) => t.id)))}>
-              Tout déplier
-            </button>
-            <span className="text-line" aria-hidden="true">|</span>
-            <button type="button" className="font-medium text-muted hover:text-ink" onClick={() => setOpen(new Set())}>
-              Tout replier
-            </button>
-          </div>
-        </div>
-
-        <div className="mb-5">
-          <MeasureFilters />
-        </div>
-
-        {covered.length === 0 && (
-          <EmptyState title="Pas de position publiée à ce jour">Aucune mesure sourcée n'a été recensée pour ce candidat.</EmptyState>
-        )}
-
-        <div className="space-y-3">
-          {failed && !all && (
-            <p className="rounded-xl bg-surface-2 px-4 py-3 text-sm text-ink-2" role="alert">
-              Les mesures n'ont pas pu être chargées (connexion interrompue ou nouvelle version publiée).{' '}
-              <button type="button" onClick={() => window.location.reload()} className="font-semibold underline underline-offset-2">
-                Recharger la page
-              </button>
-            </p>
-          )}
-          {covered.map((t) => {
-            const inTheme = all ? byTheme(all, t.id) : []
-            const filteredList = apply(inTheme)
-            // La mesure recherchée reste visible même si les filtres actifs l'excluent.
-            const sought = inTheme.find((m) => m.id === target && !filteredList.includes(m))
-            const list = sought ? [...filteredList, sought] : filteredList
-            const count = countFor(candidate.id, t.id)
-            const fresh = newCount(since, candidate.id, t.id)
-            return (
-              <Accordion
-                key={t.id}
-                open={open.has(t.id)}
-                onToggle={() => toggle(t.id)}
-                header={
-                  <span className="flex items-center gap-3">
-                    <span className="flex size-9 items-center justify-center rounded-xl bg-surface-2 text-ink-2">
-                      <ThemeIcon theme={t} />
-                    </span>
-                    <span>
-                      <span className="flex flex-wrap items-center gap-2 font-semibold text-ink">
-                        {t.label}
-                        {fresh > 0 && <NewCountBadge n={fresh} />}
-                      </span>
-                      <span className="block text-xs text-muted">
-                        {active && all ? `${list.length} / ${count} mesures (filtrées)` : plural(count, 'mesure', 'mesures')}
-                      </span>
-                    </span>
-                  </span>
-                }
-              >
-                <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
-                  <ThemeProgramLink candidate={candidate} theme={t.id} />
-                  <Link to={`/comparateur?theme=${t.id}&c=${candidate.id}`} className="inline-flex items-center gap-1 text-sm font-medium text-muted hover:text-ink">
-                    <Columns3 className="size-4" aria-hidden="true" /> Comparer ce thème
-                  </Link>
-                </div>
-                {all ? (
-                  <>
-                    <div className="grid gap-3 md:grid-cols-2">
-                      <AnimatePresence mode="popLayout">
-                        {list.map((m) => (
-                          <MeasureCard key={m.id} measure={m} accent={candidate.color} highlight={m.id === target} />
-                        ))}
-                      </AnimatePresence>
-                    </div>
-                    {list.length === 0 && <p className="text-sm text-muted">Aucune mesure ne correspond aux filtres actifs.</p>}
-                    <ThemeVotes candidateId={candidate.id} theme={t.id} />
-                  </>
-                ) : (
-                  <div className="grid gap-3 md:grid-cols-2" aria-busy="true" aria-label="Chargement des mesures">
-                    {Array.from({ length: Math.min(count, 4) }, (_, i) => (
-                      <Skeleton key={i} className="h-36" />
-                    ))}
-                  </div>
-                )}
-              </Accordion>
-            )
-          })}
-        </div>
-
-        {uncovered.length > 0 && (
-          <div className="mt-8">
-            <h3 className="mb-2 text-sm font-semibold text-ink">Pas de position publiée à ce jour</h3>
-            <p className="mb-3 text-sm text-muted">
-              Aucune source n'a été trouvée pour ces thèmes à la date de vérification. Rien n'est déduit ni complété.
-            </p>
-            <ul className="flex flex-wrap gap-2">
-              {uncovered.map((t) => (
-                <li key={t.id} className="inline-flex items-center gap-1.5 rounded-full border border-dashed border-line px-3 py-1 text-sm text-muted">
-                  <ThemeIcon theme={t} className="size-3.5" />
-                  {t.short}
-                </li>
-              ))}
-            </ul>
-          </div>
-        )}
-      </section>
+      </div>
     </div>
   )
 }

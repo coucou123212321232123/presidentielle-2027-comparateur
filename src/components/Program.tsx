@@ -1,4 +1,5 @@
-import { Archive, BookOpenText, CalendarDays, Newspaper } from 'lucide-react'
+import { useState } from 'react'
+import { Archive, BookOpenText, CalendarDays, ChevronDown, Newspaper } from 'lucide-react'
 import type { Candidate, ThemeId } from '../data/schema'
 import { themeById } from '../data'
 import { formatDate } from '../lib/format'
@@ -57,8 +58,16 @@ export function ThemeProgramLink({ candidate, theme }: { candidate: Candidate; t
 }
 
 /** Bloc « Programme officiel » en tête de fiche candidat. */
+/** Livrets affichés d'emblée : les autres restent accessibles par un bouton (et dans chaque thème, plus bas). */
+const LIVRETS_VISIBLE = 6
+
 export function ProgramBlock({ candidate }: { candidate: Candidate }) {
   const p = candidate.program
+  const [allLinks, setAllLinks] = useState(false)
+  const [fullNote, setFullNote] = useState(false)
+  const links = allLinks ? p.thematic_links : p.thematic_links.slice(0, LIVRETS_VISIBLE)
+  const hidden = p.thematic_links.length - LIVRETS_VISIBLE
+  const longNote = (p.note?.length ?? 0) > 320
   return (
     <Card className="overflow-hidden">
       <div className="h-1" style={{ backgroundColor: candidate.color }} aria-hidden="true" />
@@ -100,7 +109,16 @@ export function ProgramBlock({ candidate }: { candidate: Candidate }) {
           )}
         </div>
 
-        {p.note && <p className="mt-4 text-sm leading-relaxed text-ink-2">{p.note}</p>}
+        {p.note && (
+          <div className="mt-4 text-sm leading-relaxed text-ink-2">
+            <p className={cx(longNote && !fullNote && 'line-clamp-3')}>{p.note}</p>
+            {longNote && (
+              <button type="button" onClick={() => setFullNote((v) => !v)} className="mt-1 text-xs font-medium text-muted hover:text-ink">
+                {fullNote ? 'Réduire' : 'Lire la suite'}
+              </button>
+            )}
+          </div>
+        )}
         {!p.main_url && (
           <p className="mt-4 text-sm text-ink-2">
             Programme en cours d'élaboration : seules les positions sourcées publiquement sont affichées ci-dessous.
@@ -111,7 +129,7 @@ export function ProgramBlock({ candidate }: { candidate: Candidate }) {
           <div className="mt-5">
             <h3 className="mb-2 text-sm font-semibold text-ink">Livrets et pages thématiques</h3>
             <ul className="grid grid-cols-1 gap-2 sm:grid-cols-2">
-              {p.thematic_links.map((l) => (
+              {links.map((l) => (
                 <li key={l.url + l.theme} className="min-w-0">
                   <ExternalLink href={l.url} className="w-full rounded-lg border border-line px-3 py-2 text-sm text-ink-2 transition-colors hover:border-ink-2/40 hover:text-ink">
                     <FormatIcon format={l.format} className="size-3.5 shrink-0" />
@@ -123,6 +141,17 @@ export function ProgramBlock({ candidate }: { candidate: Candidate }) {
                 </li>
               ))}
             </ul>
+            {hidden > 0 && (
+              <button
+                type="button"
+                onClick={() => setAllLinks((v) => !v)}
+                aria-expanded={allLinks}
+                className="mt-2 inline-flex items-center gap-1 text-sm font-medium text-muted hover:text-ink"
+              >
+                {allLinks ? 'Réduire la liste' : `Voir les ${hidden} autres livrets`}
+                <ChevronDown className={cx('size-4 transition-transform', allLinks && 'rotate-180')} aria-hidden="true" />
+              </button>
+            )}
           </div>
         )}
 

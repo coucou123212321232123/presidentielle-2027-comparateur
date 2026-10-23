@@ -36,101 +36,186 @@ function Countdown() {
   )
 }
 
+const MONTH = new Intl.DateTimeFormat('fr-FR', { month: 'short' })
+const WEEKDAY = new Intl.DateTimeFormat('fr-FR', { weekday: 'long' })
+const at = (iso: string) => new Date(`${iso}T12:00:00`)
+
+/** Bloc de date (mois, jour en grand, année) en tête de chaque étape. */
+function DateBlock({ iso, strong, muted }: { iso: string; strong?: boolean; muted?: boolean }) {
+  const d = at(iso)
+  return (
+    <div
+      className={cx(
+        'flex w-16 shrink-0 flex-col items-center justify-center self-start rounded-xl py-2 text-center sm:w-20',
+        strong ? 'bg-ink text-bg' : 'bg-surface-2 text-ink',
+        muted && 'opacity-70',
+      )}
+      aria-hidden="true"
+    >
+      <span className="text-[11px] font-semibold uppercase tracking-wide opacity-80">{MONTH.format(d).replace('.', '')}</span>
+      <span className="font-display text-3xl font-semibold leading-none tabular-nums">{d.getDate()}</span>
+      <span className="text-[11px] tabular-nums opacity-70">{d.getFullYear()}</span>
+    </div>
+  )
+}
+
+/** « Dans 144 jours », « Demain », « Aujourd'hui » ou « Passé ». */
+function DaysLeft({ iso, upTo }: { iso: string; upTo?: boolean }) {
+  const n = daysUntil(iso)
+  const label = n < 0 ? 'Passé' : n === 0 ? "Aujourd'hui" : n === 1 ? 'Demain' : `${upTo ? 'Au plus tard dans' : 'Dans'} ${n} jours`
+  return (
+    <span
+      className={cx(
+        'inline-flex shrink-0 items-center rounded-full px-2.5 py-0.5 text-xs font-semibold tabular-nums',
+        n < 0 ? 'bg-surface-2 text-muted' : n <= 7 ? 'bg-amber-100 text-amber-900 dark:bg-amber-900/40 dark:text-amber-100' : 'bg-surface-2 text-ink',
+      )}
+    >
+      {label}
+    </span>
+  )
+}
+
 function Timeline() {
+  // Étapes regroupées par date (ex. clôture des parrainages et des inscriptions le même jour).
+  const days = [...new Set(calendar.events.map((e) => e.date))].map((date) => ({
+    date,
+    events: calendar.events.filter((e) => e.date === date),
+  }))
   return (
     <section aria-labelledby="calendrier" className="mb-12">
       <h2 id="calendrier" className="mb-4 flex items-center gap-2 font-display text-2xl font-semibold text-ink">
         <CalendarDays className="size-5 text-muted" aria-hidden="true" /> Calendrier officiel
       </h2>
-      <ol className="relative space-y-3 border-l-2 border-line pl-6">
-        {calendar.events.map((e) => {
-          const past = daysUntil(e.date) < 0
+      <ol className="space-y-3">
+        {days.map(({ date, events }) => {
+          const past = daysUntil(date) < 0
+          const main = events.some((e) => e.main)
+          const upTo = events.every((e) => e.qualifier === 'au_plus_tard')
           return (
-            <li key={e.id} className={cx('relative', past && 'opacity-60')}>
-              <span
-                className={cx('absolute -left-[31px] top-1.5 size-3.5 rounded-full border-2 border-bg', e.main ? 'bg-ink' : 'bg-muted')}
-                aria-hidden="true"
-              />
-              <p className="text-sm font-semibold tabular-nums text-muted">
-                {e.qualifier === 'au_plus_tard' ? 'Au plus tard le ' : ''}
-                {formatDate(e.date)}
-                {past && ' · passé'}
-              </p>
-              <p className={cx('text-ink', e.main ? 'text-lg font-semibold' : 'font-medium')}>{e.label}</p>
-              {e.note && <p className="mt-0.5 text-sm text-ink-2">{e.note}</p>}
-              <ExternalLink href={e.source_url} className="mt-0.5 inline-flex text-xs text-muted hover:text-ink">
-                {e.source_label}
-              </ExternalLink>
+            <li key={date}>
+              <Card className={cx('flex gap-4 p-3 sm:p-4', main && !past && 'ring-1 ring-ink/20', past && 'opacity-60')}>
+                <DateBlock iso={date} strong={main && !past} muted={past} />
+                <div className="min-w-0 flex-1">
+                  <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1">
+                    <p className="text-xs font-medium text-muted first-letter:uppercase">
+                      {upTo ? 'au plus tard le ' : ''}
+                      {WEEKDAY.format(at(date))} {formatDate(date)}
+                    </p>
+                    <DaysLeft iso={date} upTo={upTo} />
+                  </div>
+                  <ul className="mt-1 space-y-2">
+                    {events.map((e) => (
+                      <li key={e.id}>
+                        <p className={cx('text-ink', e.main ? 'text-lg font-semibold' : 'font-semibold')}>{e.label}</p>
+                        {e.note && <p className="text-sm leading-relaxed text-ink-2">{e.note}</p>}
+                        <ExternalLink href={e.source_url} className="text-xs text-muted hover:text-ink">
+                          Source : {e.source_label}
+                        </ExternalLink>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </Card>
             </li>
           )
         })}
+        {calendar.pending.map((p) => (
+          <li key={p.label}>
+            <Card className="flex gap-4 border-dashed p-3 sm:p-4">
+              <div
+                className="flex w-16 shrink-0 flex-col items-center justify-center self-start rounded-xl border border-dashed border-line py-2 text-center text-muted sm:w-20"
+                aria-hidden="true"
+              >
+                <span className="text-[11px] font-semibold uppercase tracking-wide">Date</span>
+                <span className="font-display text-2xl font-semibold leading-none">?</span>
+                <span className="text-[11px]">à venir</span>
+              </div>
+              <div className="min-w-0 flex-1">
+                <p className="font-semibold text-ink">{p.label}</p>
+                <p className="text-sm text-muted">{p.note}</p>
+              </div>
+            </Card>
+          </li>
+        ))}
       </ol>
-      {calendar.pending.length > 0 && (
-        <div className="mt-6 rounded-xl bg-surface-2 px-4 py-3 text-sm text-ink-2">
-          <p className="mb-1 font-medium text-ink">Dates à venir</p>
-          <ul className="list-disc space-y-1 pl-5">
-            {calendar.pending.map((p) => (
-              <li key={p.label}>
-                {p.label} : <span className="text-muted">{p.note}</span>
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
     </section>
   )
 }
 
+function DebateCard({ d }: { d: (typeof calendar.debates)[number] }) {
+  const past = daysUntil(d.date) < 0
+  return (
+    <Card className={cx('flex gap-4 p-3 sm:p-4', past && 'opacity-75')}>
+      <DateBlock iso={d.date} muted={past} />
+      <div className="min-w-0 flex-1">
+        <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1">
+          <p className="text-xs font-medium text-muted">
+            {d.channels.join(' · ')}
+            {d.time && ` · ${d.time.replace(':', ' h ')}`}
+          </p>
+          <DaysLeft iso={d.date} />
+        </div>
+        <p className="mt-1 font-semibold text-ink">{d.title}</p>
+        {d.participants && d.participants.length > 0 && (
+          <p className="mt-2 flex flex-wrap gap-1.5">
+            {d.participants.map((id) => {
+              const c = candidateById[id]
+              return c ? (
+                <Link
+                  key={id}
+                  to={`/candidats/${id}`}
+                  className="inline-flex items-center gap-1.5 rounded-full border border-line py-0.5 pl-0.5 pr-2.5 text-xs text-ink-2 hover:text-ink"
+                >
+                  <CandidateAvatar candidate={c} size="sm" decorative />
+                  {fullName(c)}
+                </Link>
+              ) : null
+            })}
+          </p>
+        )}
+        {d.note && <p className="mt-2 text-sm leading-relaxed text-ink-2">{d.note}</p>}
+        <ExternalLink href={d.source_url} className="mt-1 inline-flex text-xs text-muted hover:text-ink">
+          Source : {d.source_label}
+        </ExternalLink>
+      </div>
+    </Card>
+  )
+}
+
 function Debates() {
-  const list = calendar.debates
+  const upcoming = calendar.debates.filter((d) => daysUntil(d.date) >= 0)
+  const past = calendar.debates.filter((d) => daysUntil(d.date) < 0).reverse()
   return (
     <section aria-labelledby="debats" className="mb-12">
       <h2 id="debats" className="mb-4 flex items-center gap-2 font-display text-2xl font-semibold text-ink">
         <Tv className="size-5 text-muted" aria-hidden="true" /> Débats télévisés
       </h2>
-      {list.length === 0 ? (
-        <Card className="flex items-start gap-3 p-5 text-sm text-ink-2">
-          <Info className="mt-0.5 size-4 shrink-0 text-muted" aria-hidden="true" />
-          <p>
-            Aucun débat entre candidats n'a encore été annoncé par les chaînes. Les dates s'afficheront ici dès leur annonce officielle, avec
-            la chaîne et les candidats invités.
-          </p>
-        </Card>
-      ) : (
-        <ul className="space-y-3">
-          {list.map((d) => {
-            const past = daysUntil(d.date) < 0
-            return (
-              <li key={`${d.date}-${d.title}`}>
-                <Card className={cx('p-4 sm:p-5', past && 'opacity-60')}>
-                  <p className="text-sm font-semibold tabular-nums text-muted">
-                    {formatDate(d.date)}
-                    {d.time && ` à ${d.time.replace(':', ' h ')}`} · {d.channels.join(', ')}
-                    {past && ' · passé'}
-                  </p>
-                  <p className="mt-0.5 font-semibold text-ink">{d.title}</p>
-                  {d.participants && d.participants.length > 0 && (
-                    <p className="mt-2 flex flex-wrap gap-1.5">
-                      {d.participants.map((id) => {
-                        const c = candidateById[id]
-                        return c ? (
-                          <Link key={id} to={`/candidats/${id}`} className="inline-flex items-center gap-1.5 rounded-full border border-line py-0.5 pl-0.5 pr-2.5 text-xs text-ink-2 hover:text-ink">
-                            <CandidateAvatar candidate={c} size="sm" decorative />
-                            {fullName(c)}
-                          </Link>
-                        ) : null
-                      })}
-                    </p>
-                  )}
-                  {d.note && <p className="mt-1 text-sm text-ink-2">{d.note}</p>}
-                  <ExternalLink href={d.source_url} className="mt-1 inline-flex text-xs text-muted hover:text-ink">
-                    {d.source_label}
-                  </ExternalLink>
-                </Card>
-              </li>
-            )
-          })}
+      <h3 className="mb-2 text-sm font-semibold uppercase tracking-wide text-muted">À venir</h3>
+      {upcoming.length ? (
+        <ul className="mb-6 space-y-3">
+          {upcoming.map((d) => (
+            <li key={`${d.date}-${d.title}`}>
+              <DebateCard d={d} />
+            </li>
+          ))}
         </ul>
+      ) : (
+        <Card className="mb-6 flex items-start gap-3 p-4 text-sm text-ink-2">
+          <Info className="mt-0.5 size-4 shrink-0 text-muted" aria-hidden="true" />
+          <p>Aucun débat à venir n'a encore été confirmé. Les prochains s'afficheront ici dès leur annonce par une chaîne.</p>
+        </Card>
+      )}
+      {past.length > 0 && (
+        <>
+          <h3 className="mb-2 text-sm font-semibold uppercase tracking-wide text-muted">Déjà diffusés</h3>
+          <ul className="space-y-3">
+            {past.map((d) => (
+              <li key={`${d.date}-${d.title}`}>
+                <DebateCard d={d} />
+              </li>
+            ))}
+          </ul>
+        </>
       )}
     </section>
   )

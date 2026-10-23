@@ -59,5 +59,67 @@
       "note": "Date pas encore fixée par un texte publié. Elle sera ajoutée dès sa publication."
     }
   ],
-  "debates": []
+  "debates": [
+    {
+      "date": "2026-08-27",
+      "time": "16:45",
+      "title": "Débat des candidats à la Rencontre des entrepreneurs de France (Medef)",
+      "channels": [
+        "LCI"
+      ],
+      "participants": [
+        "melenchon",
+        "attal",
+        "le-pen",
+        "philippe",
+        "glucksmann",
+        "retailleau",
+        "tondelier"
+      ],
+      "note": "Organisé par le Medef à Roland-Garros. Questions de chefs d'entreprise sur la dette, la réindustrialisation, le coût du travail, les normes et la fiscalité.",
+      "source_label": "Puremédias – débat de la présidentielle 2027 diffusé sur LCI (28/08/2026)",
+      "source_url": "https://www.ozap.com/actu/debat-de-la-presidentielle-2027-comment-bfmtv-a-grille-lexclusivite-a-lci-avant-de-se-faire-couper-le-son-par-le-medef/656672"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Primaire PS – Place publique : premier débat",
+      "channels": [
+        "LCI"
+      ],
+      "participants": [
+        "glucksmann"
+      ],
+      "note": "Avec aussi Olivier Faure, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal, candidats à la primaire.",
+      "source_label": "France 24 – Primaire de la gauche sociale-démocrate : dates des débats (16/09/2026)",
+      "source_url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Primaire PS – Place publique : deuxième débat",
+      "channels": [
+        "France 2",
+        "France Inter"
+      ],
+      "participants": [
+        "glucksmann"
+      ],
+      "note": "En première partie de soirée. Avec aussi Olivier Faure, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal.",
+      "source_label": "franceinfo – Le débat de la primaire de la gauche socialiste et démocratique",
+      "source_url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/france-2027-le-debat-de-la-primaire-de-la-gauche-socialiste-et-democratique_8208047.html"
+    },
+    {
+      "date": "2026-10-04",
+      "time": "20:45",
+      "title": "Primaire PS – Place publique : dernier débat",
+      "channels": [
+        "BFMTV"
+      ],
+      "participants": [
+        "glucksmann"
+      ],
+      "note": "Près de trois heures de débat, avec aussi Olivier Faure, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal.",
+      "source_label": "franceinfo – dernier débat de la primaire PS – Place publique (04/10/2026)",
+      "source_url": "https://www.franceinfo.fr/politique/direct-presidentielle-les-candidats-a-la-primaire-ps-place-publique-se-preparent-a-leur-dernier-debat-avant-le-scrutin-qui-les-departagera_8222140.html"
+    }
+  ]
 }
