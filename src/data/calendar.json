@@ -120,6 +120,41 @@
       "note": "Près de trois heures de débat, avec aussi Olivier Faure, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal.",
       "source_label": "franceinfo – dernier débat de la primaire PS – Place publique (04/10/2026)",
       "source_url": "https://www.franceinfo.fr/politique/direct-presidentielle-les-candidats-a-la-primaire-ps-place-publique-se-preparent-a-leur-dernier-debat-avant-le-scrutin-qui-les-departagera_8222140.html"
+    },
+    {
+      "date": "2026-10-22",
+      "time": "21:00",
+      "title": "« La Grande Confrontation » : Bruno Retailleau face à David Guiraud",
+      "channels": [
+        "LCI"
+      ],
+      "participants": [
+        "retailleau"
+      ],
+      "others": [
+        "David Guiraud, maire LFI de Roubaix"
+      ],
+      "note": "Émission animée par David Pujadas : Bruno Retailleau répond aux questions de Français, puis débat avec David Guiraud.",
+      "source_label": "Stéphane Larue – annonce de LCI : « La Grande Confrontation », Retailleau face à Guiraud (22/10/2026)",
+      "source_url": "https://stephanelarue.com/la-grande-confrontation-bruno-retailleau-face-a-david-guiraud-jeudi-sur-lci/"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "20:40",
+      "title": "Débat entre cinq candidats à la présidentielle",
+      "channels": [
+        "LCI"
+      ],
+      "participants": [
+        "le-pen",
+        "melenchon",
+        "glucksmann",
+        "attal",
+        "retailleau"
+      ],
+      "note": "En partenariat avec les Restos du Cœur. Édouard Philippe a décliné l'invitation ; Marine Tondelier n'a pas été conviée.",
+      "source_label": "La Libre – LCI annonce un débat entre cinq candidats de la présidentielle (22/10/2026)",
+      "source_url": "https://www.lalibre.be/international/europe/2026/10/22/presidentielle-francaise-un-debat-entre-cinq-candidats-annonce-sur-lci-avec-deux-absences-de-marque-DZYG4GAPJZD67NH45TWF5SPKGY/"
     }
   ]
 }

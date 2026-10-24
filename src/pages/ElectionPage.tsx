@@ -156,9 +156,9 @@ function DebateCard({ d }: { d: (typeof calendar.debates)[number] }) {
           <DaysLeft iso={d.date} />
         </div>
         <p className="mt-1 font-semibold text-ink">{d.title}</p>
-        {d.participants && d.participants.length > 0 && (
+        {((d.participants?.length ?? 0) > 0 || (d.others?.length ?? 0) > 0) && (
           <p className="mt-2 flex flex-wrap gap-1.5">
-            {d.participants.map((id) => {
+            {(d.participants ?? []).map((id) => {
               const c = candidateById[id]
               return c ? (
                 <Link
@@ -171,6 +171,11 @@ function DebateCard({ d }: { d: (typeof calendar.debates)[number] }) {
                 </Link>
               ) : null
             })}
+            {(d.others ?? []).map((name) => (
+              <span key={name} className="inline-flex items-center rounded-full border border-dashed border-line px-2.5 py-0.5 text-xs text-ink-2">
+                {name}
+              </span>
+            ))}
           </p>
         )}
         {d.note && <p className="mt-2 text-sm leading-relaxed text-ink-2">{d.note}</p>}

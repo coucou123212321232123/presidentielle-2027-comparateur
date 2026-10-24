@@ -329,6 +329,8 @@ export const CalendarSchema = z.object({
       channels: z.array(z.string().min(1)).min(1),
       /** Identifiants des candidats invités, s'ils sont annoncés. */
       participants: z.array(z.string()).optional(),
+      /** Autres participants, qui ne sont pas candidats (ex. « David Guiraud, maire LFI de Roubaix »). */
+      others: z.array(z.string().min(1)).optional(),
       note: z.string().optional(),
       source_label: z.string().min(1),
       source_url: httpUrl,
