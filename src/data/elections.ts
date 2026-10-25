@@ -1,13 +1,15 @@
-import type { Calendar, Parrainages, SpeakingTime } from './schema'
+import type { Calendar, Parrainages, Results, SpeakingTime } from './schema'
 import calendarRaw from './calendar.json'
 import parrainagesRaw from './parrainages.json'
 import speakingRaw from './speaking-time.json'
+import resultsRaw from './results.json'
 import { cachedData } from '.'
 
 // Module à part : chargé seulement par les pages qui l'affichent (page Élection, encart de l'accueil).
 export const calendar: Calendar = cachedData?.calendar ?? (calendarRaw as Calendar)
 export const parrainages: Parrainages = cachedData?.parrainages ?? (parrainagesRaw as Parrainages)
 export const speakingTime: SpeakingTime = cachedData?.speaking_time ?? (speakingRaw as SpeakingTime)
+export const results: Results = cachedData?.results ?? (resultsRaw as Results)
 
 const DAY = 86_400_000
 /** Nombre de jours (calendaires, heure de Paris) entre aujourd'hui et une date AAAA-MM-JJ. */

@@ -9,6 +9,8 @@ import {
   BudgetsSchema,
   CalendarSchema,
   ContextSchema,
+  HatvpSchema,
+  ResultsSchema,
   CandidateSchema,
   ParrainagesSchema,
   SpeakingTimeSchema,
@@ -108,6 +110,14 @@ if (!speakingParsed.success) zodIssues('speaking-time.json', speakingParsed.erro
 // Chiffres de contexte par thème et chiffrages des candidats.
 const contextParsed = ContextSchema.safeParse(readJson(join(DATA, 'context.json')))
 if (!contextParsed.success) zodIssues('context.json', contextParsed.error.issues)
+const hatvpParsed = HatvpSchema.safeParse(readJson(join(DATA, 'hatvp.json')))
+if (!hatvpParsed.success) zodIssues('hatvp.json', hatvpParsed.error.issues)
+const resultsParsed = ResultsSchema.safeParse(readJson(join(DATA, 'results.json')))
+if (!resultsParsed.success) zodIssues('results.json', resultsParsed.error.issues)
+else
+  for (const r of resultsParsed.data.rounds)
+    if (r.status !== 'a_venir' && (!r.source_url || !r.exprimes || r.candidates.length < 2))
+      errors.push(`results.json › tour du ${r.date} : source, suffrages exprimés et candidats requis`)
 const budgetsParsed = BudgetsSchema.safeParse(readJson(join(DATA, 'budgets.json')))
 if (!budgetsParsed.success) zodIssues('budgets.json', budgetsParsed.error.issues)
 const glossaryParsed = GlossarySchema.safeParse(readJson(join(DATA, 'glossary.json')))
@@ -191,6 +201,11 @@ if (budgetsParsed.success) {
   for (const id of Object.keys(budgetsParsed.data.candidates)) if (!ids.has(id)) errors.push(`budgets.json : candidat inconnu « ${id} »`)
   for (const id of ids) if (!(id in budgetsParsed.data.candidates)) errors.push(`budgets.json : candidat « ${id} » absent (mettre level: aucun)`)
 }
+if (hatvpParsed.success)
+  for (const id of Object.keys(hatvpParsed.data.candidates)) if (!ids.has(id)) errors.push(`hatvp.json : candidat inconnu « ${id} »`)
+if (resultsParsed.success)
+  for (const r of resultsParsed.data.rounds)
+    for (const c of r.candidates) if (c.candidate && !ids.has(c.candidate)) errors.push(`results.json : candidat inconnu « ${c.candidate} »`)
 if (speakingParsed.success)
   for (const id of Object.keys(speakingParsed.data.candidates)) if (!ids.has(id)) errors.push(`speaking-time.json : candidat inconnu « ${id} »`)
 

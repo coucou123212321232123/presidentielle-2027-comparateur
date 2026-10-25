@@ -1,0 +1,30 @@
+{
+  "rounds": [
+    {
+      "status": "a_venir",
+      "date": "2027-04-18",
+      "updated_at": null,
+      "inscrits": null,
+      "votants": null,
+      "blancs": null,
+      "nuls": null,
+      "exprimes": null,
+      "candidates": [],
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "status": "a_venir",
+      "date": "2027-05-02",
+      "updated_at": null,
+      "inscrits": null,
+      "votants": null,
+      "blancs": null,
+      "nuls": null,
+      "exprimes": null,
+      "candidates": [],
+      "source_label": null,
+      "source_url": null
+    }
+  ]
+}

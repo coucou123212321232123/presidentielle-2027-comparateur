@@ -7,7 +7,7 @@
  */
 import { readFileSync, readdirSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
-import type { Budgets, Candidate, Context, LinkStatus, Measure, Meta } from '../src/data/schema.ts'
+import type { Budgets, Candidate, Context, Hatvp, LinkStatus, Measure, Meta } from '../src/data/schema.ts'
 
 const ROOT = join(import.meta.dirname, '..')
 const DATA = join(ROOT, 'src', 'data')
@@ -68,6 +68,7 @@ for (const [theme, figures] of Object.entries(json<Context>(join(DATA, 'context.
 const budgets = json<Budgets>(join(DATA, 'budgets.json'))
 for (const [id, b] of Object.entries(budgets.candidates)) if (b.level !== 'aucun') add(b.source_url, `chiffrage ${id}`)
 budgets.independent.items.forEach((i) => add(i.source_url, `évaluation ${i.org}`))
+for (const [id, h] of Object.entries(json<Hatvp>(join(DATA, 'hatvp.json')).candidates)) add(h.url, `${id} · HATVP`)
 
 async function request(url: string, method: 'HEAD' | 'GET'): Promise<Response> {
   const ctrl = new AbortController()

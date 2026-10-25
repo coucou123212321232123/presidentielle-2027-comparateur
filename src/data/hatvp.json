@@ -1,0 +1,16 @@
+{
+  "checked": "2026-10-25",
+  "source_label": "HATVP – liste des déclarations publiées (données ouvertes)",
+  "source_url": "https://www.hatvp.fr/livraison/opendata/liste.csv",
+  "candidates": {
+    "attal": { "url": "https://www.hatvp.fr/fiche-nominative/?declarant=attal-gabriel", "mandate": "Député des Hauts-de-Seine" },
+    "bertrand": { "url": "https://www.hatvp.fr/fiche-nominative/?declarant=bertrand-xavier", "mandate": "Président du conseil régional des Hauts-de-France" },
+    "dupont-aignan": { "url": "https://www.hatvp.fr/fiche-nominative/?declarant=dupont-aignan-nicolas", "mandate": "Maire d'Yerres" },
+    "glucksmann": { "url": "https://www.hatvp.fr/fiche-nominative/?declarant=glucksmann-raphael-16012", "mandate": "Député européen" },
+    "le-pen": { "url": "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine", "mandate": "Députée du Pas-de-Calais" },
+    "lisnard": { "url": "https://www.hatvp.fr/fiche-nominative/?declarant=lisnard-david", "mandate": "Maire de Cannes" },
+    "philippe": { "url": "https://www.hatvp.fr/fiche-nominative/?declarant=philippe-edouard", "mandate": "Maire du Havre" },
+    "retailleau": { "url": "https://www.hatvp.fr/fiche-nominative/?declarant=retailleau-bruno", "mandate": "Sénateur de la Vendée" },
+    "ruffin": { "url": "https://www.hatvp.fr/fiche-nominative/?declarant=ruffin-francois", "mandate": "Député de la Somme" }
+  }
+}

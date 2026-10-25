@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
-import { ArrowRight, Columns3, Search, Sparkles, UserX } from 'lucide-react'
+import { ArrowRight, Columns3, Gamepad2, Search, Sparkles, UserX } from 'lucide-react'
 import { allCandidateIds, candidates, candidateById, meta, themeById, totalMeasures, useMeasures } from '../data'
 import type { CandidateStatus } from '../data/schema'
 import { CandidateCard } from '../components/CandidateCard'
@@ -35,9 +35,14 @@ function NewsBanner() {
             ? `${plural(total, 'mesure ajoutée', 'mesures ajoutées')} lors de la mise à jour du ${formatShortDate(meta.last_updated)}`
             : `${plural(total, 'nouvelle mesure', 'nouvelles mesures')} depuis votre dernière visite`}
         </h2>
-        <button type="button" onClick={markSeen} className="text-xs font-medium text-muted underline-offset-2 hover:text-ink hover:underline">
-          Marquer comme vu
-        </button>
+        <span className="flex items-center gap-3">
+          <Link to="/nouveautes" className="text-xs font-medium text-muted underline-offset-2 hover:text-ink hover:underline">
+            Tout le journal
+          </Link>
+          <button type="button" onClick={markSeen} className="text-xs font-medium text-muted underline-offset-2 hover:text-ink hover:underline">
+            Marquer comme vu
+          </button>
+        </span>
       </div>
       <ul className="mt-3 flex flex-wrap gap-2">
         {perCandidate.map(({ c, n }) => (
@@ -122,8 +127,11 @@ export function HomePage() {
             >
               <Columns3 className="size-4" aria-hidden="true" /> Comparer par thème
             </Link>
-            <Link to="/themes" className="inline-flex items-center gap-2 rounded-full border border-line bg-surface px-5 py-2.5 text-sm font-semibold text-ink-2 hover:text-ink">
-              Vue d'ensemble <ArrowRight className="size-4" aria-hidden="true" />
+            <Link to="/positions" className="inline-flex items-center gap-2 rounded-full border border-line bg-surface px-5 py-2.5 text-sm font-semibold text-ink-2 hover:text-ink">
+              Qui propose quoi ? <ArrowRight className="size-4" aria-hidden="true" />
+            </Link>
+            <Link to="/jeu" className="inline-flex items-center gap-2 rounded-full border border-line bg-surface px-5 py-2.5 text-sm font-semibold text-ink-2 hover:text-ink">
+              <Gamepad2 className="size-4" aria-hidden="true" /> Le jeu
             </Link>
           </div>
         </div>

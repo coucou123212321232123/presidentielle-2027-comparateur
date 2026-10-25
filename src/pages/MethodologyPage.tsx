@@ -8,7 +8,7 @@ import { Card, PageHeader } from '../components/ui'
 import { PRECISION_LABELS, SOURCE_TYPE_LABELS } from '../lib/labels'
 import type { Precision, SourceType } from '../data/schema'
 import { formatDate, formatShortDate, fullName } from '../lib/format'
-import { reportUrl } from '../lib/report'
+import { openReport } from '../lib/report'
 
 function Section({ title, children }: { title: string; children: ReactNode }) {
   return (
@@ -212,21 +212,18 @@ export default function MethodologyPage() {
 
       <Section title="Signaler une erreur">
         <p>
-          Une mesure mal résumée, une source cassée, une position manquante ? Chaque mesure comporte un lien « Signaler une erreur » qui
-          ouvre un formulaire pré-rempli (mesure, candidat, source) sur le dépôt GitHub de l'outil ; un compte GitHub gratuit est nécessaire.
-          Les signalements sont traités chaque semaine avec la même contre-vérification que les mises à jour : rien n'est corrigé sans
-          source.
+          Une mesure mal résumée, une source cassée, une position manquante ? Chaque mesure comporte un bouton « Signaler une erreur » qui
+          ouvre un court formulaire, sans compte à créer (un signalement public sur GitHub reste possible). Les signalements sont traités
+          chaque semaine avec la même contre-vérification que les mises à jour : rien n'est corrigé sans source.
         </p>
         <p>
-          <a
-            href={reportUrl()}
-            target="_blank"
-            rel="noopener noreferrer"
+          <button
+            type="button"
+            onClick={() => openReport()}
             className="inline-flex items-center gap-1.5 rounded-full border border-line bg-surface px-4 py-2 text-sm font-semibold text-ink-2 hover:text-ink"
           >
             <Flag className="size-4" aria-hidden="true" /> Signaler une erreur
-            <span className="sr-only"> (s'ouvre dans un nouvel onglet)</span>
-          </a>
+          </button>
         </p>
       </Section>
     </div>

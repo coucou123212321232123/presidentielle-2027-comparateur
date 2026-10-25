@@ -1,8 +1,9 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { CalendarDays, Clock, Info, PenLine, Radio, Tv } from 'lucide-react'
+import { CalendarDays, Clock, Info, PenLine, Radio, Trophy, Tv } from 'lucide-react'
 import { candidateById, candidates } from '../data'
-import { calendar, daysUntil, formatDuration, nextEvent, parrainages, speakingTime } from '../data/elections'
+import { calendar, daysUntil, formatDuration, nextEvent, parrainages, results, speakingTime } from '../data/elections'
+import type { RoundResult } from '../data/schema'
 import { CandidateAvatar } from '../components/CandidateAvatar'
 import { ExternalLink } from '../components/ExternalLink'
 import { Card, Chip, cx, PageHeader } from '../components/ui'
@@ -359,6 +360,84 @@ function SpeakingTime() {
   )
 }
 
+const pct = (n: number, total: number) => `${((n / total) * 100).toLocaleString('fr-FR', { minimumFractionDigits: 2, maximumFractionDigits: 2 })} %`
+
+function RoundCard({ r, title }: { r: RoundResult; title: string }) {
+  const exprimes = r.exprimes ?? 0
+  const list = r.candidates.slice().sort((a, b) => b.voix - a.voix)
+  return (
+    <Card className="p-5 sm:p-6">
+      <div className="mb-4 flex flex-wrap items-baseline justify-between gap-2">
+        <h3 className="font-display text-xl font-semibold text-ink">
+          {title} · {formatDate(r.date)}
+        </h3>
+        <span className="text-xs text-muted">
+          {r.status === 'definitif' ? 'Résultats définitifs (Conseil constitutionnel)' : 'Résultats provisoires (ministère de l’Intérieur)'}
+          {r.updated_at && ` · mis à jour le ${r.updated_at}`}
+        </span>
+      </div>
+      <ul className="space-y-3">
+        {list.map((c) => {
+          const cand = c.candidate ? candidateById[c.candidate] : undefined
+          return (
+            <li key={c.name} className="grid grid-cols-[minmax(0,1fr)_auto] items-center gap-x-3 gap-y-1.5 text-sm sm:grid-cols-[13rem_minmax(0,1fr)_auto]">
+              <span className="flex min-w-0 items-center gap-2">
+                {cand && <CandidateAvatar candidate={cand} size="sm" decorative />}
+                <span className="truncate font-medium text-ink">{cand ? fullName(cand) : c.name}</span>
+              </span>
+              <span className="relative order-last col-span-2 h-2.5 overflow-hidden rounded-full bg-surface-2 sm:order-none sm:col-span-1" aria-hidden="true">
+                <span className="absolute inset-y-0 left-0 rounded-full" style={{ width: `${(c.voix / exprimes) * 100}%`, backgroundColor: cand?.color ?? 'var(--color-muted)' }} />
+              </span>
+              <span className="whitespace-nowrap text-right tabular-nums text-ink">
+                {pct(c.voix, exprimes)} <span className="text-xs text-muted">· {c.voix.toLocaleString('fr-FR')} voix</span>
+              </span>
+            </li>
+          )
+        })}
+      </ul>
+      <p className="mt-4 text-xs text-muted">
+        Pourcentages des suffrages exprimés.
+        {r.inscrits && r.votants && ` Participation : ${pct(r.votants, r.inscrits)} des inscrits.`}
+        {r.blancs != null && ` Blancs : ${r.blancs.toLocaleString('fr-FR')}.`}
+        {r.nuls != null && ` Nuls : ${r.nuls.toLocaleString('fr-FR')}.`}{' '}
+        {r.source_url && (
+          <ExternalLink href={r.source_url} className="hover:text-ink">
+            {r.source_label ?? 'Source'}
+          </ExternalLink>
+        )}
+      </p>
+    </Card>
+  )
+}
+
+/** Résultats officiels (ministère de l'Intérieur, puis Conseil constitutionnel) ; avant le scrutin, un simple encart. */
+function Results() {
+  const published = results.rounds.map((r, i) => ({ r, title: i === 0 ? 'Premier tour' : 'Second tour' })).filter((x) => x.r.status !== 'a_venir')
+  if (!published.length)
+    return (
+      <Card className="mb-12 flex items-start gap-3 p-5 text-sm text-ink-2">
+        <Trophy className="mt-0.5 size-4 shrink-0 text-muted" aria-hidden="true" />
+        <p>
+          <span className="font-semibold text-ink">Soirée électorale.</span> Les résultats s'afficheront ici à partir des chiffres officiels
+          publiés par le ministère de l'Intérieur, puis proclamés par le Conseil constitutionnel. Les estimations des instituts de sondage ne
+          sont pas reprises.
+        </p>
+      </Card>
+    )
+  return (
+    <section aria-labelledby="resultats" className="mb-12">
+      <h2 id="resultats" className="mb-4 flex items-center gap-2 font-display text-2xl font-semibold text-ink">
+        <Trophy className="size-5 text-muted" aria-hidden="true" /> Résultats
+      </h2>
+      <div className="space-y-4">
+        {published.reverse().map(({ r, title }) => (
+          <RoundCard key={r.date} r={r} title={title} />
+        ))}
+      </div>
+    </section>
+  )
+}
+
 export default function ElectionPage() {
   return (
     <div>
@@ -366,8 +445,10 @@ export default function ElectionPage() {
         Les dates officielles, les débats télévisés, l'avancée des parrainages et le temps de parole des candidats, d'après les sources officielles et mis à jour
         automatiquement.
       </PageHeader>
+      {results.rounds.some((r) => r.status !== 'a_venir') && <Results />}
       <Countdown />
       <Timeline />
+      {results.rounds.every((r) => r.status === 'a_venir') && <Results />}
       <Debates />
       <Parrainages />
       <SpeakingTime />

@@ -10,7 +10,7 @@ import { NewCountBadge, SourceTypeBadge, StatusBadge } from '../components/Badge
 import { VoteBadge } from '../components/Hemicycle'
 import { PositionScale } from '../components/PositionScale'
 import { ProgramBlock, ThemeProgramLink } from '../components/Program'
-import { BudgetCard } from '../components/Insights'
+import { BudgetCard, TransparencyCard } from '../components/Insights'
 import { ExternalLink } from '../components/ExternalLink'
 import { Accordion } from '../components/Accordion'
 import { MeasureCard } from '../components/MeasureCard'
@@ -405,6 +405,7 @@ export default function CandidatePage() {
           </div>
           <div className="space-y-4">
             <BudgetCard candidate={candidate} />
+            <TransparencyCard candidate={candidate} />
             <InfoCard icon={<Briefcase className="size-4" />} title="Fonctions">
               {candidate.current_roles.length > 0 && (
                 <>

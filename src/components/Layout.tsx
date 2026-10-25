@@ -1,12 +1,15 @@
 import { useEffect, useState } from 'react'
 import { Link, NavLink, useLocation, useOutlet } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
-import { Info, Menu, Moon, RefreshCw, Sun, X } from 'lucide-react'
+import { Bookmark, Info, Menu, Moon, RefreshCw, Sun, X } from 'lucide-react'
 import { generatedAt, meta } from '../data'
 import { checkForDataUpdate, useDataUpdate } from '../data/remote'
 import { countPage } from '../lib/analytics'
 import { formatShortDate } from '../lib/format'
 import { useColorMode } from '../lib/store'
+import { openReport } from '../lib/report'
+import { useSelection } from '../lib/selection'
+import { ReportDialog } from './ReportDialog'
 import { cx } from './ui'
 import { ErrorBoundary } from './ErrorBoundary'
 import { GlossaryTooltip } from './Glossary'
@@ -57,6 +60,26 @@ function ThemeToggle() {
   )
 }
 
+/** Accès à « Ma sélection », avec le nombre de mesures mises de côté. */
+function SelectionLink() {
+  const count = useSelection((s) => s.ids.length)
+  return (
+    <Link
+      to="/selection"
+      className="relative flex size-9 items-center justify-center rounded-full border border-line bg-surface text-ink-2 transition-colors hover:text-ink"
+      aria-label={count ? `Ma sélection : ${count} mesure${count > 1 ? 's' : ''}` : 'Ma sélection'}
+      title="Ma sélection"
+    >
+      <Bookmark className="size-4" aria-hidden="true" />
+      {count > 0 && (
+        <span className="absolute -right-1 -top-1 flex min-w-4 items-center justify-center rounded-full bg-accent px-1 text-[10px] font-semibold leading-4 text-white" aria-hidden="true">
+          {count}
+        </span>
+      )}
+    </Link>
+  )
+}
+
 function Header() {
   const [open, setOpen] = useState(false)
   const { pathname } = useLocation()
@@ -93,6 +116,7 @@ function Header() {
           </ul>
         </nav>
         <div className="flex items-center gap-2">
+          <SelectionLink />
           <ThemeToggle />
           <button
             type="button"
@@ -177,6 +201,15 @@ function Footer() {
           <span>
             Premier tour : {formatShortDate(meta.election.first_round)} · Second tour : {formatShortDate(meta.election.second_round)}
           </span>
+          <Link to="/nouveautes" className="underline underline-offset-2 hover:text-ink">
+            Nouveautés
+          </Link>
+          <Link to="/jeu" className="underline underline-offset-2 hover:text-ink">
+            Jeu « Qui propose quoi ? »
+          </Link>
+          <button type="button" onClick={() => openReport()} className="underline underline-offset-2 hover:text-ink">
+            Signaler une erreur
+          </button>
           <Link to="/mentions-legales" className="underline underline-offset-2 hover:text-ink">
             Mentions légales
           </Link>
@@ -219,6 +252,7 @@ export function Layout() {
       </main>
       <Footer />
       <GlossaryTooltip />
+      <ReportDialog />
     </div>
   )
 }

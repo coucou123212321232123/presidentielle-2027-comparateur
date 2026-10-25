@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom'
-import { Calculator, ChartNoAxesColumn, FileSearch } from 'lucide-react'
+import { Calculator, ChartNoAxesColumn, FileSearch, ShieldCheck } from 'lucide-react'
 import type { Candidate, IndicatorDef, ThemeId } from '../data/schema'
 import { countFor, summary, themes } from '../data'
-import { budgets, context } from '../data/insights'
+import { budgets, context, hatvp } from '../data/insights'
 import { formatShortDate, plural } from '../lib/format'
 import { SourceTypeBadge } from './Badges'
 import { ExternalLink } from './ExternalLink'
@@ -91,6 +91,36 @@ export function BudgetCard({ candidate }: { candidate: Candidate }) {
         <Link to="/programmes#chiffrages" className="underline hover:text-ink">
           Comparer les chiffrages
         </Link>
+      </p>
+    </Card>
+  )
+}
+
+/** Lien vers les déclarations d'intérêts et de patrimoine publiées par la HATVP, quand le candidat en a une. */
+export function TransparencyCard({ candidate }: { candidate: Candidate }) {
+  const h = hatvp.candidates[candidate.id]
+  return (
+    <Card className="p-5">
+      <h2 className="mb-2 flex items-center gap-2 text-sm font-semibold text-ink">
+        <ShieldCheck className="size-4 text-muted" aria-hidden="true" /> Déclarations d'intérêts et de patrimoine
+      </h2>
+      {h ? (
+        <>
+          <p className="text-sm leading-relaxed text-ink-2">
+            Déclarations déposées auprès de la Haute Autorité pour la transparence de la vie publique (HATVP), au titre de son mandat :{' '}
+            {h.mandate}.
+          </p>
+          <ExternalLink href={h.url} className="mt-2 text-sm font-medium text-accent hover:underline">
+            Voir ses déclarations sur hatvp.fr
+          </ExternalLink>
+        </>
+      ) : (
+        <p className="text-sm leading-relaxed text-ink-2">
+          Aucune page à la HATVP : seuls les élus et responsables publics en fonction y déposent des déclarations publiées.
+        </p>
+      )}
+      <p className="mt-3 text-xs leading-relaxed text-muted">
+        Les candidats retenus par le Conseil constitutionnel déposent une déclaration de patrimoine, rendue publique avant le premier tour.
       </p>
     </Card>
   )

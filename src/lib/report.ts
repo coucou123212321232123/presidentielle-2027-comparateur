@@ -1,3 +1,4 @@
+import { create } from 'zustand'
 import { candidateById, themeById } from '../data'
 import type { Measure } from '../data/schema'
 import { fullName } from './format'
@@ -29,3 +30,14 @@ export function reportUrl(m?: Measure) {
   }
   return `${REPO_URL}/issues/new?${p.toString()}`
 }
+
+interface ReportState {
+  open: boolean
+  /** Mesure concernée, ou null pour un signalement général. */
+  measure: Measure | null
+}
+
+/** Formulaire « Signaler une erreur » (components/ReportDialog.tsx), ouvert depuis une mesure ou depuis le pied de page. */
+export const useReport = create<ReportState>(() => ({ open: false, measure: null }))
+export const openReport = (measure?: Measure) => useReport.setState({ open: true, measure: measure ?? null })
+export const closeReport = () => useReport.setState({ open: false })

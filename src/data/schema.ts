@@ -434,6 +434,38 @@ export const BudgetsSchema = z.object({
   }),
 })
 
+/** Page de la HATVP (déclarations d'intérêts et de patrimoine) des candidats qui en ont une (src/data/hatvp.json). */
+export const HatvpSchema = z.object({
+  checked: isoDate,
+  source_label: z.string().min(1),
+  source_url: httpUrl,
+  candidates: z.record(z.string(), z.object({ url: httpUrl, mandate: z.string().min(1) })),
+})
+
+/** Résultats officiels de l'élection (src/data/results.json), saisis depuis le ministère de l'Intérieur puis le Conseil constitutionnel. */
+const RoundResultSchema = z.object({
+  /** provisoire : résultats du ministère de l'Intérieur ; definitif : proclamés par le Conseil constitutionnel. */
+  status: z.enum(['a_venir', 'provisoire', 'definitif']),
+  date: isoDate,
+  updated_at: z.string().nullable(),
+  inscrits: z.number().int().nullable(),
+  votants: z.number().int().nullable(),
+  blancs: z.number().int().nullable(),
+  nuls: z.number().int().nullable(),
+  exprimes: z.number().int().nullable(),
+  candidates: z.array(
+    z.object({
+      name: z.string().min(1),
+      /** Identifiant dans le comparateur, s'il y figure. */
+      candidate: z.string().nullable(),
+      voix: z.number().int(),
+    }),
+  ),
+  source_label: z.string().nullable(),
+  source_url: httpUrl.nullable(),
+})
+export const ResultsSchema = z.object({ rounds: z.array(RoundResultSchema).length(2) })
+
 /** Paquet de données publié en ligne (public-data/data-v2.json) et téléchargé par l'application de bureau. */
 export const DataBundleSchema = z.object({
   version: z.literal(2),
@@ -452,6 +484,8 @@ export const DataBundleSchema = z.object({
   speaking_time: SpeakingTimeSchema.optional(),
   context: ContextSchema.optional(),
   budgets: BudgetsSchema.optional(),
+  hatvp: HatvpSchema.optional(),
+  results: ResultsSchema.optional(),
 })
 
 export type ThemeId = z.infer<typeof ThemeIdSchema>
@@ -486,4 +520,7 @@ export type Context = z.infer<typeof ContextSchema>
 export type ContextFigure = Context['themes'][ThemeId][number]
 export type Budgets = z.infer<typeof BudgetsSchema>
 export type CandidateBudget = Budgets['candidates'][string]
+export type Hatvp = z.infer<typeof HatvpSchema>
+export type Results = z.infer<typeof ResultsSchema>
+export type RoundResult = Results['rounds'][number]
 

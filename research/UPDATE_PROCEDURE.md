@@ -82,7 +82,16 @@ Ces vérifications passent par la même contre-vérification indépendante que l
 3. **Évaluations indépendantes** (`budgets.json`, `independent`) : ajouter toute évaluation complète des programmes publiée par un organisme (Institut Montaigne, OFCE, IPP, Fipeco, iFRAP, Cour des comptes…) avec son lien ; passer `status` à `publie` à la parution. Toujours citer **plusieurs organismes de sensibilités différentes** quand ils existent, et indiquer l'orientation d'un think tank dans `label` s'il en revendique une.
 4. **Points de comparaison** (page « Positions ») : pour chaque mesure ajoutée ou modifiée à l'étape 4, vérifier si elle répond littéralement à l'une des questions de `src/data/themes.json` (`indicators`) et, si oui, renseigner `indicator` (critère 6 de l'étape 2). Ne jamais ajouter de question sans la proposer dans le rapport.
 
+5. **Déclarations HATVP** (`src/data/hatvp.json`) : télécharger la liste officielle (`https://www.hatvp.fr/livraison/opendata/liste.csv`) et vérifier, pour **chaque** candidat, s'il a une page (`url_dossier`) ; l'adresse publiée est `https://www.hatvp.fr/fiche-nominative/?declarant=<identifiant>` (identifiant = fin de `url_dossier`), à confirmer par une réponse HTTP 200. Indiquer le mandat tel qu'écrit dans la colonne `qualite`. Un candidat sans page n'apparaît pas dans le fichier. Dès que la HATVP publie les déclarations de patrimoine des candidats à l'élection présidentielle, les ajouter de la même façon.
+
 Ces changements passent par la contre-vérification de l'étape 2 (critères 1, 4, 7, 8 et 9).
+
+## Étape R — Résultats de l'élection (à partir du premier tour, 18 avril 2027)
+
+`src/data/results.json` contient les deux tours. Pour un tour qui a eu lieu :
+1. Résultats **provisoires** : chiffres nationaux publiés par le ministère de l'Intérieur (`resultats.elections.interieur.gouv.fr` ou `elections.interieur.gouv.fr`) : inscrits, votants, blancs, nuls, exprimés et voix de chaque candidat, avec `status: "provisoire"`, `updated_at` (date et heure de la publication), `source_label` et `source_url` (page exacte, jamais reconstruite). `candidate` = identifiant du comparateur, ou `null` pour un candidat qui n'y figure pas.
+2. Résultats **définitifs** : dès la proclamation par le Conseil constitutionnel (`conseil-constitutionnel.fr`), remplacer les chiffres par les siens, `status: "definitif"`, source du Conseil.
+3. Jamais d'estimation d'institut de sondage ni de chiffre partiel présenté comme national. Les chiffres sont recopiés **à l'unité près** et revérifiés par le sous-agent de contre-vérification (critère 9 : URL ; et égalité exacte de chaque nombre avec la source).
 
 ## Étape V — Grands textes votés à l'Assemblée (avant la publication de l'étape 4)
 

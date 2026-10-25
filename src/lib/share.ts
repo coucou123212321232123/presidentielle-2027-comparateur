@@ -3,7 +3,7 @@ import type { Measure, ThemeId } from '../data/schema'
 import { PUBLIC_SITE } from './site'
 
 /** L'application de bureau (fichier local) partage des liens vers la version web. */
-const siteBase = () => (window.location.protocol === 'file:' ? PUBLIC_SITE : `${window.location.origin}${import.meta.env.BASE_URL}`)
+export const siteBase = () => (window.location.protocol === 'file:' ? PUBLIC_SITE : `${window.location.origin}${import.meta.env.BASE_URL}`)
 
 /**
  * Lien de partage d'une comparaison. Les pages /partage/… sont générées au build (scripts/share-pages.ts) avec

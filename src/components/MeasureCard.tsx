@@ -1,10 +1,11 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { Check, Coins, Flag, Link2 } from 'lucide-react'
+import { Bookmark, BookmarkCheck, Check, Coins, Flag, Link2 } from 'lucide-react'
 import type { Measure } from '../data/schema'
 import { formatShortDate } from '../lib/format'
 import { isNewMeasure, useNovelty } from '../lib/novelty'
-import { reportUrl } from '../lib/report'
+import { openReport } from '../lib/report'
+import { useSelection } from '../lib/selection'
 import { copyText, measureUrl } from '../lib/share'
 import { NewBadge, PrecisionBadge, SourceTypeBadge } from './Badges'
 import { ExternalLink } from './ExternalLink'
@@ -82,21 +83,38 @@ export function MeasureCard({
           <span className="whitespace-nowrap" title="Date de dernière vérification">
             Vérifié le {formatShortDate(measure.last_verified)}
           </span>
+          <SaveButton id={measure.id} />
           <CopyLinkButton measure={measure} />
-          <a
-            href={reportUrl(measure)}
-            target="_blank"
-            rel="noopener noreferrer"
+          <button
+            type="button"
+            onClick={() => openReport(measure)}
             className="no-print inline-flex items-center gap-1 whitespace-nowrap hover:text-ink"
-            title="Ouvre un formulaire pré-rempli sur GitHub (compte GitHub nécessaire)"
+            title="Signaler une erreur sur cette mesure"
             data-no-export="true"
           >
             <Flag className="size-3" aria-hidden="true" /> Signaler une erreur
-            <span className="sr-only"> (s'ouvre dans un nouvel onglet)</span>
-          </a>
+          </button>
         </span>
       </footer>
     </motion.article>
+  )
+}
+
+function SaveButton({ id }: { id: string }) {
+  const saved = useSelection((s) => s.ids.includes(id))
+  const toggle = useSelection((s) => s.toggle)
+  return (
+    <button
+      type="button"
+      onClick={() => toggle(id)}
+      aria-pressed={saved}
+      className={cx('no-print inline-flex items-center gap-1 whitespace-nowrap hover:text-ink', saved && 'font-medium text-ink')}
+      title={saved ? 'Retirer de ma sélection' : 'Mettre de côté dans ma sélection (gardée dans ce navigateur)'}
+      data-no-export="true"
+    >
+      {saved ? <BookmarkCheck className="size-3" aria-hidden="true" /> : <Bookmark className="size-3" aria-hidden="true" />}
+      {saved ? 'Gardée' : 'Garder'}
+    </button>
   )
 }
 

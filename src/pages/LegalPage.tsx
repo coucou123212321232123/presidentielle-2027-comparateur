@@ -77,7 +77,8 @@ export default function LegalPage() {
       <Section title="Données personnelles et cookies">
         <p>
           Le site ne demande aucun compte et ne dépose aucun cookie. Quelques préférences (thème clair ou sombre, date de votre dernière visite
-          pour le badge « Nouveau », filtres) sont enregistrées uniquement dans votre navigateur et ne sont transmises à personne.
+          pour le badge « Nouveau », filtres, mesures gardées dans « Ma sélection ») sont enregistrées uniquement dans votre navigateur et ne
+          sont transmises à personne.
         </p>
         <p>
           La fréquentation est mesurée de façon anonyme avec{' '}
@@ -89,12 +90,14 @@ export default function LegalPage() {
           réservées à l'éditeur. Cette mesure n'a pas lieu dans l'application de bureau.
         </p>
         <p>
-          Le bouton « Signaler une erreur » ouvre un formulaire sur GitHub : ce que vous y saisissez est public et soumis aux conditions de
+          Le formulaire « Signaler une erreur » transmet votre message (et votre e-mail, si vous choisissez de le donner pour recevoir une
+          réponse) à l'éditeur, par l'intermédiaire du service Web3Forms ou de votre propre messagerie. Il n'est utilisé que pour traiter le
+          signalement, puis supprimé. Le lien « signaler publiquement sur GitHub » mène à un formulaire public soumis aux conditions de
           GitHub. L'application de bureau télécharge les mises à jour des données depuis GitHub.
         </p>
       </Section>
 
-      <p className="text-sm text-muted">Dernière mise à jour : 20 octobre 2026.</p>
+      <p className="text-sm text-muted">Dernière mise à jour : 25 octobre 2026.</p>
     </div>
   )
 }

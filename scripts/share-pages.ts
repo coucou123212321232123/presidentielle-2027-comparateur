@@ -41,7 +41,8 @@ let count = 0
 const indexable: string[] = []
 function page(path: string, m: Meta) {
   const url = SITE + path
-  if (!path.startsWith('partage/')) indexable.push(url)
+  // « Ma sélection » est propre à chaque visiteur : rien à indexer.
+  if (!path.startsWith('partage/') && path !== 'selection/') indexable.push(url)
   const tags = [
     `<meta property="og:type" content="website" />`,
     `<meta property="og:site_name" content="Présidentielle 2027 – Comparateur de programmes" />`,
@@ -78,6 +79,13 @@ page('positions/', {
   description: `Retraite par capitalisation, nucléaire, droit du sol, taxe Zucman… la position de chaque candidat sur les grandes questions, avec sa source. ${DISCLAIMER}`,
 })
 page('themes/', { ...home, title: 'Thèmes × candidats – Présidentielle 2027' })
+page('jeu/', {
+  ...home,
+  title: 'Jeu : qui propose quoi ? – Présidentielle 2027',
+  description: `Une proposition, quatre candidats : saurez-vous trouver qui la défend ? 10 questions tirées des programmes officiels. ${DISCLAIMER}`,
+})
+page('nouveautes/', { ...home, title: 'Nouveautés : le journal des mises à jour – Présidentielle 2027' })
+page('selection/', { ...home, title: 'Ma sélection de mesures – Présidentielle 2027' })
 page('programmes/', { ...home, title: 'Programmes officiels des candidats – Présidentielle 2027' })
 page('methodologie/', { ...home, title: 'Méthodologie et sources – Présidentielle 2027' })
 page('election/', {

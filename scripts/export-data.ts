@@ -34,6 +34,8 @@ const parsed = DataBundleSchema.safeParse({
   speaking_time: read('speaking-time.json'),
   context: read('context.json'),
   budgets: read('budgets.json'),
+  hatvp: read('hatvp.json'),
+  results: read('results.json'),
 })
 
 if (!parsed.success) {
