@@ -79,11 +79,6 @@ page('positions/', {
   description: `Retraite par capitalisation, nucléaire, droit du sol, taxe Zucman… la position de chaque candidat sur les grandes questions, avec sa source. ${DISCLAIMER}`,
 })
 page('themes/', { ...home, title: 'Thèmes × candidats – Présidentielle 2027' })
-page('jeu/', {
-  ...home,
-  title: 'Jeu : qui propose quoi ? – Présidentielle 2027',
-  description: `Une proposition, quatre candidats : saurez-vous trouver qui la défend ? 10 questions tirées des programmes officiels. ${DISCLAIMER}`,
-})
 page('nouveautes/', { ...home, title: 'Nouveautés : le journal des mises à jour – Présidentielle 2027' })
 page('selection/', { ...home, title: 'Ma sélection de mesures – Présidentielle 2027' })
 page('programmes/', { ...home, title: 'Programmes officiels des candidats – Présidentielle 2027' })

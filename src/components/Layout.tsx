@@ -204,9 +204,6 @@ function Footer() {
           <Link to="/nouveautes" className="underline underline-offset-2 hover:text-ink">
             Nouveautés
           </Link>
-          <Link to="/jeu" className="underline underline-offset-2 hover:text-ink">
-            Jeu « Qui propose quoi ? »
-          </Link>
           <button type="button" onClick={() => openReport()} className="underline underline-offset-2 hover:text-ink">
             Signaler une erreur
           </button>
