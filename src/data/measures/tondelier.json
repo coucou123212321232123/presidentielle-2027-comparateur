@@ -98,10 +98,16 @@
     "source_date": "2026-07",
     "source_page": "p. 66",
     "precision": "chiffre",
-    "indicator": {
-      "key": "isf",
-      "value": "retablissement"
-    },
+    "indicator": [
+      {
+        "key": "isf",
+        "value": "retablissement"
+      },
+      {
+        "key": "taxe_zucman",
+        "value": "pour"
+      }
+    ],
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -191,6 +197,10 @@
     "source_date": "2026-07",
     "source_page": "p. 57",
     "precision": "chiffre",
+    "indicator": {
+      "key": "temps_travail",
+      "value": "reduction"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -341,6 +351,10 @@
     "source_date": "2026-07",
     "source_page": "p. 117",
     "precision": "orientation_generale",
+    "indicator": {
+      "key": "capitalisation",
+      "value": "non"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -373,6 +387,10 @@
     "source_date": "2026-07",
     "source_page": "p. 16",
     "precision": "chiffre",
+    "indicator": {
+      "key": "renouvelables",
+      "value": "developpement"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -443,6 +461,10 @@
     "source_date": "2026-07",
     "source_page": "p. 29",
     "precision": "chiffre",
+    "indicator": {
+      "key": "neonicotinoides",
+      "value": "interdiction"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -611,6 +633,10 @@
     "source_date": "2026-07",
     "source_page": "p. 20",
     "precision": "precis",
+    "indicator": {
+      "key": "encadrement_loyers",
+      "value": "extension"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -709,6 +735,10 @@
     "source_date": "2026-07",
     "source_page": "p. 151",
     "precision": "precis",
+    "indicator": {
+      "key": "installation_medecins",
+      "value": "regulation"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -905,6 +935,10 @@
     "source_date": "2026-07",
     "source_page": "p. 184",
     "precision": "precis",
+    "indicator": {
+      "key": "cannabis",
+      "value": "legalisation"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -961,6 +995,10 @@
     "source_date": "2026-07",
     "source_page": "p. 178",
     "precision": "precis",
+    "indicator": {
+      "key": "ame",
+      "value": "maintien"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1003,6 +1041,10 @@
     "source_date": "2026-07",
     "source_page": "p. 178",
     "precision": "precis",
+    "indicator": {
+      "key": "droit_du_sol",
+      "value": "maintien"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1589,6 +1631,10 @@
     "source_date": "2026-07",
     "source_page": "p. 130",
     "precision": "precis",
+    "indicator": {
+      "key": "aide_a_mourir",
+      "value": "pour"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },

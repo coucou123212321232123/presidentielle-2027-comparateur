@@ -85,6 +85,10 @@
     "source_date": "2026-09-29",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "droits_succession",
+      "value": "pas_de_hausse"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -630,6 +634,10 @@
     "source_date": "2026-08-16",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "reseaux_sociaux_15",
+      "value": "oui"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -644,6 +652,10 @@
     "source_date": "2026-07-03",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "effectifs_fonction_publique",
+      "value": "baisse"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -798,6 +810,10 @@
     "source_date": "2026-09-29",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "capitalisation",
+      "value": "oui"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -896,6 +912,10 @@
     "source_date": "2025-07-21",
     "source_page": "p. 63-65",
     "precision": "precis",
+    "indicator": {
+      "key": "zfe",
+      "value": "possibles"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -998,6 +1018,10 @@
     "source_date": "2026-07-15",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "aide_a_mourir",
+      "value": "pour"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1166,6 +1190,10 @@
     "source_date": "2025-05-26",
     "source_page": "p. 51",
     "precision": "precis",
+    "indicator": {
+      "key": "droit_du_sol",
+      "value": "maintien"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },

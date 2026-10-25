@@ -80,6 +80,10 @@
     "source_date": "2026-10-10",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "isf",
+      "value": "retablissement"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -122,6 +126,10 @@
     "source_date": "2026-10-10",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "droits_succession",
+      "value": "baisse"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -322,6 +330,10 @@
     "source_date": "2026-10-10",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "renouvelables",
+      "value": "arret"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -364,6 +376,10 @@
     "source_date": "2026-10-15",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "zfe",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -821,6 +837,10 @@
     "source_date": "2026-03-03",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "droit_du_sol",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -835,6 +855,10 @@
     "source_date": "2026-03-03",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "ame",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -1099,6 +1123,10 @@
     "source_date": "2026-10-08",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "service_national",
+      "value": "obligatoire"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },

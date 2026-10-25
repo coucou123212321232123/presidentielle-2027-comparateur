@@ -243,6 +243,10 @@
     "source_date": "2025-12-18",
     "source_page": "p. 43",
     "precision": "precis",
+    "indicator": {
+      "key": "capitalisation",
+      "value": "non"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -453,6 +457,10 @@
     "source_date": "2025-12-18",
     "source_page": "p. 29",
     "precision": "precis",
+    "indicator": {
+      "key": "encadrement_loyers",
+      "value": "extension"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -724,6 +732,10 @@
     "source_date": "2026-07-15",
     "source_page": "p. 39",
     "precision": "precis",
+    "indicator": {
+      "key": "droit_du_sol",
+      "value": "maintien"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -752,6 +764,10 @@
     "source_date": "2026-07-15",
     "source_page": "p. 35",
     "precision": "precis",
+    "indicator": {
+      "key": "proportionnelle",
+      "value": "integrale"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },

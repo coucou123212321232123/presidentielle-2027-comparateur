@@ -68,9 +68,9 @@ export const PRECISION_LABELS: Record<Precision, { label: string; hint: string }
 }
 
 export const PROGRAM_STATUS_LABELS: Record<ProgramStatus, string> = {
-  publie: 'Programme publié',
+  publie: 'Programme complet publié',
   partiel: 'Programme partiel',
-  en_cours_d_elaboration: "En cours d'élaboration",
+  en_cours_d_elaboration: 'Pas encore de programme',
 }
 
 export const FORMAT_LABELS: Record<ProgramFormat, string> = {

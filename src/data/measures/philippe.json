@@ -71,6 +71,10 @@
     "source_date": "2026-10-08",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "temps_travail",
+      "value": "accord_entreprise"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -145,6 +149,10 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "capitalisation",
+      "value": "oui"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -159,10 +167,16 @@
     "source_date": "2026-10-14",
     "source_page": null,
     "precision": "chiffre",
-    "indicator": {
-      "key": "nucleaire",
-      "value": "relance"
-    },
+    "indicator": [
+      {
+        "key": "nucleaire",
+        "value": "relance"
+      },
+      {
+        "key": "renouvelables",
+        "value": "developpement"
+      }
+    ],
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -275,6 +289,10 @@
     "source_date": "2025-12-10",
     "source_page": null,
     "precision": "orientation_generale",
+    "indicator": {
+      "key": "encadrement_loyers",
+      "value": "contre"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -387,6 +405,10 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "peines_planchers",
+      "value": "oui"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -583,6 +605,10 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "service_national",
+      "value": "volontaire"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -695,6 +721,10 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "effectifs_fonction_publique",
+      "value": "baisse"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },

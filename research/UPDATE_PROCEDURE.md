@@ -75,6 +75,15 @@ Les chiffres des parrainages (`src/data/parrainages.json`) et du temps de parole
 
 Ces vérifications passent par la même contre-vérification indépendante que l'étape 2 (critères 4, 5, 7 et 9 : fiabilité, recoupement, fraîcheur, URL) et sont consignées dans le fichier `pending` archivé.
 
+## Étape C — Chiffres de contexte, chiffrages et points de comparaison (avant la publication de l'étape 4)
+
+1. **Chiffres de contexte** (`src/data/context.json`, encadré « Où en est-on aujourd'hui ? ») : pour chaque chiffre, vérifier si sa source a publié une valeur plus récente (ex. nouveau trimestre de chômage ou de dette Insee, nouvelle revalorisation du SMIC, nouveau bilan RTE, nouvelles statistiques pénitentiaires mensuelles). Remplacer alors `value`, `detail`, `date` et `source_url` ; mettre `checked` à la date du jour. Sources admises : Insee, DREES, DEPP, Dares, RTE, Citepa, ministères, Assemblée nationale, Sénat, Cour des comptes, organismes publics, ou un média identifiable qui rapporte un chiffre officiel. Aucun chiffre de parti, de candidat ou de think tank. Chiffres neutres uniquement : pas de commentaire.
+2. **Chiffrages des candidats** (`src/data/budgets.json`) : rechercher pour **chaque** candidat, avec le même effort, s'il a publié ou actualisé un chiffrage d'ensemble (économies, recettes, dépenses nouvelles, déficit ou dette visés). `level` : `global` (montant d'ensemble et trajectoire), `partiel` (un ou deux objectifs chiffrés), `aucun`. Reprendre les montants **tels qu'annoncés**, sans les recalculer ni les qualifier. Chaque candidat de `candidates.json` doit y figurer (sinon la validation échoue).
+3. **Évaluations indépendantes** (`budgets.json`, `independent`) : ajouter toute évaluation complète des programmes publiée par un organisme (Institut Montaigne, OFCE, IPP, Fipeco, iFRAP, Cour des comptes…) avec son lien ; passer `status` à `publie` à la parution. Toujours citer **plusieurs organismes de sensibilités différentes** quand ils existent, et indiquer l'orientation d'un think tank dans `label` s'il en revendique une.
+4. **Points de comparaison** (page « Positions ») : pour chaque mesure ajoutée ou modifiée à l'étape 4, vérifier si elle répond littéralement à l'une des questions de `src/data/themes.json` (`indicators`) et, si oui, renseigner `indicator` (critère 6 de l'étape 2). Ne jamais ajouter de question sans la proposer dans le rapport.
+
+Ces changements passent par la contre-vérification de l'étape 2 (critères 1, 4, 7, 8 et 9).
+
 ## Étape V — Grands textes votés à l'Assemblée (avant la publication de l'étape 4)
 
 Les décomptes de `src/data/votes.json` et de `src/data/votes-index.json` ne sont **jamais saisis à la main** : ils viennent des données ouvertes de l'Assemblée (`npm run fetch-votes`), importées aussi par le workflow `.github/workflows/votes.yml` chaque lundi (05:17 et 17:47 UTC) et à chaque modification de `research/votes/selection.json`. Ne jamais modifier ces deux fichiers autrement que par ce script.

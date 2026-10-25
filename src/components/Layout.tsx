@@ -14,6 +14,7 @@ import { GlossaryTooltip } from './Glossary'
 const NAV = [
   { to: '/', label: 'Candidats', end: true },
   { to: '/comparateur', label: 'Comparateur' },
+  { to: '/positions', label: 'Positions' },
   { to: '/themes', label: 'Thèmes' },
   { to: '/programmes', label: 'Programmes' },
   { to: '/votes', label: 'Votes' },

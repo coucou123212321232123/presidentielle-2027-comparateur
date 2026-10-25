@@ -442,6 +442,10 @@
     "source_date": "2026-09-24",
     "source_page": "page PDF 26",
     "precision": "precis",
+    "indicator": {
+      "key": "encadrement_loyers",
+      "value": "extension"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },

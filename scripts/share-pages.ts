@@ -72,6 +72,11 @@ const home: Meta = {
 }
 page('', home)
 page('comparateur/', { ...home, title: 'Comparer les programmes par thème – Présidentielle 2027' })
+page('positions/', {
+  ...home,
+  title: 'Qui propose quoi ? Les positions des candidats – Présidentielle 2027',
+  description: `Retraite par capitalisation, nucléaire, droit du sol, taxe Zucman… la position de chaque candidat sur les grandes questions, avec sa source. ${DISCLAIMER}`,
+})
 page('themes/', { ...home, title: 'Thèmes × candidats – Présidentielle 2027' })
 page('programmes/', { ...home, title: 'Programmes officiels des candidats – Présidentielle 2027' })
 page('methodologie/', { ...home, title: 'Méthodologie et sources – Présidentielle 2027' })
@@ -103,7 +108,7 @@ function indicator(def: IndicatorDef, c: Candidate) {
     const ind = indicatorsOf(m).find((i) => i.key === def.key)
     if (ind) return def.type === 'enum' ? (def.options?.[String(ind.value)] ?? String(ind.value)) : `${ind.value.toLocaleString('fr-FR')}${def.unit ? ` ${def.unit}` : ''}`
   }
-  return 'non précisé'
+  return 'pas de position relevée'
 }
 
 for (const t of themes) {

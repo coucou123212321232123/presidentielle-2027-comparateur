@@ -15,6 +15,7 @@ import { SourceTypeBadge } from '../components/Badges'
 import { ExternalLink } from '../components/ExternalLink'
 import { Badge, Card, EmptyState, PageHeader, Skeleton, cx } from '../components/ui'
 import { Glossed } from '../components/Glossary'
+import { ThemeContext } from '../components/Insights'
 import { useMeasureFilter } from '../lib/store'
 import { fullName, plural } from '../lib/format'
 import { shareUrl } from '../lib/share'
@@ -41,7 +42,7 @@ function Indicators({ theme, selected, all }: { theme: Theme; selected: Candidat
       <h2 className="mb-1 flex items-center gap-2 text-sm font-semibold text-ink">
         <GitCompareArrows className="size-4 text-muted" aria-hidden="true" /> Points de comparaison factuels
       </h2>
-      <p className="mb-4 text-xs text-muted">Uniquement lorsque la valeur est écrite telle quelle dans une source (cliquez pour l'ouvrir). Sinon : « Non précisé ».</p>
+      <p className="mb-4 text-xs text-muted">Uniquement lorsque la valeur est écrite telle quelle dans une source (cliquez pour l'ouvrir). Sinon : « Pas de position relevée ».</p>
       <div className="space-y-4">
         {theme.indicators.map((def) => {
           const values = selected.map((c) => ({ c, v: indicatorValue(def, all[c.id]) }))
@@ -72,7 +73,7 @@ function Indicators({ theme, selected, all }: { theme: Theme; selected: Candidat
                         {v.label}
                       </ExternalLink>
                     ) : (
-                      <span className="text-sm text-muted">Non précisé</span>
+                      <span className="text-sm text-muted">Pas de position relevée</span>
                     )}
                   </div>
                 ))}
@@ -160,7 +161,7 @@ function TableView({ theme, selected, lists, all }: { theme: Theme; selected: Ca
                 const v = indicatorValue(def, all[c.id])
                 return (
                   <td key={c.id} className="border-b border-l border-line p-3 align-top">
-                    {v ? <span className="font-semibold text-ink">{v.label}</span> : <span className="text-muted">Non précisé</span>}
+                    {v ? <span className="font-semibold text-ink">{v.label}</span> : <span className="text-muted">Pas de position relevée</span>}
                   </td>
                 )
               })}
@@ -490,6 +491,7 @@ export default function ComparePage() {
                 </button>
               </p>
             )}
+            <ThemeContext theme={theme.id} className="mb-6" />
             <Indicators theme={theme} selected={selected} all={all} />
             {view === 'colonnes' ? (
               <div

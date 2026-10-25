@@ -117,6 +117,10 @@
     "source_date": "2026-09-23",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "droits_succession",
+      "value": "hausse_gros_heritages"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -355,6 +359,10 @@
     "source_date": "2025-06-23",
     "source_page": "p. 17",
     "precision": "orientation_generale",
+    "indicator": {
+      "key": "renouvelables",
+      "value": "developpement"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -439,6 +447,10 @@
     "source_date": "2025-06-23",
     "source_page": "p. 35",
     "precision": "precis",
+    "indicator": {
+      "key": "neonicotinoides",
+      "value": "interdiction"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -989,6 +1001,10 @@
     "source_date": "2025-06-23",
     "source_page": "p. 46",
     "precision": "precis",
+    "indicator": {
+      "key": "proportionnelle",
+      "value": "integrale"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1003,6 +1019,10 @@
     "source_date": "2025-06-23",
     "source_page": "p. 46",
     "precision": "precis",
+    "indicator": {
+      "key": "article_49_3",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1045,6 +1065,10 @@
     "source_date": "2025-06-23",
     "source_page": "p. 47",
     "precision": "precis",
+    "indicator": {
+      "key": "ric",
+      "value": "oui"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1231,6 +1255,10 @@
     "source_date": "2025-06-23",
     "source_page": "p. 21",
     "precision": "chiffre",
+    "indicator": {
+      "key": "reseaux_sociaux_15",
+      "value": "oui"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },

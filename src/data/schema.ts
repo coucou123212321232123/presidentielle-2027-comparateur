@@ -381,6 +381,59 @@ export const SpeakingTimeSchema = z.object({
   ),
 })
 
+/** Chiffres officiels de la situation actuelle, par thème (src/data/context.json). */
+export const ContextSchema = z.object({
+  checked: isoDate,
+  themes: z.record(
+    ThemeIdSchema,
+    z.array(
+      z.object({
+        label: z.string().min(1),
+        value: z.string().min(1),
+        detail: z.string().optional(),
+        /** Date de publication de la source (jour, mois ou année), si connue. */
+        date: z.string().regex(/^\d{4}(-\d{2}){0,2}$/).nullable(),
+        source_label: z.string().min(1),
+        source_url: httpUrl,
+      }),
+    ),
+  ),
+})
+
+/** Chiffrage d'ensemble publié par chaque candidat, et évaluations indépendantes (src/data/budgets.json). */
+export const BudgetsSchema = z.object({
+  checked: isoDate,
+  candidates: z.record(
+    z.string(),
+    z.union([
+      z.object({ level: z.literal('aucun') }),
+      z.object({
+        /** global : économies ou recettes et dépenses chiffrées avec une trajectoire ; partiel : un ou deux objectifs chiffrés. */
+        level: z.enum(['global', 'partiel']),
+        summary: z.string().min(1),
+        figures: z.array(z.object({ label: z.string().min(1), value: z.string().min(1) })).min(1),
+        source_label: z.string().min(1),
+        source_url: httpUrl,
+        source_date: isoDate.nullable(),
+        source_type: SourceTypeSchema,
+      }),
+    ]),
+  ),
+  independent: z.object({
+    note: z.string().min(1),
+    items: z.array(
+      z.object({
+        org: z.string().min(1),
+        label: z.string().min(1),
+        status: z.enum(['annonce', 'publie']),
+        when: z.string().min(1),
+        source_label: z.string().min(1),
+        source_url: httpUrl,
+      }),
+    ),
+  }),
+})
+
 /** Paquet de données publié en ligne (public-data/data-v2.json) et téléchargé par l'application de bureau. */
 export const DataBundleSchema = z.object({
   version: z.literal(2),
@@ -397,6 +450,8 @@ export const DataBundleSchema = z.object({
   calendar: CalendarSchema.optional(),
   parrainages: ParrainagesSchema.optional(),
   speaking_time: SpeakingTimeSchema.optional(),
+  context: ContextSchema.optional(),
+  budgets: BudgetsSchema.optional(),
 })
 
 export type ThemeId = z.infer<typeof ThemeIdSchema>
@@ -427,4 +482,8 @@ export type VoteArgument = z.infer<typeof VoteArgumentSchema>
 export type Calendar = z.infer<typeof CalendarSchema>
 export type Parrainages = z.infer<typeof ParrainagesSchema>
 export type SpeakingTime = z.infer<typeof SpeakingTimeSchema>
+export type Context = z.infer<typeof ContextSchema>
+export type ContextFigure = Context['themes'][ThemeId][number]
+export type Budgets = z.infer<typeof BudgetsSchema>
+export type CandidateBudget = Budgets['candidates'][string]
 

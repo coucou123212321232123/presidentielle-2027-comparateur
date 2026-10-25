@@ -15,6 +15,7 @@ const VotesPage = lazy(() => import('./pages/VotesPage'))
 const GlossaryPage = lazy(() => import('./pages/GlossaryPage'))
 const ElectionPage = lazy(() => import('./pages/ElectionPage'))
 const LegalPage = lazy(() => import('./pages/LegalPage'))
+const PositionsPage = lazy(() => import('./pages/PositionsPage'))
 
 function PageSkeleton() {
   return (
@@ -56,6 +57,7 @@ export function App() {
             <Route index element={<HomePage />} />
             <Route path="candidats/:id" element={lazyPage(<CandidatePage />)} />
             <Route path="comparateur" element={lazyPage(<ComparePage />)} />
+            <Route path="positions" element={lazyPage(<PositionsPage />)} />
             <Route path="themes" element={lazyPage(<ThemesPage />)} />
             <Route path="programmes" element={lazyPage(<ProgramsPage />)} />
             <Route path="votes" element={lazyPage(<VotesPage />)} />

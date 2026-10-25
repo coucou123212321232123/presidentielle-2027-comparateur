@@ -150,6 +150,10 @@
     "source_date": null,
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "capitalisation",
+      "value": "oui"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -714,6 +718,10 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "isf",
+      "value": "retablissement"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -784,6 +792,16 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
+    "indicator": [
+      {
+        "key": "renouvelables",
+        "value": "developpement"
+      },
+      {
+        "key": "nucleaire",
+        "value": "relance"
+      }
+    ],
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },

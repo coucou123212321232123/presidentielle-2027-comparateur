@@ -1,0 +1,78 @@
+{
+  "checked": "2026-10-25",
+  "themes": {
+    "economie": [
+      { "label": "Dette publique", "value": "119,0 % du PIB", "detail": "3 595,5 Md€ fin juin 2026.", "date": "2026-09-29", "source_label": "Insee – Dette trimestrielle de Maastricht, 2e trimestre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9053525" },
+      { "label": "Inflation sur un an", "value": "3,1 %", "detail": "Septembre 2026, tirée par l'énergie (+21,3 % sur un an).", "date": "2026-10-15", "source_label": "Insee – Indice des prix à la consommation, septembre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9080209" },
+      { "label": "SMIC net mensuel", "value": "1 477,93 €", "detail": "Pour 35 heures par semaine, depuis la revalorisation du 1er juin 2026 (montant net estimé).", "date": "2026-06-01", "source_label": "info.gouv.fr – Le SMIC revalorisé le 1er juin 2026", "source_url": "https://www.info.gouv.fr/index.php/actualite/le-smic-revalorise-le-1er-juin-2026" }
+    ],
+    "fiscalite": [
+      { "label": "Prélèvements obligatoires", "value": "43,6 % du PIB", "detail": "En 2025, après 42,8 % en 2024.", "date": "2026-03-26", "source_label": "Insee – Comptes nationaux des administrations publiques, année 2025", "source_url": "https://www.insee.fr/fr/statistiques/8956575" },
+      { "label": "Déficit public", "value": "5,1 % du PIB", "detail": "152,5 Md€ en 2025, après 5,8 % en 2024.", "date": "2026-03-26", "source_label": "Insee – Comptes nationaux des administrations publiques, année 2025", "source_url": "https://www.insee.fr/fr/statistiques/8956575" }
+    ],
+    "emploi": [
+      { "label": "Taux de chômage", "value": "8,3 %", "detail": "2e trimestre 2026, soit environ 2,7 millions de personnes ; le plus haut niveau depuis 2020.", "date": "2026-08-07", "source_label": "Insee – Chômage au sens du BIT, 2e trimestre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9032359" },
+      { "label": "Chômage des 15-24 ans", "value": "21,6 %", "detail": "2e trimestre 2026.", "date": "2026-08-07", "source_label": "Insee – Chômage au sens du BIT, 2e trimestre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9032359" }
+    ],
+    "retraites": [
+      { "label": "Âge légal de départ", "value": "62 ans et 9 mois", "detail": "Pour les personnes nées entre 1963 et mars 1965 : la loi de financement de la Sécurité sociale pour 2026 a suspendu le relèvement prévu par la réforme de 2023. L'âge légal atteint 64 ans à partir de la génération 1969.", "date": "2026-03-05", "source_label": "Assurance retraite – Circulaire Cnav 2026-07 sur l'âge légal et la durée d'assurance", "source_url": "https://legislation.lassuranceretraite.fr/Pdf/circulaire_cnav_2026_07_05032026.pdf" },
+      { "label": "Pension moyenne de droit direct", "value": "1 705 € bruts par mois", "detail": "Fin 2024, hors majoration pour trois enfants, pour 17,3 millions de retraités.", "date": "2026", "source_label": "DREES – Effectifs de retraités et montants des pensions, données 2024", "source_url": "https://drees.solidarites-sante.gouv.fr/communique-de-presse-jeux-de-donnees/jeux-de-donnees/effectifs-de-retraites-et-montants-des" }
+    ],
+    "energie": [
+      { "label": "Part du nucléaire dans la production d'électricité", "value": "68,1 %", "detail": "373 TWh produits en 2025.", "date": "2026-02", "source_label": "RTE – Bilan électrique 2025, principaux résultats", "source_url": "https://assets.rte-france.com/prod/public/2026-02/Bilan-electrique-2025-principaux-resultats.pdf" },
+      { "label": "Électricité bas carbone", "value": "95,2 %", "detail": "Part du nucléaire et des renouvelables dans la production de 2025, un record.", "date": "2026-02", "source_label": "RTE – Bilan électrique 2025, principaux résultats", "source_url": "https://assets.rte-france.com/prod/public/2026-02/Bilan-electrique-2025-principaux-resultats.pdf" }
+    ],
+    "ecologie": [
+      { "label": "Émissions de gaz à effet de serre", "value": "364 Mt CO₂e", "detail": "En 2025, hors puits de carbone : −1,5 % sur un an (estimation provisoire).", "date": "2026-04-08", "source_label": "Citepa – Baromètre des émissions, avril 2026", "source_url": "https://www.citepa.org/wp-content/uploads/2026/04/CP-Citepa_Barometre_avril2026.pdf" },
+      { "label": "Rythme nécessaire pour l'objectif 2030", "value": "environ −5 % par an", "detail": "Pour atteindre −50 % d'émissions brutes en 2030 par rapport à 1990.", "date": "2025-10-10", "source_label": "Ministère de la Transition écologique – communiqué du 10 octobre 2025", "source_url": "https://www.ecologie.gouv.fr/presse/baisse-emissions-gaz-effet-serre-legere-baisse-2025-mettant-risque-latteinte-objectifs" }
+    ],
+    "agriculture": [
+      { "label": "Exploitations agricoles", "value": "389 800", "detail": "En France métropolitaine en 2020, soit environ 100 000 de moins qu'en 2010 (dernier recensement agricole).", "date": "2022-10", "source_label": "Agreste – Recensement agricole 2020, résultats définitifs", "source_url": "https://agreste.agriculture.gouv.fr/agreste-web/disaron/Pri2213/detail/" },
+      { "label": "Surface moyenne d'une exploitation", "value": "69 hectares", "detail": "En France métropolitaine en 2020.", "date": "2022-10", "source_label": "Agreste – Recensement agricole 2020, résultats définitifs", "source_url": "https://agreste.agriculture.gouv.fr/agreste-web/disaron/Pri2213/detail/" }
+    ],
+    "logement": [
+      { "label": "Ménages en attente d'un logement social", "value": "2,87 millions", "detail": "Fin juin 2025, selon l'Union sociale pour l'habitat (fédération des organismes HLM).", "date": "2025", "source_label": "Banque des Territoires – Logement social : des millions de demandeurs toujours en attente", "source_url": "https://www.banquedesterritoires.fr/logement-social-plus-dattributions-en-2025-mais-des-millions-de-demandeurs-toujours-en-attente" }
+    ],
+    "sante": [
+      { "label": "Médecins en activité", "value": "237 200", "detail": "Au 1er janvier 2025, dont 100 000 généralistes (+1 % sur un an, après une baisse continue depuis 2018).", "date": "2025-07-28", "source_label": "DREES – 237 200 médecins en activité au 1er janvier 2025", "source_url": "https://drees.solidarites-sante.gouv.fr/jeux-de-donnees/jeux-de-donnees/237-200-medecins-sont-en-activite-en-france-au-1er-janvier-2025" }
+    ],
+    "education": [
+      { "label": "Élèves dans le second degré", "value": "5,62 millions", "detail": "Collèges et lycées, rentrée 2025 ; les effectifs baissent avec la démographie.", "date": "2026", "source_label": "DEPP – L'éducation nationale en chiffres, édition 2026", "source_url": "https://www.education.gouv.fr/depp/l-education-nationale-en-chiffres-edition-2026-505326" },
+      { "label": "Enseignants dans le second degré", "value": "485 450", "detail": "Public et privé sous contrat, rentrée 2025.", "date": "2026", "source_label": "DEPP – L'éducation nationale en chiffres, édition 2026", "source_url": "https://www.education.gouv.fr/depp/l-education-nationale-en-chiffres-edition-2026-505326" }
+    ],
+    "securite": [
+      { "label": "Personnes détenues", "value": "90 020", "detail": "Au 1er septembre 2026, pour 63 348 places opérationnelles (taux d'occupation de 142 %).", "date": "2026-09-01", "source_label": "Ministère de la Justice – Statistiques mensuelles de la population détenue et écrouée", "source_url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/statistiques-mensuelles-population-detenue-ecrouee-11" }
+    ],
+    "immigration": [
+      { "label": "Premiers titres de séjour délivrés", "value": "384 000", "detail": "En 2025, +11,2 % sur un an ; les études restent le premier motif.", "date": "2026", "source_label": "Ministère de l'Intérieur (DGEF) – Les titres de séjour en 2025", "source_url": "https://www.immigration.interieur.gouv.fr/documentation/etudes-et-statistiques/titres-de-sejour-en-2025-protections-subsidiaires-ont-plus-que-double.html" },
+      { "label": "Demandes d'asile à l'Ofpra", "value": "145 270", "detail": "En 2025, −5,5 % sur un an.", "date": "2026", "source_label": "Ministère de l'Intérieur (DGEF) – Les demandes d'asile pour l'année 2025", "source_url": "https://www.immigration.interieur.gouv.fr/publications/chiffres-de-limmigration-en-france/demandes-dasile-pour-lannee-2025" },
+      { "label": "Éloignements d'étrangers", "value": "24 985", "detail": "En 2025, +15,7 % sur un an (hors départs spontanés).", "date": "2026-01-27", "source_label": "Ministère de l'Intérieur (DGEF) – Chiffres provisoires de l'immigration 2025", "source_url": "https://www.immigration.interieur.gouv.fr/actualites/communiques/publication-des-chiffres-provisoires-de-limmigration-pour-lannee-2025" }
+    ],
+    "institutions": [
+      { "label": "Élection des députés", "value": "577 députés", "detail": "Élus au scrutin uninominal majoritaire à deux tours. La proportionnelle n'a été utilisée qu'une fois sous la Ve République, en 1986.", "date": null, "source_label": "Assemblée nationale – Fiche de synthèse : l'élection des députés", "source_url": "https://www.assemblee-nationale.fr/dyn/synthese/deputes-groupes-parlementaires/l-election-des-deputes" }
+    ],
+    "europe": [
+      { "label": "Contribution de la France au budget de l'UE", "value": "28,8 Md€", "detail": "Montant prévu pour 2026 par le projet de loi de finances, en hausse par rapport à 2025.", "date": "2025", "source_label": "Public Sénat – Budget 2026 : la contribution de la France à l'Union européenne", "source_url": "https://www.publicsenat.fr/actualites/economie/budget-2026-pourquoi-la-france-a-obtenu-une-hausse-moins-importante-de-sa-contribution-a-lunion-europeenne" }
+    ],
+    "international": [
+      { "label": "Budget de la Défense", "value": "57,1 Md€", "detail": "Crédits de la mission Défense pour 2026, en hausse de 6,7 Md€ par rapport à 2025.", "date": "2025", "source_label": "Sénat – Rapport sur le budget 2026, mission Défense (synthèse)", "source_url": "https://www.senat.fr/rap/l25-139-38/l25-139-38-syn.pdf" }
+    ],
+    "numerique": [
+      { "label": "Utilisateurs d'IA générative", "value": "48 % des Français", "detail": "Soit +15 points en un an (enquête menée en juin 2025).", "date": "2026", "source_label": "Crédoc – Baromètre du numérique, édition 2026", "source_url": "https://www.credoc.fr/download/pdf/Sou/Sou2026-5064.pdf" }
+    ],
+    "culture": [
+      { "label": "Crédits de la mission Culture", "value": "environ 3,7 Md€", "detail": "Prévus pour 2026, en baisse par rapport à 2025 (hors audiovisuel public, financé à part).", "date": "2025", "source_label": "ActuaLitté – Budget 2026 pour la culture", "source_url": "https://actualitte.com/article/126820/politique-publique/budget-2026-pour-la-culture-des-moyens-et-des-emplois-en-baisse" }
+    ],
+    "outre_mer": [
+      { "label": "Prix de l'alimentation par rapport à l'Hexagone", "value": "+30 % à +42 %", "detail": "Selon le territoire (Mayotte +30 %, Guadeloupe +42 %), dernière enquête de 2022.", "date": "2023-07", "source_label": "Insee Première n° 1958 – Les prix restent plus élevés dans les DOM", "source_url": "https://www.insee.fr/fr/statistiques/7648939" },
+      { "label": "Chômage à La Réunion", "value": "19 %", "detail": "2e trimestre 2026, contre 8,3 % en France.", "date": "2026", "source_label": "Insee – Taux de chômage localisés, 2e trimestre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9053037" }
+    ],
+    "services_publics": [
+      { "label": "Agents publics", "value": "5,85 millions", "detail": "Fin 2024 : 44 % dans la fonction publique d'État, 35 % dans la territoriale, 21 % dans l'hospitalière.", "date": "2026", "source_label": "DGAFP – L'emploi dans la fonction publique en 2024", "source_url": "https://www.fonction-publique.gouv.fr/toutes-les-publications/lemploi-dans-la-fonction-publique-en-2024" }
+    ],
+    "famille": [
+      { "label": "Enfants par femme", "value": "1,56", "detail": "En 2025, le niveau le plus bas depuis la Première Guerre mondiale ; 645 000 naissances.", "date": "2026-01", "source_label": "Insee Première n° 2087 – Bilan démographique 2025", "source_url": "https://www.insee.fr/fr/statistiques/8719824" },
+      { "label": "Solde naturel", "value": "−6 000", "detail": "Plus de décès que de naissances en 2025, une première depuis la Seconde Guerre mondiale (estimation).", "date": "2026-01", "source_label": "Insee Première n° 2087 – Bilan démographique 2025", "source_url": "https://www.insee.fr/fr/statistiques/8719824" }
+    ]
+  }
+}

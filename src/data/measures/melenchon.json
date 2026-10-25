@@ -144,6 +144,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 51 (page PDF 26)",
     "precision": "chiffre",
+    "indicator": {
+      "key": "taxe_zucman",
+      "value": "pour"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -177,6 +181,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 51-52 (pages PDF 26-27)",
     "precision": "chiffre",
+    "indicator": {
+      "key": "droits_succession",
+      "value": "hausse_gros_heritages"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -219,6 +227,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 65 (page PDF 33)",
     "precision": "chiffre",
+    "indicator": {
+      "key": "temps_travail",
+      "value": "reduction"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -400,6 +412,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 96 (page PDF 49)",
     "precision": "chiffre",
+    "indicator": {
+      "key": "renouvelables",
+      "value": "developpement"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -628,6 +644,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 100 (page PDF 51)",
     "precision": "precis",
+    "indicator": {
+      "key": "neonicotinoides",
+      "value": "interdiction"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -824,6 +844,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 111 (page PDF 56)",
     "precision": "precis",
+    "indicator": {
+      "key": "cannabis",
+      "value": "legalisation"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -852,6 +876,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 110 (page PDF 56)",
     "precision": "precis",
+    "indicator": {
+      "key": "installation_medecins",
+      "value": "regulation"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -978,6 +1006,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 46 (page PDF 24)",
     "precision": "chiffre",
+    "indicator": {
+      "key": "service_national",
+      "value": "obligatoire"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1104,6 +1136,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 123 (page PDF 62)",
     "precision": "precis",
+    "indicator": {
+      "key": "ame",
+      "value": "maintien"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1118,6 +1154,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 79 (page PDF 40)",
     "precision": "precis",
+    "indicator": {
+      "key": "droit_du_sol",
+      "value": "maintien"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1188,6 +1228,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 21 (page PDF 11)",
     "precision": "precis",
+    "indicator": {
+      "key": "proportionnelle",
+      "value": "integrale"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1234,6 +1278,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 21 (page PDF 11)",
     "precision": "precis",
+    "indicator": {
+      "key": "article_49_3",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1592,6 +1640,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 25 (page PDF 13)",
     "precision": "precis",
+    "indicator": {
+      "key": "audiovisuel_public",
+      "value": "maintien"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1858,6 +1910,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 32 (page PDF 17)",
     "precision": "precis",
+    "indicator": {
+      "key": "aide_a_mourir",
+      "value": "pour"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },

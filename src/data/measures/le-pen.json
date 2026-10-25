@@ -180,6 +180,10 @@
     "source_date": "2026-10-15",
     "source_page": "p. 12",
     "precision": "chiffre",
+    "indicator": {
+      "key": "droits_succession",
+      "value": "baisse"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -325,6 +329,10 @@
     "source_date": "2026-10-06",
     "source_page": null,
     "precision": "orientation_generale",
+    "indicator": {
+      "key": "capitalisation",
+      "value": "oui"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -428,6 +436,10 @@
     "source_date": "2024-09-06",
     "source_page": "p. 19",
     "precision": "precis",
+    "indicator": {
+      "key": "renouvelables",
+      "value": "arret"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -484,6 +496,10 @@
     "source_date": "2024-06-25",
     "source_page": "p. 13",
     "precision": "precis",
+    "indicator": {
+      "key": "zfe",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -915,6 +931,10 @@
     "source_date": "2024-06-25",
     "source_page": "p. 7",
     "precision": "precis",
+    "indicator": {
+      "key": "peines_planchers",
+      "value": "oui"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -1022,6 +1042,10 @@
     "source_date": "2024-06-25",
     "source_page": "p. 7",
     "precision": "precis",
+    "indicator": {
+      "key": "droit_du_sol",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -1059,6 +1083,10 @@
       "label": "≈ 1,1 Md€ d'économies par an (AME)",
       "source_label": "Contre-budget 2027 du groupe RN",
       "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=4"
+    },
+    "indicator": {
+      "key": "ame",
+      "value": "suppression"
     },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
@@ -1456,6 +1484,10 @@
     "source_date": "2026-10-15",
     "source_page": "p. 11",
     "precision": "precis",
+    "indicator": {
+      "key": "audiovisuel_public",
+      "value": "privatisation"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },

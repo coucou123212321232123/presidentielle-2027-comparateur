@@ -406,6 +406,10 @@
     "source_date": "2025-12-01",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "service_national",
+      "value": "contre"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },

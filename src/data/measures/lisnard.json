@@ -117,7 +117,10 @@
     "source_page": "p. 7",
     "precision": "precis",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "isf",
+      "value": "pas_de_retablissement"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -146,6 +149,10 @@
     "source_date": "2026-10-16",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "droits_succession",
+      "value": "baisse"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -191,7 +198,10 @@
     "source_page": "p. 6",
     "precision": "chiffre",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "temps_travail",
+      "value": "accord_entreprise"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -249,7 +259,10 @@
     "source_page": null,
     "precision": "chiffre",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "capitalisation",
+      "value": "oui"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -333,7 +346,10 @@
     "source_page": null,
     "precision": "precis",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "renouvelables",
+      "value": "arret"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -378,6 +394,10 @@
     "source_date": "2026-10-16",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "zfe",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -571,7 +591,10 @@
     "source_page": "p. 8",
     "precision": "precis",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "installation_medecins",
+      "value": "liberte"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -781,7 +804,10 @@
     "source_page": null,
     "precision": "precis",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "peines_planchers",
+      "value": "oui"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -873,7 +899,10 @@
     "source_page": null,
     "precision": "precis",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "droit_du_sol",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -893,7 +922,10 @@
       "source_label": "Chiffrage de Nouvelle Énergie (Livre noir)",
       "source_url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf#page=9"
     },
-    "indicator": null,
+    "indicator": {
+      "key": "ame",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1139,6 +1171,10 @@
     "source_date": "2026-10-16",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "audiovisuel_public",
+      "value": "privatisation"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },

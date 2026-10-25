@@ -7,7 +7,7 @@
  */
 import { readFileSync, readdirSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
-import type { Candidate, LinkStatus, Measure, Meta } from '../src/data/schema.ts'
+import type { Budgets, Candidate, Context, LinkStatus, Measure, Meta } from '../src/data/schema.ts'
 
 const ROOT = join(import.meta.dirname, '..')
 const DATA = join(ROOT, 'src', 'data')
@@ -63,6 +63,11 @@ for (const f of readdirSync(join(DATA, 'measures')).filter((f) => f.endsWith('.j
   }
 }
 meta.inclusion_sources.forEach((s) => add(s.url, 'méthodologie'))
+for (const [theme, figures] of Object.entries(json<Context>(join(DATA, 'context.json')).themes))
+  figures.forEach((f) => add(f.source_url, `contexte ${theme} · ${f.label}`))
+const budgets = json<Budgets>(join(DATA, 'budgets.json'))
+for (const [id, b] of Object.entries(budgets.candidates)) if (b.level !== 'aucun') add(b.source_url, `chiffrage ${id}`)
+budgets.independent.items.forEach((i) => add(i.source_url, `évaluation ${i.org}`))
 
 async function request(url: string, method: 'HEAD' | 'GET'): Promise<Response> {
   const ctrl = new AbortController()

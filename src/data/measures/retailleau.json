@@ -123,6 +123,10 @@
     "source_date": "2026-08-26",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "droits_succession",
+      "value": "baisse"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -272,6 +276,10 @@
     "source_date": "2026-09-23",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "capitalisation",
+      "value": "oui"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -318,6 +326,10 @@
     "source_date": "2026-05-07",
     "source_page": "p. 21",
     "precision": "precis",
+    "indicator": {
+      "key": "renouvelables",
+      "value": "arret"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -486,6 +498,10 @@
     "source_date": "2026-03-03",
     "source_page": "p. 12, 17",
     "precision": "precis",
+    "indicator": {
+      "key": "neonicotinoides",
+      "value": "reautorisation"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -556,6 +572,10 @@
     "source_date": "2026-05-28",
     "source_page": "p. 8",
     "precision": "chiffre",
+    "indicator": {
+      "key": "encadrement_loyers",
+      "value": "contre"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -840,6 +860,10 @@
     "source_date": "2026-09-02",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "droit_du_sol",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },

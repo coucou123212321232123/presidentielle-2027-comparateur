@@ -112,7 +112,11 @@ export default function MethodologyPage() {
         <p>
           Pour certains thèmes, le comparateur indique si les candidats sélectionnés ont la même position ou des positions différentes —
           uniquement lorsque la valeur est écrite telle quelle dans la source (« 64 ans », « sortir du commandement intégré de l'OTAN »…).
-          Toute interprétation est exclue : sinon, « Non précisé ».
+          Toute interprétation est exclue : sinon, « Pas de position relevée ». La page{' '}
+          <Link to="/positions" className="text-accent hover:underline">
+            Positions
+          </Link>{' '}
+          rassemble toutes ces questions pour l'ensemble des candidats.
         </p>
         <ul className="grid gap-x-6 gap-y-1 text-sm sm:grid-cols-2">
           {themes.flatMap((t) =>
@@ -123,6 +127,19 @@ export default function MethodologyPage() {
             )),
           )}
         </ul>
+      </Section>
+
+      <Section title="Chiffres de contexte et chiffrages">
+        <p>
+          L'encadré « Où en est-on aujourd'hui ? » donne, pour chaque thème, quelques chiffres de la situation actuelle (dette, chômage, âge
+          de départ à la retraite, part du nucléaire…) publiés par des sources officielles ou de référence : Insee, DREES, RTE, ministères,
+          Assemblée nationale. Chaque chiffre indique sa source et sa date ; ils sont mis à jour lors des vérifications hebdomadaires.
+        </p>
+        <p>
+          La rubrique « Combien ça coûte ? » de la page Programmes reprend le chiffrage d'ensemble annoncé par chaque candidat (économies,
+          recettes, déficit visé), sans le vérifier. Les évaluations d'organismes indépendants y seront ajoutées à leur parution, en citant
+          plusieurs organismes de sensibilités différentes.
+        </p>
       </Section>
 
       <Section title="Votes à l'Assemblée">

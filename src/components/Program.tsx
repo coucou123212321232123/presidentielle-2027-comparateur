@@ -6,6 +6,7 @@ import { formatDate } from '../lib/format'
 import { FORMAT_LABELS } from '../lib/labels'
 import { FormatIcon, ProgramStatusBadge } from './Badges'
 import { ExternalLink } from './ExternalLink'
+import { CoverageNote } from './Insights'
 import { Card, cx } from './ui'
 
 /** Bouton secondaire « Voir le programme » (cartes de la page d'accueil). */
@@ -119,11 +120,7 @@ export function ProgramBlock({ candidate }: { candidate: Candidate }) {
             )}
           </div>
         )}
-        {!p.main_url && (
-          <p className="mt-4 text-sm text-ink-2">
-            Programme en cours d'élaboration : seules les positions sourcées publiquement sont affichées ci-dessous.
-          </p>
-        )}
+        <CoverageNote candidate={candidate} />
 
         {p.thematic_links.length > 0 && (
           <div className="mt-5">

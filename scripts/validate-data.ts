@@ -6,7 +6,9 @@
 import { readFileSync, readdirSync } from 'node:fs'
 import { join, basename } from 'node:path'
 import {
+  BudgetsSchema,
   CalendarSchema,
+  ContextSchema,
   CandidateSchema,
   ParrainagesSchema,
   SpeakingTimeSchema,
@@ -103,6 +105,11 @@ else if (parrainagesParsed.data.status !== 'non_commence' && !parrainagesParsed.
   errors.push('parrainages.json : source officielle manquante')
 const speakingParsed = SpeakingTimeSchema.safeParse(readJson(join(DATA, 'speaking-time.json')))
 if (!speakingParsed.success) zodIssues('speaking-time.json', speakingParsed.error.issues)
+// Chiffres de contexte par thème et chiffrages des candidats.
+const contextParsed = ContextSchema.safeParse(readJson(join(DATA, 'context.json')))
+if (!contextParsed.success) zodIssues('context.json', contextParsed.error.issues)
+const budgetsParsed = BudgetsSchema.safeParse(readJson(join(DATA, 'budgets.json')))
+if (!budgetsParsed.success) zodIssues('budgets.json', budgetsParsed.error.issues)
 const glossaryParsed = GlossarySchema.safeParse(readJson(join(DATA, 'glossary.json')))
 if (!glossaryParsed.success) zodIssues('glossary.json', glossaryParsed.error.issues)
 else {
@@ -180,6 +187,10 @@ for (const [id, p] of Object.entries(partyGroups.candidates)) {
 if (parrainagesParsed.success)
   for (const c of parrainagesParsed.data.candidates)
     if (c.candidate && !ids.has(c.candidate)) errors.push(`parrainages.json : candidat inconnu « ${c.candidate} »`)
+if (budgetsParsed.success) {
+  for (const id of Object.keys(budgetsParsed.data.candidates)) if (!ids.has(id)) errors.push(`budgets.json : candidat inconnu « ${id} »`)
+  for (const id of ids) if (!(id in budgetsParsed.data.candidates)) errors.push(`budgets.json : candidat « ${id} » absent (mettre level: aucun)`)
+}
 if (speakingParsed.success)
   for (const id of Object.keys(speakingParsed.data.candidates)) if (!ids.has(id)) errors.push(`speaking-time.json : candidat inconnu « ${id} »`)
 

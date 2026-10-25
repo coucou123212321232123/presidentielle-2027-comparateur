@@ -59,7 +59,10 @@
     "source_page": "p. 2",
     "precision": "precis",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "droits_succession",
+      "value": "baisse"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -75,7 +78,10 @@
     "source_page": null,
     "precision": "orientation_generale",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "capitalisation",
+      "value": "oui"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -114,7 +120,10 @@
       "source_label": "Chiffrage de Reconquête",
       "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2"
     },
-    "indicator": null,
+    "indicator": {
+      "key": "renouvelables",
+      "value": "arret"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -307,7 +316,10 @@
     "source_page": null,
     "precision": "precis",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "peines_planchers",
+      "value": "oui"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -410,7 +422,10 @@
       "source_label": "Chiffrage de Reconquête",
       "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2"
     },
-    "indicator": null,
+    "indicator": {
+      "key": "ame",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -530,7 +545,10 @@
       "source_label": "Chiffrage de Reconquête",
       "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2"
     },
-    "indicator": null,
+    "indicator": {
+      "key": "audiovisuel_public",
+      "value": "privatisation"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
