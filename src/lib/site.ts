@@ -11,4 +11,4 @@ export const UMAMI_WEBSITE_ID = '7f9ce1e0-fadc-46ac-9bb3-977d118909c8'
  * Clé publique Web3Forms (formulaire « Signaler une erreur ») : les messages arrivent à l'adresse de contact.
  * Vide : le formulaire ouvre la messagerie du visiteur, pré-remplie. Cette clé est faite pour être publique.
  */
-export const WEB3FORMS_KEY = ''
+export const WEB3FORMS_KEY = '3cbcc5ad-ceb0-489a-bfdc-fd5ae14ff9e0'
