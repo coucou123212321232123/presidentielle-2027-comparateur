@@ -105,5 +105,17 @@
         "text": "Juan Branco (Les Ruches) et Clara Egger (Solution démocratique) ajoutés à la liste des autres candidatures déclarées."
       }
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "summary": "Mise à jour hebdomadaire : 1 mesure ajoutée et 1 fiche complétée (Le Pen) ; aucune publication nouvelle repérée pour les 14 autres candidats.",
+    "accepted": 2,
+    "rejected": 0,
+    "changes": [
+      {
+        "candidate": "le-pen",
+        "text": "114 → 115 mesures : inscription du principe de « communauté nationale » dans la Constitution (discours du congrès du RN, 25/10/2026) ; fiche : annonce de la nomination de Sébastien Chenu à la présidence du groupe RN à l'Assemblée nationale."
+      }
+    ]
   }
 ]

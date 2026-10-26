@@ -1177,7 +1177,7 @@
     "position": "extreme_droite",
     "position_source_url": "https://fr.wikipedia.org/wiki/Rassemblement_national",
     "status": "declare",
-    "status_note": "Candidature annoncée le 7 juillet 2026 au journal de 20 h de TF1, le jour de l'arrêt de la cour d'appel de Paris dans l'affaire des assistants parlementaires du FN au Parlement européen. L'arrêt confirme sa culpabilité pour détournement de fonds publics et prononce trois ans d'emprisonnement dont deux avec sursis (un an ferme aménageable sous surveillance électronique), 100 000 € d'amende et 45 mois d'inéligibilité dont 30 avec sursis ; la part ferme de 15 mois d'inéligibilité, exécutée depuis le jugement de première instance du 31 mars 2025 (exécution provisoire), ne fait pas obstacle à une candidature en 2027 selon Public Sénat et Toute l'Europe. Le même soir, elle a annoncé former un pourvoi en cassation, qui suspend l'exécution des peines prononcées en appel. Dans un communiqué du 8 juillet 2026, la Cour de cassation a indiqué pouvoir se prononcer « au plus tard début avril 2027 », calendrier susceptible d'évoluer ; aucune date d'audience n'a été repérée au 15 octobre 2026. Elle a annoncé mener campagne en « binôme » avec Jordan Bardella, qui serait son Premier ministre en cas de victoire.",
+    "status_note": "Candidature annoncée le 7 juillet 2026 au journal de 20 h de TF1, le jour de l'arrêt de la cour d'appel de Paris dans l'affaire des assistants parlementaires du FN au Parlement européen. L'arrêt confirme sa culpabilité pour détournement de fonds publics et prononce trois ans d'emprisonnement dont deux avec sursis (un an ferme aménageable sous surveillance électronique), 100 000 € d'amende et 45 mois d'inéligibilité dont 30 avec sursis ; la part ferme de 15 mois d'inéligibilité, exécutée depuis le jugement de première instance du 31 mars 2025 (exécution provisoire), ne fait pas obstacle à une candidature en 2027 selon Public Sénat et Toute l'Europe. Le même soir, elle a annoncé former un pourvoi en cassation, qui suspend l'exécution des peines prononcées en appel. Dans un communiqué du 8 juillet 2026, la Cour de cassation a indiqué pouvoir se prononcer « au plus tard début avril 2027 », calendrier susceptible d'évoluer ; aucune date d'audience n'a été repérée au 15 octobre 2026. Elle a annoncé mener campagne en « binôme » avec Jordan Bardella, qui serait son Premier ministre en cas de victoire. Le 24 octobre 2026, au congrès du RN à Orléans, Sébastien Chenu a annoncé avoir été nommé président du groupe RN à l'Assemblée nationale en remplacement de Marine Le Pen, à compter de la fin de la session parlementaire selon LCP.",
     "status_source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation",
     "declaration_date": "2026-07-07",
     "photo": {
@@ -1436,9 +1436,17 @@
       {
         "label": "Groupe RN – Contre-budget 2027 (dossier, octobre 2026)",
         "url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf"
+      },
+      {
+        "label": "LCP (24/10/2026) – Qui est Sébastien Chenu, qui va succéder à Marine Le Pen à la présidence du groupe RN",
+        "url": "https://lcp.fr/actualites/qui-est-sebastien-chenu-qui-va-succeder-a-marine-le-pen-a-la-presidence-du-groupe-rn-a-l"
+      },
+      {
+        "label": "franceinfo (26/10/2026) – Sébastien Chenu, président du groupe RN à l'Assemblée nationale",
+        "url": "https://www.franceinfo.fr/politique/front-national/presidentielle-si-le-rassemblement-national-accede-au-pouvoir-la-cgt-n-aura-plus-de-subventions-assure-sebastien-chenu_8253898.html"
       }
     ],
-    "last_verified": "2026-10-16",
+    "last_verified": "2026-10-26",
     "color": "#1E3A8A"
   },
   {

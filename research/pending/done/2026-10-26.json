@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-26",
+  "since": "2026-10-19",
+  "signalements": "Aucune issue ouverte portant le label signalement.",
+  "watch": "research/watch/changes.json vide cette semaine (aucune page modifiée ou nouvelle).",
+  "log": {
+    "arthaud": "Aucun changement (recherche d'actualité : aucun fait daté du 19 au 26/10/2026 hors sources interdites).",
+    "attal": "Aucun changement (résultats limités à une source interdite, aucun fait daté de la période).",
+    "bertrand": "Aucun changement (résultats limités à des sources interdites, antérieurs à la période).",
+    "dupont-aignan": "Aucun changement (résultats limités à des sources interdites, antérieurs à la période).",
+    "glucksmann": "Aucun changement (article sans date fiable non retenu).",
+    "le-pen": "Recherche complémentaire (piste issue d'une recherche générale sans sources interdites) : congrès du RN à Orléans (24-25/10/2026), premier discours de campagne. 2 propositions. Annonces rapportées par un seul groupe de médias (Europe 1 / JDD ; CNews inaccessible) non retenues faute de second média indépendant : abolition de la loi Hulot et relance de l'exploitation d hydrocarbures, scrutin proportionnel avec prime majoritaire (différent de la mesure le-pen-institutions-02, proportionnelle intégrale), part fiscale pleine dès le deuxième enfant, dispense d'impôt sur le revenu pour les entrepreneurs, fonds souverain. Reportées à la semaine suivante.",
+    "lisnard": "Aucun changement (résultats limités à des sources interdites, aucun fait daté de la période).",
+    "melenchon": "Aucun changement (résultats limités à une source interdite, aucun fait daté de la période).",
+    "philippe": "Aucun changement (résultats limités à une source interdite, aucun fait daté de la période).",
+    "retailleau": "Aucun changement (aucun fait daté de la période exploitable).",
+    "roussel": "Aucun changement (résultats limités à une source interdite, aucun fait daté de la période).",
+    "ruffin": "Aucun changement (résultats limités à une source interdite, aucun fait daté de la période).",
+    "tondelier": "Aucun changement (aucun fait daté de la période).",
+    "villepin": "Aucun changement (résultats limités à des sources interdites, aucun fait daté de la période).",
+    "zemmour": "Aucun changement (résultats limités à une source interdite, aucun fait daté de la période)."
+  },
+  "proposals": [
+    {
+      "candidate": "le-pen",
+      "kind": "add_measure",
+      "data": {
+        "id": "le-pen-institutions-05",
+        "theme": "institutions",
+        "title": "Inscrire le principe de « communauté nationale » dans la Constitution",
+        "description": "Inscription dans la Constitution du principe de « communauté nationale », présenté comme « fondateur, inclusif et fraternel », annoncée lors de son discours de campagne au congrès du RN à Orléans.",
+        "source_type": "declaration",
+        "source_title": "franceinfo – Congrès du RN : Marine Le Pen promet un gouvernement « d'union nationale » (25/10/2026)",
+        "source_url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html",
+        "source_date": "2026-10-25",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html",
+          "excerpt": "inscrire le « principe fondateur, inclusif et fraternel » de « communauté nationale » dans la Constitution"
+        },
+        {
+          "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118",
+          "excerpt": "principe fondateur, inclusif et fraternel"
+        }
+      ],
+      "reason": "Proposition annoncée par la candidate le 25/10/2026, rapportée par deux médias indépendants (franceinfo, Europe 1).",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Deux médias indépendants concordants (franceinfo, Europe 1) ; type declaration correct ; pas de doublon ; aucune contradiction trouvée."
+      }
+    },
+    {
+      "candidate": "le-pen",
+      "kind": "update_candidate",
+      "data": {
+        "status_note_append": "Le 24 octobre 2026, au congrès du RN à Orléans, Sébastien Chenu a annoncé avoir été nommé président du groupe RN à l'Assemblée nationale, en remplacement de Marine Le Pen.",
+        "sources_add": [
+          {
+            "label": "LCP (24/10/2026) – Qui est Sébastien Chenu, qui va succéder à Marine Le Pen à la présidence du groupe RN",
+            "url": "https://lcp.fr/actualites/qui-est-sebastien-chenu-qui-va-succeder-a-marine-le-pen-a-la-presidence-du-groupe-rn-a-l"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "url": "https://lcp.fr/actualites/qui-est-sebastien-chenu-qui-va-succeder-a-marine-le-pen-a-la-presidence-du-groupe-rn-a-l",
+          "excerpt": "Je suis nommé président du groupe Rassemblement national à l'Assemblée nationale"
+        },
+        {
+          "url": "https://www.franceinfo.fr/politique/front-national/presidentielle-si-le-rassemblement-national-accede-au-pouvoir-la-cgt-n-aura-plus-de-subventions-assure-sebastien-chenu_8253898.html",
+          "excerpt": "président du groupe RN à l'Assemblée nationale"
+        }
+      ],
+      "reason": "Changement de fonction de la candidate (présidence du groupe parlementaire). La date d'effet n'est pas établie (LCP : à la fin de la session parlementaire ; franceinfo le présente déjà comme président) : current_roles laissé inchangé, seule l annonce est consignée.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "LCP (citation directe) et franceinfo concordants ; current_roles inchangé ; correction appliquée : date d'effet selon LCP précisée."
+      }
+    }
+  ],
+  "new_candidacies": "Aucune nouvelle candidature repérée depuis le 19/10/2026 (les candidatures de Platret, Markovic et Polony figurent déjà dans meta.other_declared).",
+  "decisions_summary": {
+    "acceptees": 2,
+    "rejetees": 0,
+    "equite": "Les 15 candidats ont été traités avec la même grille (une recherche d'actualité chacun, journal par candidat). Les résultats de ces recherches étaient dominés par des sources interdites ; une recherche générale excluant ces domaines a fait apparaître le congrès du RN (24-25/10), seule publication nouvelle repérée de la semaine, d'où l'écart de volume (Le Pen : 2 propositions, autres : 0). Reportés à la semaine suivante : annonces du discours d'Orléans rapportées par un seul groupe de médias (voir log le-pen) ; nouvelle recherche d'actualité pour les autres candidats avec exclusion des domaines interdits."
+  }
+}

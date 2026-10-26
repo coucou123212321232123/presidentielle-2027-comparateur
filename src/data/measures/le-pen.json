@@ -1805,5 +1805,19 @@
     "precision": "precis",
     "last_verified": "2026-10-19",
     "added": "2026-10-19"
+  },
+  {
+    "id": "le-pen-institutions-05",
+    "theme": "institutions",
+    "title": "Inscrire le principe de « communauté nationale » dans la Constitution",
+    "description": "Inscription dans la Constitution du principe de « communauté nationale », présenté comme « fondateur, inclusif et fraternel », annoncée lors de son discours de campagne au congrès du RN à Orléans.",
+    "source_type": "declaration",
+    "source_title": "franceinfo – Congrès du RN : Marine Le Pen promet un gouvernement « d'union nationale » (25/10/2026)",
+    "source_url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html",
+    "source_date": "2026-10-25",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-10-26",
+    "added": "2026-10-26"
   }
 ]
