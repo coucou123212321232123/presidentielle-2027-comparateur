@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:46:36.692Z",
+  "generated_at": "2026-10-26T11:07:42.238Z",
   "source_label": "Assemblée nationale – données ouvertes (scrutins, députés et groupes)",
   "source_url": "https://data.assemblee-nationale.fr/",
   "scrutins": [
@@ -195,7 +195,7 @@
       "short_title": "Ordre public et tranquillité du quotidien",
       "theme": "securite",
       "context": "Projet de loi visant à apporter des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire.",
-      "official_title": "L'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
+      "official_title": "L'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (texte de la commission mixte paritaire).",
       "vote_type": "scrutin public solennel",
       "censure": false,
       "result": "adopte",
