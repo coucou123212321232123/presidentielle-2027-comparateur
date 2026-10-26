@@ -5,3 +5,4 @@ dist-electron
 release
 .cache
 .watch-cache/
+indexnow-urls.json

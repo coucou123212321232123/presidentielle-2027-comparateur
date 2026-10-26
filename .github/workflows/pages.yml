@@ -22,6 +22,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.indexnow.outputs.changed }}
+      payload: ${{ steps.indexnow.outputs.payload }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -32,6 +35,13 @@ jobs:
         env:
           ELECTRON_SKIP_BINARY_DOWNLOAD: '1'
       - run: npm run build:pages
+      # Pages modifiées depuis la version en ligne, signalées à IndexNow une fois publiées (job indexnow).
+      - id: indexnow
+        continue-on-error: true
+        run: |
+          npx tsx scripts/indexnow.ts
+          echo "changed=$(jq '.urlList | length' indexnow-urls.json)" >> "$GITHUB_OUTPUT"
+          echo "payload=$(cat indexnow-urls.json)" >> "$GITHUB_OUTPUT"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
@@ -45,3 +55,17 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # Prévient Bing (DuckDuckGo, Ecosia, recherche de ChatGPT…) des pages modifiées, sans attendre son passage.
+  indexnow:
+    needs: [build, deploy]
+    if: needs.build.outputs.changed != '' && needs.build.outputs.changed != '0'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Signaler les pages modifiées (IndexNow)
+        continue-on-error: true
+        env:
+          PAYLOAD: ${{ needs.build.outputs.payload }}
+        run: |
+          curl -sS -o /dev/null -w "IndexNow : HTTP %{http_code} pour ${{ needs.build.outputs.changed }} page(s)\n" \
+            -X POST https://api.indexnow.org/indexnow -H 'Content-Type: application/json; charset=utf-8' --data "$PAYLOAD"
