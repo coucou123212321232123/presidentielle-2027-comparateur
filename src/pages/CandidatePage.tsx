@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
-import { ArrowLeft, ChevronDown, Columns3, Globe, Users, Target, Briefcase, History, FileSearch, Landmark } from 'lucide-react'
+import { ArrowLeft, Calculator, ChevronDown, Columns3, Globe, Users, Target, Briefcase, History, FileSearch, Landmark, ShieldCheck, Vote } from 'lucide-react'
 import { byTheme, candidateById, countFor, meta, summary, themes, useMeasures, useMeasuresFailed } from '../data'
 import { partyGroups, votes, type PartyGroup } from '../data/votes'
 import type { ThemeId } from '../data/schema'
@@ -10,7 +10,7 @@ import { NewCountBadge, SourceTypeBadge, StatusBadge } from '../components/Badge
 import { VoteBadge } from '../components/Hemicycle'
 import { PositionScale } from '../components/PositionScale'
 import { ProgramBlock, ThemeProgramLink } from '../components/Program'
-import { BudgetCard, TransparencyCard } from '../components/Insights'
+import { BudgetDetails, TransparencyDetails, budgetLevel, hatvpHint } from '../components/Insights'
 import { ExternalLink } from '../components/ExternalLink'
 import { Accordion } from '../components/Accordion'
 import { MeasureCard } from '../components/MeasureCard'
@@ -140,6 +140,23 @@ function InfoCard({ icon, title, children }: { icon: React.ReactNode; title: str
   )
 }
 
+/** Section repliable de la carte « En bref » : titre et résumé d'une ligne, détail au clic. */
+function SideSection({ icon, title, hint, children }: { icon: React.ReactNode; title: string; hint: string; children: React.ReactNode }) {
+  return (
+    <details className="group border-b border-line last:border-0">
+      <summary className="flex cursor-pointer list-none items-center gap-3 px-5 py-3.5 hover:bg-surface-2/50 [&::-webkit-details-marker]:hidden">
+        <span className="text-muted">{icon}</span>
+        <span className="min-w-0 flex-1">
+          <span className="block text-sm font-semibold text-ink">{title}</span>
+          <span className="block truncate text-xs text-muted">{hint}</span>
+        </span>
+        <ChevronDown className="size-4 shrink-0 text-muted transition-transform group-open:rotate-180" aria-hidden="true" />
+      </summary>
+      <div className="px-5 pb-5 pt-1">{children}</div>
+    </details>
+  )
+}
+
 export default function CandidatePage() {
   const { id = '' } = useParams()
   const [params] = useSearchParams()
@@ -261,31 +278,34 @@ export default function CandidatePage() {
           <div className="min-w-0 space-y-4 lg:col-span-2">
             <InfoCard icon={<History className="size-4" />} title="Parcours">
               <p className="leading-relaxed text-ink-2">{candidate.bio_summary}</p>
+              {candidate.main_axes.length > 0 && (
+                <div className="mt-5 border-t border-line pt-4">
+                  <h3 className="mb-3 flex items-center gap-2 text-sm font-semibold text-ink">
+                    <Target className="size-4 text-muted" aria-hidden="true" /> Axes principaux du projet
+                  </h3>
+                  <ol className="space-y-2">
+                    {candidate.main_axes.map((a, i) => (
+                      <li key={a} className="flex gap-3 text-ink-2">
+                        <span
+                          className="flex size-6 shrink-0 items-center justify-center rounded-full text-xs font-bold"
+                          style={{ backgroundColor: `${candidate.color}1f`, color: candidate.color }}
+                        >
+                          {i + 1}
+                        </span>
+                        <span className="pt-0.5">{a}</span>
+                      </li>
+                    ))}
+                  </ol>
+                  {candidate.main_axes_source_url && (
+                    <p className="mt-3 text-xs text-muted">
+                      <ExternalLink href={candidate.main_axes_source_url} className="hover:text-ink">
+                        Source des axes
+                      </ExternalLink>
+                    </p>
+                  )}
+                </div>
+              )}
             </InfoCard>
-            {candidate.main_axes.length > 0 && (
-              <InfoCard icon={<Target className="size-4" />} title="Axes principaux du projet">
-                <ol className="space-y-2">
-                  {candidate.main_axes.map((a, i) => (
-                    <li key={a} className="flex gap-3 text-ink-2">
-                      <span
-                        className="flex size-6 shrink-0 items-center justify-center rounded-full text-xs font-bold"
-                        style={{ backgroundColor: `${candidate.color}1f`, color: candidate.color }}
-                      >
-                        {i + 1}
-                      </span>
-                      <span className="pt-0.5">{a}</span>
-                    </li>
-                  ))}
-                </ol>
-                {candidate.main_axes_source_url && (
-                  <p className="mt-3 text-xs text-muted">
-                    <ExternalLink href={candidate.main_axes_source_url} className="hover:text-ink">
-                      Source des axes
-                    </ExternalLink>
-                  </p>
-                )}
-              </InfoCard>
-            )}
             {/* Programme par thème */}
             <section aria-labelledby="mesures" className="pt-6">
               <div className="mb-5 flex flex-wrap items-end justify-between gap-3">
@@ -403,10 +423,19 @@ export default function CandidatePage() {
               )}
             </section>
           </div>
-          <div className="space-y-4">
-            <BudgetCard candidate={candidate} />
-            <TransparencyCard candidate={candidate} />
-            <InfoCard icon={<Briefcase className="size-4" />} title="Fonctions">
+          <Card className="overflow-hidden">
+            <h2 className="border-b border-line px-5 py-3 text-xs font-semibold uppercase tracking-[0.14em] text-muted">En bref</h2>
+            <SideSection icon={<Calculator className="size-4" />} title="Chiffrage du programme" hint={budgetLevel(candidate).label}>
+              <BudgetDetails candidate={candidate} />
+            </SideSection>
+            <SideSection icon={<ShieldCheck className="size-4" />} title="Déclarations d'intérêts et de patrimoine" hint={hatvpHint(candidate)}>
+              <TransparencyDetails candidate={candidate} />
+            </SideSection>
+            <SideSection
+              icon={<Briefcase className="size-4" />}
+              title="Fonctions"
+              hint={candidate.current_roles[0] ?? candidate.past_roles[0] ?? 'Aucune fonction recensée'}
+            >
               {candidate.current_roles.length > 0 && (
                 <>
                   <h3 className="mb-1 text-xs font-semibold uppercase tracking-wide text-muted">Actuelles</h3>
@@ -427,9 +456,13 @@ export default function CandidatePage() {
                   </ul>
                 </>
               )}
-            </InfoCard>
+            </SideSection>
             {party && (
-              <InfoCard icon={<Landmark className="size-4" />} title="Son parti à l'Assemblée nationale">
+              <SideSection
+                icon={<Landmark className="size-4" />}
+                title="Son parti à l'Assemblée nationale"
+                hint={`Groupe ${[...new Set(Object.values(party.groups))].join(' puis ')}`}
+              >
                 <p className="text-sm leading-relaxed text-ink-2">
                   Les députés de {party.party} siègent dans le groupe {[...new Set(Object.values(party.groups))].join(' puis ')}. Leurs votes sur
                   les grands textes sont indiqués dans chaque thème, sous les mesures (« Voir les votes de son parti »).
@@ -440,10 +473,10 @@ export default function CandidatePage() {
                   </Link>{' '}
                   · source : Assemblée nationale
                 </p>
-              </InfoCard>
+              </SideSection>
             )}
             {myVotes.length > 0 && (
-              <InfoCard icon={<Landmark className="size-4" />} title="Votes à l'Assemblée sur les grands textes">
+              <SideSection icon={<Vote className="size-4" />} title="Ses votes de député sur les grands textes" hint={plural(myVotes.length, 'vote', 'votes')}>
                 <div className="mb-3">
                   <SourceTypeBadge type="vote_ou_bilan" />
                 </div>
@@ -466,10 +499,10 @@ export default function CandidatePage() {
                   </Link>{' '}
                   · source : Assemblée nationale
                 </p>
-              </InfoCard>
+              </SideSection>
             )}
             {candidate.key_people.length > 0 && (
-              <InfoCard icon={<Users className="size-4" />} title="Équipe et porte-parole">
+              <SideSection icon={<Users className="size-4" />} title="Équipe et porte-parole" hint={plural(candidate.key_people.length, 'personne', 'personnes')}>
                 <ul className="space-y-2 text-sm">
                   {candidate.key_people.map((p) => (
                     <li key={p.name + p.role}>
@@ -478,9 +511,13 @@ export default function CandidatePage() {
                     </li>
                   ))}
                 </ul>
-              </InfoCard>
+              </SideSection>
             )}
-            <InfoCard icon={<FileSearch className="size-4" />} title="Sources de la fiche">
+            <SideSection
+              icon={<FileSearch className="size-4" />}
+              title="Sources de la fiche"
+              hint={`${plural(candidate.sources.length, 'source', 'sources')} · vérifiée le ${formatShortDate(candidate.last_verified)}`}
+            >
               <ul className="space-y-1.5 text-sm">
                 {candidate.sources.map((s) => (
                   <li key={s.url}>
@@ -499,8 +536,8 @@ export default function CandidatePage() {
                   </ExternalLink>
                 </p>
               )}
-            </InfoCard>
-          </div>
+            </SideSection>
+          </Card>
         </div>
       </div>
     </div>

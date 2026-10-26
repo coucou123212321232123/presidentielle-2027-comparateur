@@ -59,15 +59,9 @@ export function ThemeProgramLink({ candidate, theme }: { candidate: Candidate; t
 }
 
 /** Bloc « Programme officiel » en tête de fiche candidat. */
-/** Livrets affichés d'emblée : les autres restent accessibles par un bouton (et dans chaque thème, plus bas). */
-const LIVRETS_VISIBLE = 6
-
 export function ProgramBlock({ candidate }: { candidate: Candidate }) {
   const p = candidate.program
-  const [allLinks, setAllLinks] = useState(false)
   const [fullNote, setFullNote] = useState(false)
-  const links = allLinks ? p.thematic_links : p.thematic_links.slice(0, LIVRETS_VISIBLE)
-  const hidden = p.thematic_links.length - LIVRETS_VISIBLE
   const longNote = (p.note?.length ?? 0) > 320
   return (
     <Card className="overflow-hidden">
@@ -123,10 +117,14 @@ export function ProgramBlock({ candidate }: { candidate: Candidate }) {
         <CoverageNote candidate={candidate} />
 
         {p.thematic_links.length > 0 && (
-          <div className="mt-5">
-            <h3 className="mb-2 text-sm font-semibold text-ink">Livrets et pages thématiques</h3>
-            <ul className="grid grid-cols-1 gap-2 sm:grid-cols-2">
-              {links.map((l) => (
+          // Replié par défaut : chaque livret est aussi proposé dans son thème, plus bas (« Lire cette partie du programme »).
+          <details className="group mt-4">
+            <summary className="inline-flex cursor-pointer list-none items-center gap-1.5 text-sm font-semibold text-ink hover:underline [&::-webkit-details-marker]:hidden">
+              Livrets et pages thématiques ({p.thematic_links.length})
+              <ChevronDown className="size-4 text-muted transition-transform group-open:rotate-180" aria-hidden="true" />
+            </summary>
+            <ul className="mt-2 grid grid-cols-1 gap-2 sm:grid-cols-2">
+              {p.thematic_links.map((l) => (
                 <li key={l.url + l.theme} className="min-w-0">
                   <ExternalLink href={l.url} className="w-full rounded-lg border border-line px-3 py-2 text-sm text-ink-2 transition-colors hover:border-ink-2/40 hover:text-ink">
                     <FormatIcon format={l.format} className="size-3.5 shrink-0" />
@@ -138,18 +136,7 @@ export function ProgramBlock({ candidate }: { candidate: Candidate }) {
                 </li>
               ))}
             </ul>
-            {hidden > 0 && (
-              <button
-                type="button"
-                onClick={() => setAllLinks((v) => !v)}
-                aria-expanded={allLinks}
-                className="mt-2 inline-flex items-center gap-1 text-sm font-medium text-muted hover:text-ink"
-              >
-                {allLinks ? 'Réduire la liste' : `Voir les ${hidden} autres livrets`}
-                <ChevronDown className={cx('size-4 transition-transform', allLinks && 'rotate-180')} aria-hidden="true" />
-              </button>
-            )}
-          </div>
+          </details>
         )}
 
         {p.archive_url && (

@@ -1,12 +1,12 @@
 import { Link } from 'react-router-dom'
-import { Calculator, ChartNoAxesColumn, FileSearch, ShieldCheck } from 'lucide-react'
+import { ChartNoAxesColumn, FileSearch } from 'lucide-react'
 import type { Candidate, IndicatorDef, ThemeId } from '../data/schema'
 import { countFor, summary, themes } from '../data'
 import { budgets, context, hatvp } from '../data/insights'
 import { formatShortDate, plural } from '../lib/format'
 import { SourceTypeBadge } from './Badges'
 import { ExternalLink } from './ExternalLink'
-import { Badge, Card, cx } from './ui'
+import { Card, cx } from './ui'
 
 /** Libellé affiché d'une réponse à un point de comparaison. */
 export const indicatorLabel = (def: IndicatorDef, value: string | number) =>
@@ -52,24 +52,22 @@ const LEVEL_LABELS = {
   aucun: { label: 'Pas de chiffrage d’ensemble', tone: 'neutral' },
 } as const
 
+/** Niveau de chiffrage d'un candidat, pour le résumé de la section. */
+export const budgetLevel = (candidate: Candidate) => LEVEL_LABELS[(budgets.candidates[candidate.id] ?? { level: 'aucun' }).level]
+
 /** Chiffrage d'ensemble annoncé par un candidat (économies, recettes, déficit visé), avec sa source. */
-export function BudgetCard({ candidate }: { candidate: Candidate }) {
+export function BudgetDetails({ candidate }: { candidate: Candidate }) {
   const b = budgets.candidates[candidate.id] ?? { level: 'aucun' as const }
-  const level = LEVEL_LABELS[b.level]
   return (
-    <Card className="p-5">
-      <h2 className="mb-2 flex items-center gap-2 text-sm font-semibold text-ink">
-        <Calculator className="size-4 text-muted" aria-hidden="true" /> Chiffrage du programme
-      </h2>
-      <Badge tone={level.tone}>{level.label}</Badge>
+    <div>
       {b.level === 'aucun' ? (
-        <p className="mt-3 text-sm text-ink-2">
+        <p className="text-sm text-ink-2">
           Aucun chiffrage d'ensemble (économies, recettes, déficit visé) n'a été publié à notre connaissance au{' '}
           {formatShortDate(budgets.checked)}.
         </p>
       ) : (
         <>
-          <p className="mt-3 text-sm leading-relaxed text-ink-2">{b.summary}</p>
+          <p className="text-sm leading-relaxed text-ink-2">{b.summary}</p>
           <dl className="mt-3 space-y-1.5">
             {b.figures.map((f) => (
               <div key={f.label} className="flex flex-wrap items-baseline justify-between gap-x-3 border-b border-line/60 pb-1.5 text-sm last:border-0">
@@ -92,18 +90,18 @@ export function BudgetCard({ candidate }: { candidate: Candidate }) {
           Comparer les chiffrages
         </Link>
       </p>
-    </Card>
+    </div>
   )
 }
 
+/** Résumé de la section HATVP. */
+export const hatvpHint = (candidate: Candidate) => (hatvp.candidates[candidate.id] ? 'Déclarations publiées' : 'Pas de page à la HATVP')
+
 /** Lien vers les déclarations d'intérêts et de patrimoine publiées par la HATVP, quand le candidat en a une. */
-export function TransparencyCard({ candidate }: { candidate: Candidate }) {
+export function TransparencyDetails({ candidate }: { candidate: Candidate }) {
   const h = hatvp.candidates[candidate.id]
   return (
-    <Card className="p-5">
-      <h2 className="mb-2 flex items-center gap-2 text-sm font-semibold text-ink">
-        <ShieldCheck className="size-4 text-muted" aria-hidden="true" /> Déclarations d'intérêts et de patrimoine
-      </h2>
+    <div>
       {h ? (
         <>
           <p className="text-sm leading-relaxed text-ink-2">
@@ -122,7 +120,7 @@ export function TransparencyCard({ candidate }: { candidate: Candidate }) {
       <p className="mt-3 text-xs leading-relaxed text-muted">
         Les candidats retenus par le Conseil constitutionnel déposent une déclaration de patrimoine, rendue publique avant le premier tour.
       </p>
-    </Card>
+    </div>
   )
 }
 
@@ -133,24 +131,25 @@ const STATUS_TEXT = {
   en_cours_d_elaboration: 'Pas encore de programme : les positions ci-dessous sont tirées de ses déclarations publiques.',
 } as const
 
-/** Ce que couvre la fiche : état du programme et nombre de mesures relevées, pour lire les écarts entre candidats. */
+/** Ce que couvre la fiche : nombre de mesures relevées, et de quoi il dépend (dépliable), pour lire les écarts entre candidats. */
 export function CoverageNote({ candidate }: { candidate: Candidate }) {
   const total = countFor(candidate.id)
   const s = summary[candidate.id]
   const covered = Object.keys(s?.byTheme ?? {}).length
   return (
-    <div className="mt-5 rounded-xl border border-line bg-surface-2/40 p-4 text-sm">
-      <p className="flex items-center gap-2 font-semibold text-ink">
-        <FileSearch className="size-4 text-muted" aria-hidden="true" /> Ce que contient cette fiche
-      </p>
-      <p className="mt-1.5 leading-relaxed text-ink-2">{STATUS_TEXT[candidate.program.status]}</p>
-      <p className="mt-1.5 leading-relaxed text-ink-2">
-        <strong className="font-semibold text-ink">{plural(total, 'mesure relevée', 'mesures relevées')}</strong> sur {covered} des {themes.length}{' '}
-        thèmes, dont {s?.official ?? 0} tirée{(s?.official ?? 0) > 1 ? 's' : ''} du programme ou du site officiel.
-      </p>
+    <details className="group mt-4 rounded-xl border border-line bg-surface-2/40 px-4 py-2.5 text-sm">
+      <summary className="flex cursor-pointer list-none items-start gap-2 text-ink-2 [&::-webkit-details-marker]:hidden">
+        <FileSearch className="mt-0.5 size-4 shrink-0 text-muted" aria-hidden="true" />
+        <span className="min-w-0 flex-1">
+          <strong className="font-semibold text-ink">{plural(total, 'mesure relevée', 'mesures relevées')}</strong> sur {covered} des{' '}
+          {themes.length} thèmes, dont {s?.official ?? 0} tirée{(s?.official ?? 0) > 1 ? 's' : ''} du programme ou du site officiel.{' '}
+          <span className="whitespace-nowrap text-xs font-medium text-muted underline-offset-2 group-open:hidden hover:underline">D'où vient ce nombre ?</span>
+        </span>
+      </summary>
+      <p className="mt-2 leading-relaxed text-ink-2">{STATUS_TEXT[candidate.program.status]}</p>
       <p className="mt-1.5 text-xs leading-relaxed text-muted">
         Le nombre de mesures dépend de ce que le candidat a publié à ce jour : il ne juge ni la qualité ni le sérieux d'un programme.
       </p>
-    </div>
+    </details>
   )
 }
