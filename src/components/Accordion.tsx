@@ -9,16 +9,19 @@ export function Accordion({
   header,
   children,
   className,
+  anchor,
 }: {
   open: boolean
   onToggle: () => void
   header: ReactNode
   children: ReactNode
   className?: string
+  /** Identifiant de l'accordéon, pour y conduire depuis un lien ou un sommaire. */
+  anchor?: string
 }) {
   const id = useId()
   return (
-    <div className={cx('rounded-2xl border border-line bg-surface shadow-soft', className)}>
+    <div id={anchor} className={cx('scroll-mt-24 rounded-2xl border border-line bg-surface shadow-soft', className)}>
       <h3>
         <button
           type="button"

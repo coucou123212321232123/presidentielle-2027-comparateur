@@ -195,6 +195,11 @@ export default function CandidatePage() {
       else n.add(t)
       return n
     })
+  // Sommaire de la colonne latérale : ouvre le thème puis l'amène à l'écran.
+  const goToTheme = (t: ThemeId) => {
+    setOpen((s) => new Set(s).add(t))
+    window.setTimeout(() => document.getElementById(`theme-${t}`)?.scrollIntoView({ block: 'start' }), 60)
+  }
 
   return (
     <div>
@@ -356,6 +361,7 @@ export default function CandidatePage() {
                   return (
                     <Accordion
                       key={t.id}
+                      anchor={`theme-${t.id}`}
                       open={open.has(t.id)}
                       onToggle={() => toggle(t.id)}
                       header={
@@ -423,121 +429,144 @@ export default function CandidatePage() {
               )}
             </section>
           </div>
-          <Card className="overflow-hidden">
-            <h2 className="border-b border-line px-5 py-3 text-xs font-semibold uppercase tracking-[0.14em] text-muted">En bref</h2>
-            <SideSection icon={<Calculator className="size-4" />} title="Chiffrage du programme" hint={budgetLevel(candidate).label}>
-              <BudgetDetails candidate={candidate} />
-            </SideSection>
-            <SideSection icon={<ShieldCheck className="size-4" />} title="Déclarations d'intérêts et de patrimoine" hint={hatvpHint(candidate)}>
-              <TransparencyDetails candidate={candidate} />
-            </SideSection>
-            <SideSection
-              icon={<Briefcase className="size-4" />}
-              title="Fonctions"
-              hint={candidate.current_roles[0] ?? candidate.past_roles[0] ?? 'Aucune fonction recensée'}
-            >
-              {candidate.current_roles.length > 0 && (
-                <>
-                  <h3 className="mb-1 text-xs font-semibold uppercase tracking-wide text-muted">Actuelles</h3>
-                  <ul className="mb-3 list-disc space-y-1 pl-4 text-sm text-ink-2">
-                    {candidate.current_roles.map((r) => (
-                      <li key={r}>{r}</li>
-                    ))}
-                  </ul>
-                </>
-              )}
-              {candidate.past_roles.length > 0 && (
-                <>
-                  <h3 className="mb-1 text-xs font-semibold uppercase tracking-wide text-muted">Passées</h3>
-                  <ul className="list-disc space-y-1 pl-4 text-sm text-ink-2">
-                    {candidate.past_roles.map((r) => (
-                      <li key={r}>{r}</li>
-                    ))}
-                  </ul>
-                </>
-              )}
-            </SideSection>
-            {party && (
+          {/* Colonne qui suit le défilement : « En bref » puis le sommaire des thèmes. */}
+          <div className="space-y-4 scrollbar-thin lg:sticky lg:top-20 lg:max-h-[calc(100dvh-6rem)] lg:overflow-y-auto">
+            <Card className="overflow-hidden">
+              <h2 className="border-b border-line px-5 py-3 text-xs font-semibold uppercase tracking-[0.14em] text-muted">En bref</h2>
+              <SideSection icon={<Calculator className="size-4" />} title="Chiffrage du programme" hint={budgetLevel(candidate).label}>
+                <BudgetDetails candidate={candidate} />
+              </SideSection>
+              <SideSection icon={<ShieldCheck className="size-4" />} title="Déclarations d'intérêts et de patrimoine" hint={hatvpHint(candidate)}>
+                <TransparencyDetails candidate={candidate} />
+              </SideSection>
               <SideSection
-                icon={<Landmark className="size-4" />}
-                title="Son parti à l'Assemblée nationale"
-                hint={`Groupe ${[...new Set(Object.values(party.groups))].join(' puis ')}`}
+                icon={<Briefcase className="size-4" />}
+                title="Fonctions"
+                hint={candidate.current_roles[0] ?? candidate.past_roles[0] ?? 'Aucune fonction recensée'}
               >
-                <p className="text-sm leading-relaxed text-ink-2">
-                  Les députés de {party.party} siègent dans le groupe {[...new Set(Object.values(party.groups))].join(' puis ')}. Leurs votes sur
-                  les grands textes sont indiqués dans chaque thème, sous les mesures (« Voir les votes de son parti »).
-                </p>
-                <p className="mt-3 text-xs text-muted">
-                  <Link to="/votes" className="hover:text-ink hover:underline">
-                    Tous les grands textes votés
-                  </Link>{' '}
-                  · source : Assemblée nationale
-                </p>
+                {candidate.current_roles.length > 0 && (
+                  <>
+                    <h3 className="mb-1 text-xs font-semibold uppercase tracking-wide text-muted">Actuelles</h3>
+                    <ul className="mb-3 list-disc space-y-1 pl-4 text-sm text-ink-2">
+                      {candidate.current_roles.map((r) => (
+                        <li key={r}>{r}</li>
+                      ))}
+                    </ul>
+                  </>
+                )}
+                {candidate.past_roles.length > 0 && (
+                  <>
+                    <h3 className="mb-1 text-xs font-semibold uppercase tracking-wide text-muted">Passées</h3>
+                    <ul className="list-disc space-y-1 pl-4 text-sm text-ink-2">
+                      {candidate.past_roles.map((r) => (
+                        <li key={r}>{r}</li>
+                      ))}
+                    </ul>
+                  </>
+                )}
               </SideSection>
-            )}
-            {myVotes.length > 0 && (
-              <SideSection icon={<Vote className="size-4" />} title="Ses votes de député sur les grands textes" hint={plural(myVotes.length, 'vote', 'votes')}>
-                <div className="mb-3">
-                  <SourceTypeBadge type="vote_ou_bilan" />
-                </div>
-                <ul className="space-y-3 text-sm">
-                  {myVotes.slice(0, 6).map(({ s, vote }) => (
-                    <li key={s.id}>
-                      <Link to={`/votes/${s.id}`} className="block rounded-lg hover:bg-surface-2/60">
-                        <span className="block font-medium text-ink">{s.short_title}</span>
-                        <span className="mt-1 flex flex-wrap items-center gap-2 text-xs text-muted">
-                          <VoteBadge scrutin={s} vote={vote} />
-                          {formatShortDate(s.date)}
-                        </span>
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-                <p className="mt-3 text-xs text-muted">
-                  <Link to={`/votes?candidat=${candidate.id}`} className="hover:text-ink hover:underline">
-                    {myVotes.length > 6 ? `Voir ses ${myVotes.length} votes sur les grands textes` : 'Voir tous ses votes'}
-                  </Link>{' '}
-                  · source : Assemblée nationale
-                </p>
-              </SideSection>
-            )}
-            {candidate.key_people.length > 0 && (
-              <SideSection icon={<Users className="size-4" />} title="Équipe et porte-parole" hint={plural(candidate.key_people.length, 'personne', 'personnes')}>
-                <ul className="space-y-2 text-sm">
-                  {candidate.key_people.map((p) => (
-                    <li key={p.name + p.role}>
-                      <span className="font-medium text-ink">{p.name}</span>
-                      <span className="block text-muted">{p.role}</span>
-                    </li>
-                  ))}
-                </ul>
-              </SideSection>
-            )}
-            <SideSection
-              icon={<FileSearch className="size-4" />}
-              title="Sources de la fiche"
-              hint={`${plural(candidate.sources.length, 'source', 'sources')} · vérifiée le ${formatShortDate(candidate.last_verified)}`}
-            >
-              <ul className="space-y-1.5 text-sm">
-                {candidate.sources.map((s) => (
-                  <li key={s.url}>
-                    <ExternalLink href={s.url} className="text-accent hover:underline">
-                      {s.label}
-                    </ExternalLink>
-                  </li>
-                ))}
-              </ul>
-              <p className="mt-3 text-xs text-muted">Fiche vérifiée le {formatShortDate(candidate.last_verified)}</p>
-              {candidate.photo && (
-                <p className="mt-1 text-xs text-muted">
-                  Photo :{' '}
-                  <ExternalLink href={candidate.photo.commons_page} className="hover:text-ink" icon={false}>
-                    {candidate.photo.author ?? 'Wikimedia Commons'}, {candidate.photo.license}
-                  </ExternalLink>
-                </p>
+              {party && (
+                <SideSection
+                  icon={<Landmark className="size-4" />}
+                  title="Son parti à l'Assemblée nationale"
+                  hint={`Groupe ${[...new Set(Object.values(party.groups))].join(' puis ')}`}
+                >
+                  <p className="text-sm leading-relaxed text-ink-2">
+                    Les députés de {party.party} siègent dans le groupe {[...new Set(Object.values(party.groups))].join(' puis ')}. Leurs votes sur
+                    les grands textes sont indiqués dans chaque thème, sous les mesures (« Voir les votes de son parti »).
+                  </p>
+                  <p className="mt-3 text-xs text-muted">
+                    <Link to="/votes" className="hover:text-ink hover:underline">
+                      Tous les grands textes votés
+                    </Link>{' '}
+                    · source : Assemblée nationale
+                  </p>
+                </SideSection>
               )}
-            </SideSection>
-          </Card>
+              {myVotes.length > 0 && (
+                <SideSection icon={<Vote className="size-4" />} title="Ses votes de député sur les grands textes" hint={plural(myVotes.length, 'vote', 'votes')}>
+                  <div className="mb-3">
+                    <SourceTypeBadge type="vote_ou_bilan" />
+                  </div>
+                  <ul className="space-y-3 text-sm">
+                    {myVotes.slice(0, 6).map(({ s, vote }) => (
+                      <li key={s.id}>
+                        <Link to={`/votes/${s.id}`} className="block rounded-lg hover:bg-surface-2/60">
+                          <span className="block font-medium text-ink">{s.short_title}</span>
+                          <span className="mt-1 flex flex-wrap items-center gap-2 text-xs text-muted">
+                            <VoteBadge scrutin={s} vote={vote} />
+                            {formatShortDate(s.date)}
+                          </span>
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                  <p className="mt-3 text-xs text-muted">
+                    <Link to={`/votes?candidat=${candidate.id}`} className="hover:text-ink hover:underline">
+                      {myVotes.length > 6 ? `Voir ses ${myVotes.length} votes sur les grands textes` : 'Voir tous ses votes'}
+                    </Link>{' '}
+                    · source : Assemblée nationale
+                  </p>
+                </SideSection>
+              )}
+              {candidate.key_people.length > 0 && (
+                <SideSection icon={<Users className="size-4" />} title="Équipe et porte-parole" hint={plural(candidate.key_people.length, 'personne', 'personnes')}>
+                  <ul className="space-y-2 text-sm">
+                    {candidate.key_people.map((p) => (
+                      <li key={p.name + p.role}>
+                        <span className="font-medium text-ink">{p.name}</span>
+                        <span className="block text-muted">{p.role}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </SideSection>
+              )}
+              <SideSection
+                icon={<FileSearch className="size-4" />}
+                title="Sources de la fiche"
+                hint={`${plural(candidate.sources.length, 'source', 'sources')} · vérifiée le ${formatShortDate(candidate.last_verified)}`}
+              >
+                <ul className="space-y-1.5 text-sm">
+                  {candidate.sources.map((s) => (
+                    <li key={s.url}>
+                      <ExternalLink href={s.url} className="text-accent hover:underline">
+                        {s.label}
+                      </ExternalLink>
+                    </li>
+                  ))}
+                </ul>
+                <p className="mt-3 text-xs text-muted">Fiche vérifiée le {formatShortDate(candidate.last_verified)}</p>
+                {candidate.photo && (
+                  <p className="mt-1 text-xs text-muted">
+                    Photo :{' '}
+                    <ExternalLink href={candidate.photo.commons_page} className="hover:text-ink" icon={false}>
+                      {candidate.photo.author ?? 'Wikimedia Commons'}, {candidate.photo.license}
+                    </ExternalLink>
+                  </p>
+                )}
+              </SideSection>
+            </Card>
+            {covered.length > 0 && (
+              <Card className="p-4">
+                <h2 className="mb-2 px-1 text-xs font-semibold uppercase tracking-[0.14em] text-muted">Aller à un thème</h2>
+                <ul className="grid grid-cols-2 gap-1">
+                  {covered.map((t) => (
+                    <li key={t.id}>
+                      <button
+                        type="button"
+                        onClick={() => goToTheme(t.id)}
+                        className="flex w-full items-center gap-2 rounded-lg px-2 py-1.5 text-left text-sm text-ink-2 hover:bg-surface-2 hover:text-ink"
+                      >
+                        <ThemeIcon theme={t} className="size-3.5 shrink-0 text-muted" />
+                        <span className="min-w-0 flex-1 truncate">{t.short}</span>
+                        <span className="text-xs tabular-nums text-muted">{countFor(candidate.id, t.id)}</span>
+                      </button>
+                    </li>
+                  ))}
+                </ul>
+              </Card>
+            )}
+          </div>
         </div>
       </div>
     </div>
