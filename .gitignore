@@ -4,3 +4,4 @@ dist
 dist-electron
 release
 .cache
+.watch-cache/

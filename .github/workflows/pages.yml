@@ -5,6 +5,9 @@ name: Publication du site
 on:
   push:
     branches: [main]
+    # La veille quotidienne ne change rien au site.
+    paths-ignore:
+      - research/watch/**
   workflow_dispatch:
 
 permissions:

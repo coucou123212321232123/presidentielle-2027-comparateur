@@ -20,7 +20,8 @@
     "merge-vote-explanations": "tsx scripts/merge-vote-explanations.ts",
     "votes-candidates": "tsx scripts/votes-candidates.ts",
     "fetch-parrainages": "tsx scripts/fetch-parrainages.ts",
-    "fetch-speaking-time": "tsx scripts/fetch-speaking-time.ts"
+    "fetch-speaking-time": "tsx scripts/fetch-speaking-time.ts",
+    "watch-sources": "tsx scripts/watch-sources.ts"
   },
   "dependencies": {
     "@fontsource-variable/fraunces": "^5.3.0",

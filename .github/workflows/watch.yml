@@ -1,0 +1,58 @@
+# Veille des sites des candidats (sans IA) : chaque jour, repère les pages modifiées et les pages nouvelles,
+# et publie research/watch/changes.json. La routine hebdomadaire ne relit ensuite que ce qui a changé.
+# L'état de la veille (plusieurs Mo) est gardé dans le cache du workflow, pas dans le dépôt.
+name: Veille des sites des candidats
+
+on:
+  schedule:
+    - cron: '23 2 * * *'
+  push:
+    branches: [main]
+    paths:
+      - research/watch/last-review.txt
+      - scripts/watch-sources.ts
+      - .github/workflows/watch.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+        env:
+          ELECTRON_SKIP_BINARY_DOWNLOAD: '1'
+      - uses: actions/cache/restore@v4
+        with:
+          path: .watch-cache
+          key: watch-state-${{ github.run_id }}
+          restore-keys: watch-state-
+      - name: Veille
+        run: npm run watch-sources
+      - uses: actions/cache/save@v4
+        with:
+          path: .watch-cache
+          key: watch-state-${{ github.run_id }}
+      - name: Publier le rapport
+        run: |
+          # La date de génération change chaque jour : on ne publie que si le contenu du rapport a changé.
+          if git diff --quiet -I '"generated"' -- research/watch/changes.json && git ls-files --error-unmatch research/watch/changes.json >/dev/null 2>&1; then
+            echo "Aucun changement"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/watch/changes.json
+          git commit -m "Veille : pages des candidats modifiées ou nouvelles"
+          git pull --rebase origin main
+          git push
