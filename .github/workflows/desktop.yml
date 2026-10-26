@@ -12,6 +12,7 @@ on:
       - 'research/**'
       - 'link-report.md'
       - 'README.md'
+      - '.claude/**'
   workflow_dispatch:
 
 permissions:
