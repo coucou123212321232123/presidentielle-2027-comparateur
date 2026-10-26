@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { Children, Fragment, isValidElement, useEffect, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
 import { ArrowLeft, Calculator, ChevronDown, Columns3, Globe, Users, Target, Briefcase, History, FileSearch, Landmark, ShieldCheck, Vote } from 'lucide-react'
@@ -130,7 +130,7 @@ function ThemeVotes({ candidateId, theme }: { candidateId: string; theme: ThemeI
 
 function InfoCard({ icon, title, children }: { icon: React.ReactNode; title: string; children: React.ReactNode }) {
   return (
-    <Card className="h-full p-5">
+    <Card className="p-5">
       <h2 className="mb-3 flex items-center gap-2 text-sm font-semibold text-ink">
         <span className="text-muted">{icon}</span>
         {title}
@@ -140,20 +140,56 @@ function InfoCard({ icon, title, children }: { icon: React.ReactNode; title: str
   )
 }
 
-/** Section repliable de la carte « En bref » : titre et résumé d'une ligne, détail au clic. */
-function SideSection({ icon, title, hint, children }: { icon: React.ReactNode; title: string; hint: string; children: React.ReactNode }) {
+type BriefItem = { icon: React.ReactNode; title: string; hint: string; wide?: boolean; children: React.ReactNode }
+
+/** Sujet de la carte « En bref » : lu par BriefCard, ne s'affiche pas seul. `wide` : listes étalées sur toute la largeur, sinon texte de largeur limitée. */
+function SideSection(_: BriefItem) {
+  return null
+}
+
+/** Carte « En bref » : une tuile par sujet (titre et résumé d'une ligne) ; le détail s'ouvre sur toute la largeur, sous les tuiles. */
+function BriefCard({ children }: { children: React.ReactNode }) {
+  const items = Children.toArray(children).filter((c): c is React.ReactElement<BriefItem> => isValidElement(c))
+  const [openTitle, setOpenTitle] = useState<string | null>(null)
+  const current = items.find((it) => it.props.title === openTitle)
   return (
-    <details className="group border-b border-line last:border-0">
-      <summary className="flex cursor-pointer list-none items-center gap-3 px-5 py-3.5 hover:bg-surface-2/50 [&::-webkit-details-marker]:hidden">
-        <span className="text-muted">{icon}</span>
-        <span className="min-w-0 flex-1">
-          <span className="block text-sm font-semibold text-ink">{title}</span>
-          <span className="block truncate text-xs text-muted">{hint}</span>
-        </span>
-        <ChevronDown className="size-4 shrink-0 text-muted transition-transform group-open:rotate-180" aria-hidden="true" />
-      </summary>
-      <div className="px-5 pb-5 pt-1">{children}</div>
-    </details>
+    <Card className="overflow-hidden">
+      <h2 className="border-b border-line px-5 py-3 text-xs font-semibold uppercase tracking-[0.14em] text-muted">En bref</h2>
+      <div className="grid gap-2 p-3 sm:grid-cols-2 lg:grid-cols-4">
+        {items.map(({ props: it }) => {
+          const isOpen = it.title === openTitle
+          return (
+            <Fragment key={it.title}>
+              <button
+                type="button"
+                aria-expanded={isOpen}
+                aria-controls="en-bref-detail"
+                onClick={() => setOpenTitle(isOpen ? null : it.title)}
+                className={cx(
+                  'flex items-center gap-3 rounded-xl border px-3.5 py-3 text-left transition-colors',
+                  isOpen ? 'border-ink-2/40 bg-surface-2' : 'border-line hover:bg-surface-2/50',
+                )}
+              >
+                <span className="text-muted">{it.icon}</span>
+                <span className="min-w-0 flex-1">
+                  <span className="block text-sm font-semibold text-ink">{it.title}</span>
+                  <span className="block truncate text-xs text-muted">{it.hint}</span>
+                </span>
+                <ChevronDown className={cx('size-4 shrink-0 text-muted transition-transform', isOpen && 'rotate-180')} aria-hidden="true" />
+              </button>
+              {/* Sur téléphone (une seule colonne), le détail s'ouvre juste sous sa tuile. */}
+              {isOpen && <div className="px-2 pb-3 pt-1 sm:hidden">{it.children}</div>}
+            </Fragment>
+          )
+        })}
+      </div>
+      {current && (
+        <div id="en-bref-detail" className="hidden border-t border-line px-5 pb-5 pt-4 sm:block">
+          <h3 className="mb-3 text-sm font-semibold text-ink">{current.props.title}</h3>
+          <div className={cx(!current.props.wide && 'max-w-3xl')}>{current.props.children}</div>
+        </div>
+      )}
+    </Card>
   )
 }
 
@@ -270,161 +306,160 @@ export default function CandidatePage() {
         <ProgramBlock candidate={candidate} />
       </div>
 
-      {/* Parcours et « En bref » côte à côte, puis les mesures sur toute la largeur. */}
-      <div className="mb-12">
-        <div className="grid gap-4 lg:grid-cols-3">
-          <div className="min-w-0 lg:col-span-2">
-            <InfoCard icon={<History className="size-4" />} title="Parcours">
-              <p className="leading-relaxed text-ink-2">{candidate.bio_summary}</p>
-              {candidate.main_axes.length > 0 && (
-                <div className="mt-5 border-t border-line pt-4">
-                  <h3 className="mb-3 flex items-center gap-2 text-sm font-semibold text-ink">
-                    <Target className="size-4 text-muted" aria-hidden="true" /> Axes principaux du projet
-                  </h3>
-                  <ol className="space-y-2">
-                    {candidate.main_axes.map((a, i) => (
-                      <li key={a} className="flex gap-3 text-ink-2">
-                        <span
-                          className="flex size-6 shrink-0 items-center justify-center rounded-full text-xs font-bold"
-                          style={{ backgroundColor: `${candidate.color}1f`, color: candidate.color }}
-                        >
-                          {i + 1}
-                        </span>
-                        <span className="pt-0.5">{a}</span>
-                      </li>
-                    ))}
-                  </ol>
-                  {candidate.main_axes_source_url && (
-                    <p className="mt-3 text-xs text-muted">
-                      <ExternalLink href={candidate.main_axes_source_url} className="hover:text-ink">
-                        Source des axes
-                      </ExternalLink>
-                    </p>
-                  )}
-                </div>
-              )}
-            </InfoCard>
-          </div>
-          <div className="min-w-0">
-            <Card className="h-full overflow-hidden">
-              <h2 className="border-b border-line px-5 py-3 text-xs font-semibold uppercase tracking-[0.14em] text-muted">En bref</h2>
-              <SideSection icon={<Calculator className="size-4" />} title="Chiffrage du programme" hint={budgetLevel(candidate).label}>
-                <BudgetDetails candidate={candidate} />
-              </SideSection>
-              <SideSection icon={<ShieldCheck className="size-4" />} title="Déclarations d'intérêts et de patrimoine" hint={hatvpHint(candidate)}>
-                <TransparencyDetails candidate={candidate} />
-              </SideSection>
-              <SideSection
-                icon={<Briefcase className="size-4" />}
-                title="Fonctions"
-                hint={candidate.current_roles[0] ?? candidate.past_roles[0] ?? 'Aucune fonction recensée'}
-              >
-                {candidate.current_roles.length > 0 && (
-                  <>
-                    <h3 className="mb-1 text-xs font-semibold uppercase tracking-wide text-muted">Actuelles</h3>
-                    <ul className="mb-3 list-disc space-y-1 pl-4 text-sm text-ink-2">
-                      {candidate.current_roles.map((r) => (
-                        <li key={r}>{r}</li>
-                      ))}
-                    </ul>
-                  </>
-                )}
-                {candidate.past_roles.length > 0 && (
-                  <>
-                    <h3 className="mb-1 text-xs font-semibold uppercase tracking-wide text-muted">Passées</h3>
-                    <ul className="list-disc space-y-1 pl-4 text-sm text-ink-2">
-                      {candidate.past_roles.map((r) => (
-                        <li key={r}>{r}</li>
-                      ))}
-                    </ul>
-                  </>
-                )}
-              </SideSection>
-              {party && (
-                <SideSection
-                  icon={<Landmark className="size-4" />}
-                  title="Son parti à l'Assemblée nationale"
-                  hint={`Groupe ${[...new Set(Object.values(party.groups))].join(' puis ')}`}
-                >
-                  <p className="text-sm leading-relaxed text-ink-2">
-                    Les députés de {party.party} siègent dans le groupe {[...new Set(Object.values(party.groups))].join(' puis ')}. Leurs votes sur
-                    les grands textes sont indiqués dans chaque thème, sous les mesures (« Voir les votes de son parti »).
-                  </p>
-                  <p className="mt-3 text-xs text-muted">
-                    <Link to="/votes" className="hover:text-ink hover:underline">
-                      Tous les grands textes votés
-                    </Link>{' '}
-                    · source : Assemblée nationale
-                  </p>
-                </SideSection>
-              )}
-              {myVotes.length > 0 && (
-                <SideSection icon={<Vote className="size-4" />} title="Ses votes de député sur les grands textes" hint={plural(myVotes.length, 'vote', 'votes')}>
-                  <div className="mb-3">
-                    <SourceTypeBadge type="vote_ou_bilan" />
-                  </div>
-                  <ul className="space-y-3 text-sm">
-                    {myVotes.slice(0, 6).map(({ s, vote }) => (
-                      <li key={s.id}>
-                        <Link to={`/votes/${s.id}`} className="block rounded-lg hover:bg-surface-2/60">
-                          <span className="block font-medium text-ink">{s.short_title}</span>
-                          <span className="mt-1 flex flex-wrap items-center gap-2 text-xs text-muted">
-                            <VoteBadge scrutin={s} vote={vote} />
-                            {formatShortDate(s.date)}
-                          </span>
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                  <p className="mt-3 text-xs text-muted">
-                    <Link to={`/votes?candidat=${candidate.id}`} className="hover:text-ink hover:underline">
-                      {myVotes.length > 6 ? `Voir ses ${myVotes.length} votes sur les grands textes` : 'Voir tous ses votes'}
-                    </Link>{' '}
-                    · source : Assemblée nationale
-                  </p>
-                </SideSection>
-              )}
-              {candidate.key_people.length > 0 && (
-                <SideSection icon={<Users className="size-4" />} title="Équipe et porte-parole" hint={plural(candidate.key_people.length, 'personne', 'personnes')}>
-                  <ul className="space-y-2 text-sm">
-                    {candidate.key_people.map((p) => (
-                      <li key={p.name + p.role}>
-                        <span className="font-medium text-ink">{p.name}</span>
-                        <span className="block text-muted">{p.role}</span>
-                      </li>
-                    ))}
-                  </ul>
-                </SideSection>
-              )}
-              <SideSection
-                icon={<FileSearch className="size-4" />}
-                title="Sources de la fiche"
-                hint={`${plural(candidate.sources.length, 'source', 'sources')} · vérifiée le ${formatShortDate(candidate.last_verified)}`}
-              >
-                <ul className="space-y-1.5 text-sm">
-                  {candidate.sources.map((s) => (
-                    <li key={s.url}>
-                      <ExternalLink href={s.url} className="text-accent hover:underline">
-                        {s.label}
-                      </ExternalLink>
+      {/* Parcours, « En bref », puis les mesures : chaque bloc sur toute la largeur. */}
+      <div className="mb-12 space-y-4">
+        <InfoCard icon={<History className="size-4" />} title="Parcours">
+          <div className={cx(candidate.main_axes.length > 0 && 'lg:grid lg:grid-cols-2')}>
+            <p className="leading-relaxed text-ink-2 lg:pr-8">{candidate.bio_summary}</p>
+            {candidate.main_axes.length > 0 && (
+              <div className="mt-5 border-t border-line pt-4 lg:mt-0 lg:border-l lg:border-t-0 lg:pl-8 lg:pt-0">
+                <h3 className="mb-3 flex items-center gap-2 text-sm font-semibold text-ink">
+                  <Target className="size-4 text-muted" aria-hidden="true" /> Axes principaux du projet
+                </h3>
+                <ol className="space-y-2">
+                  {candidate.main_axes.map((a, i) => (
+                    <li key={a} className="flex gap-3 text-ink-2">
+                      <span
+                        className="flex size-6 shrink-0 items-center justify-center rounded-full text-xs font-bold"
+                        style={{ backgroundColor: `${candidate.color}1f`, color: candidate.color }}
+                      >
+                        {i + 1}
+                      </span>
+                      <span className="pt-0.5">{a}</span>
                     </li>
                   ))}
-                </ul>
-                <p className="mt-3 text-xs text-muted">Fiche vérifiée le {formatShortDate(candidate.last_verified)}</p>
-                {candidate.photo && (
-                  <p className="mt-1 text-xs text-muted">
-                    Photo :{' '}
-                    <ExternalLink href={candidate.photo.commons_page} className="hover:text-ink" icon={false}>
-                      {candidate.photo.author ?? 'Wikimedia Commons'}, {candidate.photo.license}
+                </ol>
+                {candidate.main_axes_source_url && (
+                  <p className="mt-3 text-xs text-muted">
+                    <ExternalLink href={candidate.main_axes_source_url} className="hover:text-ink">
+                      Source des axes
                     </ExternalLink>
                   </p>
                 )}
-              </SideSection>
-            </Card>
+              </div>
+            )}
           </div>
-        </div>
+        </InfoCard>
+        <BriefCard>
+          <SideSection icon={<Calculator className="size-4" />} title="Chiffrage du programme" hint={budgetLevel(candidate).label}>
+            <BudgetDetails candidate={candidate} />
+          </SideSection>
+          <SideSection icon={<ShieldCheck className="size-4" />} title="Déclarations d'intérêts et de patrimoine" hint={hatvpHint(candidate)}>
+            <TransparencyDetails candidate={candidate} />
+          </SideSection>
+          <SideSection
+            wide
+            icon={<Briefcase className="size-4" />}
+            title="Fonctions"
+            hint={candidate.current_roles[0] ?? candidate.past_roles[0] ?? 'Aucune fonction recensée'}
+          >
+            <div className="grid gap-x-10 gap-y-3 sm:grid-cols-2">
+              {candidate.current_roles.length > 0 && (
+                <div>
+                  <h3 className="mb-1 text-xs font-semibold uppercase tracking-wide text-muted">Actuelles</h3>
+                  <ul className="list-disc space-y-1 pl-4 text-sm text-ink-2">
+                    {candidate.current_roles.map((r) => (
+                      <li key={r}>{r}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              {candidate.past_roles.length > 0 && (
+                <div>
+                  <h3 className="mb-1 text-xs font-semibold uppercase tracking-wide text-muted">Passées</h3>
+                  <ul className="list-disc space-y-1 pl-4 text-sm text-ink-2">
+                    {candidate.past_roles.map((r) => (
+                      <li key={r}>{r}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </div>
+          </SideSection>
+          {party && (
+            <SideSection
+              icon={<Landmark className="size-4" />}
+              title="Son parti à l'Assemblée nationale"
+              hint={`Groupe ${[...new Set(Object.values(party.groups))].join(' puis ')}`}
+            >
+              <p className="text-sm leading-relaxed text-ink-2">
+                Les députés de {party.party} siègent dans le groupe {[...new Set(Object.values(party.groups))].join(' puis ')}. Leurs votes sur
+                les grands textes sont indiqués dans chaque thème, sous les mesures (« Voir les votes de son parti »).
+              </p>
+              <p className="mt-3 text-xs text-muted">
+                <Link to="/votes" className="hover:text-ink hover:underline">
+                  Tous les grands textes votés
+                </Link>{' '}
+                · source : Assemblée nationale
+              </p>
+            </SideSection>
+          )}
+          {myVotes.length > 0 && (
+            <SideSection wide icon={<Vote className="size-4" />} title="Ses votes de député sur les grands textes" hint={plural(myVotes.length, 'vote', 'votes')}>
+              <div className="mb-3">
+                <SourceTypeBadge type="vote_ou_bilan" />
+              </div>
+              <ul className="grid gap-x-8 gap-y-3 text-sm sm:grid-cols-2 lg:grid-cols-3">
+                {myVotes.slice(0, 6).map(({ s, vote }) => (
+                  <li key={s.id}>
+                    <Link to={`/votes/${s.id}`} className="block rounded-lg hover:bg-surface-2/60">
+                      <span className="block font-medium text-ink">{s.short_title}</span>
+                      <span className="mt-1 flex flex-wrap items-center gap-2 text-xs text-muted">
+                        <VoteBadge scrutin={s} vote={vote} />
+                        {formatShortDate(s.date)}
+                      </span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+              <p className="mt-3 text-xs text-muted">
+                <Link to={`/votes?candidat=${candidate.id}`} className="hover:text-ink hover:underline">
+                  {myVotes.length > 6 ? `Voir ses ${myVotes.length} votes sur les grands textes` : 'Voir tous ses votes'}
+                </Link>{' '}
+                · source : Assemblée nationale
+              </p>
+            </SideSection>
+          )}
+          {candidate.key_people.length > 0 && (
+            <SideSection wide icon={<Users className="size-4" />} title="Équipe et porte-parole" hint={plural(candidate.key_people.length, 'personne', 'personnes')}>
+              <ul className="grid gap-x-8 gap-y-2 text-sm sm:grid-cols-2 lg:grid-cols-3">
+                {candidate.key_people.map((p) => (
+                  <li key={p.name + p.role}>
+                    <span className="font-medium text-ink">{p.name}</span>
+                    <span className="block text-muted">{p.role}</span>
+                  </li>
+                ))}
+              </ul>
+            </SideSection>
+          )}
+          <SideSection
+            wide
+            icon={<FileSearch className="size-4" />}
+            title="Sources de la fiche"
+            hint={`${plural(candidate.sources.length, 'source', 'sources')} · vérifiée le ${formatShortDate(candidate.last_verified)}`}
+          >
+            <ul className="grid gap-x-8 gap-y-1.5 text-sm sm:grid-cols-2">
+              {candidate.sources.map((s) => (
+                <li key={s.url}>
+                  <ExternalLink href={s.url} className="text-accent hover:underline">
+                    {s.label}
+                  </ExternalLink>
+                </li>
+              ))}
+            </ul>
+            <p className="mt-3 text-xs text-muted">Fiche vérifiée le {formatShortDate(candidate.last_verified)}</p>
+            {candidate.photo && (
+              <p className="mt-1 text-xs text-muted">
+                Photo :{' '}
+                <ExternalLink href={candidate.photo.commons_page} className="hover:text-ink" icon={false}>
+                  {candidate.photo.author ?? 'Wikimedia Commons'}, {candidate.photo.license}
+                </ExternalLink>
+              </p>
+            )}
+          </SideSection>
+        </BriefCard>
         {/* Programme par thème */}
-        <section aria-labelledby="mesures" className="mt-10">
+        <section aria-labelledby="mesures" className="mt-6">
           <div className="mb-5 flex flex-wrap items-end justify-between gap-3">
             <div>
               <h2 id="mesures" className="font-display text-2xl font-semibold text-ink">
