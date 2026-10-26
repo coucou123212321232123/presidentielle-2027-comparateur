@@ -290,21 +290,24 @@ function VotesList() {
               {f.label}
             </Chip>
           ))}
-          <label className="flex items-center gap-2 text-sm text-muted sm:ml-auto">
-            Vote de
-            <select
-              value={candidate}
-              onChange={(e) => set('candidat', e.target.value)}
-              className="rounded-full border border-line bg-surface px-3 py-1.5 text-sm text-ink"
+        </div>
+        <div role="group" aria-label="Vote de" className="flex flex-wrap items-center gap-2">
+          <span className="mr-1 text-sm text-muted">Vote de</span>
+          <Chip active={!candidate} onClick={() => set('candidat', '')} className="text-xs">
+            Tous les députés
+          </Chip>
+          {deputies.map((c) => (
+            <Chip
+              key={c.id}
+              active={candidate === c.id}
+              color={c.color}
+              onClick={() => set('candidat', candidate === c.id ? '' : c.id)}
+              className="py-1 pl-1 text-xs"
             >
-              <option value="">tous les députés</option>
-              {deputies.map((c) => (
-                <option key={c.id} value={c.id}>
-                  {fullName(c)}
-                </option>
-              ))}
-            </select>
-          </label>
+              <CandidateAvatar candidate={c} size="sm" className="size-6! text-[10px]!" decorative />
+              <span title={fullName(c)}>{c.last_name}</span>
+            </Chip>
+          ))}
         </div>
         <p className="flex items-start gap-1.5 text-xs text-muted">
           <Info className="mt-0.5 size-3.5 shrink-0" aria-hidden="true" />
