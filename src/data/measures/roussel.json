@@ -38,6 +38,11 @@
     "source_date": "2026-07-15",
     "source_page": "p. 11",
     "precision": "chiffre",
+    "cost": {
+      "label": "Fonds de 500 Md€",
+      "source_label": "Fabien Roussel – Discours de clôture du 40e congrès du PCF (CommunisteS n° 1095, vol. 2)",
+      "source_url": "https://assets.nationbuilder.com/pcf/pages/42499/attachments/original/1784128307/document_1095_CommunisteS_40e_Congre%CC%80s.pdf#page=11"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -108,6 +113,11 @@
     "source_date": "2025-12-18",
     "source_page": "p. 37",
     "precision": "chiffre",
+    "cost": {
+      "label": "59 Md€ de recettes la première année selon le PCF",
+      "source_label": "PCF – Les cahiers thématiques des jours heureux : Sécurité sociale",
+      "source_url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf#page=37"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -331,6 +341,11 @@
     "source_date": "2025-12-18",
     "source_page": "p. 11",
     "precision": "chiffre",
+    "cost": {
+      "label": "10 Md€ par an",
+      "source_label": "PCF – Les cahiers thématiques des jours heureux : Mobilité",
+      "source_url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf#page=11"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -345,6 +360,11 @@
     "source_date": "2025-12-18",
     "source_page": "p. 13-14",
     "precision": "chiffre",
+    "cost": {
+      "label": "Plan de 4 Md€ pour le fret et 10 Md€ d'investissement dans les ports",
+      "source_label": "PCF – Les cahiers thématiques des jours heureux : Mobilité",
+      "source_url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf#page=13"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -443,6 +463,11 @@
     "source_date": "2025-12-18",
     "source_page": "p. 16",
     "precision": "chiffre",
+    "cost": {
+      "label": "15 Md€ par an",
+      "source_label": "PCF – Les cahiers thématiques des jours heureux : Logement",
+      "source_url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf#page=16"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -503,6 +528,11 @@
     "source_date": "2025-12-18",
     "source_page": "p. 26",
     "precision": "chiffre",
+    "cost": {
+      "label": "20 Md€ par an (budget de l'ANAH)",
+      "source_label": "PCF – Les cahiers thématiques des jours heureux : Logement",
+      "source_url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf#page=26"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -634,6 +664,11 @@
     "source_date": "2026-10-06",
     "source_page": "p. 5",
     "precision": "chiffre",
+    "cost": {
+      "label": "5 Md€ d'urgence, puis 5 Md€ par an de prêts à taux zéro pendant cinq ans",
+      "source_label": "Fabien Roussel – Plan « Jeunesse 2027-2032 » (document de campagne, fabienroussel2027.fr)",
+      "source_url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf#page=5"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },

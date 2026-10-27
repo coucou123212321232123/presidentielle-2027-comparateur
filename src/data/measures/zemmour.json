@@ -10,7 +10,11 @@
     "source_date": "2026-05-19",
     "source_page": null,
     "precision": "chiffre",
-    "cost": null,
+    "cost": {
+      "label": "100 Md€ d'économies par an",
+      "source_label": "CNews – Ce qu'il faut retenir de l'interview d'Éric Zemmour sur CNEWS (19 mai 2026)",
+      "source_url": "https://www.cnews.fr/france/2026-05-19/immigration-negative-erreur-de-la-binationalite-rassemblement-national-ce-quil"
+    },
     "indicator": null,
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
@@ -26,7 +30,11 @@
     "source_date": "2025-11-13",
     "source_page": "p. 2",
     "precision": "chiffre",
-    "cost": null,
+    "cost": {
+      "label": "80 Md€ d'économies",
+      "source_label": "Reconquête – Tract « Dépenser moins, pour taxer moins, pour gagner plus ! »",
+      "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2"
+    },
     "indicator": null,
     "last_verified": "2026-10-15",
     "added": "2026-10-15"

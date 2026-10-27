@@ -10,6 +10,11 @@
     "source_date": "2026-08-19",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "20 Md€ d'économies par an pendant cinq ans",
+      "source_label": "L'Opinion – « Présidentielle 2027 : Xavier Bertrand, un non candidat en campagne » (reproduit sur nousfrance.fr)",
+      "source_url": "https://www.nousfrance.fr/2026/08/presidentielle-2027-xavier-bertrand-un-non-candidat-en-campagne-lopinion/"
+    },
     "indicator": {
       "key": "effectifs_fonction_publique",
       "value": "baisse"

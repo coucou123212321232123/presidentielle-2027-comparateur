@@ -144,6 +144,11 @@
     "source_date": "2026-10-10",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "5 Md€ (taxe sur les données) et 10 Md€ (multinationales) de recettes au bout de cinq ans",
+      "source_label": "Projet de Debout la France – Économie",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -330,6 +335,11 @@
     "source_date": "2026-10-10",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "12 Md€ d'économies selon le parti",
+      "source_label": "Projet de Debout la France – Économie",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/"
+    },
     "indicator": {
       "key": "renouvelables",
       "value": "arret"
@@ -809,6 +819,11 @@
     "source_date": "2026-10-12",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "Budget de la justice porté de 10,1 à 15 Md€",
+      "source_label": "Projet de Debout la France – Justice",
+      "source_url": "https://www.debout-la-france.fr/projet/justice/"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1257,6 +1272,11 @@
     "source_date": "2024-02-05",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "400 M€ par an",
+      "source_label": "Projet de Debout la France – Culture et patrimoine",
+      "source_url": "https://www.debout-la-france.fr/projet/culture-patrimoine/"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },

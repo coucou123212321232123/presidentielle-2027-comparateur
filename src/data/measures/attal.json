@@ -103,6 +103,11 @@
     "source_date": "2026-07-03",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "5 Md€ d'économies annoncées",
+      "source_label": "Dans Le Parisien, Gabriel Attal vise le zéro déficit en 2037 (site de campagne)",
+      "source_url": "https://attalpresident.fr/actualites/dans-le-parisien-gabriel-attal-vise-le-zero-deficit-en-2037"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -842,6 +847,11 @@
     "source_date": "2026-06-25",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "160 M€ par an de subventions (fonds doublé, par redéploiement de crédits)",
+      "source_label": "Face aux canicules, Gabriel Attal veut faire de la géoénergie le grand projet énergétique de la France (site de campagne)",
+      "source_url": "https://attalpresident.fr/actualites/face-aux-canicules-gabriel-attal-veut-faire-de-la-geoenergie-le-grand-projet-energetique-de-la-france-du-xxie-siecle"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },

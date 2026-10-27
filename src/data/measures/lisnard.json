@@ -10,7 +10,11 @@
     "source_date": "2026-10-03",
     "source_page": null,
     "precision": "chiffre",
-    "cost": null,
+    "cost": {
+      "label": "80 Md€ d'économies la première année, au moins 200 Md€ en trajectoire",
+      "source_label": "Nouvelle Énergie – Quelles économies propose David Lisnard ?",
+      "source_url": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/"
+    },
     "indicator": null,
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
@@ -26,7 +30,11 @@
     "source_date": "2026-10-03",
     "source_page": null,
     "precision": "chiffre",
-    "cost": null,
+    "cost": {
+      "label": "120 Md€ de baisse des cotisations",
+      "source_label": "Nouvelle Énergie – Que ferait David Lisnard des 200 milliards d'économies annoncés ?",
+      "source_url": "https://www.unenouvelleenergie.fr/questions/que-ferait-david-lisnard-des-200-milliards-d-economies/"
+    },
     "indicator": null,
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
@@ -86,6 +94,11 @@
     "source_date": "2026-10-15",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "Écart de dépense publique chiffré à 350 Md€ par le candidat",
+      "source_label": "Entretien au JDNews, reproduit sur le site de Nouvelle Énergie – « Redresser la France ne se résume pas à un slogan »",
+      "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/"
+    },
     "last_verified": "2026-10-19",
     "added": "2026-10-19"
   },
@@ -100,7 +113,11 @@
     "source_date": "2026-10-03",
     "source_page": null,
     "precision": "chiffre",
-    "cost": null,
+    "cost": {
+      "label": "40 Md€ de baisse des impôts de production",
+      "source_label": "Nouvelle Énergie – David Lisnard veut-il baisser les impôts ?",
+      "source_url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-veut-il-baisser-les-impots/"
+    },
     "indicator": null,
     "last_verified": "2026-10-16",
     "added": "2026-10-15"

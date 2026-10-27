@@ -493,6 +493,11 @@
     "source_date": "2026-07",
     "source_page": "p. 27",
     "precision": "chiffre",
+    "cost": {
+      "label": "7 Md€ par an d'ici 2032",
+      "source_label": "Pour une prospérité écologique – Le nouveau programme des Écologistes (juillet 2026)",
+      "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=27"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -879,6 +884,11 @@
     "source_date": "2026-08-31",
     "source_page": "p. 12",
     "precision": "chiffre",
+    "cost": {
+      "label": "2 Md€ par an",
+      "source_label": "Les Écologistes – Dossier de presse « Éducation nationale : état d'urgence pédagogique, état d'urgence écologique » (31 août 2026)",
+      "source_url": "https://marinetondelier.fr/s/dossierpresse-rentree.pdf#page=12"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1649,6 +1659,11 @@
     "source_date": "2026-07",
     "source_page": "p. 133-134",
     "precision": "chiffre",
+    "cost": {
+      "label": "3 Md€",
+      "source_label": "Les Écologistes – « Pour une prospérité écologique », programme (juillet 2026)",
+      "source_url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf#page=133"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },

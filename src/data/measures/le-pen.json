@@ -48,6 +48,11 @@
     "source_date": "2026-10-06",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "140 Md€ d'économies nettes en 2032 et baisse nette des impôts de 30 Md€ sur le quinquennat",
+      "source_label": "Europe 1 – Ce qu'il faut retenir du discours de Marine Le Pen qui a présenté le contre-budget 2027 du RN",
+      "source_url": "https://www.europe1.fr/politique/budget-2027-marine-le-pen-promet-140-milliards-deuros-nets-deconomies-dici-2032-pour-eviter-a-la-france-le-defaut-de-paiement-1126400"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -533,6 +538,11 @@
     "source_date": "2026-07-01",
     "source_page": "p. 6",
     "precision": "chiffre",
+    "cost": {
+      "label": "Encours maximal de 20 Md€ de prêts à taux zéro",
+      "source_label": "Plan Clim' – présentation du dispositif (groupe RN à l'Assemblée nationale, juillet 2026)",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/07/GRN-DOSSIER-PLAN-CLIM.pdf#page=6"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1024,6 +1034,11 @@
     "source_date": "2026-10-06",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "≈ 15 Md€ d'économies attendues dès la première année",
+      "source_label": "Reuters (via Boursorama) – Marine Le Pen veut ramener le déficit budgétaire à 3 % d'ici 2030",
+      "source_url": "https://www.boursorama.com/actualite-economique/actualites/marine-le-pen-veut-ramener-le-deficit-budgetaire-a-3-d-ici-2030-e234d02e0ea563e2766ea6142c4a1bdc"
+    },
     "indicator": {
       "key": "referendum_immigration",
       "value": "oui"
@@ -1218,6 +1233,11 @@
     "source_date": "2026-10-06",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "Contribution au budget de l'UE ramenée à 5 Md€",
+      "source_label": "Reuters (via Boursorama) – Marine Le Pen veut ramener le déficit budgétaire à 3 % d'ici 2030",
+      "source_url": "https://www.boursorama.com/actualite-economique/actualites/marine-le-pen-veut-ramener-le-deficit-budgetaire-a-3-d-ici-2030-e234d02e0ea563e2766ea6142c4a1bdc"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },

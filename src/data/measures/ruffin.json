@@ -98,6 +98,11 @@
     "source_date": "2026-09-24",
     "source_page": "page PDF 31",
     "precision": "chiffre",
+    "cost": {
+      "label": "Au moins 3 Md€ de recettes par an",
+      "source_label": "Cahier de campagne n°6 – Face à la crise du logement : faire sauter le verrou",
+      "source_url": "https://nouspresident.fr/wp-content/uploads/2026/09/CC_Logement.pdf#page=31"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -330,6 +335,11 @@
     "source_date": "2026-10-12",
     "source_page": "p. 15",
     "precision": "chiffre",
+    "cost": {
+      "label": "Fonds Barnier porté de 300 M€ à 1 Md€ en 2027",
+      "source_label": "Plan d'action « Urgence climat » (campagne Ruffin 2027)",
+      "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf#page=15"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -661,6 +671,11 @@
     "source_date": "2026-07-02",
     "source_page": "page PDF 36",
     "precision": "chiffre",
+    "cost": {
+      "label": "20 M€ d'économies sur le budget de l'Élysée",
+      "source_label": "Cahier de campagne n°2 – Pour une loi de séparation de l'argent et de l'État",
+      "source_url": "https://nouspresident.fr/wp-content/uploads/2026/07/Debout-Livret-Probite-Web-1.pdf#page=36"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },

@@ -10,6 +10,11 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "Transfert de plus de 200 Md€ de cotisations vers une CSG universelle",
+      "source_label": "La France humaniste – « Projet économique : 20 propositions pour 2027 » (Projet France 2027)",
+      "source_url": "https://lafrancehumaniste.fr/programme/economie.html"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -38,6 +43,11 @@
     "source_date": "2026-08-28",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "Niches d'environ 175 Md€ par an supprimées par paliers sur cinq ans",
+      "source_label": "Big Bang : la règle républicaine (La France humaniste)",
+      "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -196,6 +206,11 @@
     "source_date": "2026-08-28",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "≈ 9 Md€ de recettes environnementales",
+      "source_label": "Big Bang : la règle républicaine (La France humaniste)",
+      "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -764,6 +779,11 @@
     "source_date": "2026-08-21",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "Plus de 120 Md€ d'effort budgétaire d'ici 2031",
+      "source_label": "« La dette c’est la défaite : choisir le sursaut », chronique de Dominique de Villepin (site de La France humaniste)",
+      "source_url": "https://lafrancehumaniste.fr/articles/la-dette-cest-la-defaite.html"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -858,6 +878,11 @@
     "source_date": "2026-06-23",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "1,4 Md€ par an (rénovation thermique des écoles)",
+      "source_label": "« Canicule : Et nos villes continuent de brûler... », chronique de Dominique de Villepin (site de La France humaniste)",
+      "source_url": "https://lafrancehumaniste.fr/articles/canicule-et-nos-villes.html"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },

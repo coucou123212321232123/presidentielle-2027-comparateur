@@ -136,9 +136,16 @@ export default function MethodologyPage() {
           Assemblée nationale. Chaque chiffre indique sa source et sa date ; ils sont mis à jour lors des vérifications hebdomadaires.
         </p>
         <p>
-          La rubrique « Combien ça coûte ? » de la page Programmes reprend le chiffrage d'ensemble annoncé par chaque candidat (économies,
-          recettes, déficit visé), sans le vérifier. Les évaluations d'organismes indépendants y seront ajoutées à leur parution, en citant
-          plusieurs organismes de sensibilités différentes.
+          La page{' '}
+          <Link to="/chiffrages" className="text-accent hover:underline">
+            Combien ça coûte ?
+          </Link>{' '}
+          reprend le chiffrage d'ensemble annoncé par chaque candidat, sans le vérifier, dans une grille identique pour tous (économies,
+          recettes nouvelles, dépenses nouvelles, baisses d'impôts ou de cotisations, déficit et dette visés) : « Non précisé » signifie
+          qu'aucun chiffre n'a été annoncé. Elle liste aussi les montants donnés mesure par mesure, tels que la source les annonce ; certains
+          candidats en publient plus que d'autres, et l'absence de montant ne veut pas dire qu'une mesure ne coûte rien. Des repères officiels
+          (déficit, dette, prélèvements obligatoires, PIB, d'après l'Insee) aident à lire ces montants. Les évaluations d'organismes
+          indépendants y sont ajoutées à leur annonce et à leur parution, en citant plusieurs organismes de sensibilités différentes.
         </p>
       </Section>
 

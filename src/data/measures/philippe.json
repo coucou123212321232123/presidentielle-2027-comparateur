@@ -38,6 +38,11 @@
     "source_date": null,
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "50 Md€ de baisse des impôts de production, contre 50 Md€ d'aides aux entreprises en moins",
+      "source_label": "Pour une France plus prospère – site de campagne Avec Édouard 2027",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -191,6 +196,11 @@
     "source_date": "2026-10-14",
     "source_page": null,
     "precision": "chiffre",
+    "cost": {
+      "label": "2 Md€ par an",
+      "source_label": "Pour une France plus conquérante – site de campagne Avec Édouard 2027",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },

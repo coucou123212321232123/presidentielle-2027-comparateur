@@ -3,6 +3,7 @@
   "themes": {
     "economie": [
       { "label": "Dette publique", "value": "119,0 % du PIB", "detail": "3 595,5 Md€ fin juin 2026.", "date": "2026-09-29", "source_label": "Insee – Dette trimestrielle de Maastricht, 2e trimestre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9053525" },
+      { "label": "PIB (richesse produite en 2025)", "value": "2 991,1 Md€", "detail": "Produit intérieur brut en valeur : 1 % du PIB représente donc environ 30 Md€.", "date": "2026-05-29", "source_label": "Insee Première n° 2105 – Les comptes de la Nation en 2025", "source_url": "https://www.insee.fr/fr/statistiques/8996855" },
       { "label": "Inflation sur un an", "value": "3,1 %", "detail": "Septembre 2026, tirée par l'énergie (+21,3 % sur un an).", "date": "2026-10-15", "source_label": "Insee – Indice des prix à la consommation, septembre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9080209" },
       { "label": "SMIC net mensuel", "value": "1 477,93 €", "detail": "Pour 35 heures par semaine, depuis la revalorisation du 1er juin 2026 (montant net estimé).", "date": "2026-06-01", "source_label": "info.gouv.fr – Le SMIC revalorisé le 1er juin 2026", "source_url": "https://www.info.gouv.fr/index.php/actualite/le-smic-revalorise-le-1er-juin-2026" }
     ],

@@ -30,6 +30,15 @@ const measures: Record<string, Measure[]> = Object.fromEntries(
 )
 const glossary = read<GlossaryEntry[]>('glossary.json')
 const budgets = read<Budgets>('budgets.json')
+/** Grille commune de la page Chiffrages (même ordre que dans l'application). */
+const BUDGET_GRID: [string, string][] = [
+  ['economies', 'Économies'],
+  ['recettes', 'Recettes nouvelles'],
+  ['depenses', 'Dépenses nouvelles'],
+  ['baisse_prelevements', "Baisses d'impôts ou de cotisations"],
+  ['deficit', 'Déficit visé'],
+  ['dette', 'Dette visée'],
+]
 const siteMeta = read<{ last_updated: string; election: { first_round: string; second_round: string } }>('meta.json')
 const template = readFileSync(join(DIST, 'index.html'), 'utf8')
 
@@ -208,14 +217,26 @@ page(
   },
   `<h1>Combien ça coûte ? Les chiffrages des programmes de la présidentielle 2027</h1>
 <p>Les chiffrages d'ensemble annoncés par les candidats eux-mêmes, tels qu'ils les présentent : ils ne sont pas vérifiés et reposent sur leurs propres hypothèses. Vérifié au ${shortDate(budgets.checked)}.</p>
-<ul>${candidates
+${candidates
     .map((c) => {
       const b = budgets.candidates[c.id]
-      if (!b || b.level === 'aucun') return `<li>${link(`candidats/${c.id}/`, name(c))} : pas de chiffrage d'ensemble publié à notre connaissance.</li>`
-      const figures = b.figures.map((f) => `${esc(f.label)} : ${esc(f.value)}`).join(' · ')
-      return `<li>${link(`candidats/${c.id}/`, name(c))} (${b.level === 'global' ? "chiffrage d'ensemble" : 'chiffrage partiel'}) — ${esc(b.summary)} ${figures}. <small>Source : ${ext(b.source_url, b.source_label)}</small></li>`
+      const figures = b && b.level !== 'aucun' ? b.figures : []
+      const grid = BUDGET_GRID.map(([kind, label]) => {
+        const values = figures.filter((f) => f.kind === kind).map((f) => (f.label === label ? f.value : `${f.label} : ${f.value}`))
+        return `<li>${esc(label)} : ${values.length ? esc(values.join(' ; ')) : 'non précisé'}</li>`
+      }).join('')
+      const others = figures.filter((f) => f.kind === 'autre').map((f) => `<li>${esc(f.label)} : ${esc(f.value)}</li>`).join('')
+      const intro =
+        b && b.level !== 'aucun'
+          ? `<p>${b.level === 'global' ? "Chiffrage d'ensemble" : 'Chiffrage partiel'} : ${esc(b.summary)} <small>Source : ${ext(b.source_url, b.source_label)}</small></p>`
+          : "<p>Pas de chiffrage d'ensemble publié à notre connaissance.</p>"
+      const costed = measuresOf(c).filter((m) => m.cost)
+      const list = costed.length
+        ? `<h3>Montants annoncés mesure par mesure (${costed.length})</h3><ul>${costed.map((m) => `<li>${esc(m.title)} : ${esc(m.cost!.label)}</li>`).join('')}</ul>`
+        : ''
+      return `<h2>${link(`candidats/${c.id}/`, name(c))}</h2>${intro}<ul>${grid}${others}</ul>${list}`
     })
-    .join('')}</ul>
+    .join('')}
 <h2>Évaluations indépendantes</h2><p>${esc(budgets.independent.note)}</p>`,
 )
 page(

@@ -401,6 +401,8 @@ export const ContextSchema = z.object({
 })
 
 /** Chiffrage d'ensemble publié par chaque candidat, et évaluations indépendantes (src/data/budgets.json). */
+export const BudgetKindSchema = z.enum(['economies', 'recettes', 'depenses', 'baisse_prelevements', 'deficit', 'dette', 'autre'])
+
 export const BudgetsSchema = z.object({
   checked: isoDate,
   candidates: z.record(
@@ -411,7 +413,8 @@ export const BudgetsSchema = z.object({
         /** global : économies ou recettes et dépenses chiffrées avec une trajectoire ; partiel : un ou deux objectifs chiffrés. */
         level: z.enum(['global', 'partiel']),
         summary: z.string().min(1),
-        figures: z.array(z.object({ label: z.string().min(1), value: z.string().min(1) })).min(1),
+        /** `kind` place chaque chiffre dans la grille commune de la page Chiffrages (« autre » s'il n'entre dans aucune case). */
+        figures: z.array(z.object({ label: z.string().min(1), value: z.string().min(1), kind: BudgetKindSchema })).min(1),
         source_label: z.string().min(1),
         source_url: httpUrl,
         source_date: isoDate.nullable(),
@@ -431,6 +434,10 @@ export const BudgetsSchema = z.object({
         source_url: httpUrl,
       }),
     ),
+    /** Chiffrages indépendants des élections précédentes, pour savoir à quoi s'attendre. */
+    precedents: z
+      .array(z.object({ org: z.string().min(1), label: z.string().min(1), when: z.string().min(1), source_label: z.string().min(1), source_url: httpUrl }))
+      .optional(),
   }),
 })
 
@@ -520,6 +527,7 @@ export type Context = z.infer<typeof ContextSchema>
 export type ContextFigure = Context['themes'][ThemeId][number]
 export type Budgets = z.infer<typeof BudgetsSchema>
 export type CandidateBudget = Budgets['candidates'][string]
+export type BudgetKind = z.infer<typeof BudgetKindSchema>
 export type Hatvp = z.infer<typeof HatvpSchema>
 export type Results = z.infer<typeof ResultsSchema>
 export type RoundResult = Results['rounds'][number]

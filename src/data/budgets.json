@@ -1,14 +1,28 @@
 {
-  "checked": "2026-10-25",
+  "checked": "2026-10-27",
   "candidates": {
-    "arthaud": { "level": "aucun" },
+    "arthaud": {
+      "level": "aucun"
+    },
     "attal": {
       "level": "global",
       "summary": "Frein d'urgence de 20 Md€ d'économies dès l'élection, puis 150 Md€ d'économies sur le quinquennat, aux deux tiers sur les dépenses sociales.",
       "figures": [
-        { "label": "Économies", "value": "150 Md€ sur le quinquennat" },
-        { "label": "Déficit visé", "value": "sous 3 % du PIB avant 2032" },
-        { "label": "Équilibre budgétaire", "value": "2037" }
+        {
+          "label": "Économies",
+          "value": "150 Md€ sur le quinquennat",
+          "kind": "economies"
+        },
+        {
+          "label": "Déficit visé",
+          "value": "sous 3 % du PIB avant 2032",
+          "kind": "deficit"
+        },
+        {
+          "label": "Équilibre budgétaire",
+          "value": "2037",
+          "kind": "deficit"
+        }
       ],
       "source_label": "Lettre de Gabriel Attal aux Français sur les finances publiques (PDF de campagne)",
       "source_url": "https://doc.parti.re/2026/Lettre-finances-publiques.pdf#page=1",
@@ -18,22 +32,48 @@
     "bertrand": {
       "level": "partiel",
       "summary": "Baisse des dépenses publiques de 20 Md€ par an pendant cinq ans, sans impôt nouveau, annoncée dans la presse.",
-      "figures": [{ "label": "Économies", "value": "20 Md€ par an pendant 5 ans" }],
+      "figures": [
+        {
+          "label": "Économies",
+          "value": "20 Md€ par an pendant 5 ans",
+          "kind": "economies"
+        }
+      ],
       "source_label": "L'Opinion – « Xavier Bertrand, un non candidat en campagne » (reproduit sur nousfrance.fr)",
       "source_url": "https://www.nousfrance.fr/2026/08/presidentielle-2027-xavier-bertrand-un-non-candidat-en-campagne-lopinion/",
       "source_date": "2026-08-19",
       "source_type": "declaration"
     },
-    "dupont-aignan": { "level": "aucun" },
-    "glucksmann": { "level": "aucun" },
+    "dupont-aignan": {
+      "level": "aucun"
+    },
+    "glucksmann": {
+      "level": "aucun"
+    },
     "le-pen": {
       "level": "global",
       "summary": "Contre-budget 2027 du RN : 140 Md€ d'économies nettes en 2032 par rapport à 2026 et une baisse nette des impôts de 30 Md€ sur le quinquennat.",
       "figures": [
-        { "label": "Économies", "value": "140 Md€ nets en 2032" },
-        { "label": "Baisse d'impôts", "value": "30 Md€ nets sur le quinquennat" },
-        { "label": "Déficit visé", "value": "sous 3 % du PIB en 2030" },
-        { "label": "Dette visée", "value": "112 % du PIB en 2032" }
+        {
+          "label": "Économies",
+          "value": "140 Md€ nets en 2032",
+          "kind": "economies"
+        },
+        {
+          "label": "Baisse d'impôts",
+          "value": "30 Md€ nets sur le quinquennat",
+          "kind": "baisse_prelevements"
+        },
+        {
+          "label": "Déficit visé",
+          "value": "sous 3 % du PIB en 2030",
+          "kind": "deficit"
+        },
+        {
+          "label": "Dette visée",
+          "value": "112 % du PIB en 2032",
+          "kind": "dette"
+        }
       ],
       "source_label": "Europe 1 – Marine Le Pen présente le contre-budget 2027 du RN",
       "source_url": "https://www.europe1.fr/politique/budget-2027-marine-le-pen-promet-140-milliards-deuros-nets-deconomies-dici-2032-pour-eviter-a-la-france-le-defaut-de-paiement-1126400",
@@ -44,8 +84,21 @@
       "level": "global",
       "summary": "Baisse de la dépense publique de 80 Md€ la première année et d'au moins 200 Md€ en trajectoire, dont 120 Md€ rendus aux actifs en baisse de cotisations, 40 Md€ aux impôts de production et 40 Md€ à la dette.",
       "figures": [
-        { "label": "Économies", "value": "80 Md€ la 1re année, au moins 200 Md€ en tout" },
-        { "label": "Rendus aux actifs", "value": "120 Md€ de baisse de cotisations" }
+        {
+          "label": "Économies",
+          "value": "80 Md€ la 1re année, au moins 200 Md€ en tout",
+          "kind": "economies"
+        },
+        {
+          "label": "Rendus aux actifs",
+          "value": "120 Md€ de baisse de cotisations",
+          "kind": "baisse_prelevements"
+        },
+        {
+          "label": "Impôts de production",
+          "value": "40 Md€ de baisse",
+          "kind": "baisse_prelevements"
+        }
       ],
       "source_label": "Nouvelle Énergie – Quelles économies David Lisnard propose-t-il ?",
       "source_url": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/",
@@ -56,9 +109,21 @@
       "level": "partiel",
       "summary": "Document de travail « budget rectificatif 2027 » : recettes nouvelles (dont taxe Zucman et droits sur les héritages) et dépenses nouvelles (dont retraite à 62 ans). LFI annonce le chiffrage complet de son programme pour début 2027.",
       "figures": [
-        { "label": "Recettes supplémentaires", "value": "106,4 Md€ en 2027" },
-        { "label": "Dépenses nouvelles", "value": "81,7 Md€ en 2027" },
-        { "label": "Réduction du déficit", "value": "25 Md€ la première année" }
+        {
+          "label": "Recettes supplémentaires",
+          "value": "106,4 Md€ en 2027",
+          "kind": "recettes"
+        },
+        {
+          "label": "Dépenses nouvelles",
+          "value": "81,7 Md€ en 2027",
+          "kind": "depenses"
+        },
+        {
+          "label": "Réduction du déficit",
+          "value": "25 Md€ la première année",
+          "kind": "deficit"
+        }
       ],
       "source_label": "Public Sénat – Mélenchon table sur 106 milliards de recettes et 82 milliards de dépenses nouvelles pour 2027",
       "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-jean-luc-melenchon-table-sur-106-milliards-de-recettes-supplementaires-et-82-milliards-de-depenses-nouvelles-pour-2027",
@@ -68,7 +133,13 @@
     "philippe": {
       "level": "partiel",
       "summary": "Objectif de déficit chiffré, sans montant total d'économies publié : l'effort porterait pour moitié sur les dépenses sociales, pour un quart sur l'État et les collectivités et pour un quart sur la croissance.",
-      "figures": [{ "label": "Déficit visé", "value": "2 % du PIB en fin de quinquennat" }],
+      "figures": [
+        {
+          "label": "Déficit visé",
+          "value": "2 % du PIB en fin de quinquennat",
+          "kind": "deficit"
+        }
+      ],
       "source_label": "Pour une France plus prospère – site de campagne Avec Édouard 2027",
       "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
       "source_date": null,
@@ -78,23 +149,45 @@
       "level": "global",
       "summary": "Plan de 197 Md€ d'économies cumulées d'ici 2032 : 96 Md€ sur l'État, 91 Md€ sur la sphère sociale, 10 Md€ sur les collectivités, sans impôt nouveau selon le candidat.",
       "figures": [
-        { "label": "Économies", "value": "197 Md€ cumulés d'ici 2032" },
-        { "label": "Déficit visé", "value": "sous 3 % du PIB en 2031, 2,2 % en 2032" }
+        {
+          "label": "Économies",
+          "value": "197 Md€ cumulés d'ici 2032",
+          "kind": "economies"
+        },
+        {
+          "label": "Déficit visé",
+          "value": "sous 3 % du PIB en 2031, 2,2 % en 2032",
+          "kind": "deficit"
+        }
       ],
       "source_label": "Public Sénat – Bruno Retailleau s'engage sur un plan d'économies de près de 200 milliards d'euros",
       "source_url": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
       "source_date": "2026-10-12",
       "source_type": "declaration"
     },
-    "roussel": { "level": "aucun" },
-    "ruffin": { "level": "aucun" },
-    "tondelier": { "level": "aucun" },
+    "roussel": {
+      "level": "aucun"
+    },
+    "ruffin": {
+      "level": "aucun"
+    },
+    "tondelier": {
+      "level": "aucun"
+    },
     "villepin": {
       "level": "global",
       "summary": "Plus de 120 Md€ d'effort budgétaire à l'horizon 2031, par des hausses d'impôts présentées comme justes et des baisses de dépenses ciblées, avec un déficit ramené sous 3 % en 2031.",
       "figures": [
-        { "label": "Effort budgétaire", "value": "plus de 120 Md€ d'ici 2031" },
-        { "label": "Déficit visé", "value": "sous 3 % du PIB en 2031" }
+        {
+          "label": "Effort budgétaire",
+          "value": "plus de 120 Md€ d'ici 2031",
+          "kind": "autre"
+        },
+        {
+          "label": "Déficit visé",
+          "value": "sous 3 % du PIB en 2031",
+          "kind": "deficit"
+        }
       ],
       "source_label": "« La dette c'est la défaite : choisir le sursaut », chronique de Dominique de Villepin",
       "source_url": "https://lafrancehumaniste.fr/articles/la-dette-cest-la-defaite.html",
@@ -104,7 +197,13 @@
     "zemmour": {
       "level": "partiel",
       "summary": "Liste d'économies « urgentes » chiffrée par Reconquête (prestations non contributives réservées aux Français, suppression de l'aide au développement, des subventions aux syndicats, à la presse et à certaines associations), sans trajectoire de déficit publiée.",
-      "figures": [{ "label": "Économies", "value": "80 Md€" }],
+      "figures": [
+        {
+          "label": "Économies",
+          "value": "80 Md€",
+          "kind": "economies"
+        }
+      ],
       "source_label": "Reconquête – Tract « Dépenser moins, pour taxer moins, pour gagner plus ! »",
       "source_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf#page=2",
       "source_date": "2025-11-13",
@@ -121,6 +220,22 @@
         "when": "Annoncé pour le 1er trimestre 2027",
         "source_label": "Institut Montaigne – communiqué « Les Repères de Montaigne » (6 octobre 2026)",
         "source_url": "https://www.institutmontaigne.org/communiques-de-presse/presidentielle-2027-linstitut-montaigne-devoile-les-reperes-de-montaigne-25-recommandations-pour-la"
+      }
+    ],
+    "precedents": [
+      {
+        "org": "Institut Montaigne",
+        "label": "Chiffrage des programmes de la présidentielle 2022 (8 candidats suivis)",
+        "when": "2022",
+        "source_label": "Institut Montaigne – Présidentielle 2022",
+        "source_url": "https://www.institutmontaigne.org/presidentielle-2022/"
+      },
+      {
+        "org": "Fondation iFRAP",
+        "label": "Chiffrage des programmes de huit candidats à la présidentielle 2022",
+        "when": "31 mars 2022",
+        "source_label": "Fondation iFRAP – « Présidentielle 2022 : le chiffrage des programmes »",
+        "source_url": "https://www.ifrap.org/budget-et-fiscalite/presidentielle-2022-le-chiffrage-des-programmes"
       }
     ]
   }
