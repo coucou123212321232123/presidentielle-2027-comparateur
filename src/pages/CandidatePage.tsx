@@ -155,7 +155,7 @@ function BriefCard({ children }: { children: React.ReactNode }) {
   return (
     <Card className="overflow-hidden">
       <h2 className="border-b border-line px-5 py-3 text-xs font-semibold uppercase tracking-[0.14em] text-muted">En bref</h2>
-      <div className="grid gap-2 p-3 sm:grid-cols-2 lg:grid-cols-4">
+      <div className="grid grid-cols-1 gap-2 p-3 sm:grid-cols-2 lg:grid-cols-4">
         {items.map(({ props: it }) => {
           const isOpen = it.title === openTitle
           return (
@@ -178,7 +178,7 @@ function BriefCard({ children }: { children: React.ReactNode }) {
                 <ChevronDown className={cx('size-4 shrink-0 text-muted transition-transform', isOpen && 'rotate-180')} aria-hidden="true" />
               </button>
               {/* Sur téléphone (une seule colonne), le détail s'ouvre juste sous sa tuile. */}
-              {isOpen && <div className="px-2 pb-3 pt-1 sm:hidden">{it.children}</div>}
+              {isOpen && <div className="min-w-0 px-2 pb-3 pt-1 sm:hidden">{it.children}</div>}
             </Fragment>
           )
         })}

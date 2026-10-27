@@ -13,7 +13,7 @@
 import { createHash } from 'node:crypto'
 import { mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs'
 import { basename, join } from 'node:path'
-import type { Candidate, GlossaryEntry, IndicatorDef, Measure, Theme, VotesFile } from '../src/data/schema.ts'
+import type { Budgets, Candidate, GlossaryEntry, IndicatorDef, Measure, Theme, VotesFile } from '../src/data/schema.ts'
 import { indicatorsOf } from '../src/data/summary.ts'
 import { POSITION_LABELS, PROGRAM_STATUS_LABELS, STATUS_LABELS } from '../src/lib/labels.ts'
 
@@ -29,6 +29,7 @@ const measures: Record<string, Measure[]> = Object.fromEntries(
   readdirSync(join(ROOT, 'src', 'data', 'measures')).map((f) => [basename(f, '.json'), read<Measure[]>(join('measures', f))]),
 )
 const glossary = read<GlossaryEntry[]>('glossary.json')
+const budgets = read<Budgets>('budgets.json')
 const siteMeta = read<{ last_updated: string; election: { first_round: string; second_round: string } }>('meta.json')
 const template = readFileSync(join(DIST, 'index.html'), 'utf8')
 
@@ -55,6 +56,7 @@ const SECTIONS: [string, string][] = [
   ['positions/', 'Qui propose quoi ?'],
   ['themes/', 'Thèmes × candidats'],
   ['programmes/', 'Programmes officiels'],
+  ['chiffrages/', 'Combien ça coûte ?'],
   ['votes/', "Votes à l'Assemblée"],
   ['election/', 'Calendrier et parrainages'],
   ['glossaire/', 'Glossaire'],
@@ -196,6 +198,25 @@ page(
       return `<li>${link(`candidats/${c.id}/`, name(c))} (${esc(c.party_short)}) — ${esc(PROGRAM_STATUS_LABELS[p.status])} : ${doc}</li>`
     })
     .join('')}</ul>`,
+)
+page(
+  'chiffrages/',
+  {
+    ...home,
+    title: 'Combien ça coûte ? Les chiffrages des programmes – Présidentielle 2027',
+    description: `Économies, recettes, déficit visé : les chiffrages d'ensemble annoncés par chaque candidat à la présidentielle 2027, avec leur source, et les évaluations indépendantes. ${DISCLAIMER}`,
+  },
+  `<h1>Combien ça coûte ? Les chiffrages des programmes de la présidentielle 2027</h1>
+<p>Les chiffrages d'ensemble annoncés par les candidats eux-mêmes, tels qu'ils les présentent : ils ne sont pas vérifiés et reposent sur leurs propres hypothèses. Vérifié au ${shortDate(budgets.checked)}.</p>
+<ul>${candidates
+    .map((c) => {
+      const b = budgets.candidates[c.id]
+      if (!b || b.level === 'aucun') return `<li>${link(`candidats/${c.id}/`, name(c))} : pas de chiffrage d'ensemble publié à notre connaissance.</li>`
+      const figures = b.figures.map((f) => `${esc(f.label)} : ${esc(f.value)}`).join(' · ')
+      return `<li>${link(`candidats/${c.id}/`, name(c))} (${b.level === 'global' ? "chiffrage d'ensemble" : 'chiffrage partiel'}) — ${esc(b.summary)} ${figures}. <small>Source : ${ext(b.source_url, b.source_label)}</small></li>`
+    })
+    .join('')}</ul>
+<h2>Évaluations indépendantes</h2><p>${esc(budgets.independent.note)}</p>`,
 )
 page(
   'methodologie/',

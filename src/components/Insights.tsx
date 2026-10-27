@@ -86,7 +86,7 @@ export function BudgetDetails({ candidate }: { candidate: Candidate }) {
       )}
       <p className="mt-3 text-xs text-muted">
         Montants annoncés par le candidat ou son parti, non vérifiés.{' '}
-        <Link to="/programmes#chiffrages" className="underline hover:text-ink">
+        <Link to="/chiffrages" className="underline hover:text-ink">
           Comparer les chiffrages
         </Link>
       </p>

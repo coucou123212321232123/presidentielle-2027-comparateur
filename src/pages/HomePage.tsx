@@ -130,6 +130,9 @@ export function HomePage() {
             <Link to="/positions" className="inline-flex items-center gap-2 rounded-full border border-line bg-surface px-5 py-2.5 text-sm font-semibold text-ink-2 hover:text-ink">
               Qui propose quoi ? <ArrowRight className="size-4" aria-hidden="true" />
             </Link>
+            <Link to="/chiffrages" className="inline-flex items-center gap-2 rounded-full border border-line bg-surface px-5 py-2.5 text-sm font-semibold text-ink-2 hover:text-ink">
+              Combien ça coûte ? <ArrowRight className="size-4" aria-hidden="true" />
+            </Link>
           </div>
         </div>
         <dl className="grid grid-cols-3 gap-3">

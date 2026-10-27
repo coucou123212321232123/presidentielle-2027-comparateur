@@ -20,6 +20,7 @@ const NAV = [
   { to: '/positions', label: 'Positions' },
   { to: '/themes', label: 'Thèmes' },
   { to: '/programmes', label: 'Programmes' },
+  { to: '/chiffrages', label: 'Chiffrages' },
   { to: '/votes', label: 'Votes' },
   { to: '/election', label: 'Élection' },
   { to: '/glossaire', label: 'Glossaire' },
@@ -28,7 +29,7 @@ const NAV = [
 
 function Logo() {
   return (
-    <Link to="/" className="flex items-center gap-2.5 rounded-lg" aria-label="Accueil – Présidentielle 2027">
+    <Link to="/" className="flex shrink-0 items-center gap-2.5 whitespace-nowrap rounded-lg" aria-label="Accueil – Présidentielle 2027">
       <span className="flex h-7 items-end gap-[3px]" aria-hidden="true">
         <span className="h-4 w-1.5 rounded-full bg-blue-600" />
         <span className="h-7 w-1.5 rounded-full bg-ink" />
@@ -89,7 +90,7 @@ function Header() {
 
   const linkClass = ({ isActive }: { isActive: boolean }) =>
     cx(
-      'relative rounded-full px-3 py-1.5 text-sm font-medium transition-colors',
+      'relative rounded-full px-2.5 py-1.5 text-sm font-medium transition-colors 2xl:px-3',
       isActive ? 'text-ink' : 'text-muted hover:text-ink',
     )
 

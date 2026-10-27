@@ -9,6 +9,7 @@ const CandidatePage = lazy(() => import('./pages/CandidatePage'))
 const ComparePage = lazy(() => import('./pages/ComparePage'))
 const ThemesPage = lazy(() => import('./pages/ThemesPage'))
 const ProgramsPage = lazy(() => import('./pages/ProgramsPage'))
+const BudgetsPage = lazy(() => import('./pages/BudgetsPage'))
 const MethodologyPage = lazy(() => import('./pages/MethodologyPage'))
 const NotFoundPage = lazy(() => import('./pages/NotFoundPage'))
 const VotesPage = lazy(() => import('./pages/VotesPage'))
@@ -64,6 +65,7 @@ export function App() {
             <Route path="selection" element={lazyPage(<SelectionPage />)} />
             <Route path="nouveautes" element={lazyPage(<NewsPage />)} />
             <Route path="programmes" element={lazyPage(<ProgramsPage />)} />
+            <Route path="chiffrages" element={lazyPage(<BudgetsPage />)} />
             <Route path="votes" element={lazyPage(<VotesPage />)} />
             <Route path="votes/:id" element={lazyPage(<VotesPage />)} />
             <Route path="election" element={lazyPage(<ElectionPage />)} />
