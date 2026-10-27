@@ -1,6 +1,233 @@
 {
   "since": "2026-10-26",
-  "generated": "2026-10-26",
+  "generated": "2026-10-27",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
-  "candidates": {}
+  "candidates": {
+    "arthaud": {
+      "changed_pages": [
+        {
+          "url": "https://www.nathalie-arthaud.info",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 2,
+          "added": [
+            "Samedi 24 octobre, des centaines de milliers de jeunes et de travailleurs ont de nouveau manifesté. Le gouvernement, la droite et l’extrême droite, relayés par tous les médias, avaient pourtant tout fait pour nous faire peur et discréditer les manifestants.",
+            "L'éditorial en vidéo : Renforçons la mobilisation !"
+          ]
+        },
+        {
+          "url": "https://www.lutte-ouvriere.org/portail/index.html",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 5,
+          "added": [
+            "Le Sénat a voté la prolongation pour deux ans de l’encadrement des loyers dans les communes où il s’applique déjà, et où il est d’ailleurs loin d’être toujours respecté. Mais il refuse de permettre à de nouvelles villes de l’adopter et de limiter les compléments de loyer qui permettent aux propriétaires de contourner les plafonds.",
+            "Samedi 24 octobre, des centaines de milliers de jeunes et de travailleurs ont de nouveau manifesté. Le gouvernement, la droite et l’extrême droite, relayés par tous les médias, avaient pourtant tout fait pour nous faire peur et discréditer les manifestants.",
+            "L'éditorial en vidéo : Renforçons la mobilisation !",
+            "Violences policières : : Une impunité abjecte"
+          ]
+        },
+        {
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 1,
+          "added": []
+        },
+        {
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=10",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 1,
+          "added": []
+        }
+      ],
+      "new_pages": []
+    },
+    "dupont-aignan": {
+      "changed_pages": [
+        {
+          "url": "https://www.dupontaignan.fr/actualite/",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 1,
+          "added": [
+            "Offrons un vrai débat apaisé aux Français · BFM TV, 23/10/2026"
+          ]
+        },
+        {
+          "url": "https://www.dupontaignan.fr/",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 17,
+          "added": [
+            "Depuis toujours, Emmanuel Macron veut les interdire pour cacher la réalité catastrophique de son bilan. Jamais la liberté d’expression n’a été autant en danger dans notre pays. NE NOUS LAISSONS PAS FAIRE ! ... Voir plus Voir moins",
+            "Attention aux effets d’annonce, restons vigilants, car seule la mise en œuvre d’un nouveau bac exigeant et impartial peut garantir la juste orientation des élèves à l’université. ... Voir plus Voir moins",
+            "L’État profond en action : le Brésil nous montre jusqu’où peuvent aller les dérives d’un système où pouvoir politique et institutions se protègent mutuellement. Et la France n’est pas à l’abri !",
+            "Macron et von der Leyen félicitent Lula sans sourciller, alors que le scrutin aurait été prolongé de deux heures à la dernière minute par un juge nommé par Lula, dont il était l’avocat.",
+            "Quand les règles changent en plein scrutin, c’est la confiance dans la démocratie qui est en jeu. Mais Macron et les dirigeants européens, eux, applaudissent.",
+            "À Marseille, où il a abandonné la ville aux pilleurs, il accuse les réseaux sociaux pour pouvoir restreindre la liberté d’expression !",
+            "Après avoir laissé le chaos s’installer dans nos villes, il vient maintenant accuser les réseaux sociaux de tous les maux.",
+            "Voir les commentaires Like reaction Haha reaction Angry reaction Reactions: 117 Partages : 40 Commentaires : 9",
+            "Depuis des années je combats cet algorithme fou, Parcoursup, qui casse le moral de nos jeunes.",
+            "Il a fallu le chaos des derniers jours pour que le gouvernement s’en rende enfin compte.",
+            "Participez à la cagnotte présidentielle : dons.dupontaignan.fr ... Voir plus Voir moins",
+            "Vous êtes 17 % (sondage IFOP) à souhaiter ma candidature présidentielle.",
+            "Offrons un vrai débat apaisé aux Français · BFM TV, 23/10/2026",
+            "Vidéo YouTube VVVmQTVEbkNEWDNJeHk1UU9BTUd0QmxBLlpTM3BnN3NXRkNz",
+            "Participez à la cagnotte présidentielle : dons.dupontaignan.fr",
+            "Quelle conception de la démocratie ! ... Voir plus Voir moins",
+            "Emmanuel Macron cherche-t-il à censurer la présidentielle ?",
+            "Les petits ruisseaux font les grandes rivières !"
+          ]
+        },
+        {
+          "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 13,
+          "added": []
+        }
+      ],
+      "new_pages": [
+        {
+          "url": "https://www.dupontaignan.fr/actualite/offrons-un-vrai-debat-apaise-aux-francais-%c2%b7-bfm-tv-23-10-2026/",
+          "first_seen": "2026-10-27"
+        }
+      ]
+    },
+    "le-pen": {
+      "changed_pages": [
+        {
+          "url": "https://rassemblementnational.fr/communiques",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 2,
+          "added": [
+            "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques",
+            "Communiqué de presse de Bruno Bilde, vice-président du RN ch..."
+          ]
+        },
+        {
+          "url": "https://marinelepen.com/",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 1,
+          "added": []
+        },
+        {
+          "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 1,
+          "added": [
+            "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques"
+          ]
+        },
+        {
+          "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-buralistes-de-france",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 1,
+          "added": [
+            "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques"
+          ]
+        },
+        {
+          "url": "https://rassemblementnational.fr/communiques/rencontre-des-entrepreneurs-de-france-du-medef-andre-rouge-met-en-valeur-le-programme-de-marine-le-pen-pour-les-outremers",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 1,
+          "added": [
+            "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques"
+          ]
+        }
+      ],
+      "new_pages": []
+    },
+    "lisnard": {
+      "changed_pages": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/notre-programme/",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 1,
+          "added": [
+            "Prochains rendez-vous : Hong Kong, Clermont-Ferrand, Saint-Émilion et Merrey-sur-Arce"
+          ]
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 7,
+          "added": [
+            "Michel Jacob, Référent NE Bar-sur-Seine,et Maire d Avirey-Lingey, vous convie à une réunion politique Nouvelle Énergie Aube. Ce sera l occasion d évoquer l actualité politique, notamment celle de David Lisnard, ainsi que de structurer les actions à venir. Mardi 27 Octobre, 18h30, à Merrey-sur-Arce Salle communale, 1 rue de l église, 10110 Infos et contact : aube@unenouvelleenergie.fr",
+            "Jack Allais, Référent Nouvelle Énergie Saint-Émilion, et Denis Pernin, Co-relais Nouvelle Énergie Gironde, vous invitent à un Afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Mardi 27 Octobre à 18h30, à Saint-Émilion Le Bis, 49 rue Guadet Infos et contact : gironde@unenouvelleenergie.fr",
+            "Afterwork avec Laurent Salles, relais Nouvelle Énergie Puy-de-Dôme. Mardi 27 octobre 2026 à 18h30, au Still Irish Pub à Clermont-Ferrand.",
+            "The Still Irish Pub, CLERMONT-FERRAND, PUY-DE-DÔME",
+            "AFTERWORK NOUVELLE ÉNERGIE : CLERMONT-FERRAND",
+            "AFTERWORK NOUVELLE ÉNERGIE SAINT-ÉMILION"
+          ]
+        }
+      ],
+      "new_pages": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/cafe-des-adherents-uzes-ne-gard/",
+          "first_seen": "2026-10-27"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-gard/",
+          "first_seen": "2026-10-27"
+        }
+      ]
+    },
+    "roussel": {
+      "changed_pages": [],
+      "new_pages": [
+        {
+          "url": "https://www.pcf.fr/les_lyceens_commencent_faire_plier_le_gouvernement_mais_le_compte_ny_est_pas",
+          "first_seen": "2026-10-27"
+        }
+      ]
+    },
+    "tondelier": {
+      "changed_pages": [],
+      "new_pages": [
+        {
+          "url": "https://marinetondelier.fr/journal-de-campagne/17-octobre-ccr2d-fxt37-cfxfd",
+          "first_seen": "2026-10-27"
+        },
+        {
+          "url": "https://marinetondelier.fr/journal-de-campagne/17-octobre-ccr2d-fxt37",
+          "first_seen": "2026-10-27"
+        },
+        {
+          "url": "https://marinetondelier.fr/journal-de-campagne/17-octobre-ccr2d-z2yjw",
+          "first_seen": "2026-10-27"
+        },
+        {
+          "url": "https://marinetondelier.fr/journal-de-campagne/17-octobre-ccr2d",
+          "first_seen": "2026-10-27"
+        }
+      ]
+    },
+    "zemmour": {
+      "changed_pages": [
+        {
+          "url": "https://assets.ericzemmour.fr/ressources/tracts/avenir-est-a-nous.pdf",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 1,
+          "added": []
+        },
+        {
+          "url": "https://www.parti-reconquete.fr/#actualites",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 2,
+          "added": [
+            "Révolutionnaire pour votre maison, propriétaire pour la sienne : Je réponds à Jean-Luc Mélenchon !",
+            "Mélenchon, nos villages, nos vignes, nos fêtes n’attendent pas votre permission pour exister.",
+            "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène"
+          ]
+        },
+        {
+          "url": "https://www.parti-reconquete.fr/",
+          "changed_at": "2026-10-27",
+          "removed_blocks": 2,
+          "added": [
+            "Révolutionnaire pour votre maison, propriétaire pour la sienne : Je réponds à Jean-Luc Mélenchon !",
+            "Mélenchon, nos villages, nos vignes, nos fêtes n’attendent pas votre permission pour exister.",
+            "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène"
+          ]
+        }
+      ],
+      "new_pages": []
+    }
+  }
 }
