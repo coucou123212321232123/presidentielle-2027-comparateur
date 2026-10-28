@@ -1,6 +1,6 @@
 {
   "since": "2026-10-26",
-  "generated": "2026-10-27",
+  "generated": "2026-10-28",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
   "candidates": {
     "arthaud": {
@@ -16,12 +16,16 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/portail/index.html",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 5,
+          "changed_at": "2026-10-28",
+          "removed_blocks": 8,
           "added": [
             "Le Sénat a voté la prolongation pour deux ans de l’encadrement des loyers dans les communes où il s’applique déjà, et où il est d’ailleurs loin d’être toujours respecté. Mais il refuse de permettre à de nouvelles villes de l’adopter et de limiter les compléments de loyer qui permettent aux propriétaires de contourner les plafonds.",
             "Samedi 24 octobre, des centaines de milliers de jeunes et de travailleurs ont de nouveau manifesté. Le gouvernement, la droite et l’extrême droite, relayés par tous les médias, avaient pourtant tout fait pour nous faire peur et discréditer les manifestants.",
+            "Le président Aleksandar Vucic a été battu au profit de la « liste des étudiants ». Constituée d’universitaires, de chercheurs, d’artistes et de sportifs, cette liste composite a été portée par la contestation qui secoue le pays depuis plus de deux ans.",
+            "La sécheresse continue de frapper de nombreuses régions. L'usage de l'eau est toujours restreint dans 72 départements.",
             "L'éditorial en vidéo : Renforçons la mobilisation !",
+            "Serbie : défaite électorale d’un ami de la France",
+            "Lycées : mesurettes d’un gouvernement affaibli",
             "Violences policières : : Une impunité abjecte"
           ]
         },
@@ -32,9 +36,15 @@
           "added": []
         },
         {
-          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=10",
-          "changed_at": "2026-10-27",
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=20",
+          "changed_at": "2026-10-28",
           "removed_blocks": 1,
+          "added": []
+        },
+        {
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=10",
+          "changed_at": "2026-10-28",
+          "removed_blocks": 2,
           "added": []
         }
       ],
@@ -52,34 +62,60 @@
         },
         {
           "url": "https://www.dupontaignan.fr/",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 17,
+          "changed_at": "2026-10-28",
+          "removed_blocks": 29,
           "added": [
             "Depuis toujours, Emmanuel Macron veut les interdire pour cacher la réalité catastrophique de son bilan. Jamais la liberté d’expression n’a été autant en danger dans notre pays. NE NOUS LAISSONS PAS FAIRE ! ... Voir plus Voir moins",
+            "Après les déclarations surréalistes d’Emmanuel Macron hier à Marseille, le gouvernement joint la parole aux actes et dépose un amendement au Sénat pour pouvoir bloquer les réseaux sociaux sans décision préalable d’un juge !",
             "Attention aux effets d’annonce, restons vigilants, car seule la mise en œuvre d’un nouveau bac exigeant et impartial peut garantir la juste orientation des élèves à l’université. ... Voir plus Voir moins",
+            "Les Français paient déjà leurs impôts pour assurer leur sécurité. Faudra-t-il désormais qu’ils paient une deuxième fois pour les conséquences des violences… dues à l’incompétence du gouvernement ?",
             "L’État profond en action : le Brésil nous montre jusqu’où peuvent aller les dérives d’un système où pouvoir politique et institutions se protègent mutuellement. Et la France n’est pas à l’abri !",
+            "Les casseurs doivent être sanctionnés, mais les millions de Français qui utilisent ces plateformes pour s’informer, débattre et exprimer leur colère n’ont pas à être réduits au silence !",
             "Macron et von der Leyen félicitent Lula sans sourciller, alors que le scrutin aurait été prolongé de deux heures à la dernière minute par un juge nommé par Lula, dont il était l’avocat.",
+            "La France investit dans ses futurs réacteurs nucléaires, mais Bruxelles veut conditionner leur financement à des concessions sur notre réseau et la vente de notre électricité.",
             "Quand les règles changent en plein scrutin, c’est la confiance dans la démocratie qui est en jeu. Mais Macron et les dirigeants européens, eux, applaudissent.",
             "À Marseille, où il a abandonné la ville aux pilleurs, il accuse les réseaux sociaux pour pouvoir restreindre la liberté d’expression !",
+            "Après avoir échoué à maintenir l’ordre, le gouvernement prépare une contribution de 0,8 % sur les contrats d’assurance dommages !",
             "Après avoir laissé le chaos s’installer dans nos villes, il vient maintenant accuser les réseaux sociaux de tous les maux.",
             "Voir les commentaires Like reaction Haha reaction Angry reaction Reactions: 117 Partages : 40 Commentaires : 9",
+            "La priorité doit être de sanctionner les casseurs et de leur faire payer les dégâts ! ... Voir plus Voir moins",
+            "Le nucléaire français appartient aux Français, pas à la Commission européenne ! ... Voir plus Voir moins",
+            "Une taxe de 0,8% sur les contrats d’assurance pour compenser l’incapacité de l’État à garantir l’ordre.",
             "Depuis des années je combats cet algorithme fou, Parcoursup, qui casse le moral de nos jeunes.",
             "Il a fallu le chaos des derniers jours pour que le gouvernement s’en rende enfin compte.",
             "Participez à la cagnotte présidentielle : dons.dupontaignan.fr ... Voir plus Voir moins",
+            "Sous prétexte de lutter contre les violences, il ouvre la voie à la censure de tous.",
+            "Notre nucléaire doit servir l’industrie française et garantir notre indépendance.",
             "Vous êtes 17 % (sondage IFOP) à souhaiter ma candidature présidentielle.",
             "Offrons un vrai débat apaisé aux Français · BFM TV, 23/10/2026",
             "Vidéo YouTube VVVmQTVEbkNEWDNJeHk1UU9BTUd0QmxBLlpTM3BnN3NXRkNz",
-            "Participez à la cagnotte présidentielle : dons.dupontaignan.fr",
-            "Quelle conception de la démocratie ! ... Voir plus Voir moins",
-            "Emmanuel Macron cherche-t-il à censurer la présidentielle ?",
-            "Les petits ruisseaux font les grandes rivières !"
+            "Participez à la cagnotte présidentielle : dons.dupontaignan.fr"
           ]
         },
         {
           "url": "https://www.debout-la-france.fr/projet/economie-travail/",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 13,
-          "added": []
+          "changed_at": "2026-10-28",
+          "removed_blocks": 32,
+          "added": [
+            "La France paie le prix exorbitant de la politique dictée par l’Union européenne depuis 40 ans et avalisée par les gouvernements successifs particulièrement lâches : notre industrie est laminée par des concurrents qui ne sont pas soumis aux mêmes règles sociales et environnementales, nos produits voient leur compétitivité obérée par un euro surévalué, nos entreprises sont étouffées par les normes e",
+            "Mettre en place un étiquetage obligatoire sur les marchandises pour indiquer précisément dans quel pays elles sont fabriquées et la part du « fabriqué en France » et étendre le label « Origine France garantie » à tous les produits, y compris industriels multicomposants, dès lors que plus de 75 % de la valeur ajoutée a été obtenue sur notre territoire. En outre, nous protégerons les entreprises en ",
+            "En outre, nous proposons des mesures pour lutter contre les gaspillages sans faire souffrir les Français. Il est hors de question que nos compatriotes subissent les conséquences de la médiocrité des politiques menées ces dernières décennies. Nous devons tous respecter le contrat social qui lie chaque Français à l’État et les Français entre eux, notamment en matière de dépenses liées aux assurances",
+            "Rapatrier le pouvoir monétaire, bancaire et financier en France (actuellement à Francfort et à la BCE) et réviser le fonctionnement des lois bancaires et financières (1973, 1984, traités de Maastricht et de Lisbonne de 1992 et 2008) pour emprunter directement auprès de la Banque de France, redevenue autonome. La France, pour investir dans les infrastructures nationales, sans alimenter l’inflation,",
+            "Supprimer progressivement les agences d’État : ADEME, ARS, ANAH, AFITF, INERIS, VNF… qui coûtent 80 milliards d’euros par an avec des frais de structure, alors que leurs missions pourraient être reprises dans le cadre de leurs ministères de tutelle, avec un objectif de 20 milliards d’euros par an au terme des 3 ans.",
+            "Supprimer l’échelon régional, le mandat de conseiller régional, les intercommunalités inutiles, le Conseil économique, social et environnemental (CESE), tout en renforçant le pouvoir des maires et des conseils départementaux, avec un objectif de 10 milliards d’euros par an au terme de 3 ans.",
+            "Réindexer les pensions de retraite et les traitements des fonctionnaires sur l’inflation, car l’État doit respecter son engagement vis-à-vis des Français qui ont cotisé toute leur vie professionnelle. Rétablir la possibilité du cumul emploi-retraite entre 62 et 67 ans.",
+            "c/ Baisser de 40 centimes le prix des carburants (suppression des certificats d’économies d’énergie (CEE) : 17 centimes ; suppression de la TVA sur la taxe (6 milliards d’euros de coût) : 13 centimes ; plafonnement des marges des raffineurs : 10 centimes).",
+            "Exonérer de charges patronales : pendant trois mois, le premier emploi en CDI d’un jeune de moins de 26 ans, pendant deux ans, le CDI d’un chômeur de longue durée (5 ans) pour insérer les personnes en extrême difficulté sociale.",
+            "Diminuer pour tous massivement le coût de l’énergie. Il ne peut y avoir de production ni de création de richesse digne de ce nom sans énergie bon marché. Cette dernière est fondamentale dans la productivité de nos entreprises.",
+            "Supprimer le millefeuille administratif et les agences d’État inutiles. Sur les 1 700 milliards d’euros formant la dépense publique, il est possible d’économiser 40 milliards par an au terme de 5 ans, soit un peu plus de 2 %.",
+            "Mettre fin au scandale de la fraude sociale avec les millions de cartes Vitale excédentaires et les retraites payées à des morts à l’étranger pour économiser 20 milliards d’euros.",
+            "Baisser massivement les prix de l’énergie (évoqué en mesure 1). Division par 2 du prix de l’électricité, baisse de 40 centimes des carburants, baisse de 20 % des prix du gaz.",
+            "À titre d’exemple, la planification énergétique sera mise en oeuvre : l’électricité est l’avenir de l’énergie et le nucléaire est l’avenir de l’électricité.",
+            "b/ De façon générale, la planification énergétique sera développée : l’électricité est l’avenir de l’énergie et le nucléaire est l’avenir de l’électricité.",
+            "Supprimer les aides de l’État à l’installation des éoliennes et des panneaux solaires en annulant le décret sur la PPE3 (12 milliards d’euros économisés).",
+            "Ce programme économique et financier permettra à la France de redevenir une nation phare en matière scientifique et technologique (voir cahier Sciences).",
+            "a/ Diviser par 2 le prix de l’électricité dès la première année en :"
+          ]
         }
       ],
       "new_pages": [
@@ -89,15 +125,37 @@
         }
       ]
     },
+    "glucksmann": {
+      "changed_pages": [
+        {
+          "url": "https://place-publique.eu/posts",
+          "changed_at": "2026-10-28",
+          "removed_blocks": 1,
+          "added": [
+            "Place publique rejoint Rainbow Rose : un engagement européen pour l’égalité."
+          ]
+        }
+      ],
+      "new_pages": [
+        {
+          "url": "https://place-publique.eu/posts/17TPVYBBISeRHJGTxxYjXF/place-publique-rejoint-rainbow-rose-un-engagement-europeen-pour-l-egalite",
+          "first_seen": "2026-10-28"
+        }
+      ]
+    },
     "le-pen": {
       "changed_pages": [
         {
           "url": "https://rassemblementnational.fr/communiques",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 2,
+          "changed_at": "2026-10-28",
+          "removed_blocks": 6,
           "added": [
             "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques",
-            "Communiqué de presse de Bruno Bilde, vice-président du RN ch..."
+            "Communiqué de Presse de Julien SANCHEZ, directeur de campagne de Marine LE PEN",
+            "Le Rassemblement National poursuit en diffamation le journal Le Monde",
+            "Communiqué de presse de Bruno Bilde, vice-président du RN ch...",
+            "Communiqué de Presse de Julien SANCHEZ, directeur de campagn...",
+            "Le Rassemblement National poursuit en diffamation le journal..."
           ]
         },
         {
@@ -108,26 +166,32 @@
         },
         {
           "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 1,
+          "changed_at": "2026-10-28",
+          "removed_blocks": 4,
           "added": [
-            "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques"
+            "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques",
+            "Communiqué de Presse de Julien SANCHEZ, directeur de campagne de Marine LE PEN",
+            "Le Rassemblement National poursuit en diffamation le journal Le Monde"
           ]
         },
         {
           "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-buralistes-de-france",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 1,
+          "changed_at": "2026-10-28",
+          "removed_blocks": 4,
           "added": [
-            "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques"
+            "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques",
+            "Communiqué de Presse de Julien SANCHEZ, directeur de campagne de Marine LE PEN",
+            "Le Rassemblement National poursuit en diffamation le journal Le Monde"
           ]
         },
         {
           "url": "https://rassemblementnational.fr/communiques/rencontre-des-entrepreneurs-de-france-du-medef-andre-rouge-met-en-valeur-le-programme-de-marine-le-pen-pour-les-outremers",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 1,
+          "changed_at": "2026-10-28",
+          "removed_blocks": 4,
           "added": [
-            "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques"
+            "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques",
+            "Communiqué de Presse de Julien SANCHEZ, directeur de campagne de Marine LE PEN",
+            "Le Rassemblement National poursuit en diffamation le journal Le Monde"
           ]
         }
       ],
@@ -137,27 +201,77 @@
       "changed_pages": [
         {
           "url": "https://www.unenouvelleenergie.fr/notre-programme/",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 1,
+          "changed_at": "2026-10-28",
+          "removed_blocks": 2,
           "added": [
-            "Prochains rendez-vous : Hong Kong, Clermont-Ferrand, Saint-Émilion et Merrey-sur-Arce"
+            "Prochains rendez-vous : Hong Kong, Clermont-Ferrand, Saint-Émilion et Merrey-sur-Arce",
+            "Prochains rendez-vous : Marseille, Douai, Dijon et Angers"
           ]
         },
         {
           "url": "https://www.unenouvelleenergie.fr/",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 7,
+          "changed_at": "2026-10-28",
+          "removed_blocks": 17,
           "added": [
+            "Invité du premier « Grand entretien de l’écologie » consacré à l’élection présidentielle de 2027, David Lisnard a répondu aux questions de François de Rugy et Laurent Lesage sur les grands défis économiques et environnementaux de la France. Nucléaire, réindustrialisation, agriculture, souveraineté alimentaire, décarbonation, normes : le président de Nouvelle Énergie a défendu une écologie fondée s",
             "Michel Jacob, Référent NE Bar-sur-Seine,et Maire d Avirey-Lingey, vous convie à une réunion politique Nouvelle Énergie Aube. Ce sera l occasion d évoquer l actualité politique, notamment celle de David Lisnard, ainsi que de structurer les actions à venir. Mardi 27 Octobre, 18h30, à Merrey-sur-Arce Salle communale, 1 rue de l église, 10110 Infos et contact : aube@unenouvelleenergie.fr",
             "Jack Allais, Référent Nouvelle Énergie Saint-Émilion, et Denis Pernin, Co-relais Nouvelle Énergie Gironde, vous invitent à un Afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Mardi 27 Octobre à 18h30, à Saint-Émilion Le Bis, 49 rue Guadet Infos et contact : gironde@unenouvelleenergie.fr",
+            "Christophe Deparis, relais Nouvelle Énergie Nord, et Tristan Crochard, relais Jeunes Énergies Nord, vous donnent rendez-vous à Douai pour une nouvelle étape du Tour du Nord. Mercredi 28 Octobre, 19h, à Douai Salle Robert (1er étage), 229 rue Wallerand Hangouart Infos et contact : nord@unenouvelleenergie.fr",
+            "L équipe des Jeunes Énergies Marseille vous invite à un afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Mercredi 28 octobre, 19h, à Marseille Chez ACUDA, 34 place aux Huiles Infos et contact : jeunesenergies@unenouvelleenergie.fr",
+            "Yanis Berthelot, relais Jeunes Énergies Maine-et-Loire, vous invite à un Afterwork Jeunes Énergies. Mercredi 28 octobre à 19h30, à Angers Buddy s Bar, Fleur d Eau, 58 rue Plantagenêt (centre commercial) Infos et contact : jeunesenergies@unenouvelleenergie.fr",
+            "Tristan Perry, relais Jeunes Énergies Côte-d Or, vous invite à un Afterwork Jeunes Énergies. Mercredi 28 octobre à 19h30, à Dijon Le Triton à Casquette, 48 rue Monge Infos et contact : jeunesenergies@unenouvelleenergie.fr",
+            "Le maire de Cannes et candidat à l’Élysée dénonce la faillite sécuritaire de l’État, juge Emmanuel Macron complètement « dépassé » et appelle à un vrai sursaut civique. Un entretien à retrouver dans le magazine Le Point.",
             "Afterwork avec Laurent Salles, relais Nouvelle Énergie Puy-de-Dôme. Mardi 27 octobre 2026 à 18h30, au Still Irish Pub à Clermont-Ferrand.",
+            "Buddy s Bar, Fleur d Eau (centre commercial), ANGERS, MAINE-ET-LOIRE",
+            "« L’énergie doit réconcilier l’industrie et l’écologie »",
             "The Still Irish Pub, CLERMONT-FERRAND, PUY-DE-DÔME",
             "AFTERWORK NOUVELLE ÉNERGIE : CLERMONT-FERRAND",
             "AFTERWORK NOUVELLE ÉNERGIE SAINT-ÉMILION"
           ]
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/actualites/",
+          "changed_at": "2026-10-28",
+          "removed_blocks": 2,
+          "added": [
+            "Invité du premier « Grand entretien de l’écologie » consacré à l’élection présidentielle de 2027, David Lisnard a répondu aux questions de François de Rugy et Laurent Lesage sur les grands défis économiques et environnementaux de la France. Nucléaire, réindustrialisation, agriculture, souveraineté alimentaire, décarbonation, normes : le président de Nouvelle Énergie a défendu une écologie fondée s",
+            "« L’énergie doit réconcilier l’industrie et l’écologie »"
+          ]
         }
       ],
       "new_pages": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/charte-de-partage/",
+          "first_seen": "2026-10-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/lenergie-doit-reconcilier-lindustrie-et-lecologie/",
+          "first_seen": "2026-10-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/conference-nouvelle-energie-ain-la-ruralite/",
+          "first_seen": "2026-10-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-londres/",
+          "first_seen": "2026-10-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-dubai/",
+          "first_seen": "2026-10-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/petit-dejeuner-ne-paris-6eme/",
+          "first_seen": "2026-10-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-du-nord-comines-warneton/",
+          "first_seen": "2026-10-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-de-la-gagne-nord/",
+          "first_seen": "2026-10-28"
+        },
         {
           "url": "https://www.unenouvelleenergie.fr/event/cafe-des-adherents-uzes-ne-gard/",
           "first_seen": "2026-10-27"
@@ -165,12 +279,38 @@
         {
           "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-gard/",
           "first_seen": "2026-10-27"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/groupes/",
+          "first_seen": "2026-10-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/groupes/entrepreneurs/",
+          "first_seen": "2026-10-28"
         }
       ]
+    },
+    "philippe": {
+      "changed_pages": [
+        {
+          "url": "https://www.edouardphilippe.fr/",
+          "changed_at": "2026-10-28",
+          "removed_blocks": 1,
+          "added": [
+            "Grâce à votre don, nous pouvons financer par exemple : 200 grandes affiches ou 12 000 tracts",
+            "Mais aussi des déplacements, des goodies, des meetings politiques, des évènements…"
+          ]
+        }
+      ],
+      "new_pages": []
     },
     "roussel": {
       "changed_pages": [],
       "new_pages": [
+        {
+          "url": "https://www.pcf.fr/communistes_1106",
+          "first_seen": "2026-10-28"
+        },
         {
           "url": "https://www.pcf.fr/les_lyceens_commencent_faire_plier_le_gouvernement_mais_le_compte_ny_est_pas",
           "first_seen": "2026-10-27"
@@ -178,7 +318,17 @@
       ]
     },
     "tondelier": {
-      "changed_pages": [],
+      "changed_pages": [
+        {
+          "url": "https://marinetondelier.fr",
+          "changed_at": "2026-10-28",
+          "removed_blocks": 2,
+          "added": [
+            "Aujourd’hui les fruits et légumes financent la malbouffe ! Notre proposition : obliger les grands distributeurs à proposer un panier de produits sains et variés à prix coûtant.",
+            "Face à des années de banalisation de la haine raciste, aux discours politiques et médiatiques qui installent le racisme comme une opinion acceptable, nous serons dans la rue."
+          ]
+        }
+      ],
       "new_pages": [
         {
           "url": "https://marinetondelier.fr/journal-de-campagne/17-octobre-ccr2d-fxt37-cfxfd",
@@ -207,24 +357,46 @@
           "added": []
         },
         {
+          "url": "https://assets.ericzemmour.fr/ressources/tracts/sante.pdf",
+          "changed_at": "2026-10-28",
+          "removed_blocks": 1,
+          "added": []
+        },
+        {
+          "url": "https://assets.ericzemmour.fr/ressources/tracts/mercosur.pdf",
+          "changed_at": "2026-10-28",
+          "removed_blocks": 1,
+          "added": []
+        },
+        {
           "url": "https://www.parti-reconquete.fr/#actualites",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 2,
+          "changed_at": "2026-10-28",
+          "removed_blocks": 3,
           "added": [
             "Révolutionnaire pour votre maison, propriétaire pour la sienne : Je réponds à Jean-Luc Mélenchon !",
             "Mélenchon, nos villages, nos vignes, nos fêtes n’attendent pas votre permission pour exister.",
-            "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène"
+            "Cher Karim Zéribi, ici nous sommes en France, pas une dictature militaire à l’algérienne.",
+            "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène",
+            "Le peuple français est un souverain captif."
           ]
         },
         {
           "url": "https://www.parti-reconquete.fr/",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 2,
+          "changed_at": "2026-10-28",
+          "removed_blocks": 3,
           "added": [
             "Révolutionnaire pour votre maison, propriétaire pour la sienne : Je réponds à Jean-Luc Mélenchon !",
             "Mélenchon, nos villages, nos vignes, nos fêtes n’attendent pas votre permission pour exister.",
-            "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène"
+            "Cher Karim Zéribi, ici nous sommes en France, pas une dictature militaire à l’algérienne.",
+            "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène",
+            "Le peuple français est un souverain captif."
           ]
+        },
+        {
+          "url": "https://assets.ericzemmour.fr/ressources/tracts/programme-pour-la-france.pdf",
+          "changed_at": "2026-10-28",
+          "removed_blocks": 1,
+          "added": []
         }
       ],
       "new_pages": []
