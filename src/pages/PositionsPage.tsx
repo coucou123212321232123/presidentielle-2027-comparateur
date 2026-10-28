@@ -1,5 +1,5 @@
-import { Link, useSearchParams } from 'react-router-dom'
-import { Columns3, GitCompareArrows } from 'lucide-react'
+import { Link, useParams, useSearchParams } from 'react-router-dom'
+import { ArrowLeft, Columns3, GitCompareArrows } from 'lucide-react'
 import { candidates, summary, themes } from '../data'
 import type { Candidate, IndicatorDef, Theme } from '../data/schema'
 import type { Stance } from '../data/summary'
@@ -43,11 +43,19 @@ function CandidateChip({ candidate, stance }: { candidate: Candidate; stance: St
   )
 }
 
-function Question({ def }: { def: IndicatorDef }) {
+export function Question({ def, linked = true }: { def: IndicatorDef; linked?: boolean }) {
   const { groups, missing } = groupsFor(def)
   return (
     <div className="rounded-xl border border-line p-4">
-      <h3 className="font-semibold text-ink">{def.label}</h3>
+      <h3 className="font-semibold text-ink">
+        {linked ? (
+          <Link to={`/positions/${def.key}`} className="hover:underline">
+            {def.label}
+          </Link>
+        ) : (
+          def.label
+        )}
+      </h3>
       {groups.length > 1 && (
         <p className="mt-0.5 inline-flex items-center gap-1 text-xs text-muted">
           <GitCompareArrows className="size-3.5" aria-hidden="true" /> {groups.length} positions différentes
@@ -101,8 +109,38 @@ function ThemeSection({ theme }: { theme: Theme }) {
   )
 }
 
+/** Une seule question (/positions/isf/, pages indexées) : la question, ses réponses et les chiffres de contexte du thème. */
+function QuestionPage({ def, theme }: { def: IndicatorDef; theme: Theme }) {
+  return (
+    <div>
+      <Link to="/positions" className="mb-6 inline-flex items-center gap-1.5 text-sm font-medium text-muted hover:text-ink">
+        <ArrowLeft className="size-4" aria-hidden="true" /> Toutes les questions
+      </Link>
+      <PageHeader eyebrow={theme.label} title={`${def.label} : qui propose quoi ?`}>
+        La position de chaque candidat, telle qu'elle est écrite dans sa source : cliquez sur un nom pour voir la mesure et sa source.
+        « Pas de position relevée » signifie qu'aucune source n'a été trouvée, pas que le candidat n'a pas d'avis.
+      </PageHeader>
+      <div className="max-w-3xl">
+        <Question def={def} linked={false} />
+      </div>
+      <ThemeContext theme={theme.id} className="mt-8" />
+      <p className="mt-8 flex flex-wrap gap-x-6 gap-y-2 text-sm">
+        <Link to={`/themes/${theme.id}`} className="font-medium text-accent hover:underline">
+          {theme.label} : toutes les propositions des candidats
+        </Link>
+        <Link to={`/positions?theme=${theme.id}`} className="font-medium text-accent hover:underline">
+          Les autres questions du thème
+        </Link>
+      </p>
+    </div>
+  )
+}
+
 export default function PositionsPage() {
+  const { question } = useParams()
   const [params, setParams] = useSearchParams()
+  const asked = withIndicators.flatMap((t) => t.indicators.map((def) => ({ def, theme: t }))).find((q) => q.def.key === question)
+  if (asked) return <QuestionPage {...asked} />
   const current = withIndicators.find((t) => t.id === params.get('theme'))
   const shown = current ? [current] : withIndicators
   const chip = (active: boolean) =>

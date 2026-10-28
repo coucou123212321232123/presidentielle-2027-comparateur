@@ -8,12 +8,14 @@
  * remplace ce contenu dès son démarrage. page-hashes.json permet de ne signaler à IndexNow que les pages modifiées.
  *
  * Pages générées : accueil et rubriques, fiches candidats, votes, et liens de partage du comparateur
- * (/partage/<thème>/ et /partage/<thème>/<a>/<b>/ pour chaque paire de candidats).
+ * (/partage/<thème>/ et /partage/<thème>/<a>/<b>/ pour chaque paire de candidats). Pour les recherches précises
+ * (« programme de X sur la retraite »), aussi : une page par candidat et par thème (/candidats/<id>/<thème>/, à partir
+ * de deux mesures), une par thème (/themes/<thème>/) et une par question clé (/positions/<question>/).
  */
 import { createHash } from 'node:crypto'
 import { mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs'
 import { basename, join } from 'node:path'
-import type { Budgets, Candidate, GlossaryEntry, IndicatorDef, Measure, Theme, VotesFile } from '../src/data/schema.ts'
+import type { Budgets, Candidate, Context, GlossaryEntry, IndicatorDef, Measure, Theme, VotesFile } from '../src/data/schema.ts'
 import { indicatorsOf } from '../src/data/summary.ts'
 import { POSITION_LABELS, PROGRAM_STATUS_LABELS, STATUS_LABELS } from '../src/lib/labels.ts'
 
@@ -30,6 +32,7 @@ const measures: Record<string, Measure[]> = Object.fromEntries(
 )
 const glossary = read<GlossaryEntry[]>('glossary.json')
 const budgets = read<Budgets>('budgets.json')
+const context = read<Context>('context.json')
 /** Grille commune de la page Chiffrages (même ordre que dans l'application). */
 const BUDGET_GRID: [string, string][] = [
   ['economies', 'Économies'],
@@ -81,6 +84,18 @@ function shell(body: string) {
   return `${STYLE}<div class="seo"><p>${link('', 'Présidentielle 2027 – Comparateur de programmes')}</p>${body}<footer><p>Candidats : ${people}</p><p>${sections}</p><p>${DISCLAIMER} Données mises à jour le ${shortDate(siteMeta.last_updated)}.</p></footer></div>`
 }
 const measuresOf = (c: Candidate, theme?: string) => (measures[c.id] ?? []).filter((m) => !theme || m.theme === theme)
+/** Page « candidat × thème » à partir de deux mesures : en dessous, la page serait trop maigre (le thème reste sur la fiche). */
+const MIN_THEME_MEASURES = 2
+const hasThemePage = (c: Candidate, t: Theme) => measuresOf(c, t.id).length >= MIN_THEME_MEASURES
+const candidateTheme = (c: Candidate, t: Theme) => (hasThemePage(c, t) ? `candidats/${c.id}/${t.id}/` : `candidats/${c.id}/`)
+/** Chiffres de contexte d'un thème (Insee, DREES…), avec leur source. */
+function contextList(t: Theme) {
+  const figures = context.themes[t.id] ?? []
+  if (!figures.length) return ''
+  return `<h2>Où en est-on aujourd'hui ?</h2><ul>${figures
+    .map((f) => `<li>${esc(f.label)} : <strong>${esc(f.value)}</strong>${f.detail ? ` — ${esc(f.detail)}` : ''} <small>Source : ${ext(f.source_url, f.source_label)}</small></li>`)
+    .join('')}</ul>`
+}
 function measureItem(m: Measure) {
   const date = m.source_date ? `, ${shortDate(m.source_date)}` : ''
   const cost = m.cost ? ` <small>Coût annoncé : ${esc(m.cost.label)}.</small>` : ''
@@ -137,7 +152,7 @@ const candidateList = candidates
     return `<li>${link(`candidats/${c.id}/`, name(c))} — ${esc(c.party)} (${esc(c.party_short)}) · ${plural(n, 'mesure sourcée', 'mesures sourcées')}</li>`
   })
   .join('')
-const themeList = themes.map((t) => `<li><strong>${esc(t.label)}</strong> — ${esc(t.description)}</li>`).join('')
+const themeList = themes.map((t) => `<li>${link(`themes/${t.id}/`, t.label)} — ${esc(t.description)}</li>`).join('')
 page(
   '',
   home,
@@ -171,7 +186,7 @@ ${themes
           const rows = candidates.map((c) => ({ c, v: indicator(def, c) }))
           const known = rows.filter((r) => r.v !== 'pas de position relevée')
           const unknown = rows.filter((r) => r.v === 'pas de position relevée')
-          return `<h3>${esc(def.label)}</h3><ul>${known.map((r) => `<li>${link(`candidats/${r.c.id}/`, name(r.c))} : ${esc(r.v)}</li>`).join('')}${
+          return `<h3>${link(`positions/${def.key}/`, def.label)}</h3><ul>${known.map((r) => `<li>${link(`candidats/${r.c.id}/`, name(r.c))} : ${esc(r.v)}</li>`).join('')}${
             unknown.length ? `<li>Pas de position relevée : ${unknown.map((r) => esc(r.c.last_name)).join(', ')}</li>` : ''
           }</ul>`
         })
@@ -186,7 +201,7 @@ page(
 ${themes
   .map((t) => {
     const rows = candidates.map((c) => ({ c, n: measuresOf(c, t.id).length })).filter((r) => r.n > 0)
-    return `<h2>${esc(t.label)}</h2><p>${esc(t.description)}</p><ul>${rows.map((r) => `<li>${link(`candidats/${r.c.id}/`, name(r.c))} : ${plural(r.n, 'mesure', 'mesures')}</li>`).join('')}</ul>`
+    return `<h2>${link(`themes/${t.id}/`, t.label)}</h2><p>${esc(t.description)}</p><ul>${rows.map((r) => `<li>${link(candidateTheme(r.c, t), name(r.c))} : ${plural(r.n, 'mesure', 'mesures')}</li>`).join('')}</ul>`
   })
   .join('')}`,
 )
@@ -291,20 +306,126 @@ ${axes}
 ${covered
   .map((t) => {
     const inTheme = list.filter((m) => m.theme === t.id)
-    return `<h3>${esc(t.label)} (${inTheme.length})</h3><ul>${inTheme.map(measureItem).join('')}</ul>`
+    const heading = hasThemePage(c, t) ? link(`candidats/${c.id}/${t.id}/`, t.label) : esc(t.label)
+    return `<h3>${heading} (${inTheme.length})</h3><ul>${inTheme.map(measureItem).join('')}</ul>`
   })
   .join('')}
 ${c.sources.length ? `<h2>Sources de la fiche</h2><ul>${c.sources.map((s) => `<li>${ext(s.url, s.label)}</li>`).join('')}</ul>` : ''}`,
   )
 }
 
-/** Valeur d'un point de comparaison, telle qu'affichée dans le comparateur. */
-function indicator(def: IndicatorDef, c: Candidate) {
+/** Position d'un candidat sur un point de comparaison, telle qu'affichée dans le comparateur, et la mesure qui l'énonce. */
+function stance(def: IndicatorDef, c: Candidate) {
   for (const m of measures[c.id] ?? []) {
     const ind = indicatorsOf(m).find((i) => i.key === def.key)
-    if (ind) return def.type === 'enum' ? (def.options?.[String(ind.value)] ?? String(ind.value)) : `${ind.value.toLocaleString('fr-FR')}${def.unit ? ` ${def.unit}` : ''}`
+    if (ind)
+      return {
+        value: def.type === 'enum' ? (def.options?.[String(ind.value)] ?? String(ind.value)) : `${ind.value.toLocaleString('fr-FR')}${def.unit ? ` ${def.unit}` : ''}`,
+        measure: m,
+      }
   }
-  return 'pas de position relevée'
+  return null
+}
+function indicator(def: IndicatorDef, c: Candidate) {
+  return stance(def, c)?.value ?? 'pas de position relevée'
+}
+
+// --- Pages pour les recherches précises : candidat × thème, thème, question clé -----------------------------
+for (const c of candidates) {
+  for (const t of themes.filter((t) => hasThemePage(c, t))) {
+    const list = measuresOf(c, t.id)
+    const positions = t.indicators.flatMap((def) => {
+      const s = stance(def, c)
+      return s ? [{ def, s }] : []
+    })
+    const others = candidates.filter((o) => o.id !== c.id && measuresOf(o, t.id).length)
+    const otherThemes = themes.filter((o) => o.id !== t.id && hasThemePage(c, o))
+    page(
+      `candidats/${c.id}/${t.id}/`,
+      {
+        title: `Programme de ${name(c)} 2027 : ${t.label} (${c.party_short})`,
+        description: `${t.label} : les ${list.length} mesures de ${name(c)} (${c.party}) pour la présidentielle 2027, dont « ${list[0].title} ». Chacune avec sa source. ${DISCLAIMER}`,
+        image: `candidat-${c.id}`,
+      },
+      `<h1>${esc(t.label)} : le programme de ${esc(name(c))} pour 2027</h1>
+<p>${esc(name(c))} · ${esc(c.party)} (${esc(c.party_short)}). ${plural(list.length, 'mesure sourcée', 'mesures sourcées')} sur ce thème (${esc(t.description.toLowerCase())}).</p>
+${positions.length ? `<h2>Ses positions sur les questions clés</h2><ul>${positions.map((p) => `<li>${link(`positions/${p.def.key}/`, p.def.label)} : ${esc(p.s.value)}</li>`).join('')}</ul>` : ''}
+<h2>Ses mesures : ${esc(t.label)}</h2><ul>${list.map(measureItem).join('')}</ul>
+${contextList(t)}
+<h2>Les autres candidats sur ce thème</h2><p>${link(`themes/${t.id}/`, `${t.label} : que proposent les candidats ?`)}</p><ul>${others
+        .map((o) => `<li>${link(candidateTheme(o, t), name(o))} (${esc(o.party_short)}) : ${plural(measuresOf(o, t.id).length, 'mesure', 'mesures')}</li>`)
+        .join('')}</ul>
+<h2>Les autres thèmes du programme de ${esc(name(c))}</h2><ul>${otherThemes.map((o) => `<li>${link(`candidats/${c.id}/${o.id}/`, o.label)}</li>`).join('')}</ul>
+<p>${link(`candidats/${c.id}/`, `Toute la fiche de ${name(c)}`)}</p>`,
+    )
+  }
+}
+
+for (const t of themes) {
+  const rows = candidates.map((c) => ({ c, list: measuresOf(c, t.id) }))
+  const withMeasures = rows.filter((r) => r.list.length)
+  const without = rows.filter((r) => !r.list.length)
+  const questions = t.indicators
+    .map((def) => {
+      const known = candidates.flatMap((c) => {
+        const s = stance(def, c)
+        return s ? [{ c, s }] : []
+      })
+      const rest = candidates.length - known.length
+      return `<h3>${link(`positions/${def.key}/`, def.label)}</h3><ul>${known.map((r) => `<li>${esc(name(r.c))} : ${esc(r.s.value)}</li>`).join('')}${
+        rest ? `<li>Pas de position relevée pour ${plural(rest, 'candidat', 'candidats')}</li>` : ''
+      }</ul>`
+    })
+    .join('')
+  page(
+    `themes/${t.id}/`,
+    {
+      title: `${t.label} : que proposent les candidats ? – Présidentielle 2027`,
+      description: `${t.description} Les propositions de ${plural(withMeasures.length, 'candidat', 'candidats')} à la présidentielle 2027, candidat par candidat, avec leurs sources. ${DISCLAIMER}`,
+      image: `theme-${t.id}`,
+    },
+    `<h1>${esc(t.label)} : que proposent les candidats à la présidentielle 2027 ?</h1>
+<p>${esc(t.description)} ${plural(withMeasures.length, 'candidat a', 'candidats ont')} publié des propositions sur ce thème, sur ${candidates.length}. <a href="${href(`comparateur?theme=${t.id}`)}">Les comparer côte à côte</a>.</p>
+${questions ? `<h2>Les questions clés</h2>${questions}` : ''}
+${contextList(t)}
+<h2>Les propositions, candidat par candidat</h2>
+${withMeasures
+      .map((r) => `<h3>${link(candidateTheme(r.c, t), name(r.c))} (${esc(r.c.party_short)}) · ${plural(r.list.length, 'mesure', 'mesures')}</h3><ul>${r.list.map((m) => `<li>${esc(m.title)}</li>`).join('')}</ul>`)
+      .join('')}
+${without.length ? `<p>Pas de position publiée à ce jour : ${without.map((r) => esc(name(r.c))).join(', ')}.</p>` : ''}
+<p>Les autres thèmes : ${themes.filter((o) => o.id !== t.id).map((o) => link(`themes/${o.id}/`, o.short)).join(' · ')}</p>`,
+  )
+
+  for (const def of t.indicators) {
+    const known = candidates.flatMap((c) => {
+      const s = stance(def, c)
+      return s ? [{ c, s }] : []
+    })
+    const missing = candidates.filter((c) => !known.some((r) => r.c.id === c.id))
+    const groups = [...new Set(known.map((r) => r.s.value))].map((value) => ({ value, items: known.filter((r) => r.s.value === value) }))
+    const summaryText = groups.map((g) => `${g.value} (${g.items.map((r) => r.c.last_name).join(', ')})`).join(' ; ')
+    page(
+      `positions/${def.key}/`,
+      {
+        title: `${def.label} : la position des candidats – Présidentielle 2027`,
+        description: `${def.label} : ${summaryText || 'aucune position relevée à ce jour'}. Chaque position avec sa source. ${DISCLAIMER}`,
+        image: `theme-${t.id}`,
+      },
+      `<h1>${esc(def.label)} : qui propose quoi à la présidentielle 2027 ?</h1>
+<p>La position de chaque candidat, uniquement lorsqu'elle est écrite telle quelle dans une source. Thème : ${link(`themes/${t.id}/`, t.label)}.</p>
+${groups
+        .map(
+          (g) =>
+            `<h2>${esc(g.value)}</h2><ul>${g.items
+              .map((r) => `<li>${link(candidateTheme(r.c, t), name(r.c))} (${esc(r.c.party_short)}) : « ${esc(r.s.measure.title)} » <small>Source : ${ext(r.s.measure.source_url, r.s.measure.source_title)}</small></li>`)
+              .join('')}</ul>`,
+        )
+        .join('')}
+${missing.length ? `<p>Pas de position relevée : ${missing.map((c) => esc(name(c))).join(', ')}. Aucune source ne l'énonce à ce jour, ce qui ne veut pas dire que le candidat n'a pas d'avis.</p>` : ''}
+${contextList(t)}
+<p>${link('positions/', 'Toutes les questions clés')}</p>`,
+    )
+  }
 }
 
 for (const t of themes) {

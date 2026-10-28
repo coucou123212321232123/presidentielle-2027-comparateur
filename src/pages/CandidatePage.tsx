@@ -194,10 +194,11 @@ function BriefCard({ children }: { children: React.ReactNode }) {
 }
 
 export default function CandidatePage() {
-  const { id = '' } = useParams()
+  // Thème dans l'adresse (/candidats/le-pen/retraites/, pages indexées) ou en paramètre (?theme=retraites).
+  const { id = '', theme: pathTheme } = useParams()
   const [params] = useSearchParams()
   const candidate = candidateById[id]
-  const initialTheme = params.get('theme') as ThemeId | null
+  const initialTheme = (pathTheme ?? params.get('theme')) as ThemeId | null
   const target = params.get('mesure')
   const since = useNovelty((s) => s.since)
   // Depuis le bandeau des nouveautés : les thèmes qui contiennent de nouvelles mesures sont dépliés.
@@ -214,6 +215,13 @@ export default function CandidatePage() {
     const t = window.setTimeout(() => document.getElementById(`mesure-${target}`)?.scrollIntoView({ block: 'center' }), 350)
     return () => window.clearTimeout(t)
   }, [target, loaded])
+
+  // Arrivée sur l'adresse d'un thème : on amène ce thème, déjà déplié, à l'écran.
+  useEffect(() => {
+    if (!pathTheme || target || !loaded) return
+    const t = window.setTimeout(() => document.getElementById(`theme-${pathTheme}`)?.scrollIntoView({ block: 'start' }), 350)
+    return () => window.clearTimeout(t)
+  }, [pathTheme, target, loaded])
 
   if (!candidate) return <NotFoundPage />
 

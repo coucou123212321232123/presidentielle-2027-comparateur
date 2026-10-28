@@ -136,7 +136,7 @@ export default function ThemesPage() {
             {themes.map((t) => (
               <tr key={t.id} className="group">
                 <th scope="row" className="sticky left-0 z-10 border-b border-r border-line bg-surface p-3 text-left align-top font-medium">
-                  <Link to={`/comparateur?theme=${t.id}`} className="flex items-center gap-2 text-ink hover:underline">
+                  <Link to={`/themes/${t.id}`} className="flex items-center gap-2 text-ink hover:underline">
                     <ThemeIcon theme={t} className="size-4 shrink-0 text-muted" />
                     {t.short}
                   </Link>

@@ -8,6 +8,7 @@ import { HomePage } from './pages/HomePage'
 const CandidatePage = lazy(() => import('./pages/CandidatePage'))
 const ComparePage = lazy(() => import('./pages/ComparePage'))
 const ThemesPage = lazy(() => import('./pages/ThemesPage'))
+const ThemePage = lazy(() => import('./pages/ThemePage'))
 const ProgramsPage = lazy(() => import('./pages/ProgramsPage'))
 const BudgetsPage = lazy(() => import('./pages/BudgetsPage'))
 const MethodologyPage = lazy(() => import('./pages/MethodologyPage'))
@@ -59,9 +60,12 @@ export function App() {
           <Route element={<Layout />}>
             <Route index element={<HomePage />} />
             <Route path="candidats/:id" element={lazyPage(<CandidatePage />)} />
+            <Route path="candidats/:id/:theme" element={lazyPage(<CandidatePage />)} />
             <Route path="comparateur" element={lazyPage(<ComparePage />)} />
             <Route path="positions" element={lazyPage(<PositionsPage />)} />
+            <Route path="positions/:question" element={lazyPage(<PositionsPage />)} />
             <Route path="themes" element={lazyPage(<ThemesPage />)} />
+            <Route path="themes/:theme" element={lazyPage(<ThemePage />)} />
             <Route path="selection" element={lazyPage(<SelectionPage />)} />
             <Route path="nouveautes" element={lazyPage(<NewsPage />)} />
             <Route path="programmes" element={lazyPage(<ProgramsPage />)} />
