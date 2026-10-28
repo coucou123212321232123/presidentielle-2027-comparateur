@@ -4,19 +4,10 @@ import { Link } from 'react-router-dom'
 import { create } from 'zustand'
 import { glossary } from '../data'
 import type { GlossaryEntry } from '../data/schema'
+import { glossaryMatcher } from '../lib/glossaryMatch'
 import { ExternalLink } from './ExternalLink'
 
-const byForm = new Map<string, GlossaryEntry>()
-for (const g of glossary) for (const form of [g.term, ...g.aliases]) byForm.set(form, g)
-
-const escape = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-// Formes les plus longues d'abord (« EPR2 » avant « EPR »), et jamais au milieu d'un mot.
-const pattern = byForm.size
-  ? new RegExp(
-      `(?<![\\p{L}\\p{N}])(${[...byForm.keys()].sort((a, b) => b.length - a.length).map(escape).join('|')})(?![\\p{L}\\p{N}])`,
-      'gu',
-    )
-  : null
+const { byForm, pattern } = glossaryMatcher(glossary)
 
 interface TipState {
   entry: GlossaryEntry | null
@@ -154,8 +145,8 @@ export function GlossaryTooltip() {
         <ExternalLink href={entry.source_url} className="text-accent hover:underline">
           {entry.source_label}
         </ExternalLink>
-        <Link to={`/glossaire#${entry.id}`} onClick={close} className="font-medium text-muted hover:text-ink">
-          Tout le glossaire
+        <Link to={`/glossaire/${entry.id}`} onClick={close} className="font-medium text-muted hover:text-ink">
+          Qui en parle ?
         </Link>
       </p>
     </div>,

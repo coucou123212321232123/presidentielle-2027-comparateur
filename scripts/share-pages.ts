@@ -10,13 +10,15 @@
  * Pages générées : accueil et rubriques, fiches candidats, votes, et liens de partage du comparateur
  * (/partage/<thème>/ et /partage/<thème>/<a>/<b>/ pour chaque paire de candidats). Pour les recherches précises
  * (« programme de X sur la retraite »), aussi : une page par candidat et par thème (/candidats/<id>/<thème>/, à partir
- * de deux mesures), une par thème (/themes/<thème>/) et une par question clé (/positions/<question>/).
+ * de deux mesures), une par thème (/themes/<thème>/), une par question clé (/positions/<question>/) et une par terme du
+ * glossaire cité par au moins deux candidats (/glossaire/<terme>/).
  */
 import { createHash } from 'node:crypto'
 import { mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs'
 import { basename, join } from 'node:path'
 import type { Budgets, Candidate, Context, GlossaryEntry, IndicatorDef, Measure, Theme, VotesFile } from '../src/data/schema.ts'
 import { indicatorsOf } from '../src/data/summary.ts'
+import { glossaryMatcher, shownAliases } from '../src/lib/glossaryMatch.ts'
 import { POSITION_LABELS, PROGRAM_STATUS_LABELS, STATUS_LABELS } from '../src/lib/labels.ts'
 
 const ROOT = join(import.meta.dirname, '..')
@@ -270,6 +272,16 @@ page(
   `<h1>Présidentielle 2027 : calendrier, parrainages et temps de parole</h1>
 <p>Premier tour le ${shortDate(siteMeta.election.first_round)}, second tour le ${shortDate(siteMeta.election.second_round)}. Parrainages publiés par le Conseil constitutionnel et temps de parole relevé par l'Arcom.</p>`,
 )
+/** Pour chaque terme du glossaire, les candidats dont une mesure le cite, avec ces mesures. */
+const { termsIn } = glossaryMatcher(glossary)
+const citations: Record<string, { c: Candidate; list: Measure[] }[]> = {}
+for (const c of candidates) {
+  const byTerm = new Map<string, Measure[]>()
+  for (const m of measuresOf(c)) for (const id of termsIn(`${m.title} ${m.description}`)) byTerm.set(id, [...(byTerm.get(id) ?? []), m])
+  for (const [id, list] of byTerm) (citations[id] ??= []).push({ c, list })
+}
+/** Page propre à un terme à partir de deux candidats qui le citent : en dessous, elle serait trop maigre. */
+const hasGlossaryPage = (id: string) => (citations[id]?.length ?? 0) >= 2
 page('mentions-legales/', { ...home, title: 'Mentions légales – Présidentielle 2027' }, `<h1>Mentions légales</h1><p>${DISCLAIMER}</p>`)
 page(
   'glossaire/',
@@ -278,9 +290,16 @@ page(
     title: 'Glossaire des sigles et termes – Présidentielle 2027',
     description: `ISF, PFU, AME, EPR2… les sigles des programmes et des textes votés, expliqués en quelques mots avec leur source officielle. ${DISCLAIMER}`,
   },
-  `<h1>Glossaire des sigles et termes de la présidentielle 2027</h1>
+  `<h1>Glossaire des sigles et notions de la présidentielle 2027</h1>
+<p>Les sigles et notions des programmes et des textes votés (ISF, taxe Zucman, 49.3, droit du sol…), expliqués en quelques mots avec leur source officielle, et les candidats qui en parlent.</p>
 <dl>${glossary
-    .map((g) => `<dt>${esc(g.term)}${g.expansion ? ` (${esc(g.expansion)})` : ''}</dt><dd>${esc(g.definition)} <small>Source : ${ext(g.source_url, g.source_label)}</small></dd>`)
+    .map((g) => {
+      const cited = citations[g.id] ?? []
+      const term = hasGlossaryPage(g.id) ? link(`glossaire/${g.id}/`, g.term) : esc(g.term)
+      return `<dt>${term}${g.expansion !== g.term ? ` (${esc(g.expansion)})` : ''}</dt><dd>${esc(g.definition)} <small>Source : ${ext(g.source_url, g.source_label)}</small>${
+        cited.length ? ` <small>Cité par : ${cited.map((x) => esc(x.c.last_name)).join(', ')}.</small>` : ''
+      }</dd>`
+    })
     .join('')}</dl>`,
 )
 
@@ -452,6 +471,28 @@ for (const t of themes) {
         image: `theme-${t.id}`,
       })
     }
+}
+
+for (const g of glossary.filter((g) => hasGlossaryPage(g.id))) {
+  const cited = citations[g.id]
+  const aliases = shownAliases(g)
+  const label = g.expansion !== g.term ? `${g.term} (${g.expansion})` : g.term
+  page(
+    `glossaire/${g.id}/`,
+    {
+      title: `${g.term} : définition et propositions des candidats – Présidentielle 2027`,
+      description: `${label} : ${g.definition.split('. ')[0].replace(/\.$/, '')}. Ce qu'en disent ${cited.map((x) => x.c.last_name).join(', ')}, avec leurs sources. ${DISCLAIMER}`,
+      image: 'accueil',
+    },
+    `<h1>${esc(g.term)} : de quoi parle-t-on ?</h1>
+<p><strong>${esc(label)}</strong>. ${esc(g.definition)}</p>
+${aliases.length ? `<p>Aussi appelé : ${esc(aliases.join(', '))}.</p>` : ''}
+<p><small>Source : ${ext(g.source_url, g.source_label)}</small></p>
+<h2>Les candidats qui en parlent</h2>
+<p>Les mesures des ${plural(cited.length, 'candidat', 'candidats')} qui citent ce terme, telles qu'ils les présentent.</p>
+${cited.map((x) => `<h3>${link(`candidats/${x.c.id}/`, name(x.c))} (${esc(x.c.party_short)})</h3><ul>${x.list.map(measureItem).join('')}</ul>`).join('')}
+<p>${link('glossaire/', 'Tout le glossaire')}</p>`,
+  )
 }
 
 const voteResult = (s: VotesFile['scrutins'][number]) =>

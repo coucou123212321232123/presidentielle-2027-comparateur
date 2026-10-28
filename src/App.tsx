@@ -74,6 +74,7 @@ export function App() {
             <Route path="votes/:id" element={lazyPage(<VotesPage />)} />
             <Route path="election" element={lazyPage(<ElectionPage />)} />
             <Route path="glossaire" element={lazyPage(<GlossaryPage />)} />
+            <Route path="glossaire/:term" element={lazyPage(<GlossaryPage />)} />
             <Route path="mentions-legales" element={lazyPage(<LegalPage />)} />
             <Route path="methodologie" element={lazyPage(<MethodologyPage />)} />
             <Route path="partage/:theme/:a?/:b?" element={<ShareRedirect />} />

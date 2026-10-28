@@ -21,6 +21,26 @@
     "source_url": "https://www.education.gouv.fr/etre-accompagnant-des-eleves-en-situation-de-handicap-aesh-12188"
   },
   {
+    "id": "age-legal",
+    "term": "Âge légal de départ",
+    "expansion": "Âge minimum de départ à la retraite",
+    "aliases": [
+      "âge légal"
+    ],
+    "definition": "Âge à partir duquel on peut partir à la retraite, sauf départ anticipé (carrière longue, handicap…). Il est de 62 ans et 9 mois pour les personnes nées entre 1963 et mars 1965, puis augmente par trimestre jusqu'à 64 ans pour celles nées à partir de 1969.",
+    "source_label": "Service-public.gouv.fr – À partir de quel âge un salarié peut-il partir en retraite ?",
+    "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14043"
+  },
+  {
+    "id": "aide-a-mourir",
+    "term": "Aide à mourir",
+    "expansion": "Droit créé par la loi du 18 août 2026",
+    "aliases": [],
+    "definition": "Possibilité, pour une personne majeure atteinte d'une maladie grave et incurable en phase avancée ou terminale, avec des souffrances qu'elle juge insupportables, d'obtenir une aide médicale pour mettre fin à ses jours. La loi du 18 août 2026 a créé ce droit, sous conditions.",
+    "source_label": "Sénat – La loi en clair : droit à l'aide à mourir",
+    "source_url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-relative-au-droit-a-laide-a-mourir.html"
+  },
+  {
     "id": "ame",
     "term": "AME",
     "expansion": "Aide médicale de l'État",
@@ -57,6 +77,19 @@
     "definition": "Établissement public qui pilote la politique de santé dans chaque région : veille sanitaire, prévention, organisation et financement des hôpitaux, soins de ville et établissements médico-sociaux.",
     "source_label": "Agences régionales de santé – Qu'est-ce qu'une agence régionale de santé",
     "source_url": "https://www.ars.sante.fr/quest-ce-quune-agence-regionale-de-sante"
+  },
+  {
+    "id": "article-49-3",
+    "term": "49.3",
+    "expansion": "Article 49, alinéa 3, de la Constitution",
+    "aliases": [
+      "49-3",
+      "article 49.3",
+      "article 49, alinéa 3"
+    ],
+    "definition": "Procédure qui permet au Premier ministre de faire adopter un texte sans vote, en engageant la responsabilité du Gouvernement : le texte est considéré comme adopté sauf si une motion de censure est votée. Depuis 2008, elle est limitée aux budgets de l'État et de la Sécurité sociale et à un autre texte par session.",
+    "source_label": "Assemblée nationale – Fiche de synthèse n° 64 : la mise en cause de la responsabilité du Gouvernement",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/synthese/fonctionnement-assemblee-nationale/evaluation-politiques-publiques-controle-gouvernement/la-mise-en-cause-de-la-responsabilite-du-gouvernement"
   },
   {
     "id": "aspa",
@@ -181,6 +214,18 @@
     "source_url": "https://www.cnil.fr/fr/les-missions"
   },
   {
+    "id": "commandement-integre-otan",
+    "term": "Commandement intégré de l'OTAN",
+    "expansion": "Structure militaire de l'Alliance atlantique",
+    "aliases": [
+      "commandement intégré de l’OTAN",
+      "commandement intégré"
+    ],
+    "definition": "Structures militaires communes de l'OTAN (états-majors, planification). La France l'a quitté en 1966 tout en restant membre de l'Alliance, puis l'a réintégré en 2009, en gardant son indépendance nucléaire et sa liberté d'engager ou non ses forces.",
+    "source_label": "Représentation de la France auprès de l'OTAN – La France et l'OTAN",
+    "source_url": "https://otan.diplomatie.gouv.fr/fr/la-france-et-lotan"
+  },
+  {
     "id": "csg",
     "term": "CSG",
     "expansion": "Contribution sociale généralisée",
@@ -197,6 +242,24 @@
     "definition": "Impôt local dû par les entreprises au-delà d'un certain chiffre d'affaires, assis sur la valeur ajoutée qu'elles produisent ; sa suppression progressive est engagée.",
     "source_label": "Economie.gouv.fr – Qu'est-ce que la cotisation sur la valeur ajoutée des entreprises (CVAE) ?",
     "source_url": "https://www.economie.gouv.fr/entreprises/gerer-sa-fiscalite-et-ses-impots/autres-impots-et-taxes/quest-ce-que-la-cotisation-sur-la-valeur-ajoutee-des-entreprises-cvae"
+  },
+  {
+    "id": "deficit-public",
+    "term": "Déficit public",
+    "expansion": "Besoin de financement des administrations publiques",
+    "aliases": [],
+    "definition": "Écart, sur une année, entre les dépenses et les recettes de l'ensemble des administrations publiques (État, collectivités locales, Sécurité sociale). Il s'exprime en pourcentage du PIB : 5,1 % en 2025 selon l'Insee.",
+    "source_label": "Insee – En 2025, le déficit public s’élève à 5,1 % du PIB",
+    "source_url": "https://www.insee.fr/fr/statistiques/8956575"
+  },
+  {
+    "id": "dette-publique",
+    "term": "Dette publique",
+    "expansion": "Dette au sens de Maastricht",
+    "aliases": [],
+    "definition": "Ensemble des emprunts de l'État, des collectivités locales et de la Sécurité sociale, mesuré selon les règles européennes (dette « au sens de Maastricht »). L'Insee la publie chaque trimestre, en milliards d'euros et en pourcentage du PIB.",
+    "source_label": "Insee – Définition : dette au sens de Maastricht",
+    "source_url": "https://www.insee.fr/fr/metadonnees/definition/c1091"
   },
   {
     "id": "dgf",
@@ -217,6 +280,29 @@
     "source_url": "https://www.ecologie.gouv.fr/politiques-publiques/diagnostic-performance-energetique-dpe"
   },
   {
+    "id": "droit-du-sol",
+    "term": "Droit du sol",
+    "expansion": "Nationalité liée au lieu de naissance",
+    "aliases": [
+      "double droit du sol"
+    ],
+    "definition": "Accès à la nationalité par la naissance en France. Un enfant né en France d'un parent lui-même né en France est français dès la naissance. Né en France de parents étrangers, il le devient à 18 ans s'il y réside et y a vécu au moins 5 ans depuis ses 11 ans, ou plus tôt sur demande. Mayotte a des règles particulières.",
+    "source_label": "Service-public.gouv.fr – Nationalité française d'un enfant né en France de parents étrangers",
+    "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F295"
+  },
+  {
+    "id": "droits-de-succession",
+    "term": "Droits de succession",
+    "expansion": "Impôt sur l'héritage",
+    "aliases": [
+      "droit de succession",
+      "frais de succession"
+    ],
+    "definition": "Impôt payé par les héritiers sur ce qu'ils reçoivent. Le conjoint marié ou pacsé en est exonéré. Chaque enfant bénéficie d'un abattement de 100 000 € par parent ; au-delà, le taux va de 5 % à 45 % selon le montant reçu.",
+    "source_label": "Service-public.gouv.fr – Droits de succession : évaluation et calcul",
+    "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14198"
+  },
+  {
     "id": "ehpad",
     "term": "EHPAD",
     "expansion": "Établissement d'hébergement pour personnes âgées dépendantes",
@@ -227,6 +313,15 @@
     "definition": "Maison de retraite médicalisée qui accueille des personnes âgées ayant besoin d'aide et de soins au quotidien, avec hébergement, restauration, animation et soins.",
     "source_label": "Pour-les-personnes-agees.gouv.fr – Les EHPAD",
     "source_url": "https://www.pour-les-personnes-agees.gouv.fr/vivre-dans-un-ehpad/les-differents-etablissements-medicalises/les-ehpad"
+  },
+  {
+    "id": "encadrement-des-loyers",
+    "term": "Encadrement des loyers",
+    "expansion": "Plafonnement des loyers",
+    "aliases": [],
+    "definition": "Règles qui limitent les loyers. Dans les zones tendues, le loyer ne peut pas être augmenté librement à la relocation. Dans certaines villes (Paris, Lyon, Lille, Bordeaux, Montpellier, Grenoble, Pays basque, communes de Seine-Saint-Denis…), il ne peut pas dépasser un loyer de référence majoré.",
+    "source_label": "Service-public.gouv.fr – En quoi consiste l'encadrement des loyers en zone tendue ?",
+    "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1314"
   },
   {
     "id": "epci",
@@ -297,6 +392,26 @@
     "source_url": "https://www.police-nationale.interieur.gouv.fr/nous-decouvrir/notre-organisation/organisation/linspection-generale-de-police-nationale-igpn"
   },
   {
+    "id": "impots-de-production",
+    "term": "Impôts de production",
+    "expansion": "Impôts sur la production",
+    "aliases": [
+      "impôt de production"
+    ],
+    "definition": "Impôts payés par les entreprises du seul fait de leur activité, qu'elles fassent des bénéfices ou non : taxes sur les locaux et les terrains (cotisation foncière des entreprises, taxe foncière), sur les salaires, ou assises sur la valeur ajoutée ou le chiffre d'affaires (CVAE, C3S).",
+    "source_label": "Insee – Définition : impôts sur la production et les importations",
+    "source_url": "https://www.insee.fr/fr/metadonnees/definition/c2089"
+  },
+  {
+    "id": "interessement",
+    "term": "Intéressement",
+    "expansion": "Prime liée aux résultats de l'entreprise",
+    "aliases": [],
+    "definition": "Prime versée aux salariés selon les résultats ou les performances de l'entreprise, prévue par un accord facultatif. À ne pas confondre avec la participation, obligatoire dans les entreprises d'au moins 50 salariés, qui redistribue une part des bénéfices.",
+    "source_label": "Service-public.gouv.fr – Intéressement",
+    "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2140"
+  },
+  {
     "id": "isf",
     "term": "ISF",
     "expansion": "Impôt de solidarité sur la fortune",
@@ -325,6 +440,29 @@
     "definition": "Union douanière d'Amérique du Sud (Argentine, Brésil, Paraguay, Uruguay). L'accord UE-Mercosur est un accord de partenariat et de commerce qui réduit notamment les droits de douane entre les deux zones.",
     "source_label": "Commission européenne – L'accord commercial UE-Mercosur",
     "source_url": "https://commission.europa.eu/topics/trade/eu-mercosur-trade-agreement_en?prefLang=fr"
+  },
+  {
+    "id": "nationalisation",
+    "term": "Nationalisation",
+    "expansion": "Prise de contrôle d'une entreprise par l'État",
+    "aliases": [
+      "nationalisations",
+      "renationalisation"
+    ],
+    "definition": "Opération par laquelle l'État prend le contrôle direct d'une entreprise, en détenant plus de la moitié de son capital. L'opération inverse est la privatisation.",
+    "source_label": "Insee – Définition : nationalisation, privatisation",
+    "source_url": "https://www.insee.fr/fr/metadonnees/definition/c1874"
+  },
+  {
+    "id": "niches-fiscales",
+    "term": "Niches fiscales",
+    "expansion": "Dépenses fiscales",
+    "aliases": [
+      "niche fiscale"
+    ],
+    "definition": "Avantages prévus par la loi (réductions et crédits d'impôt, exonérations, taux réduits) qui allègent l'impôt de certains contribuables par rapport à la règle générale. Comme ils font perdre des recettes à l'État, leur nom officiel est « dépenses fiscales ».",
+    "source_label": "Cour des comptes – Piloter et évaluer les dépenses fiscales (2023)",
+    "source_url": "https://www.ccomptes.fr/fr/publications/piloter-et-evaluer-les-depenses-fiscales"
   },
   {
     "id": "ocde",
@@ -377,6 +515,18 @@
     "definition": "Politique de l'Union européenne qui soutient les agriculteurs (aides au revenu, régulation des marchés, développement rural), financée par le budget européen.",
     "source_label": "Ministère de l'Agriculture – PAC (politique agricole commune)",
     "source_url": "https://agriculture.gouv.fr/pac-politique-agricole-commune"
+  },
+  {
+    "id": "peines-planchers",
+    "term": "Peines planchers",
+    "expansion": "Peines minimales obligatoires",
+    "aliases": [
+      "peine plancher",
+      "peines plancher"
+    ],
+    "definition": "Peines minimales que le juge devait prononcer, notamment en cas de récidive, sauf décision spécialement motivée. Créées par une loi de 2007, elles ont été supprimées par la loi du 15 août 2014, qui a rendu au juge son pouvoir d'appréciation.",
+    "source_label": "Sénat – Rapport sur le projet de loi relatif à la prévention de la récidive et à l'individualisation des peines (2014)",
+    "source_url": "https://www.senat.fr/rap/l13-641-1/l13-641-1_mono.html"
   },
   {
     "id": "pfas",
@@ -438,6 +588,27 @@
     "source_url": "https://www.insee.fr/fr/metadonnees/definition/c1962"
   },
   {
+    "id": "preference-nationale",
+    "term": "Préférence nationale",
+    "expansion": "Priorité donnée aux Français pour certains droits",
+    "aliases": [],
+    "definition": "Principe consistant à réserver aux Français, ou à leur donner en priorité, certains emplois, logements ou aides sociales. Le Conseil constitutionnel a jugé en 2024 que les étrangers en situation stable et régulière ont droit à la protection sociale, une durée de résidence pouvant être exigée si elle est proportionnée.",
+    "source_label": "Conseil constitutionnel – Décision n° 2024-6 RIP du 11 avril 2024",
+    "source_url": "https://www.conseil-constitutionnel.fr/decision/2024/20246RIP.htm"
+  },
+  {
+    "id": "proportionnelle",
+    "term": "Proportionnelle",
+    "expansion": "Scrutin proportionnel",
+    "aliases": [
+      "scrutin proportionnel",
+      "proportionnelle intégrale"
+    ],
+    "definition": "Mode de scrutin où les sièges sont répartis entre les listes en proportion des voix obtenues (« intégrale » : pour tous les sièges). Les députés sont aujourd'hui élus au scrutin majoritaire à deux tours dans 577 circonscriptions ; sous la Ve République, la proportionnelle n'a servi qu'aux législatives de 1986.",
+    "source_label": "Assemblée nationale – Fiche de synthèse n° 3 : l'élection des députés",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/synthese/deputes-groupes-parlementaires/l-election-des-deputes"
+  },
+  {
     "id": "ptz",
     "term": "PTZ",
     "expansion": "Prêt à taux zéro",
@@ -447,6 +618,50 @@
     "definition": "Prêt sans intérêts, accordé sous conditions de ressources par des banques conventionnées, pour aider les primo-accédants à acheter leur résidence principale, en complément d'un autre crédit.",
     "source_label": "Economie.gouv.fr – Prêt à taux zéro (PTZ) : tout ce qu'il faut savoir",
     "source_url": "https://www.economie.gouv.fr/particuliers/emprunter-et-sassurer/pret-taux-zero-ptz-tout-ce-quil-faut-savoir"
+  },
+  {
+    "id": "quotient-familial",
+    "term": "Quotient familial",
+    "expansion": "Parts fiscales selon la composition du foyer",
+    "aliases": [],
+    "definition": "Mécanisme de l'impôt sur le revenu qui divise le revenu du foyer en « parts » selon sa composition : 2 parts pour un couple marié ou pacsé, une demi-part pour chacun des deux premiers enfants, une part entière à partir du troisième. L'avantage procuré par chaque demi-part est plafonné.",
+    "source_label": "Service-public.gouv.fr – Quotient familial d'un couple marié ou pacsé",
+    "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2705"
+  },
+  {
+    "id": "referendum",
+    "term": "Référendum",
+    "expansion": "Vote direct des électeurs sur un texte",
+    "aliases": [
+      "référendums"
+    ],
+    "definition": "Vote par lequel les électeurs adoptent ou rejettent directement un texte. La Constitution le prévoit pour certaines lois (article 11), sur décision du Président ou à l'initiative de parlementaires soutenus par des électeurs (RIP), et pour réviser la Constitution (article 89).",
+    "source_label": "Conseil constitutionnel – Texte intégral de la Constitution du 4 octobre 1958",
+    "source_url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "regle-d-or",
+    "term": "Règle d'or budgétaire",
+    "expansion": "Règle d'équilibre des finances publiques",
+    "aliases": [
+      "règle d'or",
+      "règle d’or",
+      "règle d’or budgétaire"
+    ],
+    "definition": "Règle qui impose de ramener les comptes publics vers l'équilibre. Le traité européen de 2012 (TSCG) fixe un déficit structurel maximal de 0,5 % du PIB ; la France l'a transposé par une loi organique de 2012, qui a aussi créé le Haut Conseil des finances publiques.",
+    "source_label": "Sénat – Les règles européennes en matière budgétaire",
+    "source_url": "https://www.senat.fr/connaitre-le-senat/role-et-fonctionnement/les-regles-europeennes-en-matiere-budgetaire.html"
+  },
+  {
+    "id": "retraite-par-capitalisation",
+    "term": "Retraite par capitalisation",
+    "expansion": "Épargne retraite placée sur les marchés",
+    "aliases": [
+      "capitalisation"
+    ],
+    "definition": "Système où les cotisations de chacun sont épargnées et placées, puis reversées à la retraite. Il se distingue de la répartition, où les cotisations des actifs paient directement les pensions des retraités : c'est le principe des régimes obligatoires français, où la capitalisation reste marginale.",
+    "source_label": "Conseil d'orientation des retraites – Les grands principes du système de retraite français",
+    "source_url": "https://www.cor-retraites.fr/sites/default/files/2019-06/doc-1964.pdf"
   },
   {
     "id": "rgpd",
@@ -467,6 +682,18 @@
     "definition": "Référendum que des citoyens pourraient déclencher eux-mêmes par pétition, sans passer par le Parlement. Il n'existe pas en droit français, qui prévoit seulement le référendum d'initiative partagée (RIP).",
     "source_label": "Conseil constitutionnel – Rapport d'activité 2020 : le référendum d'initiative partagée",
     "source_url": "https://www.conseil-constitutionnel.fr/rapport-activite-2020-numerique/decisions-michel-verpeaux.php"
+  },
+  {
+    "id": "rip",
+    "term": "RIP",
+    "expansion": "Référendum d'initiative partagée",
+    "aliases": [
+      "référendum d'initiative partagée",
+      "référendum d’initiative partagée"
+    ],
+    "definition": "Procédure créée en 2008 : une proposition de loi soutenue par un cinquième des parlementaires puis par un dixième des électeurs inscrits est soumise à référendum si le Parlement ne l'examine pas. Aucune n'a encore réuni le nombre de soutiens requis.",
+    "source_label": "Conseil constitutionnel – Dossier : référendum d'initiative partagée (RIP)",
+    "source_url": "https://www.conseil-constitutionnel.fr/dossier-referendum-d-initiative-partagee-rip"
   },
   {
     "id": "rsa",
@@ -522,6 +749,17 @@
     "definition": "Loi de 2000 sur l'urbanisme et le logement, dont l'article 55 impose à certaines communes d'atteindre une part minimale de logements sociaux, sous peine de pénalités.",
     "source_label": "Ministère de la Transition écologique – Loi solidarité et renouvellement urbain (SRU)",
     "source_url": "https://www.ecologie.gouv.fr/politiques-publiques/loi-solidarite-renouvellement-urbain-sru"
+  },
+  {
+    "id": "taxe-zucman",
+    "term": "Taxe Zucman",
+    "expansion": "Impôt plancher sur les très hauts patrimoines",
+    "aliases": [
+      "impôt Zucman"
+    ],
+    "definition": "Impôt minimal proposé par l'économiste Gabriel Zucman : les foyers dont le patrimoine dépasse 100 millions d'euros paieraient chaque année au moins 2 % de ce patrimoine, impôts déjà payés compris. Adoptée par l'Assemblée en février 2025, la proposition de loi a été rejetée par le Sénat en juin 2025.",
+    "source_label": "Assemblée nationale – Dossier législatif : impôt plancher de 2 % sur le patrimoine des ultra riches",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/impot_plancher_2_pour_cent_patrimoine_ultra_riches"
   },
   {
     "id": "ticpe",

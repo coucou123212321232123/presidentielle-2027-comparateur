@@ -166,8 +166,9 @@ export default function MethodologyPage() {
           visite : celles de la dernière mise à jour). Cette date est conservée uniquement dans votre navigateur.
         </p>
         <p>
-          Les {glossary.length} sigles les plus fréquents (ISF, PFU, EPR2, AME…) sont soulignés en pointillé : une définition courte et sourcée
-          s'affiche au survol, ou au toucher sur téléphone. Ils sont tous réunis sur la page{' '}
+          Les {glossary.length} sigles et notions les plus fréquents (ISF, AME, taxe Zucman, 49.3, droit du sol…) sont soulignés en pointillé :
+          une définition courte et neutre, tirée d'une source officielle, s'affiche au survol, ou au toucher sur téléphone. Ils sont tous
+          réunis sur la page{' '}
           <Link to="/glossaire" className="text-accent hover:underline">
             Glossaire
           </Link>
