@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-28",
+  "routine": "votes",
+  "reperage": {
+    "commande": "npm run votes-candidates (index régénéré par fetch-votes le 2026-10-28)",
+    "scrutins_listes": 0,
+    "dernier_scrutin_indexe": "2026-10-13",
+    "ajoutes": [],
+    "ecartes": []
+  },
+  "explications": {
+    "lot": "research/votes/explications/2026-10-28.json",
+    "traitees": [
+      "l16-897",
+      "l16-236",
+      "l16-186"
+    ],
+    "acceptees": [
+      "l16-897",
+      "l16-236",
+      "l16-186"
+    ],
+    "rejets": [
+      "l16-236 : argument « pour » (engagement d'O. Dussopt sur le montant des indemnités) retiré, attribution aux groupes non établie par la source",
+      "l16-897 : sigles DEM et HOR retirés de l'argument du gouvernement (non cités par la source)"
+    ],
+    "reste_semaine_suivante": [
+      "l17-519",
+      "l17-456",
+      "l17-438",
+      "l17-217",
+      "l16-3725"
+    ]
+  },
+  "contre_verification": [
+    {
+      "id": "l16-897",
+      "element": "scrutin (numéro, date, intitulé)",
+      "decision": "accepté",
+      "motif": "AN scrutin 897 : ensemble du PJL EnR, texte CMP, séance du 31 janvier 2023."
+    },
+    {
+      "id": "l16-897",
+      "element": "summary",
+      "decision": "accepté",
+      "motif": "Points CMP conformes à LCP 162994 ; Sénat 7 février, saisine 9 février, décision 2023-848 DC (articles listés) et loi 2023-175 confirmés par senat.fr et conseil-constitutionnel.fr."
+    },
+    {
+      "id": "l16-897",
+      "element": "pour – gouvernement (Pannier-Runacher)",
+      "decision": "modifié",
+      "motif": "DEM et HOR retirés : non mentionnés dans la source ; RE conservé (rapporteur Bothorel et Zulesi, Renaissance, défendent l'accord) ; libellé « et la majorité » retiré."
+    },
+    {
+      "id": "l16-897",
+      "element": "pour – SOC (Potier)",
+      "decision": "accepté",
+      "motif": "Conforme à LCP, étape antérieure explicitée (1re lecture) ; SOC 20 pour."
+    },
+    {
+      "id": "l16-897",
+      "element": "pour – LIOT (Pancher)",
+      "decision": "accepté",
+      "motif": "Conforme à LCP, 1re lecture explicitée ; LIOT 12 pour."
+    },
+    {
+      "id": "l16-897",
+      "element": "contre – LR",
+      "decision": "modifié",
+      "motif": "Guillemets retirés autour de « lignes rouges » (paraphrase LCP, non citation) ; formulation alignée sur la source (« s'orientait vers »)."
+    },
+    {
+      "id": "l16-897",
+      "element": "contre – RN",
+      "decision": "accepté",
+      "motif": "Conforme à LCP, 1re lecture explicitée ; RN 73 contre."
+    },
+    {
+      "id": "l16-897",
+      "element": "contre – LFI-NUPES",
+      "decision": "accepté",
+      "motif": "Conforme au communiqué LFI rapporté par LCP ; LFI 41 contre."
+    },
+    {
+      "id": "l16-897",
+      "element": "abstention – ECOLO",
+      "decision": "accepté",
+      "motif": "Conforme à LCP ; ECOLO 15 abstentions."
+    },
+    {
+      "id": "l16-897",
+      "element": "sources (4 URL)",
+      "decision": "accepté",
+      "motif": "Toutes en 200 et contenu correspondant (senat.fr redirige vers /dossier-legislatif/)."
+    },
+    {
+      "id": "l16-236",
+      "element": "scrutin",
+      "decision": "accepté",
+      "motif": "AN scrutin 236 : ensemble, 1re lecture, séance du 11 octobre 2022 ; 303-249-11 confirmé par Public Sénat."
+    },
+    {
+      "id": "l16-236",
+      "element": "summary – règle des deux refus de CDI (CMP)",
+      "decision": "modifié",
+      "motif": "Condition omise : LCP 148873 limite la règle aux personnes en fin de CDD ou d'intérim, refus de CDI sur le poste occupé."
+    },
+    {
+      "id": "l16-236",
+      "element": "summary – abandon de poste",
+      "decision": "modifié",
+      "motif": "« amendements » au pluriel (amendements identiques selon LCP et Public Sénat)."
+    },
+    {
+      "id": "l16-236",
+      "element": "summary – suites (Sénat, CMP, AN, CC, loi)",
+      "decision": "accepté",
+      "motif": "Dates et décision 2022-844 DC, loi 2022-1598 confirmées par senat.fr et assemblee-nationale.fr."
+    },
+    {
+      "id": "l16-236",
+      "element": "pour – RE/DEM/HOR (abandon de poste)",
+      "decision": "modifié",
+      "motif": "Propos du ministre tenu en commission le 27 septembre : étape désormais explicitée, citation « faille » de la source substituée à la paraphrase « anormal »."
+    },
+    {
+      "id": "l16-236",
+      "element": "pour – RE/DEM/HOR (engagement Dussopt sur le montant)",
+      "decision": "rejeté",
+      "motif": "Attribution indirecte : la source Public Sénat ne rattache pas cet engagement aux groupes de la majorité."
+    },
+    {
+      "id": "l16-236",
+      "element": "pour – LR",
+      "decision": "modifié",
+      "motif": "Argument exprimé en commission selon LCP : étape explicitée ; LR 58 pour."
+    },
+    {
+      "id": "l16-236",
+      "element": "contre – RN (Berteloot)",
+      "decision": "modifié",
+      "motif": "Contexte du débat sur l'article 1er explicité ; RN 87 contre."
+    },
+    {
+      "id": "l16-236",
+      "element": "contre – LFI-NUPES (Corbière)",
+      "decision": "modifié",
+      "motif": "Contexte du débat sur l'article 1er explicité ; LFI 73 contre."
+    },
+    {
+      "id": "l16-236",
+      "element": "contre – GDR-NUPES (Dharréville)",
+      "decision": "accepté",
+      "motif": "Conforme à LCP (mesure abandon de poste) ; GDR 21 contre."
+    },
+    {
+      "id": "l16-236",
+      "element": "sources (5 URL)",
+      "decision": "accepté",
+      "motif": "Toutes en 200 et contenu correspondant ; Public Sénat conservé pour le summary."
+    },
+    {
+      "id": "l16-186",
+      "element": "scrutin",
+      "decision": "accepté",
+      "motif": "AN scrutin 186 : ensemble, texte CMP, séance du 3 août 2022."
+    },
+    {
+      "id": "l16-186",
+      "element": "summary",
+      "decision": "accepté",
+      "motif": "Mesures et chiffres conformes à LCP 133297 et Public Sénat ; saisine 5 août, décision 2022-843 DC et loi 2022-1158 confirmées par senat.fr."
+    },
+    {
+      "id": "l16-186",
+      "element": "pour – HOR, LR, RN",
+      "decision": "accepté",
+      "motif": "Propos de Mesnier, Bazin et Catteau rapportés par LCP au vote ; groupes pour (26, 61, 87)."
+    },
+    {
+      "id": "l16-186",
+      "element": "contre – LFI, GDR, ECOLO",
+      "decision": "accepté",
+      "motif": "Propos de Quatennens, Dharréville et Rousseau rapportés par LCP ; groupes contre (75, 16, 21)."
+    },
+    {
+      "id": "l16-186",
+      "element": "abstention – SOC (Leseul)",
+      "decision": "accepté",
+      "motif": "Conforme à LCP ; SOC 29 abstentions."
+    },
+    {
+      "id": "l16-186",
+      "element": "sources (3 URL)",
+      "decision": "accepté",
+      "motif": "Toutes en 200 et contenu correspondant (Public Sénat redirige vers /actualites/economie/)."
+    },
+    {
+      "id": "l16-186",
+      "element": "notes",
+      "decision": "modifié",
+      "motif": "Camp abstention (LIOT 6, GDR 1) signalé sans argument."
+    }
+  ]
+}

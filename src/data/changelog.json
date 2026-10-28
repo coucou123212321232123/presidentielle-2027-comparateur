@@ -117,5 +117,25 @@
         "text": "114 → 115 mesures : inscription du principe de « communauté nationale » dans la Constitution (discours du congrès du RN, 25/10/2026) ; fiche : annonce de la nomination de Sébastien Chenu à la présidence du groupe RN à l'Assemblée nationale."
       }
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "summary": "Votes à l'Assemblée : explications ajoutées pour 3 textes (contenu, suites et arguments des groupes, sourcés) ; aucun nouveau grand scrutin depuis le 13 octobre 2026.",
+    "accepted": 3,
+    "rejected": 0,
+    "changes": [
+      {
+        "candidate": "Votes à l'Assemblée",
+        "text": "Accélération des énergies renouvelables (scrutin du 31/01/2023) : explication ajoutée"
+      },
+      {
+        "candidate": "Votes à l'Assemblée",
+        "text": "Réforme de l'assurance chômage (2022) (scrutin du 11/10/2022) : explication ajoutée"
+      },
+      {
+        "candidate": "Votes à l'Assemblée",
+        "text": "Mesures d'urgence pour le pouvoir d'achat (2022) (scrutin du 03/08/2022) : explication ajoutée"
+      }
+    ]
   }
 ]
