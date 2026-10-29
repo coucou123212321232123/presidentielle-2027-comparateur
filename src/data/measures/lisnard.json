@@ -776,6 +776,10 @@
     "source_date": "2026-04-22",
     "source_page": "p. 9",
     "precision": "precis",
+    "indicator": {
+      "key": "parcoursup",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },

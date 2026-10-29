@@ -466,6 +466,470 @@
       "short_title": "Mesures d'urgence pour le pouvoir d'achat (2022)",
       "theme": "economie",
       "context": "Projet de loi portant mesures d'urgence pour la protection du pouvoir d'achat. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 122,
+      "date": "2022-07-25",
+      "short_title": "Fin des régimes d'exception liés au Covid-19",
+      "theme": "sante",
+      "context": "Projet de loi mettant fin aux régimes d'exception créés pour lutter contre l'épidémie liée à la covid 19. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 182,
+      "date": "2022-07-27",
+      "short_title": "Retrait des contenus terroristes en ligne",
+      "theme": "numerique",
+      "context": "Proposition de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière de prévention de la diffusion de contenus à caractère terroriste en ligne. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 191,
+      "date": "2022-08-04",
+      "short_title": "Budget rectificatif de l'été 2022",
+      "theme": "economie",
+      "context": "Projet de loi de finances rectificative pour 2022. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 361,
+      "date": "2022-10-25",
+      "short_title": "Programmation des finances publiques 2023-2027 (rejet)",
+      "theme": "economie",
+      "context": "Projet de loi de programmation des finances publiques pour les années 2023 à 2027. Vote en première lecture à l'Assemblée nationale. Le texte a été rejeté."
+    },
+    {
+      "legislature": 16,
+      "numero": 654,
+      "date": "2022-12-01",
+      "short_title": "Retraite des agriculteurs calculée sur les 25 meilleures années",
+      "theme": "retraites",
+      "context": "Proposition de loi visant à calculer la retraite de base des non-salariés agricoles en fonction de leurs seules vingt-cinq meilleures années de revenus. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 16,
+      "numero": 671,
+      "date": "2022-12-07",
+      "short_title": "Programmation du ministère de l'Intérieur (LOPMI)",
+      "theme": "securite",
+      "context": "Projet de loi d'orientation et de programmation du ministère de l'intérieur. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 931,
+      "date": "2023-02-09",
+      "short_title": "Repas à un euro pour tous les étudiants (rejet)",
+      "theme": "education",
+      "context": "Proposition de loi visant à assurer un repas à un euro pour tous les étudiants. Vote en première lecture à l'Assemblée nationale. Le texte a été rejeté."
+    },
+    {
+      "legislature": 16,
+      "numero": 1409,
+      "date": "2023-04-11",
+      "short_title": "Jeux Olympiques et Paralympiques 2024",
+      "theme": "securite",
+      "context": "Projet de loi relatif aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 1462,
+      "date": "2023-05-04",
+      "short_title": "Fin de l'obligation vaccinale contre le Covid-19 des soignants",
+      "theme": "sante",
+      "context": "Proposition de loi portant abrogation de l'obligation vaccinale contre la covid-19 dans les secteurs médicaux, paramédicaux et d'aide à la personne et visant à la réintégration des professionnels et étudiants suspendus. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 16,
+      "numero": 1488,
+      "date": "2023-05-10",
+      "short_title": "Accès aux soins : confiance aux personnels de santé",
+      "theme": "sante",
+      "context": "Proposition de loi portant amélioration de l'accès aux soins par la confiance aux personnels de santé. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 1588,
+      "date": "2023-05-17",
+      "short_title": "Prévention du risque incendie",
+      "theme": "ecologie",
+      "context": "Proposition de loi visant à renforcer la prévention et la lutte contre l'intensification et l'extension du risque incendie. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 16,
+      "numero": 1762,
+      "date": "2023-05-31",
+      "short_title": "Plafonnement de la hausse des loyers",
+      "theme": "logement",
+      "context": "Proposition de loi maintenant provisoirement un dispositif de plafonnement de revalorisation de la variation annuelle des indices locatifs. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 16,
+      "numero": 2136,
+      "date": "2023-07-05",
+      "short_title": "Moyens de la douane face aux nouvelles menaces",
+      "theme": "securite",
+      "context": "Projet de loi visant à donner à la douane les moyens de faire face aux nouvelles menaces. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 2255,
+      "date": "2023-07-12",
+      "short_title": "Protection des familles d'enfants malades ou handicapés",
+      "theme": "famille",
+      "context": "Proposition de loi visant à renforcer la protection des familles d'enfants atteints d'une maladie ou d'un handicap ou victimes d'un accident d'une particulière gravité. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 2257,
+      "date": "2023-07-12",
+      "short_title": "Zéro artificialisation nette : accompagnement des élus locaux",
+      "theme": "ecologie",
+      "context": "Proposition de loi visant à faciliter la mise en œuvre des objectifs de lutte contre l'artificialisation des sols et à renforcer l'accompagnement des élus locaux. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 2719,
+      "date": "2023-10-10",
+      "short_title": "Programmation de la justice 2023-2027",
+      "theme": "securite",
+      "context": "Projet de loi d'orientation et de programmation du ministère de la justice 2023-2027. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 2721,
+      "date": "2023-10-10",
+      "short_title": "Industrie verte",
+      "theme": "economie",
+      "context": "Projet de loi relatif à l'industrie verte. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 2722,
+      "date": "2023-10-10",
+      "short_title": "Droit à l'image des enfants",
+      "theme": "numerique",
+      "context": "Proposition de loi visant à garantir le respect du droit à l'image des enfants. Vote en nouvelle lecture, après l'échec de la commission mixte paritaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 2967,
+      "date": "2023-11-14",
+      "short_title": "Inflation : négociations commerciales sur les produits de grande consommation",
+      "theme": "economie",
+      "context": "Projet de loi portant mesures d'urgence pour lutter contre l'inflation concernant les produits de grande consommation. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 2983,
+      "date": "2023-11-15",
+      "short_title": "Services express régionaux métropolitains (RER métropolitains)",
+      "theme": "services_publics",
+      "context": "Proposition de loi relative aux services express régionaux métropolitains. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 3009,
+      "date": "2023-11-22",
+      "short_title": "Partage de la valeur dans l'entreprise",
+      "theme": "emploi",
+      "context": "Projet de loi portant transposition de l'accord national interprofessionnel relatif au partage de la valeur au sein de l'entreprise. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 3101,
+      "date": "2023-11-30",
+      "short_title": "Encadrement des marges contre l'inflation (rejet)",
+      "theme": "economie",
+      "context": "Proposition de loi visant à lutter contre l'inflation par l'encadrement des marges des industries agroalimentaires, du raffinage et de la grande distribution et établissant un prix d'achat plancher des matières premières agricoles. Vote en première lecture à l'Assemblée nationale. Le texte a été rejeté."
+    },
+    {
+      "legislature": 16,
+      "numero": 3206,
+      "date": "2023-12-12",
+      "short_title": "Accès aux soins par l'engagement territorial des professionnels",
+      "theme": "sante",
+      "context": "Proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 3373,
+      "date": "2024-02-29",
+      "short_title": "Protection d'EDF contre un démembrement",
+      "theme": "energie",
+      "context": "Proposition de loi visant à protéger le groupe Électricité de France d'un démembrement. Vote en troisième lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 16,
+      "numero": 3457,
+      "date": "2024-03-11",
+      "short_title": "Sécurité et protection des maires et des élus locaux",
+      "theme": "institutions",
+      "context": "Proposition de loi renforçant la sécurité et la protection des maires et des élus locaux. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 3458,
+      "date": "2024-03-11",
+      "short_title": "Enfants victimes de violences intrafamiliales",
+      "theme": "famille",
+      "context": "Proposition de loi visant à mieux protéger et accompagner les enfants victimes et co-victimes de violences intrafamiliales. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 3461,
+      "date": "2024-03-12",
+      "short_title": "Accord de sécurité franco-ukrainien : vote sur la déclaration du gouvernement",
+      "theme": "international",
+      "context": "Déclaration du Gouvernement relative au débat sur l'accord de sécurité franco-ukrainien et la situation en Ukraine (application de l'article 50-1 de la Constitution)."
+    },
+    {
+      "legislature": 16,
+      "numero": 3548,
+      "date": "2024-03-19",
+      "short_title": "Rénovation de l'habitat dégradé",
+      "theme": "logement",
+      "context": "Projet de loi relatif à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 3550,
+      "date": "2024-03-19",
+      "short_title": "Grand âge et autonomie",
+      "theme": "sante",
+      "context": "Proposition de loi portant diverses mesures relatives au grand âge et à l'autonomie. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 3562,
+      "date": "2024-03-20",
+      "short_title": "Lutte contre les dérives sectaires",
+      "theme": "securite",
+      "context": "Projet de loi visant à renforcer la lutte contre les dérives sectaires et à améliorer l'accompagnement des victimes. Vote en nouvelle lecture, après l'échec de la commission mixte paritaire."
+    },
+    {
+      "legislature": 16,
+      "numero": 4051,
+      "date": "2024-06-05",
+      "short_title": "Prévention des ingérences étrangères",
+      "theme": "international",
+      "context": "Proposition de loi visant à prévenir les ingérences étrangères en France. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 17,
+      "numero": 289,
+      "date": "2024-11-07",
+      "short_title": "Régulation des meublés de tourisme",
+      "theme": "logement",
+      "context": "Proposition de loi visant à renforcer les outils de régulation des meublés de tourisme à l'échelle locale. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 17,
+      "numero": 518,
+      "date": "2024-12-04",
+      "short_title": "Budget 2024 : loi de fin de gestion",
+      "theme": "economie",
+      "context": "Projet de loi de finances de fin de gestion pour 2024. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 17,
+      "numero": 525,
+      "date": "2024-12-16",
+      "short_title": "Loi spéciale de décembre 2024",
+      "theme": "economie",
+      "context": "Projet de loi spéciale prévue par l'article 45 de la loi organique du 1er août 2001 relative aux lois de finances. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 596,
+      "date": "2025-01-23",
+      "short_title": "Vie chère dans les outre-mer",
+      "theme": "outre_mer",
+      "context": "Proposition de loi visant à prendre des mesures d'urgence contre la vie chère et à réguler la concentration des acteurs économiques dans les territoires d'outre-mer. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 600,
+      "date": "2025-01-23",
+      "short_title": "Nombre minimum de soignants par patient à l'hôpital",
+      "theme": "sante",
+      "context": "Proposition de loi adoptée par le Sénat relative à l'instauration d'un nombre minimum de soignants par patient hospitalisé. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 657,
+      "date": "2025-01-28",
+      "short_title": "Lutte contre les violences sexuelles et sexistes (2025)",
+      "theme": "securite",
+      "context": "Proposition de loi visant à renforcer la lutte contre les violences sexuelles et sexistes. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 790,
+      "date": "2025-02-12",
+      "short_title": "Loi d'urgence pour Mayotte",
+      "theme": "outre_mer",
+      "context": "Projet de loi d'urgence pour Mayotte. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 17,
+      "numero": 852,
+      "date": "2025-02-20",
+      "short_title": "Polluants éternels (PFAS)",
+      "theme": "ecologie",
+      "context": "Proposition de loi visant à protéger la population des risques liés aux substances perfluoroalkylées et polyfluoroalkylées. Vote en deuxième lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 959,
+      "date": "2025-03-11",
+      "short_title": "Disparition des terres agricoles et prix du foncier",
+      "theme": "agriculture",
+      "context": "Proposition de loi visant à lutter contre la disparition des terres agricoles et renforcer la régulation des prix du foncier agricole. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 1041,
+      "date": "2025-03-18",
+      "short_title": "Sûreté dans les transports",
+      "theme": "securite",
+      "context": "Proposition de loi relative au renforcement de la sûreté dans les transports. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 17,
+      "numero": 1319,
+      "date": "2025-04-09",
+      "short_title": "Stabilité et compétitivité du secteur agroalimentaire",
+      "theme": "agriculture",
+      "context": "Proposition de loi visant à renforcer la stabilité économique et la compétitivité du secteur agroalimentaire. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 17,
+      "numero": 1330,
+      "date": "2025-04-09",
+      "short_title": "Mode de scrutin à Paris, Lyon et Marseille",
+      "theme": "institutions",
+      "context": "Proposition de loi visant à réformer le mode d'élection des membres du Conseil de Paris et des conseils municipaux de Lyon et Marseille. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 2214,
+      "date": "2025-06-02",
+      "short_title": "Cadre fiscal des micro-entrepreneurs",
+      "theme": "economie",
+      "context": "Proposition de loi visant à garantir un cadre fiscal stable, juste et lisible pour nos micro-entrepreneurs et nos petites entreprises. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 2215,
+      "date": "2025-06-03",
+      "short_title": "Transformation de bureaux en logements",
+      "theme": "logement",
+      "context": "Proposition de loi visant à faciliter la transformation des bureaux et autres bâtiments en logements. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 17,
+      "numero": 2217,
+      "date": "2025-06-03",
+      "short_title": "Création du délit d'homicide routier",
+      "theme": "securite",
+      "context": "Proposition de loi créant l'homicide routier et visant à lutter contre la violence routière. Vote en deuxième lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 3061,
+      "date": "2025-10-23",
+      "short_title": "Définition pénale du viol et des agressions sexuelles",
+      "theme": "securite",
+      "context": "Proposition de loi modifiant la définition pénale du viol et des agressions sexuelles. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 17,
+      "numero": 3182,
+      "date": "2025-10-28",
+      "short_title": "Nouvelle-Calédonie : report des élections provinciales",
+      "theme": "outre_mer",
+      "context": "Proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie afin de permettre la poursuite de la discussion en vue d'un accord consensuel sur l'avenir institutionnel de la Nouvelle-Calédonie. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 17,
+      "numero": 3273,
+      "date": "2025-10-30",
+      "short_title": "Étiquetage obligatoire de l'origine des aliments (rejet)",
+      "theme": "agriculture",
+      "context": "Proposition de loi visant à rendre systématique l'information du consommateur sur l'origine des denrées alimentaires par le moyen de l'étiquetage. Vote en première lecture à l'Assemblée nationale. Le texte a été rejeté."
+    },
+    {
+      "legislature": 17,
+      "numero": 4723,
+      "date": "2025-12-11",
+      "short_title": "Mineurs isolés et lutte contre le sans-abrisme",
+      "theme": "logement",
+      "context": "Proposition de loi visant à protéger les mineurs isolés et à lutter contre le sans-abrisme. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 6045,
+      "date": "2026-04-08",
+      "short_title": "Collectivité unique et millefeuille territorial",
+      "theme": "institutions",
+      "context": "Proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique. Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 7002,
+      "date": "2026-05-28",
+      "short_title": "Abrogation du « code noir »",
+      "theme": "culture",
+      "context": "Proposition de loi portant abrogation du « code noir ». Vote en première lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 7260,
+      "date": "2026-06-02",
+      "short_title": "Assurance chômage : transposition de l'avenant de février 2026",
+      "theme": "emploi",
+      "context": "Projet de loi portant transposition de l'avenant n° 3 du 25 février 2026 au protocole d'accord du 10 novembre 2023 relatif à l'assurance chômage. Vote en deuxième lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 7261,
+      "date": "2026-06-02",
+      "short_title": "Chlordécone : responsabilité de l'État et indemnisation des victimes",
+      "theme": "outre_mer",
+      "context": "Proposition de loi visant à reconnaître la responsabilité de l'État et à indemniser les victimes du chlordécone. Vote en deuxième lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 7270,
+      "date": "2026-06-02",
+      "short_title": "Parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap",
+      "theme": "famille",
+      "context": "Proposition de loi visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap. Vote en deuxième lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 7380,
+      "date": "2026-06-11",
+      "short_title": "Nationalisation d'ArcelorMittal France",
+      "theme": "economie",
+      "context": "Proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France. Vote en deuxième lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 7904,
+      "date": "2026-07-01",
+      "short_title": "Droit de l'enfant à un avocat en assistance éducative",
+      "theme": "famille",
+      "context": "Proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance. Vote en deuxième lecture à l'Assemblée nationale."
+    },
+    {
+      "legislature": 17,
+      "numero": 8418,
+      "date": "2026-07-20",
+      "short_title": "Organisation et financement du sport professionnel",
+      "theme": "culture",
+      "context": "Proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
     }
   ]
 }

@@ -913,6 +913,10 @@
     "source_date": "2026-10-15",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "parcoursup",
+      "value": "reforme"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },

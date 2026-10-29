@@ -151,8 +151,8 @@ export default function MethodologyPage() {
 
       <Section title="Votes à l'Assemblée">
         <p>
-          La page <Link to="/votes" className="text-accent hover:underline">Votes</Link> présente quelques grands textes (retraites,
-          immigration, budgets, Constitution, fin de vie) avec le décompte officiel par groupe politique et le vote personnel des candidats
+          La page <Link to="/votes" className="text-accent hover:underline">Votes</Link> présente plus d'une centaine de grands textes
+          (retraites, immigration, budgets, santé, logement, Constitution, fin de vie…), en retenant pour chacun le vote le plus récent, avec le décompte officiel par groupe politique et le vote personnel des candidats
           qui étaient alors députés. Les chiffres sont importés automatiquement des données ouvertes de l'Assemblée nationale
           (data.assemblee-nationale.fr), sans saisie manuelle, et étiquetés « Vote / bilan ». Seuls les scrutins publics de l'Assemblée sont
           couverts : les votes au Sénat ou au Parlement européen n'y figurent pas. Une recherche porte en outre sur tous les textes votés depuis

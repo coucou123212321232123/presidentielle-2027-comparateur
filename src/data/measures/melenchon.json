@@ -952,6 +952,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 45 (page PDF 23)",
     "precision": "precis",
+    "indicator": {
+      "key": "parcoursup",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },

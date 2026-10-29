@@ -32,7 +32,9 @@
   { "id": "sante", "label": "Santé", "short": "Santé", "icon": "HeartPulse", "description": "Hôpital, déserts médicaux, assurance maladie, prévention.", "indicators": [
     { "key": "installation_medecins", "label": "Installation des médecins", "type": "enum", "options": { "regulation": "Régulation", "liberte": "Liberté d'installation maintenue" } }
   ] },
-  { "id": "education", "label": "Éducation", "short": "Éducation", "icon": "GraduationCap", "description": "École, enseignants, enseignement supérieur, recherche.", "indicators": [] },
+  { "id": "education", "label": "Éducation", "short": "Éducation", "icon": "GraduationCap", "description": "École, enseignants, enseignement supérieur, recherche.", "indicators": [
+    { "key": "parcoursup", "label": "Avenir de Parcoursup", "type": "enum", "options": { "suppression": "Suppression ou remplacement", "reforme": "Réforme, sans suppression" } }
+  ] },
   { "id": "securite", "label": "Sécurité et justice", "short": "Sécurité", "icon": "Scale", "description": "Police, justice, prisons, lutte contre la délinquance.", "indicators": [
     { "key": "peines_planchers", "label": "Peines planchers", "type": "enum", "options": { "oui": "Rétablissement", "non": "Opposé" } },
     { "key": "cannabis", "label": "Cannabis récréatif", "type": "enum", "options": { "legalisation": "Légalisation encadrée", "interdiction": "Maintien de l'interdiction" } }
