@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:38:11.819Z",
+  "generated_at": "2026-10-30T10:03:08.455Z",
   "source_label": "Assemblée nationale – données ouvertes (scrutins, députés et groupes)",
   "source_url": "https://data.assemblee-nationale.fr/",
   "scrutins": [
@@ -195,7 +195,7 @@
       "short_title": "Ordre public et tranquillité du quotidien",
       "theme": "securite",
       "context": "Projet de loi visant à apporter des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire.",
-      "official_title": "L'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (texte de la commission mixte paritaire).",
+      "official_title": "L'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquilité de nos concitoyens (texte de la commission mixte paritaire).",
       "vote_type": "scrutin public solennel",
       "censure": false,
       "result": "adopte",
@@ -4608,9 +4608,9 @@
       "legislature": 17,
       "numero": 6045,
       "date": "2026-04-08",
-      "short_title": "Collectivité unique et millefeuille territorial",
+      "short_title": "Sortie de l'Alsace de la région Grand Est",
       "theme": "institutions",
-      "context": "Proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique. Vote en première lecture à l'Assemblée nationale.",
+      "context": "Proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique. Après la suppression en commission de la procédure générale de collectivité unique, le texte porte sur la sortie de la Collectivité européenne d'Alsace de la région Grand Est. Vote en première lecture à l'Assemblée nationale.",
       "official_title": "L'ensemble de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (première lecture).",
       "vote_type": "scrutin public ordinaire",
       "censure": false,

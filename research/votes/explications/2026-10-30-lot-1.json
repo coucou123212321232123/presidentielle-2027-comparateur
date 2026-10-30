@@ -1,0 +1,586 @@
+[
+  {
+    "id": "l16-122",
+    "summary": "Ce projet de loi met fin aux régimes d'exception créés pour lutter contre l'épidémie de covid-19 ; le scrutin porte sur le texte élaboré par la commission mixte paritaire (CMP), à l'étape finale de la navette. Il abroge expressément l'état d'urgence sanitaire et le régime de sortie de crise sanitaire (article 1er A, ajouté par le Sénat), qui ne s'appliquent plus à partir du 1er août 2022. Il maintient deux outils : la prolongation de Contact Covid jusqu'au 31 janvier 2023 et de SI-DEP jusqu'au 30 juin 2023, et la possibilité pour le gouvernement d'exiger un test négatif des voyageurs de 12 ans et plus en cas de nouveau variant dangereux, ou en cas de risque de saturation du système de santé en outre-mer ; au-delà de deux mois, cette mesure doit être autorisée par la loi. Un article 2 bis prévoit que la réintégration des soignants non vaccinés dépend de l'avis de la Haute Autorité de santé, qui avait écarté cette hypothèse à ce stade quelques jours avant le vote. L'Assemblée nationale adopte le texte le 25 juillet 2022 par 184 voix pour, 149 contre et 22 abstentions. Le Sénat l'adopte définitivement le 26 juillet 2022 ; au moins soixante députés saisissent le Conseil constitutionnel le 27 juillet, qui le déclare conforme par la décision n° 2022-840 DC du 30 juillet 2022. La loi n° 2022-1089 du 30 juillet 2022 est publiée au Journal officiel du 31 juillet 2022.",
+    "arguments": {
+      "pour": [
+        {
+          "groups": [
+            "RE"
+          ],
+          "text": "Selon la rapporteure de la CMP, Caroline Abadie (RE), le texte tient la promesse de sortir des régimes d'exception au 1er août (« Promesse tenue ») tout en conservant deux outils, le suivi de l'épidémie (SI-DEP, Contact Covid) et le contrôle sanitaire aux frontières. Elle a ajouté que seule la vaccination continuerait de protéger des formes graves.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du lundi 25 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-lundi-25-juillet-2022.pdf"
+        },
+        {
+          "groups": [
+            "SOC"
+          ],
+          "text": "Pour Philippe Brun (SOC), le texte permet enfin d'abroger les régimes d'exception : le certificat de vaccination ne vaut plus passe sanitaire et la voie d'une abrogation de l'obligation vaccinale est entrouverte si la HAS la juge injustifiée. Il regrette l'absence de gratuité des tests, mais son groupe vote ce compromis, premier texte selon lui d'une « nouvelle démocratie parlementaire ».",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du lundi 25 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-lundi-25-juillet-2022.pdf"
+        },
+        {
+          "groups": [
+            "LR"
+          ],
+          "text": "Selon Philippe Gosselin (LR), le texte met fin au droit d'exception : plus de passe sanitaire ni vaccinal, plus de confinement ni de port du masque obligatoire, et il faudrait une nouvelle loi pour rétablir un état d'urgence sanitaire. Il estime qu'un dépistage aux frontières n'est ni un passe sanitaire ni une obligation vaccinale, et que le texte ne stigmatise pas les territoires d'outre-mer.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du lundi 25 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-lundi-25-juillet-2022.pdf"
+        }
+      ],
+      "contre": [
+        {
+          "groups": [
+            "LFI-NUPES"
+          ],
+          "text": "Antoine Léaument (LFI-NUPES) a salué l'abrogation du passe sanitaire et du confinement, mais a voté contre : tests non gratuits, contrôles rétablis pour les 12-18 ans, traitement différent des voyageurs d'outre-mer et de l'Hexagone. Il a aussi regretté que les soignants suspendus ne soient pas réintégrés et annoncé une saisine du Conseil constitutionnel.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du lundi 25 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-lundi-25-juillet-2022.pdf"
+        },
+        {
+          "groups": [
+            "RN"
+          ],
+          "text": "Pour Thomas Ménagé (RN), le texte porte l'empreinte de la minorité présidentielle et de l'accord conclu avec Les Républicains du Sénat ; il reproche l'absence de réintégration immédiate des soignants et des pompiers suspendus et un traitement discriminant des territoires ultramarins. Il a toutefois salué l'abrogation de l'état d'urgence sanitaire et la fin du passe vaccinal aux frontières.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du lundi 25 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-lundi-25-juillet-2022.pdf"
+        },
+        {
+          "groups": [
+            "GDR-NUPES"
+          ],
+          "text": "Davy Rimane (GDR-NUPES) a annoncé un vote contre pour deux raisons : le dispositif de certificat de voyage stigmatiserait les territoires ultramarins, et le texte ne réintègre pas immédiatement les 12 000 soignants suspendus. Il a aussi réitéré l'opposition de son groupe à la prolongation de SI-DEP jusqu'au 30 juin 2023.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du lundi 25 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-lundi-25-juillet-2022.pdf"
+        }
+      ],
+      "abstention": [
+        {
+          "groups": [
+            "ECOLO"
+          ],
+          "text": "Sandra Regol (Écologiste-NUPES) a expliqué l'abstention de son groupe : pas de gratuité prolongée des tests et des masques, recul sur l'âge minimal des tests aux frontières (12 ans), pas de contrôle de l'air dans les écoles, inégalité entre territoires. Elle y a aussi vu une avancée, le retour à l'État de droit, sans pour autant soutenir le texte.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du lundi 25 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-lundi-25-juillet-2022.pdf"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Assemblée nationale – Analyse du scrutin n° 122 (16e législature)",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/122"
+      },
+      {
+        "label": "Assemblée nationale – Compte rendu intégral, première séance du lundi 25 juillet 2022",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-lundi-25-juillet-2022.pdf"
+      },
+      {
+        "label": "Sénat – Dossier législatif : Fin des régimes d'exception créés pour lutter contre la covid-19",
+        "url": "https://www.senat.fr/dossierleg/pjl21-779.html"
+      },
+      {
+        "label": "LCP – Covid-19 : les députés valident le compromis trouvé avec les sénateurs",
+        "url": "https://lcp.fr/actualites/covid-19-les-deputes-valident-le-compromis-trouve-avec-les-senateurs-sur-le-projet-de"
+      }
+    ]
+  },
+  {
+    "id": "l16-182",
+    "summary": "Cette proposition de loi, déposée en janvier 2022 par Aude Bono-Vandorme, adapte le droit français au règlement européen du 29 avril 2021 sur les contenus à caractère terroriste en ligne, qui impose aux hébergeurs de retirer ces contenus dans l'heure suivant une injonction. Selon la ministre déléguée Caroline Cayeux, les plateformes qui ne s'exécutent pas risquent des sanctions pouvant aller jusqu'à 4 % de leur chiffre d'affaires. Le texte habilite une autorité administrative (l'OCLCTIC) à émettre des injonctions de retrait ou de blocage et désigne l'Arcom pour examiner les injonctions venant d'autres États membres et contrôler les hébergeurs particulièrement exposés. Il prévoit des sanctions pénales, la mise en demeure et la sanction pécuniaire par l'Arcom, ainsi que des recours : appel devant la cour administrative d'appel dans un délai de dix jours, avec une décision sous un mois. La CMP s'est accordée le 19 juillet 2022 ; le Sénat approuve ses conclusions le 26 juillet et l'Assemblée le 27 juillet 2022 (175 voix pour, 23 contre, 6 abstentions), ce qui clôt la navette. Au moins soixante députés saisissent le Conseil constitutionnel le 29 juillet ; la décision n° 2022-841 DC du 13 août 2022 déclare le texte conforme. La loi n° 2022-1159 du 16 août 2022 est publiée au Journal officiel du 17 août 2022.",
+    "arguments": {
+      "pour": [
+        {
+          "groups": [
+            "RE"
+          ],
+          "text": "Le rapporteur de la CMP, Benjamin Haddad (RE), a présenté le texte comme la mise en œuvre d'un principe simple : ce qui est interdit dans le monde réel doit l'être aussi dans le monde virtuel. Il a invoqué la durée de diffusion de la tuerie de Christchurch et la campagne de menaces contre Samuel Paty, et jugé le dispositif à la fois efficace et proportionné.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, séance du mercredi 27 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022.pdf"
+        },
+        {
+          "groups": [
+            "SOC"
+          ],
+          "text": "Roger Vicot (SOC) a annoncé que son groupe voterait le texte, tout en listant des lacunes : absence de définition précise de l'apologie du terrorisme, pas de garantie que seule une personne physique décide des retraits, pas de contrôle de l'Arcom sur les algorithmes de filtrage des hébergeurs, pas d'information du Parlement sur les retraits.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, séance du mercredi 27 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022.pdf"
+        },
+        {
+          "groups": [
+            "RN"
+          ],
+          "text": "Timothée Houssin (RN) a déclaré que son groupe voterait le texte : il faut selon lui mettre fin vite à l'apologie du terrorisme en ligne, et le texte limite le rôle de censeur des grandes plateformes, les États et la justice gardant la main. Il a signalé une définition du contenu terroriste encore floue et demandé que des responsables politiques puissent diffuser des images informatives.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, séance du mercredi 27 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022.pdf"
+        }
+      ],
+      "contre": [
+        {
+          "groups": [
+            "LFI-NUPES"
+          ],
+          "text": "Selon Jean-François Coulomme (LFI-NUPES), le texte repose sur une « définition très large et floue » du terrorisme, qui pourrait conduire à censurer des appels militants ou des fictions satiriques. Il critique des retraits décidés par la police (l'OCLCTIC) et non par un juge, avec un appel non suspensif. Ugo Bernalicis a interrogé la proportionnalité au regard de la liberté d'expression.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, séance du mercredi 27 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022.pdf"
+        }
+      ],
+      "abstention": [
+        {
+          "groups": [
+            "ECOLO"
+          ],
+          "text": "Jérémie Iordanoff (Écologiste-NUPES) a indiqué que son groupe ne voterait pas le texte : il regrette le choix d'une proposition de loi (donc sans avis du Conseil d'État ni étude d'impact) et de la procédure accélérée, et alerte sur une « privatisation et automatisation de la censure » par les hébergeurs. Il a annoncé une saisine du Conseil constitutionnel sur ce point.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, séance du mercredi 27 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022.pdf"
+        },
+        {
+          "groups": [
+            "LIOT"
+          ],
+          "text": "Michel Castellani (LIOT) a indiqué que la majorité de son groupe s'abstiendrait : pas d'étude d'impact ni d'avis du Conseil d'État, dispositions proches de la loi Avia en grande partie censurée, risque de retraits préventifs par algorithmes, et absence de contrôle préalable du juge. Il a reconnu que le texte va globalement dans le bon sens.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, séance du mercredi 27 juillet 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022.pdf"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Assemblée nationale – Analyse du scrutin n° 182 (16e législature)",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182"
+      },
+      {
+        "label": "Assemblée nationale – Compte rendu intégral, séance du mercredi 27 juillet 2022",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022.pdf"
+      },
+      {
+        "label": "Sénat – Dossier législatif : Diffusion de contenus à caractère terroriste en ligne",
+        "url": "https://www.senat.fr/dossierleg/ppl21-514.html"
+      }
+    ]
+  },
+  {
+    "id": "l16-191",
+    "summary": "Ce projet de loi de finances rectificative pour 2022, vote sur le texte de la CMP du 3 août, ouvre 44 milliards d'euros de crédits, dont 9,7 milliards pour financer la nationalisation à 100 % d'EDF, selon LCP. Il comprend la revalorisation du point d'indice des fonctionnaires, la suppression de la redevance audiovisuelle (remplacée par une fraction de TVA), la poursuite du bouclier tarifaire et de la remise carburant, et une aide exceptionnelle de rentrée pour les bénéficiaires de minima sociaux et de la prime d'activité. Le Sénat y a ajouté le lancement d'une carte Vitale biométrique et le soutien aux collectivités a été porté à 600 millions d'euros, comme le Sénat l'avait voté ; la CMP a prolongé la possibilité de monétiser les RTT jusqu'au 31 décembre 2025 (31 décembre 2023 dans le texte initial). L'Assemblée nationale l'adopte le 4 août 2022 par 292 voix pour, 120 contre et 98 abstentions, et le Parlement adopte définitivement le texte. Soixante députés (5 août) et soixante sénateurs (8 août) saisissent le Conseil constitutionnel ; la décision n° 2022-842 DC du 12 août 2022 déclare conformes, sous réserves, certaines dispositions de l'article 6 (suppression de la contribution à l'audiovisuel public).",
+    "arguments": {
+      "pour": [
+        {
+          "groups": [
+            "RE"
+          ],
+          "text": "Selon LCP, le rapporteur général du budget, Jean-René Cazeneuve (RE), s'est félicité que la mesure d'aide de rentrée s'adresse aux bénéficiaires de minima sociaux : « Il était absolument essentiel que cette mesure s'adresse aux bénéficiaires des minima sociaux ».",
+          "source_label": "LCP – Pouvoir d'achat : députés et sénateurs s'accordent sur le budget rectificatif",
+          "source_url": "https://lcp.fr/actualites/pouvoir-d-achat-deputes-et-senateurs-s-accordent-sur-le-budget-rectificatif-133540"
+        },
+        {
+          "groups": [
+            "LR"
+          ],
+          "text": "Véronique Louwagie (LR) s'est dite satisfaite des avancées obtenues par son groupe : « Les LR ont joué un rôle décisif au service du pouvoir d'achat des Français », a-t-elle déclaré selon LCP.",
+          "source_label": "LCP – Pouvoir d'achat : le Parlement adopte définitivement le budget rectificatif",
+          "source_url": "https://lcp.fr/actualites/pouvoir-d-achat-le-parlement-adopte-definitivement-le-budget-rectificatif-133555"
+        }
+      ],
+      "contre": [
+        {
+          "groups": [
+            "SOC"
+          ],
+          "text": "Selon LCP, Arthur Delaporte (SOC) a déclaré que le texte « abolit l'esprit des 35 heures », et Christine Pirès-Beaune (SOC) a estimé que les salariés n'auraient pas d'autre choix que de renoncer à leur temps de repos. Le groupe avait présenté une motion de rejet préalable, écartée, et Mickaël Bouloux (SOC) a annoncé une saisine du Conseil constitutionnel sur la monétisation des RTT.",
+          "source_label": "LCP – Pouvoir d'achat : le Parlement adopte définitivement le budget rectificatif",
+          "source_url": "https://lcp.fr/actualites/pouvoir-d-achat-le-parlement-adopte-definitivement-le-budget-rectificatif-133555"
+        },
+        {
+          "groups": [
+            "LFI-NUPES"
+          ],
+          "text": "Clémence Guetté (élue de la Nupes, LFI) a contesté l'effet du texte sur le niveau de vie : « Non, ce projet de loi n'augmente pas le pouvoir d'achat des gens », selon LCP.",
+          "source_label": "LCP – Pouvoir d'achat : le Parlement adopte définitivement le budget rectificatif",
+          "source_url": "https://lcp.fr/actualites/pouvoir-d-achat-le-parlement-adopte-definitivement-le-budget-rectificatif-133555"
+        }
+      ],
+      "abstention": [
+        {
+          "groups": [
+            "RN"
+          ],
+          "text": "Selon LCP, les députés RN se sont abstenus, le groupe jugeant que le texte comportait des avancées « trop peu nombreuses » (propos rapportés par LCP à propos de Laurent Jacobelli, RN) sans vouloir pénaliser les Français qui en bénéficieront.",
+          "source_label": "LCP – Pouvoir d'achat : le Parlement adopte définitivement le budget rectificatif",
+          "source_url": "https://lcp.fr/actualites/pouvoir-d-achat-le-parlement-adopte-definitivement-le-budget-rectificatif-133555"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Assemblée nationale – Analyse du scrutin n° 191 (16e législature)",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/191"
+      },
+      {
+        "label": "LCP – Pouvoir d'achat : le Parlement adopte définitivement le budget rectificatif",
+        "url": "https://lcp.fr/actualites/pouvoir-d-achat-le-parlement-adopte-definitivement-le-budget-rectificatif-133555"
+      },
+      {
+        "label": "LCP – Pouvoir d'achat : députés et sénateurs s'accordent sur le budget rectificatif",
+        "url": "https://lcp.fr/actualites/pouvoir-d-achat-deputes-et-senateurs-s-accordent-sur-le-budget-rectificatif-133540"
+      },
+      {
+        "label": "Conseil constitutionnel – Décision n° 2022-842 DC du 12 août 2022 (loi de finances rectificative pour 2022)",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022842DC.htm"
+      }
+    ]
+  },
+  {
+    "id": "l16-361",
+    "summary": "Ce projet de loi de programmation des finances publiques fixe la trajectoire budgétaire de 2023 à 2027, avec pour objectif, cité en séance par le groupe LFI-NUPES, un retour du déficit public à 3 % du PIB à l'horizon 2027. Selon le groupe DEM, il limite la hausse des dépenses publiques à 0,6 % par an en volume. Lors de l'examen en séance, l'Assemblée avait supprimé huit des vingt-six articles, dont les articles 13, 16 et 23 relatifs aux concours de l'État et aux dépenses des collectivités territoriales ; la commission des finances avait rejeté le texte. Le 25 octobre 2022, l'Assemblée nationale rejette le texte en première lecture par 309 voix contre, 243 pour et 5 abstentions ; le gouvernement n'avait pas engagé sa responsabilité (49.3) sur ce texte.",
+    "arguments": {
+      "pour": [
+        {
+          "groups": [
+            "RE"
+          ],
+          "text": "Mathieu Lefèvre (RE) a soutenu que rejeter la loi de programmation affaiblirait le Parlement, privé d'un outil d'évaluation et de contrôle, et la France en Europe ; il a ajouté que le rejet pourrait ralentir les aides européennes et a dit aux oppositions : « Vous vous tirez une balle dans le pied ».",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du mardi 25 octobre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-25-octobre-2022.pdf"
+        },
+        {
+          "groups": [
+            "DEM"
+          ],
+          "text": "Mohamed Laqhila (DEM) a défendu une hausse des dépenses limitée à 0,6 % en volume, plus exigeante selon lui que les programmations précédentes, et la participation des collectivités à l'effort. Il a averti qu'un rejet pourrait remettre en cause des versements du plan national de relance et de résilience, et jugé nécessaire de maîtriser une dette supérieure à 110 % du PIB.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du mardi 25 octobre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-25-octobre-2022.pdf"
+        }
+      ],
+      "contre": [
+        {
+          "groups": [
+            "LFI-NUPES"
+          ],
+          "text": "Charlotte Leduc (LFI-NUPES) a dénoncé un texte qui ne fait que « programmer l'austérité » en contenant les dépenses publiques à 0,6 % par an, contre 1,35 % de croissance tendancielle selon elle, au détriment des services publics. Elle a estimé le texte caduc, ses hypothèses macroéconomiques étant à ses yeux « fantaisistes ».",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du mardi 25 octobre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-25-octobre-2022.pdf"
+        },
+        {
+          "groups": [
+            "LR"
+          ],
+          "text": "Véronique Louwagie (LR) a jugé que le texte constitue une « énième occasion manquée » de redresser les finances publiques : déficit prévu à 5 % du PIB en 2023, hypothèses jugées irréalistes ; elle a rappelé que LR avait proposé par amendement 20 milliards d'euros d'économies dans l'administration. Son groupe a voté contre en faisant confiance au Sénat pour amender le projet.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du mardi 25 octobre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-25-octobre-2022.pdf"
+        },
+        {
+          "groups": [
+            "RN"
+          ],
+          "text": "Philippe Lottiaux (RN) a déclaré qu'à ses yeux « mieux vaut peut-être pas de programmation » qu'une « programmation factice » destinée à complaire à l'Union européenne. Il reproche au texte de maintenir la France parmi les pays aux prélèvements obligatoires, déficits et dette les plus élevés, alors qu'une programmation devrait selon lui réduire le déficit public et le poids des prélèvements.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du mardi 25 octobre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-25-octobre-2022.pdf"
+        }
+      ],
+      "abstention": []
+    },
+    "sources": [
+      {
+        "label": "Assemblée nationale – Analyse du scrutin n° 361 (16e législature)",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/361"
+      },
+      {
+        "label": "Assemblée nationale – Compte rendu intégral, première séance du mardi 25 octobre 2022",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-25-octobre-2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": "l16-654",
+    "summary": "Cette proposition de loi d'Olivier Marleix, de Julien Dive et de députés LR vise à calculer la retraite de base des non-salariés agricoles sur leurs vingt-cinq meilleures années de revenus, comme dans le régime général, au lieu de l'ensemble de la carrière. Le rapporteur Julien Dive (LR) a cité un écart de 580 euros brut par mois entre la pension moyenne d'un agriculteur retraité (800 euros) et celle d'un salarié. La commission des affaires sociales avait rejeté le texte par 18 voix contre 18 ; en séance, un amendement de réécriture du rapporteur, soutenu par le gouvernement (le ministre du Travail Olivier Dussopt), fixe l'entrée en vigueur au 1er janvier 2026 et prévoit un rapport du gouvernement. L'Assemblée nationale l'adopte en première lecture le 1er décembre 2022 par 238 voix, sans voix contre ni abstention.",
+    "arguments": {
+      "pour": [
+        {
+          "groups": [
+            "LR"
+          ],
+          "text": "Le rapporteur Julien Dive (LR) a présenté trois objectifs : limiter l'effet sur les pensions de la forte variabilité des revenus agricoles, rétablir l'équité avec les autres assurés sociaux, et rendre le métier plus attractif. Il a répondu aux objections de la commission en soulignant que le rapport de l'Igas de 2012 juge la règle des vingt-cinq meilleures années adaptée aux revenus variables.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du jeudi 1er décembre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-01-decembre-2022.pdf"
+        },
+        {
+          "groups": [
+            "DEM"
+          ],
+          "text": "Nicolas Turquois (DEM) a indiqué que son groupe est favorable sur le principe aux vingt-cinq meilleures années, avec des doutes sur la date de mise en œuvre, la reconstitution des revenus avant 1990 et l'architecture du régime. Son groupe votera le texte compte tenu de l'amendement du rapporteur prévoyant un rapport d'évaluation, avec une mise en œuvre très progressive.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du jeudi 1er décembre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-01-decembre-2022.pdf"
+        },
+        {
+          "groups": [
+            "GDR-NUPES"
+          ],
+          "text": "André Chassaigne (GDR-NUPES) a jugé la mesure juste car elle ouvre aux agriculteurs des droits identiques à ceux de la majorité des actifs. Il a relevé des difficultés d'application et la question du financement, demandé des simulations et veillé aux effets sur les petites exploitations, et annoncé que les députés de son groupe lèveraient « la main, voire le poing » pour le voter.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du jeudi 1er décembre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-01-decembre-2022.pdf"
+        }
+      ],
+      "contre": [],
+      "abstention": []
+    },
+    "sources": [
+      {
+        "label": "Assemblée nationale – Analyse du scrutin n° 654 (16e législature)",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/654"
+      },
+      {
+        "label": "Assemblée nationale – Compte rendu intégral, première séance du jeudi 1er décembre 2022",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-01-decembre-2022.pdf"
+      },
+      {
+        "label": "LCP – L'Assemblée adopte une proposition de loi ouvrant la voie à de meilleures retraites pour les agriculteurs",
+        "url": "https://lcp.fr/actualites/l-assemblee-adopte-une-proposition-de-loi-ouvrant-la-voie-a-de-meilleures-retraites-pour"
+      }
+    ]
+  },
+  {
+    "id": "l16-671",
+    "summary": "Ce projet de loi d'orientation et de programmation du ministère de l'Intérieur (LOPMI) prévoit 15 milliards d'euros supplémentaires sur cinq ans, dont plus de la moitié pour la cybersécurité et la transformation numérique du ministère, et la création de 8 500 postes de policiers et de gendarmes (LCP, Public Sénat). Il étend les amendes forfaitaires délictuelles à 29 délits au plus, crée la plainte par visioconférence et un délit d'outrage sexiste aggravé, et encadre l'indemnisation des cyberattaques par les assurances, qui suppose un dépôt de plainte sous 72 heures. Le scrutin porte sur le texte de la CMP, adopté à l'Assemblée le 7 décembre 2022 par 365 voix pour, 102 contre et 28 abstentions. Le Sénat approuve l'accord de CMP le 14 décembre 2022, ce qui clôt la navette. Saisi le 19 décembre 2022 par soixante députés, le Conseil constitutionnel, par sa décision n° 2022-846 DC du 19 janvier 2023, déclare contraires à la Constitution plusieurs dispositions (dont les articles 15 et 26) et valide le reste.",
+    "arguments": {
+      "pour": [
+        {
+          "groups": [
+            "HOR"
+          ],
+          "text": "Philippe Pradal (HOR) a annoncé le vote pour : le texte a été enrichi par le Parlement, il doublera la présence policière sur le terrain, notamment en zone rurale et périurbaine, et il durcit les sanctions contre les cyberattaques. Il s'est félicité que le lien entre le ministère de l'Intérieur et les communes soit inscrit dans le rapport annexé.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du mercredi 7 décembre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-decembre-2022.pdf"
+        },
+        {
+          "groups": [
+            "LIOT"
+          ],
+          "text": "Christophe Naegelen (LIOT) a indiqué que la grande majorité de son groupe voterait pour : le budget de 15 milliards d'euros sur cinq ans, la revalorisation de certains corps de policiers et la création de 200 brigades de gendarmerie en territoire rural lui semblent satisfaisants. Il a salué un débat mené dans de bonnes conditions, le ministre et le rapporteur étant ouverts aux propositions.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du mercredi 7 décembre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-decembre-2022.pdf"
+        },
+        {
+          "groups": [
+            "RN"
+          ],
+          "text": "Selon LCP, Jordan Guitton (RN) a jugé que le texte allait dans le bon sens, tout en doutant de sa portée et en dénonçant une justice qu'il qualifie de « laxiste ».",
+          "source_label": "LCP – Sécurité : La Lopmi définitivement adoptée par l'Assemblée nationale",
+          "source_url": "https://lcp.fr/actualites/securite-la-lopmi-definitivement-adoptee-par-l-assemblee-nationale-156523"
+        }
+      ],
+      "contre": [
+        {
+          "groups": [
+            "ECOLO"
+          ],
+          "text": "Sandra Regol (Écologiste-NUPES) a annoncé un vote contre : elle y voit une mise à jour minimale des moyens du ministère, sans réponse à la souffrance des agents (soutien psychologique refusé), et regrette le calendrier de la réforme de la police judiciaire au moment des Jeux olympiques.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du mercredi 7 décembre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-decembre-2022.pdf"
+        },
+        {
+          "groups": [
+            "GDR-NUPES"
+          ],
+          "text": "Davy Rimane (GDR-NUPES) a indiqué que son groupe voterait contre sans s'opposer à tout le contenu : il salue les hausses d'effectifs et la modernisation, mais aurait préféré la priorité à la police de proximité plutôt qu'aux gardes mobiles, et refuse l'extension des amendes forfaitaires délictuelles aux blocages et à l'occupation de ronds-points.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du mercredi 7 décembre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-decembre-2022.pdf"
+        },
+        {
+          "groups": [
+            "LFI-NUPES"
+          ],
+          "text": "Selon LCP, Antoine Léaument (LFI-NUPES) a qualifié le texte d'« extrême droite » et évoqué une « technopolice » ; la motion de rejet préalable du groupe a été écartée par 271 voix contre 50.",
+          "source_label": "LCP – Sécurité : La Lopmi définitivement adoptée par l'Assemblée nationale",
+          "source_url": "https://lcp.fr/actualites/securite-la-lopmi-definitivement-adoptee-par-l-assemblee-nationale-156523"
+        }
+      ],
+      "abstention": [
+        {
+          "groups": [
+            "SOC"
+          ],
+          "text": "Roger Vicot (SOC) a expliqué l'abstention de son groupe, comme en première lecture : désaccord sur la police judiciaire, sur les amendes forfaitaires délictuelles (intrusion dans un établissement scolaire, blocage de la circulation) et sur la fragilité de la trajectoire budgétaire relevée par le Conseil d'État. Il reconnaît des avancées (recrutements, lutte contre la cybercriminalité).",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du mercredi 7 décembre 2022",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-decembre-2022.pdf"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Assemblée nationale – Analyse du scrutin n° 671 (16e législature)",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/671"
+      },
+      {
+        "label": "Assemblée nationale – Compte rendu intégral, première séance du mercredi 7 décembre 2022",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-decembre-2022.pdf"
+      },
+      {
+        "label": "LCP – Sécurité : La Lopmi définitivement adoptée par l'Assemblée nationale",
+        "url": "https://lcp.fr/actualites/securite-la-lopmi-definitivement-adoptee-par-l-assemblee-nationale-156523"
+      },
+      {
+        "label": "Public Sénat – LOPMI : la loi sécurité définitivement adoptée : que contient le texte ?",
+        "url": "https://www.publicsenat.fr/actualites/politique/la-loi-lopmi-definitivement-adoptee-que-contient-le-texte-231233"
+      },
+      {
+        "label": "Conseil constitutionnel – Décision n° 2022-846 DC du 19 janvier 2023 (loi d'orientation et de programmation du ministère de l'intérieur)",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2023/2022846DC.htm"
+      }
+    ]
+  },
+  {
+    "id": "l16-931",
+    "summary": "Cette proposition de loi du groupe socialiste, rapportée par Fatiha Keloua Hachi (SOC), visait à permettre à tous les étudiants de se nourrir pour 1 euro dans les restaurants universitaires du réseau des œuvres universitaires, de manière universelle. En commission, la majorité, soutenue selon la rapporteure par Les Républicains, avait réécrit le texte pour inscrire dans la loi un tarif minoré réservé aux boursiers et aux étudiants précaires. En séance, l'amendement n° 11 de la rapporteure, qui rétablit la version initiale, est adopté par 164 voix contre 157, puis l'article 1er est adopté par 171 voix contre 168. Le gouvernement (ministre de l'Enseignement supérieur Sylvie Retailleau) avait défendu le maintien du tarif à 1 euro pour les boursiers et les précaires et du tarif social à 3,30 euros pour tous. Le 9 février 2023, l'ensemble de la proposition de loi est rejeté en première lecture par 184 voix contre 183, avec 4 abstentions.",
+    "arguments": {
+      "pour": [
+        {
+          "groups": [
+            "SOC"
+          ],
+          "text": "La rapporteure Fatiha Keloua Hachi (SOC) a cité l'Observatoire national de la vie étudiante : en 2021, 18 % des étudiants ne mangeaient pas à leur faim. Elle a défendu un tarif unique et universel inscrit dans la loi, jugé nécessaire face à l'inflation (hausse annuelle de plus de 12 % du coût des produits alimentaires), et estimé que les étudiants aisés ne feraient pas la queue au Crous.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du jeudi 9 février 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023.pdf"
+        },
+        {
+          "groups": [
+            "ECOLO"
+          ],
+          "text": "Jean-Claude Raux (Écologiste-NUPES) a jugé l'extension du repas à 1 euro à tous les étudiants « tout aussi nécessaire qu'humaine », regrettant que la majorité en ait décidé autrement. Il a rappelé que le coût de la vie étudiante avait augmenté de près de 6,5 % en 2022 et que la revalorisation des bourses ne couvrait pas l'inflation.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du jeudi 9 février 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023.pdf"
+        },
+        {
+          "groups": [
+            "RN"
+          ],
+          "text": "Caroline Parmentier (RN) a soutenu la proposition de loi telle que présentée en commission, soulignant que la précarité étudiante ne concerne pas que les boursiers et que proposer un repas à prix réduit à des étudiants modestes n'est pas de l'assistanat. Elle a défendu l'inscription du tarif dans la loi et un plafond à 2 euros pour les autres étudiants (au lieu de 3,30 euros).",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du jeudi 9 février 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023.pdf"
+        }
+      ],
+      "contre": [
+        {
+          "groups": [
+            "RE"
+          ],
+          "text": "Anne Brugnera (RE) a défendu l'idée de pérenniser dans la loi le repas à 1 euro pour les boursiers et les étudiants en difficulté, et jugé le tarif universel « une véritable injustice sociale » : le tarif de 3,30 euros, gelé depuis 2019, est déjà social, et 20 millions de repas à 1 euro ont été servis en 2021 et 18 millions en 2022.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du jeudi 9 février 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023.pdf"
+        },
+        {
+          "groups": [
+            "HOR"
+          ],
+          "text": "Anne Le Hénanff (HOR) a expliqué que les députés de la majorité jugeaient une mesure ouverte à tous contraire à la justice sociale puisqu'elle bénéficierait aussi aux étudiants qui n'en ont pas besoin. Ils préfèrent pérenniser dans la loi le tarif réduit pour les boursiers et précaires et renforcer l'information des étudiants sur ce droit.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du jeudi 9 février 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023.pdf"
+        },
+        {
+          "groups": [
+            "LR"
+          ],
+          "text": "Alexandre Portier (LR) a jugé la mesure injuste territorialement, car elle ne toucherait que les étudiants proches de restaurants universitaires (près de 500 000 étudiants situés en zones blanches), et infantilisante. Il a proposé à la place un ticket restaurant étudiant, accessible aux boursiers comme aux non-boursiers.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, première séance du jeudi 9 février 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023.pdf"
+        }
+      ],
+      "abstention": []
+    },
+    "sources": [
+      {
+        "label": "Assemblée nationale – Analyse du scrutin n° 931 (16e législature)",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931"
+      },
+      {
+        "label": "Assemblée nationale – Compte rendu intégral, première séance du jeudi 9 février 2023",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": "l16-1409",
+    "summary": "Ce projet de loi organise les conditions de déroulement des Jeux olympiques et paralympiques de 2024 et comporte diverses autres dispositions. Selon le ministère des Sports, il autorise une polyclinique temporaire au village des athlètes, élargit les organismes pouvant former au secourisme, permet de nouvelles analyses génétiques en matière de lutte contre le dopage, autorise à titre expérimental l'analyse algorithmique d'images de vidéoprotection jusqu'au 31 mars 2025, renforce les interdictions de stade, crée de nouvelles licences de taxi accessibles aux fauteuils roulants et permet d'ouvrir certains commerces le dimanche du 15 juin au 30 septembre 2024. La CMP a fixé la durée maximale de conservation des données d'entraînement des algorithmes à douze mois, selon le rapporteur Guillaume Vuilletet (RE). L'Assemblée nationale adopte le texte de la CMP le 11 avril 2023 par 244 voix pour, 57 contre et 21 abstentions, après le rejet d'une motion de rejet préalable de LFI par 232 voix contre 60. Le Sénat approuve à son tour les conclusions de la CMP, ce qui clôt la navette. Par la décision n° 2023-850 DC du 17 mai 2023, le Conseil constitutionnel déclare contraire à la Constitution l'article 7 de la loi (droit de communication entre l'Agence française de lutte contre le dopage et la cellule de renseignement financier, introduit sans lien avec le projet initial) et juge conformes, sous réserves, l'article 10 et un article du code du sport issu de l'article 5. La loi porte le n° 2023-380 du 19 mai 2023.",
+    "arguments": {
+      "pour": [
+        {
+          "groups": [
+            "RE"
+          ],
+          "text": "Thomas Rudigoz (RE) a jugé que le texte de la CMP est un texte d'équilibre, qui conserve des avancées défendues par son groupe (images génériques des scanners millimétriques, licences de taxis accessibles). Il a estimé que l'accueil de plus de 100 000 athlètes et de millions de visiteurs impose l'expérimentation de la vidéoprotection intelligente.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, deuxième séance du mardi 11 avril 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-11-avril-2023.pdf"
+        },
+        {
+          "groups": [
+            "DEM"
+          ],
+          "text": "Philippe Latombe (DEM) a jugé le texte équilibré depuis l'adoption d'amendements en séance, avec un rôle renforcé de la Cnil et des garanties élevées pour les libertés. Il a indiqué que le seul point de divergence avec le Sénat était la date de fin de l'expérimentation (31 mars 2025) et que ce cadre devrait servir de base aux discussions européennes sur l'intelligence artificielle.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, deuxième séance du mardi 11 avril 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-11-avril-2023.pdf"
+        },
+        {
+          "groups": [
+            "HOR"
+          ],
+          "text": "Béatrice Bellamy (HOR) a annoncé que son groupe voterait pour : le texte donne à la France les moyens de réussir ses Jeux et permet aux collectivités de suivre la dynamique. Elle a cité la lutte antidopage et son attention à l'héritage des Jeux et à la mobilisation des territoires.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, deuxième séance du mardi 11 avril 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-11-avril-2023.pdf"
+        }
+      ],
+      "contre": [
+        {
+          "groups": [
+            "LFI-NUPES"
+          ],
+          "text": "Hendrik Davi (LFI-NUPES) a soutenu que le texte n'est pas limité aux Jeux, comme l'a signalé le Conseil d'État, et dénoncé la surveillance par drone, le traitement algorithmique des images et des enquêtes administratives obligatoires (près de 750 000 selon le Conseil d'État). Il a aussi critiqué la dérogation au repos dominical et celles aux règles de publicité pour les sponsors.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, deuxième séance du mardi 11 avril 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-11-avril-2023.pdf"
+        },
+        {
+          "groups": [
+            "ECOLO"
+          ],
+          "text": "Sandra Regol (Écologiste-NUPES) a regretté que la CMP prolonge jusqu'en 2025 la vidéosurveillance algorithmique de l'article 7 : sans lien avec les Jeux selon elle, ce n'est « plus une expérimentation » et ces dispositifs remettent en question les libertés fondamentales. Elle a aussi dénoncé l'article 12, qu'elle juge calibré contre les actions de jeunes militants pour le climat.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, deuxième séance du mardi 11 avril 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-11-avril-2023.pdf"
+        }
+      ],
+      "abstention": [
+        {
+          "groups": [
+            "GDR-NUPES"
+          ],
+          "text": "Stéphane Peu (GDR-NUPES) a indiqué que son groupe s'abstiendrait : le gouvernement a introduit des dispositions sans lien direct avec les Jeux (l'article 7 sur le traitement algorithmique de la vidéoprotection, les dérogations au travail dominical, les mesures de répression dans les stades). Il soutient en revanche plusieurs mesures d'organisation et de lutte antidopage.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, deuxième séance du mardi 11 avril 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-11-avril-2023.pdf"
+        },
+        {
+          "groups": [
+            "SOC"
+          ],
+          "text": "Roger Vicot (SOC) a fait état d'« un léger sentiment de déception » : peu d'amendements adoptés malgré la volonté de coconstruction et prolongation par la CMP de l'expérimentation de la vidéosurveillance algorithmique jusqu'au 31 mars 2025, alors que son groupe souhaitait un terme à quelques mois de la fin des Jeux.",
+          "source_label": "Assemblée nationale – Compte rendu intégral, deuxième séance du mardi 11 avril 2023",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-11-avril-2023.pdf"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Assemblée nationale – Analyse du scrutin n° 1409 (16e législature)",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1409"
+      },
+      {
+        "label": "Assemblée nationale – Compte rendu intégral, deuxième séance du mardi 11 avril 2023",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-11-avril-2023.pdf"
+      },
+      {
+        "label": "Ministère des Sports – Adoption définitive du projet de loi relatif aux jeux Olympiques et Paralympiques de 2024",
+        "url": "https://www.sports.gouv.fr/adoption-definitive-du-projet-de-loi-relatif-aux-jeux-olympiques-et-paralympiques-de-2024-1817"
+      },
+      {
+        "label": "Conseil constitutionnel – Décision n° 2023-850 DC du 17 mai 2023 (loi relative aux jeux Olympiques et Paralympiques de 2024)",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2023/2023850DC.htm"
+      }
+    ]
+  }
+]
