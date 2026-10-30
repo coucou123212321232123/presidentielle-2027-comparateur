@@ -1,46 +1,52 @@
 {
   "since": "2026-10-26",
-  "generated": "2026-10-29",
+  "generated": "2026-10-30",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
   "candidates": {
     "arthaud": {
       "changed_pages": [
         {
           "url": "https://www.nathalie-arthaud.info",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 2,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 3,
           "added": [
             "Samedi 24 octobre, des centaines de milliers de jeunes et de travailleurs ont de nouveau manifesté. Le gouvernement, la droite et l’extrême droite, relayés par tous les médias, avaient pourtant tout fait pour nous faire peur et discréditer les manifestants.",
+            "Nathalie Arthaud sur Le Média : \"Le monde du travail doit s'engouffrer dans la brèche ouverte par la jeunesse\"",
             "L'éditorial en vidéo : Renforçons la mobilisation !"
           ]
         },
         {
           "url": "https://www.lutte-ouvriere.org/portail/index.html",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 10,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 14,
           "added": [
             "Le Sénat a voté la prolongation pour deux ans de l’encadrement des loyers dans les communes où il s’applique déjà, et où il est d’ailleurs loin d’être toujours respecté. Mais il refuse de permettre à de nouvelles villes de l’adopter et de limiter les compléments de loyer qui permettent aux propriétaires de contourner les plafonds.",
             "Le Sénat a approuvé le projet de loi « casseurs-payeurs » en le rendant encore plus répressif. Il prévoit jusqu'à 10 000 € d'amende si l'on reste dans un cortège à côté duquel des dégradations ont lieu et des saisies sur les allocations familiales, les APL, le RSA, l'allocation de rentrée scolaire ou la prime d'activité.",
+            "TotalEnergies vient d’annoncer 8 milliards d’euros de profits pour le seul troisième trimestre, qui s'ajoutent aux 11 milliards du premier semestre. Ces records confirment les propos cyniques de son PDG, Patrick Pouyané, qui déclarait récemment : « je préfère un monde de bouleversements à un monde paisible ».",
             "Samedi 24 octobre, des centaines de milliers de jeunes et de travailleurs ont de nouveau manifesté. Le gouvernement, la droite et l’extrême droite, relayés par tous les médias, avaient pourtant tout fait pour nous faire peur et discréditer les manifestants.",
             "Le président Aleksandar Vucic a été battu au profit de la « liste des étudiants ». Constituée d’universitaires, de chercheurs, d’artistes et de sportifs, cette liste composite a été portée par la contestation qui secoue le pays depuis plus de deux ans.",
+            "L'effroyable accident de train survenu à Urda en Espagne a fait 68 morts et des centaines de blessés. L’erreur humaine n’est pas la cause de ce carnage, qui n’est pas le premier.",
             "La sécheresse continue de frapper de nombreuses régions. L'usage de l'eau est toujours restreint dans 72 départements.",
+            "Nathalie Arthaud sur Le Média : \"Le monde du travail doit s'engouffrer dans la brèche ouverte par la jeunesse\"",
             "Loi « casseurs-payeurs » : la matraque n’empêchera pas la révolte",
+            "Espagne : un accident ferroviaire qui devait arriver",
             "L'éditorial en vidéo : Renforçons la mobilisation !",
             "Serbie : défaite électorale d’un ami de la France",
+            "Surtaxe : les capitalistes ont leurs défenseurs",
             "Lycées : mesurettes d’un gouvernement affaibli",
             "Violences policières : : Une impunité abjecte"
           ]
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
-          "changed_at": "2026-10-27",
-          "removed_blocks": 1,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 2,
           "added": []
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=20",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 2,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 3,
           "added": []
         },
         {
@@ -52,32 +58,532 @@
       ],
       "new_pages": []
     },
+    "attal": {
+      "changed_pages": [
+        {
+          "url": "https://attalpresident.fr/",
+          "changed_at": "2026-10-30",
+          "removed_blocks": 6,
+          "added": [
+            "Invité de l’émission « C dans l’air » ce jeudi 29 octobre, Gabriel Attal a clarifié le périmètre : si cette primaire passe par le centre et la droite, ce sera une étape supplémentaire vers le rassemblement. Il est également revenu sur les manifestations lycéennes et la nécessité de redonner un espoir à la jeunesse.",
+            "Gabriel Attal appelle à une primaire pour construire un grand rassemblement face au risque d’un second tour RN/LFI",
+            "Gabriel Attal reçu chez Mistral AI par Arthur Mensch pour échanger sur les enjeux de l’intelligence artificielle",
+            "Gabriel Attal présente sa vision économique pour libérer, innover et renforcer l’indépendance de la France",
+            "Gabriel Attal : « C’est la responsabilité de ma génération de faire les États-Unis d’Europe »",
+            "Gabriel Attal appelle à une grande primaire pour rassembler les démocrates face aux extrêmes"
+          ]
+        },
+        {
+          "url": "https://attalpresident.fr/actualites",
+          "changed_at": "2026-10-30",
+          "removed_blocks": 10,
+          "added": [
+            "Le 28 octobre dernier, Gabriel Attal a été reçu dans les locaux de Mistral AI par Arthur Mensch, cofondateur et dirigeant de l’entreprise française spécialisée dans l’intelligence artificielle. Cette rencontre a été l’occasion d’échanger sur les enjeux de l’innovation, de la souveraineté technologique et du développement de l’IA en France et en Europe.Gabriel Attal est le seul candidat à avoir été",
+            "Dans un entretien accordé à L’Express ce mardi 27 octobre, Gabriel Attal présente son projet d’États-Unis d’Europe. Face à la concurrence des grandes puissances mondiales, il défend la création d’une économie européenne commune, capable de renforcer la prospérité, l’indépendance et la souveraineté du continent. Une ambition qui repose sur une intégration économique, technologique et écologique ren",
+            "Ce mercredi 28 octobre, Gabriel Attal a présenté, lors d’une conférence de presse, sa vision économique pour la France. Avec une ambition : bâtir un nouveau modèle de croissance fondé sur deux piliers, une politique de l’offre renforcée et une planification stratégique dans les secteurs d’avenir. Son objectif : faire de la France une puissance économique et technologique de premier plan.",
+            "Invité du JT de TF1 ce mercredi 28 octobre, Gabriel Attal a appelé à l’organisation d’une grande primaire ouverte à tous les candidats partageant les valeurs républicaines. Face au risque d’un second tour opposant le Rassemblement national à La France insoumise en 2027, il défend une méthode de rassemblement qui donne directement la parole aux Français.",
+            "Invité de l’émission « C dans l’air » ce jeudi 29 octobre, Gabriel Attal a clarifié le périmètre : si cette primaire passe par le centre et la droite, ce sera une étape supplémentaire vers le rassemblement. Il est également revenu sur les manifestations lycéennes et la nécessité de redonner un espoir à la jeunesse.",
+            "Gabriel Attal appelle à une primaire pour construire un grand rassemblement face au risque d’un second tour RN/LFI",
+            "Gabriel Attal reçu chez Mistral AI par Arthur Mensch pour échanger sur les enjeux de l’intelligence artificielle",
+            "Gabriel Attal présente sa vision économique pour libérer, innover et renforcer l’indépendance de la France",
+            "Gabriel Attal : « C’est la responsabilité de ma génération de faire les États-Unis d’Europe »",
+            "Gabriel Attal appelle à une grande primaire pour rassembler les démocrates face aux extrêmes"
+          ]
+        }
+      ],
+      "new_pages": [
+        {
+          "url": "https://attalpresident.fr/actualites",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/annonce-de-candidature",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/appel-500-elus-gabriel-attal-presidentielle",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/livre-en-homme-libre-gabriel-attal",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-premier-meeting-presidentiel",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/en-aveyron-gabriel-attal-lance-sa-campagne-presidentielle",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-20h-tf1-quatre-chantiers-capitaux-pour-la-france",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-france-inter-election-presidentielle",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-deplacement-lycee-jean-zay-orleans-education-ia",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/meeting-de-gabriel-attal-a-paris-l-elan-d-une-france-qui-choisit-l-avenir",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-rtl-autorite-ecole-retraites-rassemblement-campagne",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/attal-president-l-application-de-campagne-de-gabriel-attal-boostee-a-l-ia",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-l-ain-et-la-saone-et-loire",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/force-d-agir-une-mobilisation-eclair-des-militants-renaissance-partout-en-france",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-bfm-tv-sa-strategie-de-rupture-pour-rebatir-la-justice-et-proteger-les-enfants",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-le-figaro-appelle-a-une-nouvelle-justice",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-bfm-tv-la-france-a-toujours-un-role-a-jouer-c-est-sa-mission-c-est-son-destin",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/eurosatory-gabriel-attal-presente-sa-strategie-de-souverainete-technologique-et-d-independance-europeenne-au-salon",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-appelle-a-une-rupture-economique-dans-les-echos",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-france-info-ia-pouvoir-d-achat-et-climat-au-coeur-de-sa-campagne",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/vivatech-gabriel-attal-place-l-intelligence-artificielle-et-la-souverainete-au-coeur-de-son-projet",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-les-yvelines-l-intelligence-artificielle-au-service-de-l-exception-agricole",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-tarbes-la-geoenergie-pour-adapter-la-france-aux-grandes-canicules",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-pour-le-retour-du-royaume-uni-dans-l-union-europeenne-dans-le-figaro",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-veut-briser-la-tenaille-rn-lfi-dans-la-tribune-dimanche",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/face-aux-canicules-gabriel-attal-veut-faire-de-la-geoenergie-le-grand-projet-energetique-de-la-france-du-xxie-siecle",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/grand-entretien-de-gabriel-attal-sur-lci",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/dans-le-parisien-gabriel-attal-vise-le-zero-deficit-en-2037",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/aux-rencontres-economiques-d-aix-en-provence-gabriel-attal-appelle-la-france-a-preparer-les-guerres-de-demain",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-tf1-le-choix-du-rassemblement-national-est-un-choix-qui-nous-emmenerait-dans-le-mur",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-villers-cotterets-briser-la-tenaille-des-extremes",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-creil-poursuivre-le-combat-pour-desserrer-la-tenaille-des-extremes",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-france-inter-la-france-merite-mieux-qu-une-guerilla-judiciaire",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/rtl-gabriel-attal-appelle-a-sortir-de-la-chronique-judiciaire-du-rn-et-recentrer-le-debat-sur-les-francais",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-fin-de-vie-l-aboutissement-d-un-long-chemin-et-la-consecration-d-un-droit-nouveau",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-continue-son-tour-de-france-a-nevers",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-annonce-un-grand-meeting-regional-10-octobre-a-lyon",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-une-victoire-decisive-pour-proteger-notre-jeunesse",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/dans-le-telegramme-gabriel-attal-veut-un-choc-de-salaires-et-instaurer-le-droit-au-brut",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-annecy-aux-cotes-des-francais-qui-travaillent",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-en-bretagne-trois-jours-au-contact-de-la-france-qui-travaille",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-spa-de-plaisir-premieres-propositions-contre-labandon-animal",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/dans-la-tribune-dimanche-gabriel-attal-veut-un-referendum-pour-interdire-les-reseaux-sociaux-aux-moins-de-15-ans",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-avec-les-francais-qui-travaillent-l-ete-visite-du-marche-de-chateaurenard",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/en-vendee-gabriel-attal-exige-le-respect-du-droit-par-tous-face-aux-occupations-illegales-des-gens-du-voyage-et-fait-des-propositions",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-plan-eau-argeles-sur-mer",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/en-deplacement-a-la-grande-motte-gabriel-attal-va-a-la-rencontre-de-la-france-qui-travaille-l-ete",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/protection-de-l-enfance-gabriel-attal-en-visite-a-aulnay-sous-bois-pour-rencontrer-les-jeunes-et-leurs-encadrants",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/dans-le-monde-gabriel-attal-devoile-son-projet-pour-faire-notre-ecole-la-meilleure-d-europe",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/a-la-ref-gabriel-attal-grand-gagnant-du-premier-debat-de-la-presidentielle-2027",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/en-mayenne-gabriel-attal-au-contact-de-la-france-qui-travaille",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-annonce-ses-premieres-mesures-pour-les-familles-monoparentales-a-la-premiere-universite-d-ete",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-au-contact-du-monde-agricole-et-de-ceux-qui-font-vivre-nos-territoires-a-la-foire-de-chalons",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/france-2-gabriel-attal-fait-de-l-ecole-une-priorite-pour-preparer-l-avenir-du-pays",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-son-equipe-de-campagne-pour-l-election-presidentielle-de-2027",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/six-porte-paroles-pour-porter-les-idees-de-gabriel-attal",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-toulouse-au-plus-pres-des-francais-et-de-ceux-qui-font-vivre-nos-terroirs",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-braderie-de-lille-aller-a-la-rencontre-des-francais-partout-sur-le-territoire",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/1-000-bistrots-partout-en-france-la-campagne-de-gabriel-attal-vient-a-votre-rencontre",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/bfm-tv-gabriel-attal-veut-changer-de-modele-pour-redonner-de-la-puissance-a-la-france",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/j-30-avant-le-meeting-de-gabriel-attal-a-lyon",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-veut-remettre-l-exigence-au-coeur-de-l-ecole-et-transformer-le-modele-francais-sur-france-info",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/a-saint-malo-gabriel-attal-poursuit-sa-campagne-de-terrain-avec-les-1-000-bistrots",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/metz-magny-gabriel-attal-veut-preparer-l-avenir-de-l-agriculture-francaise",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-foire-du-mans-celebrer-nos-terroirs-et-aller-a-la-rencontre-de-ceux-qui-les-font-vivre",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-reims-batir-les-etats-unis-d-europe-pour-retrouver-notre-puissance",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-france-2-gerer-l-urgence-et-preparer-l-avenir",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-celles-et-ceux-qui-construiront-son-projet-pour-2027",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-bfm-tv-le-plus-juste-c-est-d-accompagner-ceux-qui-travaillent",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-un-plan-de-desendettement-et-un-messmer-ii-pour-sortir-des-dependances-francaises",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-politico-europe-ukraine-ia-et-finances-publiques-quatre-priorites-pour-preparer-la-france-de-demain",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-rtl-je-suis-candidat-pour-gagner-cette-election-presidentielle",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-veut-liberer-l-acces-au-logement-et-relancer-le-secteur-du-batiment",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/aux-assises-de-l-afer-gabriel-attal-defend-une-epargne-qui-finance-l-economie-francaise",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-cnews-et-europe-1-il-faut-proposer-aux-francais-un-projet-d-espoir",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-le-parisien-rassemblement-jeunesse-et-dette",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-face-aux-lyceens-il-faut-un-president-qui-comprenne-la-jeunesse",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-debat-avec-les-francais-a-blois-et-a-bourges",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-en-meeting-a-lyon-un-pacte-pour-la-jeunesse",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-lettre-aux-francais-plan-finances-publiques",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-france-info-ecouter-la-jeunesse",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-rtl-retablir-ordre-jeunesse-avenir-france",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-retablir-ordre-mettre-fin-impunite",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-lance-une-grande-consultation-pacte-pour-la-jeunesse",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-retablir-ordre-pacte-avenir-jeunesse",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-responsabilite-generation-etats-unis-europe",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-vision-economique-liberer-innover-independance-france",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-recu-chez-mistral-ai-arthur-mensch-intelligence-artificielle",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-primaire-grand-rassemblement-risque-second-tour-rn-lfi",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-grande-primaire-rassembler-democrates-face-extremes",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/programme",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/dette-ecologique",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/dette-de-letat",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/intelligence-artificielle",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/frontieres",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/travail-salaires",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/education",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/philippe-englebert",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/paul-midy",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/agnes-pannier-runacher",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/prisca-thevenot",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/thomas-cazenave-president-comite-maires",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/fanny-anor-directrice-de-campagne",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/franck-riester-directeur-de-campagne",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/maxime-cordier-directeur-de-campagne",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/rachel-flore-pardo-porte-parole",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/jad-zahab-porte-parole",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/abdoulaye-kante-porte-parole",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/violette-spillebout-porte-parole",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/jean-charles-orsucci-porte-parole",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/celine-geraud-porte-parole",
+          "first_seen": "2026-10-30"
+        }
+      ]
+    },
     "dupont-aignan": {
       "changed_pages": [
         {
           "url": "https://www.dupontaignan.fr/actualite/",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 2,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 3,
           "added": [
             "Offrons un vrai débat apaisé aux Français · BFM TV, 23/10/2026",
-            "Pétition : NON À LA TAXE DE 0,8 % SUR NOS ASSURANCES !"
+            "Pétition : NON À LA TAXE DE 0,8 % SUR NOS ASSURANCES !",
+            "Empêchons Macron de bloquer les réseaux sociaux !"
           ]
         },
         {
           "url": "https://www.dupontaignan.fr/",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 51,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 65,
           "added": [
             "Depuis toujours, Emmanuel Macron veut les interdire pour cacher la réalité catastrophique de son bilan. Jamais la liberté d’expression n’a été autant en danger dans notre pays. NE NOUS LAISSONS PAS FAIRE ! ... Voir plus Voir moins",
             "Après les déclarations surréalistes d’Emmanuel Macron hier à Marseille, le gouvernement joint la parole aux actes et dépose un amendement au Sénat pour pouvoir bloquer les réseaux sociaux sans décision préalable d’un juge !",
             "Attention aux effets d’annonce, restons vigilants, car seule la mise en œuvre d’un nouveau bac exigeant et impartial peut garantir la juste orientation des élèves à l’université. ... Voir plus Voir moins",
+            "Évidemment ! Quand on dispose d’une voiture de fonction avec chauffeur aux frais du contribuable, on ne vit pas les mêmes difficultés que les Français qui doivent faire le plein pour aller travailler.",
             "Les Français paient déjà leurs impôts pour assurer leur sécurité. Faudra-t-il désormais qu’ils paient une deuxième fois pour les conséquences des violences… dues à l’incompétence du gouvernement ?",
             "L’État profond en action : le Brésil nous montre jusqu’où peuvent aller les dérives d’un système où pouvoir politique et institutions se protègent mutuellement. Et la France n’est pas à l’abri !",
+            "Après avoir subi les dégradations, les Français devraient encore passer à la caisse à travers une nouvelle taxe sur leurs assurances ? Ils travaillent, cotisent et paient déjà suffisamment !",
             "Les casseurs doivent être sanctionnés, mais les millions de Français qui utilisent ces plateformes pour s’informer, débattre et exprimer leur colère n’ont pas à être réduits au silence !",
             "Macron et von der Leyen félicitent Lula sans sourciller, alors que le scrutin aurait été prolongé de deux heures à la dernière minute par un juge nommé par Lula, dont il était l’avocat.",
             "La France investit dans ses futurs réacteurs nucléaires, mais Bruxelles veut conditionner leur financement à des concessions sur notre réseau et la vente de notre électricité.",
             "Avec la loi « casseurs-payeurs », le Sénat vient d’adopter un amendement gouvernemental permettant de faire bloquer des réseaux sociaux… sans décision préalable d’un juge !",
             "Les pilleurs doivent être lourdement sanctionnés. Mais la liberté des Français ne saurait être remise en cause du fait de l’incapacité du gouvernement à maintenir l’ordre.",
+            "Ce hold-up démocratique est insupportable. Il faudra mettre fin au règne de ces technocrates qui prétendent gouverner au-dessus des peuples ! ... Voir plus Voir moins",
             "Pour réellement combattre la crise du pouvoir d’achat, je propose dans mon projet présidentiel 2027 trois mesures concrètes financées par la fin des gaspillages👇",
             "Quand les règles changent en plein scrutin, c’est la confiance dans la démocratie qui est en jeu. Mais Macron et les dirigeants européens, eux, applaudissent.",
             "Pour autoriser le financement de nos 6 futurs réacteurs EPR2, Bruxelles voudrait imposer à la France davantage d’interconnexions électriques avec nos voisins.",
@@ -86,13 +592,10 @@
             "Voir les commentaires Like reaction Love reaction Haha reaction Sad reaction Angry reaction Reactions: 505 Partages : 146 Commentaires : 63",
             "À Marseille, où il a abandonné la ville aux pilleurs, il accuse les réseaux sociaux pour pouvoir restreindre la liberté d’expression !",
             "Après avoir échoué à maintenir l’ordre, le gouvernement prépare une contribution de 0,8 % sur les contrats d’assurance dommages !",
+            "Faisons entendre notre voix, les Français ne doivent pas être les vaches à lait d’un État incapable de faire respecter l’ordre.",
             "Après avoir laissé le chaos s’installer dans nos villes, il vient maintenant accuser les réseaux sociaux de tous les maux.",
             "Dans mon projet présidentiel 2027, trois mesures fortes pour redonner confiance à la jeunesse ! ... Voir plus Voir moins",
-            "Division par deux du prix de l’électricité, en sortant du marché européen de l’électricité. ... Voir plus Voir moins",
-            "Après le désastre de l’ARENH, la Commission européenne veut à nouveau s’attaquer à notre atout énergétique majeur !",
-            "Voir les commentaires Like reaction Haha reaction Angry reaction Reactions: 117 Partages : 40 Commentaires : 9",
-            "La priorité doit être de sanctionner les casseurs et de leur faire payer les dégâts ! ... Voir plus Voir moins",
-            "Moins de 10 euros supplémentaires par mois pour les smicards, régularisation de 300 000 sans-papiers, etc."
+            "Le résultat ? Macron participera à la nomination de son successeur pour 8 ans, juste avant la présidentielle de 2027."
           ]
         },
         {
@@ -129,6 +632,10 @@
         {
           "url": "https://www.dupontaignan.fr/actualite/petition-non-a-la-taxe-de-08-sur-nos-assurances/",
           "first_seen": "2026-10-29"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/actualite/empechons-macron-de-bloquer-les-reseaux-sociaux/",
+          "first_seen": "2026-10-30"
         }
       ]
     },
@@ -213,47 +720,57 @@
       "changed_pages": [
         {
           "url": "https://www.unenouvelleenergie.fr/notre-programme/",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 3,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 4,
           "added": [
             "Prochains rendez-vous : Hong Kong, Clermont-Ferrand, Saint-Émilion et Merrey-sur-Arce",
+            "Prochains rendez-vous : Cannes, Évry-Courcouronnes, Lyon et Feldbach",
             "Prochains rendez-vous : Draguignan, Alès, Genève et Lisbonne",
             "Prochains rendez-vous : Marseille, Douai, Dijon et Angers"
           ]
         },
         {
           "url": "https://www.unenouvelleenergie.fr/",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 22,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 35,
           "added": [
             "Invité du premier « Grand entretien de l’écologie » consacré à l’élection présidentielle de 2027, David Lisnard a répondu aux questions de François de Rugy et Laurent Lesage sur les grands défis économiques et environnementaux de la France. Nucléaire, réindustrialisation, agriculture, souveraineté alimentaire, décarbonation, normes : le président de Nouvelle Énergie a défendu une écologie fondée s",
+            "Invité de Laurence Ferrari, mardi 27 octobre, dans l’émission « Objectif Élysée 2027 », diffusée en direct sur CNEWS et Europe 1, David Lisnard a détaillé son projet pour la présidentielle de 2027. Baisse de la CSG sur les salaires, 200 milliards d’euros d’économies, réforme de la fonction publique, autonomie des établissements scolaires, justice des mineurs, immigration, intelligence artificielle",
+            "Dimanche 18 octobre, David Lisnard s’est rendu à Limoges aux côtés de Guillaume Guérin, après l’incendie de l’hôtel de ville et les violences qui ont frappé la commune. Devant les habitants rassemblés place de la République, le président de Nouvelle Énergie a exprimé son soutien aux élus, aux forces de l’ordre, aux agents publics et aux commerçants touchés. Il a appelé à établir les responsabilité",
             "Michel Jacob, Référent NE Bar-sur-Seine,et Maire d Avirey-Lingey, vous convie à une réunion politique Nouvelle Énergie Aube. Ce sera l occasion d évoquer l actualité politique, notamment celle de David Lisnard, ainsi que de structurer les actions à venir. Mardi 27 Octobre, 18h30, à Merrey-sur-Arce Salle communale, 1 rue de l église, 10110 Infos et contact : aube@unenouvelleenergie.fr",
+            "Paru ce mercredi 28 octobre aux éditions Fayard, Les robots, le Pape, l’IA et nous, le nouvel ouvrage de David Lisnard, coécrit avec Romain Marsily, invite à penser les bouleversements technologiques de notre époque et à reprendre en main notre avenir. Un essai consacré à l’intelligence artificielle, à la souveraineté, à la transmission et à la place de l’homme face à la machine.",
             "Jack Allais, Référent Nouvelle Énergie Saint-Émilion, et Denis Pernin, Co-relais Nouvelle Énergie Gironde, vous invitent à un Afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Mardi 27 Octobre à 18h30, à Saint-Émilion Le Bis, 49 rue Guadet Infos et contact : gironde@unenouvelleenergie.fr",
+            "Dans son nouveau livre à paraître coécrit avec Romain Marsily, le candidat à la présidentielle alerte sur la révolution technologique, industrielle et anthropologique engendrée par l’intelligence artificielle et la robotique et donne ses pistes pour que la France soit au rendez-vous de l’Histoire. Un entretien de David Lisnard accordé au Figaro Magazine.",
             "Étienne Arnoux, Co-relais Nouvelle Énergie Suisse, vous invite à un Afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Jeudi 29 Octobre à 18h30, à Genève Hôtel Base, rue du Jura 13 RSVP : +41 76 451 04 17 (WhatsApp) ou suisse.nouvelleenergie@gmail.com",
             "L équipe Nouvelle Énergie Portugal vous convie à un nouvel afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Jeudi 29 Octobre à 18h30, à Lisbonne Comptoir Parisien, Belèm - R.Viera Portuense 44 Infos et contact : contact@unenouvelleenergie.fr",
             "Christophe Deparis, relais Nouvelle Énergie Nord, et Tristan Crochard, relais Jeunes Énergies Nord, vous donnent rendez-vous à Douai pour une nouvelle étape du Tour du Nord. Mercredi 28 Octobre, 19h, à Douai Salle Robert (1er étage), 229 rue Wallerand Hangouart Infos et contact : nord@unenouvelleenergie.fr",
             "L équipe des Jeunes Énergies Marseille vous invite à un afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Mercredi 28 octobre, 19h, à Marseille Chez ACUDA, 34 place aux Huiles Infos et contact : jeunesenergies@unenouvelleenergie.fr",
+            "Le livre de David Lisnard et Romain Marsily, Les Robots, le Pape, l IA et nous, est disponible dès aujourd hui en librairie. Rendez-vous ce vendredi 30 octobre à partir de 18h30 pour une séance de dédicace avec les auteurs ! Librairie Autour d un livre, 17 rue Jean-Jaurès, 06400 Cannes",
+            "Olivier Karch, relais Nouvelle Énergie Haut-Rhin, et Sébastien Stoessel, référent Nouvelle Énergie Grand Sundgau, vous invitent à une réunion publique à Feldbach. Vendredi 30 octobre à 19h45, à Feldbach Foyer rural, 2 rue d’Arveyres Infos et contact : hautrhin@unenouvelleenergie.fr",
             "Yanis Berthelot, relais Jeunes Énergies Maine-et-Loire, vous invite à un Afterwork Jeunes Énergies. Mercredi 28 octobre à 19h30, à Angers Buddy s Bar, Fleur d Eau, 58 rue Plantagenêt (centre commercial) Infos et contact : jeunesenergies@unenouvelleenergie.fr",
+            "Les Jeunes Énergies Essonne vous invitent à un Afterwork Jeunes Énergies. Vendredi 30 Octobre à 19h, à Évry-Courcouronnes Centre commercial Le Spot, 26 boulevard de l Europe - Valéry Giscard d Estaing Infos et contact : jeunesenergies@unenouvelleenergie.fr",
+            "Conférence d Arthur Rochon du Verdier, professeur de philosophie : « Réveiller l énergie d un peuple : libérer, enraciner, refonder ». Vendredi 30 Octobre à 19h, à Lyon Café 203, 9 rue du Garet, 69001 Lyon Ifos et contact : rhone@unenouvelleenergie.frn",
             "Maxime Zbinden, relais Jeunes Énergies Var, vous invite à un Halloween politique : « Enterrons les vieilles recettes ». Jeudi 29 octobre à 18h Bara pote, 78 boulevard Marx Dormoy, Draguignan Infos et contact : jeunesenergies@unenouvelleenergie.fr",
             "Tristan Perry, relais Jeunes Énergies Côte-d Or, vous invite à un Afterwork Jeunes Énergies. Mercredi 28 octobre à 19h30, à Dijon Le Triton à Casquette, 48 rue Monge Infos et contact : jeunesenergies@unenouvelleenergie.fr",
             "Le maire de Cannes et candidat à l’Élysée dénonce la faillite sécuritaire de l’État, juge Emmanuel Macron complètement « dépassé » et appelle à un vrai sursaut civique. Un entretien à retrouver dans le magazine Le Point.",
             "After Work Jeunes Énergies avec Maxime Cairoche, relais Jeunes Énergies Gard, et Guillaume Rosenberg, relais Nouvelle Énergie Gard. Jeudi 29 octobre 2026 à 18h30, au Comptoir à Alès.",
             "Afterwork avec Laurent Salles, relais Nouvelle Énergie Puy-de-Dôme. Mardi 27 octobre 2026 à 18h30, au Still Irish Pub à Clermont-Ferrand.",
-            "Buddy s Bar, Fleur d Eau (centre commercial), ANGERS, MAINE-ET-LOIRE",
-            "« L’énergie doit réconcilier l’industrie et l’écologie »",
-            "The Still Irish Pub, CLERMONT-FERRAND, PUY-DE-DÔME",
-            "AFTERWORK NOUVELLE ÉNERGIE : CLERMONT-FERRAND",
-            "APÉRITIF & DINER NOUVELLE ÉNERGIE PORTUGAL",
-            "AFTERWORK NOUVELLE ÉNERGIE SUISSE - GENÈVE",
-            "AFTERWORK NOUVELLE ÉNERGIE SAINT-ÉMILION"
+            "David Lisnard sur CNEWS et Europe 1 : « Je ne suis pas candidat pour un poste. Je viens pour redresser le pays »",
+            "« Les robots, le Pape, l’IA et nous » : le nouveau livre de David Lisnard est disponible en librairie",
+            "«Les robots, le Pape, l’IA et nous» : le nouveau livre de David Lisnard est disponible en librairie",
+            "Buddy s Bar, Fleur d Eau (centre commercial), ANGERS, MAINE-ET-LOIRE"
           ]
         },
         {
           "url": "https://www.unenouvelleenergie.fr/actualites/",
-          "changed_at": "2026-10-28",
-          "removed_blocks": 2,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 6,
           "added": [
             "Invité du premier « Grand entretien de l’écologie » consacré à l’élection présidentielle de 2027, David Lisnard a répondu aux questions de François de Rugy et Laurent Lesage sur les grands défis économiques et environnementaux de la France. Nucléaire, réindustrialisation, agriculture, souveraineté alimentaire, décarbonation, normes : le président de Nouvelle Énergie a défendu une écologie fondée s",
+            "Invité de Laurence Ferrari, mardi 27 octobre, dans l’émission « Objectif Élysée 2027 », diffusée en direct sur CNEWS et Europe 1, David Lisnard a détaillé son projet pour la présidentielle de 2027. Baisse de la CSG sur les salaires, 200 milliards d’euros d’économies, réforme de la fonction publique, autonomie des établissements scolaires, justice des mineurs, immigration, intelligence artificielle",
+            "Paru ce mercredi 28 octobre aux éditions Fayard, Les robots, le Pape, l’IA et nous, le nouvel ouvrage de David Lisnard, coécrit avec Romain Marsily, invite à penser les bouleversements technologiques de notre époque et à reprendre en main notre avenir. Un essai consacré à l’intelligence artificielle, à la souveraineté, à la transmission et à la place de l’homme face à la machine.",
+            "David Lisnard sur CNEWS et Europe 1 : « Je ne suis pas candidat pour un poste. Je viens pour redresser le pays »",
+            "« Les robots, le Pape, l’IA et nous » : le nouveau livre de David Lisnard est disponible en librairie",
             "« L’énergie doit réconcilier l’industrie et l’écologie »"
           ]
         },
@@ -276,8 +793,56 @@
           "first_seen": "2026-10-29"
         },
         {
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/les-robots-le-pape-lia-et-nous-le-nouveau-livre-de-david-lisnard-est-disponible-en-librairie/",
+          "first_seen": "2026-10-30"
+        },
+        {
           "url": "https://www.unenouvelleenergie.fr/lenergie-doit-reconcilier-lindustrie-et-lecologie/",
           "first_seen": "2026-10-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/apero-jeunes-energies-paris-6/",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-touraine-sorigny/",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-gard-les-angles/",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/dedicace-david-lisnard-cannes/",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-anglet/",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/rencontre-nouvelle-energie-les-trois-saints/",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/rencontre-nouvelle-energie-brive/",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-jeunes-energies-aix-en-provence/",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/conference-nouvelle-energie-nord-et-pas-de-calais-narcotrafic/",
+          "first_seen": "2026-10-30"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-jeunes-energies-paris-7e/",
+          "first_seen": "2026-10-30"
         },
         {
           "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-bouches-du-rhone-saint-remy-de-provence/",
@@ -337,9 +902,10 @@
       "changed_pages": [
         {
           "url": "https://lafranceinsoumise.fr/actualites/",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 1,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 2,
           "added": [
+            "Ce vendredi 30 octobre, rassemblement « La République contre le racisme » à Trappes",
             "Pas de nazis, ni à Paris, ni au Plessis !"
           ]
         }
@@ -500,8 +1066,8 @@
       "changed_pages": [
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 1,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 2,
           "added": []
         },
         {
@@ -512,26 +1078,27 @@
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/sante.pdf",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 2,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 3,
           "added": []
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/mercosur.pdf",
-          "changed_at": "2026-10-28",
-          "removed_blocks": 1,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 2,
           "added": []
         },
         {
           "url": "https://www.parti-reconquete.fr/#actualites",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 10,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 12,
           "added": [
             "Révolutionnaire pour votre maison, propriétaire pour la sienne : Je réponds à Jean-Luc Mélenchon !",
             "Mélenchon, nos villages, nos vignes, nos fêtes n’attendent pas votre permission pour exister.",
             "Cher Karim Zéribi, ici nous sommes en France, pas une dictature militaire à l’algérienne.",
             "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène",
             "Sarah Knafo face aux journalistes militants de Franceinfo !",
+            "Propriété privée : mon mesage à Jean-Luc Mélenchon ! 🤯",
             "Nous voulons justement éviter l’affrontement ! 🇫🇷",
             "Merci aux Basques d’être si nombreux à mes côtés !",
             "Je sors d’une interview lunaire sur France Info.",
@@ -543,14 +1110,15 @@
         },
         {
           "url": "https://www.parti-reconquete.fr/",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 10,
+          "changed_at": "2026-10-30",
+          "removed_blocks": 12,
           "added": [
             "Révolutionnaire pour votre maison, propriétaire pour la sienne : Je réponds à Jean-Luc Mélenchon !",
             "Mélenchon, nos villages, nos vignes, nos fêtes n’attendent pas votre permission pour exister.",
             "Cher Karim Zéribi, ici nous sommes en France, pas une dictature militaire à l’algérienne.",
             "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène",
             "Sarah Knafo face aux journalistes militants de Franceinfo !",
+            "Propriété privée : mon mesage à Jean-Luc Mélenchon ! 🤯",
             "Nous voulons justement éviter l’affrontement ! 🇫🇷",
             "Merci aux Basques d’être si nombreux à mes côtés !",
             "Je sors d’une interview lunaire sur France Info.",
