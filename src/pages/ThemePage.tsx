@@ -1,6 +1,6 @@
 import { Link, useParams } from 'react-router-dom'
-import { ArrowLeft, Columns3 } from 'lucide-react'
-import { allCandidateIds, byTheme, candidates, countFor, themeById, useMeasures } from '../data'
+import { Columns3 } from 'lucide-react'
+import { allCandidateIds, byTheme, candidates, countFor, themeById, themes, useMeasures } from '../data'
 import type { ThemeId } from '../data/schema'
 import { CandidateAvatar } from '../components/CandidateAvatar'
 import { ThemeContext } from '../components/Insights'
@@ -21,9 +21,6 @@ export default function ThemePage() {
   const without = candidates.filter((c) => countFor(c.id, theme.id) === 0)
   return (
     <div>
-      <Link to="/themes" className="mb-6 inline-flex items-center gap-1.5 text-sm font-medium text-muted hover:text-ink">
-        <ArrowLeft className="size-4" aria-hidden="true" /> Tous les thèmes
-      </Link>
       <PageHeader eyebrow={theme.short} title={`${theme.label} : que proposent les candidats ?`}>
         {theme.description} Les mesures de chaque candidat, chacune avec sa source : {plural(withMeasures.length, 'candidat', 'candidats')} sur{' '}
         {candidates.length} ont publié des propositions sur ce thème.
@@ -95,6 +92,25 @@ export default function ThemePage() {
           </p>
         )}
       </section>
+
+      <nav aria-label="Les autres thèmes" className="mt-10 border-t border-line pt-6">
+        <h2 className="mb-3 text-sm font-semibold text-muted">Les autres thèmes</h2>
+        <ul className="flex flex-wrap gap-2">
+          {themes
+            .filter((t) => t.id !== theme.id)
+            .map((t) => (
+              <li key={t.id}>
+                <Link
+                  to={`/themes/${t.id}`}
+                  className="inline-flex items-center gap-1.5 rounded-full border border-line bg-surface px-3 py-1 text-sm text-ink-2 hover:text-ink"
+                >
+                  <ThemeIcon theme={t} className="size-3.5 text-muted" />
+                  {t.short}
+                </Link>
+              </li>
+            ))}
+        </ul>
+      </nav>
     </div>
   )
 }

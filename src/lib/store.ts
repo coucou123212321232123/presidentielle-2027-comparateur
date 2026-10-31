@@ -16,7 +16,7 @@ interface FilterState {
 
 const toggle = <T,>(list: T[], v: T) => (list.includes(v) ? list.filter((x) => x !== v) : [...list, v])
 
-/** Filtres de mesures partagés entre la fiche candidat, le comparateur et la matrice. Vide = tout afficher. */
+/** Filtres de mesures partagés entre la fiche candidat et le comparateur. Vide = tout afficher. */
 export const useFilters = create<FilterState>((set) => ({
   sourceTypes: [],
   precisions: [],

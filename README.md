@@ -46,7 +46,6 @@ Le routage utilise des URLs « propres » (`/candidats/attal`, `/comparateur?the
 | `/` | Cartes candidats, filtres (famille, statut), tri, recherche globale (candidats et mesures) |
 | `/candidats/:id` | Fiche complète, bloc « Programme officiel », mesures par thème (accordéons), filtres |
 | `/comparateur?theme=…&c=a,b&vue=tableau` | Comparateur par thème (2 à 4 candidats), vues colonnes/tableau, indicateurs de convergence, partage, export image/PDF |
-| `/themes` | Matrice thèmes × candidats, détail au clic |
 | `/programmes` | Tableau récapitulatif des programmes |
 | `/votes?q=…&type=…&candidat=…` | Votes à l'Assemblée : grands textes commentés et recherche dans tous les textes votés depuis 2022 (propositions et projets de loi, motions de censure, déclarations) |
 | `/votes/:id` | Détail d'un vote : résultat, hémicycle député par député, vote des candidats alors députés, vote par groupe |

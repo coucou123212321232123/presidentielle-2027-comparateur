@@ -68,7 +68,6 @@ const ext = (url: string, text: string) => `<a href="${esc(url)}" rel="noopener"
 const SECTIONS: [string, string][] = [
   ['comparateur/', 'Comparateur par thème'],
   ['positions/', 'Qui propose quoi ?'],
-  ['themes/', 'Thèmes × candidats'],
   ['programmes/', 'Programmes officiels'],
   ['chiffrages/', 'Combien ça coûte ?'],
   ['votes/', "Votes à l'Assemblée"],
@@ -194,17 +193,6 @@ ${themes
         })
         .join('')}`,
   )
-  .join('')}`,
-)
-page(
-  'themes/',
-  { ...home, title: 'Thèmes × candidats – Présidentielle 2027' },
-  `<h1>Thèmes × candidats : qui a des propositions sur quoi</h1>
-${themes
-  .map((t) => {
-    const rows = candidates.map((c) => ({ c, n: measuresOf(c, t.id).length })).filter((r) => r.n > 0)
-    return `<h2>${link(`themes/${t.id}/`, t.label)}</h2><p>${esc(t.description)}</p><ul>${rows.map((r) => `<li>${link(candidateTheme(r.c, t), name(r.c))} : ${plural(r.n, 'mesure', 'mesures')}</li>`).join('')}</ul>`
-  })
   .join('')}`,
 )
 page(
