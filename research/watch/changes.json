@@ -1,6 +1,6 @@
 {
   "since": "2026-10-26",
-  "generated": "2026-10-30",
+  "generated": "2026-10-31",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
   "candidates": {
     "arthaud": {
@@ -17,14 +17,16 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/portail/index.html",
-          "changed_at": "2026-10-30",
-          "removed_blocks": 14,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 17,
           "added": [
             "Le Sénat a voté la prolongation pour deux ans de l’encadrement des loyers dans les communes où il s’applique déjà, et où il est d’ailleurs loin d’être toujours respecté. Mais il refuse de permettre à de nouvelles villes de l’adopter et de limiter les compléments de loyer qui permettent aux propriétaires de contourner les plafonds.",
             "Le Sénat a approuvé le projet de loi « casseurs-payeurs » en le rendant encore plus répressif. Il prévoit jusqu'à 10 000 € d'amende si l'on reste dans un cortège à côté duquel des dégradations ont lieu et des saisies sur les allocations familiales, les APL, le RSA, l'allocation de rentrée scolaire ou la prime d'activité.",
             "TotalEnergies vient d’annoncer 8 milliards d’euros de profits pour le seul troisième trimestre, qui s'ajoutent aux 11 milliards du premier semestre. Ces records confirment les propos cyniques de son PDG, Patrick Pouyané, qui déclarait récemment : « je préfère un monde de bouleversements à un monde paisible ».",
+            "La start-up américaines Firehawk Defense, qui fabrique des moteurs pour l’artillerie, a annoncé cette semaine que sa valorisation boursière dépassait 1,4 milliard de dollars. Parmi les investisseurs de l’entreprise, on trouve une société directement soutenue par le fils aîné du président Donald Trump.",
             "Samedi 24 octobre, des centaines de milliers de jeunes et de travailleurs ont de nouveau manifesté. Le gouvernement, la droite et l’extrême droite, relayés par tous les médias, avaient pourtant tout fait pour nous faire peur et discréditer les manifestants.",
             "Le président Aleksandar Vucic a été battu au profit de la « liste des étudiants ». Constituée d’universitaires, de chercheurs, d’artistes et de sportifs, cette liste composite a été portée par la contestation qui secoue le pays depuis plus de deux ans.",
+            "Avec le développement de l'IA, des entreprises comme Google multiplie les chantiers de construction de data centers. Une enquête révèle que sur ces chantiers, en Suède, en Belgique et ailleurs en Europe, règne une exploitation féroce.",
             "L'effroyable accident de train survenu à Urda en Espagne a fait 68 morts et des centaines de blessés. L’erreur humaine n’est pas la cause de ce carnage, qui n’est pas le premier.",
             "La sécheresse continue de frapper de nombreuses régions. L'usage de l'eau est toujours restreint dans 72 départements.",
             "Nathalie Arthaud sur Le Média : \"Le monde du travail doit s'engouffrer dans la brèche ouverte par la jeunesse\"",
@@ -34,19 +36,20 @@
             "Serbie : défaite électorale d’un ami de la France",
             "Surtaxe : les capitalistes ont leurs défenseurs",
             "Lycées : mesurettes d’un gouvernement affaibli",
-            "Violences policières : : Une impunité abjecte"
+            "Violences policières : : Une impunité abjecte",
+            "Vente d’armes : la famille Trump se rince"
           ]
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
-          "changed_at": "2026-10-30",
-          "removed_blocks": 2,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 3,
           "added": []
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=20",
-          "changed_at": "2026-10-30",
-          "removed_blocks": 3,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 4,
           "added": []
         },
         {
@@ -62,15 +65,44 @@
       "changed_pages": [
         {
           "url": "https://attalpresident.fr/",
-          "changed_at": "2026-10-30",
+          "changed_at": "2026-10-31",
           "removed_blocks": 6,
           "added": [
             "Invité de l’émission « C dans l’air » ce jeudi 29 octobre, Gabriel Attal a clarifié le périmètre : si cette primaire passe par le centre et la droite, ce sera une étape supplémentaire vers le rassemblement. Il est également revenu sur les manifestations lycéennes et la nécessité de redonner un espoir à la jeunesse.",
+            "Un échelon de collectivité en moins et la fin des compétences exercées en double, principale source de surcoûts administratifs.",
             "Gabriel Attal appelle à une primaire pour construire un grand rassemblement face au risque d’un second tour RN/LFI",
             "Gabriel Attal reçu chez Mistral AI par Arthur Mensch pour échanger sur les enjeux de l’intelligence artificielle",
+            "Augmenter les achats de défense français réalisés en Europe et la même règle défendue au niveau de l Union.",
             "Gabriel Attal présente sa vision économique pour libérer, innover et renforcer l’indépendance de la France",
+            "Instaurer une journée référendaire par an pour que les Français tranchent les grandes orientations du pays",
+            "Gens du voyage : des amendes majorées et des saisies des véhicules en cas d’occupation illégale",
             "Gabriel Attal : « C’est la responsabilité de ma génération de faire les États-Unis d’Europe »",
-            "Gabriel Attal appelle à une grande primaire pour rassembler les démocrates face aux extrêmes"
+            "Gabriel Attal appelle à une grande primaire pour rassembler les démocrates face aux extrêmes",
+            "Supprimer un échelon de collectivité pour lutter contre les doublons administratifs",
+            "Punir les propriétaires d’animaux d’une amende dès le premier acte de maltraitance",
+            "Une journée par an consacrée à des référendums sur les grands choix du pays.",
+            "Une loi de programmation économique, fiscale et énergétique sur dix ans",
+            "Punir systématiquement les dégradations, même réalisées par des mineurs",
+            "Retraite : une part de capitalisation fléchée vers l innovation",
+            "Une préférence européenne dans la commande publique de défense",
+            "Garantir la stabilité des prix de l électricité sur cinq ans",
+            "Des aides directes ciblées plutôt que des baisses de taxes",
+            "Plan Voltaire : trente minutes d esprit critique par jour",
+            "Des fonds d investissement dédiés aux PME de la défense",
+            "Accompagner les professionnels dépendants d un véhicule",
+            "Instaurer un bouclier tarifaire sur le prix de l’eau",
+            "Généraliser la méthode de Singapour en mathématiques",
+            "Instaurer la comparution immédiate pour les mineurs"
+          ]
+        },
+        {
+          "url": "https://attalpresident.fr/programme/travail-salaires",
+          "changed_at": "2026-10-31",
+          "removed_blocks": 0,
+          "added": [
+            "Réformer l assurance chômage et réaliser cinq milliards d économies",
+            "Remplacer le Code du travail par une Constitution du travail",
+            "Les mesures déjà annoncées Travail & salaires"
           ]
         },
         {
@@ -88,6 +120,79 @@
             "Gabriel Attal présente sa vision économique pour libérer, innover et renforcer l’indépendance de la France",
             "Gabriel Attal : « C’est la responsabilité de ma génération de faire les États-Unis d’Europe »",
             "Gabriel Attal appelle à une grande primaire pour rassembler les démocrates face aux extrêmes"
+          ]
+        },
+        {
+          "url": "https://attalpresident.fr/programme",
+          "changed_at": "2026-10-31",
+          "removed_blocks": 0,
+          "added": [
+            "Vos données (prénom, code postal, adresse e-mail) sont transmises au parti Renaissance, responsable du traitement (association loi 1901, n° W943004354), pour vous tenir informé(e) de la campagne pour l élection présidentielle de 2027 et vous permettre d y participer. L inscription révèle vos opinions politiques, données « sensibles » au sens de l article 9 du RGPD : votre consentement explicite es",
+            "Vous disposez à tout moment d un droit d accès, de rectification, d effacement, d opposition, de portabilité et de retrait de votre consentement. Pour les exercer, écrivez au délégué à la protection des données à [email protected] . Vous pouvez également introduire une réclamation auprès de la CNIL .",
+            "J accepte de recevoir les communications de la campagne et confirme avoir lu et accepté les conditions générales d utilisation et la politique de confidentialité . i",
+            "les artisans, commerçants et chefs d entreprise Une fiscalité qui ne bouge pas pendant dix ans, et une administration qui répond dans un délai fixé.",
+            "les agriculteurs Un revenu qui couvre les coûts de production, et les mêmes règles pour ce qui est importé que pour ce qui est produit ici.",
+            "les parents Les réseaux sociaux interdits avant quinze ans, et une vérification d honorabilité partout où un adulte encadre des enfants.",
+            "les cadres et les classes moyennes Aucune hausse d impôts pendant cinq ans, et un salaire net augmenté sans hausse du coût du travail.",
+            "les jeunes et les étudiants Une école qui hisse le niveau, et l intelligence artificielle enseignée comme un savoir fondamental.",
+            "les familles monoparentales La pension alimentaire versée automatiquement et défiscalisée, et du temps rendu aux parents seuls.",
+            "les habitants des zones rurales Un maire qui décide, de l eau disponible quand elle manque, et une énergie produite sur place.",
+            "les fonctionnaires Un État qui compte cent mille agents de moins, sans licenciement, et des outils qui changent le métier.",
+            "les enseignants Une rémunération revalorisée, des classes moins chargées, et une autorité rétablie du primaire au lycée.",
+            "Facturer systématiquement toute occupation illégale de terrain par les gens du voyage au tarif minimum d un camping",
+            "Instaurer une journée référendaire par an pour que les Français tranchent les grandes orientations du pays",
+            "Créer un ministère de l Eau pour centraliser la gestion de l’eau par la création d’un “ministère de l’eau”",
+            "Multiplier par sept la puissance de calcul européenne pour la porter à vingt pour cent du niveau mondial",
+            "les retraités Les petites pensions protégées, et l âge légal remplacé par la durée de cotisation.",
+            "Détails complets (sous-traitants, hébergement, transferts) dans la politique de confidentialité .",
+            "Gens du voyage : des amendes majorées et des saisies des véhicules en cas d’occupation illégale",
+            "les salariés Augmenter ce qui est perçu à la fin du mois sans alourdir ce que paie l employeur.",
+            "Garantir les premiers actes d enquête sous quarante-huit heures pour les crimes sur mineurs",
+            "Supprimer un échelon de collectivité pour lutter contre les doublons administratifs",
+            "Gens du voyage : créer un délit de maintien illicite pour les occupations illégales",
+            "Punir les propriétaires d’animaux d’une amende dès le premier acte de maltraitance",
+            "Créer un fichier national recensant les personnes interdites de détenir un animal"
+          ]
+        },
+        {
+          "url": "https://attalpresident.fr/programme/education",
+          "changed_at": "2026-10-31",
+          "removed_blocks": 0,
+          "added": [
+            "200 à 500 euros nets de plus par mois pour les enseignants",
+            "Le brevet obligatoire pour entrer au lycée"
+          ]
+        },
+        {
+          "url": "https://attalpresident.fr/programme/frontieres",
+          "changed_at": "2026-10-31",
+          "removed_blocks": 0,
+          "added": [
+            "Instaurer un système à points pour l’immigration",
+            "Durcir les règles du regroupement familial"
+          ]
+        },
+        {
+          "url": "https://attalpresident.fr/programme/intelligence-artificielle",
+          "changed_at": "2026-10-31",
+          "removed_blocks": 0,
+          "added": [
+            "Les mesures déjà annoncées Intelligence artificielle",
+            "Un assistant médical IA pour chaque Français"
+          ]
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+          "changed_at": "2026-10-31",
+          "removed_blocks": 0,
+          "added": [
+            "200 à 500 euros nets de plus par mois pour les enseignants",
+            "Un tuteur numérique souverain et gratuit pour chaque élève",
+            "Une année passerelle pour les élèves en difficulté",
+            "Un assistant médical IA pour chaque Français",
+            "Le brevet obligatoire pour entrer au lycée",
+            "Former tous les salariés à l IA d ici 2030",
+            "Investir 200 milliards d’euros pour l IA"
           ]
         }
       ],
@@ -493,6 +598,454 @@
           "first_seen": "2026-10-30"
         },
         {
+          "url": "https://attalpresident.fr/programme/mesures/plan-voltaire-esprit-critique",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/remplacement-enseignants-absents",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/methode-singapour",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/aide-professionnels-vehicule",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/capitalisation-startups",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/test-pme-avant-chaque-loi",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/loi-de-stabilite-fiscale",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/big-bang-territorial",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/tu-casses-tu-repares",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/comparution-immediate-mineurs",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/amendes-majorees-saisie-vehicules",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/carte-famille-monoparentale",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/durcir-regroupement-familial",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/amende-des-le-premier-acte-maltraitance",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/bouclier-tarifaire-eau",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/stabilite-prix-electricite",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/plan-france-2040",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/journee-referendaire-annuelle",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/preference-europeenne-defense",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/retablir-redoublement",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/bareme-national-sanctions",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/conseil-discipline-primaire",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/vingt-millions-salaries-ia",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/extension-batiments-elevage",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/aides-directes-plutot-que-baisses-de-taxes",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/fonds-investissement-defense",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/aucune-hausse-impots",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/ia-traitement-judiciaire",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/imprescriptibilite-crimes-sexuels-mineurs",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/delit-maintien-illicite",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/depistage-pfas-captages",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/plan-messmer-2",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/doubler-subventions-geoenergie",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/politique-ia-europeenne-commune",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/plafond-dix-huit-mois-procedures",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/referendums-locaux-facilites",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/pac-moyens-renforces",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/livre-blanc-defense-2027",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/droit-a-la-climatisation",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/climatisation-etablissements",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/revalorisation-salaires-professeurs",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/ia-savoirs-fondamentaux",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/annee-passerelle",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/droit-au-brut",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/interessement-petites-structures",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/clauses-miroir-systematiques",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/contractualisation-pluriannuelle",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/cent-mille-postes-en-moins",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/interconnecter-fichiers",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/parquet-national-pedocriminalite",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/attestation-honorabilite-mineurs",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/defiscaliser-pensions-alimentaires",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/immigration-systeme-a-points",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/encadrer-ventes-animaux-en-ligne",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/ministere-de-l-eau",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/quintupler-capacites-geoenergie",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/puissance-de-calcul-europeenne",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/reforme-nominations-hautes-fonctions",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/audit-programmes-armement",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/certificat-etudes-cm2",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/groupes-de-niveau-college",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/un-seul-ministre-education",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/statut-auto-tpe",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/interessement-vers-epargne-retraite",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/fiscalite-portage-foncier",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/prix-planchers-agricoles",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/deficit-sous-trois-pour-cent",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/equilibre-securite-sociale",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/perpetuite-reelle-predateurs",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/premiers-actes-quarante-huit-heures",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/procedures-mineurs-trois-mois",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/dossier-administratif-par-convoi",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/droit-au-repit",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/plan-eau-a-euro-constant",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/reponse-subvention-quatre-vingt-dix-jours",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/simplifier-forages-geothermiques",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/diviser-par-deux-dependance-militaire",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/assistant-medical-ia",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/brevet-obligatoire-entree-lycee",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/former-tous-enseignants-ia",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/tuteur-numerique-souverain",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/constitution-du-travail",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/refuser-mercosur",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/commande-publique-defense",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/reforme-assurance-chomage-cinq-milliards",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/renseignement-ofmin",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/trois-mille-magistrats-greffiers",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/facturation-tarif-camping",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/parcours-separation-simplifie",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/quotas-migratoires-revises",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/fichier-interdits-de-detention",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/reparer-cinq-cents-reseaux-eau",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/fusion-nucleaire-europe",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/delai-deux-mois-porteurs-projets",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/maire-elu-le-plus-puissant",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/dome-de-fer-europeen",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/thematiques/sante",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/thematiques/defense",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/thematiques/simplification",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/thematiques/agriculture",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/agriculteurs",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/enseignants",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/salaries",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/artisans-commercants-entrepreneurs",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/retraites",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/habitants-des-zones-rurales",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/cadres-et-classes-moyennes",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/fonctionnaires",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/familles-monoparentales",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/parents",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/jeunes-et-etudiants",
+          "first_seen": "2026-10-31"
+        },
+        {
           "url": "https://attalpresident.fr/mon-equipe",
           "first_seen": "2026-10-30"
         },
@@ -568,9 +1121,11 @@
         },
         {
           "url": "https://www.dupontaignan.fr/",
-          "changed_at": "2026-10-30",
-          "removed_blocks": 65,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 77,
           "added": [
+            "En tant que souverainiste, je défends le droit des peuples à décider librement de leur avenir. La France doit pouvoir choisir sa place dans le monde, sans que son destin soit décidé à sa place par des institutions supranationales. Le débat sur la sortie de l’UE mérite donc d’être posé clairement, sans détour ni faux-semblant.",
+            "Madame von der Leyen célèbre l’arrivée du Canada comme membre associé de l’Union européenne et y voit une « première historique ». Mais une question fondamentale demeure, jusqu’où l’Union européenne entend-elle étendre son influence ?",
             "Depuis toujours, Emmanuel Macron veut les interdire pour cacher la réalité catastrophique de son bilan. Jamais la liberté d’expression n’a été autant en danger dans notre pays. NE NOUS LAISSONS PAS FAIRE ! ... Voir plus Voir moins",
             "Après les déclarations surréalistes d’Emmanuel Macron hier à Marseille, le gouvernement joint la parole aux actes et dépose un amendement au Sénat pour pouvoir bloquer les réseaux sociaux sans décision préalable d’un juge !",
             "Attention aux effets d’annonce, restons vigilants, car seule la mise en œuvre d’un nouveau bac exigeant et impartial peut garantir la juste orientation des élèves à l’université. ... Voir plus Voir moins",
@@ -580,22 +1135,20 @@
             "Après avoir subi les dégradations, les Français devraient encore passer à la caisse à travers une nouvelle taxe sur leurs assurances ? Ils travaillent, cotisent et paient déjà suffisamment !",
             "Les casseurs doivent être sanctionnés, mais les millions de Français qui utilisent ces plateformes pour s’informer, débattre et exprimer leur colère n’ont pas à être réduits au silence !",
             "Macron et von der Leyen félicitent Lula sans sourciller, alors que le scrutin aurait été prolongé de deux heures à la dernière minute par un juge nommé par Lula, dont il était l’avocat.",
+            "Venez nombreux admirer deux tableaux exceptionnels de Claude Monet, dans le cadre enchanteur de la Maison Caillebotte, au cœur de l’Essonne impressionniste ! ... Voir plus Voir moins",
             "La France investit dans ses futurs réacteurs nucléaires, mais Bruxelles veut conditionner leur financement à des concessions sur notre réseau et la vente de notre électricité.",
             "Avec la loi « casseurs-payeurs », le Sénat vient d’adopter un amendement gouvernemental permettant de faire bloquer des réseaux sociaux… sans décision préalable d’un juge !",
             "Les pilleurs doivent être lourdement sanctionnés. Mais la liberté des Français ne saurait être remise en cause du fait de l’incapacité du gouvernement à maintenir l’ordre.",
             "Ce hold-up démocratique est insupportable. Il faudra mettre fin au règne de ces technocrates qui prétendent gouverner au-dessus des peuples ! ... Voir plus Voir moins",
             "Pour réellement combattre la crise du pouvoir d’achat, je propose dans mon projet présidentiel 2027 trois mesures concrètes financées par la fin des gaspillages👇",
+            "🎨 Et surtout, dernière chance de profiter de l’exposition « La nature n’est pas un décor – De Monet à huit artistes contemporains », qui s’achève ce dimanche !",
             "Quand les règles changent en plein scrutin, c’est la confiance dans la démocratie qui est en jeu. Mais Macron et les dirigeants européens, eux, applaudissent.",
             "Pour autoriser le financement de nos 6 futurs réacteurs EPR2, Bruxelles voudrait imposer à la France davantage d’interconnexions électriques avec nos voisins.",
+            "Venez nombreux admirer deux tableaux exceptionnels de Claude Monet, dans le cadre enchanteur de la Maison Caillebotte, au cœur de l’Essonne impressionniste !",
             "Voir les commentaires Like reaction Love reaction Haha reaction Wow reaction Angry reaction Reactions: 309 Partages : 87 Commentaires : 137",
             "Moins de 10 euros par mois supplémentaires pour les smicards… La grande mesure sociale de Glucksmann fait pschitt sur le plateau de BFM TV.",
             "Voir les commentaires Like reaction Love reaction Haha reaction Sad reaction Angry reaction Reactions: 505 Partages : 146 Commentaires : 63",
-            "À Marseille, où il a abandonné la ville aux pilleurs, il accuse les réseaux sociaux pour pouvoir restreindre la liberté d’expression !",
-            "Après avoir échoué à maintenir l’ordre, le gouvernement prépare une contribution de 0,8 % sur les contrats d’assurance dommages !",
-            "Faisons entendre notre voix, les Français ne doivent pas être les vaches à lait d’un État incapable de faire respecter l’ordre.",
-            "Après avoir laissé le chaos s’installer dans nos villes, il vient maintenant accuser les réseaux sociaux de tous les maux.",
-            "Dans mon projet présidentiel 2027, trois mesures fortes pour redonner confiance à la jeunesse ! ... Voir plus Voir moins",
-            "Le résultat ? Macron participera à la nomination de son successeur pour 8 ans, juste avant la présidentielle de 2027."
+            "Baisser les taxes pour alléger les factures et redonner aux Français le pouvoir d’achat perdu à cause de l’inflation : voilà l’urgence."
           ]
         },
         {
@@ -661,17 +1214,20 @@
       "changed_pages": [
         {
           "url": "https://rassemblementnational.fr/communiques",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 8,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 12,
           "added": [
             "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques",
             "Communiqué de Presse de Julien SANCHEZ, directeur de campagne de Marine LE PEN",
             "Frontex doit protéger nos frontières, pas accueillir l’immigration illégale",
             "Le Rassemblement National poursuit en diffamation le journal Le Monde",
+            "Élargissement : les risques sont connus, mais Bruxelles s’obstine !",
             "Communiqué de presse de Bruno Bilde, vice-président du RN ch...",
             "Communiqué de Presse de Julien SANCHEZ, directeur de campagn...",
             "Le Rassemblement National poursuit en diffamation le journal...",
-            "Frontex doit protéger nos frontières, pas accueillir l’immig..."
+            "Frontex doit protéger nos frontières, pas accueillir l’immig...",
+            "Élargissement : les risques sont connus, mais Bruxelles s’ob...",
+            "Agences européennes : les Patriotes avaient raison !"
           ]
         },
         {
@@ -682,35 +1238,41 @@
         },
         {
           "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 5,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 7,
           "added": [
             "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques",
             "Communiqué de Presse de Julien SANCHEZ, directeur de campagne de Marine LE PEN",
             "Frontex doit protéger nos frontières, pas accueillir l’immigration illégale",
-            "Le Rassemblement National poursuit en diffamation le journal Le Monde"
+            "Le Rassemblement National poursuit en diffamation le journal Le Monde",
+            "Élargissement : les risques sont connus, mais Bruxelles s’obstine !",
+            "Agences européennes : les Patriotes avaient raison !"
           ]
         },
         {
           "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-buralistes-de-france",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 5,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 7,
           "added": [
             "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques",
             "Communiqué de Presse de Julien SANCHEZ, directeur de campagne de Marine LE PEN",
             "Frontex doit protéger nos frontières, pas accueillir l’immigration illégale",
-            "Le Rassemblement National poursuit en diffamation le journal Le Monde"
+            "Le Rassemblement National poursuit en diffamation le journal Le Monde",
+            "Élargissement : les risques sont connus, mais Bruxelles s’obstine !",
+            "Agences européennes : les Patriotes avaient raison !"
           ]
         },
         {
           "url": "https://rassemblementnational.fr/communiques/rencontre-des-entrepreneurs-de-france-du-medef-andre-rouge-met-en-valeur-le-programme-de-marine-le-pen-pour-les-outremers",
-          "changed_at": "2026-10-29",
-          "removed_blocks": 5,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 7,
           "added": [
             "Communiqué de presse de Bruno Bilde, vice-président du RN chargé des affaires juridiques",
             "Communiqué de Presse de Julien SANCHEZ, directeur de campagne de Marine LE PEN",
             "Frontex doit protéger nos frontières, pas accueillir l’immigration illégale",
-            "Le Rassemblement National poursuit en diffamation le journal Le Monde"
+            "Le Rassemblement National poursuit en diffamation le journal Le Monde",
+            "Élargissement : les risques sont connus, mais Bruxelles s’obstine !",
+            "Agences européennes : les Patriotes avaient raison !"
           ]
         }
       ],
@@ -720,10 +1282,11 @@
       "changed_pages": [
         {
           "url": "https://www.unenouvelleenergie.fr/notre-programme/",
-          "changed_at": "2026-10-30",
-          "removed_blocks": 4,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 5,
           "added": [
             "Prochains rendez-vous : Hong Kong, Clermont-Ferrand, Saint-Émilion et Merrey-sur-Arce",
+            "Prochains rendez-vous : Longchamp, Prague, Brive-la-Gaillarde et Clermont-Ferrand",
             "Prochains rendez-vous : Cannes, Évry-Courcouronnes, Lyon et Feldbach",
             "Prochains rendez-vous : Draguignan, Alès, Genève et Lisbonne",
             "Prochains rendez-vous : Marseille, Douai, Dijon et Angers"
@@ -731,12 +1294,13 @@
         },
         {
           "url": "https://www.unenouvelleenergie.fr/",
-          "changed_at": "2026-10-30",
-          "removed_blocks": 35,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 42,
           "added": [
             "Invité du premier « Grand entretien de l’écologie » consacré à l’élection présidentielle de 2027, David Lisnard a répondu aux questions de François de Rugy et Laurent Lesage sur les grands défis économiques et environnementaux de la France. Nucléaire, réindustrialisation, agriculture, souveraineté alimentaire, décarbonation, normes : le président de Nouvelle Énergie a défendu une écologie fondée s",
             "Invité de Laurence Ferrari, mardi 27 octobre, dans l’émission « Objectif Élysée 2027 », diffusée en direct sur CNEWS et Europe 1, David Lisnard a détaillé son projet pour la présidentielle de 2027. Baisse de la CSG sur les salaires, 200 milliards d’euros d’économies, réforme de la fonction publique, autonomie des établissements scolaires, justice des mineurs, immigration, intelligence artificielle",
             "Dimanche 18 octobre, David Lisnard s’est rendu à Limoges aux côtés de Guillaume Guérin, après l’incendie de l’hôtel de ville et les violences qui ont frappé la commune. Devant les habitants rassemblés place de la République, le président de Nouvelle Énergie a exprimé son soutien aux élus, aux forces de l’ordre, aux agents publics et aux commerçants touchés. Il a appelé à établir les responsabilité",
+            "Florian Charlier, relais Nouvelle Énergie Vosges, et Étienne Blanc, ancien sénateur du Rhône et porte-voix de Nouvelle Énergie, vous invitent à une réunion publique à Longchamp. Samedi 31 octobre à 10h30, à Longchamp Salle municipale, 69 place Léon et Charles Grandferry Inscription : https://nouvelle-energie.qomon.org/action/71cd7706-reunion-publique/?id=116970&spaceid=1557 Infos et contact : vosg",
             "Michel Jacob, Référent NE Bar-sur-Seine,et Maire d Avirey-Lingey, vous convie à une réunion politique Nouvelle Énergie Aube. Ce sera l occasion d évoquer l actualité politique, notamment celle de David Lisnard, ainsi que de structurer les actions à venir. Mardi 27 Octobre, 18h30, à Merrey-sur-Arce Salle communale, 1 rue de l église, 10110 Infos et contact : aube@unenouvelleenergie.fr",
             "Paru ce mercredi 28 octobre aux éditions Fayard, Les robots, le Pape, l’IA et nous, le nouvel ouvrage de David Lisnard, coécrit avec Romain Marsily, invite à penser les bouleversements technologiques de notre époque et à reprendre en main notre avenir. Un essai consacré à l’intelligence artificielle, à la souveraineté, à la transmission et à la place de l’homme face à la machine.",
             "Jack Allais, Référent Nouvelle Énergie Saint-Émilion, et Denis Pernin, Co-relais Nouvelle Énergie Gironde, vous invitent à un Afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Mardi 27 Octobre à 18h30, à Saint-Émilion Le Bis, 49 rue Guadet Infos et contact : gironde@unenouvelleenergie.fr",
@@ -745,6 +1309,7 @@
             "L équipe Nouvelle Énergie Portugal vous convie à un nouvel afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Jeudi 29 Octobre à 18h30, à Lisbonne Comptoir Parisien, Belèm - R.Viera Portuense 44 Infos et contact : contact@unenouvelleenergie.fr",
             "Christophe Deparis, relais Nouvelle Énergie Nord, et Tristan Crochard, relais Jeunes Énergies Nord, vous donnent rendez-vous à Douai pour une nouvelle étape du Tour du Nord. Mercredi 28 Octobre, 19h, à Douai Salle Robert (1er étage), 229 rue Wallerand Hangouart Infos et contact : nord@unenouvelleenergie.fr",
             "L équipe des Jeunes Énergies Marseille vous invite à un afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Mercredi 28 octobre, 19h, à Marseille Chez ACUDA, 34 place aux Huiles Infos et contact : jeunesenergies@unenouvelleenergie.fr",
+            "Mathieu Cattenoz, relais de Nouvelle Énergie à Vienne, vient spécialement à Prague pour lancer le premier événement officiel de Nouvelle Énergie en Tchéquie ! Lundi 2 novembre à partir de 18h Pivovarský dům Benedict, Ječná 511/16, Prague Inscriptions : tchequie.nouvelleenergie@gmail.com",
             "Le livre de David Lisnard et Romain Marsily, Les Robots, le Pape, l IA et nous, est disponible dès aujourd hui en librairie. Rendez-vous ce vendredi 30 octobre à partir de 18h30 pour une séance de dédicace avec les auteurs ! Librairie Autour d un livre, 17 rue Jean-Jaurès, 06400 Cannes",
             "Olivier Karch, relais Nouvelle Énergie Haut-Rhin, et Sébastien Stoessel, référent Nouvelle Énergie Grand Sundgau, vous invitent à une réunion publique à Feldbach. Vendredi 30 octobre à 19h45, à Feldbach Foyer rural, 2 rue d’Arveyres Infos et contact : hautrhin@unenouvelleenergie.fr",
             "Yanis Berthelot, relais Jeunes Énergies Maine-et-Loire, vous invite à un Afterwork Jeunes Énergies. Mercredi 28 octobre à 19h30, à Angers Buddy s Bar, Fleur d Eau, 58 rue Plantagenêt (centre commercial) Infos et contact : jeunesenergies@unenouvelleenergie.fr",
@@ -754,11 +1319,9 @@
             "Tristan Perry, relais Jeunes Énergies Côte-d Or, vous invite à un Afterwork Jeunes Énergies. Mercredi 28 octobre à 19h30, à Dijon Le Triton à Casquette, 48 rue Monge Infos et contact : jeunesenergies@unenouvelleenergie.fr",
             "Le maire de Cannes et candidat à l’Élysée dénonce la faillite sécuritaire de l’État, juge Emmanuel Macron complètement « dépassé » et appelle à un vrai sursaut civique. Un entretien à retrouver dans le magazine Le Point.",
             "After Work Jeunes Énergies avec Maxime Cairoche, relais Jeunes Énergies Gard, et Guillaume Rosenberg, relais Nouvelle Énergie Gard. Jeudi 29 octobre 2026 à 18h30, au Comptoir à Alès.",
-            "Afterwork avec Laurent Salles, relais Nouvelle Énergie Puy-de-Dôme. Mardi 27 octobre 2026 à 18h30, au Still Irish Pub à Clermont-Ferrand.",
-            "David Lisnard sur CNEWS et Europe 1 : « Je ne suis pas candidat pour un poste. Je viens pour redresser le pays »",
-            "« Les robots, le Pape, l’IA et nous » : le nouveau livre de David Lisnard est disponible en librairie",
-            "«Les robots, le Pape, l’IA et nous» : le nouveau livre de David Lisnard est disponible en librairie",
-            "Buddy s Bar, Fleur d Eau (centre commercial), ANGERS, MAINE-ET-LOIRE"
+            "Afterwork Jeunes Énergies, un moment convivial pour se rencontrer et échanger. Mardi 3 novembre 2026 à 18h30, au DS Café à Reims. Inscription obligatoire.",
+            "After Work Jeunes Énergies avec Laurent Salles, relais Jeunes Énergies Puy-de-Dôme. Mardi 3 novembre 2026 à 18h30, au Still Irish Pub à Clermont-Ferrand.",
+            "Afterwork avec Laurent Salles, relais Nouvelle Énergie Puy-de-Dôme. Mardi 27 octobre 2026 à 18h30, au Still Irish Pub à Clermont-Ferrand."
           ]
         },
         {
@@ -803,6 +1366,26 @@
         {
           "url": "https://www.unenouvelleenergie.fr/lenergie-doit-reconcilier-lindustrie-et-lecologie/",
           "first_seen": "2026-10-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-jeunes-energies-doubs-besancon/",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-meurthe-et-moselle-nancy/",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-gironde-creon/",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-gironde-talence/",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-de-la-gagne-yvelines/",
+          "first_seen": "2026-10-31"
         },
         {
           "url": "https://www.unenouvelleenergie.fr/event/apero-jeunes-energies-paris-6/",
@@ -902,9 +1485,10 @@
       "changed_pages": [
         {
           "url": "https://lafranceinsoumise.fr/actualites/",
-          "changed_at": "2026-10-30",
-          "removed_blocks": 2,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 3,
           "added": [
+            "Samedi 31 octobre, marchons partout dans le pays avec la jeunesse et contre la vie chère !",
             "Ce vendredi 30 octobre, rassemblement « La République contre le racisme » à Trappes",
             "Pas de nazis, ni à Paris, ni au Plessis !"
           ]
@@ -956,6 +1540,14 @@
           "first_seen": "2026-10-28"
         },
         {
+          "url": "https://www.pcf.fr/elections_israel_2026",
+          "first_seen": "2026-10-31"
+        },
+        {
+          "url": "https://www.pcf.fr/greve_internationale_des_ports_le_pcf_aux_cotes_des_dockers_et_travailleurs_portuaires",
+          "first_seen": "2026-10-31"
+        },
+        {
           "url": "https://www.pcf.fr/victoire_marquante_du_peuple_bresilien_conforte_lula_presidence_bresil",
           "first_seen": "2026-10-29"
         },
@@ -1004,6 +1596,14 @@
     "ruffin": {
       "changed_pages": [
         {
+          "url": "https://francoisruffin.fr/category/actu/blog/",
+          "changed_at": "2026-10-31",
+          "removed_blocks": 1,
+          "added": [
+            "Présidentielles 2027 : François Ruffin face à Apolline de Malherbe"
+          ]
+        },
+        {
           "url": "https://nouspresident.fr/notre-programme/",
           "changed_at": "2026-10-29",
           "removed_blocks": 0,
@@ -1028,6 +1628,10 @@
         {
           "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
           "first_seen": "2026-10-29"
+        },
+        {
+          "url": "https://francoisruffin.fr/presidentielles-2027-francois-ruffin-face-a-apolline-de-malherbe/",
+          "first_seen": "2026-10-31"
         }
       ]
     },
@@ -1090,14 +1694,16 @@
         },
         {
           "url": "https://www.parti-reconquete.fr/#actualites",
-          "changed_at": "2026-10-30",
-          "removed_blocks": 12,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 13,
           "added": [
             "Révolutionnaire pour votre maison, propriétaire pour la sienne : Je réponds à Jean-Luc Mélenchon !",
+            "Depuis la tuerie de Trappes, nous subissons une offensive inouïe contre la liberté d’expression.",
             "Mélenchon, nos villages, nos vignes, nos fêtes n’attendent pas votre permission pour exister.",
             "Cher Karim Zéribi, ici nous sommes en France, pas une dictature militaire à l’algérienne.",
             "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène",
             "Sarah Knafo face aux journalistes militants de Franceinfo !",
+            "Responsables régionaux : Justine Ouvrier · Xavier Fourboul",
             "Propriété privée : mon mesage à Jean-Luc Mélenchon ! 🤯",
             "Nous voulons justement éviter l’affrontement ! 🇫🇷",
             "Merci aux Basques d’être si nombreux à mes côtés !",
@@ -1110,14 +1716,16 @@
         },
         {
           "url": "https://www.parti-reconquete.fr/",
-          "changed_at": "2026-10-30",
-          "removed_blocks": 12,
+          "changed_at": "2026-10-31",
+          "removed_blocks": 13,
           "added": [
             "Révolutionnaire pour votre maison, propriétaire pour la sienne : Je réponds à Jean-Luc Mélenchon !",
+            "Depuis la tuerie de Trappes, nous subissons une offensive inouïe contre la liberté d’expression.",
             "Mélenchon, nos villages, nos vignes, nos fêtes n’attendent pas votre permission pour exister.",
             "Cher Karim Zéribi, ici nous sommes en France, pas une dictature militaire à l’algérienne.",
             "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène",
             "Sarah Knafo face aux journalistes militants de Franceinfo !",
+            "Responsables régionaux : Justine Ouvrier · Xavier Fourboul",
             "Propriété privée : mon mesage à Jean-Luc Mélenchon ! 🤯",
             "Nous voulons justement éviter l’affrontement ! 🇫🇷",
             "Merci aux Basques d’être si nombreux à mes côtés !",
