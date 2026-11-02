@@ -1350,5 +1350,93 @@
     "indicator": null,
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
+  },
+  {
+    "id": "lisnard-economie-07",
+    "theme": "economie",
+    "title": "Baisser la CSG sur les revenus d'activité de 9,2 % à 6,6 %",
+    "description": "David Lisnard propose d'abaisser la CSG sur les revenus d'activité de 9,2 % à 6,6 % afin d'augmenter directement le salaire net, sans alourdir le coût du travail pour les entreprises.",
+    "source_type": "declaration",
+    "source_title": "Nouvelle Énergie – David Lisnard sur CNEWS et Europe 1 (émission Objectif Élysée 2027, 27 octobre)",
+    "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+    "source_date": "2026-10-28",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
+  },
+  {
+    "id": "lisnard-immigration-07",
+    "theme": "immigration",
+    "title": "Fixer un objectif de 80 000 entrées légales par an, visas étudiants compris",
+    "description": "David Lisnard a réaffirmé vouloir réduire fortement l'immigration légale avec un objectif de 80 000 entrées par an, visas étudiants compris, en tenant compte des capacités d'intégration, des besoins de l'économie et de l'objectif d'assimilation.",
+    "source_type": "declaration",
+    "source_title": "Nouvelle Énergie – David Lisnard sur CNEWS et Europe 1 (émission Objectif Élysée 2027, 27 octobre)",
+    "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+    "source_date": "2026-10-28",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
+  },
+  {
+    "id": "lisnard-economie-08",
+    "theme": "economie",
+    "title": "Décréter un moratoire sur les nouvelles normes et suspendre les surtranspositions européennes",
+    "description": "Parmi ses pistes d'économies, David Lisnard propose un moratoire sur les nouvelles normes et la suspension immédiate des surtranspositions européennes.",
+    "source_type": "declaration",
+    "source_title": "Nouvelle Énergie – David Lisnard sur CNEWS et Europe 1 (émission Objectif Élysée 2027, 27 octobre)",
+    "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+    "source_date": "2026-10-28",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
+  },
+  {
+    "id": "lisnard-services_publics-07",
+    "theme": "services_publics",
+    "title": "Réduire d'environ 12 % les effectifs publics et nommer un DRH de l'État",
+    "description": "David Lisnard a présenté un objectif de réduction d'environ 12 % des effectifs publics, soit environ 700 000 postes concernés par la réorganisation : plus de 400 000 suppressions de postes et le redéploiement de 200 000 à 300 000 agents vers les missions de terrain (tribunaux, établissements pénitentiaires, enseignement, soins). Il propose aussi de nommer un directeur des ressources humaines de l'État. Une ventilation détaillée est annoncée pour décembre.",
+    "source_type": "declaration",
+    "source_title": "Nouvelle Énergie – David Lisnard sur CNEWS et Europe 1 (émission Objectif Élysée 2027, 27 octobre)",
+    "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+    "source_date": "2026-10-28",
+    "source_page": null,
+    "precision": "chiffre",
+    "indicator": {
+      "key": "effectifs_fonction_publique",
+      "value": "baisse"
+    },
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
+  },
+  {
+    "id": "lisnard-education-08",
+    "theme": "education",
+    "title": "Laisser les établissements recruter leurs enseignants et revenir sur le collège unique",
+    "description": "David Lisnard propose de donner aux établissements scolaires la capacité de recruter directement leurs enseignants, et de permettre aux enseignants actuellement fonctionnaires de choisir entre le maintien de leur statut et un contrat. Il propose aussi de revenir sur le collège unique.",
+    "source_type": "declaration",
+    "source_title": "Nouvelle Énergie – David Lisnard sur CNEWS et Europe 1 (émission Objectif Élysée 2027, 27 octobre)",
+    "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+    "source_date": "2026-10-28",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
+  },
+  {
+    "id": "lisnard-ecologie-05",
+    "theme": "ecologie",
+    "title": "Neutralité technologique pour les transports et objectif de neutralité carbone 2050 conditionné",
+    "description": "David Lisnard défend la fixation d'objectifs de réduction des émissions dans les transports en laissant les entreprises choisir la technologie (électrique, hydrogène, biocarburants). Il soutient l'objectif de neutralité carbone en 2050 à condition de l'inscrire dans une stratégie internationale évitant la délocalisation de productions et d'émissions.",
+    "source_type": "declaration",
+    "source_title": "Nouvelle Énergie – « L'énergie doit réconcilier l'industrie et l'écologie » (Grand entretien de l'écologie)",
+    "source_url": "https://www.unenouvelleenergie.fr/lenergie-doit-reconcilier-lindustrie-et-lecologie/",
+    "source_date": "2026-10-27",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
   }
 ]

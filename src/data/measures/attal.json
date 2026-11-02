@@ -1490,5 +1490,61 @@
     "precision": "chiffre",
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
+  },
+  {
+    "id": "attal-education-10",
+    "theme": "education",
+    "title": "Rétablir le redoublement comme décision pédagogique, dès le CP",
+    "description": "Le redoublement redeviendrait une décision pédagogique ordinaire, avec davantage de « cordes de rappel », notamment en CP, afin que l'élève acquière les bases avant de passer dans la classe supérieure.",
+    "source_type": "officiel",
+    "source_title": "Rétablir le redoublement scolaire (site de campagne de Gabriel Attal)",
+    "source_url": "https://attalpresident.fr/programme/mesures/retablir-redoublement",
+    "source_date": "2026-05-23",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
+  },
+  {
+    "id": "attal-education-11",
+    "theme": "education",
+    "title": "Généraliser la méthode de Singapour en mathématiques",
+    "description": "Généralisation à l'enseignement des mathématiques de la méthode de Singapour, qui fait passer l'élève du concret à l'abstrait (objets, schémas, puis nombres).",
+    "source_type": "officiel",
+    "source_title": "La méthode de Singapour en maths pour tous (site de campagne de Gabriel Attal)",
+    "source_url": "https://attalpresident.fr/programme/mesures/methode-singapour",
+    "source_date": "2026-05-23",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
+  },
+  {
+    "id": "attal-education-12",
+    "theme": "education",
+    "title": "Remplacement des enseignants absents organisé par les établissements",
+    "description": "Les établissements recevraient des moyens et l'autonomie d'organiser les remplacements de courte durée, avec la participation des professeurs, puis cette autonomie serait étendue au primaire ; la baisse du nombre d'élèves servirait notamment à recréer des postes de remplaçants.",
+    "source_type": "officiel",
+    "source_title": "Remplacement des enseignants absents : la proposition Attal (site de campagne)",
+    "source_url": "https://attalpresident.fr/programme/mesures/remplacement-enseignants-absents",
+    "source_date": "2026-09-01",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
+  },
+  {
+    "id": "attal-international-07",
+    "theme": "international",
+    "title": "Préférence européenne dans les achats de défense",
+    "description": "Augmenter la part européenne des achats de défense français dès le premier budget, défendre la même règle au Conseil européen comme condition des financements communs, avec un engagement pluriannuel de commandes aux industriels.",
+    "source_type": "officiel",
+    "source_title": "Préférence européenne dans les achats de défense (site de campagne de Gabriel Attal)",
+    "source_url": "https://attalpresident.fr/programme/mesures/preference-europeenne-defense",
+    "source_date": "2026-09-17",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
   }
 ]

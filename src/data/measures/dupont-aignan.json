@@ -1424,7 +1424,7 @@
     "id": "dupont-aignan-services_publics-03",
     "theme": "services_publics",
     "title": "Supprimer progressivement les agences d'État",
-    "description": "Suppression progressive des agences d'État (ADEME, ARS, ANAH, AFITF, INERIS, VNF…) dont les missions seraient reprises par les ministères, avec un objectif de 15 Md€ d'économies par an au bout de trois ans.",
+    "description": "Suppression progressive des agences d'État (ADEME, ARS, ANAH, AFITF, INERIS, VNF…) dont les missions seraient reprises par les ministères, avec un objectif de 20 Md€ d'économies par an au bout de trois ans.",
     "source_type": "officiel",
     "source_title": "Projet de Debout la France – Économie",
     "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
@@ -1432,11 +1432,11 @@
     "source_page": null,
     "precision": "chiffre",
     "cost": {
-      "label": "≈ 15 Md€ d'économies par an au bout de 3 ans",
+      "label": "≈ 20 Md€ d'économies par an au bout de 3 ans",
       "source_label": "Chiffrage de Debout la France",
       "source_url": "https://www.debout-la-france.fr/projet/economie-travail/"
     },
-    "last_verified": "2026-10-16",
+    "last_verified": "2026-11-02",
     "added": "2026-10-17"
   },
   {
@@ -1522,5 +1522,52 @@
     "precision": "chiffre",
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
+  },
+  {
+    "id": "dupont-aignan-economie-06",
+    "theme": "economie",
+    "title": "Étiquetage obligatoire du pays de fabrication et extension du label Origine France garantie",
+    "description": "Étiquetage obligatoire indiquant le pays de fabrication et la part de « fabriqué en France », et extension du label « Origine France garantie » aux produits industriels multicomposants dont plus de 75 % de la valeur ajoutée est réalisée en France.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie et travail",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
+  },
+  {
+    "id": "dupont-aignan-retraites-05",
+    "theme": "retraites",
+    "title": "Réindexer retraites et traitements des fonctionnaires sur l'inflation ; cumul emploi-retraite de 62 à 67 ans",
+    "description": "Réindexation des pensions de retraite et des traitements des fonctionnaires sur l'inflation, et rétablissement de la possibilité de cumul emploi-retraite entre 62 et 67 ans.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie et travail",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
+  },
+  {
+    "id": "dupont-aignan-services_publics-04",
+    "theme": "services_publics",
+    "title": "Lutte contre la fraude sociale : objectif de 20 Md€",
+    "description": "Lutte contre la fraude sociale (cartes Vitale excédentaires, retraites versées à des personnes décédées à l'étranger) pour économiser 20 milliards d'euros.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Économie et travail",
+    "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "source_date": null,
+    "source_page": null,
+    "precision": "chiffre",
+    "cost": {
+      "label": "≈ 20 Md€ d'économies selon Debout la France",
+      "source_label": "Chiffrage de Debout la France",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/"
+    },
+    "last_verified": "2026-11-02",
+    "added": "2026-11-02"
   }
 ]

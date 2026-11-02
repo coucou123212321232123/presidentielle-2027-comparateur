@@ -397,5 +397,29 @@
         "text": "Organisation et financement du sport professionnel (scrutin du 20/07/2026) : ajouté, avec explication"
       }
     ]
+  },
+  {
+    "date": "2026-11-02",
+    "summary": "Candidats : 21 changements acceptés, 3 rejetés après contre-vérification (nouveau cahier Éducation de François Ruffin, mesures publiées par Gabriel Attal, David Lisnard et Nicolas Dupont-Aignan).",
+    "accepted": 21,
+    "rejected": 3,
+    "changes": [
+      {
+        "candidate": "François Ruffin",
+        "text": "7 mesures ajoutées (éducation), tirées du cahier de campagne n°8 « Éducation : une école de tous les savoirs »."
+      },
+      {
+        "candidate": "David Lisnard",
+        "text": "6 mesures ajoutées (économie, immigration, services publics, éducation, écologie), d'après des entretiens publiés sur le site de Nouvelle Énergie."
+      },
+      {
+        "candidate": "Gabriel Attal",
+        "text": "4 mesures ajoutées (éducation, international et défense), d'après les pages du programme sur le site de campagne."
+      },
+      {
+        "candidate": "Nicolas Dupont-Aignan",
+        "text": "3 mesures ajoutées (économie, retraites, services publics) et 1 mesure mise à jour (objectif d'économies sur les agences d'État porté à 20 Md€ par an), d'après la page « Économie et travail » du projet de Debout la France."
+      }
+    ]
   }
 ]

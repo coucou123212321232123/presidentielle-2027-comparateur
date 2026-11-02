@@ -1,0 +1,772 @@
+{
+  "date": "2026-11-02",
+  "since": "2026-10-26",
+  "signalements": "Aucune issue ouverte portant le label signalement.",
+  "log": {
+    "roussel": "Pages nouvelles pcf.fr (actualité militante, international) sans proposition ; recherche web : candidature déjà connue (6 sept.), rien de nouveau depuis le 26/10 ; aucun changement.",
+    "ruffin": "Nouveau cahier de campagne n°8 Éducation (nouspresident.fr, 2026-10-29) ouvert : 7 mesures nouvelles proposées ; page d'interview Apolline de Malherbe ignorée (sans proposition) ; recherche web : rien de postérieur à septembre.",
+    "tondelier": "Panier sain à prix coûtant déjà couvert par tondelier-economie-04 ; autres pages (manifestation, organisations jeunesse) sans proposition ; recherche web : le 26/10 sur France 2 elle n'exclut pas de se retirer si accord de gouvernement et législatives (source unique, non proposée) ; vote interne annoncé en décembre (source agrégateur, non vérifié).",
+    "villepin": "Pas de suivi changes.json ; recherche web : intention de candidature annoncée 30/08, non officialisée, rien de nouveau depuis le 26/10 ; aucun changement.",
+    "zemmour": "Tracts PDF modifiés sans passage ajouté ; page d'accueil Reconquête : polémiques/réactions, pas de proposition ; recherche web : candidature officialisée 17/09, rien de nouveau ; aucun changement.",
+    "le-pen": "changes.json : seulement communiqués/bandeaux sans proposition. Recherche web sur le discours d'Orléans (25/10/2026) : abolition de la loi Hulot confirmée par Europe 1 (AFP), Boursorama (citation exacte) et Epoch Times ; proportionnelle avec prime majoritaire confirmée par la vidéo BFMTV (Orange) et Europe 1. Baisse des impôts sur l'énergie, exonération d'impôt des entrepreneurs, fonds souverain, part fiscale dès le 2e enfant : déjà couverts par des mesures existantes ou trop vagues, non reproposés. Communauté nationale non reproposée. Le site rassemblementnational.fr n'a pas fourni le texte du discours.",
+    "lisnard": "changes.json : pages « nouvelles » = agenda/événements (ignorées) ; ouvertes : article du 28/10 sur l'émission Objectif Élysée (CNEWS/Europe 1, 27/10) et article du 27/10 sur le Grand entretien de l'écologie ; la page notre-programme ne contient que des rendez-vous. 6 propositions retenues. Non retenus : primaire ouverte (stratégie, pas une mesure), pensions > 2 200 € non revalorisées (donnée à titre d'exemple, proche de lisnard-economie-01), majorité pénale 16 ans / établissements fermés / accords 1968 / quotient familial déjà présents.",
+    "melenchon": "changes.json : seule la page actualités LFI (marches, rassemblements), aucune proposition. Recherche web : uniquement des agrégateurs interdits ou non fiables, rien de nouveau. Aucun changement.",
+    "philippe": "changes.json : pages Horizons (agenda militant, appel aux dons), aucune proposition. Recherche web : articles Euronews/JDN du 9/10 antérieurs à la période (déjà traités le cas échéant), rien de nouveau depuis le 26/10. Aucun changement.",
+    "retailleau": "Pas d'entrée dans changes.json. Recherche web : interview Var-Matin du 1/11/2026 (critique du programme économique de Marine Le Pen), pas de nouvelle proposition, ni changement de statut ; rien à proposer. Aucun changement.",
+    "attal": "Pages modifiées (accueil, /programme, éducation, travail-salaires, frontieres, IA, article jeunesse) examinées ; 4 pages mesures ouvertes : redoublement, méthode de Singapour, remplacement des enseignants absents, préférence européenne défense proposées. Déjà couverts : esprit critique/plan Voltaire (education-06), échelon de collectivité (services_publics-02), assurance chômage 5 Md€ (emploi-01), ministère de l'Eau, amende maltraitance, puissance de calcul. Primaire : pas de source officielle ouverte, non proposé.",
+    "arthaud": "Pages nathalie-arthaud.info et lutte-ouvriere.org : actualité militante (manifestations, grève du 5 novembre) sans proposition ; recherche web sans résultat ; aucun changement.",
+    "bertrand": "Aucune entrée dans changes.json ; recherche web : rien de postérieur au 26/10 (déclaration du 27/08 déjà dans status_note) ; aucun changement.",
+    "dupont-aignan": "Page projet Économie-travail (debout-la-france.fr) modifiée le 28/10 : 5 ajouts + 1 mise à jour de coût (agences d'État 15 -> 20 Md€). Accueil/actualité : polémiques, RIC et sortie UE déjà couverts. Recherche web : rien de nouveau depuis le 26/10.",
+    "glucksmann": "Ajouts : page de dons et adhésion de Place publique à Rainbow Rose, sans proposition ; recherche web sans actualité postérieure au 26/10 ; aucun changement."
+  },
+  "proposals": [
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "id": "ruffin-education-03",
+        "theme": "education",
+        "title": "Créer un enseignement « Savoirs Techniques et Pratiques » au collège",
+        "description": "Création au collège d'un enseignement disciplinaire articulé autour de l'artisanat (menuiserie, mécanique, jardinage) et des savoirs ménagers (cuisine, couture, entretien). À terme, deux demi-journées par semaine si l'expérimentation réussit.",
+        "source_type": "officiel",
+        "source_title": "Cahier de campagne n°8 : Éducation, une école de tous les savoirs",
+        "source_url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "source_date": null,
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+          "excerpt": "créer au collège un enseignement disciplinaire des « Savoirs Techniques et Pratiques »"
+        }
+      ],
+      "reason": "Nouveau cahier de campagne (première apparition 2026-10-29), absent des 2 mesures éducation existantes.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Page officielle nouspresident.fr ouverte, passage « Savoirs Techniques et Pratiques » retrouvé ; numérotation n°8 confirmée par la page Cahiers de campagne ; date visible limitée à « 2026 » donc source_date null correct. Description alignée sur le conditionnel de la source.",
+        "corrections": {
+          "source_title": "Cahier de campagne n°8 – Éducation : une école de tous les savoirs",
+          "description": "Création au collège d'un enseignement disciplinaire des « Savoirs Techniques et Pratiques », articulé autour de l'artisanat (menuiserie, mécanique, jardinage) et des savoirs ménagers (cuisine, couture, entretien). À plus long terme, l'horizon affiché est de deux demi-journées par semaine si l'expérimentation est un succès."
+        }
+      }
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "id": "ruffin-education-04",
+        "theme": "education",
+        "title": "Allonger le CAP à 3 ans et le bac pro à 4 ans",
+        "description": "Le CAP passerait de 2 à 3 ans et le bac professionnel de 3 à 4 ans, avec un semestre de formation générale et un semestre en entreprise supplémentaires.",
+        "source_type": "officiel",
+        "source_title": "Cahier de campagne n°8 : Éducation, une école de tous les savoirs",
+        "source_url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "source_date": null,
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+          "excerpt": "Pourquoi un CAP en 3 ans et un bac pro en 4 ans ?"
+        }
+      ],
+      "reason": "Nouveau cahier de campagne (première apparition 2026-10-29), absent des 2 mesures éducation existantes.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Passage retrouvé : CAP de 2 à 3 ans, bac pro de 3 à 4 ans, année supplémentaire avec un semestre de formation générale et un semestre en milieu professionnel. Critères remplis.",
+        "corrections": {
+          "source_title": "Cahier de campagne n°8 – Éducation : une école de tous les savoirs"
+        }
+      }
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "id": "ruffin-education-05",
+        "theme": "education",
+        "title": "Remplacer Parcoursup par un système plus humain",
+        "description": "Remplacement de Parcoursup par un système présenté comme plus juste et plus transparent : fin de la mention du lycée d'origine, publication des méthodes de sélection, commissions d'appel, priorité au classement des vœux des élèves.",
+        "source_type": "officiel",
+        "source_title": "Cahier de campagne n°8 : Éducation, une école de tous les savoirs",
+        "source_url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "source_date": null,
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+          "excerpt": "Proposition 4 : remplacer Parcoursup par un système plus humain"
+        }
+      ],
+      "reason": "Nouveau cahier de campagne (première apparition 2026-10-29), absent des 2 mesures éducation existantes.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Proposition 4 retrouvée (suppression de la mention du lycée d'origine, publication des méthodes de sélection, commissions d'appel, priorité au classement des vœux). « Plus humain » est la formule du candidat : mise entre guillemets dans le titre (neutralité).",
+        "corrections": {
+          "source_title": "Cahier de campagne n°8 – Éducation : une école de tous les savoirs",
+          "title": "Remplacer Parcoursup par un système « plus humain »"
+        }
+      }
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "id": "ruffin-education-06",
+        "theme": "education",
+        "title": "Droit universel au « retour aux études »",
+        "description": "Tout actif n'ayant jamais été diplômé du supérieur pourrait bénéficier, une fois dans sa carrière, d'un congé rémunéré pour reprendre des études.",
+        "source_type": "officiel",
+        "source_title": "Cahier de campagne n°8 : Éducation, une école de tous les savoirs",
+        "source_url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "source_date": null,
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+          "excerpt": "créerons un droit universel au « retour aux études »"
+        }
+      ],
+      "reason": "Nouveau cahier de campagne (première apparition 2026-10-29), absent des 2 mesures éducation existantes.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Passage retrouvé. Fidélité : la source parle d'un congé rémunéré « pour suivre une formation diplômante adaptée à ses contraintes », pas de « reprendre des études » ; description corrigée.",
+        "corrections": {
+          "source_title": "Cahier de campagne n°8 – Éducation : une école de tous les savoirs",
+          "description": "Tout actif n'ayant jamais été diplômé du supérieur pourrait bénéficier, une fois dans sa carrière, d'un congé rémunéré pour suivre une formation diplômante adaptée à ses contraintes."
+        }
+      }
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "id": "ruffin-education-07",
+        "theme": "education",
+        "title": "Un infirmier et un psychologue par établissement du second degré",
+        "description": "Présence effective d'au moins un infirmier et un psychologue scolaire par établissement du second degré, et un RASED complet par circonscription.",
+        "source_type": "officiel",
+        "source_title": "Cahier de campagne n°8 : Éducation, une école de tous les savoirs",
+        "source_url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "source_date": null,
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+          "excerpt": "au moins un infirmier et un psychologue scolaire par établissement du second degré"
+        }
+      ],
+      "reason": "Nouveau cahier de campagne (première apparition 2026-10-29), absent des 2 mesures éducation existantes.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Passage retrouvé. Fidélité : la source précise aussi « par bassin du premier degré » ; ajouté.",
+        "corrections": {
+          "source_title": "Cahier de campagne n°8 – Éducation : une école de tous les savoirs",
+          "description": "Présence effective d'au moins un infirmier et un psychologue scolaire par établissement du second degré et par bassin du premier degré, et d'un RASED au complet dans chaque circonscription."
+        }
+      }
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "id": "ruffin-education-08",
+        "theme": "education",
+        "title": "Abaisser l'encadrement périscolaire à 1 animateur pour 10 enfants",
+        "description": "Le taux d'encadrement passerait de 1 animateur pour 14 enfants à 1 pour 10, avec des contrats stables jusqu'à 33 heures par semaine, temps de préparation rémunéré inclus.",
+        "source_type": "officiel",
+        "source_title": "Cahier de campagne n°8 : Éducation, une école de tous les savoirs",
+        "source_url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "source_date": null,
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+          "excerpt": "Le taux d'encadrement sera abaissé à 1 animateur pour 10 enfants (contre 1 pour 14"
+        }
+      ],
+      "reason": "Nouveau cahier de campagne (première apparition 2026-10-29), absent des 2 mesures éducation existantes.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Passage retrouvé : taux d'encadrement de 1 pour 14 à 1 pour 10, contrats stables pouvant atteindre 33 h par semaine avec temps de préparation rémunérés. Critères remplis.",
+        "corrections": {
+          "source_title": "Cahier de campagne n°8 – Éducation : une école de tous les savoirs"
+        }
+      }
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "id": "ruffin-education-09",
+        "theme": "education",
+        "title": "Statut de la fonction publique pour les AESH",
+        "description": "Octroi d'un statut décent aux AESH, ATSEM et autres assistants d'éducation, avec une base de temps plein fixée à 24 heures d'accompagnement direct.",
+        "source_type": "officiel",
+        "source_title": "Cahier de campagne n°8 : Éducation, une école de tous les savoirs",
+        "source_url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "source_date": null,
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+          "excerpt": "donner un statut décent aux AESH, ATSEM et autres assistants d'éducation"
+        }
+      ],
+      "reason": "Nouveau cahier de campagne (première apparition 2026-10-29), absent des 2 mesures éducation existantes.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Mesure confirmée (« Créer un statut d'AESH intégré à la fonction publique »), mais la description reprenait l'adjectif « décent » tiré d'un autre paragraphe et élargissait aux ATSEM ; description réécrite d'après la mesure elle-même ; precision passée à chiffre (24 h, 35 h).",
+        "corrections": {
+          "source_title": "Cahier de campagne n°8 – Éducation : une école de tous les savoirs",
+          "title": "Créer un statut d'AESH intégré à la fonction publique",
+          "description": "Création d'un statut d'AESH intégré à la fonction publique, mettant fin aux temps incomplets imposés : les 24 heures hebdomadaires d'accompagnement direct seraient reconnues comme le cœur d'un temps plein, les heures complémentaires (jusqu'à 35 heures) étant formalisées et rémunérées.",
+          "precision": "chiffre"
+        }
+      }
+    },
+    {
+      "candidate": "le-pen",
+      "kind": "add_measure",
+      "data": {
+        "id": "le-pen-energie-07",
+        "theme": "energie",
+        "title": "Abolir la loi Hulot sur l'arrêt de la recherche d'hydrocarbures",
+        "description": "Marine Le Pen a annoncé, lors de son discours d'Orléans, qu'elle abolirait la loi Hulot de 2017, qui interdit la recherche d'hydrocarbures sur le sol français, afin de permettre de nouveau leur recherche et leur exploitation.",
+        "source_type": "declaration",
+        "source_title": "Europe 1 (AFP) – Congrès du RN à Orléans : ce qu'il faut retenir du premier discours de campagne de Marine Le Pen",
+        "source_url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118",
+        "source_date": "2026-10-25",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118",
+          "excerpt": "la stupide loi Hulot qui interdit la recherche d'hydrocarbures sur le sol français"
+        },
+        {
+          "url": "https://www.boursorama.com/actualite-economique/actualites/du-petrole-en-france-si-elle-arrive-au-pouvoir-marine-le-pen-promet-d-abolir-la-stupide-loi-hulot-qui-interdit-la-recherche-et-l-exploitation-des-hydrocarbures-1276d8c9bcbb10e870fd527306b8a347",
+          "excerpt": "Nous abolirons, par exemple, la stupide loi Hulot"
+        },
+        {
+          "url": "https://www.epochtimes.fr/referendum-gouvernement-pluraliste-hydrocarbures-ce-quil-faut-retenir-du-discours-de-marine-le-pen-a-orleans-3378814.html",
+          "excerpt": "Nous abolirons, par exemple, la stupide loi Hulot."
+        }
+      ],
+      "reason": "Annonce du discours d'Orléans (25/10/2026) confirmée par trois médias concordants ; absente des mesures existantes.",
+      "decision": {
+        "verdict": "rejetee",
+        "motif": "Recoupement insuffisant (critère 5) : Europe 1 (« avec AFP »), Boursorama (« information fournie par AFP ») et Epoch Times (« Epochtimes.fr avec AFP ») reprennent la même dépêche AFP : une seule source. Aucune vidéo officielle ni second média indépendant fourni (une vidéo BFMTV n'apparaît qu'en tweet intégré, non vérifiable). La citation est exacte : à reproposer avec la vidéo officielle du discours ou un média indépendant de l'AFP."
+      }
+    },
+    {
+      "candidate": "le-pen",
+      "kind": "update_measure",
+      "data": {
+        "id": "le-pen-institutions-02",
+        "title": "Instaurer un scrutin proportionnel avec prime majoritaire aux législatives",
+        "description": "Lors de son discours d'Orléans, Marine Le Pen a déclaré qu'un mode de scrutin proportionnel avec une prime majoritaire serait établi, afin de dégager des majorités. Aucun seuil ni pourcentage n'a été précisé dans les comptes rendus. Cette formule diffère de la proportionnelle intégrale par département évoquée en 2024.",
+        "source_type": "declaration",
+        "source_title": "BFMTV (via Orange Actu) – « Nous établirons un mode de scrutin proportionnel avec une prime majoritaire » ; Europe 1 (AFP)",
+        "source_url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118",
+        "source_date": "2026-10-25",
+        "source_page": null,
+        "precision": "precis",
+        "indicator": null
+      },
+      "evidence": [
+        {
+          "url": "https://actu.orange.fr/videos/politique/nous-etablirons-un-mode-de-scrutin-proportionnel-avec-une-prime-majoritaire-declare-marine-le-pen-candidate-rn-a-l-election-presidentielle-CNT000002tnSdf.html",
+          "excerpt": "Nous établirons un mode de scrutin proportionnel avec une prime majoritaire"
+        },
+        {
+          "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-ce-quil-faut-retenir-du-premier-discours-de-campagne-de-marine-le-pen-1181118",
+          "excerpt": "proportionnel avec prime majoritaire pour dégager des majorités"
+        }
+      ],
+      "reason": "Position plus récente (25/10/2026) qui modifie la mesure existante (proportionnelle intégrale, 2024). Indicateur proportionnelle retiré car la valeur « partielle » n'est pas littéralement énoncée ; à arbitrer par le contre-vérificateur. Si jugé contradictoire non résolu, rejeter sans toucher à l'existant.",
+      "decision": {
+        "verdict": "rejetee",
+        "motif": "Propos confirmés (vidéo BFMTV sur Orange du 25/10/2026 + Europe 1/AFP, deux sources indépendantes), mais la mise à jour n'est pas acceptable : (1) la description ajoute un commentaire non sourcé (« Cette formule diffère de la proportionnelle intégrale… évoquée en 2024 » ; la mesure existante date d'avril 2025 et mentionnait déjà une prime majoritaire possible) et une remarque sur les comptes rendus ; (2) le retrait de l'indicateur « integrale » n'est pas justifié par la source, qui ne dit ni abandon de la proportionnelle intégrale ni autre formule. Contradiction non établie : la mesure existante reste inchangée. Piste : proposer la déclaration du 25/10 comme mise à jour de description sans retrait d'indicateur, ou arbitrage éditorial explicite."
+      }
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "id": "lisnard-economie-07",
+        "theme": "economie",
+        "title": "Baisser la CSG sur les revenus d'activité de 9,2 % à 6,6 %",
+        "description": "David Lisnard propose d'abaisser la CSG sur les revenus d'activité de 9,2 % à 6,6 % afin d'augmenter directement le salaire net, sans alourdir le coût du travail pour les entreprises.",
+        "source_type": "officiel",
+        "source_title": "Nouvelle Énergie – David Lisnard sur CNEWS et Europe 1 (émission Objectif Élysée 2027, 27 octobre)",
+        "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+        "source_date": "2026-10-28",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+          "excerpt": "abaisser la CSG sur les revenus d'activité de 9,2 % à 6,6 %"
+        }
+      ],
+      "reason": "Chiffre précis absent des mesures existantes (economie-02 évoque seulement une baisse des cotisations).",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Page de Nouvelle Énergie datée du 28 octobre 2026 ouverte, chiffres 9,2 % → 6,6 % retrouvés. Il s'agit du compte rendu par le parti d'une interview (CNEWS/Europe 1) : source_type corrigé en declaration, comme pour les entretiens reproduits sur le site du parti déjà en base.",
+        "corrections": {
+          "source_type": "declaration"
+        }
+      }
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "id": "lisnard-immigration-07",
+        "theme": "immigration",
+        "title": "Fixer un objectif de 80 000 entrées légales par an, visas étudiants compris",
+        "description": "David Lisnard a réaffirmé vouloir réduire fortement l'immigration légale avec un objectif de 80 000 entrées par an, visas étudiants compris, en tenant compte des capacités d'intégration, des besoins de l'économie et de l'objectif d'assimilation.",
+        "source_type": "officiel",
+        "source_title": "Nouvelle Énergie – David Lisnard sur CNEWS et Europe 1 (émission Objectif Élysée 2027, 27 octobre)",
+        "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+        "source_date": "2026-10-28",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+          "excerpt": "un objectif de 80 000 entrées par an, visas étudiants compris"
+        }
+      ],
+      "reason": "Objectif chiffré absent (immigration-01 parle d'une division par huit des titres de séjour).",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Passage retrouvé (80 000 entrées par an, visas étudiants compris ; capacités d'intégration, besoins de l'économie, assimilation). Pas de contradiction avec immigration-01. source_type corrigé (compte rendu d'interview).",
+        "corrections": {
+          "source_type": "declaration"
+        }
+      }
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "id": "lisnard-economie-08",
+        "theme": "economie",
+        "title": "Décréter un moratoire sur les nouvelles normes et suspendre les surtranspositions européennes",
+        "description": "Parmi ses pistes d'économies, David Lisnard propose un moratoire sur les nouvelles normes et la suspension immédiate des surtranspositions européennes.",
+        "source_type": "officiel",
+        "source_title": "Nouvelle Énergie – David Lisnard sur CNEWS et Europe 1 (émission Objectif Élysée 2027, 27 octobre)",
+        "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+        "source_date": "2026-10-28",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+          "excerpt": "Décréter un moratoire sur les nouvelles normes et suspendre immédiatement les surtranspositions"
+        }
+      ],
+      "reason": "Absent des mesures existantes.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Phrase retrouvée mot pour mot parmi les pistes d'économies ; aucun doublon. source_type corrigé (compte rendu d'interview).",
+        "corrections": {
+          "source_type": "declaration"
+        }
+      }
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "id": "lisnard-services_publics-07",
+        "theme": "services_publics",
+        "title": "Réduire d'environ 12 % les effectifs publics et nommer un DRH de l'État",
+        "description": "Dans le scénario présenté par David Lisnard, les effectifs publics diminueraient d'environ 12 % : plus de 400 000 suppressions de postes et le redéploiement de 200 000 à 300 000 agents vers les missions de terrain (tribunaux, prisons, enseignement, soins). Il propose aussi de nommer un directeur des ressources humaines de l'État. Une ventilation détaillée est annoncée pour décembre.",
+        "source_type": "officiel",
+        "source_title": "Nouvelle Énergie – David Lisnard sur CNEWS et Europe 1 (émission Objectif Élysée 2027, 27 octobre)",
+        "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+        "source_date": "2026-10-28",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+          "excerpt": "plus de 400 000 suppressions de postes et le redéploiement de 200 000 à 300 000 agents"
+        }
+      ],
+      "reason": "Chiffres et DRH absents de services_publics-03 (non-remplacement partiel des départs).",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Chiffres retrouvés. Fidélité : la source présente une « réduction d'environ 12 % des effectifs publics, soit un ordre de grandeur de 700 000 postes concernés par la réorganisation », décomposés en plus de 400 000 suppressions et 200 000 à 300 000 redéploiements ; description précisée. source_type corrigé (compte rendu d'interview).",
+        "corrections": {
+          "source_type": "declaration",
+          "description": "David Lisnard a présenté un objectif de réduction d'environ 12 % des effectifs publics, soit environ 700 000 postes concernés par la réorganisation : plus de 400 000 suppressions de postes et le redéploiement de 200 000 à 300 000 agents vers les missions de terrain (tribunaux, établissements pénitentiaires, enseignement, soins). Il propose aussi de nommer un directeur des ressources humaines de l'État. Une ventilation détaillée est annoncée pour décembre."
+        }
+      }
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "id": "lisnard-education-08",
+        "theme": "education",
+        "title": "Laisser les établissements recruter leurs enseignants, avec choix de statut pour les titulaires",
+        "description": "David Lisnard propose que les établissements scolaires recrutent directement leurs enseignants, que le financement public suive le choix des parents dans le cadre d'un socle commun fixé par l'État, que les enseignants fonctionnaires puissent choisir entre leur statut et un contrat, et que les nouveaux enseignants soient recrutés sous contrat. Il propose aussi de revenir sur le collège unique.",
+        "source_type": "officiel",
+        "source_title": "Nouvelle Énergie – David Lisnard sur CNEWS et Europe 1 (émission Objectif Élysée 2027, 27 octobre)",
+        "source_url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+        "source_date": "2026-10-28",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+          "excerpt": "Donner aux établissements scolaires la capacité de recruter directement leurs enseignants"
+        }
+      ],
+      "reason": "Recrutement par les établissements et retour sur le collège unique absents ; proche de education-01/05 (à signaler au vérificateur).",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Passages retrouvés. Doublons partiels retirés de la description : financement suivant le choix des parents (déjà lisnard-education-01, chèque-éducation) et recrutement des nouveaux enseignants sous contrat (déjà lisnard-education-05). Restent les éléments nouveaux. source_type corrigé (compte rendu d'interview).",
+        "corrections": {
+          "source_type": "declaration",
+          "title": "Laisser les établissements recruter leurs enseignants et revenir sur le collège unique",
+          "description": "David Lisnard propose de donner aux établissements scolaires la capacité de recruter directement leurs enseignants, et de permettre aux enseignants actuellement fonctionnaires de choisir entre le maintien de leur statut et un contrat. Il propose aussi de revenir sur le collège unique."
+        }
+      }
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "id": "lisnard-ecologie-05",
+        "theme": "ecologie",
+        "title": "Neutralité technologique pour les transports et objectif de neutralité carbone 2050 conditionné",
+        "description": "David Lisnard défend la fixation d'objectifs de réduction des émissions dans les transports en laissant les entreprises choisir la technologie (électrique, hydrogène, biocarburants). Il soutient l'objectif de neutralité carbone en 2050 à condition de l'inscrire dans une stratégie internationale évitant la délocalisation de productions et d'émissions.",
+        "source_type": "officiel",
+        "source_title": "Nouvelle Énergie – « L'énergie doit réconcilier l'industrie et l'écologie » (Grand entretien de l'écologie)",
+        "source_url": "https://www.unenouvelleenergie.fr/lenergie-doit-reconcilier-lindustrie-et-lecologie/",
+        "source_date": "2026-10-27",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/lenergie-doit-reconcilier-lindustrie-et-lecologie/",
+          "excerpt": "principe de neutralité technologique : fixer des objectifs de réduction des émissions"
+        }
+      ],
+      "reason": "Absent des mesures existantes ; page du parti résumant l'entretien (propos du candidat rapportés par son mouvement).",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Page Nouvelle Énergie datée du 27 octobre 2026 ouverte ; neutralité technologique et condition posée à la neutralité carbone 2050 retrouvées. Compte rendu d'un entretien : source_type corrigé en declaration.",
+        "corrections": {
+          "source_type": "declaration"
+        }
+      }
+    },
+    {
+      "candidate": "attal",
+      "kind": "add_measure",
+      "data": {
+        "id": "attal-education-10",
+        "theme": "education",
+        "title": "Rétablir le redoublement comme décision pédagogique, dès le CP",
+        "description": "Le redoublement redevient une décision pédagogique ordinaire, avec davantage de « cordes de rappel », notamment en CP, afin que l'élève acquière les bases avant de passer dans la classe supérieure.",
+        "source_type": "officiel",
+        "source_title": "Rétablir le redoublement scolaire (site de campagne de Gabriel Attal)",
+        "source_url": "https://attalpresident.fr/programme/mesures/retablir-redoublement",
+        "source_date": null,
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://attalpresident.fr/programme/mesures/retablir-redoublement",
+          "excerpt": "Le redoublement doit redevenir une décision pédagogique ordinaire"
+        }
+      ],
+      "reason": "Mesure absente de src/data/measures/attal.json (grep) ; page officielle ouverte.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Page officielle ouverte, extrait retrouvé. La page imprime « 23 mai 2026 » (date d'annonce) : source_date renseignée. Description mise au conditionnel (proposition).",
+        "corrections": {
+          "source_date": "2026-05-23",
+          "description": "Le redoublement redeviendrait une décision pédagogique ordinaire, avec davantage de « cordes de rappel », notamment en CP, afin que l'élève acquière les bases avant de passer dans la classe supérieure."
+        }
+      }
+    },
+    {
+      "candidate": "attal",
+      "kind": "add_measure",
+      "data": {
+        "id": "attal-education-11",
+        "theme": "education",
+        "title": "Généraliser la méthode de Singapour en mathématiques",
+        "description": "Généralisation à l'enseignement des mathématiques de la méthode de Singapour, qui fait passer l'élève du concret à l'abstrait (objets, schémas, puis nombres).",
+        "source_type": "officiel",
+        "source_title": "La méthode de Singapour en maths pour tous (site de campagne de Gabriel Attal)",
+        "source_url": "https://attalpresident.fr/programme/mesures/methode-singapour",
+        "source_date": null,
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://attalpresident.fr/programme/mesures/methode-singapour",
+          "excerpt": "Généraliser à l'enseignement des mathématiques la méthode de Singapour"
+        }
+      ],
+      "reason": "Mesure absente de src/data/measures/attal.json (grep) ; page officielle ouverte.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Page officielle ouverte, extrait retrouvé ; la page imprime « 23 mai 2026 » : source_date renseignée.",
+        "corrections": {
+          "source_date": "2026-05-23"
+        }
+      }
+    },
+    {
+      "candidate": "attal",
+      "kind": "add_measure",
+      "data": {
+        "id": "attal-education-12",
+        "theme": "education",
+        "title": "Remplacement des enseignants absents organisé par les établissements",
+        "description": "Les établissements reçoivent des moyens et l'autonomie d'organiser les remplacements de courte durée, avec la participation des professeurs, puis extension au primaire ; la baisse du nombre d'élèves servirait à recréer des postes de remplaçants.",
+        "source_type": "officiel",
+        "source_title": "Remplacement des enseignants absents : la proposition Attal (site de campagne)",
+        "source_url": "https://attalpresident.fr/programme/mesures/remplacement-enseignants-absents",
+        "source_date": null,
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://attalpresident.fr/programme/mesures/remplacement-enseignants-absents",
+          "excerpt": "Garantir le remplacement des professeurs absents en donnant aux établissements l'autonomie"
+        }
+      ],
+      "reason": "Mesure absente de src/data/measures/attal.json (grep) ; page officielle ouverte.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Page officielle ouverte, extrait retrouvé ; la page imprime « 1 septembre 2026 » : source_date renseignée. Description mise au conditionnel.",
+        "corrections": {
+          "source_date": "2026-09-01",
+          "description": "Les établissements recevraient des moyens et l'autonomie d'organiser les remplacements de courte durée, avec la participation des professeurs, puis cette autonomie serait étendue au primaire ; la baisse du nombre d'élèves servirait notamment à recréer des postes de remplaçants."
+        }
+      }
+    },
+    {
+      "candidate": "attal",
+      "kind": "add_measure",
+      "data": {
+        "id": "attal-international-07",
+        "theme": "international",
+        "title": "Préférence européenne dans les achats de défense",
+        "description": "Augmenter la part européenne des achats de défense français dès le premier budget, défendre la même règle au Conseil européen comme condition des financements communs, avec un engagement pluriannuel de commandes aux industriels.",
+        "source_type": "officiel",
+        "source_title": "Préférence européenne dans les achats de défense (site de campagne de Gabriel Attal)",
+        "source_url": "https://attalpresident.fr/programme/mesures/preference-europeenne-defense",
+        "source_date": "2026-09-17",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://attalpresident.fr/programme/mesures/preference-europeenne-defense",
+          "excerpt": "Augmenter les achats de défense français réalisés en Europe"
+        }
+      ],
+      "reason": "Mesure absente de src/data/measures/attal.json (grep) ; page officielle ouverte.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Page officielle ouverte (« 17 septembre 2026 · Discours de Reims »), texte conforme. Mesure distincte d'attal-international-03 (dépendance extra-européenne). Critères remplis."
+      }
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "add_measure",
+      "data": {
+        "id": "dupont-aignan-economie-06",
+        "theme": "economie",
+        "title": "Étiquetage obligatoire du pays de fabrication et extension du label Origine France garantie",
+        "description": "Étiquetage obligatoire indiquant le pays de fabrication et la part de « fabriqué en France », et extension du label « Origine France garantie » aux produits industriels multicomposants dont plus de 75 % de la valeur ajoutée est réalisée en France.",
+        "source_type": "officiel",
+        "source_title": "Projet de Debout la France – Économie et travail",
+        "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "source_date": null,
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+          "excerpt": "étendre le label « Origine France garantie » à tous les produits"
+        }
+      ],
+      "reason": "Mesure absente des mesures existantes (grep) ; page officielle du parti ouverte.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Page projet Économie et travail de Debout la France ouverte, passage retrouvé (étiquetage, label Origine France garantie, plus de 75 % de la valeur ajoutée). Aucune date imprimée : source_date null correct. Critères remplis."
+      }
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "add_measure",
+      "data": {
+        "id": "dupont-aignan-retraites-05",
+        "theme": "retraites",
+        "title": "Réindexer retraites et traitements des fonctionnaires sur l'inflation ; cumul emploi-retraite de 62 à 67 ans",
+        "description": "Réindexation des pensions de retraite et des traitements des fonctionnaires sur l'inflation, et rétablissement de la possibilité de cumul emploi-retraite entre 62 et 67 ans.",
+        "source_type": "officiel",
+        "source_title": "Projet de Debout la France – Économie et travail",
+        "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "source_date": null,
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+          "excerpt": "Rétablir la possibilité du cumul emploi-retraite entre 62 et 67 ans"
+        }
+      ],
+      "reason": "Mesure absente des mesures existantes (grep) ; page officielle du parti ouverte.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Passage retrouvé mot pour mot. Recoupe en partie dupont-aignan-retraites-01 (indexation des pensions, discours) mais ajoute les traitements des fonctionnaires et le cumul emploi-retraite 62-67 ans, sans contradiction. Critères remplis."
+      }
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "add_measure",
+      "data": {
+        "id": "dupont-aignan-services_publics-04",
+        "theme": "services_publics",
+        "title": "Lutte contre la fraude sociale : objectif de 20 Md€",
+        "description": "Lutte contre la fraude sociale (cartes Vitale excédentaires, retraites versées à des personnes décédées à l'étranger) pour économiser 20 milliards d'euros.",
+        "source_type": "officiel",
+        "source_title": "Projet de Debout la France – Économie et travail",
+        "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "source_date": null,
+        "source_page": null,
+        "precision": "chiffre",
+        "cost": {
+          "label": "≈ 20 Md€ d'économies selon Debout la France",
+          "source_label": "Chiffrage de Debout la France",
+          "source_url": "https://www.debout-la-france.fr/projet/economie-travail/"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+          "excerpt": "Mettre fin au scandale de la fraude sociale"
+        }
+      ],
+      "reason": "Mesure absente des mesures existantes (grep) ; page officielle du parti ouverte.",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "Passage retrouvé (« pour économiser 20 milliards d'euros ») ; le montant porte sur la mesure elle-même, cost conforme et attribué ; « scandale » non repris (neutralité). Critères remplis."
+      }
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "add_measure",
+      "data": {
+        "id": "dupont-aignan-services_publics-05",
+        "theme": "services_publics",
+        "title": "Supprimer l'échelon régional, les intercommunalités « inutiles » et le CESE",
+        "description": "Suppression de l'échelon régional, du mandat de conseiller régional, des intercommunalités jugées inutiles et du CESE, avec renforcement du pouvoir des maires et des conseils départementaux.",
+        "source_type": "officiel",
+        "source_title": "Projet de Debout la France – Économie et travail",
+        "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "source_date": null,
+        "source_page": null,
+        "precision": "chiffre",
+        "cost": {
+          "label": "≈ 10 Md€ d'économies par an au bout de 3 ans, selon Debout la France",
+          "source_label": "Chiffrage de Debout la France",
+          "source_url": "https://www.debout-la-france.fr/projet/economie-travail/"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+          "excerpt": "Supprimer l’échelon régional, le mandat de conseiller régional"
+        }
+      ],
+      "reason": "Mesure absente des mesures existantes (grep) ; page officielle du parti ouverte.",
+      "decision": {
+        "verdict": "rejetee",
+        "motif": "Doublon : la suppression des régions et du CESE figure déjà dans dupont-aignan-institutions-03 et la sortie des regroupements de communes dans dupont-aignan-institutions-05. Le texte et l'objectif de 10 Md€ par an au terme de 3 ans sont exacts : à proposer plutôt comme update_measure de dupont-aignan-institutions-03 (ajout des intercommunalités, du renforcement des maires et départements et du cost)."
+      }
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "update_measure",
+      "data": {
+        "id": "dupont-aignan-services_publics-03",
+        "description": "Suppression progressive des agences d'État (ADEME, ARS, ANAH, AFITF, INERIS, VNF…) dont les missions seraient reprises par les ministères, avec un objectif de 20 Md€ d'économies par an au bout de trois ans.",
+        "cost": {
+          "label": "≈ 20 Md€ d'économies par an au bout de 3 ans",
+          "source_label": "Chiffrage de Debout la France",
+          "source_url": "https://www.debout-la-france.fr/projet/economie-travail/"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+          "excerpt": "avec un objectif de 20 milliards d’euros par an au terme des 3 ans"
+        }
+      ],
+      "reason": "La page officielle indique désormais 20 Md€ (la mesure existante indique 15 Md€).",
+      "decision": {
+        "verdict": "acceptee",
+        "motif": "La page officielle indique désormais « un objectif de 20 milliards d'euros par an au terme des 3 ans » : mise à jour de la description et du cost justifiée par la source. Critères remplis."
+      }
+    }
+  ],
+  "new_candidacies": "aucune",
+  "reporte": [
+    "tondelier : éventuel retrait conditionnel (déclaration 26/10 France 2) à confirmer par un second média avant update_candidate",
+    "lisnard : primaire ouverte à droite et au centre (vote déc. 2026 ou janv. 2027) : position stratégique, pas une mesure ; éventuellement fait de campagne.",
+    "lisnard : Mercosur (exclure l'élevage ou clauses miroirs), statut d'entreprise agricole, nucléaire à 60 ans : déjà couverts (agriculture-04/06, energie-01).",
+    "lisnard : impôt résidentiel universel et taxe foncière sur valeur vénale plafonnée (émission du 27/10) : non vérifié pour doublon avec fiscalite-02 ; à examiner la semaine prochaine.",
+    "le-pen : exonération d'impôt sur le revenu des entrepreneurs (Europe 1 seul, sans précision) ; baisse des impôts sur l'énergie (Echos Plus seul, déjà proche de economie-01/04).",
+    "dupont-aignan : exonération de charges patronales du 1er CDI d'un jeune de moins de 26 ans (3 mois) – la page dit 2 ans puis 5 ans pour le CDI d'un chômeur de longue durée (incohérence interne), à clarifier avant d'ajouter.",
+    "dupont-aignan : carburants -40 centimes (page projet, 28/10) contredit fiscalite-02 (-50 centimes, discours du 19/09) – contradiction non résolue, mesure existante inchangée.",
+    "dupont-aignan : suppression de subventions aux associations (10 Md€), taxe antidumping, fraude fiscale TVA 20 Md€, fonds de relocalisation 4 Md€/an, crédit d'impôt production : non vérifiés contre l'existant ou plafond atteint.",
+    "attal : autres pages /programme/mesures (ventes d'animaux en ligne, fusion nucléaire, commande publique défense, groupes de niveau) probablement déjà couvertes ou non nouvelles ; non traitées faute de place (plafond de 6, 4 utilisés pour garder de la marge)."
+  ],
+  "decisions_summary": {
+    "acceptees": 21,
+    "rejetees": 3,
+    "equite": "Les 15 candidats ont été traités avec la même grille (rapport de veille + une recherche d'actualité chacun ; journal par candidat dans log). Les écarts de volume viennent de publications réelles de la semaine : cahier de campagne n°8 de Ruffin, pages programme d'Attal, entretiens publiés par Nouvelle Énergie (Lisnard), page projet mise à jour de Debout la France. Aucun chiffrage d'ensemble nouveau relevé (budgets.json inchangé)."
+  },
+  "indicators_added": {
+    "ruffin-education-05": "parcoursup = suppression (« Remplacer Parcoursup »)",
+    "lisnard-services_publics-07": "effectifs_fonction_publique = baisse (réduction d'environ 12 % des effectifs publics)"
+  }
+}
