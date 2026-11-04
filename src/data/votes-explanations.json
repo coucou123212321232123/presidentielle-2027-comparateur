@@ -915,38 +915,6 @@
     ]
   },
   {
-    "id": "l16-1588",
-    "summary": "Cette proposition de loi, d'origine sénatoriale, vise à renforcer la prévention et la lutte contre le risque d'incendie. Selon LCP, elle prévoit une stratégie nationale et interministérielle à établir dans l'année suivant la promulgation, porte les amendes pour manquement aux obligations de débroussaillement de 30 à 50 euros par mètre carré dans les zones à risque, impose le débroussaillement autour des sites Seveso situés à moins de 200 mètres de forêts, interdit de fumer en forêt en période de risque et crée une journée nationale de la résilience. Les députés ont supprimé la possibilité d'utiliser des drones pour contrôler le débroussaillement. L'Assemblée a adopté le texte en première lecture le 17 mai 2023 par 197 voix pour, 0 contre et 30 abstentions (tous les élus LFI). Une commission mixte paritaire a trouvé un accord le 19 juin 2023 ; l'Assemblée a adopté ses conclusions le 28 juin et le Sénat définitivement le 29 juin. Le texte est devenu la loi n° 2023-580 du 10 juillet 2023, publiée au Journal officiel du 11 juillet 2023. Le dossier du Sénat ne mentionne pas de saisine du Conseil constitutionnel.",
-    "arguments": {
-      "pour": [],
-      "contre": [],
-      "abstention": [
-        {
-          "groups": [
-            "LFI-NUPES"
-          ],
-          "text": "Selon LCP, La France insoumise, seul groupe à s'être abstenu, a dénoncé la politique du gouvernement, qualifiée de « pansement sur une jambe de bois ».",
-          "source_label": "LCP – L'Assemblée nationale adopte la loi « visant à renforcer la lutte » contre les incendies",
-          "source_url": "https://lcp.fr/actualites/l-assemblee-nationale-adopte-la-loi-visant-a-renforcer-la-lutte-contre-les-incendies"
-        }
-      ]
-    },
-    "sources": [
-      {
-        "label": "Assemblée nationale – Scrutin public n° 1588 (16e législature)",
-        "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1588"
-      },
-      {
-        "label": "LCP – L'Assemblée nationale adopte la loi « visant à renforcer la lutte » contre les incendies",
-        "url": "https://lcp.fr/actualites/l-assemblee-nationale-adopte-la-loi-visant-a-renforcer-la-lutte-contre-les-incendies"
-      },
-      {
-        "label": "Sénat – Dossier législatif : lutte contre le risque incendie (PPL n° 206, 2022-2023)",
-        "url": "https://www.senat.fr/dossier-legislatif/ppl22-206.html"
-      }
-    ]
-  },
-  {
     "id": "l16-1762",
     "summary": "Cette proposition de loi de Thomas Cazenave (Renaissance) prolonge le plafonnement à 3,5 % de la hausse annuelle de l'indice de référence des loyers (IRL) jusqu'au premier trimestre 2024, ainsi qu'un dispositif analogue pour l'indice des loyers commerciaux des PME. Selon LCP, sans ce « bouclier », les loyers auraient pu augmenter d'environ 6 %. L'Assemblée l'a adopté en première lecture le 31 mai 2023 par 259 voix contre 93 ; Renaissance, le MoDem, Horizons, LR, le RN et LIOT ont voté pour, les groupes LFI, socialiste, écologiste et GDR ont voté contre. Le Sénat a rejeté le texte le 7 juin 2023 et la commission mixte paritaire du 8 juin n'a pas abouti. L'Assemblée l'a adopté en nouvelle lecture le 20 juin, le Sénat l'a rejeté le 22 juin, puis l'Assemblée l'a adopté en lecture définitive le 28 juin 2023 (137 voix contre 34). Il est devenu la loi n° 2023-568 du 7 juillet 2023, publiée au Journal officiel du 8 juillet ; le dossier de l'Assemblée ne mentionne pas de saisine du Conseil constitutionnel.",
     "arguments": {
@@ -4217,6 +4185,115 @@
     ]
   },
   {
+    "id": "l17-7905",
+    "summary": "Projet de loi actualisant la loi de programmation militaire 2024-2030, qui prévoit un effort supplémentaire de 36 milliards d'euros pour les armées d'ici 2030, portant l'enveloppe globale à 436 milliards. Le texte prévoit notamment 8,5 milliards supplémentaires sur 2026-2030 pour reconstituer les stocks de munitions. Après le rejet par le Sénat de l'article central, le compromis de CMP maintient l'enveloppe mais avance à 2028 une partie des dépenses prévues en 2029 et 2030.",
+    "arguments": {
+      "pour": [
+        {
+          "groups": [
+            "EPR",
+            "DEM",
+            "HOR",
+            "DR",
+            "SOC",
+            "LIOT",
+            "UDDPLR",
+            "RN",
+            "NI"
+          ],
+          "text": "Le gouvernement et la majorité ont fait valoir, avec la ministre des Armées Catherine Vautrin, qu'« en économie de guerre, la première arme, c'est incontestablement l'usine », justifiant l'effort sur les munitions.",
+          "source_label": "LCP – 36 milliards supplémentaires pour les armées",
+          "source_url": "https://lcp.fr/actualites/36-milliards-supplementaires-pour-les-armees-les-deputes-ont-approuve-l-actualisation-de"
+        },
+        {
+          "groups": [
+            "EPR",
+            "DEM",
+            "HOR",
+            "DR",
+            "SOC",
+            "LIOT",
+            "UDDPLR",
+            "RN",
+            "NI"
+          ],
+          "text": "Pour ses défenseurs, l'actualisation doit permettre à la France de dépasser 2,5 % du PIB d'effort de défense dès 2030.",
+          "source_label": "LCP – 36 milliards supplémentaires pour les armées",
+          "source_url": "https://lcp.fr/actualites/36-milliards-supplementaires-pour-les-armees-les-deputes-ont-approuve-l-actualisation-de"
+        }
+      ],
+      "contre": [
+        {
+          "groups": [
+            "LFI-NFP"
+          ],
+          "text": "En première lecture (mai 2026), Bastien Lachaud (LFI) a jugé les critères de déclenchement de l’« état d’alerte de sécurité nationale » (article 21) « beaucoup trop flous », estimant qu’une telle décision doit passer devant le Parlement.",
+          "source_label": "LCP – 36 milliards supplémentaires pour les armées",
+          "source_url": "https://lcp.fr/actualites/36-milliards-supplementaires-pour-les-armees-les-deputes-ont-approuve-l-actualisation-de"
+        },
+        {
+          "groups": [
+            "ECOS"
+          ],
+          "text": "En première lecture (mai 2026), Léa Balage El Mariky (groupe Écologiste et Social) a déclaré que l’article 21 sur l’« état d’alerte de sécurité nationale » « nous interroge sur le caractère illibéral qu’est en train de prendre ce gouvernement ».",
+          "source_label": "LCP – 36 milliards supplémentaires pour les armées",
+          "source_url": "https://lcp.fr/actualites/36-milliards-supplementaires-pour-les-armees-les-deputes-ont-approuve-l-actualisation-de"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "LCP – Programmation militaire : l'Assemblée adopte définitivement l'effort budgétaire de 36 milliards",
+        "url": "https://lcp.fr/actualites/programmation-militaire-l-assemblee-adopte-definitivement-l-effort-budgetaire"
+      },
+      {
+        "label": "Sénat – La loi en clair : projet de loi actualisant la programmation militaire 2024-2030",
+        "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-actualisant-la-programmation-militaire-pour-les-annees-2024-a-2030-et-portant-diverses-dispositions-interessant-la-defense.html"
+      }
+    ]
+  },
+  {
+    "id": "l16-1588",
+    "summary": "Cette proposition de loi, d'origine sénatoriale, vise à renforcer la prévention et la lutte contre le risque d'incendie. Selon LCP, elle prévoit une stratégie nationale et interministérielle à établir dans l'année suivant la promulgation, porte les amendes pour manquement aux obligations de débroussaillement de 30 à 50 euros par mètre carré dans les zones à risque, impose le débroussaillement autour des sites Seveso situés à moins de 200 mètres de forêts, interdit de fumer en forêt en période de risque et crée une journée nationale de la résilience. Les députés ont supprimé la possibilité d'utiliser des drones pour contrôler le débroussaillement. L'Assemblée a adopté le texte en première lecture le 17 mai 2023 par 197 voix pour, 0 contre et 30 abstentions (tous les élus LFI). Une commission mixte paritaire a trouvé un accord le 19 juin 2023 ; l'Assemblée a adopté ses conclusions le 28 juin et le Sénat définitivement le 29 juin. Le texte est devenu la loi n° 2023-580 du 10 juillet 2023, publiée au Journal officiel du 11 juillet 2023. Le dossier du Sénat ne mentionne pas de saisine du Conseil constitutionnel.",
+    "arguments": {
+      "pour": [
+        {
+          "groups": [
+            "RN"
+          ],
+          "text": "Selon Julien Rancoule (RN), le maintien de l’exonération de TICPE sur les carburants des services d’incendie et de secours (SDIS) leur permettra de « réaliser des économies non négligeables ».",
+          "source_label": "LCP – L’Assemblée nationale adopte la loi « visant à renforcer la lutte » contre les incendies",
+          "source_url": "https://lcp.fr/actualites/l-assemblee-nationale-adopte-la-loi-visant-a-renforcer-la-lutte-contre-les-incendies"
+        }
+      ],
+      "contre": [],
+      "abstention": [
+        {
+          "groups": [
+            "LFI-NUPES"
+          ],
+          "text": "Selon LCP, La France insoumise, seul groupe à s'être abstenu, a dénoncé la politique du gouvernement, qualifiée de « pansement sur une jambe de bois ».",
+          "source_label": "LCP – L'Assemblée nationale adopte la loi « visant à renforcer la lutte » contre les incendies",
+          "source_url": "https://lcp.fr/actualites/l-assemblee-nationale-adopte-la-loi-visant-a-renforcer-la-lutte-contre-les-incendies"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Assemblée nationale – Scrutin public n° 1588 (16e législature)",
+        "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1588"
+      },
+      {
+        "label": "LCP – L'Assemblée nationale adopte la loi « visant à renforcer la lutte » contre les incendies",
+        "url": "https://lcp.fr/actualites/l-assemblee-nationale-adopte-la-loi-visant-a-renforcer-la-lutte-contre-les-incendies"
+      },
+      {
+        "label": "Sénat – Dossier législatif : lutte contre le risque incendie (PPL n° 206, 2022-2023)",
+        "url": "https://www.senat.fr/dossier-legislatif/ppl22-206.html"
+      }
+    ]
+  },
+  {
     "id": "l17-8705",
     "summary": "Proposition de loi transpartisane portée notamment par la députée socialiste Céline Thiébault-Martinez et cosignée par plus de 240 députés de huit groupes, issue des travaux d'une coalition d'associations. Elle prévoit notamment un socle minimal d'enquête pour éviter qu'une plainte soit écartée trop rapidement, la création d'unités de police spécialisées et d'une justice spécialisée, un entretien obligatoire à l'école pour repérer les violences (annuel à partir de 2032) et un parcours de soins pour les mineurs victimes. La question des moyens est renvoyée au budget 2027 ; adopté en première lecture, le texte est transmis au Sénat.",
     "arguments": {
@@ -4833,57 +4910,6 @@
       {
         "label": "Banque des Territoires – Les députés retirent les policiers municipaux du dispositif",
         "url": "https://www.banquedesterritoires.fr/proposition-de-loi-legitime-defense-les-deputes-retirent-les-policiers-municipaux-du-dispositif"
-      }
-    ]
-  },
-  {
-    "id": "l17-7905",
-    "summary": "Projet de loi actualisant la loi de programmation militaire 2024-2030, qui prévoit un effort supplémentaire de 36 milliards d'euros pour les armées d'ici 2030, portant l'enveloppe globale à 436 milliards. Le texte prévoit notamment 8,5 milliards supplémentaires sur 2026-2030 pour reconstituer les stocks de munitions. Après le rejet par le Sénat de l'article central, le compromis de CMP maintient l'enveloppe mais avance à 2028 une partie des dépenses prévues en 2029 et 2030.",
-    "arguments": {
-      "pour": [
-        {
-          "groups": [
-            "EPR",
-            "DEM",
-            "HOR",
-            "DR",
-            "SOC",
-            "LIOT",
-            "UDDPLR",
-            "RN",
-            "NI"
-          ],
-          "text": "Le gouvernement et la majorité ont fait valoir, avec la ministre des Armées Catherine Vautrin, qu'« en économie de guerre, la première arme, c'est incontestablement l'usine », justifiant l'effort sur les munitions.",
-          "source_label": "LCP – 36 milliards supplémentaires pour les armées",
-          "source_url": "https://lcp.fr/actualites/36-milliards-supplementaires-pour-les-armees-les-deputes-ont-approuve-l-actualisation-de"
-        },
-        {
-          "groups": [
-            "EPR",
-            "DEM",
-            "HOR",
-            "DR",
-            "SOC",
-            "LIOT",
-            "UDDPLR",
-            "RN",
-            "NI"
-          ],
-          "text": "Pour ses défenseurs, l'actualisation doit permettre à la France de dépasser 2,5 % du PIB d'effort de défense dès 2030.",
-          "source_label": "LCP – 36 milliards supplémentaires pour les armées",
-          "source_url": "https://lcp.fr/actualites/36-milliards-supplementaires-pour-les-armees-les-deputes-ont-approuve-l-actualisation-de"
-        }
-      ],
-      "contre": []
-    },
-    "sources": [
-      {
-        "label": "LCP – Programmation militaire : l'Assemblée adopte définitivement l'effort budgétaire de 36 milliards",
-        "url": "https://lcp.fr/actualites/programmation-militaire-l-assemblee-adopte-definitivement-l-effort-budgetaire"
-      },
-      {
-        "label": "Sénat – La loi en clair : projet de loi actualisant la programmation militaire 2024-2030",
-        "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-actualisant-la-programmation-militaire-pour-les-annees-2024-a-2030-et-portant-diverses-dispositions-interessant-la-defense.html"
       }
     ]
   },

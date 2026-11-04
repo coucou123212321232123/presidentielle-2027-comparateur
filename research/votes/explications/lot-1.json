@@ -631,58 +631,6 @@
     "notes": "Groupes partagés : EPR 55 pour / 12 contre ; LIOT 9 pour / 8 contre. La mention « au détriment des victimes » dans le second argument « contre » est une reformulation du résumé disponible : à vérifier dans l'article d'Actu-Juridique. Le rattachement de la déclaration de Laurent Nuñez à l'article de Banque des Territoires est déduit d'un résultat de recherche groupé (Politis, Club des juristes, Banque des Territoires)."
   },
   {
-    "id": "l17-7905",
-    "summary": "Projet de loi actualisant la loi de programmation militaire 2024-2030, qui prévoit un effort supplémentaire de 36 milliards d'euros pour les armées d'ici 2030, portant l'enveloppe globale à 436 milliards. Le texte prévoit notamment 8,5 milliards supplémentaires sur 2026-2030 pour reconstituer les stocks de munitions. Après le rejet par le Sénat de l'article central, le compromis de CMP maintient l'enveloppe mais avance à 2028 une partie des dépenses prévues en 2029 et 2030.",
-    "arguments": {
-      "pour": [
-        {
-          "groups": [
-            "EPR",
-            "DEM",
-            "HOR",
-            "DR",
-            "SOC",
-            "LIOT",
-            "UDDPLR",
-            "RN",
-            "NI"
-          ],
-          "text": "Le gouvernement et la majorité ont fait valoir, avec la ministre des Armées Catherine Vautrin, qu'« en économie de guerre, la première arme, c'est incontestablement l'usine », justifiant l'effort sur les munitions.",
-          "source_label": "LCP – 36 milliards supplémentaires pour les armées",
-          "source_url": "https://lcp.fr/actualites/36-milliards-supplementaires-pour-les-armees-les-deputes-ont-approuve-l-actualisation-de"
-        },
-        {
-          "groups": [
-            "EPR",
-            "DEM",
-            "HOR",
-            "DR",
-            "SOC",
-            "LIOT",
-            "UDDPLR",
-            "RN",
-            "NI"
-          ],
-          "text": "Pour ses défenseurs, l'actualisation doit permettre à la France de dépasser 2,5 % du PIB d'effort de défense dès 2030.",
-          "source_label": "LCP – 36 milliards supplémentaires pour les armées",
-          "source_url": "https://lcp.fr/actualites/36-milliards-supplementaires-pour-les-armees-les-deputes-ont-approuve-l-actualisation-de"
-        }
-      ],
-      "contre": []
-    },
-    "sources": [
-      {
-        "label": "LCP – Programmation militaire : l'Assemblée adopte définitivement l'effort budgétaire de 36 milliards",
-        "url": "https://lcp.fr/actualites/programmation-militaire-l-assemblee-adopte-definitivement-l-effort-budgetaire"
-      },
-      {
-        "label": "Sénat – La loi en clair : projet de loi actualisant la programmation militaire 2024-2030",
-        "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-actualisant-la-programmation-militaire-pour-les-annees-2024-a-2030-et-portant-diverses-dispositions-interessant-la-defense.html"
-      }
-    ],
-    "notes": "Arguments « contre » non trouvés : les sources mentionnent l'opposition des groupes LFI, écologiste et GDR et un recours au Conseil constitutionnel de la gauche hors PS, sans exposer leurs motifs ; liste laissée vide. Les arguments « pour » datent de la première lecture (mai 2026). Le RN a voté pour tout en jugeant, par la voix de Julien Limongi, que la loi répare les erreurs de la précédente."
-  },
-  {
     "id": "l17-7494",
     "summary": "Proposition de loi de la députée Anne-Cécile Violland (HOR) visant à freiner l'essor de l'« ultra fast fashion », dont le texte de CMP est plus proche de la version adoptée par le Sénat en 2025. Elle crée une définition juridique de l'ultra fast fashion fondée sur des critères cumulatifs, qui vise principalement les grandes plateformes comme Shein et Temu et épargne les enseignes européennes et françaises. Elle instaure un malus progressif par produit, plafonné à 50 % du prix hors taxe d'ici 2030, et interdit la publicité pour ces marques, y compris par des influenceurs.",
     "arguments": {

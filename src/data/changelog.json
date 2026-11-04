@@ -421,5 +421,21 @@
         "text": "3 mesures ajoutées (économie, retraites, services publics) et 1 mesure mise à jour (objectif d'économies sur les agences d'État porté à 20 Md€ par an), d'après la page « Économie et travail » du projet de Debout la France."
       }
     ]
+  },
+  {
+    "date": "2026-11-04",
+    "summary": "Votes à l'Assemblée : arguments ajoutés pour deux camps jusque-là sans argument sourcé ; aucun nouveau grand texte voté depuis le 13 octobre 2026.",
+    "accepted": 2,
+    "rejected": 0,
+    "changes": [
+      {
+        "candidate": "Votes à l'Assemblée",
+        "text": "Actualisation de la programmation militaire 2024-2030 (scrutin du 2026-07-01) : explication complétée (arguments du camp contre)"
+      },
+      {
+        "candidate": "Votes à l'Assemblée",
+        "text": "Prévention du risque incendie (scrutin du 2023-05-17) : explication complétée (argument du camp pour)"
+      }
+    ]
   }
 ]

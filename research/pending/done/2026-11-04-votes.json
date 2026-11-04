@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-04",
+  "routine": "votes",
+  "reperage": {
+    "commande": "npm run votes-candidates (index régénéré par fetch-votes le 2026-11-04)",
+    "scrutins_listes": 0,
+    "dernier_scrutin_indexe": "2026-10-29",
+    "ajoutes": [],
+    "ecartes": []
+  },
+  "explications": {
+    "lot": "research/votes/explications/2026-11-04.json (entrées l17-7905 et l16-1588 déplacées depuis lot-1.json et 2026-10-30-lot-2.json, complétées)",
+    "traitees": [
+      "l17-4758",
+      "l17-7905",
+      "l16-1588"
+    ],
+    "acceptees": [
+      "l17-7905 : 2 arguments contre (LFI-NFP, ECOS), précisés comme propos de première lecture",
+      "l16-1588 : 1 argument pour (RN)"
+    ],
+    "rejets": [],
+    "sans_resultat": [
+      "l17-4758 (camp contre) : aucune source admise ne rapporte les arguments des groupes opposés ; camp laissé vide"
+    ],
+    "reste_semaine_suivante": [
+      "l17-4758 camp contre (232 voix)",
+      "l16-1588 autres groupes du camp pour",
+      "l17-7905 GDR (contre)"
+    ]
+  }
+}
