@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-06",
+  "routine": "election-contexte-chiffrages",
+  "hatvp": {
+    "result": "aucun changement",
+    "detail": "liste.csv téléchargée le 2026-11-06 : 9 candidats avec page (attal, bertrand, dupont-aignan, glucksmann, le-pen, lisnard, philippe, retailleau, ruffin), mêmes identifiants et mêmes qualités ; 9 fiches répondent HTTP 200. Aucune page pour arthaud, melenchon, roussel, tondelier, villepin, zemmour. Pas de déclarations de patrimoine de candidats à la présidentielle publiées."
+  },
+  "results": "Étape R non applicable avant le 2027-04-18.",
+  "changes": [
+    {
+      "id": "ctx-detenus",
+      "kind": "update_context",
+      "file": "src/data/context.json",
+      "theme": "securite",
+      "label": "Personnes détenues",
+      "old": {
+        "value": "90 020",
+        "date": "2026-09-01"
+      },
+      "data": {
+        "label": "Personnes détenues",
+        "value": "90 937",
+        "detail": "Au 1er octobre 2026, sur 108 587 personnes écrouées au total.",
+        "date": "2026-11-02",
+        "source_label": "Ministère de la Justice – Statistique des établissements et des personnes écrouées en France, 1er octobre 2026",
+        "source_url": "https://www.justice.gouv.fr/sites/default/files/2026-11/statistique_etablissements_personnes_ecrouees_01102026.pdf"
+      },
+      "evidence": [
+        {
+          "url": "https://www.justice.gouv.fr/sites/default/files/2026-11/statistique_etablissements_personnes_ecrouees_01102026.pdf",
+          "excerpt": "Ecroués détenus 90 937"
+        },
+        {
+          "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/statistiques-mensuelles-population-detenue-ecrouee-11",
+          "excerpt": "Mis à jour le 02 novembre 2026"
+        }
+      ],
+      "reason": "Nouvelle statistique mensuelle (1er octobre 2026) de la même source.",
+      "decision": "accepte"
+    },
+    {
+      "id": "ctx-inflation",
+      "kind": "update_context",
+      "file": "src/data/context.json",
+      "theme": "economie",
+      "label": "Inflation sur un an",
+      "old": {
+        "value": "3,1 %",
+        "date": "2026-10-15"
+      },
+      "data": {
+        "label": "Inflation sur un an",
+        "value": "3,4 %",
+        "detail": "Octobre 2026, estimation provisoire ; prix de l'énergie : +24,1 % sur un an.",
+        "date": "2026-10-30",
+        "source_label": "Insee – Indice des prix à la consommation, résultats provisoires, octobre 2026",
+        "source_url": "https://www.insee.fr/fr/statistiques/9107965"
+      },
+      "evidence": [
+        {
+          "url": "https://www.insee.fr/fr/statistiques/9107965",
+          "excerpt": "augmenteraient de 3,4 % en octobre 2026"
+        }
+      ],
+      "reason": "Estimation provisoire d'octobre publiée par l'Insee (même source, mois plus récent).",
+      "decision": "accepte_avec_correction",
+      "correction": "detail sans « tirée par l'énergie » (interprétation absente de la source)"
+    },
+    {
+      "id": "ctx-ges",
+      "kind": "update_context",
+      "file": "src/data/context.json",
+      "theme": "ecologie",
+      "label": "Émissions de gaz à effet de serre",
+      "old": {
+        "value": "364 Mt CO₂e",
+        "date": "2026-04-08"
+      },
+      "data": {
+        "label": "Émissions de gaz à effet de serre",
+        "value": "359,4 Mt CO₂e",
+        "detail": "En 2025, hors puits de carbone (estimation provisoire) ; le Citepa prévoit 349,4 Mt CO₂e en 2026.",
+        "date": "2026-10-13",
+        "source_label": "Citepa – Baromètre des émissions, octobre 2026",
+        "source_url": "https://www.citepa.org/emissions-de-gaz-a-effet-de-serre-en-2026-une-baisse-de-28-attendue-selon-le-barometre-du-citepa/"
+      },
+      "evidence": [
+        {
+          "url": "https://www.citepa.org/emissions-de-gaz-a-effet-de-serre-en-2026-une-baisse-de-28-attendue-selon-le-barometre-du-citepa/",
+          "excerpt": "349,4 Mt CO₂e, contre 359,4 Mt CO₂e en 2025"
+        }
+      ],
+      "reason": "Baromètre Citepa d'octobre 2026, plus récent que celui d'avril.",
+      "decision": "accepte"
+    }
+  ],
+  "calendar": {
+    "result": "aucun changement",
+    "detail": "Aucun décret de convocation ni date d'ouverture de la collecte ou de la campagne officielle trouvés ; info.gouv.fr et legifrance ont répondu 403 au sous-agent, les dates existantes n'ont pas pu être reconfirmées sur source officielle cette semaine (inchangées)."
+  },
+  "parrainages": {
+    "result": "aucun changement",
+    "detail": "Pas de site 2027 ni de fichier CSV des parrainages relevé sur conseil-constitutionnel.fr ; source.json inchangé ; fetch-parrainages non lancé (csv_url null)."
+  },
+  "debates": {
+    "result": "aucun ajout",
+    "detail": "Recherches (sous-agent et routine, groupées par candidats) : aucun nouveau débat annoncé depuis le 22/10 ; le débat LCI du 16/11/2026 reste annoncé sans changement. Couverture par recherches groupées et non nominatives pour chacun des 15 candidats."
+  },
+  "context_no_change": "Chômage (T3 non publié), dette (T2 dernier), PIB, SMIC, prélèvements/déficit : pas de valeur plus récente ; autres lignes non revérifiées cette semaine.",
+  "independent": {
+    "result": "aucun changement",
+    "detail": "Aucune évaluation complète publiée ou annoncée hors Institut Montaigne (déjà listé, reconfirmé). Comparateur iFRAP = compilation, non retenu. Recherche partielle pour les autres organismes."
+  },
+  "verification": "Contre-vérification par un sous-agent distinct : 3 acceptés (1 avec correction), 0 rejeté."
+}

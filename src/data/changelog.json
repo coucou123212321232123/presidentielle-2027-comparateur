@@ -437,5 +437,17 @@
         "text": "Prévention du risque incendie (scrutin du 2023-05-17) : explication complétée (argument du camp pour)"
       }
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "summary": "Mise à jour hebdomadaire de l'élection et du contexte : 3 chiffres de contexte actualisés ; calendrier, débats, parrainages, évaluations indépendantes et déclarations HATVP sans changement.",
+    "accepted": 3,
+    "rejected": 0,
+    "changes": [
+      {
+        "candidate": "Chiffres de contexte",
+        "text": "Inflation sur un an : 3,4 % en octobre 2026 (Insee, estimation provisoire) ; émissions de gaz à effet de serre 2025 : 359,4 Mt CO₂e (Citepa, baromètre d'octobre 2026) ; personnes détenues : 90 937 au 1er octobre 2026 (ministère de la Justice)."
+      }
+    ]
   }
 ]
