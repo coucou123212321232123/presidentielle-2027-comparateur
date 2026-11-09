@@ -1,0 +1,470 @@
+{
+  "date": "2026-11-09",
+  "routine": "candidats",
+  "signalements": "aucune issue ouverte avec le label signalement",
+  "proposals": [
+    {
+      "candidate": "melenchon",
+      "kind": "update_program",
+      "data": {
+        "title": "L'Avenir en commun – Le programme de la Nouvelle France (5e édition, 2026)",
+        "main_url": "https://melenchon2027.fr/programme/livre/",
+        "format": "page_web",
+        "published_date": "2026-11-06",
+        "status": "publie",
+        "note": "Cinquième édition du programme de La France insoumise (1 069 mesures dont 238 nouvelles et 118 modifiées ou précisées, selon l'article de présentation du mouvement), mise en vente le 6 novembre 2026 et présentée au Bourget le 7 novembre. Le site de campagne publie le texte par chapitres (6 parties, 23 chapitres) sous l'intitulé « édition 2027 » ; l'édition 2025 reste accessible sur /programme2025/livre/."
+      },
+      "evidence": [
+        {
+          "url": "https://lafranceinsoumise.fr/2026/11/02/avenir-en-commun-nouvelle-france/",
+          "excerpt": "cinquième édition, 1 069 mesures dont 238 nouvelles, mise en vente le 6 novembre"
+        },
+        {
+          "url": "https://melenchon2027.fr/programme/livre/",
+          "excerpt": "L'Avenir en commun – Le programme de la Nouvelle France, édition 2027"
+        }
+      ],
+      "reason": "Nouvelle édition publiée le 6 novembre 2026, remplaçant l'édition 2025 comme programme de campagne ; main_url (200, contenu confirmé) pointe désormais sur les chapitres de l'édition 2027. Les mesures existantes sourcées sur l'édition 2025 restent à rebaser au besoin.",
+      "n": 1,
+      "decision": "acceptee",
+      "motif": "Programme confirmé : intitulé « L'Avenir en commun, le programme de la Nouvelle France », 5e édition, 1 069 mesures (238 nouvelles, 118 modifiées), en librairie le 6/11/2026 (article LFI publié le 02/11, LCP du 06/11), 6 parties et 23 chapitres. En revanche, la page ne porte nulle part la mention « édition 2027 » : la note est corrigée.",
+      "fix": {
+        "title": "L'Avenir en commun – Le programme de la Nouvelle France (5e édition, 2026)",
+        "note": "Cinquième édition du programme de La France insoumise (1 069 mesures dont 238 nouvelles et 118 modifiées ou précisées, selon l'article de présentation du mouvement), parue en librairie le 6 novembre 2026 et présentée lors du meeting du Bourget du 7 novembre (LCP). Le site de campagne publie le texte par chapitres (introduction, 6 parties, 23 chapitres) sur /programme/livre/ ; l'édition 2025 reste accessible sur /programme2025/livre/."
+      }
+    },
+    {
+      "candidate": "melenchon",
+      "kind": "update_measure",
+      "data": {
+        "id": "melenchon-ecologie-02",
+        "title": "Viser une baisse de 65 % des émissions de gaz à effet de serre d'ici 2033",
+        "description": "L'édition 2027 du programme maintient l'objectif de réduction de 65 % des émissions de gaz à effet de serre et en fixe l'échéance à 2033 (contre 2030 dans l'édition 2025), avec un bilan annuel public incluant les émissions importées.",
+        "source_type": "officiel",
+        "source_title": "L'Avenir en commun – Le programme de la Nouvelle France (édition 2027), chapitre 1 « Pour une bifurcation écologique et sociale »",
+        "source_url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre1",
+        "source_date": "2026-11-06",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre1",
+          "excerpt": "baisse de 65 % des émissions de gaz à effet de serre (GES) d’ici 2033"
+        },
+        {
+          "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
+          "excerpt": "la baisse de 65 % est avancée à 2033"
+        }
+      ],
+      "reason": "Échéance modifiée (2030 -> 2033) dans la 5e édition.",
+      "n": 2,
+      "decision": "acceptee",
+      "motif": "Le chapitre 1 cite « 65 % ... d'ici 2033 » et un bilan annuel incluant les émissions importées. L'échéance de 2030 de l'édition 2025 est confirmée par la mesure existante, et LCP confirme le passage à 2033. Le chapitre 1 s'intitule « Planification écologique », pas « Pour une bifurcation écologique et sociale » (titre de la partie 1).",
+      "fix": {
+        "source_title": "L'Avenir en commun – Le programme de la Nouvelle France (5e édition), partie 1 « Pour une bifurcation écologique et sociale », chapitre 1 « Planification écologique »"
+      },
+      "applied_id": "melenchon-ecologie-02"
+    },
+    {
+      "candidate": "melenchon",
+      "kind": "add_measure",
+      "data": {
+        "id": "melenchon-europe-NEW1",
+        "theme": "europe",
+        "title": "Modifier les traités et le statut de la BCE pour lui permettre d'acheter de la dette publique",
+        "description": "Le programme propose de modifier le traité sur le fonctionnement de l'UE et le statut de la BCE afin qu'elle puisse acheter de la dette publique sans passer par les banques privées, avec une autorisation de découvert des États auprès d'elle, et de lui interdire de revendre sur les marchés la dette qu'elle détient.",
+        "source_type": "officiel",
+        "source_title": "L'Avenir en commun – édition 2027, partie 2 « Une économie au service des besoins », chapitre 3",
+        "source_url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre3",
+        "source_date": "2026-11-06",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre3",
+          "excerpt": "modification du traité de fonctionnement de l’Union européenne (TFUE) et du statut de la BCE"
+        }
+      ],
+      "reason": "Mesure nouvelle de la 5e édition (non présente dans melenchon-europe-03, qui porte sur la dette perpétuelle).",
+      "n": 3,
+      "decision": "acceptee",
+      "motif": "Les mesures figurent au chapitre 3 de la partie 2 et sont confirmées par LCP. Elles ne recoupent pas europe-03. Corrections : un seul traité est visé (le TFUE), et la source écrit « Proposer la modification ».",
+      "fix": {
+        "title": "Modifier le TFUE et le statut de la BCE pour lui permettre d'acheter de la dette publique",
+        "description": "Le programme propose une modification du traité sur le fonctionnement de l'UE et du statut de la BCE pour lui permettre d'acheter de la dette publique sans passer par les banques privées, notamment par une autorisation de découvert des États auprès d'elle, et prévoit d'interdire à la BCE de revendre sur les marchés financiers la part de dette des États qu'elle détient.",
+        "source_title": "L'Avenir en commun – Le programme de la Nouvelle France (5e édition), partie 2 « Une économie au service des besoins », chapitre 3 « Un pacte productif pour répondre aux besoins »"
+      },
+      "applied_id": "melenchon-europe-07"
+    },
+    {
+      "candidate": "melenchon",
+      "kind": "add_measure",
+      "data": {
+        "id": "melenchon-institutions-NEW1",
+        "theme": "institutions",
+        "title": "Débat obligatoire à l'Assemblée pour les pétitions de plus de 500 000 signatures",
+        "description": "Le programme prévoit d'obliger l'Assemblée nationale à débattre des pétitions ayant recueilli plus de 500 000 signatures.",
+        "source_type": "officiel",
+        "source_title": "L'Avenir en commun – édition 2027, partie 5 « Fonder la 6e République », chapitre 1",
+        "source_url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+        "source_date": "2026-11-06",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "excerpt": "Obliger l’Assemblée nationale à débattre des pétitions qui ont recueilli plus de 500 000 signatures"
+        }
+      ],
+      "reason": "Nouveauté de la 5e édition, confirmée par LCP (6 novembre 2026).",
+      "n": 4,
+      "decision": "acceptee",
+      "motif": "Le texte (chapitre 1 de la partie 5) et LCP concordent. La mesure ne double pas institutions-03 (RIC).",
+      "fix": {
+        "source_title": "L'Avenir en commun – Le programme de la Nouvelle France (5e édition), partie 5 « Fonder la 6e République », chapitre 1 « Le pouvoir au peuple »"
+      },
+      "applied_id": "melenchon-institutions-08"
+    },
+    {
+      "candidate": "melenchon",
+      "kind": "add_measure",
+      "data": {
+        "id": "melenchon-outre_mer-NEW1",
+        "theme": "outre_mer",
+        "title": "Organiser l'indépendance de la Kanaky-Nouvelle-Calédonie au 1er janvier 2028",
+        "description": "Le programme prévoit d'organiser l'accession de la Kanaky-Nouvelle-Calédonie à l'indépendance au 1er janvier 2028, par un référendum national ouvrant la voie à une consultation locale.",
+        "source_type": "officiel",
+        "source_title": "L'Avenir en commun – édition 2027, partie 5 « Fonder la 6e République », chapitre 1",
+        "source_url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+        "source_date": "2026-11-06",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+          "excerpt": "indépendance au 1er janvier 2028 par la convocation d’un référendum national"
+        }
+      ],
+      "reason": "Nouveauté de la 5e édition, relayée par LCP (6 novembre 2026).",
+      "n": 5,
+      "decision": "acceptee",
+      "motif": "Texte littéral « Organiser l'accession ... à l'indépendance au 1er janvier 2028 », confirmé par LCP. Pas de doublon dans outre_mer. Le titre reprend désormais la formulation de la source.",
+      "fix": {
+        "title": "Organiser l'accession de la Kanaky-Nouvelle-Calédonie à l'indépendance au 1er janvier 2028",
+        "source_title": "L'Avenir en commun – Le programme de la Nouvelle France (5e édition), partie 5 « Fonder la 6e République », chapitre 1 « Le pouvoir au peuple »"
+      },
+      "applied_id": "melenchon-outre-mer-07"
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "update_program",
+      "data": {
+        "note": "Pas de programme complet à ce jour : la campagne publie des cahiers thématiques successifs (sept entre avril et octobre 2026, le premier mis en ligne le 13 avril 2026, le septième sur l'industrie le 15 octobre 2026) et des « plans d'action » (data centers, 8 octobre 2026 ; urgence climat, 12 octobre 2026), rassemblés sur la page « Notre programme ». Le premier cahier annonce que les mesures concernant les agents du secteur public feront l'objet d'un cahier ultérieur. Aucun cahier n'est consacré à la santé ni à l'éducation au 16 octobre 2026 : les seules propositions trouvées dans ces domaines figurent dans d'autres cahiers (pôle public du médicament dans le cahier n°7, soutien psychologique aux sinistrés dans le plan Urgence climat, enseignements artistiques dans le cahier n°3, places de BTS dans le cahier n°7). Le manifeste fondateur de Debout! (avril 2026, modifié en juin 2026) complète ces documents. Le « Plan de redressement » (note de 60 pages, finances publiques et adaptation, mis en ligne le 21 octobre 2026) et le cahier « Éducation : une école de tous les savoirs » (28 octobre 2026) s'ajoutent aux cahiers déjà recensés.",
+        "thematic_links_append": [
+          {
+            "theme": "economie",
+            "title": "Plan de redressement (octobre 2026)",
+            "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf",
+            "format": "pdf",
+            "page_range": "p. 1-60"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/plan-de-redressement/",
+          "excerpt": "Plan de redressement – Répondre aux urgences de l’été et retrouver les moyens d’agir"
+        }
+      ],
+      "reason": "Document programmatique officiel publié le 21 octobre 2026 et absent des mesures existantes. La page « 40 chantiers » du 6 novembre est un replay d'émission sans contenu programmatique.",
+      "n": 6,
+      "decision": "acceptee",
+      "motif": "Plan de redressement confirmé : publié le 21/10/2026, PDF de 60 pages lié depuis la page. Le cahier Éducation est bien le 8e cahier, publié le 28/10/2026. La note disait encore « sept cahiers » et « aucun cahier éducation » : elle est mise en cohérence.",
+      "fix": {
+        "note": "Pas de programme complet à ce jour : la campagne publie des cahiers thématiques successifs (huit entre avril et octobre 2026, le premier mis en ligne le 13 avril 2026, le septième sur l'industrie le 15 octobre 2026, le huitième « Éducation : une école de tous les savoirs » le 28 octobre 2026), des « plans d'action » (data centers, 8 octobre 2026 ; urgence climat, 12 octobre 2026) et un « Plan de redressement » (note de 60 pages sur les finances publiques et l'adaptation, mise en ligne le 21 octobre 2026), rassemblés sur la page « Notre programme ». Le premier cahier annonce que les mesures concernant les agents du secteur public feront l'objet d'un cahier ultérieur. Aucun cahier n'est consacré à la santé : les seules propositions trouvées dans ce domaine figurent dans d'autres documents (pôle public du médicament dans le cahier n°7, soutien psychologique aux sinistrés dans le plan Urgence climat). Le manifeste fondateur de Debout! (avril 2026, modifié en juin 2026) complète ces documents."
+      }
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "id": "ruffin-fiscalite-NEW1",
+        "theme": "fiscalite",
+        "title": "Taxe annuelle de 2 % sur les patrimoines supérieurs à 100 millions d'euros",
+        "description": "Le plan de redressement retient une taxe annuelle de 2 % sur les patrimoines supérieurs à 100 millions d'euros (taxe dite « Zucman »), au rendement estimé à 18,5 milliards d'euros après effets comportementaux.",
+        "source_type": "officiel",
+        "source_title": "Plan de redressement (Nous Président !, octobre 2026)",
+        "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf#page=24",
+        "source_date": "2026-10-21",
+        "source_page": "p. 24",
+        "precision": "chiffre",
+        "cost": {
+          "label": "Rendement estimé à 18,5 Md€ par an",
+          "source_label": "Plan de redressement, annexe 1",
+          "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf#page=57"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf#page=24",
+          "excerpt": "Proposition 1 : Taxe Zucman (18,5 Md€)"
+        }
+      ],
+      "reason": "Mesure phare du plan de redressement, absente des mesures existantes (le plan la présente comme première proposition de recettes).",
+      "n": 7,
+      "decision": "acceptee",
+      "motif": "Page 24 (numéro de page imprimé conforme) et annexe page 57 (18,5 Md€, « montant annuel estimé »). Pas de doublon. Ajout d'une condition omise : « après déduction des impôts déjà acquittés ».",
+      "fix": {
+        "description": "Le plan de redressement retient une taxe annuelle de 2 % sur les patrimoines supérieurs à 100 millions d'euros, après déduction des impôts déjà acquittés (taxe dite « Zucman »), au rendement estimé à 18,5 milliards d'euros après effets comportementaux."
+      },
+      "applied_id": "ruffin-fiscalite-05",
+      "indicator_added": "taxe_zucman = pour (C.3 : la source intitule la proposition « Taxe Zucman »)"
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "id": "ruffin-fiscalite-NEW2",
+        "theme": "fiscalite",
+        "title": "Un « dividende climatique » de 2 % sur les dividendes versés par les entreprises",
+        "description": "Le plan de redressement propose une contribution de 2 % sur les dividendes versés par toutes les entreprises, destinée à financer la transition et l'adaptation au changement climatique.",
+        "source_type": "officiel",
+        "source_title": "Plan de redressement (Nous Président !, octobre 2026)",
+        "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf#page=26",
+        "source_date": "2026-10-21",
+        "source_page": "p. 26",
+        "precision": "chiffre",
+        "cost": {
+          "label": "Rendement estimé à plus de 6 Md€",
+          "source_label": "Plan de redressement, annexe 1",
+          "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf#page=57"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf#page=26",
+          "excerpt": "mettre en place ce dividende à hauteur à 2 % pour toutes les entreprises"
+        }
+      ],
+      "reason": "Nouvelle mesure du plan de redressement ; distincte de ruffin-fiscalite-01 (référendum sur une taxe sur les dividendes) à vérifier par l'intégrateur.",
+      "n": 8,
+      "decision": "rejetee",
+      "motif": "Recoupe ruffin-fiscalite-01 (même dividende climatique de la Convention citoyenne, 4 %/2 % soumis à référendum). Le plan le remplace par 2 % pour toutes les entreprises : ajouter une seconde mesure laisserait deux positions contradictoires. Cela relève d'un update_measure de fiscalite-01. La phrase « 2 % pour toutes les entreprises » est en p. 27, pas p. 26.",
+      "fix": {}
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "id": "ruffin-economie-NEW1",
+        "theme": "economie",
+        "title": "Une taxe flottante sur les carburants pour stabiliser leur prix à la pompe",
+        "description": "Le plan de redressement propose d'ajuster l'accise sur les carburants pour garantir un prix prévisible et légèrement progressif, d'environ 2 € le litre en 2027 jusqu'à 2,2 € en 2032, et de créer un crédit d'impôt couvrant environ 30 % des trajets domicile-travail en voiture.",
+        "source_type": "officiel",
+        "source_title": "Plan de redressement (Nous Président !, octobre 2026)",
+        "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf#page=55",
+        "source_date": "2026-10-21",
+        "source_page": "p. 55",
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf#page=55",
+          "excerpt": "Instaurer une taxe flottante sur les carburants"
+        }
+      ],
+      "reason": "Nouvelle mesure du plan de redressement.",
+      "n": 9,
+      "decision": "acceptee",
+      "motif": "Page 55 conforme. Les montants 2 €/2,2 € sont donnés à titre d'exemple (« ex. »). Le crédit d'impôt est une proposition distincte (la n°2, avec son propre coût) : il est retiré, et « stabiliser » est remplacé par le texte de la source.",
+      "fix": {
+        "title": "Une taxe flottante sur les carburants pour un prix prévisible à la pompe",
+        "description": "Le plan de redressement propose d'ajuster l'accise sur les carburants pour garantir un prix prévisible et légèrement progressif dans le temps (par exemple autour de 2 € le litre en 2027 jusqu'à 2,2 € en 2032), afin de limiter l'impact des prix sur le pouvoir d'achat et les finances publiques."
+      },
+      "applied_id": "ruffin-economie-06"
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "add_measure",
+      "data": {
+        "id": "dupont-aignan-economie-NEW1",
+        "theme": "economie",
+        "title": "Porter le SMIC à 1 600 euros net par une baisse des cotisations salariales",
+        "description": "Nicolas Dupont-Aignan propose de réduire les dépenses jugées gaspillées afin de baisser les cotisations salariales et de porter le SMIC à 1 600 euros net par mois, dans son projet présidentiel 2027.",
+        "source_type": "officiel",
+        "source_title": "Je propose le SMIC à 1600 euros net en baissant les cotisations salariales ! (France 2) — dupontaignan.fr",
+        "source_url": "https://www.dupontaignan.fr/actualite/je-propose-le-smic-a-1600-euros-net-en-baissant-les-cotisations-salariales-%c2%b7-france-2/",
+        "source_date": "2026-11-06",
+        "source_page": null,
+        "precision": "chiffre",
+        "indicator": {
+          "key": "smic_net",
+          "value": 1600
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.dupontaignan.fr/actualite/je-propose-le-smic-a-1600-euros-net-en-baissant-les-cotisations-salariales-%c2%b7-france-2/",
+          "excerpt": "Je propose le SMIC à 1600 euros net en baissant les cotisations salariales !"
+        }
+      ],
+      "reason": "Aucune mesure existante ne porte smic_net ; la mesure economie existante (+8 % des salaires jusqu'à 3 SMIC) est distincte. La page ne détaille pas le financement ; la page d'accueil du site reprend 'réduire tous ces gaspillages ... passer le SMIC à 1600 euros net'.",
+      "n": 10,
+      "decision": "acceptee",
+      "motif": "Page du 06/11/2026 sur le site du candidat : vidéo France 2 intitulée « Je propose le SMIC à 1600 euros net en baissant les cotisations salariales ». Il s'agit d'une interview, donc source_type declaration. Le passage sur les « gaspillages » ne figure pas sur la page citée et est retiré. Indicateur 1600 littéral. Pas de contradiction avec economie-03.",
+      "fix": {
+        "source_type": "declaration",
+        "title": "Porter le SMIC à 1 600 euros net en baissant les cotisations salariales",
+        "description": "Interrogé sur France 2, Nicolas Dupont-Aignan propose de porter le SMIC à 1 600 euros net en baissant les cotisations salariales.",
+        "source_title": "« Je propose le SMIC à 1600 euros net en baissant les cotisations salariales ! » (entretien sur France 2), dupontaignan.fr"
+      },
+      "applied_id": "dupont-aignan-economie-07"
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "add_measure",
+      "data": {
+        "id": "dupont-aignan-economie-NEW2",
+        "theme": "economie",
+        "title": "Baisser de 40 centimes le prix des carburants par trois leviers",
+        "description": "Le projet économique prévoit une baisse de 40 centimes du prix des carburants : suppression des certificats d'économies d'énergie (17 centimes), suppression de la TVA sur la taxe (13 centimes, coût indiqué de 5 milliards d'euros) et plafonnement des marges des raffineurs (10 centimes).",
+        "source_type": "officiel",
+        "source_title": "Projet Économie et travail — Debout la France",
+        "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "source_date": null,
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+          "excerpt": "Baisser de 40 centimes le prix des carburants"
+        }
+      ],
+      "reason": "Mesure existante fiscalite-02 évoque 50 centimes de taxes (discours du 2026-09-19) ; ici détail et chiffre différents sur la page programme (modifiée 2026-11-06). Page non datée. Pas de cost global (5 Md€ ne concerne qu'une composante).",
+      "n": 11,
+      "decision": "rejetee",
+      "motif": "Contradiction non résolue : la page programme (modifiée le 05/11/2026) annonce une baisse de 40 centimes du prix (CEE 17 c, TVA 13 c, marges 10 c), contre 50 centimes de taxes dans la mesure existante fiscalite-02 (discours du 19/09/2026). Il faut arbitrer et mettre à jour fiscalite-02, pas ajouter une mesure. source_date null alors que la page porte dateModified 2026-11-05.",
+      "fix": {}
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "id": "lisnard-institutions-NEW1",
+        "theme": "institutions",
+        "title": "Gouvernement resserré avec missions sur 200 jours et session extraordinaire à l'été 2027",
+        "description": "David Lisnard indique qu'il nommerait immédiatement une équipe gouvernementale restreinte dotée de missions pour les 200 premiers jours, ses membres étant évalués sur leur capacité à engager les réformes dans ce délai, et qu'il convoquerait le Parlement en session extraordinaire à l'été 2027.",
+        "source_type": "officiel",
+        "source_title": "« Toc toc, on arrive ! » : David Lisnard annonce plus de 100 000 adhérents à Nouvelle Énergie sur BFMTV (entretien du 3 novembre)",
+        "source_url": "https://www.unenouvelleenergie.fr/toc-toc-on-arrive-david-lisnard-annonce-plus-de-100-000-adherents-a-nouvelle-energie-sur-bfmtv/",
+        "source_date": "2026-11-04",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/toc-toc-on-arrive-david-lisnard-annonce-plus-de-100-000-adherents-a-nouvelle-energie-sur-bfmtv/",
+          "excerpt": "détaillé les premières mesures qu'il entend engager pour redresser la France dès 2027"
+        }
+      ],
+      "reason": "Absent des mesures existantes (grep 'session extraordinaire', '200 premiers jours').",
+      "n": 12,
+      "decision": "rejetee",
+      "motif": "Rejetée par l'intégrateur (critère 5) : propos d'entretien rapportés par le seul site du parti, sans vidéo ou transcription officielle ni deux médias indépendants ; à revoir la semaine prochaine avec la source primaire (BFMTV). Avis du vérificateur : Article du site du parti (04/11/2026) sur l'entretien BFMTV, avec citation directe (« gouvernement commando, resserré ... 200 premiers jours »), session extraordinaire à l'été 2027 et évaluation des ministres. C'est une interview, donc source_type declaration. Aucun média indépendant trouvé : retenu comme compte rendu officiel de la campagne. Valeur chiffrée (200 jours), donc precision chiffre.",
+      "fix": {
+        "source_type": "declaration",
+        "precision": "chiffre"
+      }
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "id": "lisnard-securite-NEW1",
+        "theme": "securite",
+        "title": "Créer un délit spécifique de pillage et intervenir plus tôt en cas de débordements",
+        "description": "David Lisnard propose la création d'un délit spécifique de pillage, une intervention plus rapide des forces de l'ordre dès les premiers débordements et un meilleur équipement des policiers et gendarmes.",
+        "source_type": "officiel",
+        "source_title": "« Toc toc, on arrive ! » : David Lisnard annonce plus de 100 000 adhérents à Nouvelle Énergie sur BFMTV (entretien du 3 novembre)",
+        "source_url": "https://www.unenouvelleenergie.fr/toc-toc-on-arrive-david-lisnard-annonce-plus-de-100-000-adherents-a-nouvelle-energie-sur-bfmtv/",
+        "source_date": "2026-11-04",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/toc-toc-on-arrive-david-lisnard-annonce-plus-de-100-000-adherents-a-nouvelle-energie-sur-bfmtv/",
+          "excerpt": "premières mesures qu'il entend engager pour redresser la France dès 2027"
+        }
+      ],
+      "reason": "'pillage' absent des mesures existantes. Les autres mesures de l'entretien (80 Md€, 60 % restitués, moratoire normes) existent déjà. Note : la page notre-programme/ (modifiée 2026-11-08) ne contient aucune mesure chiffrée nouvelle (orientations générales).",
+      "n": 13,
+      "decision": "rejetee",
+      "motif": "Rejetée par l'intégrateur (critère 5) : même source unique que la n°12 ; à revoir avec la source primaire. Avis du vérificateur : Même source. La source dit qu'il « a soutenu l'idée » d'un délit de pillage, sans formuler de proposition ferme : la description est nuancée. Pas de doublon dans securite. Interview, donc source_type declaration.",
+      "fix": {
+        "source_type": "declaration",
+        "description": "David Lisnard propose une intervention plus rapide des forces de l'ordre dès les premiers débordements et un meilleur équipement des policiers et gendarmes, et soutient l'idée de créer un délit spécifique de pillage."
+      }
+    }
+  ],
+  "journal": [
+    {
+      "candidate": "_nouvelles_candidatures",
+      "reason": "Deux recherches web (dont une étendue) : aucune nouvelle candidature déclarée entre le 2026-11-02 et le 2026-11-09 identifiée. Dernières déclarations trouvées, déjà dans other_declared : Natacha Polony (2026-10-14, France Inter) et Gilles Platret (2026-10-08). Aucun new_candidate proposé ; nouveau déclaré non éligible : aucun."
+    },
+    {
+      "candidate": "attal",
+      "reason": "Passages nouveaux de attalpresident.fr déjà couverts : loi de stabilité fiscale (fiscalite-06), 200 Md€ IA (numerique-01), remplacement des professeurs absents (education-12), 30 min d'esprit critique (education-06), électricité 5 ans (numerique-05), amende maltraitance animale, capitalisation, méthode de Singapour (education-11), comparution immédiate des mineurs, test PME (economie-04), défense européenne (international-07). Le reste est de la communication (primaire, harcèlement scolaire, déplacements)."
+    },
+    {
+      "candidate": "bertrand",
+      "reason": "Seule page nouvelle : nousfrance.fr/merci-adhesion (page de remerciement, sans proposition). Recherche web : aucune déclaration officielle ni programme nouveau identifié."
+    },
+    {
+      "candidate": "dupont-aignan",
+      "reason": "Page 'L'UE : en sortir pour s'en sortir' (2026-11-04) : titre et renvoi vers une émission, sans proposition détaillée ; conférence de presse du 12/11 à venir, rien à proposer."
+    },
+    {
+      "candidate": "glucksmann",
+      "reason": "Pages modifiées : bandeau cookies, dons, meeting de lancement du 6 décembre (communication, pas une mesure) ; recherche web sans nouvelle proposition datée depuis le 2026-11-06."
+    },
+    {
+      "candidate": "le-pen",
+      "reason": "Passages nouveaux du site RN : communiqué POSEI et information sécurité des données, sans proposition. Recherche web : rien de nouveau depuis le 2026-11-06 (candidature déclarée le 2026-07-07 déjà connue)."
+    },
+    {
+      "candidate": "philippe",
+      "reason": "Seul passage nouveau : annonce d'une réunion publique à La Ciotat (agenda). Recherche web : aucune nouvelle proposition datée depuis le 2026-11-06 (articles d'octobre uniquement)."
+    },
+    {
+      "candidate": "retailleau",
+      "reason": "Aucune page modifiée ; recherche web sans programme ni mesure nouvelle depuis le 2026-11-06 (sources trouvées surtout des agrégateurs interdits)."
+    },
+    {
+      "candidate": "villepin",
+      "reason": "Aucun changement de page suivi. Recherche web : dernières informations fin août 2026 (pas de déclaration formelle), rien de nouveau depuis le 2026-11-06."
+    },
+    {
+      "candidate": "zemmour",
+      "reason": "Tracts PDF modifiés (verite-pouvoir-achat, sante) : une page de communication/pétition sans mesure chiffrée nouvelle ; mercosur et avenir-est-a-nous non ouverts (tracts, aucun passage ajouté). Recherche web : pas de proposition datée de novembre 2026 provenant d'une source primaire."
+    },
+    {
+      "candidate": "roussel",
+      "reason": "La déclaration du 7 novembre (page pcf.fr non lisible, 403 ; contenu via recoupement presse) porte sur l'exclusion des instances des adhérents soutenant un autre candidat après le ralliement de députés GDR à Mélenchon ; la candidature de Roussel (validée le 6 septembre) est inchangée ; aucune proposition programmatique."
+    },
+    {
+      "candidate": "arthaud",
+      "reason": "Pages nouvelles = éditoriaux et brèves sur salaires/grève du 5 novembre, sans proposition nouvelle par rapport aux mesures existantes ; la recherche ne renvoie que des agrégateurs interdits."
+    },
+    {
+      "candidate": "tondelier",
+      "reason": "Panier à prix coûtant déjà présent (tondelier-economie-04) ; statut inchangé (vote des adhérents du 10 au 13 décembre, texte des options attendu fin novembre)."
+    }
+  ],
+  "status": "traite"
+}

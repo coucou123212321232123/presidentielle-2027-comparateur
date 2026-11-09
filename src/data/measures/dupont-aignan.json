@@ -1569,5 +1569,23 @@
     },
     "last_verified": "2026-11-02",
     "added": "2026-11-02"
+  },
+  {
+    "id": "dupont-aignan-economie-07",
+    "theme": "economie",
+    "title": "Porter le SMIC à 1 600 euros net en baissant les cotisations salariales",
+    "description": "Interrogé sur France 2, Nicolas Dupont-Aignan propose de porter le SMIC à 1 600 euros net en baissant les cotisations salariales.",
+    "source_type": "declaration",
+    "source_title": "« Je propose le SMIC à 1600 euros net en baissant les cotisations salariales ! » (entretien sur France 2), dupontaignan.fr",
+    "source_url": "https://www.dupontaignan.fr/actualite/je-propose-le-smic-a-1600-euros-net-en-baissant-les-cotisations-salariales-%c2%b7-france-2/",
+    "source_date": "2026-11-06",
+    "source_page": null,
+    "precision": "chiffre",
+    "indicator": {
+      "key": "smic_net",
+      "value": 1600
+    },
+    "last_verified": "2026-11-09",
+    "added": "2026-11-09"
   }
 ]

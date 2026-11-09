@@ -1092,5 +1092,42 @@
     "precision": "chiffre",
     "last_verified": "2026-11-02",
     "added": "2026-11-02"
+  },
+  {
+    "id": "ruffin-fiscalite-05",
+    "theme": "fiscalite",
+    "title": "Taxe annuelle de 2 % sur les patrimoines supérieurs à 100 millions d'euros",
+    "description": "Le plan de redressement retient une taxe annuelle de 2 % sur les patrimoines supérieurs à 100 millions d'euros, après déduction des impôts déjà acquittés (taxe dite « Zucman »), au rendement estimé à 18,5 milliards d'euros après effets comportementaux.",
+    "source_type": "officiel",
+    "source_title": "Plan de redressement (Nous Président !, octobre 2026)",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf#page=24",
+    "source_date": "2026-10-21",
+    "source_page": "p. 24",
+    "precision": "chiffre",
+    "cost": {
+      "label": "Rendement estimé à 18,5 Md€ par an",
+      "source_label": "Plan de redressement, annexe 1",
+      "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf#page=57"
+    },
+    "last_verified": "2026-11-09",
+    "added": "2026-11-09",
+    "indicator": {
+      "key": "taxe_zucman",
+      "value": "pour"
+    }
+  },
+  {
+    "id": "ruffin-economie-06",
+    "theme": "economie",
+    "title": "Une taxe flottante sur les carburants pour un prix prévisible à la pompe",
+    "description": "Le plan de redressement propose d'ajuster l'accise sur les carburants pour garantir un prix prévisible et légèrement progressif dans le temps (par exemple autour de 2 € le litre en 2027 jusqu'à 2,2 € en 2032), afin de limiter l'impact des prix sur le pouvoir d'achat et les finances publiques.",
+    "source_type": "officiel",
+    "source_title": "Plan de redressement (Nous Président !, octobre 2026)",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf#page=55",
+    "source_date": "2026-10-21",
+    "source_page": "p. 55",
+    "precision": "chiffre",
+    "last_verified": "2026-11-09",
+    "added": "2026-11-09"
   }
 ]

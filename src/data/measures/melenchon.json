@@ -539,15 +539,15 @@
   {
     "id": "melenchon-ecologie-02",
     "theme": "ecologie",
-    "title": "Viser une baisse de 65 % des émissions de gaz à effet de serre en 2030",
-    "description": "Le programme prévoit de relever l'objectif climatique de la France à une baisse de 65 % des émissions en 2030 (contre 50 % actuellement) et d'imposer une comptabilité carbone certifiée aux entreprises, en commençant par les secteurs les plus émetteurs.",
+    "title": "Viser une baisse de 65 % des émissions de gaz à effet de serre d'ici 2033",
+    "description": "La 5e édition du programme (novembre 2026) maintient l'objectif de réduction de 65 % des émissions de gaz à effet de serre et en fixe l'échéance à 2033 (contre 2030 dans l'édition 2025), avec un bilan annuel public incluant les émissions importées.",
     "source_type": "officiel",
-    "source_title": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
-    "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=46",
-    "source_date": "2025-02-18",
-    "source_page": "p. 90 (page PDF 46)",
+    "source_title": "L'Avenir en commun – Le programme de la Nouvelle France (5e édition), partie 1 « Pour une bifurcation écologique et sociale », chapitre 1 « Planification écologique »",
+    "source_url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre1",
+    "source_date": "2026-11-06",
+    "source_page": null,
     "precision": "chiffre",
-    "last_verified": "2026-10-16",
+    "last_verified": "2026-11-09",
     "added": "2026-10-15"
   },
   {
@@ -2031,5 +2031,47 @@
     },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
+  },
+  {
+    "id": "melenchon-europe-07",
+    "theme": "europe",
+    "title": "Modifier le TFUE et le statut de la BCE pour lui permettre d'acheter de la dette publique",
+    "description": "Le programme propose une modification du traité sur le fonctionnement de l'UE et du statut de la BCE pour lui permettre d'acheter de la dette publique sans passer par les banques privées, notamment par une autorisation de découvert des États auprès d'elle, et prévoit d'interdire à la BCE de revendre sur les marchés financiers la part de dette des États qu'elle détient.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – Le programme de la Nouvelle France (5e édition), partie 2 « Une économie au service des besoins », chapitre 3 « Un pacte productif pour répondre aux besoins »",
+    "source_url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre3",
+    "source_date": "2026-11-06",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-09",
+    "added": "2026-11-09"
+  },
+  {
+    "id": "melenchon-institutions-08",
+    "theme": "institutions",
+    "title": "Débat obligatoire à l'Assemblée pour les pétitions de plus de 500 000 signatures",
+    "description": "Le programme prévoit d'obliger l'Assemblée nationale à débattre des pétitions ayant recueilli plus de 500 000 signatures.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – Le programme de la Nouvelle France (5e édition), partie 5 « Fonder la 6e République », chapitre 1 « Le pouvoir au peuple »",
+    "source_url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+    "source_date": "2026-11-06",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-11-09",
+    "added": "2026-11-09"
+  },
+  {
+    "id": "melenchon-outre-mer-07",
+    "theme": "outre_mer",
+    "title": "Organiser l'accession de la Kanaky-Nouvelle-Calédonie à l'indépendance au 1er janvier 2028",
+    "description": "Le programme prévoit d'organiser l'accession de la Kanaky-Nouvelle-Calédonie à l'indépendance au 1er janvier 2028, par un référendum national ouvrant la voie à une consultation locale.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun – Le programme de la Nouvelle France (5e édition), partie 5 « Fonder la 6e République », chapitre 1 « Le pouvoir au peuple »",
+    "source_url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+    "source_date": "2026-11-06",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-11-09",
+    "added": "2026-11-09"
   }
 ]

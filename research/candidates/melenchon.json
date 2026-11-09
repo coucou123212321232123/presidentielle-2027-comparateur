@@ -100,12 +100,12 @@
     }
   ],
   "program": {
-    "title": "L'Avenir en commun (édition 2025)",
-    "main_url": "https://melenchon2027.fr/programme2025/livre/",
+    "title": "L'Avenir en commun – Le programme de la Nouvelle France (5e édition, 2026)",
+    "main_url": "https://melenchon2027.fr/programme/livre/",
     "format": "page_web",
-    "published_date": null,
+    "published_date": "2026-11-06",
     "status": "publie",
-    "note": "Programme de La France insoumise présenté en janvier 2025 (831 mesures, dont 143 ajoutées et 120 précisées), affiché comme programme de campagne sur melenchon2027.fr, qui le signale « en cours de réactualisation ». Les pages de chapitres du site renvoient une erreur 404 (vérifié le 16 octobre 2026) ; les mesures sont sourcées sur une archive du PDF (version du 18 février 2025). La 5e édition, annoncée sur le site de campagne avec 1 069 mesures, doit paraître le 6 novembre 2026 et être présentée le 7 novembre au Bourget (LCP). Depuis septembre 2026, le site publie des documents complémentaires : plans d'investissement productif (BTP/Logement, Automobile), plan thématique Ruralités, et un document d'orientations budgétaires pour 2027 (« Comment nous allons remettre de l'ordre dans les comptes publics », octobre 2026), qui porte notamment le SMIC proposé à 1 700 € net. Le site propose aussi le contrat de législature du Nouveau Front populaire (2024), programme de coalition antérieur. L'archive indiquée est celle du PDF, la page web n'ayant pas de capture Wayback.",
+    "note": "Cinquième édition du programme de La France insoumise (1 069 mesures dont 238 nouvelles et 118 modifiées ou précisées, selon l'article de présentation du mouvement), parue en librairie le 6 novembre 2026 et présentée lors du meeting du Bourget du 7 novembre (LCP). Le site de campagne publie le texte par chapitres (introduction, 6 parties, 23 chapitres) sur /programme/livre/ ; l'édition 2025 reste accessible sur /programme2025/livre/.",
     "thematic_links": [
       {
         "theme": "institutions",
@@ -241,7 +241,7 @@
         "page_range": "p. 1-26"
       }
     ],
-    "archive_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf"
+    "archive_url": "http://web.archive.org/web/20261108235750/https://melenchon2027.fr/programme/livre"
   },
   "sources": [
     {
@@ -293,5 +293,5 @@
       "url": "https://melenchon2027.fr/lettre-au-peuple-de-france/"
     }
   ],
-  "last_verified": "2026-10-16"
+  "last_verified": "2026-11-09"
 }

@@ -449,5 +449,25 @@
         "text": "Inflation sur un an : 3,4 % en octobre 2026 (Insee, estimation provisoire) ; émissions de gaz à effet de serre 2025 : 359,4 Mt CO₂e (Citepa, baromètre d'octobre 2026) ; personnes détenues : 90 937 au 1er octobre 2026 (ministère de la Justice)."
       }
     ]
+  },
+  {
+    "date": "2026-11-09",
+    "summary": "Mise à jour hebdomadaire des candidats : 9 changements acceptés, 4 rejetés après contre-vérification ; autres candidats sans changement.",
+    "accepted": 9,
+    "rejected": 4,
+    "changes": [
+      {
+        "candidate": "melenchon",
+        "text": "Lien principal du programme : 5e édition de « L’Avenir en commun – Le programme de la Nouvelle France » (6 novembre 2026) ; 3 mesures ajoutées (statut de la BCE, débat sur les pétitions de plus de 500 000 signatures, Kanaky-Nouvelle-Calédonie) ; objectif de baisse de 65 % des émissions désormais fixé à 2033."
+      },
+      {
+        "candidate": "ruffin",
+        "text": "Plan de redressement (21 octobre 2026) et cahier Éducation (28 octobre 2026) ajoutés aux documents du programme ; 2 mesures ajoutées (taxe de 2 % sur les patrimoines de plus de 100 M€, taxe flottante sur les carburants)."
+      },
+      {
+        "candidate": "dupont-aignan",
+        "text": "1 mesure ajoutée : SMIC à 1 600 € net par une baisse des cotisations salariales (entretien sur France 2)."
+      }
+    ]
   }
 ]
