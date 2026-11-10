@@ -72,6 +72,10 @@
       "source_label": "Contre-budget 2027 du groupe RN",
       "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
     },
+    "indicator": {
+      "key": "prix_carburants",
+      "value": "baisse_taxes"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -698,6 +702,16 @@
     "source_date": "2026-09-21",
     "source_page": null,
     "precision": "precis",
+    "indicator": [
+      {
+        "key": "zan",
+        "value": "suppression"
+      },
+      {
+        "key": "quota_sru",
+        "value": "suppression"
+      }
+    ],
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -1005,6 +1019,10 @@
       "label": "≈ 1 Md€ en 2027",
       "source_label": "Contre-budget 2027 du groupe RN",
       "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
+    },
+    "indicator": {
+      "key": "places_prison",
+      "value": "construction"
     },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
@@ -1359,6 +1377,10 @@
     "source_date": "2026-09-24",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "ukraine",
+      "value": "arret_financier"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -1373,6 +1395,10 @@
     "source_date": "2026-09-24",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "dissuasion_europe",
+      "value": "nationale"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -1737,6 +1763,10 @@
       "label": "≈ 3,5 Md€ par an",
       "source_label": "Contre-budget 2027 du groupe RN",
       "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=6"
+    },
+    "indicator": {
+      "key": "quotient_familial",
+      "value": "renforcement"
     },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"

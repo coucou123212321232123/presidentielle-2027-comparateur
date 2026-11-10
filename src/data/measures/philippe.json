@@ -271,6 +271,10 @@
     "source_date": "2026-10-14",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "stockage_eau",
+      "value": "faciliter"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },

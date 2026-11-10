@@ -207,6 +207,10 @@
       "source_label": "Livret « Le travail gagnant » (Les Républicains)",
       "source_url": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf#page=34"
     },
+    "indicator": {
+      "key": "assurance_chomage",
+      "value": "durcissement"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -521,6 +525,10 @@
     "source_date": "2026-03-03",
     "source_page": "p. 19-20",
     "precision": "precis",
+    "indicator": {
+      "key": "stockage_eau",
+      "value": "faciliter"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -563,6 +571,10 @@
     "source_date": "2026-05-28",
     "source_page": "p. 8",
     "precision": "chiffre",
+    "indicator": {
+      "key": "zan",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -609,6 +621,10 @@
     "source_date": "2026-05-28",
     "source_page": "p. 39",
     "precision": "chiffre",
+    "indicator": {
+      "key": "quota_sru",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1061,6 +1077,10 @@
     "source_date": "2026-03-01",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "dissuasion_europe",
+      "value": "nationale"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -1327,6 +1347,10 @@
       "label": "40,3 Md€ par an, compensés par 41 Md€ de dispositifs supprimés",
       "source_label": "Livret LR « Famille »",
       "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf#page=12"
+    },
+    "indicator": {
+      "key": "quotient_familial",
+      "value": "remplacement"
     },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"

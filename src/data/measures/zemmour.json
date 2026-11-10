@@ -51,7 +51,10 @@
     "source_page": "p. 2",
     "precision": "chiffre",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "prix_carburants",
+      "value": "baisse_taxes"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },

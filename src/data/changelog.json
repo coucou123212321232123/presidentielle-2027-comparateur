@@ -497,5 +497,17 @@
         "text": "Chiffrage ajouté : 10 Md€ de recettes pour le rétablissement d'un impôt sur la fortune renforcé, selon le document budgétaire de La France insoumise (octobre 2026)."
       }
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "summary": "Positions : 12 nouvelles questions clés (retenues d'eau agricoles, ZAN, prix des carburants, quota SRU, assurance chômage, places de prison, régularisation, aide à l'Ukraine, dissuasion nucléaire et Europe, Nouvelle-Calédonie, quotient familial, mandat présidentiel), avec 62 positions relevées dans les sources et contre-vérifiées ; 3 écartées faute d'être écrites telles quelles.",
+    "accepted": 62,
+    "rejected": 3,
+    "changes": [
+      {
+        "candidate": "Positions",
+        "text": "12 questions clés ajoutées ; positions tirées des mesures existantes, seulement lorsque la source l'énonce littéralement."
+      }
+    ]
   }
 ]

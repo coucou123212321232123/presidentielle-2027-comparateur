@@ -33,6 +33,10 @@
     "source_date": "2026-04-15",
     "source_page": null,
     "precision": "orientation_generale",
+    "indicator": {
+      "key": "prix_carburants",
+      "value": "aides_ciblees"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -339,6 +343,10 @@
     "source_date": "2026-08-04",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "mandat_presidentiel",
+      "value": "septennat_unique"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },

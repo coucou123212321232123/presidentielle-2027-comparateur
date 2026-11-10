@@ -307,6 +307,10 @@
       "source_label": "L'Avenir en commun – édition 2025 (programme de La France insoumise)",
       "source_url": "https://web.archive.org/web/20250603222117/https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf#page=35"
     },
+    "indicator": {
+      "key": "assurance_chomage",
+      "value": "abrogation"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -482,6 +486,10 @@
     "source_date": "2026-10-14",
     "source_page": "p. 9",
     "precision": "chiffre",
+    "indicator": {
+      "key": "prix_carburants",
+      "value": "prix_bloque"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -832,6 +840,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 58 (page PDF 30)",
     "precision": "chiffre",
+    "indicator": {
+      "key": "quota_sru",
+      "value": "hausse_30"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1157,6 +1169,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 60 (page PDF 31)",
     "precision": "precis",
+    "indicator": {
+      "key": "places_prison",
+      "value": "regulation"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1171,6 +1187,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 122 (page PDF 62)",
     "precision": "chiffre",
+    "indicator": {
+      "key": "regularisation",
+      "value": "ciblee"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1493,6 +1513,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 119 (page PDF 60)",
     "precision": "precis",
+    "indicator": {
+      "key": "ukraine",
+      "value": "cessez_le_feu"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1950,6 +1974,10 @@
     "source_date": "2025-02-18",
     "source_page": "p. 52 (page PDF 27)",
     "precision": "precis",
+    "indicator": {
+      "key": "quotient_familial",
+      "value": "remplacement"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -2076,6 +2104,10 @@
     "source_date": "2026-11-06",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "nouvelle_caledonie",
+      "value": "independance"
+    },
     "last_verified": "2026-11-09",
     "added": "2026-11-09"
   }

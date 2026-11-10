@@ -967,6 +967,10 @@
     "source_date": "2026-07",
     "source_page": "p. 170",
     "precision": "chiffre",
+    "indicator": {
+      "key": "places_prison",
+      "value": "regulation"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -995,6 +999,10 @@
     "source_date": "2026-07",
     "source_page": "p. 178",
     "precision": "precis",
+    "indicator": {
+      "key": "regularisation",
+      "value": "ciblee"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1119,10 +1127,16 @@
     "source_date": "2026-07",
     "source_page": "p. 161",
     "precision": "precis",
-    "indicator": {
-      "key": "ric",
-      "value": "oui"
-    },
+    "indicator": [
+      {
+        "key": "ric",
+        "value": "oui"
+      },
+      {
+        "key": "mandat_presidentiel",
+        "value": "septennat_unique"
+      }
+    ],
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1253,6 +1267,10 @@
     "source_date": "2026-07",
     "source_page": "p. 197",
     "precision": "chiffre",
+    "indicator": {
+      "key": "ukraine",
+      "value": "renforcement"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1519,6 +1537,10 @@
     "source_date": "2026-07",
     "source_page": "p. 153",
     "precision": "orientation_generale",
+    "indicator": {
+      "key": "nouvelle_caledonie",
+      "value": "autodetermination"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },

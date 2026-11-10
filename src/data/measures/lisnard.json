@@ -490,7 +490,10 @@
     "source_page": "p. 8",
     "precision": "chiffre",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "stockage_eau",
+      "value": "faciliter"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -548,7 +551,10 @@
     "source_page": null,
     "precision": "precis",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "quota_sru",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -564,7 +570,10 @@
     "source_page": "p. 7",
     "precision": "chiffre",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "zan",
+      "value": "decentralisation"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -844,7 +853,10 @@
     "source_page": null,
     "precision": "chiffre",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "places_prison",
+      "value": "construction"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1009,7 +1021,10 @@
     "source_page": "p. 8",
     "precision": "chiffre",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "mandat_presidentiel",
+      "value": "septennat"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -1146,6 +1161,10 @@
     "source_date": "2026-10-16",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "ukraine",
+      "value": "renforcement"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -1331,7 +1350,10 @@
     "source_page": null,
     "precision": "precis",
     "cost": null,
-    "indicator": null,
+    "indicator": {
+      "key": "quotient_familial",
+      "value": "renforcement"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },

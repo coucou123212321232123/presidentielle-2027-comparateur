@@ -98,6 +98,10 @@
     "source_date": "2026-09-19",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "prix_carburants",
+      "value": "baisse_taxes"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -534,6 +538,10 @@
     "source_date": "2026-09-30",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "zan",
+      "value": "suppression"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -763,6 +771,10 @@
     "source_date": "2025-11-01",
     "source_page": null,
     "precision": "chiffre",
+    "indicator": {
+      "key": "places_prison",
+      "value": "construction"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -1124,6 +1136,10 @@
     "source_date": "2026-09-19",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "ukraine",
+      "value": "arret"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -1347,6 +1363,10 @@
     "source_date": "2026-10-01",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "nouvelle_caledonie",
+      "value": "degel"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },

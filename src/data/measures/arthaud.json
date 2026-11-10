@@ -182,6 +182,10 @@
     "source_date": "2026-09-29",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "prix_carburants",
+      "value": "prix_bloque"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
@@ -238,6 +242,10 @@
     "source_date": "2026-07-20",
     "source_page": null,
     "precision": "precis",
+    "indicator": {
+      "key": "stockage_eau",
+      "value": "refus"
+    },
     "last_verified": "2026-10-15",
     "added": "2026-10-15"
   },
@@ -322,6 +330,10 @@
     "source_date": "2026-06-26",
     "source_page": "p. 14 (PDF p. 16)",
     "precision": "precis",
+    "indicator": {
+      "key": "regularisation",
+      "value": "tous"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-15"
   },
