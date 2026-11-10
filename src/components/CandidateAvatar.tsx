@@ -9,6 +9,10 @@ const SIZES = {
   lg: 'size-20 text-xl',
   xl: 'size-28 sm:size-32 text-3xl',
 }
+/** Largeur affichée de chaque taille, pour que le navigateur choisisse le portrait adapté (scripts/photos.ts). */
+const SIZES_ATTR = { sm: '32px', md: '48px', lg: '80px', xl: '(min-width: 640px) 128px, 112px' }
+const WIDTHS = [64, 128, 256, 384]
+const local = (id: string) => WIDTHS.map((w) => `${import.meta.env.BASE_URL}photos/${id}-${w}.webp ${w}w`).join(', ')
 
 export function CandidateAvatar({
   candidate,
@@ -21,9 +25,10 @@ export function CandidateAvatar({
   className?: string
   decorative?: boolean
 }) {
-  const [failed, setFailed] = useState(false)
+  // Portrait servi par le site, puis l'original sur Wikimedia s'il manque, puis les initiales.
+  const [attempt, setAttempt] = useState(0)
   const [loaded, setLoaded] = useState(false)
-  const photo = candidate.photo && !failed ? candidate.photo : null
+  const photo = candidate.photo && attempt < 2 ? candidate.photo : null
   const alt = decorative ? '' : `Portrait de ${fullName(candidate)}`
 
   return (
@@ -37,12 +42,15 @@ export function CandidateAvatar({
         <>
           {!loaded && <span className="absolute inset-0 animate-pulse bg-surface-2" aria-hidden="true" />}
           <img
-            src={photo.url}
+            key={attempt}
+            src={attempt === 0 ? `${import.meta.env.BASE_URL}photos/${candidate.id}-384.webp` : photo.url}
+            srcSet={attempt === 0 ? local(candidate.id) : undefined}
+            sizes={attempt === 0 ? SIZES_ATTR[size] : undefined}
             alt={alt}
             loading="lazy"
             decoding="async"
             onLoad={() => setLoaded(true)}
-            onError={() => setFailed(true)}
+            onError={() => setAttempt((a) => a + 1)}
             className={cx('size-full object-cover object-top transition-opacity duration-300', loaded ? 'opacity-100' : 'opacity-0')}
           />
         </>

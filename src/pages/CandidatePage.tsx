@@ -230,6 +230,16 @@ export default function CandidatePage() {
   const age = ageAt(candidate.birth_date, meta.last_updated)
   const covered = themes.filter((t) => summary[candidate.id]?.byTheme[t.id])
   const uncovered = themes.filter((t) => !summary[candidate.id]?.byTheme[t.id])
+  const sections = covered
+    .map((theme) => {
+      const inTheme = all ? byTheme(all, theme.id) : []
+      const filtered = apply(inTheme)
+      // La mesure recherchée reste visible même si les filtres actifs l'excluent.
+      const sought = inTheme.find((m) => m.id === target && !filtered.includes(m))
+      return { theme, list: sought ? [...filtered, sought] : filtered }
+    })
+    // Avec des filtres actifs, les thèmes sans mesure correspondante sont masqués.
+    .filter(({ list }) => !(active && all) || list.length > 0)
   const party = (partyGroups.candidates as Record<string, PartyGroup>)[candidate?.id ?? '']
   const myVotes = votes.scrutins.flatMap((s) => s.candidates.filter((p) => p.candidate === candidate.id).map((p) => ({ s, vote: p.vote })))
   const toggle = (t: ThemeId) =>
@@ -505,12 +515,10 @@ export default function CandidatePage() {
                 </button>
               </p>
             )}
-            {covered.map((t) => {
-              const inTheme = all ? byTheme(all, t.id) : []
-              const filteredList = apply(inTheme)
-              // La mesure recherchée reste visible même si les filtres actifs l'excluent.
-              const sought = inTheme.find((m) => m.id === target && !filteredList.includes(m))
-              const list = sought ? [...filteredList, sought] : filteredList
+            {active && all && sections.length === 0 && (
+              <p className="rounded-xl bg-surface-2 px-4 py-3 text-sm text-ink-2">Aucune mesure ne correspond aux filtres actifs.</p>
+            )}
+            {sections.map(({ theme: t, list }) => {
               const count = countFor(candidate.id, t.id)
               const fresh = newCount(since, candidate.id, t.id)
               return (

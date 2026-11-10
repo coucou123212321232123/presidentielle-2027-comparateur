@@ -3,7 +3,7 @@
  * champs requis, URLs de source, dates de vérification, thèmes valides, bloc `program`,
  * cohérence des indicateurs comparables. Sort en erreur (code 1) au moindre problème bloquant.
  */
-import { readFileSync, readdirSync } from 'node:fs'
+import { existsSync, readFileSync, readdirSync } from 'node:fs'
 import { join, basename } from 'node:path'
 import {
   BudgetsSchema,
@@ -137,6 +137,9 @@ let candidates: Candidate[] = []
 if (!candParsed.success) zodIssues('candidates.json', candParsed.error.issues)
 else candidates = candParsed.data
 
+// Portraits servis par le site (scripts/photos.ts) : un par photo, à jour de son URL d'origine.
+const photoSourcesPath = join(import.meta.dirname, '..', 'public', 'photos', 'sources.json')
+const photoSources: Record<string, string> = existsSync(photoSourcesPath) ? JSON.parse(readFileSync(photoSourcesPath, 'utf8')) : {}
 const ids = new Set<string>()
 for (const c of candidates) {
   if (ids.has(c.id)) errors.push(`candidates.json : id dupliqué « ${c.id} »`)
@@ -147,6 +150,7 @@ for (const c of candidates) {
   if (!p.main_url && !c.news_url) warnings.push(`${c.id} : ni programme ni page d'actualité officielle`)
   if (c.main_axes.length < 3) warnings.push(`${c.id} : ${c.main_axes.length} axe(s) principal(aux) (3 à 5 attendus)`)
   if (!c.photo) warnings.push(`${c.id} : pas de photo libre de droits (avatar à initiales utilisé)`)
+  else if (photoSources[c.id] !== c.photo.url) errors.push(`${c.id} : portrait à régénérer (photo modifiée) — lancer npm run photos`)
 }
 
 // Mesures

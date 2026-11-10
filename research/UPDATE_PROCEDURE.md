@@ -62,11 +62,12 @@ Sources interdites (non fiables ou non primaires) : `elyseescope.com`, `votons-2
 
 1. Appliquer les seuls changements acceptés (fiches dans `research/candidates/`, mesures dans `src/data/measures/`), avec `last_verified` = date du jour, et `added` = date du jour pour chaque **nouvelle** mesure (ne pas modifier `added` d'une mesure existante).
 2. Mettre à jour `meta.last_updated` et ajouter une entrée dans `src/data/changelog.json` (date, résumé neutre par candidat, nombre de changements acceptés / rejetés).
-3. Lancer, et **ne publier que si tout passe** (`fetch-votes` et `merge-vote-explanations` : voir l'étape V) :
+3. Lancer, et **ne publier que si tout passe** (`fetch-votes` et `merge-vote-explanations` : voir l'étape V ; `photos` ne télécharge que les portraits nouveaux ou modifiés, à committer avec les données) :
    ```bash
    npm run merge-research
    npm run fetch-votes
    npm run merge-vote-explanations
+   npm run photos
    npm run validate-data
    npm run check-links
    npm run export-data
