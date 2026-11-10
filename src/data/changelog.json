@@ -469,5 +469,17 @@
         "text": "1 mesure ajoutée : SMIC à 1 600 € net par une baisse des cotisations salariales (entretien sur France 2)."
       }
     ]
+  },
+  {
+    "date": "2026-11-10",
+    "summary": "Teddy Riner, candidature déclarée le 9 novembre 2026, ajouté à la liste des autres candidatures déclarées.",
+    "accepted": 1,
+    "rejected": 0,
+    "changes": [
+      {
+        "candidate": "Autres candidatures déclarées",
+        "text": "Teddy Riner (sans étiquette), candidature annoncée le 9 novembre 2026 dans une vidéo sur ses réseaux sociaux, ajouté à la liste des autres candidatures déclarées."
+      }
+    ]
   }
 ]
