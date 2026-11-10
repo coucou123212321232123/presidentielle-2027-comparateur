@@ -481,5 +481,21 @@
         "text": "Teddy Riner (sans étiquette), candidature annoncée le 9 novembre 2026 dans une vidéo sur ses réseaux sociaux, ajouté à la liste des autres candidatures déclarées."
       }
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "summary": "Fiscalité : recherche des chiffrages publiés pour les 54 mesures qui n'en avaient pas ; 3 ajoutés (Le Pen, Mélenchon) après contre-vérification, les autres sources ne donnant pas de montant pour la mesure elle-même. Le libellé « Coût estimé » devient « Chiffrage » (coût ou recette).",
+    "accepted": 3,
+    "rejected": 0,
+    "changes": [
+      {
+        "candidate": "le-pen",
+        "text": "Chiffrages ajoutés depuis le contre-budget 2027 du groupe RN : exonération d'impôt sur le revenu des jeunes actifs (2 Md€ de baisse de recettes en 2027) ; successions et donations (1,2 Md€ et 0,5 Md€)."
+      },
+      {
+        "candidate": "melenchon",
+        "text": "Chiffrage ajouté : 10 Md€ de recettes pour le rétablissement d'un impôt sur la fortune renforcé, selon le document budgétaire de La France insoumise (octobre 2026)."
+      }
+    ]
   }
 ]

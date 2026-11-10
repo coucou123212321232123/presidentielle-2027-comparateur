@@ -183,7 +183,7 @@ function TableView({ theme, selected, lists, all }: { theme: Theme; selected: Ca
                         <span className="mt-0.5 block text-xs leading-relaxed text-ink-2">
                           <Glossed text={m.description} />
                         </span>
-                        {m.cost && <span className="mt-0.5 block text-xs font-medium text-ink">Coût estimé : {m.cost.label}</span>}
+                        {m.cost && <span className="mt-0.5 block text-xs font-medium text-ink">Chiffrage : {m.cost.label}</span>}
                         <span className="mt-1 flex flex-wrap items-center gap-2">
                           <SourceTypeBadge type={m.source_type} />
                           <ExternalLink href={m.source_url} className="text-xs font-medium text-accent hover:underline">

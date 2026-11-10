@@ -103,7 +103,9 @@ export default function MethodologyPage() {
           ))}
         </ul>
         <p className="text-sm">
-          Un coût n'est affiché que s'il est publié, avec la source du chiffrage (candidat ou organisme tiers). Le positionnement sur l'axe
+          Un chiffrage (coût ou recette d'une mesure) n'est affiché que s'il est publié, avec sa source : le candidat ou son parti, un
+          organisme public (Cour des comptes, Parlement…) ou un institut de recherche indépendant (IPP, OFCE), jamais un think tank à
+          orientation politique. Aucun montant n'est calculé par le site. Le positionnement sur l'axe
           gauche-droite est indicatif et reprend le classement usuel (lien « source » sur chaque fiche).
         </p>
       </Section>

@@ -171,6 +171,11 @@
     "source_date": "2026-10-15",
     "source_page": "p. 12",
     "precision": "chiffre",
+    "cost": {
+      "label": "2 Md€ de baisse de recettes en 2027",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=12"
+    },
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
   },
@@ -185,6 +190,11 @@
     "source_date": "2026-10-15",
     "source_page": "p. 12",
     "precision": "chiffre",
+    "cost": {
+      "label": "1,2 Md€ (successions, immobilier transmis jusqu'à 300 k€) et 0,5 Md€ (donations) de baisse de recettes en 2027",
+      "source_label": "Contre-budget 2027 du groupe RN",
+      "source_url": "https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=12"
+    },
     "indicator": {
       "key": "droits_succession",
       "value": "baisse"

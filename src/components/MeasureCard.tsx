@@ -53,7 +53,7 @@ export function MeasureCard({
         <p className="mt-2.5 flex items-start gap-1.5 rounded-lg bg-surface-2 px-2.5 py-1.5 text-xs text-ink-2">
           <Coins className="mt-0.5 size-3.5 shrink-0" aria-hidden="true" />
           <span>
-            <span className="font-semibold text-ink">Coût estimé : {measure.cost.label}</span>
+            <span className="font-semibold text-ink">Chiffrage : {measure.cost.label}</span>
             {' · '}
             {measure.cost.source_url ? (
               <ExternalLink href={measure.cost.source_url} className="underline decoration-line underline-offset-2 hover:text-ink" icon={false}>

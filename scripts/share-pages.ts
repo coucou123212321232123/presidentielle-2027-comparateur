@@ -99,7 +99,7 @@ function contextList(t: Theme) {
 }
 function measureItem(m: Measure) {
   const date = m.source_date ? `, ${shortDate(m.source_date)}` : ''
-  const cost = m.cost ? ` <small>Coût annoncé : ${esc(m.cost.label)}.</small>` : ''
+  const cost = m.cost ? ` <small>Chiffrage : ${esc(m.cost.label)}.</small>` : ''
   return `<li><strong>${esc(m.title)}</strong> — ${esc(m.description)}${cost} <small>Source : ${ext(m.source_url, m.source_title)}${esc(date)}</small></li>`
 }
 
