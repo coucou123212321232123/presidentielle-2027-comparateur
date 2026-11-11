@@ -930,6 +930,15 @@
       "short_title": "Organisation et financement du sport professionnel",
       "theme": "culture",
       "context": "Proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel. Vote sur le texte élaboré par la commission mixte paritaire (députés et sénateurs), en fin de navette parlementaire."
+    },
+    {
+      "legislature": 17,
+      "numero": 9759,
+      "date": "2026-11-04",
+      "match": "premi[èe]re partie du projet de loi de finances pour 2027",
+      "short_title": "Budget de l'État 2027 : rejet de la partie recettes",
+      "theme": "economie",
+      "context": "Vote sur la première partie (recettes) du projet de loi de finances pour 2027, déposé par le gouvernement. Vote en première lecture à l'Assemblée."
     }
   ]
 }

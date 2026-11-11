@@ -509,5 +509,17 @@
         "text": "12 questions clés ajoutées ; positions tirées des mesures existantes, seulement lorsque la source l'énonce littéralement."
       }
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "summary": "Votes à l'Assemblée : un nouveau grand texte voté depuis le 29 octobre 2026, ajouté avec son explication sourcée.",
+    "accepted": 1,
+    "rejected": 0,
+    "changes": [
+      {
+        "candidate": "Votes à l'Assemblée",
+        "text": "Budget de l'État 2027 : rejet de la partie recettes (scrutin du 2026-11-04) : ajouté, explication ajoutée"
+      }
+    ]
   }
 ]

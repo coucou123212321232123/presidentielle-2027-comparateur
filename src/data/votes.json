@@ -1,8 +1,192 @@
 {
-  "generated_at": "2026-11-04T05:10:10.304Z",
+  "generated_at": "2026-11-11T05:20:49.822Z",
   "source_label": "Assemblée nationale – données ouvertes (scrutins, députés et groupes)",
   "source_url": "https://data.assemblee-nationale.fr/",
   "scrutins": [
+    {
+      "id": "l17-9759",
+      "legislature": 17,
+      "numero": 9759,
+      "date": "2026-11-04",
+      "short_title": "Budget de l'État 2027 : rejet de la partie recettes",
+      "theme": "economie",
+      "context": "Vote sur la première partie (recettes) du projet de loi de finances pour 2027, déposé par le gouvernement. Vote en première lecture à l'Assemblée.",
+      "official_title": "La première partie du projet de loi de finances pour 2027 (première lecture).",
+      "vote_type": "scrutin public solennel",
+      "censure": false,
+      "result": "rejete",
+      "majority_required": 230,
+      "totals": {
+        "pour": 0,
+        "contre": 458,
+        "abstention": 2,
+        "non_votant": 1
+      },
+      "groups": [
+        {
+          "ref": "PO845413",
+          "short": "LFI-NFP",
+          "label": "La France insoumise - Nouveau Front Populaire",
+          "color": "#C00D0D",
+          "members": 70,
+          "pour": 0,
+          "contre": 68,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 2
+        },
+        {
+          "ref": "PO845514",
+          "short": "GDR",
+          "label": "Gauche Démocrate et Républicaine",
+          "color": "#830E21",
+          "members": 17,
+          "pour": 0,
+          "contre": 15,
+          "abstention": 2,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845439",
+          "short": "ECOS",
+          "label": "Écologiste et Social",
+          "color": "#77AA79",
+          "members": 38,
+          "pour": 0,
+          "contre": 27,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 11
+        },
+        {
+          "ref": "PO845419",
+          "short": "SOC",
+          "label": "Socialistes et apparentés",
+          "color": "#F5B4CE",
+          "members": 68,
+          "pour": 0,
+          "contre": 27,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 41
+        },
+        {
+          "ref": "PO845485",
+          "short": "LIOT",
+          "label": "Libertés, Indépendants, Outre-mer et Territoires",
+          "color": "#FFD96F",
+          "members": 24,
+          "pour": 0,
+          "contre": 20,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 4
+        },
+        {
+          "ref": "PO845454",
+          "short": "DEM",
+          "label": "Les Démocrates",
+          "color": "#F07E26",
+          "members": 37,
+          "pour": 0,
+          "contre": 27,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 10
+        },
+        {
+          "ref": "PO845407",
+          "short": "EPR",
+          "label": "Ensemble pour la République",
+          "color": "#7B4591",
+          "members": 90,
+          "pour": 0,
+          "contre": 63,
+          "abstention": 0,
+          "non_votant": 1,
+          "absent": 26
+        },
+        {
+          "ref": "PO845470",
+          "short": "HOR",
+          "label": "Horizons & Indépendants",
+          "color": "#B5E2F9",
+          "members": 35,
+          "pour": 0,
+          "contre": 35,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 0
+        },
+        {
+          "ref": "PO845425",
+          "short": "DR",
+          "label": "Droite Républicaine",
+          "color": "#8CB0DC",
+          "members": 46,
+          "pour": 0,
+          "contre": 38,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 8
+        },
+        {
+          "ref": "PO872880",
+          "short": "UDR",
+          "label": "Union des droites pour la République",
+          "color": "#3367A7",
+          "members": 17,
+          "pour": 0,
+          "contre": 14,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 3
+        },
+        {
+          "ref": "PO845401",
+          "short": "RN",
+          "label": "Rassemblement National",
+          "color": "#313567",
+          "members": 121,
+          "pour": 0,
+          "contre": 117,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 4
+        },
+        {
+          "ref": "PO840056",
+          "short": "NI",
+          "label": "Non inscrit",
+          "color": "#8D949A",
+          "members": 11,
+          "pour": 0,
+          "contre": 7,
+          "abstention": 0,
+          "non_votant": 0,
+          "absent": 4
+        }
+      ],
+      "candidates": [
+        {
+          "candidate": "attal",
+          "group": "EPR",
+          "vote": "contre"
+        },
+        {
+          "candidate": "le-pen",
+          "group": "RN",
+          "vote": "contre"
+        },
+        {
+          "candidate": "ruffin",
+          "group": "ECOS",
+          "vote": "absent"
+        }
+      ],
+      "source_url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759"
+    },
     {
       "id": "l17-8705",
       "legislature": 17,
@@ -133,7 +317,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -317,7 +501,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -501,7 +685,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -685,7 +869,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -869,7 +1053,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -1053,7 +1237,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -1237,7 +1421,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -1421,7 +1605,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -1605,7 +1789,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -1789,7 +1973,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -1973,7 +2157,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -2157,7 +2341,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -2341,7 +2525,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -2525,7 +2709,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -2709,7 +2893,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -2893,7 +3077,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -3077,7 +3261,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -3261,7 +3445,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -3445,7 +3629,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -3629,7 +3813,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -3813,7 +3997,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -3997,7 +4181,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -4181,7 +4365,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -4365,7 +4549,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -4549,7 +4733,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -4733,7 +4917,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -4917,7 +5101,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -5101,7 +5285,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 17,
@@ -5285,7 +5469,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 16,
@@ -5469,7 +5653,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 16,
@@ -5653,7 +5837,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 16,
@@ -5837,7 +6021,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 16,
@@ -6021,7 +6205,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 16,
@@ -6205,7 +6389,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 16,
@@ -6389,7 +6573,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 16,
@@ -6573,7 +6757,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 16,
@@ -6757,7 +6941,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 16,
@@ -6941,7 +7125,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 16,
@@ -7125,7 +7309,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 16,
@@ -7309,7 +7493,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 16,
@@ -7493,7 +7677,7 @@
         },
         {
           "ref": "PO872880",
-          "short": "UDDPLR",
+          "short": "UDR",
           "label": "Union des droites pour la République",
           "color": "#3367A7",
           "members": 15,

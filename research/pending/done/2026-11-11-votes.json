@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-11",
+  "routine": "votes",
+  "reperage": {
+    "commande": "npm run votes-candidates (index régénéré par fetch-votes le 2026-11-11, après reprise du téléchargement AMO30 interrompu)",
+    "scrutins_listes": 1,
+    "dernier_scrutin_indexe": "2026-11-04",
+    "ajoutes": [
+      "l17-9759 : première partie du PLF 2027, rejetée (0 pour, 458 contre) — rejet, étape décisive au sens de V.1"
+    ],
+    "ecartes": []
+  },
+  "explications": {
+    "lot": "research/votes/explications/2026-11-11.json",
+    "traitees": [
+      "l17-9759"
+    ],
+    "acceptees": [
+      "l17-9759 : résumé + 3 arguments contre (LFI-NFP, DR, RN) ; citations alignées mot pour mot sur la source LCP, verbes « dénonce »/« reproche » reformulés"
+    ],
+    "rejets": [
+      "l17-9759 : phrase sur l'impossibilité d'examiner la partie dépenses et la saisine du Sénat sur le texte initial retirée (une seule source médiatique, ni officielle ni deux médias indépendants)"
+    ],
+    "sans_resultat": [
+      "l17-9759 camp abstention (GDR) : aucune source"
+    ],
+    "reste_semaine_suivante": [
+      "l17-9759 : suites (transmission au Sénat) à sourcer officiellement ; explication SOC disponible dans la source LCP (non ajoutée, plafond de 3)",
+      "l17-4758 camp contre",
+      "l16-1588 autres groupes du camp pour",
+      "l17-7905 GDR (contre)"
+    ]
+  },
+  "correction_donnees": "Les données ouvertes donnent désormais le sigle « UDR » au groupe PO872880 (Union des droites pour la République), auparavant « UDDPLR » : 33 listes de groupes des lots d'explications alignées sur ce sigle pour que validate-data passe (même organe, même libellé)."
+}

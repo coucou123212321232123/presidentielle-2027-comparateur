@@ -12,7 +12,7 @@
             "EPR",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -28,7 +28,7 @@
             "EPR",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -95,7 +95,7 @@
             "DEM",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -153,7 +153,7 @@
             "DEM",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -164,7 +164,7 @@
         {
           "groups": [
             "RN",
-            "UDDPLR",
+            "UDR",
             "DR"
           ],
           "text": "Pour le RN, la suppression des ZFE marque la fin d'une « écologie punitive » et d'un symbole d'exclusion sociale ; Laurent Wauquiez (DR) a évoqué un vote pour « libérer les Français ».",
@@ -224,7 +224,7 @@
             "EPR",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -341,7 +341,7 @@
             "EPR",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -552,7 +552,7 @@
             "LIOT",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -649,7 +649,7 @@
         {
           "groups": [
             "RN",
-            "UDDPLR"
+            "UDR"
           ],
           "text": "Le RN a fait valoir qu'une large majorité de Français souhaitait le départ du gouvernement et a appelé Emmanuel Macron à dissoudre l'Assemblée nationale.",
           "source_label": "LCP – Vote de confiance : le RN et la gauche annoncent qu'ils voteront contre",

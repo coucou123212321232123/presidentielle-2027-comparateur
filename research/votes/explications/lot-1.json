@@ -14,7 +14,7 @@
             "EPR",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -32,7 +32,7 @@
             "EPR",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -101,7 +101,7 @@
             "EPR",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -163,7 +163,7 @@
             "SOC",
             "ECOS",
             "GDR",
-            "UDDPLR",
+            "UDR",
             "NI"
           ],
           "text": "Pour ses défenseurs, dont la rapporteure Laure Miller (EPR), l'interdiction répond à un enjeu de santé mentale des jeunes, en s'appuyant sur les travaux de la commission d'enquête sur les effets psychologiques de TikTok.",
@@ -239,7 +239,7 @@
             "EPR",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -305,7 +305,7 @@
         {
           "groups": [
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "EPR",
             "DEM",
@@ -369,7 +369,7 @@
             "LIOT",
             "SOC",
             "GDR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -386,7 +386,7 @@
             "LIOT",
             "SOC",
             "GDR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -464,7 +464,7 @@
         {
           "groups": [
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "HOR",
             "NI"
@@ -476,7 +476,7 @@
         {
           "groups": [
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "HOR",
             "NI"
@@ -524,7 +524,7 @@
             "EPR",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -583,7 +583,7 @@
             "EPR",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -642,7 +642,7 @@
             "DEM",
             "DR",
             "LIOT",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -657,7 +657,7 @@
             "DEM",
             "DR",
             "LIOT",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -736,7 +736,7 @@
         {
           "groups": [
             "RN",
-            "UDDPLR",
+            "UDR",
             "DR",
             "NI"
           ],
@@ -776,7 +776,7 @@
             "DR",
             "LIOT",
             "GDR",
-            "UDDPLR",
+            "UDR",
             "NI"
           ],
           "text": "Pour ses défenseurs, dont la rapporteure Marie-Noëlle Battistel (SOC), le blocage lié aux contentieux européens a conduit à suspendre ou reporter de nombreux projets de modernisation et d'extension des barrages.",
@@ -792,7 +792,7 @@
             "DR",
             "LIOT",
             "GDR",
-            "UDDPLR",
+            "UDR",
             "NI"
           ],
           "text": "Ses partisans ont fait valoir que le texte solde les contentieux avec la Commission européenne tout en maintenant la propriété publique des ouvrages hydroélectriques.",
@@ -852,7 +852,7 @@
             "DEM",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -866,7 +866,7 @@
             "DEM",
             "HOR",
             "DR",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -928,7 +928,7 @@
             "HOR",
             "DR",
             "LIOT",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
@@ -943,7 +943,7 @@
             "HOR",
             "DR",
             "LIOT",
-            "UDDPLR",
+            "UDR",
             "RN",
             "NI"
           ],
