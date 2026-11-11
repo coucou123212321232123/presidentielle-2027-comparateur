@@ -1,25 +1,27 @@
 {
   "since": "2026-11-09",
-  "generated": "2026-11-10",
+  "generated": "2026-11-11",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
   "candidates": {
     "arthaud": {
       "changed_pages": [
         {
           "url": "https://www.nathalie-arthaud.info",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 3,
+          "changed_at": "2026-11-11",
+          "removed_blocks": 5,
           "added": [
             "La jeunesse mobilisée depuis des semaines et les centaines de milliers de travailleurs venus renforcer les rangs des manifestations, jeudi 5 novembre, mettent le gouvernement sous pression. Mais que propose-t-il pour le pouvoir d’achat ? Une provocation de plus ! Le smic, indexé sur l’inflation, devait automatiquement passer de 1477 euros à 1494 euros au 1er janvier 2027.",
             "L'éditorial en vidéo : Pouvoir d'achat : il faut augmenter tous les salaires !",
-            "Pouvoir d’achat : il faut augmenter tous les salaires !"
+            "Pouvoir d’achat : il faut augmenter tous les salaires !",
+            "Pour de véritables augmentations des salaires"
           ]
         },
         {
           "url": "https://www.lutte-ouvriere.org/portail/index.html",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 8,
+          "changed_at": "2026-11-11",
+          "removed_blocks": 11,
           "added": [
+            "Le gouvernement voudrait faire croire que c’est un effort considérable que de porter le Smic à 1 502 euros net, contre 1 478 euros aujourd'hui. Ce n'est pas avec 24 euros de plus que ceux qui peinent à joindre les deux bouts vont s'en sortir ! Et pour ceux qui gagnent à peine plus que le Smic, rien n'est prévu, à part que leur salaire va se rapprocher encore du minimum légal.",
             "La jeunesse mobilisée depuis des semaines et les centaines de milliers de travailleurs venus renforcer les rangs des manifestations, jeudi 5 novembre, mettent le gouvernement sous pression. Mais que propose-t-il pour le pouvoir d’achat ? Une provocation de plus ! Le smic, indexé sur l’inflation, devait automatiquement passer de 1477 euros à 1494 euros au 1er janvier 2027.",
             "Dans ce secteur, les salariés sont dispersés sur différents sites, chez différents clients et dans des équipes qui ne se connaissent pas. Les entreprises les mettent en concurrence, les missions se succèdent et les collègues disparaissent parfois du jour au lendemain, licenciés ou poussés vers la sortie.",
             "Le gouvernement veut économiser 250 millions d'euros sur l'allocation personnalisée d'autonomie (APA), qui finance notamment les aides à domicile des personnes âgées dépendantes. Il envisage, pour cela, d'augmenter la somme restant à leur charge.",
@@ -28,12 +30,20 @@
             "Limoges : Les travailleurs de l’informatique commencent à s’organiser !",
             "Mélenchon : Pour tout changer, les travailleurs devront s’imposer",
             "Pouvoir d’achat : il faut augmenter tous les salaires !",
-            "Violences policières : Les coups et les mensonges"
+            "A69 : l'argent public au service des profits privés",
+            "Violences policières : Les coups et les mensonges",
+            "Pour de véritables augmentations des salaires"
           ]
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=15",
           "changed_at": "2026-11-10",
+          "removed_blocks": 1,
+          "added": []
+        },
+        {
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=20",
+          "changed_at": "2026-11-11",
           "removed_blocks": 1,
           "added": []
         },
@@ -50,11 +60,14 @@
       "changed_pages": [
         {
           "url": "https://attalpresident.fr/",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-11",
+          "removed_blocks": 5,
           "added": [
+            "Deux cents milliards d euros pour l intelligence artificielle et l innovation d ici dix ans, à parts égales entre financement public et privé.",
             "Garantir le remplacement des professeurs absents en donnant aux établissements l autonomie d organiser eux-mêmes la continuité des cours.",
-            "Durcir les exigences de revenus, de logement et de durée de résidence pour demander le regroupement familial."
+            "Un accompagnement financier direct pour les professionnels dont le métier impose un véhicule, plutôt qu une baisse de taxe générale.",
+            "Durcir les exigences de revenus, de logement et de durée de résidence pour demander le regroupement familial.",
+            "Ouvrir la comparution immédiate aux mineurs récidivistes, pour que la sanction suive l acte."
           ]
         }
       ],
@@ -63,39 +76,65 @@
     "dupont-aignan": {
       "changed_pages": [
         {
-          "url": "https://www.dupontaignan.fr/",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 20,
+          "url": "https://www.dupontaignan.fr/actualite/",
+          "changed_at": "2026-11-11",
+          "removed_blocks": 2,
           "added": [
+            "Pour pouvoir résoudre nos problèmes, sortons de l UE ! · LCI, 08/11/2026",
+            "Nicolas Dupont-Aignan rend hommage au général De Gaulle · 09/11/2026"
+          ]
+        },
+        {
+          "url": "https://www.dupontaignan.fr/",
+          "changed_at": "2026-11-11",
+          "removed_blocks": 41,
+          "added": [
+            "+5,8 % au 1er décembre, après +6,6 % en novembre, +6,3 % en octobre et +5,6 % en septembre. Soit une hausse de +42,6% depuis le 1er janvier 2025. La seule solution pour réduire le prix du gaz est de lever les sanctions contre la Russie afin de pouvoir importer son gaz QUATRE fois moins cher que le GNL américain. ... Voir plus Voir moins",
+            "Une adjointe au maire, élue LR, aurait été violemment agressée devant un établissement scolaire. Aspergée d’essence, frappée à la poitrine, elle dépose plainte pour tentative de meurtre. Quand des élus ne peuvent même plus exercer leurs fonctions sans risquer leur vie, c’est toute l’autorité de la République qui est piétinée.",
             "Au moment où la France est menacée dans son existence même, ce géant de notre histoire nous inspire et nous donne la force de rétablir notre indépendance nationale et notre souveraineté populaire. La survie, le redressement et le rayonnement de la France en dépendent. ... Voir plus Voir moins",
             "Au moment où la France est menacée dans son existence même, ce géant de notre histoire nous inspire et nous donne la force de rétablir notre indépendance nationale et notre souveraineté populaire. La survie, le redressement et le rayonnement de la France en dépendent.",
+            "Quel que soit l’immense talent sportif de Teddy Riner, qui a fait vibrer les Français aux Jeux olympiques, il suffit de lire son interview dans Le Parisien ce matin pour comprendre qu’il est le nouveau faux nez du macronisme agonisant.",
+            "On imagine déjà le calcul : un champion populaire pour tenter de redorer le blason d’un pouvoir à bout de souffle. Comme si les Français allaient confondre une médaille d’or avec un bilan présidentiel !",
             "« Il faut prévoir un déménagement. Je ne peux plus me déplacer toute seule, j’ai peur dans la rue. » Témoignage glaçant de Louise, menacée de mort avec sa famille depuis des semaines.",
+            "Teddy Riner a trop de qualités pour se laisser instrumentaliser. Qu’il garde ses médailles, le macronisme n’est pas un combat qui mérite d’être disputé ! 🥋 ... Voir plus Voir moins",
             "Le plus bel hommage que nous puissions rendre au général de Gaulle, c’est de nous battre sans relâche pour rétablir l’indépendance de notre pays ! 🇫🇷 ... Voir plus Voir moins",
             "Les Français ne seront pas dupes des miettes octroyées par un pouvoir finissant. Comment vivre avec 1 501,90 € net par mois, quand les seuls prix de l’énergie ont explosé ?",
+            "Décidément, l’Élysée ne manque pas d’imagination : après avoir épuisé le stock de recyclage politique, voilà qu’il semble vouloir recruter jusque sur les tatamis !",
+            "Ses propos sont tout simplement sidérants. S’en prendre ainsi à une jeune femme qui témoigne de menaces de mort est absolument indigne. ... Voir plus Voir moins",
             "Je propose un SMIC à 1 600 € net par mois, accompagné d’une baisse proportionnelle des cotisations salariales pour ne pas pénaliser les entreprises françaises.",
             "Voir les commentaires Like reaction Love reaction Haha reaction Wow reaction Sad reaction Angry reaction Reactions: 205 Partages : 50 Commentaires : 14",
             "Le plus bel hommage que nous puissions rendre au général de Gaulle, c’est de nous battre sans relâche pour rétablir l’indépendance de notre pays ! 🇫🇷",
             "Comme chaque année, la même émotion et le même sentiment de devoir envers celui qui a consacré sa vie à défendre la souveraineté de la France.",
             "Aujourd’hui, en France, dès que l’on défend des idées qui sortent de la norme imposée par l’extrême gauche, on s’expose à des menaces atroces.",
             "Voir les commentaires Like reaction Love reaction Haha reaction Sad reaction Angry reaction Reactions: 429 Partages : 104 Commentaires : 19",
+            "Courage à Louise Montangon, menacée de mort, qui doit désormais faire face à l’insupportable agressivité et sectarisme d’Alexis Corbière !",
             "Pendant ce temps, les Occitans qui paient leurs impôts attendent des crèches, des EHPAD, des routes entretenues et davantage de sécurité.",
             "Voir les commentaires Like reaction Haha reaction Wow reaction Sad reaction Angry reaction Reactions: 134 Partages : 25 Commentaires : 7",
             "700 000 € de plus pour l’accueil des « populations exilées » en Occitanie. Près de 9 millions d’euros déjà dépensés depuis 2017.",
             "À Auch, un policier voit son domicile partir en fumée. Derrière cet incendie criminel, il y a toute une famille menacée de mort.",
-            "Ceux qui consacrent leur vie à protéger les Français ne devraient jamais avoir à craindre pour eux-mêmes et leurs proches.",
-            "Bien sûr, pour compenser cette baisse des cotisations, il faut s’attaquer aux gaspillages délirants.",
-            "La solidarité a des limites. La Région doit d’abord répondre aux besoins de ceux qui la financent.",
-            "Je présenterai à la presse, jeudi 12 novembre, mon projet économique et financier.",
-            "SOIT L’ÉTAT DÉFEND VITE ET FORT LES SIENS, SOIT LA FRANCE DEVIENDRA UNE JUNGLE !",
-            "Leur « Nouvelle France » est un nouveau totalitarisme. ... Voir plus Voir moins",
-            "Ce n’est plus tolérable ! Ces individus doivent être poursuivis sans relâche.",
-            "La gestion de l’argent public exige des comptes et des priorités claires.",
-            "Ému comme chaque année de rendre hommage au général de Gaulle.",
-            "Vidéo YouTube VVVmQTVEbkNEWDNJeHk1UU9BTUd0QmxBLnJCU3RzUTByQW9r"
+            "Voir les commentaires Like reaction Wow reaction Sad reaction Angry reaction Reactions: 129 Partages : 39 Commentaires : 27",
+            "Ceux qui consacrent leur vie à protéger les Français ne devraient jamais avoir à craindre pour eux-mêmes et leurs proches."
+          ]
+        },
+        {
+          "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+          "changed_at": "2026-11-11",
+          "removed_blocks": 1,
+          "added": [
+            "Augmenter le SMIC à 1600 euros net (98 euros supplémentaires) en compensant cette hausse par une baisse proportionnelle des cotisations salariales pour ne pas pénaliser les entreprises. Cette réduction sera dégressive afin d’éviter les effets de seuil et concernera 2,5 millions de salariés."
           ]
         }
       ],
-      "new_pages": []
+      "new_pages": [
+        {
+          "url": "https://www.dupontaignan.fr/actualite/pour-pouvoir-resoudre-nos-problemes-sortons-de-lue-%c2%b7-lci-08-11-2026/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/actualite/nicolas-dupont-aignan-rend-hommage-au-general-de-gaulle-%c2%b7-09-11-2026/",
+          "first_seen": "2026-11-11"
+        }
+      ]
     },
     "glucksmann": {
       "changed_pages": [],
@@ -123,28 +162,90 @@
       "changed_pages": [
         {
           "url": "https://www.unenouvelleenergie.fr/notre-programme/",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-11",
+          "removed_blocks": 2,
           "added": [
-            "Prochains rendez-vous : Grand Baie, Guérande, San Francisco et Saint-Grégoire"
+            "Prochains rendez-vous : Grand Baie, Guérande, San Francisco et Saint-Grégoire",
+            "Prochains rendez-vous : Dubaï, Londres, Clermont-Ferrand et Pessac"
           ]
         },
         {
           "url": "https://www.unenouvelleenergie.fr/",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 7,
+          "changed_at": "2026-11-11",
+          "removed_blocks": 17,
           "added": [
+            "ET SI NOUS DONNIONS ENSEMBLE UN NOUVEL ÉLAN À LA FRANCE ? La France a besoin d idées nouvelles, de courage, d énergie et surtout d une véritable volonté de changement. Avec Nouvelle Énergie, nous faisons le choix de l engagement, de la liberté, de la responsabilité et de l action. Nous vous invitons à venir échanger, débattre et partager nos convictions à l occasion d une réunion publique à Pessac",
+            "L équipe Nouvelle Énergie Royaume-Uni vous invite à un afterwork à Londres, l occasion d échanger sur le projet et l actualité de David Lisnard. Mercredi 11 novembre, 18h (heure de Londres) The Burlington Arms, 21 Old Burlington Street, Londres Pas d inscription nécessaire. Nous serons à l entrée ou au 1er étage. Infos et contact : uk.nouvelleenergie@gmail.com",
             "Victor Roulet, relais Nouvelle Énergie Ille-et-Vilaine, vous invite à une réunion publique : l actualité du mouvement, ce qui se prépare en Ille-et-Vilaine et une formation tractage et collage. Mardi 10 novembre, de 18h15 à 20h00, à Saint-Grégoire Grappa, La Boutière, 35760 Saint-Grégoire",
+            "Laurent Salles, relais Nouvelle Énergie Puy-de-Dôme, vous invite à un afterwork. Jeudi 12 novembre, 18h30, à Clermont-Ferrand The Still Irish Pub, 7 boulevard Léon Malfrety Infos et contact : puydedome@unenouvelleenergie.fr",
             "Thibault Ravier, référent Nouvelle Énergie La Baule, Guérande, Pornichet, vous invite à une réunion publique à Guérande. Mardi 10 novembre, 18h, à Guérande Bar Bikini, 7 Leniphen",
+            "Nouvelle Énergie vous invite à un afterwork à Dubaï. Mercredi 11 novembre, 19h (heure de Dubaï) Garden on 8, Media One, Al Sufouh 2, Dubai Media City, Dubaï",
             "Nouvelle Énergie Français de l étranger vous invite à un happy hour à San Francisco, le mardi 10 novembre à 18h (heure locale).",
             "La Boulangerie de San Francisco, San Francisco, CA (États-Unis)",
+            "AFTERWORK NOUVELLE ÉNERGIE PUY-DE-DÔME : CLERMONT-FERRAND",
             "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE 35 : SAINT-GRÉGOIRE",
+            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE GIRONDE : PESSAC",
+            "The Still Irish Pub, CLERMONT-FERRAND, PUY-DE-DÔME",
+            "Orangerie du château Cazalet, PESSAC, GIRONDE",
             "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE - GUÉRANDE",
-            "HAPPY HOUR NOUVELLE ENERGIE À SAN FRANCISCO"
+            "HAPPY HOUR NOUVELLE ENERGIE À SAN FRANCISCO",
+            "The Burlington Arms, LONDRES, ROYAUME-UNI"
           ]
         }
       ],
       "new_pages": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-loiret-orleans/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/apero-debat-nouvelle-energie-bois-colombes/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-rueil-malmaison/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/rencontre-dedicaces-avec-romain-marsily-remiremont/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/beaujolais-jeunes-energies-var-toulon/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-du-nord-nouvelle-energie-bondues/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-du-bas-rhin-nouvelle-energie-brumath/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-du-bas-rhin-nouvelle-energie-saverne/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-du-bas-rhin-nouvelle-energie-soultz-sous-forets/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-du-bas-rhin-nouvelle-energie-obernai/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-du-bas-rhin-nouvelle-energie-strasbourg/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-du-bas-rhin-nouvelle-energie-strasbourg-robertsau/",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-hong-kong-24-novembre/",
+          "first_seen": "2026-11-11"
+        },
         {
           "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-pas-de-calais-arques/",
           "first_seen": "2026-11-10"
@@ -171,12 +272,13 @@
       "changed_pages": [
         {
           "url": "https://lafranceinsoumise.fr/actualites/",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 3,
+          "changed_at": "2026-11-11",
+          "removed_blocks": 8,
           "added": [
             "Mise au point sur la position de la France insoumise et son candidat sur la guerre en Ukraine",
             "Ce 11 novembre, RDV pour un discours sur la paix de Jean-Luc Mélenchon, à La Souterraine !",
             "Désignation des chef·fes de file - Élections législatives 2027",
+            "Justice et Vérité pour Michel Zecler et Olivio Gomes",
             "Charte des élections de la France insoumise"
           ]
         }
@@ -209,6 +311,18 @@
       ],
       "new_pages": [
         {
+          "url": "https://marinetondelier.fr/blog/l-europe-qu-il-nous-faut",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://marinetondelier.fr/blog/recherche-fondamentale-souverainet-intellectuelle",
+          "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://marinetondelier.fr/journal-de-campagne/pour-une-culture-vivante",
+          "first_seen": "2026-11-11"
+        },
+        {
           "url": "https://marinetondelier.fr/journal-de-campagne/ecologistes-par-nature",
           "first_seen": "2026-11-10"
         },
@@ -218,12 +332,31 @@
         }
       ]
     },
+    "villepin": {
+      "changed_pages": [
+        {
+          "url": "https://lafrancehumaniste.fr/",
+          "changed_at": "2026-11-11",
+          "removed_blocks": 0,
+          "added": [
+            "Fondée le 17 juin 2025 par Dominique de Villepin , ancien Premier ministre et ancien ministre des Affaires étrangères, La France Humaniste (LFH) rassemble celles et ceux qui veulent remettre l’humain au cœur de l’action publique.",
+            "Le mouvement prépare le Projet France 2027 , publie les chroniques de Dominique de Villepin et s’organise partout en France en Cercles Humanistes .",
+            "Dominique de Villepin Son parcours, du Quai d’Orsay à Matignon, et son engagement",
+            "Projet France 2027 Le programme, dont les 20 propositions économiques",
+            "Cercles Humanistes Rejoindre ou créer un cercle près de chez vous",
+            "La France Humaniste, le mouvement de Dominique de Villepin",
+            "Chroniques Ses textes et tribunes, classés par sujet"
+          ]
+        }
+      ],
+      "new_pages": []
+    },
     "zemmour": {
       "changed_pages": [
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-11",
+          "removed_blocks": 2,
           "added": []
         },
         {
@@ -234,48 +367,80 @@
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/sante.pdf",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-11",
+          "removed_blocks": 2,
           "added": []
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/mercosur.pdf",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-11",
+          "removed_blocks": 2,
           "added": []
         },
         {
           "url": "https://www.parti-reconquete.fr/#actualites",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-11",
+          "removed_blocks": 16,
           "added": [
+            "La gauche parle d’une « Nouvelle France » depuis la Révolution, mais elle oublie toujours de dire que cette « Nouvelle France » se fait sur le dos de l’ancienne. Danton disait des aristocrates, qu’il envoyait à la guillotine, qu’ils étaient innocents, mais qu’ils gênaient l’avenir. Aujourd’hui, pour la gauche de Mélenchon, ce sont les Français qui gênent l’avenir. C’est pourquoi je dis aux…",
+            "Les syndicats ne sont pas assez ambitieux ! Leur hausse du SMIC ne profiterait qu’à 5 % des salariés. Ce que nous proposons, c’est 10 fois plus que ce qu’ils proposent. C’est une hausse de salaire collective de 10 %. En supprimant la CSG d’activité, c’est l’Etat qui porte l’effort en baissant ses dépenses et tout le monde sera augmenté : salariés au SMIC, comme tous les autres salariés…",
+            "Cela fait à peu près 40 procédures contre moi en quelques années, et j’ai été relaxé 30 fois en 10 ans. Je n’ai volé personne et je n’ai pas détourné d’argent public. On me poursuit pour un délit d’opinion, au nom d’une loi liberticide que j’abolirai si je suis président.",
+            "Hier, à Limoges, vous avez été nombreux à venir me confier vos inquiétudes, mais surtout vos espoirs, notamment après avoir lu Le Casse du siècle. Tous vos témoignages me donnent encore plus envie de me battre pour vous. Merci !",
+            "Je vous invite, dès maintenant, à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon. ✅ Inscrivez-vous : https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
+            "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme. Je l’ai lu. C’est catastrophique. Je vous explique tout. ⤴️",
+            "Le peuple français n’est pas condamné à être malheureux. Nous allons lui rendre sa liberté, sa joie de vivre et son génie créatif.",
+            "Je vous invite à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon.",
             "Bien arrivée à Limoges ! Vous êtes plus de 800 ce soir à ma dédicace. Merci pour tout !",
+            "« Ces voyous paieront jusqu’à la fin de leur vie les dégâts qu’ils ont occasionnés. »",
+            "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme !",
             "Nous ne sommes pas des extrémistes. Nous voulons sauver notre pays. 🇫🇷",
             "Je ne veux pas ralentir la chute, mais changer de direction ! 🇫🇷💶",
+            "La mesure de Reconquête! pour la hausse de tous les salaires ! 💶",
             "Quand on entend « gratuit », ce sont les Français qui payent !",
             "On ne peut pas aimer son pays et vouloir la guerre civile.",
+            "🇫🇷 Je suis candidat à l’élection présidentielle de 2027:",
             "Vous avez été endoctrinée, comme beaucoup en France !",
-            "Il faut supprimer le ministère des sports ! 🏀"
+            "Il faut supprimer le ministère des sports ! 🏀",
+            "Notre avenir sera français. 👉 ericzemmour.fr",
+            "Je suis candidat à l’élection présidentielle.",
+            "À tout de suite sur TF1 avec @ericzemmour_ !",
+            "Notre avenir sera français.👉 ericzemmour.fr"
           ]
         },
         {
           "url": "https://www.parti-reconquete.fr/",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-11",
+          "removed_blocks": 16,
           "added": [
+            "La gauche parle d’une « Nouvelle France » depuis la Révolution, mais elle oublie toujours de dire que cette « Nouvelle France » se fait sur le dos de l’ancienne. Danton disait des aristocrates, qu’il envoyait à la guillotine, qu’ils étaient innocents, mais qu’ils gênaient l’avenir. Aujourd’hui, pour la gauche de Mélenchon, ce sont les Français qui gênent l’avenir. C’est pourquoi je dis aux…",
+            "Les syndicats ne sont pas assez ambitieux ! Leur hausse du SMIC ne profiterait qu’à 5 % des salariés. Ce que nous proposons, c’est 10 fois plus que ce qu’ils proposent. C’est une hausse de salaire collective de 10 %. En supprimant la CSG d’activité, c’est l’Etat qui porte l’effort en baissant ses dépenses et tout le monde sera augmenté : salariés au SMIC, comme tous les autres salariés…",
+            "Cela fait à peu près 40 procédures contre moi en quelques années, et j’ai été relaxé 30 fois en 10 ans. Je n’ai volé personne et je n’ai pas détourné d’argent public. On me poursuit pour un délit d’opinion, au nom d’une loi liberticide que j’abolirai si je suis président.",
+            "Hier, à Limoges, vous avez été nombreux à venir me confier vos inquiétudes, mais surtout vos espoirs, notamment après avoir lu Le Casse du siècle. Tous vos témoignages me donnent encore plus envie de me battre pour vous. Merci !",
+            "Je vous invite, dès maintenant, à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon. ✅ Inscrivez-vous : https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
+            "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme. Je l’ai lu. C’est catastrophique. Je vous explique tout. ⤴️",
+            "Le peuple français n’est pas condamné à être malheureux. Nous allons lui rendre sa liberté, sa joie de vivre et son génie créatif.",
+            "Je vous invite à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon.",
             "Bien arrivée à Limoges ! Vous êtes plus de 800 ce soir à ma dédicace. Merci pour tout !",
+            "« Ces voyous paieront jusqu’à la fin de leur vie les dégâts qu’ils ont occasionnés. »",
+            "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme !",
             "Nous ne sommes pas des extrémistes. Nous voulons sauver notre pays. 🇫🇷",
             "Je ne veux pas ralentir la chute, mais changer de direction ! 🇫🇷💶",
+            "La mesure de Reconquête! pour la hausse de tous les salaires ! 💶",
             "Quand on entend « gratuit », ce sont les Français qui payent !",
             "On ne peut pas aimer son pays et vouloir la guerre civile.",
+            "🇫🇷 Je suis candidat à l’élection présidentielle de 2027:",
             "Vous avez été endoctrinée, comme beaucoup en France !",
-            "Il faut supprimer le ministère des sports ! 🏀"
+            "Il faut supprimer le ministère des sports ! 🏀",
+            "Notre avenir sera français. 👉 ericzemmour.fr",
+            "Je suis candidat à l’élection présidentielle.",
+            "À tout de suite sur TF1 avec @ericzemmour_ !",
+            "Notre avenir sera français.👉 ericzemmour.fr"
           ]
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/programme-pour-la-france.pdf",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-11",
+          "removed_blocks": 2,
           "added": []
         }
       ],
