@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { CalendarDays, Clock, Info, PenLine, Radio, Trophy, Tv } from 'lucide-react'
+import { CalendarDays, Clock, Info, Mic, PenLine, Radio, Trophy, Tv } from 'lucide-react'
 import { candidateById, candidates } from '../data'
 import { calendar, daysUntil, formatDuration, nextEvent, parrainages, results, speakingTime } from '../data/elections'
 import type { RoundResult } from '../data/schema'
@@ -227,6 +227,90 @@ function Debates() {
   )
 }
 
+const INTERVIEW_KINDS = { jt: 'Journal de 20 h', hebdo: 'Émission politique hebdomadaire', speciale: 'Émission spéciale' }
+
+function Interviews() {
+  const [who, setWho] = useState<string | null>(null)
+  const all = calendar.interviews.slice().reverse()
+  const shown = who ? all.filter((i) => i.candidate === who) : all
+  const present = candidates.filter((c) => all.some((i) => i.candidate === c.id))
+  return (
+    <section aria-labelledby="entretiens" className="mb-12">
+      <h2 id="entretiens" className="mb-2 flex items-center gap-2 font-display text-2xl font-semibold text-ink">
+        <Mic className="size-5 text-muted" aria-hidden="true" /> Grands entretiens
+      </h2>
+      <p className="mb-4 max-w-3xl text-sm leading-relaxed text-ink-2">
+        Les entretiens d'un candidat au journal de 20 h de TF1 ou de France 2, dans une grande émission politique hebdomadaire d'une
+        chaîne ou d'une radio nationale, ou dans une émission spéciale en première partie de soirée. Les autres passages (matinales,
+        interviews courtes) ne sont pas listés : leur volume d'ensemble est mesuré par le{' '}
+        <a href="#temps-de-parole" className="text-accent hover:underline">
+          temps de parole
+        </a>{' '}
+        relevé par l'Arcom.
+      </p>
+      {all.length === 0 ? (
+        <Card className="flex items-start gap-3 p-4 text-sm text-ink-2">
+          <Info className="mt-0.5 size-4 shrink-0 text-muted" aria-hidden="true" />
+          <p>Aucun grand entretien relevé pour l'instant.</p>
+        </Card>
+      ) : (
+        <>
+          <div className="mb-4 flex flex-wrap gap-1.5" role="group" aria-label="Filtrer par candidat">
+            <Chip active={who === null} onClick={() => setWho(null)}>
+              Tous
+            </Chip>
+            {present.map((c) => (
+              <Chip key={c.id} active={who === c.id} onClick={() => setWho(who === c.id ? null : c.id)}>
+                {c.last_name}
+              </Chip>
+            ))}
+          </div>
+          <ul className="space-y-3">
+            {shown.map((i) => {
+              const c = candidateById[i.candidate]
+              return (
+                <li key={`${i.date}-${i.candidate}-${i.programme}`}>
+                  <Card className={cx('flex gap-4 p-3 sm:p-4', daysUntil(i.date) < 0 && 'opacity-90')}>
+                    <DateBlock iso={i.date} muted={daysUntil(i.date) < 0} />
+                    <div className="min-w-0 flex-1">
+                      <p className="text-xs font-medium text-muted">
+                        {i.channels.join(' · ')}
+                        {i.time && ` · ${i.time.replace(':', ' h ')}`} · {INTERVIEW_KINDS[i.kind]}
+                      </p>
+                      <p className="mt-1 flex flex-wrap items-center gap-2 font-semibold text-ink">
+                        {c && (
+                          <Link to={`/candidats/${c.id}`} className="inline-flex items-center gap-1.5 hover:underline">
+                            <CandidateAvatar candidate={c} size="sm" decorative />
+                            {fullName(c)}
+                          </Link>
+                        )}
+                        {i.programme !== INTERVIEW_KINDS[i.kind] && (
+                          <span className="font-normal text-ink-2">· {i.programme}</span>
+                        )}
+                      </p>
+                      {i.topics && <p className="mt-1.5 text-sm text-ink-2">Sujets abordés : {i.topics.join(', ')}.</p>}
+                      <p className="mt-1 flex flex-wrap gap-x-4 text-xs">
+                        {i.replay_url && (
+                          <ExternalLink href={i.replay_url} className="font-medium text-accent hover:underline">
+                            Revoir l'entretien
+                          </ExternalLink>
+                        )}
+                        <ExternalLink href={i.source_url} className="text-muted hover:text-ink">
+                          Source : {i.source_label}
+                        </ExternalLink>
+                      </p>
+                    </div>
+                  </Card>
+                </li>
+              )
+            })}
+          </ul>
+        </>
+      )}
+    </section>
+  )
+}
+
 function Parrainages() {
   const p = parrainages
   const list = p.candidates.slice().sort((a, b) => a.name.localeCompare(b.name, 'fr'))
@@ -442,7 +526,7 @@ export default function ElectionPage() {
   return (
     <div>
       <PageHeader eyebrow="L'élection" title={calendar.election}>
-        Les dates officielles, les débats télévisés, l'avancée des parrainages et le temps de parole des candidats, d'après les sources officielles et mis à jour
+        Les dates officielles, les débats télévisés, les grands entretiens, l'avancée des parrainages et le temps de parole des candidats, d'après les sources officielles et mis à jour
         automatiquement.
       </PageHeader>
       {results.rounds.some((r) => r.status !== 'a_venir') && <Results />}
@@ -450,6 +534,7 @@ export default function ElectionPage() {
       <Timeline />
       {results.rounds.every((r) => r.status === 'a_venir') && <Results />}
       <Debates />
+      <Interviews />
       <Parrainages />
       <SpeakingTime />
     </div>

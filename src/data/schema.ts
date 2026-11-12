@@ -338,6 +338,29 @@ export const CalendarSchema = z.object({
   )
     // Absent des paquets de données publiés avant l'ajout des débats.
     .default([]),
+  /**
+   * Grands entretiens d'un candidat, sur une liste fermée d'émissions identique pour tous (journal de 20 h de TF1 ou
+   * France 2, grande émission politique hebdomadaire, émission spéciale en première partie de soirée), dans l'ordre
+   * chronologique.
+   */
+  interviews: z
+    .array(
+      z.object({
+        date: isoDate,
+        time: z.string().regex(/^\d{2}:\d{2}$/).optional(),
+        candidate: z.string(),
+        programme: z.string().min(1),
+        channels: z.array(z.string().min(1)).min(1),
+        kind: z.enum(['jt', 'hebdo', 'speciale']),
+        /** Sujets abordés, seulement s'ils sont écrits dans la source. */
+        topics: z.array(z.string().min(1)).max(4).optional(),
+        source_label: z.string().min(1),
+        source_url: httpUrl,
+        replay_url: httpUrl.optional(),
+      }),
+    )
+    // Absent des paquets de données publiés avant l'ajout des entretiens.
+    .default([]),
 })
 
 /** Parrainages publiés par le Conseil constitutionnel (src/data/parrainages.json, écrit par scripts/fetch-parrainages.ts). */

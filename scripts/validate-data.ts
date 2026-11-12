@@ -100,6 +100,10 @@ else {
   const known = new Set((readJson(join(DATA, 'candidates.json')) as Candidate[]).map((c) => c.id))
   for (const d of calendarParsed.data.debates)
     for (const id of d.participants ?? []) if (!known.has(id)) errors.push(`calendar.json › débat du ${d.date} : candidat inconnu « ${id} »`)
+  const interviewDates = calendarParsed.data.interviews.map((i) => i.date)
+  if (interviewDates.some((d, i) => i > 0 && d < interviewDates[i - 1])) errors.push('calendar.json : les entretiens doivent être dans l’ordre chronologique')
+  for (const i of calendarParsed.data.interviews)
+    if (!known.has(i.candidate)) errors.push(`calendar.json › entretien du ${i.date} : candidat inconnu « ${i.candidate} »`)
 }
 const parrainagesParsed = ParrainagesSchema.safeParse(readJson(join(DATA, 'parrainages.json')))
 if (!parrainagesParsed.success) zodIssues('parrainages.json', parrainagesParsed.error.issues)

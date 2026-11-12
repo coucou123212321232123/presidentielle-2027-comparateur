@@ -156,5 +156,82 @@
       "source_label": "La Libre – LCI annonce un débat entre cinq candidats de la présidentielle (22/10/2026)",
       "source_url": "https://www.lalibre.be/international/europe/2026/10/22/presidentielle-francaise-un-debat-entre-cinq-candidats-annonce-sur-lci-avec-deux-absences-de-marque-DZYG4GAPJZD67NH45TWF5SPKGY/"
     }
+  ],
+  "interviews": [
+    {
+      "date": "2026-10-28",
+      "candidate": "attal",
+      "programme": "Journal de 20 h",
+      "channels": [
+        "TF1"
+      ],
+      "kind": "jt",
+      "topics": [
+        "Grande primaire des démocrates",
+        "Éviter un second tour RN-LFI"
+      ],
+      "source_label": "LCP – Présidentielle 2027 : Gabriel Attal veut une « grande primaire des démocrates » pour éviter un second tour RN-LFI",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-veut-une-grande-primaire-des-democrates-pour-eviter-un"
+    },
+    {
+      "date": "2026-11-01",
+      "candidate": "philippe",
+      "programme": "Journal de 20 h",
+      "channels": [
+        "TF1"
+      ],
+      "kind": "jt",
+      "topics": [
+        "Primaire du centre et de la droite",
+        "Violences lors des manifestations du 17 octobre",
+        "Immigration et intégration"
+      ],
+      "source_label": "Ozap – Furieux contre TF1, Jean-Luc Mélenchon annule sa venue au 20 Heures ce soir",
+      "source_url": "https://www.ozap.com/actu/furieux-contre-tf1-jean-luc-melenchon-annule-sa-venue-au-20-heures-ce-soir/657784"
+    },
+    {
+      "date": "2026-11-08",
+      "candidate": "glucksmann",
+      "programme": "Le grand oral 2027",
+      "channels": [
+        "BFMTV"
+      ],
+      "kind": "hebdo",
+      "source_label": "RMC+ – Le grand oral 2027 : Invité : Raphaël Glucksmann",
+      "source_url": "https://www.rmcplus.fr/video/episode/invite-raphael-glucksmann-1020926916647"
+    },
+    {
+      "date": "2026-11-09",
+      "candidate": "tondelier",
+      "programme": "Journal de 20 h",
+      "channels": [
+        "TF1"
+      ],
+      "kind": "jt",
+      "topics": [
+        "SMIC",
+        "Prix des carburants",
+        "Maintien de sa candidature",
+        "Ouverture à une coalition plus large"
+      ],
+      "source_label": "Toutelatele (Ouest-France) – Marine Tondelier sur TF1 : les audiences s'effondrent",
+      "source_url": "https://toutelatele.ouest-france.fr/marine-tondelier-sur-tf1-les-audiences-s-effondrent-191295"
+    },
+    {
+      "date": "2026-11-10",
+      "candidate": "zemmour",
+      "programme": "Journal de 20 h",
+      "channels": [
+        "TF1"
+      ],
+      "kind": "jt",
+      "topics": [
+        "Confirmation de sa candidature",
+        "« Immigration négative »",
+        "Redressement des finances publiques"
+      ],
+      "source_label": "Quartz (édition française) – Éric Zemmour confirme sa candidature à la présidentielle 2027",
+      "source_url": "https://fr.qz.com/eric-zemmour-confirme-candidature-presidentielle-2027-tf1-111026"
+    }
   ]
 }
