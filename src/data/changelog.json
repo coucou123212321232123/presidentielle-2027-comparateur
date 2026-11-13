@@ -528,5 +528,17 @@
     "accepted": 5,
     "rejected": 0,
     "changes": []
+  },
+  {
+    "date": "2026-11-13",
+    "summary": "Chiffres de contexte : chômage du 3e trimestre 2026 (Insee).",
+    "accepted": 2,
+    "rejected": 0,
+    "changes": [
+      {
+        "candidate": "Chiffres de contexte",
+        "text": "Taux de chômage : 8,2 % au 3e trimestre 2026 (Insee) ; chômage des 15-24 ans : 21,0 %."
+      }
+    ]
   }
 ]

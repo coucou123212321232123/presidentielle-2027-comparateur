@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-13",
+  "routine": "election-contexte-chiffrages",
+  "results": "Étape R non applicable avant le 2027-04-18.",
+  "changes": [
+    {
+      "id": "ctx-chomage",
+      "kind": "update_context",
+      "file": "src/data/context.json",
+      "theme": "emploi",
+      "label": "Taux de chômage",
+      "old": {
+        "value": "8,3 %",
+        "date": "2026-08-07"
+      },
+      "data": {
+        "label": "Taux de chômage",
+        "value": "8,2 %",
+        "detail": "3e trimestre 2026, soit 2,6 millions de personnes ; +0,4 point sur un an.",
+        "date": "2026-11-10",
+        "source_label": "Insee – Chômage au sens du BIT, 3e trimestre 2026",
+        "source_url": "https://www.insee.fr/fr/statistiques/9118603"
+      },
+      "evidence": [
+        {
+          "url": "https://www.insee.fr/fr/statistiques/9118603",
+          "excerpt": "s'établit à 8,2 % de la population active"
+        },
+        {
+          "url": "https://www.insee.fr/fr/statistiques/9118603",
+          "excerpt": "à 2,6 millions de personnes"
+        },
+        {
+          "url": "https://www.insee.fr/fr/statistiques/9118603",
+          "excerpt": "Paru le 10/11/2026"
+        }
+      ],
+      "reason": "Nouvelle publication trimestrielle (T3 2026) de la même source.",
+      "decision": "accepte_avec_correction",
+      "correction": "detail : « 2,6 millions » au lieu de « environ 2,6 millions » (formulation de la source)"
+    },
+    {
+      "id": "ctx-chomage-jeunes",
+      "kind": "update_context",
+      "file": "src/data/context.json",
+      "theme": "emploi",
+      "label": "Chômage des 15-24 ans",
+      "old": {
+        "value": "21,6 %",
+        "date": "2026-08-07"
+      },
+      "data": {
+        "label": "Chômage des 15-24 ans",
+        "value": "21,0 %",
+        "detail": "3e trimestre 2026.",
+        "date": "2026-11-10",
+        "source_label": "Insee – Chômage au sens du BIT, 3e trimestre 2026",
+        "source_url": "https://www.insee.fr/fr/statistiques/9118603"
+      },
+      "evidence": [
+        {
+          "url": "https://www.insee.fr/fr/statistiques/9118603",
+          "excerpt": "diminue pour les 15-24 ans (-0,5 point, à 21,0 %)"
+        }
+      ],
+      "reason": "Nouvelle publication trimestrielle (T3 2026) de la même source.",
+      "decision": "accepte"
+    }
+  ],
+  "hatvp": {
+    "result": "aucun changement",
+    "detail": "liste.csv téléchargée le 2026-11-13 : 9 candidats avec page (attal, bertrand, dupont-aignan, glucksmann, le-pen, lisnard, philippe, retailleau, ruffin), mêmes identifiants et mêmes qualités ; 9 fiches répondent HTTP 200. Aucune page pour arthaud, melenchon, roussel, tondelier, villepin, zemmour. Type « president » : seulement Emmanuel Macron (2022) ; pas de déclarations de candidats à la présidentielle 2027."
+  },
+  "calendar": {
+    "result": "aucun changement",
+    "detail": "Aucun décret de convocation ni date officielle d'ouverture des parrainages ou de la campagne trouvés sur source officielle ; dates existantes inchangées."
+  },
+  "parrainages": {
+    "result": "aucun changement",
+    "detail": "Pas de page 2027 ni de CSV des parrainages sur conseil-constitutionnel.fr ; source.json inchangé ; fetch-parrainages non lancé (csv_url null)."
+  },
+  "debates": {
+    "result": "aucun ajout",
+    "detail": "Recherches groupées pour les 15 candidats : aucun nouveau débat annoncé depuis le 2026-11-06. Débat LCI du 16/11/2026 toujours annoncé, invités inchangés (Stéphane Larue 22/10, CB News 29/10). Projet de débat Philippe-Retailleau évoqué par LCP non confirmé : non retenu."
+  },
+  "context_not_proposed": "SMIC : revalorisation de +1,6 % au 1er décembre 2026 annoncée (conférence sociale du 9/11), non proposée : pas encore en vigueur, page info.gouv.fr non ouverte (403), pas de texte au JO relevé ; à revoir. Inflation : résultats définitifs d'octobre annoncés pour le 13/11 à 8h45, non encore publiés au moment de la collecte. Dette (T2), détenus (1er octobre) : pas de valeur plus récente. PIB, PO/déficit, RTE, DREES, fécondité : non revérifiés cette semaine.",
+  "independent": {
+    "result": "aucun changement",
+    "detail": "Institut Montaigne (annoncé T1 2027) reconfirmé. Comparateur iFRAP = compilation, non retenu. OFCE, IPP, Fipeco, Terra Nova, Molinari, Rexecode, Cour des comptes : aucune annonce trouvée (recherche non exhaustive). Fondation Jean-Jaurès : enquêtes d'opinion seulement."
+  },
+  "verification": "Contre-vérification par un sous-agent distinct : 2 acceptés (1 avec correction), 0 rejeté."
+}

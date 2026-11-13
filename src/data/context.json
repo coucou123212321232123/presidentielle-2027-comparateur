@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-06",
+  "checked": "2026-11-13",
   "themes": {
     "economie": [
       { "label": "Dette publique", "value": "119,0 % du PIB", "detail": "3 595,5 Md€ fin juin 2026.", "date": "2026-09-29", "source_label": "Insee – Dette trimestrielle de Maastricht, 2e trimestre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9053525" },
@@ -12,8 +12,8 @@
       { "label": "Déficit public", "value": "5,1 % du PIB", "detail": "152,5 Md€ en 2025, après 5,8 % en 2024.", "date": "2026-03-26", "source_label": "Insee – Comptes nationaux des administrations publiques, année 2025", "source_url": "https://www.insee.fr/fr/statistiques/8956575" }
     ],
     "emploi": [
-      { "label": "Taux de chômage", "value": "8,3 %", "detail": "2e trimestre 2026, soit environ 2,7 millions de personnes ; le plus haut niveau depuis 2020.", "date": "2026-08-07", "source_label": "Insee – Chômage au sens du BIT, 2e trimestre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9032359" },
-      { "label": "Chômage des 15-24 ans", "value": "21,6 %", "detail": "2e trimestre 2026.", "date": "2026-08-07", "source_label": "Insee – Chômage au sens du BIT, 2e trimestre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9032359" }
+      { "label": "Taux de chômage", "value": "8,2 %", "detail": "3e trimestre 2026, soit 2,6 millions de personnes ; +0,4 point sur un an.", "date": "2026-11-10", "source_label": "Insee – Chômage au sens du BIT, 3e trimestre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9118603" },
+      { "label": "Chômage des 15-24 ans", "value": "21,0 %", "detail": "3e trimestre 2026.", "date": "2026-11-10", "source_label": "Insee – Chômage au sens du BIT, 3e trimestre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9118603" }
     ],
     "retraites": [
       { "label": "Âge légal de départ", "value": "62 ans et 9 mois", "detail": "Pour les personnes nées entre 1963 et mars 1965 : la loi de financement de la Sécurité sociale pour 2026 a suspendu le relèvement prévu par la réforme de 2023. L'âge légal atteint 64 ans à partir de la génération 1969.", "date": "2026-03-05", "source_label": "Assurance retraite – Circulaire Cnav 2026-07 sur l'âge légal et la durée d'assurance", "source_url": "https://legislation.lassuranceretraite.fr/Pdf/circulaire_cnav_2026_07_05032026.pdf" },
