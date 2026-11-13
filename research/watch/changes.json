@@ -1,30 +1,32 @@
 {
   "since": "2026-11-09",
-  "generated": "2026-11-12",
+  "generated": "2026-11-13",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
   "candidates": {
     "arthaud": {
       "changed_pages": [
         {
           "url": "https://www.nathalie-arthaud.info",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 7,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 8,
           "added": [
             "La jeunesse mobilisée depuis des semaines et les centaines de milliers de travailleurs venus renforcer les rangs des manifestations, jeudi 5 novembre, mettent le gouvernement sous pression. Mais que propose-t-il pour le pouvoir d’achat ? Une provocation de plus ! Le smic, indexé sur l’inflation, devait automatiquement passer de 1477 euros à 1494 euros au 1er janvier 2027.",
             "L'éditorial en vidéo : Pouvoir d'achat : il faut augmenter tous les salaires !",
             "Pouvoir d’achat : il faut augmenter tous les salaires !",
             "Mobilisation des lycéens, étudiants et travailleurs",
-            "Pour de véritables augmentations des salaires"
+            "Pour de véritables augmentations des salaires",
+            "Elisabeth FAUCON le 11 Novembre à Gentioux"
           ]
         },
         {
           "url": "https://www.lutte-ouvriere.org/portail/index.html",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 27,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 32,
           "added": [
             "Le gouvernement voudrait faire croire que c’est un effort considérable que de porter le Smic à 1 502 euros net, contre 1 478 euros aujourd'hui. Ce n'est pas avec 24 euros de plus que ceux qui peinent à joindre les deux bouts vont s'en sortir ! Et pour ceux qui gagnent à peine plus que le Smic, rien n'est prévu, à part que leur salaire va se rapprocher encore du minimum légal.",
             "La jeunesse mobilisée depuis des semaines et les centaines de milliers de travailleurs venus renforcer les rangs des manifestations, jeudi 5 novembre, mettent le gouvernement sous pression. Mais que propose-t-il pour le pouvoir d’achat ? Une provocation de plus ! Le smic, indexé sur l’inflation, devait automatiquement passer de 1477 euros à 1494 euros au 1er janvier 2027.",
             "Dans ce secteur, les salariés sont dispersés sur différents sites, chez différents clients et dans des équipes qui ne se connaissent pas. Les entreprises les mettent en concurrence, les missions se succèdent et les collègues disparaissent parfois du jour au lendemain, licenciés ou poussés vers la sortie.",
+            "En Arabie saoudite, Esther Wanja Muthoni, une Kényane travaillant comme domestique, mère célibataire de cinq enfants, a été condamnée à recevoir prochainement cent coups de fouet. Son crime est d’avoir accouché de son dernier fils en dehors du mariage.",
             "Le gouvernement veut économiser 250 millions d'euros sur l'allocation personnalisée d'autonomie (APA), qui finance notamment les aides à domicile des personnes âgées dépendantes. Il envisage, pour cela, d'augmenter la somme restant à leur charge.",
             "« Nous sommes des noyés » a déclaré une habitante de Gaza, au beau milieu des inondations déclenchées le 6 novembre par le cumul des pluies incessantes et des vents violents de ce début d’un quatrième hiver de détresse.",
             "Le projet d’implantation d’un nouveau data center à Cauffry- Rantigny, dans l’Oise, négocié dans le secret le plus total, a soulevé depuis sa publication l’hostilité et l’indignation de toute une …",
@@ -45,14 +47,13 @@
             "Mobilisation des lycéens, étudiants et travailleurs",
             "Mélenchon au Bourget : les urnes pour seul horizon",
             "Violences policières : Les coups et les mensonges",
-            "Bangladesh : les travailleurs du textile en grève",
-            "Pour de véritables augmentations des salaires"
+            "Bangladesh : les travailleurs du textile en grève"
           ]
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=15",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 3,
           "added": []
         },
         {
@@ -69,8 +70,8 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=10",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 3,
           "added": []
         }
       ],
@@ -80,14 +81,34 @@
       "changed_pages": [
         {
           "url": "https://attalpresident.fr/",
-          "changed_at": "2026-11-12",
+          "changed_at": "2026-11-13",
           "removed_blocks": 77,
           "added": [
+            "Ce dimanche 8 novembre, Gabriel Attal était à Saint-Raphaël, dans le Var, pour participer à la 9e édition des Rencontres de l’avenir, où il a été reçu par Nicolas Bouzou, président de l’événement. À l’occasion d’un échange consacré aux grands défis de notre pays, il est revenu sur ses priorités pour 2027 : l’éducation, la jeunesse, l’autorité, le pouvoir d’achat, les finances publiques et l’intell",
+            "Refuser le déclin, débloquer la société, garantir que chaque génération vive mieux que la précédente. Voici les engagements concrets qui structurent la campagne, et les dettes à résorber que nous devons assumer pour rendre cet avenir possible.",
+            "Quelques minutes pour partager vos priorités pour la France de 2027. Vos réponses alimentent directement le programme de Gabriel Attal. Chaque contribution compte.",
             "Deux cents milliards d euros pour l intelligence artificielle et l innovation d ici dix ans, à parts égales entre financement public et privé.",
             "Garantir le remplacement des professeurs absents en donnant aux établissements l autonomie d organiser eux-mêmes la continuité des cours.",
             "Un accompagnement financier direct pour les professionnels dont le métier impose un véhicule, plutôt qu une baisse de taxe générale.",
+            "Un accompagnement financier direct pour les professionnels dont le métier impose un véhicule, plutôt qu une baisse de taxe générale.",
+            "Gabriel Attal aux Rencontres de l’avenir à Saint-Raphaël : « La France doit redevenir la première puissance d’Europe en dix ans »",
+            "Le travail doit payer. Le travail doit permettre de vivre, pas seulement de survivre. Notre combat : faire monter les salaires.",
+            "Dans votre département, des femmes et des hommes font campagne à mes côtés. L annuaire les nomme, territoire par territoire.",
+            "Refuser le déclin, débloquer la société. Les engagements concrets qui structurent la campagne, et les dettes à résorber.",
+            "Quelques minutes pour partager vos priorités pour la France de 2027. Vos réponses alimentent directement le programme.",
+            "Gabriel Attal appelle à une primaire pour construire un grand rassemblement face au risque d’un second tour RN/LFI",
+            "Gabriel Attal reçu chez Mistral AI par Arthur Mensch pour échanger sur les enjeux de l’intelligence artificielle",
             "Durcir les exigences de revenus, de logement et de durée de résidence pour demander le regroupement familial.",
-            "Ouvrir la comparution immédiate aux mineurs récidivistes, pour que la sanction suive l acte."
+            "Instaurer une journée référendaire par an pour que les Français tranchent les grandes orientations du pays",
+            "Gabriel Attal appelle au rassemblement pour éviter un second tour RN/LFI et défend une hausse des salaires",
+            "Gabriel Attal présente sa vision économique pour libérer, innover et renforcer l’indépendance de la France",
+            "Une amende forfaitaire dès le premier acte de maltraitance animale constaté, sans attendre la récidive.",
+            "Harcèlement scolaire : Gabriel Attal donne la parole à huit jeunes victimes et réaffirme son engagement",
+            "Celles et ceux qui font campagne à mes côtés, sur le terrain, dans les médias et dans le débat public.",
+            "Gens du voyage : des amendes majorées et des saisies des véhicules en cas d’occupation illégale",
+            "Gabriel Attal : « C’est la responsabilité de ma génération de faire les États-Unis d’Europe »",
+            "Ouvrir la comparution immédiate aux mineurs récidivistes, pour que la sanction suive l acte.",
+            "Gabriel Attal appelle à une grande primaire pour rassembler les démocrates face aux extrêmes"
           ]
         },
         {
@@ -102,12 +123,21 @@
       ],
       "new_pages": []
     },
+    "bertrand": {
+      "changed_pages": [],
+      "new_pages": [
+        {
+          "url": "https://www.nousfrance.fr/je-reponds-present/",
+          "first_seen": "2026-11-13"
+        }
+      ]
+    },
     "dupont-aignan": {
       "changed_pages": [
         {
           "url": "https://www.dupontaignan.fr/actualite/",
-          "changed_at": "2026-11-11",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 3,
           "added": [
             "Pour pouvoir résoudre nos problèmes, sortons de l UE ! · LCI, 08/11/2026",
             "Nicolas Dupont-Aignan rend hommage au général De Gaulle · 09/11/2026"
@@ -115,8 +145,8 @@
         },
         {
           "url": "https://www.dupontaignan.fr/",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 65,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 102,
           "added": [
             "+5,8 % au 1er décembre, après +6,6 % en novembre, +6,3 % en octobre et +5,6 % en septembre. Soit une hausse de +42,6% depuis le 1er janvier 2025. La seule solution pour réduire le prix du gaz est de lever les sanctions contre la Russie afin de pouvoir importer son gaz QUATRE fois moins cher que le GNL américain. ... Voir plus Voir moins",
             "Une adjointe au maire, élue LR, aurait été violemment agressée devant un établissement scolaire. Aspergée d’essence, frappée à la poitrine, elle dépose plainte pour tentative de meurtre. Quand des élus ne peuvent même plus exercer leurs fonctions sans risquer leur vie, c’est toute l’autorité de la République qui est piétinée.",
@@ -126,8 +156,10 @@
             "Quel que soit l’immense talent sportif de Teddy Riner, qui a fait vibrer les Français aux Jeux olympiques, il suffit de lire son interview dans Le Parisien ce matin pour comprendre qu’il est le nouveau faux nez du macronisme agonisant.",
             "Produire français, relocaliser nos emplois et retrouver notre souveraineté industrielle en se libérant de l’Union européenne : voilà les priorités de mon projet présidentiel 2027 ! ... Voir plus Voir moins",
             "On imagine déjà le calcul : un champion populaire pour tenter de redorer le blason d’un pouvoir à bout de souffle. Comme si les Français allaient confondre une médaille d’or avec un bilan présidentiel !",
+            "🇫🇷 Quel plaisir d’échanger au Salon du Made in France avec ces entrepreneurs, artisans et industriels qui se battent chaque jour pour produire en France et tiennent notre économie à bout de bras !",
             "« Il faut prévoir un déménagement. Je ne peux plus me déplacer toute seule, j’ai peur dans la rue. » Témoignage glaçant de Louise, menacée de mort avec sa famille depuis des semaines.",
             "Teddy Riner a trop de qualités pour se laisser instrumentaliser. Qu’il garde ses médailles, le macronisme n’est pas un combat qui mérite d’être disputé ! 🥋 ... Voir plus Voir moins",
+            "Pour y parvenir, la PREMIÈRE ET PRINCIPALE CONDITION est de doper la production en France, mais aussi d’oser un protectionnisme intelligent et de remettre en place un État stratège.",
             "Produire français, relocaliser nos emplois et retrouver notre souveraineté industrielle en se libérant de l’Union européenne : voilà les priorités de mon projet présidentiel 2027 !",
             "Le plus bel hommage que nous puissions rendre au général de Gaulle, c’est de nous battre sans relâche pour rétablir l’indépendance de notre pays ! 🇫🇷 ... Voir plus Voir moins",
             "Les Français ne seront pas dupes des miettes octroyées par un pouvoir finissant. Comment vivre avec 1 501,90 € net par mois, quand les seuls prix de l’énergie ont explosé ?",
@@ -140,17 +172,18 @@
             "Voir les commentaires Like reaction Love reaction Haha reaction Wow reaction Sad reaction Angry reaction Reactions: 205 Partages : 50 Commentaires : 14",
             "Le plus bel hommage que nous puissions rendre au général de Gaulle, c’est de nous battre sans relâche pour rétablir l’indépendance de notre pays ! 🇫🇷",
             "En se lavant les mains de son sort, Emmanuel Macron et son gouvernement font preuve d’une complaisance insupportable à l’égard du régime algérien.",
-            "Comme chaque année, la même émotion et le même sentiment de devoir envers celui qui a consacré sa vie à défendre la souveraineté de la France.",
-            "Aujourd’hui, en France, dès que l’on défend des idées qui sortent de la norme imposée par l’extrême gauche, on s’expose à des menaces atroces.",
-            "Voir les commentaires Like reaction Love reaction Haha reaction Sad reaction Angry reaction Reactions: 429 Partages : 104 Commentaires : 19"
+            "Notre pays regorge de talents et d’initiatives… je veux les libérer grâce à mon projet économique présidentiel structuré autour de 3 grands axes👇"
           ]
         },
         {
           "url": "https://www.debout-la-france.fr/projet/economie-travail/",
-          "changed_at": "2026-11-11",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 3,
           "added": [
-            "Augmenter le SMIC à 1600 euros net (98 euros supplémentaires) en compensant cette hausse par une baisse proportionnelle des cotisations salariales pour ne pas pénaliser les entreprises. Cette réduction sera dégressive afin d’éviter les effets de seuil et concernera 2,5 millions de salariés."
+            "Augmenter le SMIC à 1600 euros net (98 euros supplémentaires par mois) en compensant cette hausse par une baisse proportionnelle des cotisations salariales pour ne pas pénaliser les entreprises. Cette réduction sera dégressive afin d’éviter les effets de seuil et concernera 2,5 millions de salariés.",
+            "Augmenter le SMIC à 1600 euros net (98 euros supplémentaires) en compensant cette hausse par une baisse proportionnelle des cotisations salariales pour ne pas pénaliser les entreprises. Cette réduction sera dégressive afin d’éviter les effets de seuil et concernera 2,5 millions de salariés.",
+            "10 MESURES POUR RELANCER LE POUVOIR D’ACHAT ET RÉCOMPENSER LE TRAVAIL",
+            "PRODUIRE EN FRANCE ET RÉCOMPENSER LE TRAVAIL"
           ]
         }
       ],
@@ -162,6 +195,14 @@
         {
           "url": "https://www.dupontaignan.fr/actualite/nicolas-dupont-aignan-rend-hommage-au-general-de-gaulle-%c2%b7-09-11-2026/",
           "first_seen": "2026-11-11"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/actualite/presentation-du-projet-economique-2027/",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/evenement/nicolas-dupont-aignan-sur-tv-libertes-le-14-11-26/",
+          "first_seen": "2026-11-13"
         }
       ]
     },
@@ -180,10 +221,6 @@
         {
           "url": "https://glucks2027.fr/revolution-ecologique/",
           "first_seen": "2026-11-10"
-        },
-        {
-          "url": "https://glucks2027.fr/presse/accreditation/",
-          "first_seen": "2026-11-12"
         }
       ]
     },
@@ -204,29 +241,36 @@
       "changed_pages": [
         {
           "url": "https://www.unenouvelleenergie.fr/notre-programme/",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 3,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 4,
           "added": [
             "Prochains rendez-vous : Clermont-Ferrand, Pessac, Asnières-sur-Seine et Barry-d Islemade",
             "Prochains rendez-vous : Grand Baie, Guérande, San Francisco et Saint-Grégoire",
+            "Prochains rendez-vous : Oraison, Metz, Orléans et Châlons-en-Champagne",
             "Prochains rendez-vous : Dubaï, Londres, Clermont-Ferrand et Pessac"
           ]
         },
         {
           "url": "https://www.unenouvelleenergie.fr/",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 20,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 32,
           "added": [
             "ET SI NOUS DONNIONS ENSEMBLE UN NOUVEL ÉLAN À LA FRANCE ? La France a besoin d idées nouvelles, de courage, d énergie et surtout d une véritable volonté de changement. Avec Nouvelle Énergie, nous faisons le choix de l engagement, de la liberté, de la responsabilité et de l action. Nous vous invitons à venir échanger, débattre et partager nos convictions à l occasion d une réunion publique à Pessac",
             "Nouvelle Énergie 82 lance ses « Itinérances tarn-et-garonnaises » ! Première étape dans le Pays de Lafrançaise, à la rencontre des adhérents, des sympathisants de David Lisnard et de tous ceux qui souhaitent découvrir le mouvement, autour de Pascal Ellul, relais Nouvelle Énergie Tarn-et-Garonne. Jeudi 12 novembre, 19h, à Barry-d Islemade Salle des fêtes, Le Bourg, 82290 Barry-d Islemade Inscriptio",
             "L équipe Nouvelle Énergie Royaume-Uni vous invite à un afterwork à Londres, l occasion d échanger sur le projet et l actualité de David Lisnard. Mercredi 11 novembre, 18h (heure de Londres) The Burlington Arms, 21 Old Burlington Street, Londres Pas d inscription nécessaire. Nous serons à l entrée ou au 1er étage. Infos et contact : uk.nouvelleenergie@gmail.com",
             "Clotilde Fournier et Vincent Scattolin, relais Nouvelle Énergie Ain, et Justine Roche, relais Jeunes Énergies Ain, vous invitent à une conférence sur le thème de la ruralité à Saint-Germain-sur-Renon. Jeudi 12 novembre, 19h, à Saint-Germain-sur-Renon Salle des fêtes Infos et contact : ain@unenouvelleenergie.fr",
             "Victor Roulet, relais Nouvelle Énergie Ille-et-Vilaine, vous invite à une réunion publique : l actualité du mouvement, ce qui se prépare en Ille-et-Vilaine et une formation tractage et collage. Mardi 10 novembre, de 18h15 à 20h00, à Saint-Grégoire Grappa, La Boutière, 35760 Saint-Grégoire",
+            "Antoine Gehant, relais Jeunes Énergies Alpes-de-Haute-Provence, et James Laurillou, relais Nouvelle Énergie Alpes-de-Haute-Provence, vous invitent à un Afterwork Jeunes Énergies à Oraison. Vendredi 13 novembre, 18h, à Oraison Le Splendid, 11 allée Arthur Gouin Infos : @jeunesenergies",
+            "Nouvelle Énergie Marne vous invite à un petit déjeuner à Châlons-en-Champagne, un moment convivial pour se rencontrer et échanger. Samedi 14 novembre, 9h, à Châlons-en-Champagne 1 rue Claude d Espence Infos et contact : marne@unenouvelleenergie.fr",
             "Laurent Salles, relais Nouvelle Énergie Puy-de-Dôme, vous invite à un afterwork. Jeudi 12 novembre, 18h30, à Clermont-Ferrand The Still Irish Pub, 7 boulevard Léon Malfrety Infos et contact : puydedome@unenouvelleenergie.fr",
+            "Les Jeunes Énergies de la Moselle vous invitent à une réunion : échange, information, organisation. La Moselle avec David Lisnard ! Vendredi 13 novembre, 18h30, à Metz Salle Sainte-Constance",
             "Thibault Ravier, référent Nouvelle Énergie La Baule, Guérande, Pornichet, vous invite à une réunion publique à Guérande. Mardi 10 novembre, 18h, à Guérande Bar Bikini, 7 Leniphen",
             "Nouvelle Énergie vous invite à un afterwork à Dubaï. Mercredi 11 novembre, 19h (heure de Dubaï) Garden on 8, Media One, Al Sufouh 2, Dubai Media City, Dubaï",
+            "Thierry Mezaize, relais Nouvelle Énergie Loiret, vous invite à un afterwork. Vendredi 13 novembre, 18h30, à Orléans 225 rue de Bourgogne",
             "Nouvelle Énergie Français de l étranger vous invite à un happy hour à San Francisco, le mardi 10 novembre à 18h (heure locale).",
             "La Boulangerie de San Francisco, San Francisco, CA (États-Unis)",
+            "PETITS DÉJEUNERS NOUVELLE ÉNERGIE MARNE : CHÂLONS-EN-CHAMPAGNE",
+            "AFTERWORK JEUNES ÉNERGIES ALPES-DE-HAUTE-PROVENCE : ORAISON",
             "AFTERWORK NOUVELLE ÉNERGIE PUY-DE-DÔME : CLERMONT-FERRAND",
             "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE 35 : SAINT-GRÉGOIRE",
             "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE GIRONDE : PESSAC",
@@ -235,20 +279,33 @@
             "ITINÉRANCES TARN-ET-GARONNAISES : BARRY-D ISLEMADE",
             "Orangerie du château Cazalet, PESSAC, GIRONDE",
             "Salle des fêtes, SAINT-GERMAIN-SUR-RENON, AIN",
-            "CONFÉRENCE NOUVELLE ÉNERGIE AIN : LA RURALITÉ",
-            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE - GUÉRANDE",
-            "HAPPY HOUR NOUVELLE ENERGIE À SAN FRANCISCO",
-            "The Burlington Arms, LONDRES, ROYAUME-UNI"
+            "CONFÉRENCE NOUVELLE ÉNERGIE AIN : LA RURALITÉ"
           ]
         }
       ],
       "new_pages": [
         {
-          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-landes-seignosse/",
-          "first_seen": "2026-11-12"
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-cotes-darmor-saint-alban/",
+          "first_seen": "2026-11-13"
         },
         {
-          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-paris/",
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-haut-rhin-ribeauville/",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-haut-rhin/",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-de-noel-nouvelle-energie-haute-garonne-escalquens/",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/soiree-beaujolais-nouveau-nouvelle-energie-gironde-la-teste-de-buch/",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-landes-seignosse/",
           "first_seen": "2026-11-12"
         },
         {
@@ -273,10 +330,6 @@
         },
         {
           "url": "https://www.unenouvelleenergie.fr/event/reunion-jeunes-energies-moselle-metz/",
-          "first_seen": "2026-11-12"
-        },
-        {
-          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-moselle-thionville/",
           "first_seen": "2026-11-12"
         },
         {
@@ -365,14 +418,15 @@
       "changed_pages": [
         {
           "url": "https://lafranceinsoumise.fr/actualites/",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 9,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 11,
           "added": [
             "Liste de personnalités dressée par le terroriste de Trappes et menaces de l’extrême​​-droite : que fait Laurent Nuñez ?",
             "Mise au point sur la position de la France insoumise et son candidat sur la guerre en Ukraine",
             "Ce 11 novembre, RDV pour un discours sur la paix de Jean-Luc Mélenchon, à La Souterraine !",
             "Désignation des chef·fes de file - Élections législatives 2027",
             "Justice et Vérité pour Michel Zecler et Olivio Gomes",
+            "Budget 2027 : Conséquences pour les collectivités",
             "Charte des élections de la France insoumise"
           ]
         }
@@ -383,87 +437,473 @@
       "changed_pages": [
         {
           "url": "https://www.edouardphilippe.fr/",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 19,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 21,
           "added": [
+            "« Je ne serai jamais pessimiste » | Édouard Philippe aux Rencontres de l’Avenir 8 nov. Merci le Sud pour ces belles rencontres et ces échanges sincères. 8 nov. La démocratie, ce n’est pas simplement la culture du clash. 7 nov. Protéger les Français et conquérir des marchés 5 nov.",
+            "J’accepte que mes informations soient utilisées pour traiter ma question, conformément à la politique de confidentialité . Envoyer ma question Envoyer ma question →",
+            "Édouard Philippe part à la rencontre des Français lors de 20 réunions publiques dans 13 régions. Nous aurons besoin de vous pour mobiliser à chaque étape.",
+            "Dons réservés aux personnes physiques, dans la limite de 4 600 € par personne pour l’élection.",
+            "Grâce à votre don, nous pouvons financer par exemple : 200 grandes affiches ou 12 000 tracts",
+            "(réduction d’impôt sur le revenu de 66 %, dans la limite de 20 % de votre revenu imposable)",
+            "Pour envoyer votre question à Édouard Philippe, indiquez simplement qui vous êtes.",
+            "Édouard Philippe sera l’invité de franceinfo pour le grand oral du service public.",
+            "Mais aussi des déplacements, des goodies, des meetings politiques, des évènements…",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "Édouard Philippe bientôt près de chez vous. Posez-lui votre question !",
+            "Par exemple : « Que propose Édouard Philippe pour la justice ? »",
             "Veuillez revenir ultérieurement. Merci de votre patience.",
+            "Tournée en Provence-Alpes-Côte d’Azur, du 5 au 8 novembre",
+            "Elle a été transmise à Édouard Philippe et à son équipe.",
+            "Avec Édouard — Édouard Philippe, présidentielle 2027",
+            "Après La Ciotat et Chartres, les prochaines dates :",
+            "Aller au contenu Aller au contenu principal",
+            "19 novembre Rillieux-la-Pape Je m’inscris →",
+            "20 novembre Romans-sur-Isère Je m’inscris →",
             "Le site se met à jour — Avec Édouard 2027"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/actualites",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 8,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 10,
           "added": [
-            "Veuillez revenir ultérieurement. Merci de votre patience.",
-            "Le site se met à jour — Avec Édouard 2027"
+            "11 oct. À Dijon, Édouard Philippe appelle au rassemblement de la droite et du centre Pour Édouard Philippe, rassembler la droite et le centre doit servir un projet concret : relever l’école, valoriser le travail et remettre de l’ordre dans l’espace public comme dans les comptes de l’État. À Dijon, il a défendu cette ligne auprès des radicaux et des militants Horizons, en rappelant leur attachement",
+            "7 novembre 2026 · BFMTV BFMTV – Édouard Philippe veut répondre à l’angoisse du déclassement 6 novembre 2026 · La Provence LA PROVENCE – Édouard Philippe échange avec des lycéens et des lecteurs 1er novembre 2026 · TF1 TF1 – Édouard Philippe défend le travail, la responsabilité et l’unité nationale 27 octobre 2026 · Le Point, Grand entretien LE POINT – Édouard Philippe porte un discours fort sur l’",
+            "15 octobre 2026 · Réunion d’appartement École : Édouard Philippe défend l’exigence et la liberté des équipes 15 octobre 2026 · La Voix du Nord LA VOIX DU NORD – Édouard Philippe alerte sur l’avenir de l’automobile française 13 octobre 2026 · Sommet de POLITICO Au sommet de POLITICO, Édouard Philippe propose de financer les entreprises européennes d’IA 8 octobre 2026 Trois principales annonces d’Éd",
+            "4 nov. À Zuydcoote, Édouard Philippe veut reprendre la maîtrise de la frontière et combattre les passeurs Édouard Philippe s’est rendu à Zuydcoote, sur le littoral du Nord, aux côtés des gendarmes qui luttent chaque jour contre l’immigration illégale et contre les passeurs qui exploitent la misère de ceux qui veulent passer au Royaume-Uni.",
+            "21 oct. À Charleville-Mézières, Édouard Philippe pour parler pouvoir d’achat avec les familles Le travail doit mieux payer et les familles être mieux accompagnées dès le premier enfant. À Charleville-Mézières, Édouard Philippe a présenté ses propositions lors d’échanges avec des chefs d’entreprise ardennais et des jeunes parents.",
+            "1 oct. Haute-Savoie – Édouard Philippe défend un État capable de protéger Au congrès national des sapeurs-pompiers à La Roche-sur-Foron, Édouard Philippe a remercié les pompiers. L’été a été marqué par des mégafeux : 98 000 hectares ont brûlé depuis janvier et quatre pompiers sont morts.",
+            "« Je ne serai jamais pessimiste » | Édouard Philippe aux Rencontres de l’Avenir 8 nov. Merci le Sud pour ces belles rencontres et ces échanges sincères. 8 nov. La démocratie, ce n’est pas simplement la culture du clash. 7 nov. Protéger les Français et conquérir des marchés 5 nov.",
+            "5 nov. À Euronaval, Édouard Philippe défend une marine plus forte pour protéger les Français À Euronaval, Édouard Philippe est allé à la rencontre de ceux qui font la puissance maritime française. Protéger les Français et conquérir des marchés : c’est l’ambition qu’il porte.",
+            "9 novembre 2026 À Chartres, Édouard Philippe défend une République qui donne sa chance à chacun À Chartres, Édouard Philippe a effectué deux étapes, guidées par une même conviction : la République doit permettre à chacun de trouver sa place et de construire son avenir.",
+            "29 sept. Aux Assises de l’AFER, Édouard Philippe présente sa réforme pour sauver nos retraites Devant les épargnants réunis aux Assises de l’AFER, Édouard Philippe présente la réforme des retraites qu’il propose : un système responsable pour tous, juste pour chacun.",
+            "9 nov. À Chartres, Édouard Philippe défend une République qui donne sa chance à chacun À Chartres, Édouard Philippe a effectué deux étapes, guidées par une même conviction : la République doit permettre à chacun de trouver sa place et de construire son avenir.",
+            "7 nov. À La Ciotat, Édouard Philippe lance « Croire en nous, le Grand Tour » C’est dans le Sud-Est, devant une salle de 300 personnes, qu’Édouard Philippe a lancé « Croire en nous, le Grand Tour », une série de réunions publiques au plus près des Français.",
+            "15 oct. Mondial de l’Auto : Édouard Philippe propose un pacte pour la filière automobile Au Mondial de l’Auto, Édouard Philippe propose un pacte à la filière automobile : 50 milliards d’impôts de production en moins et un moratoire sur les normes.",
+            "18 sept. Protéger, adapter, équiper : le plan d’Édouard Philippe pour le climat Après l’été 2026 et ses feux d’une intensité inédite, Édouard Philippe présente aux Ponts-de-Cé une stratégie climatique en trois axes : protéger, adapter, équiper.",
+            "9 oct. Sommet de l’Élevage – Édouard Philippe aux côtés des éleveurs À Cournon-d’Auvergne, Édouard Philippe est venu assurer les éleveurs de son soutien. Ils veulent vivre de leur travail et pouvoir transmettre leur exploitation.",
+            "25 août Édouard Philippe à La Réunion À La Réunion, Édouard Philippe est venu parler d’avenir. D’avenir économique, de création de richesses, de stabilité et de confiance.",
+            "22 août À Mayotte, Édouard Philippe veut couper les vannes de l’immigration Édouard Philippe s’est rendu à Mayotte pour parler immigration.",
+            "12 sept. Festival Les Terres de Jim, Édouard Philippe est allé à la rencontre des agriculteurs",
+            "31 août À la Foire de Châlons-en-Champagne, Édouard Philippe défend l’agriculture française",
+            "6 novembre 2026 LA PROVENCE – Édouard Philippe échange avec des lycéens et des lecteurs",
+            "7 novembre 2026 À La Ciotat, Édouard Philippe lance « Croire en nous, le Grand Tour »",
+            "7 novembre 2026 BFMTV – Édouard Philippe veut répondre à l’angoisse du déclassement",
+            "12 oct. Le 15 octobre, venez parler d’École et d’Éducation avec Édouard Philippe",
+            "11 novembre 2026 Réunion publique avec Édouard Philippe à Toulouse",
+            "23 oct. L’ÉCOLE : VOS QUESTIONS, LES RÉPONSES D’ÉDOUARD PHILIPPE"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 32,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 34,
           "added": [
+            "Ce programme s’écrit tout au long de la campagne, avec de nouvelles propositions sur les sujets qui comptent pour vous, thématique après thématique.",
+            "Zéro impôt pour les classes moyennes les trois premières années de l’enfant",
+            "Des fonds de capitalisation pour flécher l’épargne vers l’économie",
+            "Deux fois plus de navires dans le Pacifique et dans l’océan Indien",
+            "Par exemple : « Que propose Édouard Philippe pour la justice ? »",
+            "Amendes prélevées directement sur les prestations sociales",
             "Veuillez revenir ultérieurement. Merci de votre patience.",
-            "Le site se met à jour — Avec Édouard 2027"
+            "Des peines de prison courtes, dès la première infraction",
+            "Une loi d’accélération de la construction de prisons",
+            "Interdiction constitutionnelle de creuser le déficit",
+            "Baisse du prix de l’électricité pour les industriels",
+            "Climatisation et rénovation des bâtiments publics",
+            "Réduction de la taille des classes en maternelle",
+            "Périscolaire : scan systématique des antécédents",
+            "Dénonciation de l’accord de 1968 avec l’Algérie",
+            "Allocation familiale de 350 € dès le 1er enfant",
+            "Droit de regard des parents sur ces antécédents",
+            "La France, championne de la puissance de calcul",
+            "50 milliards d’impôts de production en moins",
+            "Zéro nouvelle norme et zéro surtransposition",
+            "Moratoire total sur l’immigration à Mayotte",
+            "Une économie forte et des comptes en ordre",
+            "Le site se met à jour — Avec Édouard 2027",
+            "Départ précoce pour un tiers des Français",
+            "Soutien au véhicule électrique d’occasion"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 47,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 49,
           "added": [
+            "Ce programme s’écrit tout au long de la campagne, avec de nouvelles propositions sur les sujets qui comptent pour vous, thématique après thématique.",
+            "Zéro impôt pour les classes moyennes les trois premières années de l’enfant",
+            "Des fonds de capitalisation pour flécher l’épargne vers l’économie",
+            "Deux fois plus de navires dans le Pacifique et dans l’océan Indien",
+            "Par exemple : « Que propose Édouard Philippe pour la justice ? »",
+            "Amendes prélevées directement sur les prestations sociales",
             "Veuillez revenir ultérieurement. Merci de votre patience.",
-            "Le site se met à jour — Avec Édouard 2027"
+            "Des peines de prison courtes, dès la première infraction",
+            "Une loi d’accélération de la construction de prisons",
+            "Interdiction constitutionnelle de creuser le déficit",
+            "Baisse du prix de l’électricité pour les industriels",
+            "Climatisation et rénovation des bâtiments publics",
+            "Réduction de la taille des classes en maternelle",
+            "Périscolaire : scan systématique des antécédents",
+            "Dénonciation de l’accord de 1968 avec l’Algérie",
+            "Allocation familiale de 350 € dès le 1er enfant",
+            "Droit de regard des parents sur ces antécédents",
+            "La France, championne de la puissance de calcul",
+            "50 milliards d’impôts de production en moins",
+            "Zéro nouvelle norme et zéro surtransposition",
+            "Moratoire total sur l’immigration à Mayotte",
+            "Une économie forte et des comptes en ordre",
+            "Le site se met à jour — Avec Édouard 2027",
+            "Départ précoce pour un tiers des Français",
+            "Soutien au véhicule électrique d’occasion"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/actualites/retraites-la-reforme-que-je-propose-aux-francais",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 6,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 8,
           "added": [
+            "Je sais l’inquiétude que cette réforme suscite et l’effort qu’elle demande. Mon engagement est clair : mon projet sera responsable pour tous et juste pour chacun. Il préservera notre système, reconnaîtra les parcours difficiles, donnera leur place à ceux qui veulent encore travailler et préparera la retraite des générations qui viennent.",
+            "Je sais que la réforme que je propose n’est pas populaire. Mais je ne cherche pas à gagner des points dans les sondages, je veux protéger les Français. Dans un monde dangereux, la gravité de notre situation financière nous oblige à agir. Ne rien faire, c’est nous exposer à une crise financière sans précédent.",
+            "« Je ne serai jamais pessimiste » | Édouard Philippe aux Rencontres de l’Avenir 8 nov. Merci le Sud pour ces belles rencontres et ces échanges sincères. 8 nov. La démocratie, ce n’est pas simplement la culture du clash. 7 nov. Protéger les Français et conquérir des marchés 5 nov.",
+            "Travailler plus longtemps n’est pas une fin en soi. C’est permettre à chacun de compter sur une retraite digne, à notre pays d’investir dans ses écoles et ses hôpitaux, à nos enfants de croire que le meilleur est devant eux.",
+            "Nous avons tant à construire, à inventer, à transmettre. C’est cet espoir que je veux porter : une France qui retrouve la liberté d’agir et la confiance en son avenir.",
+            "Posez-moi vos questions en commentaires de la vidéo YouTube : j’y répondrai dans une prochaine vidéo.",
             "Veuillez revenir ultérieurement. Merci de votre patience.",
+            "Retraites : la réforme que je propose aux Français",
             "Le site se met à jour — Avec Édouard 2027"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 12,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 14,
           "added": [
+            "D’abord, les jeunes parents des classes moyennes ne paieront plus d’impôt sur le revenu pendant les trois premières années de leur enfant, jusqu’à leur entrée à l’école, parce que c’est là que tout se joue pour l’enfant et que la vie bascule pour les parents. Concrètement, tous les foyers qui paient moins de 3 000 euros d’impôt sur le revenu seront exonérés d’impôt pendant trois ans, et ceux qui e",
+            "Pour les plus modestes, Édouard Philippe mettra en place une allocation familiale unique dès le premier enfant de 350 euros par mois et par enfant, dégressive avec le revenu, en fusionnant une dizaine de dispositifs complexes et illisibles. Cette proposition est à coût constant en rationalisant les dispositifs existants (allocations familiales, supplément familial de traitement, prime de naissance",
+            "Édouard Philippe veut que la France choisisse qui elle accueille, en assumant de ne choisir que l’immigration de travail et de protection des persécutés. Accueillir suppose de pouvoir intégrer, et de faire respecter nos lois, notre langue et nos principes. Ce qui n’est possible que si on accueille moins d’étrangers. Édouard Philippe se fixe donc l’objectif de diviser au moins l’immigration par deu",
+            "Toutes les hausses de temps de travail négociées rapporteront pleinement aux travailleurs. Concrètement, si une entreprise trouve un accord pour élever sa durée du travail au-dessus de 35 heures, toutes les heures travaillées au-dessus de 35 heures seront défiscalisées et exonérées de cotisation et il n’y aura plus une seule cotisation pour les entreprises au-delà de 37 heures.",
+            "Aux travailleurs, Édouard Philippe propose un « travailler plus pour gagner plus » massif et inédit. Les 35 heures uniformes pour tout le monde ont fait stagner le salaire des travailleurs. Édouard Philippe donnera aux entreprises la liberté de fixer elles-mêmes leur temps de travail par accord. C’est un changement massif dans l’organisation du travail en France.",
+            "Pour ce faire il activera sans tabous tous les leviers pour reprendre le contrôle : quotas migratoires sur l’immigration économique, restriction du regroupement familial, liste de pays sûrs XXL pour l’asile, preuve financière obligatoire pour les étudiants étrangers, dénonciation de l’accord franco-algérien…",
+            "« Je ne serai jamais pessimiste » | Édouard Philippe aux Rencontres de l’Avenir 8 nov. Merci le Sud pour ces belles rencontres et ces échanges sincères. 8 nov. La démocratie, ce n’est pas simplement la culture du clash. 7 nov. Protéger les Français et conquérir des marchés 5 nov.",
+            "Un exemple : si une entreprise décide de passer à 37 heures, pour un salarié au SMIC, cela rapportera plus de 1000 euros de plus par an.",
+            "Édouard Philippe propose de refondre la politique familiale pour maximiser le soutien aux familles dès le premier enfant.",
+            "2) Zéro impôt sur le revenu pour les jeunes parents des classes moyennes dans les trois premières années de leur enfant",
+            "Trois principales annonces d’Édouard Philippe à l’Heure de vérité",
+            "1) Un « travailler plus pour gagner plus » massif et inédit",
             "Veuillez revenir ultérieurement. Merci de votre patience.",
+            "3) Diviser par deux l’immigration dans notre pays",
             "Le site se met à jour — Avec Édouard 2027"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 27,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 29,
           "added": [
+            "Ce programme s’écrit tout au long de la campagne, avec de nouvelles propositions sur les sujets qui comptent pour vous, thématique après thématique.",
+            "Zéro impôt pour les classes moyennes les trois premières années de l’enfant",
+            "Des fonds de capitalisation pour flécher l’épargne vers l’économie",
+            "Deux fois plus de navires dans le Pacifique et dans l’océan Indien",
+            "Par exemple : « Que propose Édouard Philippe pour la justice ? »",
+            "Amendes prélevées directement sur les prestations sociales",
             "Veuillez revenir ultérieurement. Merci de votre patience.",
-            "Le site se met à jour — Avec Édouard 2027"
+            "Des peines de prison courtes, dès la première infraction",
+            "Une loi d’accélération de la construction de prisons",
+            "Interdiction constitutionnelle de creuser le déficit",
+            "Baisse du prix de l’électricité pour les industriels",
+            "Climatisation et rénovation des bâtiments publics",
+            "Réduction de la taille des classes en maternelle",
+            "Périscolaire : scan systématique des antécédents",
+            "Dénonciation de l’accord de 1968 avec l’Algérie",
+            "Allocation familiale de 350 € dès le 1er enfant",
+            "Droit de regard des parents sur ces antécédents",
+            "La France, championne de la puissance de calcul",
+            "50 milliards d’impôts de production en moins",
+            "Zéro nouvelle norme et zéro surtransposition",
+            "Moratoire total sur l’immigration à Mayotte",
+            "Une économie forte et des comptes en ordre",
+            "Le site se met à jour — Avec Édouard 2027",
+            "Départ précoce pour un tiers des Français",
+            "Soutien au véhicule électrique d’occasion"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 30,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 32,
           "added": [
+            "Ce programme s’écrit tout au long de la campagne, avec de nouvelles propositions sur les sujets qui comptent pour vous, thématique après thématique.",
+            "Zéro impôt pour les classes moyennes les trois premières années de l’enfant",
+            "Des fonds de capitalisation pour flécher l’épargne vers l’économie",
+            "Deux fois plus de navires dans le Pacifique et dans l’océan Indien",
+            "Par exemple : « Que propose Édouard Philippe pour la justice ? »",
+            "Amendes prélevées directement sur les prestations sociales",
             "Veuillez revenir ultérieurement. Merci de votre patience.",
-            "Le site se met à jour — Avec Édouard 2027"
+            "Des peines de prison courtes, dès la première infraction",
+            "Une loi d’accélération de la construction de prisons",
+            "Interdiction constitutionnelle de creuser le déficit",
+            "Baisse du prix de l’électricité pour les industriels",
+            "Climatisation et rénovation des bâtiments publics",
+            "Réduction de la taille des classes en maternelle",
+            "Périscolaire : scan systématique des antécédents",
+            "Dénonciation de l’accord de 1968 avec l’Algérie",
+            "Allocation familiale de 350 € dès le 1er enfant",
+            "Droit de regard des parents sur ces antécédents",
+            "La France, championne de la puissance de calcul",
+            "50 milliards d’impôts de production en moins",
+            "Zéro nouvelle norme et zéro surtransposition",
+            "Moratoire total sur l’immigration à Mayotte",
+            "Une économie forte et des comptes en ordre",
+            "Le site se met à jour — Avec Édouard 2027",
+            "Départ précoce pour un tiers des Français",
+            "Soutien au véhicule électrique d’occasion"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 221,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 223,
           "added": [
-            "Veuillez revenir ultérieurement. Merci de votre patience.",
-            "Le site se met à jour — Avec Édouard 2027"
+            "Mais cette campagne commence aussi dans un pays qui n'a pas renoncé. Un pays qui a tout pour réussir ! Un pays qui construit des avions exceptionnels, des trains à grande vitesse, des vins uniques, des objets de luxe recherchés partout dans le monde. Un pays qui dispose encore d'une industrie du cinéma qui nous fait rêver. Un pays plein de pépites humaines, culturelles, patrimoniales, productives,",
+            "Avec nos amis d'outre-mer que je vous demande d'applaudir ! Avec une mention particulière pour les Polynésiens qui sont venus jusqu'ici aujourd'hui ! Avec les très nombreux maires qui sont parmi nous, que je félicite et que je salue en tant que collègue pour leur réélection ! Avec vous tous, vous venez des quatre coins de France, d'où que vous veniez, c'est un bonheur de vous voir ici et avec un p",
+            "Mon arrière-grand-père, Louis-Philippe, était docker, havrais, CGT, communiste et fier de l'être. Et mon grand-père, son fils, Charles-Philippe a commencé sa vie professionnelle, en travaillant sur les docks jusqu'à ce que la tuberculose lui interdise d'exercer ce métier physique. Ne pouvant plus être docker, il fut chauffeur, commis, coursier puis classeur de coton. Mon père, Patrick, a été le pr",
+            "Si je me trouve devant vous aujourd'hui, c'est grâce à eux. C'est grâce à Monsieur Pinguet en CM2, qui portait quoi qu'il arrive à la fin des années 70 un costume 3 pièces qui fait sévère, exigeant, et en même temps incroyablement humain ; grâce à Monsieur Prié au collège professeur d'histoire extraordinaire qui lui aussi m'a appris qu'on pouvait être sérieux sans se prendre au sérieux ; grâce à M",
+            "Ces professeurs, de lettres, de musique, de sport, de maths, de sciences et d'histoire, grâce à qui le fils de deux profs de la banlieue rouennaise a réussi ses examens et ses concours, pas toujours de la première fois, parfois tout juste, mais grâce à qui je suis devenu fonctionnaire, magistrat au Conseil d'État, puis avocat, puis maire, puis Premier ministre… Premier ministre de droite, en plus.",
+            "La France de Suzanne Lacore, fille d'un charpentier corrézien, institutrice, et une des trois premières femmes à être ministre dans le gouvernement de Léon Blum ; celle de Lucie Samuel, future Lucie Aubrac, fille d'un jardinier, gérant de bistrot puis blanchisseur, agrégée d'histoire, résistante, femme de lettres et grande officière de la Légion d'honneur. C'est la France de Claudie Haigneré, qui ",
+            "Ils doivent sourire en m'entendant : je suis un père trop peu présent et assez loin d'être parfait. Je dis qu'ils doivent sourire en m'entendant, mais ils ne sont pas là. Ils me souhaitent de réussir je crois, et je crois que j'aurais eu du mal à faire ce que j'ai pu faire sans leur soutien et celui de leur mère, Édith, qui est quelque part dans cette salle, mais nous avons décidé de ne jamais les",
+            "Et pas seulement reconnaissant. Convaincu que notre société se portera mieux lorsque les femmes auront toujours plus les moyens de leur liberté, toujours plus d'autorité dans les décisions collectives, toujours plus d'opportunités de briller dans le monde scientifique, industriel, entrepreneurial, politique ! Je ne suis pas né avec cette conviction, et elle m'est plutôt venue sur le tard. Mais j'a",
+            "À 5 ans, 10 ans, au-delà. Quel métier vont-ils exercer avec l'IA qui arrive, qui est là et qui s'immisce, c'est un fait dans tous les domaines de la production, de la réflexion, des échanges ? C'est merveilleux la technologie mais qu'est-ce que cette révolution va impliquer pour nos enfants ? Dans quel état vont-ils trouver la planète sur laquelle ils vivent ? Comment vivront-ils si l'été 2026 est",
+            "Lorsque l'école dysfonctionne, lorsque la justice n'est pas à la hauteur, lorsque les dispositifs qui accompagnent la jeunesse sont les premiers à faire l'objet des coupes budgétaires, lorsque nous renonçons à adapter nos villes et nos équipements à la transformation climatique qui vient, lorsque nous préférons conserver pour nous plutôt que construire pour eux, nous ne sommes pas à la hauteur de ",
+            "Je veux surtout que l'élection de 2027 soit l'occasion de trancher la question la plus importante. La question que nous aurions dû poser en 2022 : Notre projet est-il de préserver la situation actuelle en la faisant financer par nos enfants, ou sommes-nous prêts, déterminés, à les aider à construire leur avenir ? Un avenir dans lequel ils pourront vivre mieux que nous. C'est la seule question qui ",
+            "Mon obsession, c'est la France de nos enfants. Leurs études, leur réussite, les conséquences de l'IA sur leurs emplois, les conséquences du changement climatique sur leurs villes, je l'ai dit je vais le redire parce que c'est ça l'enjeu de l'élection. Leur liberté d'avoir des enfants, leur épanouissement et oui, mes amis, leur bonheur ! Le bonheur de nos enfants doit rester notre ambition. Leur bo",
+            "C'est pourquoi l'intérêt de nos enfants devra être la boussole du nouveau quinquennat. Chaque grande décision, chaque choix que fera mon Gouvernement, sera passé à ce tamis : est-ce que nous préparons l'avenir de cette jeunesse ou est-ce que nous l'abîmons ? Est-ce que nous les protégeons ou, est-ce que nous détournons, une nouvelle fois, le regard comme lorsque nous avons retardé la réforme des r",
+            "Social dans le nord, libéral dans le sud. Porte-voix revendiqué des classes populaires dans les campagnes mais gourmand de petits fours à Monte-Carlo. Pour la dépense publique et contre les impôts. Pour l'euro mais contre l'Europe. Pour la souveraineté mais tellement bienveillant avec Poutine. Pour l'Ukraine quand il faut, mais jamais présent là-bas et jamais présent quand il faut aider Kyiv dans ",
+            "Et je sais bien que Jean-Luc Mélenchon, après avoir asséché les sociaux-démocrates, qui n'auraient jamais dû s'allier avec lui, va maintenant se poser en rassembleur. Vous verrez qu'il se présentera bientôt comme l'héritier de François Mitterrand… Il a déjà commencé. J'espère que le pays n'oubliera jamais qui il est vraiment : celui qui veut, partout, la conflictualisation pour attiser la colère ;",
+            "Pendant 16 ans, je me suis attaqué comme tous les maires à des problèmes incroyablement concrets : la sécurité, la lutte contre les incivilités, la fermeture ou la construction de nouvelles écoles, la rénovation urbaine, la construction de trois lignes de tramway, l'adaptation de la ville au changement climatique et au vieillissement démographique, la promotion du livre et de la lecture… mille cho",
+            "Et j'ai comme tous les maires, mouillé la chemise : pour convaincre des usines de s'installer, c'est au Havre que fonctionne la plus grande usine française d'éoliennes offshore ; pour développer le port du Havre qui est une chance pour la France ; pour universitariser l'hôpital du Havre et mesdames et messieurs derrière ce mot compliqué il y a un enjeu absolument essentiel de modernisation des hôp",
+            "J'ai vu, comme vous tous, le personnel médical, du médecin à l'aide-soignant, concentré, méticuleux, acharné et humain à sauver des enfants et des personnes âgées de la maladie. J'ai vu des professeurs à Saint-Laurent-du-Maroni, en Guyane, préparer leurs élèves dont certains n'ont connu que la forêt et le fleuve, à des études parisiennes avec une foi et une envie qui permettent de franchir tous le",
+            "Et j'ai été confronté à des choix impossibles. Des choix où toutes les options sont mauvaises et où il faut choisir la moins mauvaise. Pendant le Covid, j'ai pris des décisions vertigineuses en sachant qu'elles auraient des conséquences que je savais terribles. Fermer les EHPAD pour protéger les résidents mais en les coupant de leur lien familial. Limiter le nombre de personnes pouvant assister à ",
+            "Mais, à l'issue de ces trois ans, je crois que j'ai fait en sorte que l'État soit conduit à bon port. Avec un déficit en baisse et nettement en baisse, une dette stabilisée et légèrement en baisse, un chômage en baisse, un nombre d'apprentis en hausse et nettement en hausse. Avec des créations d'entreprises en hausse. Tout cela ne me donne aucun droit. Aucun privilège. Sauf, celui de l'expérience.",
+            "Et je dis à tous ceux qui dans leur vie intime, dans leur chair, voient leur corps se transformer, ne se reconnaissent plus vraiment dans la glace, à tous ces jeunes enfants, à ces jeunes femmes et à ces jeunes hommes qui m'ont dit que le cancer ou l'alopécie ou le vitiligo bouleversaient leur vie à cause du regard des autres, je leur dis qu'ils ne sont pas leur maladie, qu'ils ne sont pas le rega",
+            "La justice du XXIe siècle ne peut plus être rendue avec des réflexes, des méthodes et des traditions du siècle passé. Alors oui, la Justice a besoin de beaucoup plus de moyens financiers, humains et numériques. Et oui ce rattrapage a été engagé lorsque j'étais Premier ministre, sous l'autorité du Président de la République, et accéléré depuis, grâce notamment à l'action des gardes des Sceaux succe",
+            "Vous savez, il y a 20 ans, on a décidé de couper le lien entre le parquet, qui poursuit les criminels au nom de la société, et le gouvernement, qui est responsable devant le Parlement, parce que, dans quelques affaires par an, peut-être une dizaine sur les 80 000 que traite la justice, on se méfiait à juste titre de possibles conflits d'intérêts. Je crois que c'était une erreur. Je donnerai au Con",
+            "Je sais que lorsque les citoyens d'une démocratie ont le sentiment que la justice ne passe pas, ou qu'elle est débordée, le lien social et la confiance républicaine se fragilisent, et le désordre s'installe durablement. C'est en les rassurant sur le fait que la justice passe toujours, bien, fermement, en entendant les parties, que nous retrouverons la décision. Il faudra remettre la France sur la ",
+            "Il reviendra au Parlement de voter tous les ans, une liste de pays sûrs qui permettra d'accélérer les procédures et de mettre un terme aux dérives. Car ces dérives sont en train de tuer littéralement notre capacité à traiter comme nous le devons celles et ceux qui viennent en France bénéficier d'un droit d'asile juste, ancien, et historique. Nous devons sauver ce droit d'asile en écartant fermemen"
           ]
         }
       ],
-      "new_pages": []
+      "new_pages": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/securite",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/justice",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/immigration",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/defense",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/travail",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/entreprises",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/comptes-publics",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/retraites",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/ecole",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/famille",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/intelligence-artificielle",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/energie",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/outre-mer",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/reunion-publique-avec-edouard-philippe-a-toulouse",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/congres-des-maires-edouard-philippe-reunit-les-elus-locaux-pour-une-grande",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/ralliements-de-nouveaux-elus-rejoignent-le-rassemblement-autour-d-edouard",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/a-chartres-edouard-philippe-defend-l-apprentissage-pour-permettre-aux-jeunes-de",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/dans-le-sud-pendant-trois-jours-edouard-philippe-a-la-rencontre-des-francais-et",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/sur-bfmtv-edouard-philippe-veut-repondre-a-l-angoisse-du-declassement",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/dans-le-sud-est-edouard-philippe-lance-croire-en-nous-le-grand-tour",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/a-la-provence-edouard-philippe-echange-avec-des-lyceens-puis-avec-des-lecteurs",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/a-euronaval-edouard-philippe-defend-une-marine-plus-forte-pour-proteger-les",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/a-zuydcoote-edouard-philippe-veut-reprendre-la-maitrise-de-la-frontiere-et",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/au-20-heures-de-tf1-edouard-philippe-defend-le-travail-la-responsabilite-et-l",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/dans-le-point-edouard-philippe-lie-autorite-de-l-etat-et-avenir-de-la-jeunesse",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/sur-france-2-edouard-philippe-veut-donner-plus-de-pouvoirs-aux-policiers",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/a-charleville-mezieres-edouard-philippe-veut-soutenir-les-familles-des-le",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/sur-bfmtv-edouard-philippe-veut-faire-payer-les-degats-aux-casseurs",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/mondial-de-l-auto-un-pacte-pour-la-filiere-automobile",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/ecole-edouard-philippe-defend-l-exigence-et-la-liberte-des-equipes",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/dans-la-voix-du-nord-edouard-philippe-alerte-sur-l-avenir-de-l-automobile",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/au-sommet-de-politico-edouard-philippe-veut-financer-les-entreprises",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/a-dijon-edouard-philippe-appelle-au-rassemblement-de-la-droite-et-du-centre",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/au-sommet-de-l-elevage-edouard-philippe-defend-le-travail-des-agriculteurs",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/sur-tf1-edouard-philippe-defend-le-travail-et-l-autonomie-des-etablissements",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/a-annemasse-edouard-philippe-veut-renforcer-l-autorite-de-l-etat-face-au",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/assises-de-l-afer-sauver-nos-retraites",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/sur-rtl-edouard-philippe-defend-une-aide-aux-carburants-financee-par-des",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/proteger-adapter-equiper-mon-plan-pour-le-climat",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/sur-franceinfo-edouard-philippe-appelle-la-droite-et-le-centre-a-leurs",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/chez-pauline-laigneau-edouard-philippe-raconte-la-responsabilite-de-gouverner",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/a-ales-edouard-philippe-plaide-pour-un-etat-d-urgence-contre-le-narcotrafic",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/a-la-reunion-edouard-philippe-mise-sur-la-production-locale-contre-la-vie-chere",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/a-mayotte-edouard-philippe-veut-maitriser-l-immigration-et-accelerer-la",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/a-propos",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/comites",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/pages/conditions-generales-de-vente",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/edouard-philippe",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/jeunes",
+          "first_seen": "2026-11-13"
+        }
+      ]
     },
     "roussel": {
       "changed_pages": [],
@@ -471,6 +911,14 @@
         {
           "url": "https://www.pcf.fr/communistes_1108",
           "first_seen": "2026-11-10"
+        },
+        {
+          "url": "https://www.pcf.fr/portrait_porte_parole_gladys_grelaud",
+          "first_seen": "2026-11-12"
+        },
+        {
+          "url": "https://www.pcf.fr/sahara_occidental_la_france_doit_defendre_le_droit_lautodetermination_du_peuple_sahraoui",
+          "first_seen": "2026-11-13"
         },
         {
           "url": "https://www.pcf.fr/afrique_du_sud_recul_anc_ouvre_nouvelle_sequence_politique",
@@ -501,16 +949,52 @@
           "first_seen": "2026-11-12"
         },
         {
-          "url": "https://www.pcf.fr/portrait_porte_parole_gladys_grelaud",
-          "first_seen": "2026-11-12"
-        },
-        {
           "url": "https://www.pcf.fr/anticommunisme_billet_gerard_streiff_26",
           "first_seen": "2026-11-12"
         },
         {
           "url": "https://www.pcf.fr/salaires_education_assez_de_miettes",
           "first_seen": "2026-11-10"
+        }
+      ]
+    },
+    "ruffin": {
+      "changed_pages": [
+        {
+          "url": "https://francoisruffin.fr/category/actu/blog/",
+          "changed_at": "2026-11-13",
+          "removed_blocks": 1,
+          "added": [
+            "François Ruffin invité de la matinale de France Inter"
+          ]
+        },
+        {
+          "url": "https://nouspresident.fr/notre-programme/",
+          "changed_at": "2026-11-13",
+          "removed_blocks": 0,
+          "added": [
+            "La démocratie ne se résume pas à un bulletin glissé dans l’urne tous les cinq ans. Depuis le « non » de 2005 balayé d’un revers de main, elle s’essouffle : réformes imposées à coups de 49.3, Grand débat et conventions citoyennes restés sans suite, abstention record et 76 % des Françaises et Français qui estiment qu’elle fonctionne mal. Ce neuvième cahier de campagne présente notre plan pour remett",
+            "POUR UNE Démocratie en continue : faire vivre les états généraux !"
+          ]
+        },
+        {
+          "url": "https://nouspresident.fr",
+          "changed_at": "2026-11-13",
+          "removed_blocks": 0,
+          "added": [
+            "La démocratie ne se résume pas à un bulletin glissé dans l’urne tous les cinq ans. Depuis le « non » de 2005 balayé d’un revers de main, elle s’essouffle : réformes imposées à coups de 49.3, Grand débat et conventions citoyennes restés sans suite, abstention record et 76 % des Françaises et Français qui estiment qu’elle fonctionne mal. Ce neuvième cahier de campagne présente notre plan pour remett",
+            "POUR UNE Démocratie en continue : faire vivre les états généraux !"
+          ]
+        }
+      ],
+      "new_pages": [
+        {
+          "url": "https://nouspresident.fr/pour-une-democratie-en-continu-vive-les-etats-generaux/",
+          "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://francoisruffin.fr/francois-ruffin-invite-de-la-matinale-de-france-inter/",
+          "first_seen": "2026-11-13"
         }
       ]
     },
@@ -552,9 +1036,10 @@
       "changed_pages": [
         {
           "url": "https://lafrancehumaniste.fr/",
-          "changed_at": "2026-11-11",
-          "removed_blocks": 0,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 1,
           "added": [
+            "12 novembre 2026 · International et diplomatie Conférence de la Paix C’est le manque d’ambition des nations et l’abandon de politiques étrangères réalistes qui mènent les nations aux guerres irrémédiables. Le 10 décembre… Lire la chronique",
             "Fondée le 17 juin 2025 par Dominique de Villepin , ancien Premier ministre et ancien ministre des Affaires étrangères, La France Humaniste (LFH) rassemble celles et ceux qui veulent remettre l’humain au cœur de l’action publique.",
             "Le mouvement prépare le Projet France 2027 , publie les chroniques de Dominique de Villepin et s’organise partout en France en Cercles Humanistes .",
             "Dominique de Villepin Son parcours, du Quai d’Orsay à Matignon, et son engagement",
@@ -563,9 +1048,38 @@
             "La France Humaniste, le mouvement de Dominique de Villepin",
             "Chroniques Ses textes et tribunes, classés par sujet"
           ]
+        },
+        {
+          "url": "https://lafrancehumaniste.fr/chroniques.html",
+          "changed_at": "2026-11-13",
+          "removed_blocks": 0,
+          "added": [
+            "C’est le manque d’ambition des nations et l’abandon de politiques étrangères réalistes qui mènent les nations aux guerres irrémédiables. Le 10 décembre 1948, au Palais de Chaillot, l’Assemblée générale des Nations unies adoptait la Déclaration universelle des droits de l’Homme. La veille, la même Assemblée avait…"
+          ]
+        },
+        {
+          "url": "https://lafrancehumaniste.fr/articles/humanisme-intelligence-artificielle.html",
+          "changed_at": "2026-11-13",
+          "removed_blocks": 1,
+          "added": [
+            "12 novembre 2026 · International et diplomatie Conférence de la Paix C’est le manque d’ambition des nations et l’abandon de politiques étrangères réalistes qui mènent les nations aux guerres irrémédiables. Le 10 décembre… Lire la chronique"
+          ]
+        },
+        {
+          "url": "https://lafrancehumaniste.fr/articles/ia-pouvoir-de-dire-non-monopole-americain.html",
+          "changed_at": "2026-11-13",
+          "removed_blocks": 1,
+          "added": [
+            "12 novembre 2026 · International et diplomatie Conférence de la Paix C’est le manque d’ambition des nations et l’abandon de politiques étrangères réalistes qui mènent les nations aux guerres irrémédiables. Le 10 décembre… Lire la chronique"
+          ]
         }
       ],
-      "new_pages": []
+      "new_pages": [
+        {
+          "url": "https://lafrancehumaniste.fr/articles/conference-de-la-paix.html",
+          "first_seen": "2026-11-13"
+        }
+      ]
     },
     "zemmour": {
       "changed_pages": [
@@ -595,66 +1109,66 @@
         },
         {
           "url": "https://www.parti-reconquete.fr/#actualites",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 31,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 43,
           "added": [
             "Il y a 108 ans, à 11 heures du matin, les cloches ont sonné dans toute la France. Dans chaque village, il y a un monument avec des noms, et souvent plusieurs fois le même nom de famille. Ces hommes avaient 20 ans. Ils avaient une ferme, un atelier, une fiancée, et ils ont tout donné pour que ce pays reste le nôtre. Serrer la main de ceux qui ont suivi leur exemple, c’est leur faire une promesse…",
+            "En 1945, 3% d’une classe d’âge avaient le baccalauréat ; aujourd’hui, c’est 90%. Nous avons cru que la massification serait indolore, et le résultat, c’est que la moitié des étudiants n’ont pas le niveau pour être à l’université. C’est pourquoi je veux rétablir les méthodes traditionnelles à l’école, puis le mérite et la sélection à tous les étages, avec un examen d’entrée en sixième et un vrai…",
+            "Je ne remplacerai pas un tiers des départs dans la fonction publique, et cela n’abîmera pas nos services publics. D’abord, leur problème n’est pas le manque de moyens, mais leur mauvaise gestion. Ensuite, Internet et l’IA font aujourd’hui ce que l’on faisait autrefois à la main. Enfin, la génération des boomers, très nombreuse, part à la retraite : c’est le moment de réduire les effectifs sans…",
             "La gauche parle d’une « Nouvelle France » depuis la Révolution, mais elle oublie toujours de dire que cette « Nouvelle France » se fait sur le dos de l’ancienne. Danton disait des aristocrates, qu’il envoyait à la guillotine, qu’ils étaient innocents, mais qu’ils gênaient l’avenir. Aujourd’hui, pour la gauche de Mélenchon, ce sont les Français qui gênent l’avenir. C’est pourquoi je dis aux…",
+            "À chaque problème, on nous répète le vieux discours syndical : il faut plus de moyens. Pourtant, nous avons aujourd’hui 5,9 millions d’agents publics, contre 4,6 millions il y a 30 ans, et ni l’école ni l’hôpital ne fonctionnent mieux. L’école est même le premier budget de l’État, et plus on y a mis d’argent, plus le niveau s’est effondré. Je veux réformer l’État en profondeur, au lieu de…",
+            "La gauche m’accuse d’avoir armé par mes mots l’assassin de Trappes. Mais quand des centaines de personnes ont été tuées ces dix dernières années au cri d’« allah akbar », elle nous a répondu « pas d’amalgame ». Alors, si les mots ne tuent pas dans un sens, ils ne tuent pas dans l’autre. La responsabilité des politiques n’est pas de se taire, mais de mettre fin aux causes de cette violence.",
             "Les syndicats ne sont pas assez ambitieux ! Leur hausse du SMIC ne profiterait qu’à 5 % des salariés. Ce que nous proposons, c’est 10 fois plus que ce qu’ils proposent. C’est une hausse de salaire collective de 10 %. En supprimant la CSG d’activité, c’est l’Etat qui porte l’effort en baissant ses dépenses et tout le monde sera augmenté : salariés au SMIC, comme tous les autres salariés…",
             "Nous, Français, subissons un double barrage technocratique, celui de Paris et celui de Bruxelles. Mais le mal est plus profond : depuis la Seconde Guerre mondiale, les Européens ne se voient plus grands. À part de Gaulle ou Thatcher, ils se sont raccrochés aux wagons américains. Pour créer nos géants de la tech, il faut d’abord oser nous voir grands de nouveau.",
+            "Je viens d’arriver à Bruxelles, où vous êtes très nombreux à ma dédicace du Casse du siècle. Je vous donne aussi rendez-vous, le 21 novembre à Toulon, pour le premier meeting d’Eric Zemmour. 👉 Inscrivez-vous : https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
+            "À force de vouloir être omniprésent, l’État est devenu impotent. Sous Bonaparte, l’État français était simple. Depuis 20 ans, on a multiplié les agences, les comités et les hautes autorités. Je veux simplifier, simplifier et simplifier ce système pour faire mieux avec moins.",
             "Cela fait à peu près 40 procédures contre moi en quelques années, et j’ai été relaxé 30 fois en 10 ans. Je n’ai volé personne et je n’ai pas détourné d’argent public. On me poursuit pour un délit d’opinion, au nom d’une loi liberticide que j’abolirai si je suis président.",
+            "Merci aux soignants de l’hôpital public et aux infirmiers libéraux écœurés du système de venir me raconter leur quotidien. Nous nous battrons ensemble pour vous libérer et vous donner les moyens d’exercer votre passion : soigner les Français. ⤵️",
             "Hier, à Limoges, vous avez été nombreux à venir me confier vos inquiétudes, mais surtout vos espoirs, notamment après avoir lu Le Casse du siècle. Tous vos témoignages me donnent encore plus envie de me battre pour vous. Merci !",
             "Le 11 novembre, nous célébrons la fin de la Première Guerre mondiale. Les Français se sont battus dans la boue, sous les obus, pour défendre la liberté de leur pays. Je me bats pour être digne de cet héritage.",
             "Je vous invite, dès maintenant, à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon. ✅ Inscrivez-vous : https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
             "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme. Je l’ai lu. C’est catastrophique. Je vous explique tout. ⤴️",
             "Le peuple français n’est pas condamné à être malheureux. Nous allons lui rendre sa liberté, sa joie de vivre et son génie créatif.",
             "Éric Zemmour : Je suis candidat à l’élection présidentielle de 2027. Notre avenir sera français !",
+            "Je vous donne aussi rendez-vous, le 21 novembre à Toulon, pour le premier meeting d’Eric Zemmour.",
+            "La responsabilité des politiques n’est pas de se taire, mais d’arrêter les causes de la violence.",
             "Je vous invite à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon.",
             "Bien arrivée à Limoges ! Vous êtes plus de 800 ce soir à ma dédicace. Merci pour tout !",
+            "À tout de suite sur France Info ! J’ai mis mon gilet pare-balles, donc je suis prêt.😉",
             "« Ces voyous paieront jusqu’à la fin de leur vie les dégâts qu’ils ont occasionnés. »",
-            "« Notre avenir sera français. » Ma première affiche de campagne. 👉 ericzemmour.fr",
-            "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme !",
-            "Nous ne sommes pas des extrémistes. Nous voulons sauver notre pays. 🇫🇷",
-            "Le 11 novembre, nous célébrons la fin de la Première Guerre mondiale.",
-            "Je ne veux pas ralentir la chute, mais changer de direction ! 🇫🇷💶",
-            "Battez vous à mes côtés pour que la France reste française. 🇫🇷🚀",
-            "La mesure de Reconquête! pour la hausse de tous les salaires ! 💶",
-            "Quand on entend « gratuit », ce sont les Français qui payent !",
-            "Je n’ai volé personne et je n’ai pas détourné d’argent public.",
-            "On ne peut pas aimer son pays et vouloir la guerre civile.",
-            "🇫🇷 Je suis candidat à l’élection présidentielle de 2027:"
+            "« Notre avenir sera français. » Ma première affiche de campagne. 👉 ericzemmour.fr"
           ]
         },
         {
           "url": "https://www.parti-reconquete.fr/",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 31,
+          "changed_at": "2026-11-13",
+          "removed_blocks": 43,
           "added": [
             "Il y a 108 ans, à 11 heures du matin, les cloches ont sonné dans toute la France. Dans chaque village, il y a un monument avec des noms, et souvent plusieurs fois le même nom de famille. Ces hommes avaient 20 ans. Ils avaient une ferme, un atelier, une fiancée, et ils ont tout donné pour que ce pays reste le nôtre. Serrer la main de ceux qui ont suivi leur exemple, c’est leur faire une promesse…",
+            "En 1945, 3% d’une classe d’âge avaient le baccalauréat ; aujourd’hui, c’est 90%. Nous avons cru que la massification serait indolore, et le résultat, c’est que la moitié des étudiants n’ont pas le niveau pour être à l’université. C’est pourquoi je veux rétablir les méthodes traditionnelles à l’école, puis le mérite et la sélection à tous les étages, avec un examen d’entrée en sixième et un vrai…",
+            "Je ne remplacerai pas un tiers des départs dans la fonction publique, et cela n’abîmera pas nos services publics. D’abord, leur problème n’est pas le manque de moyens, mais leur mauvaise gestion. Ensuite, Internet et l’IA font aujourd’hui ce que l’on faisait autrefois à la main. Enfin, la génération des boomers, très nombreuse, part à la retraite : c’est le moment de réduire les effectifs sans…",
             "La gauche parle d’une « Nouvelle France » depuis la Révolution, mais elle oublie toujours de dire que cette « Nouvelle France » se fait sur le dos de l’ancienne. Danton disait des aristocrates, qu’il envoyait à la guillotine, qu’ils étaient innocents, mais qu’ils gênaient l’avenir. Aujourd’hui, pour la gauche de Mélenchon, ce sont les Français qui gênent l’avenir. C’est pourquoi je dis aux…",
+            "À chaque problème, on nous répète le vieux discours syndical : il faut plus de moyens. Pourtant, nous avons aujourd’hui 5,9 millions d’agents publics, contre 4,6 millions il y a 30 ans, et ni l’école ni l’hôpital ne fonctionnent mieux. L’école est même le premier budget de l’État, et plus on y a mis d’argent, plus le niveau s’est effondré. Je veux réformer l’État en profondeur, au lieu de…",
+            "La gauche m’accuse d’avoir armé par mes mots l’assassin de Trappes. Mais quand des centaines de personnes ont été tuées ces dix dernières années au cri d’« allah akbar », elle nous a répondu « pas d’amalgame ». Alors, si les mots ne tuent pas dans un sens, ils ne tuent pas dans l’autre. La responsabilité des politiques n’est pas de se taire, mais de mettre fin aux causes de cette violence.",
             "Les syndicats ne sont pas assez ambitieux ! Leur hausse du SMIC ne profiterait qu’à 5 % des salariés. Ce que nous proposons, c’est 10 fois plus que ce qu’ils proposent. C’est une hausse de salaire collective de 10 %. En supprimant la CSG d’activité, c’est l’Etat qui porte l’effort en baissant ses dépenses et tout le monde sera augmenté : salariés au SMIC, comme tous les autres salariés…",
             "Nous, Français, subissons un double barrage technocratique, celui de Paris et celui de Bruxelles. Mais le mal est plus profond : depuis la Seconde Guerre mondiale, les Européens ne se voient plus grands. À part de Gaulle ou Thatcher, ils se sont raccrochés aux wagons américains. Pour créer nos géants de la tech, il faut d’abord oser nous voir grands de nouveau.",
+            "Je viens d’arriver à Bruxelles, où vous êtes très nombreux à ma dédicace du Casse du siècle. Je vous donne aussi rendez-vous, le 21 novembre à Toulon, pour le premier meeting d’Eric Zemmour. 👉 Inscrivez-vous : https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
+            "À force de vouloir être omniprésent, l’État est devenu impotent. Sous Bonaparte, l’État français était simple. Depuis 20 ans, on a multiplié les agences, les comités et les hautes autorités. Je veux simplifier, simplifier et simplifier ce système pour faire mieux avec moins.",
             "Cela fait à peu près 40 procédures contre moi en quelques années, et j’ai été relaxé 30 fois en 10 ans. Je n’ai volé personne et je n’ai pas détourné d’argent public. On me poursuit pour un délit d’opinion, au nom d’une loi liberticide que j’abolirai si je suis président.",
+            "Merci aux soignants de l’hôpital public et aux infirmiers libéraux écœurés du système de venir me raconter leur quotidien. Nous nous battrons ensemble pour vous libérer et vous donner les moyens d’exercer votre passion : soigner les Français. ⤵️",
             "Hier, à Limoges, vous avez été nombreux à venir me confier vos inquiétudes, mais surtout vos espoirs, notamment après avoir lu Le Casse du siècle. Tous vos témoignages me donnent encore plus envie de me battre pour vous. Merci !",
             "Le 11 novembre, nous célébrons la fin de la Première Guerre mondiale. Les Français se sont battus dans la boue, sous les obus, pour défendre la liberté de leur pays. Je me bats pour être digne de cet héritage.",
             "Je vous invite, dès maintenant, à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon. ✅ Inscrivez-vous : https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
             "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme. Je l’ai lu. C’est catastrophique. Je vous explique tout. ⤴️",
             "Le peuple français n’est pas condamné à être malheureux. Nous allons lui rendre sa liberté, sa joie de vivre et son génie créatif.",
             "Éric Zemmour : Je suis candidat à l’élection présidentielle de 2027. Notre avenir sera français !",
+            "Je vous donne aussi rendez-vous, le 21 novembre à Toulon, pour le premier meeting d’Eric Zemmour.",
+            "La responsabilité des politiques n’est pas de se taire, mais d’arrêter les causes de la violence.",
             "Je vous invite à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon.",
             "Bien arrivée à Limoges ! Vous êtes plus de 800 ce soir à ma dédicace. Merci pour tout !",
+            "À tout de suite sur France Info ! J’ai mis mon gilet pare-balles, donc je suis prêt.😉",
             "« Ces voyous paieront jusqu’à la fin de leur vie les dégâts qu’ils ont occasionnés. »",
-            "« Notre avenir sera français. » Ma première affiche de campagne. 👉 ericzemmour.fr",
-            "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme !",
-            "Nous ne sommes pas des extrémistes. Nous voulons sauver notre pays. 🇫🇷",
-            "Le 11 novembre, nous célébrons la fin de la Première Guerre mondiale.",
-            "Je ne veux pas ralentir la chute, mais changer de direction ! 🇫🇷💶",
-            "Battez vous à mes côtés pour que la France reste française. 🇫🇷🚀",
-            "La mesure de Reconquête! pour la hausse de tous les salaires ! 💶",
-            "Quand on entend « gratuit », ce sont les Français qui payent !",
-            "Je n’ai volé personne et je n’ai pas détourné d’argent public.",
-            "On ne peut pas aimer son pays et vouloir la guerre civile.",
-            "🇫🇷 Je suis candidat à l’élection présidentielle de 2027:"
+            "« Notre avenir sera français. » Ma première affiche de campagne. 👉 ericzemmour.fr"
           ]
         },
         {
