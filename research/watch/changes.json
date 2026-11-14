@@ -1,17 +1,18 @@
 {
   "since": "2026-11-09",
-  "generated": "2026-11-13",
+  "generated": "2026-11-14",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
   "candidates": {
     "arthaud": {
       "changed_pages": [
         {
           "url": "https://www.nathalie-arthaud.info",
-          "changed_at": "2026-11-13",
-          "removed_blocks": 8,
+          "changed_at": "2026-11-14",
+          "removed_blocks": 9,
           "added": [
             "La jeunesse mobilisée depuis des semaines et les centaines de milliers de travailleurs venus renforcer les rangs des manifestations, jeudi 5 novembre, mettent le gouvernement sous pression. Mais que propose-t-il pour le pouvoir d’achat ? Une provocation de plus ! Le smic, indexé sur l’inflation, devait automatiquement passer de 1477 euros à 1494 euros au 1er janvier 2027.",
             "L'éditorial en vidéo : Pouvoir d'achat : il faut augmenter tous les salaires !",
+            "Moselle TV : Nathalie Arthaud présente le sens de sa candidature",
             "Pouvoir d’achat : il faut augmenter tous les salaires !",
             "Mobilisation des lycéens, étudiants et travailleurs",
             "Pour de véritables augmentations des salaires",
@@ -20,14 +21,17 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/portail/index.html",
-          "changed_at": "2026-11-13",
-          "removed_blocks": 32,
+          "changed_at": "2026-11-14",
+          "removed_blocks": 39,
           "added": [
+            "Un nourrisson de 9 mois est mort de froid à Khan Younes, dans la bande de Gaza, où des dizaines de milliers de familles, chassées de chez elles par l’armée israélienne, sont réfugiées dans des abris de fortune, inondés suite aux pluies diluviennes et aux coulées de boue, mélangées avec les eaux usées. Les conditions climatiques et sanitaires, la destruction des infrastructures ainsi que la disette",
             "Le gouvernement voudrait faire croire que c’est un effort considérable que de porter le Smic à 1 502 euros net, contre 1 478 euros aujourd'hui. Ce n'est pas avec 24 euros de plus que ceux qui peinent à joindre les deux bouts vont s'en sortir ! Et pour ceux qui gagnent à peine plus que le Smic, rien n'est prévu, à part que leur salaire va se rapprocher encore du minimum légal.",
             "La jeunesse mobilisée depuis des semaines et les centaines de milliers de travailleurs venus renforcer les rangs des manifestations, jeudi 5 novembre, mettent le gouvernement sous pression. Mais que propose-t-il pour le pouvoir d’achat ? Une provocation de plus ! Le smic, indexé sur l’inflation, devait automatiquement passer de 1477 euros à 1494 euros au 1er janvier 2027.",
             "Dans ce secteur, les salariés sont dispersés sur différents sites, chez différents clients et dans des équipes qui ne se connaissent pas. Les entreprises les mettent en concurrence, les missions se succèdent et les collègues disparaissent parfois du jour au lendemain, licenciés ou poussés vers la sortie.",
             "En Arabie saoudite, Esther Wanja Muthoni, une Kényane travaillant comme domestique, mère célibataire de cinq enfants, a été condamnée à recevoir prochainement cent coups de fouet. Son crime est d’avoir accouché de son dernier fils en dehors du mariage.",
             "Le gouvernement veut économiser 250 millions d'euros sur l'allocation personnalisée d'autonomie (APA), qui finance notamment les aides à domicile des personnes âgées dépendantes. Il envisage, pour cela, d'augmenter la somme restant à leur charge.",
+            "Le 11 novembre, un technicien a perdu la vie en chutant dans un fermenteur de Paprec près de Calais. Cette tragédie survient après le décès de deux autres employés au travail sur les installations de Paprec au cours des trois dernières années.",
+            "Début octobre, 40 000 élèves étaient toujours privés d'accompagnant d'élèves en situation de handicap (AESH) à l'échelle du pays. Cela représente 11 % des élèves ayant droit à ce dispositif dans l'enseignement primaire et secondaire.",
             "« Nous sommes des noyés » a déclaré une habitante de Gaza, au beau milieu des inondations déclenchées le 6 novembre par le cumul des pluies incessantes et des vents violents de ce début d’un quatrième hiver de détresse.",
             "Le projet d’implantation d’un nouveau data center à Cauffry- Rantigny, dans l’Oise, négocié dans le secret le plus total, a soulevé depuis sa publication l’hostilité et l’indignation de toute une …",
             "Dans la banlieue de Kiev, le 2 novembre, des manifestants et des membres de leur famille ont délivré une quarantaine de personnes détenues dans un bâtiment discret, sinon secret, de …",
@@ -40,14 +44,11 @@
             "L'éditorial en vidéo : Pouvoir d'achat : il faut augmenter tous les salaires !",
             "Limoges : Les travailleurs de l’informatique commencent à s’organiser !",
             "Mélenchon : Pour tout changer, les travailleurs devront s’imposer",
+            "Moselle TV : Nathalie Arthaud présente le sens de sa candidature",
             "Enfance catalane – Perpignan : assez de travailler pour rien !",
             "Pouvoir d’achat : il faut augmenter tous les salaires !",
             "Turquie : « Nous ne voulons pas mourir au travail ! »",
-            "A69 : l'argent public au service des profits privés",
-            "Mobilisation des lycéens, étudiants et travailleurs",
-            "Mélenchon au Bourget : les urnes pour seul horizon",
-            "Violences policières : Les coups et les mensonges",
-            "Bangladesh : les travailleurs du textile en grève"
+            "Guerre « de haute intensité » : préparatifs macabres"
           ]
         },
         {
@@ -58,20 +59,20 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 1,
-          "added": []
-        },
-        {
-          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=20",
-          "changed_at": "2026-11-12",
+          "changed_at": "2026-11-14",
           "removed_blocks": 2,
           "added": []
         },
         {
-          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=10",
-          "changed_at": "2026-11-13",
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=20",
+          "changed_at": "2026-11-14",
           "removed_blocks": 3,
+          "added": []
+        },
+        {
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=10",
+          "changed_at": "2026-11-14",
+          "removed_blocks": 4,
           "added": []
         }
       ],
@@ -81,8 +82,8 @@
       "changed_pages": [
         {
           "url": "https://attalpresident.fr/",
-          "changed_at": "2026-11-13",
-          "removed_blocks": 77,
+          "changed_at": "2026-11-14",
+          "removed_blocks": 80,
           "added": [
             "Ce dimanche 8 novembre, Gabriel Attal était à Saint-Raphaël, dans le Var, pour participer à la 9e édition des Rencontres de l’avenir, où il a été reçu par Nicolas Bouzou, président de l’événement. À l’occasion d’un échange consacré aux grands défis de notre pays, il est revenu sur ses priorités pour 2027 : l’éducation, la jeunesse, l’autorité, le pouvoir d’achat, les finances publiques et l’intell",
             "Refuser le déclin, débloquer la société, garantir que chaque génération vive mieux que la précédente. Voici les engagements concrets qui structurent la campagne, et les dettes à résorber que nous devons assumer pour rendre cet avenir possible.",
@@ -91,8 +92,10 @@
             "Garantir le remplacement des professeurs absents en donnant aux établissements l autonomie d organiser eux-mêmes la continuité des cours.",
             "Un accompagnement financier direct pour les professionnels dont le métier impose un véhicule, plutôt qu une baisse de taxe générale.",
             "Un accompagnement financier direct pour les professionnels dont le métier impose un véhicule, plutôt qu une baisse de taxe générale.",
+            "Une réponse systématique aux dégradations : faire payer les casseurs et faire réparer les mineurs par des travaux d intérêt général.",
             "Gabriel Attal aux Rencontres de l’avenir à Saint-Raphaël : « La France doit redevenir la première puissance d’Europe en dix ans »",
             "Le travail doit payer. Le travail doit permettre de vivre, pas seulement de survivre. Notre combat : faire monter les salaires.",
+            "Aucune loi votée sans une évaluation préalable de ce qu elle coûte concrètement et combien elle pèse sur une petite entreprise.",
             "Dans votre département, des femmes et des hommes font campagne à mes côtés. L annuaire les nomme, territoire par territoire.",
             "Refuser le déclin, débloquer la société. Les engagements concrets qui structurent la campagne, et les dettes à résorber.",
             "Quelques minutes pour partager vos priorités pour la France de 2027. Vos réponses alimentent directement le programme.",
@@ -105,10 +108,8 @@
             "Une amende forfaitaire dès le premier acte de maltraitance animale constaté, sans attendre la récidive.",
             "Harcèlement scolaire : Gabriel Attal donne la parole à huit jeunes victimes et réaffirme son engagement",
             "Celles et ceux qui font campagne à mes côtés, sur le terrain, dans les médias et dans le débat public.",
-            "Gens du voyage : des amendes majorées et des saisies des véhicules en cas d’occupation illégale",
-            "Gabriel Attal : « C’est la responsabilité de ma génération de faire les États-Unis d’Europe »",
-            "Ouvrir la comparution immédiate aux mineurs récidivistes, pour que la sanction suive l acte.",
-            "Gabriel Attal appelle à une grande primaire pour rassembler les démocrates face aux extrêmes"
+            "Une part de capitalisation dans le système de retraite, dont l épargne finance l innovation française.",
+            "Gens du voyage : des amendes majorées et des saisies des véhicules en cas d’occupation illégale"
           ]
         },
         {
@@ -121,7 +122,936 @@
           ]
         }
       ],
-      "new_pages": []
+      "new_pages": [
+        {
+          "url": "https://attalpresident.fr/actualites",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/annonce-de-candidature",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/appel-500-elus-gabriel-attal-presidentielle",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/livre-en-homme-libre-gabriel-attal",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-premier-meeting-presidentiel",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/en-aveyron-gabriel-attal-lance-sa-campagne-presidentielle",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-20h-tf1-quatre-chantiers-capitaux-pour-la-france",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-france-inter-election-presidentielle",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-deplacement-lycee-jean-zay-orleans-education-ia",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/meeting-de-gabriel-attal-a-paris-l-elan-d-une-france-qui-choisit-l-avenir",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-rtl-autorite-ecole-retraites-rassemblement-campagne",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/attal-president-l-application-de-campagne-de-gabriel-attal-boostee-a-l-ia",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-l-ain-et-la-saone-et-loire",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/force-d-agir-une-mobilisation-eclair-des-militants-renaissance-partout-en-france",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-bfm-tv-sa-strategie-de-rupture-pour-rebatir-la-justice-et-proteger-les-enfants",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-le-figaro-appelle-a-une-nouvelle-justice",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-bfm-tv-la-france-a-toujours-un-role-a-jouer-c-est-sa-mission-c-est-son-destin",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/eurosatory-gabriel-attal-presente-sa-strategie-de-souverainete-technologique-et-d-independance-europeenne-au-salon",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-appelle-a-une-rupture-economique-dans-les-echos",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-france-info-ia-pouvoir-d-achat-et-climat-au-coeur-de-sa-campagne",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/vivatech-gabriel-attal-place-l-intelligence-artificielle-et-la-souverainete-au-coeur-de-son-projet",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-les-yvelines-l-intelligence-artificielle-au-service-de-l-exception-agricole",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-tarbes-la-geoenergie-pour-adapter-la-france-aux-grandes-canicules",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-pour-le-retour-du-royaume-uni-dans-l-union-europeenne-dans-le-figaro",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-veut-briser-la-tenaille-rn-lfi-dans-la-tribune-dimanche",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/face-aux-canicules-gabriel-attal-veut-faire-de-la-geoenergie-le-grand-projet-energetique-de-la-france-du-xxie-siecle",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/grand-entretien-de-gabriel-attal-sur-lci",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/dans-le-parisien-gabriel-attal-vise-le-zero-deficit-en-2037",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/aux-rencontres-economiques-d-aix-en-provence-gabriel-attal-appelle-la-france-a-preparer-les-guerres-de-demain",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-tf1-le-choix-du-rassemblement-national-est-un-choix-qui-nous-emmenerait-dans-le-mur",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-villers-cotterets-briser-la-tenaille-des-extremes",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-creil-poursuivre-le-combat-pour-desserrer-la-tenaille-des-extremes",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-france-inter-la-france-merite-mieux-qu-une-guerilla-judiciaire",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/rtl-gabriel-attal-appelle-a-sortir-de-la-chronique-judiciaire-du-rn-et-recentrer-le-debat-sur-les-francais",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-fin-de-vie-l-aboutissement-d-un-long-chemin-et-la-consecration-d-un-droit-nouveau",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-continue-son-tour-de-france-a-nevers",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-annonce-un-grand-meeting-regional-10-octobre-a-lyon",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-une-victoire-decisive-pour-proteger-notre-jeunesse",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/dans-le-telegramme-gabriel-attal-veut-un-choc-de-salaires-et-instaurer-le-droit-au-brut",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-annecy-aux-cotes-des-francais-qui-travaillent",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-en-bretagne-trois-jours-au-contact-de-la-france-qui-travaille",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-spa-de-plaisir-premieres-propositions-contre-labandon-animal",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/dans-la-tribune-dimanche-gabriel-attal-veut-un-referendum-pour-interdire-les-reseaux-sociaux-aux-moins-de-15-ans",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-avec-les-francais-qui-travaillent-l-ete-visite-du-marche-de-chateaurenard",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/en-vendee-gabriel-attal-exige-le-respect-du-droit-par-tous-face-aux-occupations-illegales-des-gens-du-voyage-et-fait-des-propositions",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-plan-eau-argeles-sur-mer",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/en-deplacement-a-la-grande-motte-gabriel-attal-va-a-la-rencontre-de-la-france-qui-travaille-l-ete",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/protection-de-l-enfance-gabriel-attal-en-visite-a-aulnay-sous-bois-pour-rencontrer-les-jeunes-et-leurs-encadrants",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/dans-le-monde-gabriel-attal-devoile-son-projet-pour-faire-notre-ecole-la-meilleure-d-europe",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/a-la-ref-gabriel-attal-grand-gagnant-du-premier-debat-de-la-presidentielle-2027",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/lci-gabriel-attal-defend-un-projet-de-rupture-pour-repondre-aux-grands-defis-du-pays",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/en-mayenne-gabriel-attal-au-contact-de-la-france-qui-travaille",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-annonce-ses-premieres-mesures-pour-les-familles-monoparentales-a-la-premiere-universite-d-ete",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-au-contact-du-monde-agricole-et-de-ceux-qui-font-vivre-nos-territoires-a-la-foire-de-chalons",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/france-2-gabriel-attal-fait-de-l-ecole-une-priorite-pour-preparer-l-avenir-du-pays",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-son-equipe-de-campagne-pour-l-election-presidentielle-de-2027",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/six-porte-paroles-pour-porter-les-idees-de-gabriel-attal",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-toulouse-au-plus-pres-des-francais-et-de-ceux-qui-font-vivre-nos-terroirs",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-braderie-de-lille-aller-a-la-rencontre-des-francais-partout-sur-le-territoire",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/1-000-bistrots-partout-en-france-la-campagne-de-gabriel-attal-vient-a-votre-rencontre",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/bfm-tv-gabriel-attal-veut-changer-de-modele-pour-redonner-de-la-puissance-a-la-france",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/j-30-avant-le-meeting-de-gabriel-attal-a-lyon",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-veut-remettre-l-exigence-au-coeur-de-l-ecole-et-transformer-le-modele-francais-sur-france-info",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/a-saint-malo-gabriel-attal-poursuit-sa-campagne-de-terrain-avec-les-1-000-bistrots",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/metz-magny-gabriel-attal-veut-preparer-l-avenir-de-l-agriculture-francaise",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-foire-du-mans-celebrer-nos-terroirs-et-aller-a-la-rencontre-de-ceux-qui-les-font-vivre",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-a-reims-batir-les-etats-unis-d-europe-pour-retrouver-notre-puissance",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-france-2-gerer-l-urgence-et-preparer-l-avenir",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-celles-et-ceux-qui-construiront-son-projet-pour-2027",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-bfm-tv-le-plus-juste-c-est-d-accompagner-ceux-qui-travaillent",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-un-plan-de-desendettement-et-un-messmer-ii-pour-sortir-des-dependances-francaises",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-politico-europe-ukraine-ia-et-finances-publiques-quatre-priorites-pour-preparer-la-france-de-demain",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-rtl-je-suis-candidat-pour-gagner-cette-election-presidentielle",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-veut-liberer-l-acces-au-logement-et-relancer-le-secteur-du-batiment",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/aux-assises-de-l-afer-gabriel-attal-defend-une-epargne-qui-finance-l-economie-francaise",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-cnews-et-europe-1-il-faut-proposer-aux-francais-un-projet-d-espoir",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-le-parisien-rassemblement-jeunesse-et-dette",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-face-aux-lyceens-il-faut-un-president-qui-comprenne-la-jeunesse",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-debat-avec-les-francais-a-blois-et-a-bourges",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-en-meeting-a-lyon-un-pacte-pour-la-jeunesse",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-lettre-aux-francais-plan-finances-publiques",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-france-info-ecouter-la-jeunesse",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-rtl-retablir-ordre-jeunesse-avenir-france",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-retablir-ordre-mettre-fin-impunite",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-lance-une-grande-consultation-pacte-pour-la-jeunesse",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-retablir-ordre-pacte-avenir-jeunesse",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-responsabilite-generation-etats-unis-europe",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-vision-economique-liberer-innover-independance-france",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-recu-chez-mistral-ai-arthur-mensch-intelligence-artificielle",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-primaire-grand-rassemblement-risque-second-tour-rn-lfi",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-grande-primaire-rassembler-democrates-face-extremes",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-rassemblement-eviter-second-tour-rn-lfi-hausse-salaires",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-bretagne-deux-jours-rencontre-territoire",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-bfm-tv-seule-primaire-peut-permettre-rassemblement",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/harcelement-scolaire-gabriel-attal-parole-huit-jeunes-victimes-engagement",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-rencontres-avenir-saint-raphael-france-premiere-puissance-europe-dix-ans",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/dette-ecologique",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/dette-de-letat",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/intelligence-artificielle",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/frontieres",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/travail-salaires",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/education",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/plan-voltaire-esprit-critique",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/remplacement-enseignants-absents",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/methode-singapour",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/aide-professionnels-vehicule",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/capitalisation-startups",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/test-pme-avant-chaque-loi",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/loi-de-stabilite-fiscale",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/big-bang-territorial",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/tu-casses-tu-repares",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/comparution-immediate-mineurs",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/amendes-majorees-saisie-vehicules",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/carte-famille-monoparentale",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/durcir-regroupement-familial",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/amende-des-le-premier-acte-maltraitance",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/bouclier-tarifaire-eau",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/stabilite-prix-electricite",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/plan-france-2040",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/journee-referendaire-annuelle",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/preference-europeenne-defense",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/retablir-redoublement",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/bareme-national-sanctions",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/conseil-discipline-primaire",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/vingt-millions-salaries-ia",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/extension-batiments-elevage",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/aides-directes-plutot-que-baisses-de-taxes",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/fonds-investissement-defense",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/aucune-hausse-impots",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/ia-traitement-judiciaire",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/imprescriptibilite-crimes-sexuels-mineurs",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/delit-maintien-illicite",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/depistage-pfas-captages",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/plan-messmer-2",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/doubler-subventions-geoenergie",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/politique-ia-europeenne-commune",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/plafond-dix-huit-mois-procedures",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/referendums-locaux-facilites",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/pac-moyens-renforces",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/livre-blanc-defense-2027",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/droit-a-la-climatisation",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/climatisation-etablissements",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/revalorisation-salaires-professeurs",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/ia-savoirs-fondamentaux",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/annee-passerelle",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/droit-au-brut",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/interessement-petites-structures",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/clauses-miroir-systematiques",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/contractualisation-pluriannuelle",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/cent-mille-postes-en-moins",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/interconnecter-fichiers",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/parquet-national-pedocriminalite",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/attestation-honorabilite-mineurs",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/defiscaliser-pensions-alimentaires",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/immigration-systeme-a-points",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/encadrer-ventes-animaux-en-ligne",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/ministere-de-l-eau",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/quintupler-capacites-geoenergie",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/puissance-de-calcul-europeenne",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/reforme-nominations-hautes-fonctions",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/audit-programmes-armement",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/certificat-etudes-cm2",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/groupes-de-niveau-college",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/un-seul-ministre-education",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/statut-auto-tpe",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/interessement-vers-epargne-retraite",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/fiscalite-portage-foncier",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/prix-planchers-agricoles",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/deficit-sous-trois-pour-cent",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/equilibre-securite-sociale",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/perpetuite-reelle-predateurs",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/premiers-actes-quarante-huit-heures",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/procedures-mineurs-trois-mois",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/dossier-administratif-par-convoi",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/droit-au-repit",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/plan-eau-a-euro-constant",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/reponse-subvention-quatre-vingt-dix-jours",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/simplifier-forages-geothermiques",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/diviser-par-deux-dependance-militaire",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/assistant-medical-ia",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/brevet-obligatoire-entree-lycee",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/former-tous-enseignants-ia",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/tuteur-numerique-souverain",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/constitution-du-travail",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/refuser-mercosur",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/commande-publique-defense",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/reforme-assurance-chomage-cinq-milliards",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/renseignement-ofmin",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/trois-mille-magistrats-greffiers",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/facturation-tarif-camping",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/parcours-separation-simplifie",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/quotas-migratoires-revises",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/fichier-interdits-de-detention",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/reparer-cinq-cents-reseaux-eau",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/fusion-nucleaire-europe",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/delai-deux-mois-porteurs-projets",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/maire-elu-le-plus-puissant",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/dome-de-fer-europeen",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/thematiques/sante",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/thematiques/defense",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/thematiques/simplification",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/thematiques/agriculture",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/agriculteurs",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/enseignants",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/salaries",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/artisans-commercants-entrepreneurs",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/retraites",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/habitants-des-zones-rurales",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/cadres-et-classes-moyennes",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/fonctionnaires",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/familles-monoparentales",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/parents",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/publics/jeunes-et-etudiants",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/philippe-englebert",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/paul-midy",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/agnes-pannier-runacher",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/prisca-thevenot",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/thomas-cazenave-president-comite-maires",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/fanny-anor-directrice-de-campagne",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/franck-riester-directeur-de-campagne",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/maxime-cordier-directeur-de-campagne",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/rachel-flore-pardo-porte-parole",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/jad-zahab-porte-parole",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/abdoulaye-kante-porte-parole",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/violette-spillebout-porte-parole",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/jean-charles-orsucci-porte-parole",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/mon-equipe/celine-geraud-porte-parole",
+          "first_seen": "2026-11-14"
+        }
+      ]
     },
     "bertrand": {
       "changed_pages": [],
@@ -145,8 +1075,8 @@
         },
         {
           "url": "https://www.dupontaignan.fr/",
-          "changed_at": "2026-11-13",
-          "removed_blocks": 102,
+          "changed_at": "2026-11-14",
+          "removed_blocks": 120,
           "added": [
             "+5,8 % au 1er décembre, après +6,6 % en novembre, +6,3 % en octobre et +5,6 % en septembre. Soit une hausse de +42,6% depuis le 1er janvier 2025. La seule solution pour réduire le prix du gaz est de lever les sanctions contre la Russie afin de pouvoir importer son gaz QUATRE fois moins cher que le GNL américain. ... Voir plus Voir moins",
             "Une adjointe au maire, élue LR, aurait été violemment agressée devant un établissement scolaire. Aspergée d’essence, frappée à la poitrine, elle dépose plainte pour tentative de meurtre. Quand des élus ne peuvent même plus exercer leurs fonctions sans risquer leur vie, c’est toute l’autorité de la République qui est piétinée.",
@@ -154,9 +1084,13 @@
             "🇫🇷 Après avoir présenté à la presse mon projet économique présidentiel, je me rendrai avec Philippe Murer et Alexis Villepelet au Salon du Made in France à Paris pour rencontrer les entrepreneurs, artisans et industriels qui font rayonner nos savoir-faire et portent l’économie du pays !",
             "Au moment où la France est menacée dans son existence même, ce géant de notre histoire nous inspire et nous donne la force de rétablir notre indépendance nationale et notre souveraineté populaire. La survie, le redressement et le rayonnement de la France en dépendent.",
             "Quel que soit l’immense talent sportif de Teddy Riner, qui a fait vibrer les Français aux Jeux olympiques, il suffit de lire son interview dans Le Parisien ce matin pour comprendre qu’il est le nouveau faux nez du macronisme agonisant.",
+            "Mais qui met aujourd’hui le débat public au pas, marginalise les voix dissidentes et décide de ce que les Français peuvent entendre ? Ceux-là mêmes qui donnent des leçons de démocratie depuis Bruxelles et l’Élysée !",
             "Produire français, relocaliser nos emplois et retrouver notre souveraineté industrielle en se libérant de l’Union européenne : voilà les priorités de mon projet présidentiel 2027 ! ... Voir plus Voir moins",
             "On imagine déjà le calcul : un champion populaire pour tenter de redorer le blason d’un pouvoir à bout de souffle. Comme si les Français allaient confondre une médaille d’or avec un bilan présidentiel !",
             "🇫🇷 Quel plaisir d’échanger au Salon du Made in France avec ces entrepreneurs, artisans et industriels qui se battent chaque jour pour produire en France et tiennent notre économie à bout de bras !",
+            "Ce rejet traduit une colère grandissante face à une Commission européenne qui prétend parler au nom des peuples tout en imposant ses choix, notamment sur la guerre et la politique étrangère.",
+            "Plus de libéralisme et moins de charges pour les entreprises qui produisent en France… appuyés par plus de protectionnisme, avec un État stratège, pour l’ensemble de l’économie française.",
+            "Quand Emmanuel Macron est arrivé, la France versait 17 milliards d’euros à l’UE… Cela passerait à 42 milliards en 2034, si le nouveau budget européen actuellement discuté était adopté !",
             "« Il faut prévoir un déménagement. Je ne peux plus me déplacer toute seule, j’ai peur dans la rue. » Témoignage glaçant de Louise, menacée de mort avec sa famille depuis des semaines.",
             "Teddy Riner a trop de qualités pour se laisser instrumentaliser. Qu’il garde ses médailles, le macronisme n’est pas un combat qui mérite d’être disputé ! 🥋 ... Voir plus Voir moins",
             "Pour y parvenir, la PREMIÈRE ET PRINCIPALE CONDITION est de doper la production en France, mais aussi d’oser un protectionnisme intelligent et de remettre en place un État stratège.",
@@ -168,11 +1102,7 @@
             "Décidément, l’Élysée ne manque pas d’imagination : après avoir épuisé le stock de recyclage politique, voilà qu’il semble vouloir recruter jusque sur les tatamis !",
             "Ses propos sont tout simplement sidérants. S’en prendre ainsi à une jeune femme qui témoigne de menaces de mort est absolument indigne. ... Voir plus Voir moins",
             "Je propose un SMIC à 1 600 € net par mois, accompagné d’une baisse proportionnelle des cotisations salariales pour ne pas pénaliser les entreprises françaises.",
-            "Un projet libérant la France de la tutelle de l’Union européenne pour réconcilier la liberté économique et la justice sociale ! ... Voir plus Voir moins",
-            "Voir les commentaires Like reaction Love reaction Haha reaction Wow reaction Sad reaction Angry reaction Reactions: 205 Partages : 50 Commentaires : 14",
-            "Le plus bel hommage que nous puissions rendre au général de Gaulle, c’est de nous battre sans relâche pour rétablir l’indépendance de notre pays ! 🇫🇷",
-            "En se lavant les mains de son sort, Emmanuel Macron et son gouvernement font preuve d’une complaisance insupportable à l’égard du régime algérien.",
-            "Notre pays regorge de talents et d’initiatives… je veux les libérer grâce à mon projet économique présidentiel structuré autour de 3 grands axes👇"
+            "📺 Retrouvez-moi demain, samedi 14 novembre à 10:00, dans l’émission #LeSamediPolitique sur @tvlofficiel, au micro de @BlaiseElise🎙️ ... Voir plus Voir moins"
           ]
         },
         {
@@ -184,6 +1114,38 @@
             "Augmenter le SMIC à 1600 euros net (98 euros supplémentaires) en compensant cette hausse par une baisse proportionnelle des cotisations salariales pour ne pas pénaliser les entreprises. Cette réduction sera dégressive afin d’éviter les effets de seuil et concernera 2,5 millions de salariés.",
             "10 MESURES POUR RELANCER LE POUVOIR D’ACHAT ET RÉCOMPENSER LE TRAVAIL",
             "PRODUIRE EN FRANCE ET RÉCOMPENSER LE TRAVAIL"
+          ]
+        },
+        {
+          "url": "https://www.debout-la-france.fr/projet/culture-patrimoine/",
+          "changed_at": "2026-11-14",
+          "removed_blocks": 100,
+          "added": [
+            "La culture n’est pas un luxe, mais une nécessité. La culture n’est pas une fantaisie mais une ardente obligation. La culture n’est pas un boulet mais un atout. La culture n’est pas une dépense sans contrepartie mais un enrichissement, personnel par le supplément d’âme qu’elle met dans la vie de chacun et collectif par ses retombées touristiques et économiques. La culture n’est pas l’affaire de la ",
+            "La langue française s’efface victime de la prédominance de l’anglais qui s’impose dans nos films, séries et institutions, affaiblissant la visibilité de notre création nationale. Le spectacle vivant et les arts, pourtant au cœur de notre identité et de notre rayonnement international, peinent à se développer sur l’ensemble du territoire accentuant la fracture géographique et sociale dans l’accès à",
+            "Pourtant, la France dispose d’atouts uniques. Notre patrimoine bâti et historique, nos musées, nos scènes nationales et nos centres dramatiques sont des références mondiales. Le spectacle vivant, le cinéma, la littérature et les arts plastiques constituent un héritage riche et diversifié qui rayonne bien au-delà de nos frontières. À l’échelle locale, de nombreuses initiatives émergent pour restaur",
+            "Protéger et faire rayonner la langue française en France et hors de France : appliquer la loi Toubon, proscrire l’écriture dite « inclusive » et l’orthographe réformée de 1991 ; Enrichir la langue française, sur le modèle québécois, plutôt que de créer des anglicismes.",
+            "Doubler les crédits d’entretien et de restauration du patrimoine , pour atteindre 1 milliard d’euros par an. Les 500 millions supplémentaires proviendront d’une réduction des crédits de l’audiovisuel public qui s’élève à la somme exorbitante de l’audiovisuel public.",
+            "Remplacer le pass culture totalement dévoyé par un « ticket découverte culturelle » annuel à tous les jeunes de 14 à 18 ans , donnant droit à deux options parmi cinéma (arts et essais), théâtre, exposition, concert (musique classique) ou monument historique.",
+            "Créer un fonds de sauvegarde du patrimoine rural pour sauver nos églises et chapelles menacées de disparition, ouvrant droit à une déduction fiscale de 66% dans la limite de 7500€ pour les dons aux communes de moins de 1 000 habitants.",
+            "Réduire la fracture géographique d’accès à la culture, notamment dans les territoires ruraux : resserrer le maillage des structures nationales (Musées nationaux, Scènes nationales, C.D.N., C.C.N., C.L.N.), notamment en :",
+            "Grâce à des mesures concrètes et ambitieuses, nous voulons faire rayonner notre héritage, rapprocher les citoyens de leurs racines et donner à chaque Français la possibilité de s’élever et de s’enrichir par la culture.",
+            "Recentrer sur ses missions originelles d’intérêt général : impartialité, culture, langue française, mis en valeur de notre diversité régionale en métropole comme outre-mer, rayonnement de la France à l’étranger.",
+            "Nos 43 000 édifices classés ou inscrits monuments historiques, véritable richesse pour l’économie et l’identité nationale, souffre d’un manque criant de moyens pour leur entretien et leur valorisation.",
+            "Utiliser les chantiers de restauration comme outils de réinsertion et d’apprentissage pour jeunes non qualifiés et chômeurs de longue durée, dans le cadre d’un contrat de travail universel.",
+            "Encourager l’innovation numérique : plateforme publique de diffusion des contenus culturels (musées, BNF, audiovisuel) et moteur de recherche public pour fédérer les collections.",
+            "Imposer une pièce de théâtre hebdomadaire du répertoire classique sur les principales chaînes du service public (France 2 ou France 3) en première partie de soirée.",
+            "Renforcer la formation aux métiers du patrimoine : architectes, artisans, alternance pour les métiers du bâti ancien, formations courtes pour auto-restaurateurs.",
+            "C’est pourquoi Debout la France veut sauver notre patrimoine, soutenir la création artistique et la langue française et élargir l’accès à la culture pour tous.",
+            "Inventorier les richesses patrimoniales non classées « Monument historique » et les intégrer dans les plans d’urbanisme pour mieux les protéger.",
+            "Améliorant leur diffusion en systématisant autant que possible les captations vidéo de spectacles et la numérisation des collections.",
+            "Numériser le patrimoine français et le publier sur un portail unique pour le rendre accessible au grand public.",
+            "Livres audio et braille, cartels accessibles, audioguides, dispositifs tactiles et olfactifs.",
+            "Systématisation du sous-titrage et de l’accompagnement dans les spectacles et cinémas.",
+            "Développement de la création numérique et des jeux vidéo comme art à part entière.",
+            "Généralisant l’itinérance des spectacles, des collections et des fonds livresques",
+            "Éveil au patrimoine et aux arts en partenariat avec institutions et associations.",
+            "La culture et le patrimoine français sont confrontés à de multiples défis."
           ]
         }
       ],
@@ -203,6 +1165,10 @@
         {
           "url": "https://www.dupontaignan.fr/evenement/nicolas-dupont-aignan-sur-tv-libertes-le-14-11-26/",
           "first_seen": "2026-11-13"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/evenement/meeting-de-campagne-le-6-fevrier-2027/",
+          "first_seen": "2026-11-14"
         }
       ]
     },
@@ -221,6 +1187,10 @@
         {
           "url": "https://glucks2027.fr/revolution-ecologique/",
           "first_seen": "2026-11-10"
+        },
+        {
+          "url": "https://glucks2027.fr/meeting/vip/",
+          "first_seen": "2026-11-14"
         }
       ]
     },
@@ -228,62 +1198,235 @@
       "changed_pages": [
         {
           "url": "https://marinelepen.com/",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 0,
+          "changed_at": "2026-11-14",
+          "removed_blocks": 2,
           "added": [
+            "La vidéo sera disponible lorsque son fichier ou son lien aura été renseigné.",
+            "Consultez les communiqués officiels et l’actualité de la campagne",
+            "Présidentielle 2027 : Marine Le Pen, site officiel de campagne",
+            "Pour la France, aidez Marine dans sa campagne présidentielle.",
+            "Retrouvez les actualités et les communiqués de la campagne.",
+            "Soutien, don et participation : on vous explique tout !",
+            "Suivez les déplacements de la campagne de Marine",
+            "Je soutiens Marine Faire un don (nouvel onglet)",
             "Commune Saisissez d’abord le code postal"
           ]
         }
       ],
-      "new_pages": []
+      "new_pages": [
+        {
+          "url": "https://marinelepen.com/medias",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/don",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/biographie",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/contact",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites?rubrique=communiques",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/aider",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/deplacements",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-27-octobre-2026",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-5-novembre-2026",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/discours-de-jordan-bardella-a-orleans",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-19-octobre-2026",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/discours-de-marine-le-pen-a-orleans",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/protection-de-lenfance-a-moissac-marine-le-pen-annonce-une-grande-cause-nationale",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/deplacement-a-bruxelles-pour-une-renaissance-europeenne",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-9-octobre-2026",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/acces-a-leau-dans-les-outremers-le-vote-sectaire-du-parlement-empeche-ladoption-de-la-resolution-du-rassemblement-national",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/marine-le-pen-presente-un-plan-de-redressement-budgetaire-pour-la-france",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-30-septembre-2026",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/communique-de-marine-le-pen-et-jordan-bardella-sur-la-deterioration-de-la-situation-securitaire-en-europe-et-les-actions-hybrides-russes",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-14-septembre-2026",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/5/telecharger",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/4/telecharger",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/1/telecharger",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/3/telecharger",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/2/telecharger",
+          "first_seen": "2026-11-14"
+        }
+      ]
     },
     "lisnard": {
       "changed_pages": [
         {
           "url": "https://www.unenouvelleenergie.fr/notre-programme/",
-          "changed_at": "2026-11-13",
-          "removed_blocks": 4,
+          "changed_at": "2026-11-14",
+          "removed_blocks": 5,
           "added": [
             "Prochains rendez-vous : Clermont-Ferrand, Pessac, Asnières-sur-Seine et Barry-d Islemade",
             "Prochains rendez-vous : Grand Baie, Guérande, San Francisco et Saint-Grégoire",
             "Prochains rendez-vous : Oraison, Metz, Orléans et Châlons-en-Champagne",
-            "Prochains rendez-vous : Dubaï, Londres, Clermont-Ferrand et Pessac"
+            "Prochains rendez-vous : Dubaï, Londres, Clermont-Ferrand et Pessac",
+            "Prochains rendez-vous : Aigues-Mortes, Lyon, Bangkok et Monaco"
           ]
         },
         {
           "url": "https://www.unenouvelleenergie.fr/",
-          "changed_at": "2026-11-13",
-          "removed_blocks": 32,
+          "changed_at": "2026-11-14",
+          "removed_blocks": 45,
           "added": [
             "ET SI NOUS DONNIONS ENSEMBLE UN NOUVEL ÉLAN À LA FRANCE ? La France a besoin d idées nouvelles, de courage, d énergie et surtout d une véritable volonté de changement. Avec Nouvelle Énergie, nous faisons le choix de l engagement, de la liberté, de la responsabilité et de l action. Nous vous invitons à venir échanger, débattre et partager nos convictions à l occasion d une réunion publique à Pessac",
             "Nouvelle Énergie 82 lance ses « Itinérances tarn-et-garonnaises » ! Première étape dans le Pays de Lafrançaise, à la rencontre des adhérents, des sympathisants de David Lisnard et de tous ceux qui souhaitent découvrir le mouvement, autour de Pascal Ellul, relais Nouvelle Énergie Tarn-et-Garonne. Jeudi 12 novembre, 19h, à Barry-d Islemade Salle des fêtes, Le Bourg, 82290 Barry-d Islemade Inscriptio",
+            "Vendredi 6 novembre 2026, David Lisnard a participé aux Rencontres de l’Avenir à Saint-Raphaël, à l’invitation de Frédéric Masquelier. Au cours d’un débat présidentiel animé par Nicolas Bouzou, aux côtés de Raphaël Doan, essayiste et haut fonctionnaire, et de Pierre Bentata, essayiste et économiste, il a développé sa vision pour faire de la France un pays pleinement engagé dans le XXIe siècle.",
+            "Alexandra Borchio Fontimp, sénatrice Nouvelle Énergie des Alpes-Maritimes et conseillère départementale, annonce son soutien à David Lisnard pour l’élection présidentielle de 2027. Un engagement qui s’inscrit dans plus de dix années de travail commun et dans une ambition partagée pour la France, fondée sur la liberté, le travail, le mérite, la responsabilité et l’autorité de l’État.",
+            "Hervé Morin, président de la région Normandie et porte-voix Nouvelle Énergie, Sylvain Bonenfant, relais Nouvelle Énergie Eure, et Arthur Bénard, relais Jeunes Énergies Eure, vous invitent à une réunion publique à Grand Bourgtheroulde. Lundi 16 novembre à 18h30, à Grand Bourgtheroulde Centre Gilbert Martin, 283 rue d Elbeuf Infos et contact : eure@unenouvelleenergie.fr",
             "L équipe Nouvelle Énergie Royaume-Uni vous invite à un afterwork à Londres, l occasion d échanger sur le projet et l actualité de David Lisnard. Mercredi 11 novembre, 18h (heure de Londres) The Burlington Arms, 21 Old Burlington Street, Londres Pas d inscription nécessaire. Nous serons à l entrée ou au 1er étage. Infos et contact : uk.nouvelleenergie@gmail.com",
+            "Alexandre Neigel, responsable national des Jeunes Énergies, Niels Holm, responsable communication Jeunes Énergies, et Youssef Chaabane, relais Jeunes Énergies Rhône, vous invitent à un Afterwork Jeunes Énergies à Lyon 1er. Samedi 14 novembre, 17h30, à Lyon Café 203, 9 rue du Garet, 69001 Lyon Infos et contact : rhone@unenouvelleenergie.fr",
             "Clotilde Fournier et Vincent Scattolin, relais Nouvelle Énergie Ain, et Justine Roche, relais Jeunes Énergies Ain, vous invitent à une conférence sur le thème de la ruralité à Saint-Germain-sur-Renon. Jeudi 12 novembre, 19h, à Saint-Germain-sur-Renon Salle des fêtes Infos et contact : ain@unenouvelleenergie.fr",
             "Victor Roulet, relais Nouvelle Énergie Ille-et-Vilaine, vous invite à une réunion publique : l actualité du mouvement, ce qui se prépare en Ille-et-Vilaine et une formation tractage et collage. Mardi 10 novembre, de 18h15 à 20h00, à Saint-Grégoire Grappa, La Boutière, 35760 Saint-Grégoire",
             "Antoine Gehant, relais Jeunes Énergies Alpes-de-Haute-Provence, et James Laurillou, relais Nouvelle Énergie Alpes-de-Haute-Provence, vous invitent à un Afterwork Jeunes Énergies à Oraison. Vendredi 13 novembre, 18h, à Oraison Le Splendid, 11 allée Arthur Gouin Infos : @jeunesenergies",
+            "Face à l’intelligence artificielle, David Lisnard et Romain Marsily défendent une ambition qui dépasse le seul enjeu technologique : préserver la liberté humaine, reconquérir notre souveraineté et rendre à la France le goût de l’avenir. Un article paru dans le JDNews.",
             "Nouvelle Énergie Marne vous invite à un petit déjeuner à Châlons-en-Champagne, un moment convivial pour se rencontrer et échanger. Samedi 14 novembre, 9h, à Châlons-en-Champagne 1 rue Claude d Espence Infos et contact : marne@unenouvelleenergie.fr",
             "Laurent Salles, relais Nouvelle Énergie Puy-de-Dôme, vous invite à un afterwork. Jeudi 12 novembre, 18h30, à Clermont-Ferrand The Still Irish Pub, 7 boulevard Léon Malfrety Infos et contact : puydedome@unenouvelleenergie.fr",
             "Les Jeunes Énergies de la Moselle vous invitent à une réunion : échange, information, organisation. La Moselle avec David Lisnard ! Vendredi 13 novembre, 18h30, à Metz Salle Sainte-Constance",
             "Thibault Ravier, référent Nouvelle Énergie La Baule, Guérande, Pornichet, vous invite à une réunion publique à Guérande. Mardi 10 novembre, 18h, à Guérande Bar Bikini, 7 Leniphen",
             "Nouvelle Énergie vous invite à un afterwork à Dubaï. Mercredi 11 novembre, 19h (heure de Dubaï) Garden on 8, Media One, Al Sufouh 2, Dubai Media City, Dubaï",
+            "Afterwork des adhérents Nouvelle Énergie en Thaïlande. Lundi 16 novembre 2026 à 18h (heure de Bangkok), à la President Tower, Le Cercle, à Bangkok.",
             "Thierry Mezaize, relais Nouvelle Énergie Loiret, vous invite à un afterwork. Vendredi 13 novembre, 18h30, à Orléans 225 rue de Bourgogne",
+            "Café politique ouvert à tous avec Florent Grau, relais NE Gard. Samedi 14 novembre 2026 à 11h, à l Hôtel Le Saint-Louis à Aigues-Mortes.",
             "Nouvelle Énergie Français de l étranger vous invite à un happy hour à San Francisco, le mardi 10 novembre à 18h (heure locale).",
-            "La Boulangerie de San Francisco, San Francisco, CA (États-Unis)",
-            "PETITS DÉJEUNERS NOUVELLE ÉNERGIE MARNE : CHÂLONS-EN-CHAMPAGNE",
-            "AFTERWORK JEUNES ÉNERGIES ALPES-DE-HAUTE-PROVENCE : ORAISON",
-            "AFTERWORK NOUVELLE ÉNERGIE PUY-DE-DÔME : CLERMONT-FERRAND",
-            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE 35 : SAINT-GRÉGOIRE",
-            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE GIRONDE : PESSAC",
-            "The Still Irish Pub, CLERMONT-FERRAND, PUY-DE-DÔME",
-            "Salle des fêtes, BARRY-D ISLEMADE, TARN-ET-GARONNE",
-            "ITINÉRANCES TARN-ET-GARONNAISES : BARRY-D ISLEMADE",
-            "Orangerie du château Cazalet, PESSAC, GIRONDE",
-            "Salle des fêtes, SAINT-GERMAIN-SUR-RENON, AIN",
-            "CONFÉRENCE NOUVELLE ÉNERGIE AIN : LA RURALITÉ"
+            "Intelligence artificielle, robotique, économie : David Lisnard défend une France conquérante aux Rencontres de l’Avenir",
+            "Alexandra Borchio Fontimp apporte son soutien à David Lisnard pour l’élection présidentielle de 2027",
+            "David Lisnard dans le podcast « Destinée » : faire de la France une superpuissance éducative",
+            "DLive : David Lisnard lance son nouveau rendez-vous mensuel avec les Français",
+            "La Boulangerie de San Francisco, San Francisco, CA (États-Unis)"
+          ]
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/actualites/",
+          "changed_at": "2026-11-14",
+          "removed_blocks": 8,
+          "added": [
+            "Invité d’Anne Coffinier dans le podcast « Destinée », David Lisnard revient sur son enfance, son parcours et les rencontres qui ont forgé ses convictions. Dans cet entretien long format, le président de Nouvelle Énergie livre un diagnostic sans détour sur l’état de l’Éducation nationale et développe ses propositions pour libérer l’école, rétablir l’exigence et permettre à chaque enfant de réussir,",
+            "Vendredi 6 novembre 2026, David Lisnard a participé aux Rencontres de l’Avenir à Saint-Raphaël, à l’invitation de Frédéric Masquelier. Au cours d’un débat présidentiel animé par Nicolas Bouzou, aux côtés de Raphaël Doan, essayiste et haut fonctionnaire, et de Pierre Bentata, essayiste et économiste, il a développé sa vision pour faire de la France un pays pleinement engagé dans le XXIe siècle.",
+            "Alexandra Borchio Fontimp, sénatrice Nouvelle Énergie des Alpes-Maritimes et conseillère départementale, annonce son soutien à David Lisnard pour l’élection présidentielle de 2027. Un engagement qui s’inscrit dans plus de dix années de travail commun et dans une ambition partagée pour la France, fondée sur la liberté, le travail, le mérite, la responsabilité et l’autorité de l’État.",
+            "Mardi 10 novembre, David Lisnard a inauguré le DLive, un nouveau format de rencontre en direct avec les internautes. Pendant plus d’une heure, le président de Nouvelle Énergie a répondu sans détour aux questions des Français, détaillé ses propositions pour redresser le pays et échangé avec un invité surprise. Un rendez-vous inédit, qui sera désormais à retrouver chaque mois.",
+            "Intelligence artificielle, robotique, économie : David Lisnard défend une France conquérante aux Rencontres de l’Avenir",
+            "Alexandra Borchio Fontimp apporte son soutien à David Lisnard pour l’élection présidentielle de 2027",
+            "David Lisnard dans le podcast « Destinée » : faire de la France une superpuissance éducative",
+            "DLive : David Lisnard lance son nouveau rendez-vous mensuel avec les Français"
           ]
         }
       ],
       "new_pages": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/intelligence-artificielle-robotique-economie-david-lisnard-defend-une-france-conquerante-aux-rencontres-de-lavenir/",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/david-lisnard-dans-le-podcast-destinee-faire-de-la-france-une-superpuissance-educative/",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/dlive-david-lisnard-lance-son-nouveau-rendez-vous-mensuel-avec-les-francais/",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/alexandra-borchio-fontimp-apporte-son-soutien-a-david-lisnard-pour-lelection-presidentielle-de-2027/",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/soiree-de-noel-nouvelle-energie-haut-rhin-eguisheim/",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-jeunes-energies-val-de-marne-paris/",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/apero-hebdo-jeunes-energies-paris-15e/",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-jeunes-energies-loire-atlantique-orvault/",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-jeunes-energies-val-doise-cergy/",
+          "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-savoie-landry/",
+          "first_seen": "2026-11-14"
+        },
         {
           "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-cotes-darmor-saint-alban/",
           "first_seen": "2026-11-13"
@@ -405,10 +1548,6 @@
           "first_seen": "2026-11-10"
         },
         {
-          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-puy-de-dome-clermont-ferrand/",
-          "first_seen": "2026-11-10"
-        },
-        {
           "url": "https://www.unenouvelleenergie.fr/event/accueil-des-nouveaux-adherents-nouvelle-energie-paris-8e/",
           "first_seen": "2026-11-10"
         }
@@ -418,9 +1557,10 @@
       "changed_pages": [
         {
           "url": "https://lafranceinsoumise.fr/actualites/",
-          "changed_at": "2026-11-13",
-          "removed_blocks": 11,
+          "changed_at": "2026-11-14",
+          "removed_blocks": 12,
           "added": [
+            "Contre la vie chère, les violences faites aux enfants et la loi permis de tuer, pour le climat : tous dans la rue ce 14 novembre !",
             "Liste de personnalités dressée par le terroriste de Trappes et menaces de l’extrême​​-droite : que fait Laurent Nuñez ?",
             "Mise au point sur la position de la France insoumise et son candidat sur la guerre en Ukraine",
             "Ce 11 novembre, RDV pour un discours sur la paix de Jean-Luc Mélenchon, à La Souterraine !",
@@ -1097,8 +2237,8 @@
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/sante.pdf",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 3,
+          "changed_at": "2026-11-14",
+          "removed_blocks": 4,
           "added": []
         },
         {
@@ -1109,66 +2249,66 @@
         },
         {
           "url": "https://www.parti-reconquete.fr/#actualites",
-          "changed_at": "2026-11-13",
-          "removed_blocks": 43,
+          "changed_at": "2026-11-14",
+          "removed_blocks": 50,
           "added": [
             "Il y a 108 ans, à 11 heures du matin, les cloches ont sonné dans toute la France. Dans chaque village, il y a un monument avec des noms, et souvent plusieurs fois le même nom de famille. Ces hommes avaient 20 ans. Ils avaient une ferme, un atelier, une fiancée, et ils ont tout donné pour que ce pays reste le nôtre. Serrer la main de ceux qui ont suivi leur exemple, c’est leur faire une promesse…",
             "En 1945, 3% d’une classe d’âge avaient le baccalauréat ; aujourd’hui, c’est 90%. Nous avons cru que la massification serait indolore, et le résultat, c’est que la moitié des étudiants n’ont pas le niveau pour être à l’université. C’est pourquoi je veux rétablir les méthodes traditionnelles à l’école, puis le mérite et la sélection à tous les étages, avec un examen d’entrée en sixième et un vrai…",
             "Je ne remplacerai pas un tiers des départs dans la fonction publique, et cela n’abîmera pas nos services publics. D’abord, leur problème n’est pas le manque de moyens, mais leur mauvaise gestion. Ensuite, Internet et l’IA font aujourd’hui ce que l’on faisait autrefois à la main. Enfin, la génération des boomers, très nombreuse, part à la retraite : c’est le moment de réduire les effectifs sans…",
+            "En plus d’être dans le pays le plus imposé du monde, nos entreprises font face à la concurrence déloyale de la Chine. Moi, je veux sauver le « Made in France ». Je veux donc libérer notre économie à l’intérieur et la protéger à l’extérieur. Je supprimerai les normes, baisserai massivement les impôts et j’instaurerai une véritable protection, avec des droits de douane de l’ordre de 50 % pour…",
             "La gauche parle d’une « Nouvelle France » depuis la Révolution, mais elle oublie toujours de dire que cette « Nouvelle France » se fait sur le dos de l’ancienne. Danton disait des aristocrates, qu’il envoyait à la guillotine, qu’ils étaient innocents, mais qu’ils gênaient l’avenir. Aujourd’hui, pour la gauche de Mélenchon, ce sont les Français qui gênent l’avenir. C’est pourquoi je dis aux…",
             "À chaque problème, on nous répète le vieux discours syndical : il faut plus de moyens. Pourtant, nous avons aujourd’hui 5,9 millions d’agents publics, contre 4,6 millions il y a 30 ans, et ni l’école ni l’hôpital ne fonctionnent mieux. L’école est même le premier budget de l’État, et plus on y a mis d’argent, plus le niveau s’est effondré. Je veux réformer l’État en profondeur, au lieu de…",
             "La gauche m’accuse d’avoir armé par mes mots l’assassin de Trappes. Mais quand des centaines de personnes ont été tuées ces dix dernières années au cri d’« allah akbar », elle nous a répondu « pas d’amalgame ». Alors, si les mots ne tuent pas dans un sens, ils ne tuent pas dans l’autre. La responsabilité des politiques n’est pas de se taire, mais de mettre fin aux causes de cette violence.",
             "Les syndicats ne sont pas assez ambitieux ! Leur hausse du SMIC ne profiterait qu’à 5 % des salariés. Ce que nous proposons, c’est 10 fois plus que ce qu’ils proposent. C’est une hausse de salaire collective de 10 %. En supprimant la CSG d’activité, c’est l’Etat qui porte l’effort en baissant ses dépenses et tout le monde sera augmenté : salariés au SMIC, comme tous les autres salariés…",
             "Nous, Français, subissons un double barrage technocratique, celui de Paris et celui de Bruxelles. Mais le mal est plus profond : depuis la Seconde Guerre mondiale, les Européens ne se voient plus grands. À part de Gaulle ou Thatcher, ils se sont raccrochés aux wagons américains. Pour créer nos géants de la tech, il faut d’abord oser nous voir grands de nouveau.",
+            "La mondialisation voulait un monde uniforme : les mêmes produits, les mêmes goûts, les mêmes vies, de Shanghai à Paris. La France a toujours été l’inverse. C’est la diversité de ses terroirs, l’exigence de ses artisans, le goût du travail bien fait. Défendre le Made in France, c’est refuser de devenir n’importe qui.",
             "Je viens d’arriver à Bruxelles, où vous êtes très nombreux à ma dédicace du Casse du siècle. Je vous donne aussi rendez-vous, le 21 novembre à Toulon, pour le premier meeting d’Eric Zemmour. 👉 Inscrivez-vous : https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
             "À force de vouloir être omniprésent, l’État est devenu impotent. Sous Bonaparte, l’État français était simple. Depuis 20 ans, on a multiplié les agences, les comités et les hautes autorités. Je veux simplifier, simplifier et simplifier ce système pour faire mieux avec moins.",
             "Cela fait à peu près 40 procédures contre moi en quelques années, et j’ai été relaxé 30 fois en 10 ans. Je n’ai volé personne et je n’ai pas détourné d’argent public. On me poursuit pour un délit d’opinion, au nom d’une loi liberticide que j’abolirai si je suis président.",
             "Merci aux soignants de l’hôpital public et aux infirmiers libéraux écœurés du système de venir me raconter leur quotidien. Nous nous battrons ensemble pour vous libérer et vous donner les moyens d’exercer votre passion : soigner les Français. ⤵️",
             "Hier, à Limoges, vous avez été nombreux à venir me confier vos inquiétudes, mais surtout vos espoirs, notamment après avoir lu Le Casse du siècle. Tous vos témoignages me donnent encore plus envie de me battre pour vous. Merci !",
+            "Bruxelles, merci ! Vous étiez si nombreux, Français de Belgique comme Belges à venir à ma rencontre. Vous avez quitté la France à cause du Casse du siècle, mais elle ne vous oublie pas. Je veux vous voir revenir. 🇫🇷",
             "Le 11 novembre, nous célébrons la fin de la Première Guerre mondiale. Les Français se sont battus dans la boue, sous les obus, pour défendre la liberté de leur pays. Je me bats pour être digne de cet héritage.",
             "Je vous invite, dès maintenant, à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon. ✅ Inscrivez-vous : https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
+            "« Vous faites bien de demander, Madame Borne, il n’y a pas de question bête. » Élisabeth Borne se demande où trouver 800 000 postes de fonctionnaires à ne pas remplacer. Je lui réponds. ⤵️",
             "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme. Je l’ai lu. C’est catastrophique. Je vous explique tout. ⤴️",
             "Le peuple français n’est pas condamné à être malheureux. Nous allons lui rendre sa liberté, sa joie de vivre et son génie créatif.",
+            "Les verres incassables de Duralex, ce n’est pas un mythe ! Écoutez cette anecdote de mon enfance. ⬆️",
             "Éric Zemmour : Je suis candidat à l’élection présidentielle de 2027. Notre avenir sera français !",
             "Je vous donne aussi rendez-vous, le 21 novembre à Toulon, pour le premier meeting d’Eric Zemmour.",
-            "La responsabilité des politiques n’est pas de se taire, mais d’arrêter les causes de la violence.",
-            "Je vous invite à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon.",
-            "Bien arrivée à Limoges ! Vous êtes plus de 800 ce soir à ma dédicace. Merci pour tout !",
-            "À tout de suite sur France Info ! J’ai mis mon gilet pare-balles, donc je suis prêt.😉",
-            "« Ces voyous paieront jusqu’à la fin de leur vie les dégâts qu’ils ont occasionnés. »",
-            "« Notre avenir sera français. » Ma première affiche de campagne. 👉 ericzemmour.fr"
+            "La responsabilité des politiques n’est pas de se taire, mais d’arrêter les causes de la violence."
           ]
         },
         {
           "url": "https://www.parti-reconquete.fr/",
-          "changed_at": "2026-11-13",
-          "removed_blocks": 43,
+          "changed_at": "2026-11-14",
+          "removed_blocks": 50,
           "added": [
             "Il y a 108 ans, à 11 heures du matin, les cloches ont sonné dans toute la France. Dans chaque village, il y a un monument avec des noms, et souvent plusieurs fois le même nom de famille. Ces hommes avaient 20 ans. Ils avaient une ferme, un atelier, une fiancée, et ils ont tout donné pour que ce pays reste le nôtre. Serrer la main de ceux qui ont suivi leur exemple, c’est leur faire une promesse…",
             "En 1945, 3% d’une classe d’âge avaient le baccalauréat ; aujourd’hui, c’est 90%. Nous avons cru que la massification serait indolore, et le résultat, c’est que la moitié des étudiants n’ont pas le niveau pour être à l’université. C’est pourquoi je veux rétablir les méthodes traditionnelles à l’école, puis le mérite et la sélection à tous les étages, avec un examen d’entrée en sixième et un vrai…",
             "Je ne remplacerai pas un tiers des départs dans la fonction publique, et cela n’abîmera pas nos services publics. D’abord, leur problème n’est pas le manque de moyens, mais leur mauvaise gestion. Ensuite, Internet et l’IA font aujourd’hui ce que l’on faisait autrefois à la main. Enfin, la génération des boomers, très nombreuse, part à la retraite : c’est le moment de réduire les effectifs sans…",
+            "En plus d’être dans le pays le plus imposé du monde, nos entreprises font face à la concurrence déloyale de la Chine. Moi, je veux sauver le « Made in France ». Je veux donc libérer notre économie à l’intérieur et la protéger à l’extérieur. Je supprimerai les normes, baisserai massivement les impôts et j’instaurerai une véritable protection, avec des droits de douane de l’ordre de 50 % pour…",
             "La gauche parle d’une « Nouvelle France » depuis la Révolution, mais elle oublie toujours de dire que cette « Nouvelle France » se fait sur le dos de l’ancienne. Danton disait des aristocrates, qu’il envoyait à la guillotine, qu’ils étaient innocents, mais qu’ils gênaient l’avenir. Aujourd’hui, pour la gauche de Mélenchon, ce sont les Français qui gênent l’avenir. C’est pourquoi je dis aux…",
             "À chaque problème, on nous répète le vieux discours syndical : il faut plus de moyens. Pourtant, nous avons aujourd’hui 5,9 millions d’agents publics, contre 4,6 millions il y a 30 ans, et ni l’école ni l’hôpital ne fonctionnent mieux. L’école est même le premier budget de l’État, et plus on y a mis d’argent, plus le niveau s’est effondré. Je veux réformer l’État en profondeur, au lieu de…",
             "La gauche m’accuse d’avoir armé par mes mots l’assassin de Trappes. Mais quand des centaines de personnes ont été tuées ces dix dernières années au cri d’« allah akbar », elle nous a répondu « pas d’amalgame ». Alors, si les mots ne tuent pas dans un sens, ils ne tuent pas dans l’autre. La responsabilité des politiques n’est pas de se taire, mais de mettre fin aux causes de cette violence.",
             "Les syndicats ne sont pas assez ambitieux ! Leur hausse du SMIC ne profiterait qu’à 5 % des salariés. Ce que nous proposons, c’est 10 fois plus que ce qu’ils proposent. C’est une hausse de salaire collective de 10 %. En supprimant la CSG d’activité, c’est l’Etat qui porte l’effort en baissant ses dépenses et tout le monde sera augmenté : salariés au SMIC, comme tous les autres salariés…",
             "Nous, Français, subissons un double barrage technocratique, celui de Paris et celui de Bruxelles. Mais le mal est plus profond : depuis la Seconde Guerre mondiale, les Européens ne se voient plus grands. À part de Gaulle ou Thatcher, ils se sont raccrochés aux wagons américains. Pour créer nos géants de la tech, il faut d’abord oser nous voir grands de nouveau.",
+            "La mondialisation voulait un monde uniforme : les mêmes produits, les mêmes goûts, les mêmes vies, de Shanghai à Paris. La France a toujours été l’inverse. C’est la diversité de ses terroirs, l’exigence de ses artisans, le goût du travail bien fait. Défendre le Made in France, c’est refuser de devenir n’importe qui.",
             "Je viens d’arriver à Bruxelles, où vous êtes très nombreux à ma dédicace du Casse du siècle. Je vous donne aussi rendez-vous, le 21 novembre à Toulon, pour le premier meeting d’Eric Zemmour. 👉 Inscrivez-vous : https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
             "À force de vouloir être omniprésent, l’État est devenu impotent. Sous Bonaparte, l’État français était simple. Depuis 20 ans, on a multiplié les agences, les comités et les hautes autorités. Je veux simplifier, simplifier et simplifier ce système pour faire mieux avec moins.",
             "Cela fait à peu près 40 procédures contre moi en quelques années, et j’ai été relaxé 30 fois en 10 ans. Je n’ai volé personne et je n’ai pas détourné d’argent public. On me poursuit pour un délit d’opinion, au nom d’une loi liberticide que j’abolirai si je suis président.",
             "Merci aux soignants de l’hôpital public et aux infirmiers libéraux écœurés du système de venir me raconter leur quotidien. Nous nous battrons ensemble pour vous libérer et vous donner les moyens d’exercer votre passion : soigner les Français. ⤵️",
             "Hier, à Limoges, vous avez été nombreux à venir me confier vos inquiétudes, mais surtout vos espoirs, notamment après avoir lu Le Casse du siècle. Tous vos témoignages me donnent encore plus envie de me battre pour vous. Merci !",
+            "Bruxelles, merci ! Vous étiez si nombreux, Français de Belgique comme Belges à venir à ma rencontre. Vous avez quitté la France à cause du Casse du siècle, mais elle ne vous oublie pas. Je veux vous voir revenir. 🇫🇷",
             "Le 11 novembre, nous célébrons la fin de la Première Guerre mondiale. Les Français se sont battus dans la boue, sous les obus, pour défendre la liberté de leur pays. Je me bats pour être digne de cet héritage.",
             "Je vous invite, dès maintenant, à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon. ✅ Inscrivez-vous : https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
+            "« Vous faites bien de demander, Madame Borne, il n’y a pas de question bête. » Élisabeth Borne se demande où trouver 800 000 postes de fonctionnaires à ne pas remplacer. Je lui réponds. ⤵️",
             "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme. Je l’ai lu. C’est catastrophique. Je vous explique tout. ⤴️",
             "Le peuple français n’est pas condamné à être malheureux. Nous allons lui rendre sa liberté, sa joie de vivre et son génie créatif.",
+            "Les verres incassables de Duralex, ce n’est pas un mythe ! Écoutez cette anecdote de mon enfance. ⬆️",
             "Éric Zemmour : Je suis candidat à l’élection présidentielle de 2027. Notre avenir sera français !",
             "Je vous donne aussi rendez-vous, le 21 novembre à Toulon, pour le premier meeting d’Eric Zemmour.",
-            "La responsabilité des politiques n’est pas de se taire, mais d’arrêter les causes de la violence.",
-            "Je vous invite à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon.",
-            "Bien arrivée à Limoges ! Vous êtes plus de 800 ce soir à ma dédicace. Merci pour tout !",
-            "À tout de suite sur France Info ! J’ai mis mon gilet pare-balles, donc je suis prêt.😉",
-            "« Ces voyous paieront jusqu’à la fin de leur vie les dégâts qu’ils ont occasionnés. »",
-            "« Notre avenir sera français. » Ma première affiche de campagne. 👉 ericzemmour.fr"
+            "La responsabilité des politiques n’est pas de se taire, mais d’arrêter les causes de la violence."
           ]
         },
         {
