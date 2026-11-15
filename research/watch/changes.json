@@ -1,16 +1,17 @@
 {
   "since": "2026-11-09",
-  "generated": "2026-11-14",
+  "generated": "2026-11-15",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
   "candidates": {
     "arthaud": {
       "changed_pages": [
         {
           "url": "https://www.nathalie-arthaud.info",
-          "changed_at": "2026-11-14",
-          "removed_blocks": 9,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 10,
           "added": [
             "La jeunesse mobilisée depuis des semaines et les centaines de milliers de travailleurs venus renforcer les rangs des manifestations, jeudi 5 novembre, mettent le gouvernement sous pression. Mais que propose-t-il pour le pouvoir d’achat ? Une provocation de plus ! Le smic, indexé sur l’inflation, devait automatiquement passer de 1477 euros à 1494 euros au 1er janvier 2027.",
+            "Jean-Pierre Mercier sur LCI : “Il faut une augmentation des salaires et que les salaires suivent l'augmentation des pri…",
             "L'éditorial en vidéo : Pouvoir d'achat : il faut augmenter tous les salaires !",
             "Moselle TV : Nathalie Arthaud présente le sens de sa candidature",
             "Pouvoir d’achat : il faut augmenter tous les salaires !",
@@ -21,8 +22,8 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/portail/index.html",
-          "changed_at": "2026-11-14",
-          "removed_blocks": 39,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 40,
           "added": [
             "Un nourrisson de 9 mois est mort de froid à Khan Younes, dans la bande de Gaza, où des dizaines de milliers de familles, chassées de chez elles par l’armée israélienne, sont réfugiées dans des abris de fortune, inondés suite aux pluies diluviennes et aux coulées de boue, mélangées avec les eaux usées. Les conditions climatiques et sanitaires, la destruction des infrastructures ainsi que la disette",
             "Le gouvernement voudrait faire croire que c’est un effort considérable que de porter le Smic à 1 502 euros net, contre 1 478 euros aujourd'hui. Ce n'est pas avec 24 euros de plus que ceux qui peinent à joindre les deux bouts vont s'en sortir ! Et pour ceux qui gagnent à peine plus que le Smic, rien n'est prévu, à part que leur salaire va se rapprocher encore du minimum légal.",
@@ -53,8 +54,8 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=15",
-          "changed_at": "2026-11-13",
-          "removed_blocks": 3,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 4,
           "added": []
         },
         {
@@ -65,8 +66,8 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=20",
-          "changed_at": "2026-11-14",
-          "removed_blocks": 3,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 4,
           "added": []
         },
         {
@@ -82,10 +83,11 @@
       "changed_pages": [
         {
           "url": "https://attalpresident.fr/",
-          "changed_at": "2026-11-14",
-          "removed_blocks": 80,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 88,
           "added": [
             "Ce dimanche 8 novembre, Gabriel Attal était à Saint-Raphaël, dans le Var, pour participer à la 9e édition des Rencontres de l’avenir, où il a été reçu par Nicolas Bouzou, président de l’événement. À l’occasion d’un échange consacré aux grands défis de notre pays, il est revenu sur ses priorités pour 2027 : l’éducation, la jeunesse, l’autorité, le pouvoir d’achat, les finances publiques et l’intell",
+            "Invité du Grand oral sur les services publics de franceinfo, jeudi 12 novembre, Gabriel Attal a présenté ses propositions pour transformer l’action publique. Éducation, justice, logement : le candidat à l’élection présidentielle défend une réorganisation de l’État, davantage d’investissements dans les services essentiels et des mesures concrètes pour améliorer le quotidien des Français.",
             "Refuser le déclin, débloquer la société, garantir que chaque génération vive mieux que la précédente. Voici les engagements concrets qui structurent la campagne, et les dettes à résorber que nous devons assumer pour rendre cet avenir possible.",
             "Quelques minutes pour partager vos priorités pour la France de 2027. Vos réponses alimentent directement le programme de Gabriel Attal. Chaque contribution compte.",
             "Deux cents milliards d euros pour l intelligence artificielle et l innovation d ici dix ans, à parts égales entre financement public et privé.",
@@ -97,28 +99,37 @@
             "Le travail doit payer. Le travail doit permettre de vivre, pas seulement de survivre. Notre combat : faire monter les salaires.",
             "Aucune loi votée sans une évaluation préalable de ce qu elle coûte concrètement et combien elle pèse sur une petite entreprise.",
             "Dans votre département, des femmes et des hommes font campagne à mes côtés. L annuaire les nomme, territoire par territoire.",
+            "Gabriel Attal sur France Inter : « Je veux que ceux qui sont au SMIC puissent en sortir et voir leur salaire progresser »",
             "Refuser le déclin, débloquer la société. Les engagements concrets qui structurent la campagne, et les dettes à résorber.",
+            "Généraliser à l enseignement des mathématiques la méthode de Singapour, qui fait passer l élève du concret à l abstrait.",
             "Quelques minutes pour partager vos priorités pour la France de 2027. Vos réponses alimentent directement le programme.",
             "Gabriel Attal appelle à une primaire pour construire un grand rassemblement face au risque d’un second tour RN/LFI",
             "Gabriel Attal reçu chez Mistral AI par Arthur Mensch pour échanger sur les enjeux de l’intelligence artificielle",
             "Durcir les exigences de revenus, de logement et de durée de résidence pour demander le regroupement familial.",
+            "Durcir les exigences de revenus, de logement et de durée de résidence pour demander le regroupement familial.",
+            "Gabriel Attal dans La Voix du Nord : « La France peut redevenir la première puissance d’Europe en dix ans »",
             "Instaurer une journée référendaire par an pour que les Français tranchent les grandes orientations du pays",
             "Gabriel Attal appelle au rassemblement pour éviter un second tour RN/LFI et défend une hausse des salaires",
-            "Gabriel Attal présente sa vision économique pour libérer, innover et renforcer l’indépendance de la France",
-            "Une amende forfaitaire dès le premier acte de maltraitance animale constaté, sans attendre la récidive.",
-            "Harcèlement scolaire : Gabriel Attal donne la parole à huit jeunes victimes et réaffirme son engagement",
-            "Celles et ceux qui font campagne à mes côtés, sur le terrain, dans les médias et dans le débat public.",
-            "Une part de capitalisation dans le système de retraite, dont l épargne finance l innovation française.",
-            "Gens du voyage : des amendes majorées et des saisies des véhicules en cas d’occupation illégale"
+            "Gabriel Attal présente sa vision économique pour libérer, innover et renforcer l’indépendance de la France"
           ]
         },
         {
           "url": "https://attalpresident.fr/actualites",
-          "changed_at": "2026-11-12",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 12,
           "added": [
             "Ce dimanche 8 novembre, Gabriel Attal était à Saint-Raphaël, dans le Var, pour participer à la 9e édition des Rencontres de l’avenir, où il a été reçu par Nicolas Bouzou, président de l’événement. À l’occasion d’un échange consacré aux grands défis de notre pays, il est revenu sur ses priorités pour 2027 : l’éducation, la jeunesse, l’autorité, le pouvoir d’achat, les finances publiques et l’intell",
-            "Gabriel Attal aux Rencontres de l’avenir à Saint-Raphaël : « La France doit redevenir la première puissance d’Europe en dix ans »"
+            "En marge d’un déplacement à Valenciennes et Lambres-lez-Douai dans les Hauts de France Gabriel Attal à accordé un entretien accordé à La Voix du Nord le 6 novembre 2026, Gabriel Attal défend l’organisation d’une primaire de la droite et du centre pour l’élection présidentielle de 2027. Il présente également sa vision pour redresser l’économie française, soutenir la réindustrialisation et mieux rém",
+            "Invité du Grand oral sur les services publics de franceinfo, jeudi 12 novembre, Gabriel Attal a présenté ses propositions pour transformer l’action publique. Éducation, justice, logement : le candidat à l’élection présidentielle défend une réorganisation de l’État, davantage d’investissements dans les services essentiels et des mesures concrètes pour améliorer le quotidien des Français.",
+            "Dans une interview accordée à Sud Ouest ce mercredi 11 novembre, à la veille de son déplacement à La Rochelle, Gabriel Attal dévoile ses propositions pour faire de la France une nation de propriétaires. Son ambition : permettre à davantage de Français d’acheter leur logement, faciliter la transmission du patrimoine et encourager l’investissement immobilier.",
+            "Invité de France Inter ce mardi 10 novembre, Gabriel Attal est revenu sur les enjeux de pouvoir d’achat, la lutte contre les discriminations et la primaire pour l’élection présidentielle de 2027. Il a défendu sa volonté d’augmenter les salaires, de restaurer l’autorité et de rassembler les forces politiques qui refusent les extrêmes.",
+            "Ce lundi 9 novembre, à Paris, Gabriel Attal a réuni plusieurs responsables politiques européens pour échanger sur la culture du compromis et la formation de coalitions gouvernementales. Une rencontre destinée à tirer les enseignements des expériences européennes et à réfléchir à une nouvelle manière de gouverner en France.",
+            "Gabriel Attal aux Rencontres de l’avenir à Saint-Raphaël : « La France doit redevenir la première puissance d’Europe en dix ans »",
+            "Gabriel Attal sur France Inter : « Je veux que ceux qui sont au SMIC puissent en sortir et voir leur salaire progresser »",
+            "Gabriel Attal dans La Voix du Nord : « La France peut redevenir la première puissance d’Europe en dix ans »",
+            "Services publics : Gabriel Attal dévoile ses propositions pour l’école, la justice et le logement",
+            "Gabriel Attal réunit des responsables européens pour défendre une culture de coalition en France",
+            "Gabriel Attal veut permettre à tous les Français de devenir propriétaire"
           ]
         }
       ],
@@ -514,6 +525,26 @@
         {
           "url": "https://attalpresident.fr/actualites/gabriel-attal-rencontres-avenir-saint-raphael-france-premiere-puissance-europe-dix-ans",
           "first_seen": "2026-11-14"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-france-inter-smic-droit-au-brut-primaire-2027",
+          "first_seen": "2026-11-15"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-voix-du-nord-france-premiere-puissance-europe-primaire",
+          "first_seen": "2026-11-15"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-services-publics-ecole-justice-logement-franceinfo",
+          "first_seen": "2026-11-15"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-sud-ouest-tous-proprietaires-banque-investissement-logement",
+          "first_seen": "2026-11-15"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-responsables-europeens-culture-de-coalition-france",
+          "first_seen": "2026-11-15"
         },
         {
           "url": "https://attalpresident.fr/programme",
@@ -1075,8 +1106,8 @@
         },
         {
           "url": "https://www.dupontaignan.fr/",
-          "changed_at": "2026-11-14",
-          "removed_blocks": 120,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 144,
           "added": [
             "+5,8 % au 1er décembre, après +6,6 % en novembre, +6,3 % en octobre et +5,6 % en septembre. Soit une hausse de +42,6% depuis le 1er janvier 2025. La seule solution pour réduire le prix du gaz est de lever les sanctions contre la Russie afin de pouvoir importer son gaz QUATRE fois moins cher que le GNL américain. ... Voir plus Voir moins",
             "Une adjointe au maire, élue LR, aurait été violemment agressée devant un établissement scolaire. Aspergée d’essence, frappée à la poitrine, elle dépose plainte pour tentative de meurtre. Quand des élus ne peuvent même plus exercer leurs fonctions sans risquer leur vie, c’est toute l’autorité de la République qui est piétinée.",
@@ -1084,9 +1115,12 @@
             "🇫🇷 Après avoir présenté à la presse mon projet économique présidentiel, je me rendrai avec Philippe Murer et Alexis Villepelet au Salon du Made in France à Paris pour rencontrer les entrepreneurs, artisans et industriels qui font rayonner nos savoir-faire et portent l’économie du pays !",
             "Au moment où la France est menacée dans son existence même, ce géant de notre histoire nous inspire et nous donne la force de rétablir notre indépendance nationale et notre souveraineté populaire. La survie, le redressement et le rayonnement de la France en dépendent.",
             "Quel que soit l’immense talent sportif de Teddy Riner, qui a fait vibrer les Français aux Jeux olympiques, il suffit de lire son interview dans Le Parisien ce matin pour comprendre qu’il est le nouveau faux nez du macronisme agonisant.",
+            "Je n’ai rien contre Teddy Riner, qui est un grand champion. Mais cette opération est totalement artificielle : on y retrouve les macronistes de la première heure et les mêmes éléments de langage que depuis dix ans. Du creux intégral.",
             "Mais qui met aujourd’hui le débat public au pas, marginalise les voix dissidentes et décide de ce que les Français peuvent entendre ? Ceux-là mêmes qui donnent des leçons de démocratie depuis Bruxelles et l’Élysée !",
+            "Sans ma candidature, il n’y aura pas de candidat souverainiste. Je mesure combien il est difficile d’obtenir les parrainages, même pour moi. Si je ne les obtiens pas, aucun candidat souverainiste ne les aura.",
             "Produire français, relocaliser nos emplois et retrouver notre souveraineté industrielle en se libérant de l’Union européenne : voilà les priorités de mon projet présidentiel 2027 ! ... Voir plus Voir moins",
             "On imagine déjà le calcul : un champion populaire pour tenter de redorer le blason d’un pouvoir à bout de souffle. Comme si les Français allaient confondre une médaille d’or avec un bilan présidentiel !",
+            "L’oligarchie et les médias ont culpabilisé la classe politique pour qu’elle renonce à parler de la sortie de l’Union européenne. Marine Le Pen l’a abandonnée, Jean-Luc Mélenchon n’en parle même plus.",
             "🇫🇷 Quel plaisir d’échanger au Salon du Made in France avec ces entrepreneurs, artisans et industriels qui se battent chaque jour pour produire en France et tiennent notre économie à bout de bras !",
             "Ce rejet traduit une colère grandissante face à une Commission européenne qui prétend parler au nom des peuples tout en imposant ses choix, notamment sur la guerre et la politique étrangère.",
             "Plus de libéralisme et moins de charges pour les entreprises qui produisent en France… appuyés par plus de protectionnisme, avec un État stratège, pour l’ensemble de l’économie française.",
@@ -1096,13 +1130,10 @@
             "Pour y parvenir, la PREMIÈRE ET PRINCIPALE CONDITION est de doper la production en France, mais aussi d’oser un protectionnisme intelligent et de remettre en place un État stratège.",
             "Produire français, relocaliser nos emplois et retrouver notre souveraineté industrielle en se libérant de l’Union européenne : voilà les priorités de mon projet présidentiel 2027 !",
             "Le plus bel hommage que nous puissions rendre au général de Gaulle, c’est de nous battre sans relâche pour rétablir l’indépendance de notre pays ! 🇫🇷 ... Voir plus Voir moins",
+            "Mais si l’on refuse de poser cette question centrale, on ne résoudra aucun problème. Devant ma conscience, devant l’histoire, je veux poser la question de l’Union européenne.",
             "Les Français ne seront pas dupes des miettes octroyées par un pouvoir finissant. Comment vivre avec 1 501,90 € net par mois, quand les seuls prix de l’énergie ont explosé ?",
             "Demain, je présenterai en direct avec Alexis Villepelet et Philippe Murer , sur X, Facebook et YouTube, depuis notre QG de campagne, mon projet économique présidentiel !",
-            "Demain, je présenterai en direct avec Alexis Villepelet et Philippe Murer, sur X, Facebook et YouTube, depuis notre QG de campagne, mon projet économique présidentiel !",
-            "Décidément, l’Élysée ne manque pas d’imagination : après avoir épuisé le stock de recyclage politique, voilà qu’il semble vouloir recruter jusque sur les tatamis !",
-            "Ses propos sont tout simplement sidérants. S’en prendre ainsi à une jeune femme qui témoigne de menaces de mort est absolument indigne. ... Voir plus Voir moins",
-            "Je propose un SMIC à 1 600 € net par mois, accompagné d’une baisse proportionnelle des cotisations salariales pour ne pas pénaliser les entreprises françaises.",
-            "📺 Retrouvez-moi demain, samedi 14 novembre à 10:00, dans l’émission #LeSamediPolitique sur @tvlofficiel, au micro de @BlaiseElise🎙️ ... Voir plus Voir moins"
+            "Demain, je présenterai en direct avec Alexis Villepelet et Philippe Murer, sur X, Facebook et YouTube, depuis notre QG de campagne, mon projet économique présidentiel !"
           ]
         },
         {
@@ -1163,10 +1194,6 @@
           "first_seen": "2026-11-13"
         },
         {
-          "url": "https://www.dupontaignan.fr/evenement/nicolas-dupont-aignan-sur-tv-libertes-le-14-11-26/",
-          "first_seen": "2026-11-13"
-        },
-        {
           "url": "https://www.dupontaignan.fr/evenement/meeting-de-campagne-le-6-fevrier-2027/",
           "first_seen": "2026-11-14"
         }
@@ -1223,6 +1250,10 @@
           "first_seen": "2026-11-14"
         },
         {
+          "url": "https://marinelepen.com/aider",
+          "first_seen": "2026-11-14"
+        },
+        {
           "url": "https://marinelepen.com/biographie",
           "first_seen": "2026-11-14"
         },
@@ -1231,7 +1262,7 @@
           "first_seen": "2026-11-14"
         },
         {
-          "url": "https://marinelepen.com/contact",
+          "url": "https://marinelepen.com/materiel-de-campagne",
           "first_seen": "2026-11-14"
         },
         {
@@ -1239,11 +1270,7 @@
           "first_seen": "2026-11-14"
         },
         {
-          "url": "https://marinelepen.com/materiel-de-campagne",
-          "first_seen": "2026-11-14"
-        },
-        {
-          "url": "https://marinelepen.com/aider",
+          "url": "https://marinelepen.com/contact",
           "first_seen": "2026-11-14"
         },
         {
@@ -1263,7 +1290,7 @@
           "first_seen": "2026-11-14"
         },
         {
-          "url": "https://marinelepen.com/actualites/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-19-octobre-2026",
+          "url": "https://marinelepen.com/actualites/protection-de-lenfance-a-moissac-marine-le-pen-annonce-une-grande-cause-nationale",
           "first_seen": "2026-11-14"
         },
         {
@@ -1271,7 +1298,7 @@
           "first_seen": "2026-11-14"
         },
         {
-          "url": "https://marinelepen.com/actualites/protection-de-lenfance-a-moissac-marine-le-pen-annonce-une-grande-cause-nationale",
+          "url": "https://marinelepen.com/actualites/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-19-octobre-2026",
           "first_seen": "2026-11-14"
         },
         {
@@ -1299,11 +1326,11 @@
           "first_seen": "2026-11-14"
         },
         {
-          "url": "https://marinelepen.com/actualites/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-14-septembre-2026",
+          "url": "https://marinelepen.com/materiel-de-campagne/5/telecharger",
           "first_seen": "2026-11-14"
         },
         {
-          "url": "https://marinelepen.com/materiel-de-campagne/5/telecharger",
+          "url": "https://marinelepen.com/actualites/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-14-septembre-2026",
           "first_seen": "2026-11-14"
         },
         {
@@ -1328,10 +1355,11 @@
       "changed_pages": [
         {
           "url": "https://www.unenouvelleenergie.fr/notre-programme/",
-          "changed_at": "2026-11-14",
-          "removed_blocks": 5,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 6,
           "added": [
             "Prochains rendez-vous : Clermont-Ferrand, Pessac, Asnières-sur-Seine et Barry-d Islemade",
+            "Prochains rendez-vous : Bangkok, Monaco, Grand Bourgtheroulde et Canet-en-Roussillon",
             "Prochains rendez-vous : Grand Baie, Guérande, San Francisco et Saint-Grégoire",
             "Prochains rendez-vous : Oraison, Metz, Orléans et Châlons-en-Champagne",
             "Prochains rendez-vous : Dubaï, Londres, Clermont-Ferrand et Pessac",
@@ -1340,8 +1368,8 @@
         },
         {
           "url": "https://www.unenouvelleenergie.fr/",
-          "changed_at": "2026-11-14",
-          "removed_blocks": 45,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 50,
           "added": [
             "ET SI NOUS DONNIONS ENSEMBLE UN NOUVEL ÉLAN À LA FRANCE ? La France a besoin d idées nouvelles, de courage, d énergie et surtout d une véritable volonté de changement. Avec Nouvelle Énergie, nous faisons le choix de l engagement, de la liberté, de la responsabilité et de l action. Nous vous invitons à venir échanger, débattre et partager nos convictions à l occasion d une réunion publique à Pessac",
             "Nouvelle Énergie 82 lance ses « Itinérances tarn-et-garonnaises » ! Première étape dans le Pays de Lafrançaise, à la rencontre des adhérents, des sympathisants de David Lisnard et de tous ceux qui souhaitent découvrir le mouvement, autour de Pascal Ellul, relais Nouvelle Énergie Tarn-et-Garonne. Jeudi 12 novembre, 19h, à Barry-d Islemade Salle des fêtes, Le Bourg, 82290 Barry-d Islemade Inscriptio",
@@ -1351,10 +1379,12 @@
             "L équipe Nouvelle Énergie Royaume-Uni vous invite à un afterwork à Londres, l occasion d échanger sur le projet et l actualité de David Lisnard. Mercredi 11 novembre, 18h (heure de Londres) The Burlington Arms, 21 Old Burlington Street, Londres Pas d inscription nécessaire. Nous serons à l entrée ou au 1er étage. Infos et contact : uk.nouvelleenergie@gmail.com",
             "Alexandre Neigel, responsable national des Jeunes Énergies, Niels Holm, responsable communication Jeunes Énergies, et Youssef Chaabane, relais Jeunes Énergies Rhône, vous invitent à un Afterwork Jeunes Énergies à Lyon 1er. Samedi 14 novembre, 17h30, à Lyon Café 203, 9 rue du Garet, 69001 Lyon Infos et contact : rhone@unenouvelleenergie.fr",
             "Clotilde Fournier et Vincent Scattolin, relais Nouvelle Énergie Ain, et Justine Roche, relais Jeunes Énergies Ain, vous invitent à une conférence sur le thème de la ruralité à Saint-Germain-sur-Renon. Jeudi 12 novembre, 19h, à Saint-Germain-sur-Renon Salle des fêtes Infos et contact : ain@unenouvelleenergie.fr",
+            "Jérôme Rumeau et David Durussel, co-relais Nouvelle Énergie Pyrénées-Orientales, et Geoffrey Abela, militant Jeunes Énergies, vous invitent à une réunion de lancement à Canet-en-Roussillon. Lundi 16 novembre, 19h, à Canet-en-Roussillon Les Voiles Rouges, 195 avenue de Perpignan, 66140 Canet-en-Roussillon",
             "Victor Roulet, relais Nouvelle Énergie Ille-et-Vilaine, vous invite à une réunion publique : l actualité du mouvement, ce qui se prépare en Ille-et-Vilaine et une formation tractage et collage. Mardi 10 novembre, de 18h15 à 20h00, à Saint-Grégoire Grappa, La Boutière, 35760 Saint-Grégoire",
             "Antoine Gehant, relais Jeunes Énergies Alpes-de-Haute-Provence, et James Laurillou, relais Nouvelle Énergie Alpes-de-Haute-Provence, vous invitent à un Afterwork Jeunes Énergies à Oraison. Vendredi 13 novembre, 18h, à Oraison Le Splendid, 11 allée Arthur Gouin Infos : @jeunesenergies",
             "Face à l’intelligence artificielle, David Lisnard et Romain Marsily défendent une ambition qui dépasse le seul enjeu technologique : préserver la liberté humaine, reconquérir notre souveraineté et rendre à la France le goût de l’avenir. Un article paru dans le JDNews.",
             "Nouvelle Énergie Marne vous invite à un petit déjeuner à Châlons-en-Champagne, un moment convivial pour se rencontrer et échanger. Samedi 14 novembre, 9h, à Châlons-en-Champagne 1 rue Claude d Espence Infos et contact : marne@unenouvelleenergie.fr",
+            "Alexandre Saussier, relais Nouvelle Énergie Monaco, vous invite à une réunion publique de présentation du programme à Monaco. Lundi 16 novembre, 18h30, à Monaco Hôtel Monte-Carlo Bay - Salon Marigold, 40 avenue Princesse Grace",
             "Laurent Salles, relais Nouvelle Énergie Puy-de-Dôme, vous invite à un afterwork. Jeudi 12 novembre, 18h30, à Clermont-Ferrand The Still Irish Pub, 7 boulevard Léon Malfrety Infos et contact : puydedome@unenouvelleenergie.fr",
             "Les Jeunes Énergies de la Moselle vous invitent à une réunion : échange, information, organisation. La Moselle avec David Lisnard ! Vendredi 13 novembre, 18h30, à Metz Salle Sainte-Constance",
             "Thibault Ravier, référent Nouvelle Énergie La Baule, Guérande, Pornichet, vous invite à une réunion publique à Guérande. Mardi 10 novembre, 18h, à Guérande Bar Bikini, 7 Leniphen",
@@ -1365,9 +1395,7 @@
             "Nouvelle Énergie Français de l étranger vous invite à un happy hour à San Francisco, le mardi 10 novembre à 18h (heure locale).",
             "Intelligence artificielle, robotique, économie : David Lisnard défend une France conquérante aux Rencontres de l’Avenir",
             "Alexandra Borchio Fontimp apporte son soutien à David Lisnard pour l’élection présidentielle de 2027",
-            "David Lisnard dans le podcast « Destinée » : faire de la France une superpuissance éducative",
-            "DLive : David Lisnard lance son nouveau rendez-vous mensuel avec les Français",
-            "La Boulangerie de San Francisco, San Francisco, CA (États-Unis)"
+            "David Lisnard dans le podcast « Destinée » : faire de la France une superpuissance éducative"
           ]
         },
         {
@@ -1472,20 +1500,12 @@
           "first_seen": "2026-11-12"
         },
         {
-          "url": "https://www.unenouvelleenergie.fr/event/reunion-jeunes-energies-moselle-metz/",
-          "first_seen": "2026-11-12"
-        },
-        {
           "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-tarn-albi/",
           "first_seen": "2026-11-12"
         },
         {
           "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-savoie-saint-alban-leysse/",
           "first_seen": "2026-11-12"
-        },
-        {
-          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-loiret-orleans/",
-          "first_seen": "2026-11-11"
         },
         {
           "url": "https://www.unenouvelleenergie.fr/event/apero-debat-nouvelle-energie-bois-colombes/",
@@ -1577,8 +1597,8 @@
       "changed_pages": [
         {
           "url": "https://www.edouardphilippe.fr/",
-          "changed_at": "2026-11-13",
-          "removed_blocks": 21,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 22,
           "added": [
             "« Je ne serai jamais pessimiste » | Édouard Philippe aux Rencontres de l’Avenir 8 nov. Merci le Sud pour ces belles rencontres et ces échanges sincères. 8 nov. La démocratie, ce n’est pas simplement la culture du clash. 7 nov. Protéger les Français et conquérir des marchés 5 nov.",
             "J’accepte que mes informations soient utilisées pour traiter ma question, conformément à la politique de confidentialité . Envoyer ma question Envoyer ma question →",
@@ -1592,6 +1612,7 @@
             "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
             "Édouard Philippe bientôt près de chez vous. Posez-lui votre question !",
             "Par exemple : « Que propose Édouard Philippe pour la justice ? »",
+            "Après La Ciotat, Chartres et Toulouse, les prochaines dates :",
             "Veuillez revenir ultérieurement. Merci de votre patience.",
             "Tournée en Provence-Alpes-Côte d’Azur, du 5 au 8 novembre",
             "Elle a été transmise à Édouard Philippe et à son équipe.",
@@ -2231,14 +2252,14 @@
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/avenir-est-a-nous.pdf",
-          "changed_at": "2026-11-10",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 2,
           "added": []
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/sante.pdf",
-          "changed_at": "2026-11-14",
-          "removed_blocks": 4,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 5,
           "added": []
         },
         {
@@ -2249,12 +2270,13 @@
         },
         {
           "url": "https://www.parti-reconquete.fr/#actualites",
-          "changed_at": "2026-11-14",
-          "removed_blocks": 50,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 56,
           "added": [
             "Il y a 108 ans, à 11 heures du matin, les cloches ont sonné dans toute la France. Dans chaque village, il y a un monument avec des noms, et souvent plusieurs fois le même nom de famille. Ces hommes avaient 20 ans. Ils avaient une ferme, un atelier, une fiancée, et ils ont tout donné pour que ce pays reste le nôtre. Serrer la main de ceux qui ont suivi leur exemple, c’est leur faire une promesse…",
             "En 1945, 3% d’une classe d’âge avaient le baccalauréat ; aujourd’hui, c’est 90%. Nous avons cru que la massification serait indolore, et le résultat, c’est que la moitié des étudiants n’ont pas le niveau pour être à l’université. C’est pourquoi je veux rétablir les méthodes traditionnelles à l’école, puis le mérite et la sélection à tous les étages, avec un examen d’entrée en sixième et un vrai…",
             "Je ne remplacerai pas un tiers des départs dans la fonction publique, et cela n’abîmera pas nos services publics. D’abord, leur problème n’est pas le manque de moyens, mais leur mauvaise gestion. Ensuite, Internet et l’IA font aujourd’hui ce que l’on faisait autrefois à la main. Enfin, la génération des boomers, très nombreuse, part à la retraite : c’est le moment de réduire les effectifs sans…",
+            "Commerçants, artisans, restaurateurs : ils font vivre chacun de nos centres-villes, de nos marchés et de nos fêtes populaires. Malgré un État qui les maltraite et les asphyxie, ils gardent le sourire et continuent de travailler pour faire vivre nos terroirs. Merci ! Je baisserai massivement les impôts pour nos artisans, nos commerçants, nos TPE et nos PME. Ceux qui travaillent de leurs mains…",
             "En plus d’être dans le pays le plus imposé du monde, nos entreprises font face à la concurrence déloyale de la Chine. Moi, je veux sauver le « Made in France ». Je veux donc libérer notre économie à l’intérieur et la protéger à l’extérieur. Je supprimerai les normes, baisserai massivement les impôts et j’instaurerai une véritable protection, avec des droits de douane de l’ordre de 50 % pour…",
             "La gauche parle d’une « Nouvelle France » depuis la Révolution, mais elle oublie toujours de dire que cette « Nouvelle France » se fait sur le dos de l’ancienne. Danton disait des aristocrates, qu’il envoyait à la guillotine, qu’ils étaient innocents, mais qu’ils gênaient l’avenir. Aujourd’hui, pour la gauche de Mélenchon, ce sont les Français qui gênent l’avenir. C’est pourquoi je dis aux…",
             "À chaque problème, on nous répète le vieux discours syndical : il faut plus de moyens. Pourtant, nous avons aujourd’hui 5,9 millions d’agents publics, contre 4,6 millions il y a 30 ans, et ni l’école ni l’hôpital ne fonctionnent mieux. L’école est même le premier budget de l’État, et plus on y a mis d’argent, plus le niveau s’est effondré. Je veux réformer l’État en profondeur, au lieu de…",
@@ -2266,27 +2288,27 @@
             "À force de vouloir être omniprésent, l’État est devenu impotent. Sous Bonaparte, l’État français était simple. Depuis 20 ans, on a multiplié les agences, les comités et les hautes autorités. Je veux simplifier, simplifier et simplifier ce système pour faire mieux avec moins.",
             "Cela fait à peu près 40 procédures contre moi en quelques années, et j’ai été relaxé 30 fois en 10 ans. Je n’ai volé personne et je n’ai pas détourné d’argent public. On me poursuit pour un délit d’opinion, au nom d’une loi liberticide que j’abolirai si je suis président.",
             "Merci aux soignants de l’hôpital public et aux infirmiers libéraux écœurés du système de venir me raconter leur quotidien. Nous nous battrons ensemble pour vous libérer et vous donner les moyens d’exercer votre passion : soigner les Français. ⤵️",
+            "Nos campagnes françaises renferment des trésors et des savoir-faire inestimables. Ici, en Bourgogne, les hommes travaillent la terre, et ce qu’elle nous donne, depuis des siècles, pour faire des produits d’exception vendus dans le monde entier.",
+            "La Bourgogne incarne la France éternelle : la beauté, l’art de vivre, le raffinement, l’élégance. C’est ça, la France qui rayonne dans le monde entier. Je me bats pour qu’on garde une France française. C’est le sens de mon combat.",
             "Hier, à Limoges, vous avez été nombreux à venir me confier vos inquiétudes, mais surtout vos espoirs, notamment après avoir lu Le Casse du siècle. Tous vos témoignages me donnent encore plus envie de me battre pour vous. Merci !",
             "Bruxelles, merci ! Vous étiez si nombreux, Français de Belgique comme Belges à venir à ma rencontre. Vous avez quitté la France à cause du Casse du siècle, mais elle ne vous oublie pas. Je veux vous voir revenir. 🇫🇷",
             "Le 11 novembre, nous célébrons la fin de la Première Guerre mondiale. Les Français se sont battus dans la boue, sous les obus, pour défendre la liberté de leur pays. Je me bats pour être digne de cet héritage.",
             "Je vous invite, dès maintenant, à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon. ✅ Inscrivez-vous : https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
             "« Vous faites bien de demander, Madame Borne, il n’y a pas de question bête. » Élisabeth Borne se demande où trouver 800 000 postes de fonctionnaires à ne pas remplacer. Je lui réponds. ⤵️",
+            "Bien arrivée à Montauban où vous êtes très nombreux à venir de tous les partis de la droite. Ici, l’union des droites est une réalité ! 🇫🇷",
             "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme. Je l’ai lu. C’est catastrophique. Je vous explique tout. ⤴️",
-            "Le peuple français n’est pas condamné à être malheureux. Nous allons lui rendre sa liberté, sa joie de vivre et son génie créatif.",
-            "Les verres incassables de Duralex, ce n’est pas un mythe ! Écoutez cette anecdote de mon enfance. ⬆️",
-            "Éric Zemmour : Je suis candidat à l’élection présidentielle de 2027. Notre avenir sera français !",
-            "Je vous donne aussi rendez-vous, le 21 novembre à Toulon, pour le premier meeting d’Eric Zemmour.",
-            "La responsabilité des politiques n’est pas de se taire, mais d’arrêter les causes de la violence."
+            "Le peuple français n’est pas condamné à être malheureux. Nous allons lui rendre sa liberté, sa joie de vivre et son génie créatif."
           ]
         },
         {
           "url": "https://www.parti-reconquete.fr/",
-          "changed_at": "2026-11-14",
-          "removed_blocks": 50,
+          "changed_at": "2026-11-15",
+          "removed_blocks": 56,
           "added": [
             "Il y a 108 ans, à 11 heures du matin, les cloches ont sonné dans toute la France. Dans chaque village, il y a un monument avec des noms, et souvent plusieurs fois le même nom de famille. Ces hommes avaient 20 ans. Ils avaient une ferme, un atelier, une fiancée, et ils ont tout donné pour que ce pays reste le nôtre. Serrer la main de ceux qui ont suivi leur exemple, c’est leur faire une promesse…",
             "En 1945, 3% d’une classe d’âge avaient le baccalauréat ; aujourd’hui, c’est 90%. Nous avons cru que la massification serait indolore, et le résultat, c’est que la moitié des étudiants n’ont pas le niveau pour être à l’université. C’est pourquoi je veux rétablir les méthodes traditionnelles à l’école, puis le mérite et la sélection à tous les étages, avec un examen d’entrée en sixième et un vrai…",
             "Je ne remplacerai pas un tiers des départs dans la fonction publique, et cela n’abîmera pas nos services publics. D’abord, leur problème n’est pas le manque de moyens, mais leur mauvaise gestion. Ensuite, Internet et l’IA font aujourd’hui ce que l’on faisait autrefois à la main. Enfin, la génération des boomers, très nombreuse, part à la retraite : c’est le moment de réduire les effectifs sans…",
+            "Commerçants, artisans, restaurateurs : ils font vivre chacun de nos centres-villes, de nos marchés et de nos fêtes populaires. Malgré un État qui les maltraite et les asphyxie, ils gardent le sourire et continuent de travailler pour faire vivre nos terroirs. Merci ! Je baisserai massivement les impôts pour nos artisans, nos commerçants, nos TPE et nos PME. Ceux qui travaillent de leurs mains…",
             "En plus d’être dans le pays le plus imposé du monde, nos entreprises font face à la concurrence déloyale de la Chine. Moi, je veux sauver le « Made in France ». Je veux donc libérer notre économie à l’intérieur et la protéger à l’extérieur. Je supprimerai les normes, baisserai massivement les impôts et j’instaurerai une véritable protection, avec des droits de douane de l’ordre de 50 % pour…",
             "La gauche parle d’une « Nouvelle France » depuis la Révolution, mais elle oublie toujours de dire que cette « Nouvelle France » se fait sur le dos de l’ancienne. Danton disait des aristocrates, qu’il envoyait à la guillotine, qu’ils étaient innocents, mais qu’ils gênaient l’avenir. Aujourd’hui, pour la gauche de Mélenchon, ce sont les Français qui gênent l’avenir. C’est pourquoi je dis aux…",
             "À chaque problème, on nous répète le vieux discours syndical : il faut plus de moyens. Pourtant, nous avons aujourd’hui 5,9 millions d’agents publics, contre 4,6 millions il y a 30 ans, et ni l’école ni l’hôpital ne fonctionnent mieux. L’école est même le premier budget de l’État, et plus on y a mis d’argent, plus le niveau s’est effondré. Je veux réformer l’État en profondeur, au lieu de…",
@@ -2298,17 +2320,16 @@
             "À force de vouloir être omniprésent, l’État est devenu impotent. Sous Bonaparte, l’État français était simple. Depuis 20 ans, on a multiplié les agences, les comités et les hautes autorités. Je veux simplifier, simplifier et simplifier ce système pour faire mieux avec moins.",
             "Cela fait à peu près 40 procédures contre moi en quelques années, et j’ai été relaxé 30 fois en 10 ans. Je n’ai volé personne et je n’ai pas détourné d’argent public. On me poursuit pour un délit d’opinion, au nom d’une loi liberticide que j’abolirai si je suis président.",
             "Merci aux soignants de l’hôpital public et aux infirmiers libéraux écœurés du système de venir me raconter leur quotidien. Nous nous battrons ensemble pour vous libérer et vous donner les moyens d’exercer votre passion : soigner les Français. ⤵️",
+            "Nos campagnes françaises renferment des trésors et des savoir-faire inestimables. Ici, en Bourgogne, les hommes travaillent la terre, et ce qu’elle nous donne, depuis des siècles, pour faire des produits d’exception vendus dans le monde entier.",
+            "La Bourgogne incarne la France éternelle : la beauté, l’art de vivre, le raffinement, l’élégance. C’est ça, la France qui rayonne dans le monde entier. Je me bats pour qu’on garde une France française. C’est le sens de mon combat.",
             "Hier, à Limoges, vous avez été nombreux à venir me confier vos inquiétudes, mais surtout vos espoirs, notamment après avoir lu Le Casse du siècle. Tous vos témoignages me donnent encore plus envie de me battre pour vous. Merci !",
             "Bruxelles, merci ! Vous étiez si nombreux, Français de Belgique comme Belges à venir à ma rencontre. Vous avez quitté la France à cause du Casse du siècle, mais elle ne vous oublie pas. Je veux vous voir revenir. 🇫🇷",
             "Le 11 novembre, nous célébrons la fin de la Première Guerre mondiale. Les Français se sont battus dans la boue, sous les obus, pour défendre la liberté de leur pays. Je me bats pour être digne de cet héritage.",
             "Je vous invite, dès maintenant, à me rejoindre le 21 novembre pour mon meeting de lancement de campagne à Toulon. ✅ Inscrivez-vous : https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
             "« Vous faites bien de demander, Madame Borne, il n’y a pas de question bête. » Élisabeth Borne se demande où trouver 800 000 postes de fonctionnaires à ne pas remplacer. Je lui réponds. ⤵️",
+            "Bien arrivée à Montauban où vous êtes très nombreux à venir de tous les partis de la droite. Ici, l’union des droites est une réalité ! 🇫🇷",
             "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme. Je l’ai lu. C’est catastrophique. Je vous explique tout. ⤴️",
-            "Le peuple français n’est pas condamné à être malheureux. Nous allons lui rendre sa liberté, sa joie de vivre et son génie créatif.",
-            "Les verres incassables de Duralex, ce n’est pas un mythe ! Écoutez cette anecdote de mon enfance. ⬆️",
-            "Éric Zemmour : Je suis candidat à l’élection présidentielle de 2027. Notre avenir sera français !",
-            "Je vous donne aussi rendez-vous, le 21 novembre à Toulon, pour le premier meeting d’Eric Zemmour.",
-            "La responsabilité des politiques n’est pas de se taire, mais d’arrêter les causes de la violence."
+            "Le peuple français n’est pas condamné à être malheureux. Nous allons lui rendre sa liberté, sa joie de vivre et son génie créatif."
           ]
         },
         {
