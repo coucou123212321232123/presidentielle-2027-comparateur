@@ -1280,20 +1280,20 @@
   {
     "id": "dupont-aignan-culture-01",
     "theme": "culture",
-    "title": "400 M€ par an pour le patrimoine",
-    "description": "Consacrer 400 M€ par an à l'entretien et à la restauration du patrimoine et sanctuariser 1 % du budget de l'État pour la culture (page non mise à jour depuis 2024).",
+    "title": "Doubler les crédits du patrimoine pour atteindre 1 Md€ par an",
+    "description": "Doubler les crédits d'entretien et de restauration du patrimoine pour atteindre 1 Md€ par an, les 500 M€ supplémentaires provenant d'une réduction des crédits de l'audiovisuel public.",
     "source_type": "officiel",
     "source_title": "Projet de Debout la France – Culture et patrimoine",
     "source_url": "https://www.debout-la-france.fr/projet/culture-patrimoine/",
-    "source_date": "2024-02-05",
+    "source_date": "2026-11-13",
     "source_page": null,
     "precision": "chiffre",
     "cost": {
-      "label": "400 M€ par an",
+      "label": "500 M€ supplémentaires pour atteindre 1 Md€ par an",
       "source_label": "Projet de Debout la France – Culture et patrimoine",
       "source_url": "https://www.debout-la-france.fr/projet/culture-patrimoine/"
     },
-    "last_verified": "2026-10-15",
+    "last_verified": "2026-11-16",
     "added": "2026-10-15"
   },
   {
@@ -1607,5 +1607,52 @@
     },
     "last_verified": "2026-11-09",
     "added": "2026-11-09"
+  },
+  {
+    "id": "dupont-aignan-economie-08",
+    "theme": "economie",
+    "title": "Plan de financement : 100 Md€ d'économies, 40 Md€ de recettes, 90 Md€ de baisses d'impôt et dépenses",
+    "description": "Le candidat présente un chiffrage d'ensemble de son projet économique : 100 Md€ d'économies et 40 Md€ de recettes nouvelles, soit 140 Md€, finançant 90 Md€ de baisses d'impôts et de dépenses nouvelles et réduisant le déficit de 50 Md€ hors effet de la croissance. Il vise aussi une stabilisation puis une baisse de la dette en part du PIB.",
+    "source_type": "officiel",
+    "source_title": "Cahier rouge – Financement du projet économique de Nicolas Dupont-Aignan",
+    "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf#page=5",
+    "source_date": "2026-11-12",
+    "source_page": "p. 5",
+    "precision": "chiffre",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
+  },
+  {
+    "id": "dupont-aignan-economie-09",
+    "theme": "economie",
+    "title": "Fonds d'investissement et de relocalisation de 4 Md€ par an (Caisse des dépôts)",
+    "description": "Créer un grand fonds d'investissement et de relocalisation piloté par la Caisse des dépôts et consignations, qui favorisera l'investissement productif, la robotisation, l'emploi et la recherche, notamment dans les zones périphériques et rurales. Ce fonds devra à terme s'autofinancer via les profits de ses investissements.",
+    "source_type": "officiel",
+    "source_title": "Livret Économie – Produire en France et récompenser le travail (mesure 4)",
+    "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf#page=3",
+    "source_date": "2026-11-12",
+    "source_page": "p. 3",
+    "precision": "chiffre",
+    "cost": {
+      "label": "4 Md€ par an",
+      "source_label": "Livret Économie du candidat",
+      "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf#page=3"
+    },
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
+  },
+  {
+    "id": "dupont-aignan-culture-05",
+    "theme": "culture",
+    "title": "Remplacer le pass Culture par un « ticket découverte culturelle » pour les 14-18 ans",
+    "description": "Remplacer le pass Culture par un ticket annuel destiné aux jeunes de 14 à 18 ans, donnant droit à deux options parmi cinéma (art et essai), théâtre, exposition, concert de musique classique ou monument historique.",
+    "source_type": "officiel",
+    "source_title": "Projet de Debout la France – Culture et patrimoine",
+    "source_url": "https://www.debout-la-france.fr/projet/culture-patrimoine/",
+    "source_date": "2026-11-13",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
   }
 ]

@@ -540,5 +540,41 @@
         "text": "Taux de chômage : 8,2 % au 3e trimestre 2026 (Insee) ; chômage des 15-24 ans : 21,0 %."
       }
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "summary": "Candidats : nouvelles mesures issues de publications de campagne récentes (rubrique programme d'Édouard Philippe, projet économique et Cahier rouge de Nicolas Dupont-Aignan, livret « Révolution écologique » de Raphaël Glucksmann, livret Démocratie de François Ruffin, chronique de Dominique de Villepin, 5e édition de L'Avenir en commun, site de Gabriel Attal).",
+    "accepted": 22,
+    "rejected": 0,
+    "changes": [
+      {
+        "candidate": "philippe",
+        "text": "Lien principal : rubrique « Le programme » du site de campagne (15 thématiques, mise à jour du 12 novembre 2026) ; 5 mesures ajoutées (prisons, vidéoprotection, crimes sur mineurs, immigration de travail et double peine, armements européens)."
+      },
+      {
+        "candidate": "dupont-aignan",
+        "text": "Livret Économie et Cahier rouge de financement (12 novembre 2026) ajoutés aux documents ; chiffrage d'ensemble publié ; 3 mesures ajoutées (plan de financement, fonds d'investissement et de relocalisation, ticket découverte culturelle) ; mesure sur le patrimoine mise à jour (1 Md€ par an)."
+      },
+      {
+        "candidate": "glucksmann",
+        "text": "Livret « Révolution écologique » (première partie, 9 novembre 2026) ajouté aux documents ; 2 mesures ajoutées (investissement public dans la transition, leasing social et chèque énergie)."
+      },
+      {
+        "candidate": "villepin",
+        "text": "3 mesures ajoutées (IA de frontière, armes autonomes, hydrocarbures), issues de la chronique « Conférence de la Paix » du 12 novembre 2026."
+      },
+      {
+        "candidate": "melenchon",
+        "text": "2 mesures ajoutées issues de la 5e édition de L'Avenir en commun (vols de nuit, psychothérapie des moins de 26 ans)."
+      },
+      {
+        "candidate": "attal",
+        "text": "2 mesures ajoutées issues du site de campagne (magistrats et greffiers, bouclier antimissile européen)."
+      },
+      {
+        "candidate": "ruffin",
+        "text": "1 mesure ajoutée issue du livret de campagne n° 9 Démocratie (États généraux)."
+      }
+    ]
   }
 ]

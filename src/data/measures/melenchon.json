@@ -2110,5 +2110,33 @@
     },
     "last_verified": "2026-11-09",
     "added": "2026-11-09"
+  },
+  {
+    "id": "melenchon-ecologie-08",
+    "theme": "ecologie",
+    "title": "Interdire les vols de nuit entre 23 h et 6 h dans tous les aéroports français",
+    "description": "Le programme L'Avenir en commun (5e édition) propose d'interdire les vols de nuit dans tous les aéroports français entre 23 h et 6 h et de réduire le nombre de créneaux de décollage disponibles le reste du temps.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun (5e édition, 2026) – Pour une bifurcation écologique et sociale, chapitre 3",
+    "source_url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+    "source_date": "2026-11-06",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
+  },
+  {
+    "id": "melenchon-sante-08",
+    "theme": "sante",
+    "title": "Rembourser les séances de psychothérapie pour les moins de 26 ans",
+    "description": "L'Avenir en commun (5e édition) propose le remboursement des séances de psychothérapie pour les moins de 26 ans, parmi les mesures pour la jeunesse.",
+    "source_type": "officiel",
+    "source_title": "L'Avenir en commun (5e édition, 2026) – Mettre en sécurité sociale, chapitre 2",
+    "source_url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+    "source_date": "2026-11-06",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
   }
 ]

@@ -86,7 +86,7 @@
     "format": "page_web",
     "published_date": null,
     "status": "partiel",
-    "note": "Programme thématique de Debout la France (32 pages accessibles depuis le site de campagne dupontaignan.fr). Le parti indique que ses équipes « travaillent actuellement à l'actualisation » du programme pour 2027 : au 16 octobre 2026, 20 pages ont été modifiées en 2026 (économie, produire en France, Europe, affaires étrangères, défense, justice, sécurité, immigration, éducation, logement, famille, handicap, outre-mer, agriculture, équilibre du territoire, Français de l'étranger, IA, démocratie, transports, droits des femmes), l'environnement en octobre 2025, et les autres datent de 2024 (santé, retraites, culture, enseignement supérieur…). Les grands axes ont été présentés dans le discours de Yerres du 19 septembre 2026. Aucun document PDF de programme n'a été trouvé. Le candidat a aussi publié le livre « 2027 : La liberté ou la mort » (Fayard, 2026), non consulté.",
+    "note": "Programme thématique de Debout la France (32 pages accessibles depuis le site de campagne dupontaignan.fr). Le parti indique que ses équipes « travaillent actuellement à l'actualisation » du programme pour 2027 : au 16 octobre 2026, 20 pages ont été modifiées en 2026 (économie, produire en France, Europe, affaires étrangères, défense, justice, sécurité, immigration, éducation, logement, famille, handicap, outre-mer, agriculture, équilibre du territoire, Français de l'étranger, IA, démocratie, transports, droits des femmes), l'environnement en octobre 2025, et les autres datent de 2024 (santé, retraites, culture, enseignement supérieur…). Les grands axes ont été présentés dans le discours de Yerres du 19 septembre 2026. Aucun document PDF de programme n'a été trouvé. Le candidat a aussi publié le livre « 2027 : La liberté ou la mort » (Fayard, 2026), non consulté. Le 12 novembre 2026, le candidat a présenté en conférence de presse un projet économique (livret de 30 mesures) et son financement (« Cahier rouge »).",
     "thematic_links": [
       {
         "theme": "economie",
@@ -248,6 +248,20 @@
         "url": "https://www.debout-la-france.fr/projet/culture-patrimoine/",
         "format": "page_web",
         "page_range": null
+      },
+      {
+        "theme": "economie",
+        "title": "Livret Économie : Produire en France et récompenser le travail (30 mesures, 12 nov. 2026)",
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-5"
+      },
+      {
+        "theme": "economie",
+        "title": "Cahier rouge : financement du projet économique (12 nov. 2026)",
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+        "format": "pdf",
+        "page_range": "p. 1-15"
       }
     ],
     "archive_url": null
@@ -282,5 +296,5 @@
       "url": "https://www.debout-la-france.fr/notre-projet/"
     }
   ],
-  "last_verified": "2026-10-16"
+  "last_verified": "2026-11-16"
 }

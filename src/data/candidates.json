@@ -661,7 +661,7 @@
       "format": "page_web",
       "published_date": null,
       "status": "partiel",
-      "note": "Programme thématique de Debout la France (32 pages accessibles depuis le site de campagne dupontaignan.fr). Le parti indique que ses équipes « travaillent actuellement à l'actualisation » du programme pour 2027 : au 16 octobre 2026, 20 pages ont été modifiées en 2026 (économie, produire en France, Europe, affaires étrangères, défense, justice, sécurité, immigration, éducation, logement, famille, handicap, outre-mer, agriculture, équilibre du territoire, Français de l'étranger, IA, démocratie, transports, droits des femmes), l'environnement en octobre 2025, et les autres datent de 2024 (santé, retraites, culture, enseignement supérieur…). Les grands axes ont été présentés dans le discours de Yerres du 19 septembre 2026. Aucun document PDF de programme n'a été trouvé. Le candidat a aussi publié le livre « 2027 : La liberté ou la mort » (Fayard, 2026), non consulté.",
+      "note": "Programme thématique de Debout la France (32 pages accessibles depuis le site de campagne dupontaignan.fr). Le parti indique que ses équipes « travaillent actuellement à l'actualisation » du programme pour 2027 : au 16 octobre 2026, 20 pages ont été modifiées en 2026 (économie, produire en France, Europe, affaires étrangères, défense, justice, sécurité, immigration, éducation, logement, famille, handicap, outre-mer, agriculture, équilibre du territoire, Français de l'étranger, IA, démocratie, transports, droits des femmes), l'environnement en octobre 2025, et les autres datent de 2024 (santé, retraites, culture, enseignement supérieur…). Les grands axes ont été présentés dans le discours de Yerres du 19 septembre 2026. Aucun document PDF de programme n'a été trouvé. Le candidat a aussi publié le livre « 2027 : La liberté ou la mort » (Fayard, 2026), non consulté. Le 12 novembre 2026, le candidat a présenté en conférence de presse un projet économique (livret de 30 mesures) et son financement (« Cahier rouge »).",
       "thematic_links": [
         {
           "theme": "economie",
@@ -823,6 +823,20 @@
           "url": "https://www.debout-la-france.fr/projet/culture-patrimoine/",
           "format": "page_web",
           "page_range": null
+        },
+        {
+          "theme": "economie",
+          "title": "Livret Économie : Produire en France et récompenser le travail (30 mesures, 12 nov. 2026)",
+          "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+          "format": "pdf",
+          "page_range": "p. 1-5"
+        },
+        {
+          "theme": "economie",
+          "title": "Cahier rouge : financement du projet économique (12 nov. 2026)",
+          "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "format": "pdf",
+          "page_range": "p. 1-15"
         }
       ],
       "archive_url": null
@@ -857,7 +871,7 @@
         "url": "https://www.debout-la-france.fr/notre-projet/"
       }
     ],
-    "last_verified": "2026-10-16",
+    "last_verified": "2026-11-16",
     "color": "#7C3AED"
   },
   {
@@ -939,7 +953,7 @@
       "format": "pdf",
       "published_date": "2025-06-23",
       "status": "partiel",
-      "note": "Aucun programme présidentiel 2027 n'est publié au 16 octobre 2026 : le site de campagne glucks2027.fr ne comporte pas de rubrique programme. La référence programmatique officielle est le projet de Place publique « Acte I » (42 chantiers), présenté le 23 juin 2025 comme une « vision » et non « un catalogue figé de mesures » ; selon Place publique, le projet « s'articule en trois actes », mais aucun acte suivant n'est publié à cette date. S'y ajoutent la lettre aux Français (25 août 2026), la profession de foi de la primaire (septembre 2026) et des propositions formulées pendant la campagne de la primaire (livre « Nous avons encore envie », mai 2026 ; débats télévisés de septembre-octobre 2026).",
+      "note": "Aucun programme présidentiel 2027 n'est publié au 16 octobre 2026 : le site de campagne glucks2027.fr ne comporte pas de rubrique programme. La référence programmatique officielle est le projet de Place publique « Acte I » (42 chantiers), présenté le 23 juin 2025 comme une « vision » et non « un catalogue figé de mesures » ; selon Place publique, le projet « s'articule en trois actes », mais aucun acte suivant n'est publié à cette date. S'y ajoutent la lettre aux Français (25 août 2026), la profession de foi de la primaire (septembre 2026) et des propositions formulées pendant la campagne de la primaire (livre « Nous avons encore envie », mai 2026 ; débats télévisés de septembre-octobre 2026). Le 9 novembre 2026, Raphaël Glucksmann et Yannick Jadot ont publié la première partie d'un livret « Révolution écologique » ; une seconde partie (biodiversité, eau, agriculture, pêche, alimentation, pollutions, santé) est annoncée « dans quelques semaines ».",
       "thematic_links": [
         {
           "theme": "international",
@@ -1094,6 +1108,13 @@
           "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf#page=84",
           "format": "pdf",
           "page_range": "p. 84-85"
+        },
+        {
+          "theme": "ecologie",
+          "title": "Révolution écologique – Première partie : les 100 premiers jours pour sortir des énergies fossiles (livret, 9 nov. 2026)",
+          "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+          "format": "pdf",
+          "page_range": "p. 1-24"
         }
       ],
       "archive_url": "https://web.archive.org/web/20261012153628/http://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf"
@@ -1164,7 +1185,7 @@
         "url": "https://www.franceinfo.fr/elections/presidentielle/les-emmerdes-commencent-les-huit-defis-que-raphael-glucksmann-va-devoir-relever-apres-sa-victoire-a-la-primaire-de-la-gauche_8234041.html"
       }
     ],
-    "last_verified": "2026-10-19",
+    "last_verified": "2026-11-16",
     "color": "#DB2777"
   },
   {
@@ -2025,12 +2046,12 @@
       }
     ],
     "program": {
-      "title": "Les priorités – Avec Édouard 2027",
-      "main_url": "https://www.edouardphilippe.fr/",
+      "title": "Le programme – Avec Édouard 2027",
+      "main_url": "https://www.edouardphilippe.fr/programme",
       "format": "page_web",
       "published_date": null,
       "status": "partiel",
-      "note": "Pas de programme complet publié en document unique au 16 octobre 2026. Le site de campagne présente quatre pages de « priorités » (premières orientations d’un programme annoncé comme « massif ») ; d’après les captures de la Wayback Machine, leur liste détaillée de mesures a été mise en ligne entre le 5 et le 14 octobre 2026. Des annonces complémentaires sont faites par interviews (France 2, 8 octobre 2026), vidéos (retraites, 29 septembre 2026), discours (Reims, 10 mai ; Adidas Arena, 5 juillet 2026) et publications d’Horizons (plan contre le narcotrafic, tribune aux entrepreneurs). Les « Notes d’Horizons » du pôle Idées (dont une sur la culture et une sur l’économie bleue en outre-mer) sont adressées par courriel aux adhérents.",
+      "note": "Le site de campagne met en ligne une rubrique « Le programme » de 15 thématiques (sécurité, justice, immigration, défense, travail, entreprises, finances publiques, retraites, école, famille, protection de l'enfance, IA, énergie, adaptation climatique, outre-mer), indiquée comme mise à jour le 12 novembre 2026. Le site précise que le programme « s'écrit tout au long de la campagne », avec de nouvelles propositions thématique après thématique.",
       "thematic_links": [
         {
           "theme": "securite",
@@ -2094,6 +2115,111 @@
           "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena",
           "format": "page_web",
           "page_range": null
+        },
+        {
+          "theme": "securite",
+          "title": "Programme – Sécurité",
+          "url": "https://www.edouardphilippe.fr/programme/securite",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "securite",
+          "title": "Programme – Justice",
+          "url": "https://www.edouardphilippe.fr/programme/justice",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "immigration",
+          "title": "Programme – Immigration",
+          "url": "https://www.edouardphilippe.fr/programme/immigration",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "international",
+          "title": "Programme – Défense",
+          "url": "https://www.edouardphilippe.fr/programme/defense",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "emploi",
+          "title": "Programme – Travail et salaires",
+          "url": "https://www.edouardphilippe.fr/programme/travail",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "economie",
+          "title": "Programme – Entreprises et industrie",
+          "url": "https://www.edouardphilippe.fr/programme/entreprises",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "economie",
+          "title": "Programme – Finances publiques",
+          "url": "https://www.edouardphilippe.fr/programme/comptes-publics",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "retraites",
+          "title": "Programme – Retraites",
+          "url": "https://www.edouardphilippe.fr/programme/retraites",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "education",
+          "title": "Programme – École",
+          "url": "https://www.edouardphilippe.fr/programme/ecole",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "famille",
+          "title": "Programme – Famille",
+          "url": "https://www.edouardphilippe.fr/programme/famille",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "famille",
+          "title": "Programme – Protection de l'enfance",
+          "url": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "numerique",
+          "title": "Programme – Intelligence artificielle",
+          "url": "https://www.edouardphilippe.fr/programme/intelligence-artificielle",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "energie",
+          "title": "Programme – Énergie",
+          "url": "https://www.edouardphilippe.fr/programme/energie",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "ecologie",
+          "title": "Programme – Adaptation climatique",
+          "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+          "format": "page_web",
+          "page_range": null
+        },
+        {
+          "theme": "outre_mer",
+          "title": "Programme – Outre-mer",
+          "url": "https://www.edouardphilippe.fr/programme/outre-mer",
+          "format": "page_web",
+          "page_range": null
         }
       ],
       "archive_url": "http://web.archive.org/web/20261015153859/https://www.edouardphilippe.fr/"
@@ -2144,7 +2270,7 @@
         "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena"
       }
     ],
-    "last_verified": "2026-10-16",
+    "last_verified": "2026-11-16",
     "color": "#0284C7"
   },
   {

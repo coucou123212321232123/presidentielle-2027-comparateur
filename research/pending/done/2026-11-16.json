@@ -1,0 +1,801 @@
+{
+  "date": "2026-11-16",
+  "routine": "candidats",
+  "status": "applique",
+  "signalements": "Aucune issue ouverte avec le label signalement.",
+  "journal": {
+    "roussel": "Pages nouvelles pcf.fr (12) : bruit/actualité ; deux pages (profs plutôt que missiles, salaires/éducation) renvoient 403, non confirmées. Recherche web : candidature validée 6 sept. déjà connue, rien de nouveau depuis le 13/11. Aucun changement.",
+    "ruffin": "Livret de campagne n°9 Démocratie (nouspresident.fr, PDF lu, p.27-28) : États généraux de 250 membres = nouvelle mesure ; RIC et tiers de salariés au CA déjà publiés. Recherche web : rien de nouveau (résultats agrégateurs écartés). 1 proposition.",
+    "tondelier": "Page culture (journal de campagne, 9 nov.) renvoie au livret culture lesecologistes.fr, PDF inaccessible (renvoie du HTML) ; mesures culture déjà publiées (5). Recherche web : rien de nouveau. Aucun changement.",
+    "villepin": "Chronique Conférence de la Paix (12/11) lue : 3 mesures nouvelles (IA de frontière, armes autonomes, hydrocarbures) ; Conseil de sécurité européen et Gaza déjà publiés. Recherche : déclaré non encore officiellement candidat le 3/11 (France Inter, source ÉlyséeScope donc non retenue) ; aucun fait nouveau confirmé depuis le 13/11. 3 propositions.",
+    "zemmour": "PDF tracts modifiés sans passage nouveau ; homepage parti-reconquete.fr : extraits de posts (fonction publique, droits de douane 50 %, hausse 10 %) non retrouvés à l'ouverture, donc non retenus. Candidature déjà acquise (17 sept.) ; premier meeting de lancement de campagne annoncé à Toulon le 21 nov. (post du 15/11). Aucun changement.",
+    "nouvelles_candidatures": "Aucun nouveau déclaré depuis le 13/11 trouvé (Riner déclaré le 9/11, Polony 14/10 : déjà listés sans fiche). Aucun retrait signalé.",
+    "le-pen": "Pages nouvelles (site de campagne) : articles d'octobre déjà couverts par les mesures publiées (plan de redressement budgétaire, protection de l'enfance, Bruxelles). Recherche web : candidature maintenue, rien de nouveau depuis le 13 nov. Aucun changement.",
+    "lisnard": "Pages DLive (13 nov), Rencontres de l'Avenir, podcast éducation : propositions déjà publiées (CSG, capitalisation, école, fonction publique ; l'objectif de 20 % cité s'ajoute à l'effectif -12 %, non retenu). Recherche web sans fait nouveau. Aucun changement.",
+    "melenchon": "Changements du site LFI = actualités (manifestation, Ukraine, législatives). L'Avenir en commun 5e éd. (6 nov) déjà enregistré ; chapitres lus : 2 mesures nouvelles non publiées (vols de nuit, psychothérapie moins de 26 ans). Autres nouveautés déjà présentes.",
+    "philippe": "Nouvelle rubrique /programme (15 thématiques, mise à jour le 12 nov) : mise à jour du lien programme et 5 mesures nouvelles (prisons, vidéoprotection IA, imprescriptibilité crimes sur mineurs, quotas/double peine, armements européens 1 %). Autres propositions déjà publiées. Écartées : plan Marshall garde d'enfants, zones d'accélération IA (peu précis).",
+    "retailleau": "Aucun changement détecté sur les pages suivies ; recherche web : relance d'une primaire à droite le 4 nov (antérieur à la période), rien de nouveau. Aucun changement.",
+    "arthaud": "Pages modifiées (accueil, portail LO) : éditoriaux sur le Smic/pouvoir d'achat, déjà couverts par les mesures publiées (SMIC 2 200 € net, hausse des salaires) ; brochure inchangée sur le fond. Recherche web : candidature déjà confirmée, rien de nouveau depuis le 13/11. Aucune proposition.",
+    "attal": "Examiné ~95 pages de mesures du site de campagne : la grande majorité est déjà publiée (106 titres). Deux mesures nouvelles retenues (3 000 magistrats, dôme de fer européen). Autres non retenues faute de place : imprescriptibilité des crimes sexuels sur mineurs, perpétuité réelle, audit des programmes d'armement, fusion nucléaire. Web : primaire des démocrates défendue (2 nov.), pas de nouveau programme. Statut inchangé.",
+    "bertrand": "Seule page nouvelle : nousfrance.fr/je-reponds-present (formulaire d'adhésion, sans proposition). Recherche web : aucune déclaration officielle de candidature depuis le 13/11 ; statut probable inchangé.",
+    "dupont-aignan": "Nouveau projet économique présenté le 12/11/2026 : livret Économie (30 mesures, 5 p.) et Cahier rouge de financement (15 p.) lus. Page culture-patrimoine modifiée le 13/11 (patrimoine 1 Md€/an, ticket découverte culturelle). SMIC 1 600 € net, fraude sociale, etc. déjà publiés. Recherche web : aucun média indépendant trouvé sur le chiffrage ; sources officielles uniquement.",
+    "glucksmann": "Nouveau livret « Révolution écologique » (100 jours, 24 p., 9/11/2026) lu ; seconde partie annoncée dans quelques semaines. Page d'accueil : mention « candidat » (statut déjà déclaré). Page meeting VIP sans programme. Web : confirmation de la présentation du 9/11.",
+    "signalements": "Aucune issue ouverte."
+  },
+  "proposals": [
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "institutions",
+        "title": "États généraux de 250 membres tirés au sort, déclenchés par pétition à 1 million de signatures",
+        "description": "Assemblée délibérante organisée par le CESE : 150 citoyens tirés au sort, 50 représentants de la société civile, 50 élus (dont 40 élus locaux tirés au sort). Déclenchement par pétition, résolution parlementaire ou demande présidentielle ; congé citoyen à salaire maintenu, remboursé à l'employeur par l'État.",
+        "source_type": "officiel",
+        "source_title": "Livret de campagne n° 9 – Démocratie (Debout !)",
+        "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-9-Democratie-vWeb.pdf#page=27",
+        "source_date": "2026-11",
+        "source_page": "p. 27-28",
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-9-Democratie-vWeb.pdf",
+          "excerpt": "Une assemblée de 250 membres, à l'image du pays."
+        },
+        {
+          "url": "https://nouspresident.fr/pour-une-democratie-en-continu-vive-les-etats-generaux/",
+          "excerpt": "Démocratie en continu : faire vivre les états généraux"
+        }
+      ],
+      "reason": "Nouveau livret n°9 publié le 2026-11-13 ; États généraux absents des mesures publiées (RIC et tiers de salariés au CA déjà présents).",
+      "n": 1,
+      "decision": "acceptee",
+      "motif": "Conforme au livret p.27-28 (PDF lu, pagination juste). Le titre laissait croire que les 250 membres sont tous tirés au sort (seuls 150 citoyens + 40 élus locaux le sont), et la description omettait l'accord préalable du Parlement exigé pour la voie présidentielle.",
+      "corrections": {
+        "title": "États généraux de 250 membres, dont 150 citoyens tirés au sort, déclenchables par pétition d'un million de signatures",
+        "description": "Assemblée délibérante organisée par le CESE : 150 citoyens tirés au sort, 50 représentants de la société civile, 50 élus (40 élus locaux tirés au sort et 10 parlementaires). Déclenchement par pétition d'un million de signatures, résolution parlementaire ou demande présidentielle soumise à l'accord préalable du Parlement ; congé citoyen à salaire maintenu, remboursé à l'employeur par l'État."
+      },
+      "applied_id": "ruffin-institutions-07"
+    },
+    {
+      "candidate": "villepin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "numerique",
+        "title": "Notification obligatoire des incidents graves d'IA de frontière et seuils de danger communs",
+        "description": "Notification obligatoire des incidents graves liés à l'IA de frontière, seuils de danger communs et vérifiables, et interdiction de développer ou déployer un modèle franchissant ces seuils ; cadre à acter au sommet de Genève des 21-22 juin 2027.",
+        "source_type": "officiel",
+        "source_title": "Conférence de la Paix (chronique de Dominique de Villepin)",
+        "source_url": "https://lafrancehumaniste.fr/articles/conference-de-la-paix.html",
+        "source_date": "2026-11-12",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://lafrancehumaniste.fr/articles/conference-de-la-paix.html",
+          "excerpt": "une notification obligatoire des incidents graves"
+        }
+      ],
+      "reason": "Nouvelle chronique du 2026-11-12 ; mesure absente (seul le consortium européen de l'IA est publié).",
+      "n": 2,
+      "decision": "acceptee",
+      "motif": "Chronique signée du 12/11/2026 sur le site de son mouvement. Il s'agit d'un mécanisme international. Precision ramenée à precis : la mesure ne contient aucune valeur chiffrée, seulement des dates.",
+      "corrections": {
+        "description": "Mécanisme international de notification obligatoire des incidents graves liés à l'IA de frontière ; seuils de danger communs, publics et vérifiables, avec notification préalable aux gouvernements et évaluation indépendante à l'approche d'un seuil ; un modèle qui ne peut être maintenu sous les seuils n'est ni développé ni déployé. Cadre à adopter au sommet de Genève des 21-22 juin 2027.",
+        "precision": "precis"
+      },
+      "applied_id": "villepin-numerique-04"
+    },
+    {
+      "candidate": "villepin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "international",
+        "title": "Traité juridiquement contraignant sur les armes autonomes",
+        "description": "Négociation d'un traité juridiquement contraignant, et non d'une simple déclaration, sur les armes autonomes ; principe selon lequel une machine ne décide pas seule de la vie ou de la mort.",
+        "source_type": "officiel",
+        "source_title": "Conférence de la Paix (chronique de Dominique de Villepin)",
+        "source_url": "https://lafrancehumaniste.fr/articles/conference-de-la-paix.html",
+        "source_date": "2026-11-12",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://lafrancehumaniste.fr/articles/conference-de-la-paix.html",
+          "excerpt": "Une machine ne doit jamais décider seule de la vie ou de la mort"
+        }
+      ],
+      "reason": "Nouvelle chronique du 2026-11-12 ; absent des titres publiés.",
+      "n": 3,
+      "decision": "acceptee",
+      "motif": "Conforme à la chronique du 12/11/2026 (traité plutôt qu'une déclaration ; aucune machine ne décide seule de la vie ou de la mort).",
+      "corrections": null,
+      "applied_id": "villepin-international-07"
+    },
+    {
+      "candidate": "villepin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "ecologie",
+        "title": "Accord de réduction des volumes d'hydrocarbures avec les pays producteurs",
+        "description": "Conclure un accord de réduction des volumes d'hydrocarbures avec les pays producteurs, dans une planification multilatérale associant producteurs et consommateurs.",
+        "source_type": "officiel",
+        "source_title": "Conférence de la Paix (chronique de Dominique de Villepin)",
+        "source_url": "https://lafrancehumaniste.fr/articles/conference-de-la-paix.html",
+        "source_date": "2026-11-12",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://lafrancehumaniste.fr/articles/conference-de-la-paix.html",
+          "excerpt": "accord de réduction des volumes d'hydrocarbures"
+        }
+      ],
+      "reason": "Nouvelle chronique du 2026-11-12 ; absent des titres publiés.",
+      "n": 4,
+      "decision": "acceptee",
+      "motif": "La source dit « nous devrions viser un accord… avec les pays pétroliers ». « Conclure » allait au-delà de ce texte.",
+      "corrections": {
+        "description": "Viser un accord de réduction des volumes d'hydrocarbures avec les pays pétroliers, dans une planification multilatérale associant producteurs et consommateurs pour compenser les restrictions volontaires de volumes."
+      },
+      "applied_id": "villepin-ecologie-07"
+    },
+    {
+      "candidate": "philippe",
+      "kind": "update_program",
+      "data": {
+        "program": {
+          "title": "Le programme – Avec Édouard 2027",
+          "main_url": "https://www.edouardphilippe.fr/programme",
+          "format": "page_web",
+          "status": "partiel",
+          "note": "Le site de campagne met en ligne une rubrique « Le programme » de 15 thématiques (sécurité, justice, immigration, défense, travail, entreprises, finances publiques, retraites, école, famille, protection de l'enfance, IA, énergie, adaptation climatique, outre-mer), indiquée comme mise à jour le 12 novembre 2026. Le site précise que le programme « s'écrit tout au long de la campagne », avec de nouvelles propositions thématique après thématique : il n'est donc pas présenté comme complet.",
+          "thematic_links": [
+            {
+              "theme": "securite",
+              "title": "Programme – Sécurité",
+              "url": "https://www.edouardphilippe.fr/programme/securite",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "securite",
+              "title": "Programme – Justice",
+              "url": "https://www.edouardphilippe.fr/programme/justice",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "immigration",
+              "title": "Programme – Immigration",
+              "url": "https://www.edouardphilippe.fr/programme/immigration",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "international",
+              "title": "Programme – Défense",
+              "url": "https://www.edouardphilippe.fr/programme/defense",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "emploi",
+              "title": "Programme – Travail et salaires",
+              "url": "https://www.edouardphilippe.fr/programme/travail",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "economie",
+              "title": "Programme – Entreprises et industrie",
+              "url": "https://www.edouardphilippe.fr/programme/entreprises",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "economie",
+              "title": "Programme – Finances publiques",
+              "url": "https://www.edouardphilippe.fr/programme/comptes-publics",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "retraites",
+              "title": "Programme – Retraites",
+              "url": "https://www.edouardphilippe.fr/programme/retraites",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "education",
+              "title": "Programme – École",
+              "url": "https://www.edouardphilippe.fr/programme/ecole",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "famille",
+              "title": "Programme – Famille",
+              "url": "https://www.edouardphilippe.fr/programme/famille",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "famille",
+              "title": "Programme – Protection de l'enfance",
+              "url": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "numerique",
+              "title": "Programme – Intelligence artificielle",
+              "url": "https://www.edouardphilippe.fr/programme/intelligence-artificielle",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "energie",
+              "title": "Programme – Énergie",
+              "url": "https://www.edouardphilippe.fr/programme/energie",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "ecologie",
+              "title": "Programme – Adaptation climatique",
+              "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+              "format": "page_web",
+              "page_range": null
+            },
+            {
+              "theme": "outre_mer",
+              "title": "Programme – Outre-mer",
+              "url": "https://www.edouardphilippe.fr/programme/outre-mer",
+              "format": "page_web",
+              "page_range": null
+            }
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme",
+          "excerpt": "Ce programme s'écrit tout au long de la campagne"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme",
+          "excerpt": "Mise à jour le 12 novembre 2026"
+        }
+      ],
+      "reason": "Nouvelle rubrique « Le programme » sur le site de campagne (pages /programme/*, nouvelles depuis la veille), plus complète que les quatre pages « priorités » enregistrées.",
+      "n": 5,
+      "decision": "acceptee",
+      "motif": "Rubrique /programme vérifiée : 15 thématiques, « Mise à jour le 12 novembre 2026 », phrase « s'écrit tout au long de la campagne » présente. Les 15 URL répondent en 200 avec le bon titre.",
+      "corrections": null
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "theme": "securite",
+        "title": "Loi d'accélération de la construction de prisons",
+        "description": "Édouard Philippe propose une loi destinée à accélérer la construction de prisons, présentée parmi les propositions de sa thématique Justice. La page ne chiffre pas le nombre de places visé.",
+        "source_type": "officiel",
+        "source_title": "Le programme – Avec Édouard 2027 : Justice",
+        "source_url": "https://www.edouardphilippe.fr/programme/justice",
+        "source_date": "2026-11-12",
+        "source_page": null,
+        "precision": "precis",
+        "indicator": {
+          "key": "places_prison",
+          "value": "construction"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/justice",
+          "excerpt": "Une loi d’accélération de la construction de prisons"
+        }
+      ],
+      "reason": "Mesure absente des titres publiés ; page programme officielle.",
+      "n": 6,
+      "decision": "acceptee",
+      "motif": "Proposition phare de la page Justice (mise à jour le 12/11/2026), sans chiffrage du nombre de places.",
+      "corrections": null,
+      "applied_id": "philippe-securite-10"
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "theme": "securite",
+        "title": "Vidéoprotection avec intelligence artificielle pour identifier casseurs et criminels",
+        "description": "Le programme de sécurité d'Édouard Philippe prévoit d'utiliser la vidéoprotection assistée par intelligence artificielle pour identifier les casseurs et les criminels.",
+        "source_type": "officiel",
+        "source_title": "Le programme – Avec Édouard 2027 : Sécurité",
+        "source_url": "https://www.edouardphilippe.fr/programme/securite",
+        "source_date": "2026-11-12",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/securite",
+          "excerpt": "vidéoprotection avec intelligence artificielle pour identifier les casseurs et les criminels"
+        }
+      ],
+      "reason": "Mesure absente des titres publiés.",
+      "n": 7,
+      "decision": "acceptee",
+      "motif": "Proposition phare de la page Sécurité, citée mot pour mot.",
+      "corrections": null,
+      "applied_id": "philippe-securite-11"
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "theme": "famille",
+        "title": "Rendre imprescriptibles les crimes commis sur des mineurs",
+        "description": "Édouard Philippe propose que les crimes commis sur des mineurs soient poursuivis sans limite de temps. Il prévoit aussi une mesure de protection immédiate dès qu'une plainte concerne un enfant.",
+        "source_type": "officiel",
+        "source_title": "Le programme – Avec Édouard 2027 : Protection de l'enfance",
+        "source_url": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+        "source_date": "2026-11-12",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+          "excerpt": "Des crimes sur mineurs poursuivis sans limite de temps."
+        }
+      ],
+      "reason": "Mesure absente des titres (famille-04 et -05 portent sur le droit de savoir et le périscolaire).",
+      "n": 8,
+      "decision": "acceptee",
+      "motif": "Page Protection de l'enfance : imprescriptibilité et protection immédiate dès qu'une plainte concerne un enfant.",
+      "corrections": null,
+      "applied_id": "philippe-famille-06"
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "theme": "immigration",
+        "title": "Quotas pour l'immigration de travail et rétablissement de la double peine",
+        "description": "Édouard Philippe propose de choisir l'immigration de travail par des quotas. Il propose aussi de rétablir la double peine : les étrangers condamnés pour un délit perdraient leurs aides sociales et seraient expulsés.",
+        "source_type": "officiel",
+        "source_title": "Le programme – Avec Édouard 2027 : Immigration",
+        "source_url": "https://www.edouardphilippe.fr/programme/immigration",
+        "source_date": "2026-11-12",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/immigration",
+          "excerpt": "choisir l’immigration de travail par des quotas"
+        }
+      ],
+      "reason": "Quotas et double peine absents des titres publiés (immigration-01 à -07).",
+      "n": 9,
+      "decision": "acceptee",
+      "motif": "Page Immigration : quotas de travail et rétablissement de la double peine (perte des aides sociales et expulsion).",
+      "corrections": null,
+      "applied_id": "philippe-immigration-08"
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "theme": "international",
+        "title": "Armements « made in Europe » : au moins 1 % de la richesse nationale des pays européens de l'OTAN",
+        "description": "Le programme de défense d'Édouard Philippe prévoit qu'au moins 1 % de la richesse nationale des pays européens de l'OTAN soit consacré à des équipements fabriqués en Europe.",
+        "source_type": "officiel",
+        "source_title": "Le programme – Avec Édouard 2027 : Défense",
+        "source_url": "https://www.edouardphilippe.fr/programme/defense",
+        "source_date": "2026-11-12",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/defense",
+          "excerpt": "au moins 1 % de la richesse nationale des pays européens de l’OTAN"
+        }
+      ],
+      "reason": "Mesure absente des titres (international-01 à -03).",
+      "n": 10,
+      "decision": "acceptee",
+      "motif": "Page Défense, chiffre littéral « au moins 1 % ».",
+      "corrections": null,
+      "applied_id": "philippe-international-04"
+    },
+    {
+      "candidate": "melenchon",
+      "kind": "add_measure",
+      "data": {
+        "theme": "ecologie",
+        "title": "Interdire les vols de nuit entre 23 h et 6 h dans tous les aéroports français",
+        "description": "Le programme L'Avenir en commun (5e édition) propose d'interdire les vols de nuit dans tous les aéroports français entre 23 h et 6 h et de réduire le nombre de créneaux de décollage disponibles le reste du temps.",
+        "source_type": "officiel",
+        "source_title": "L'Avenir en commun (5e édition, 2026) – Pour une bifurcation écologique et sociale, chapitre 3",
+        "source_url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "source_date": "2026-11-06",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+          "excerpt": "Interdire les vols de nuit dans tous les aéroports français entre 23 h et 6 h"
+        }
+      ],
+      "reason": "Mesure signalée comme nouveauté de l'édition 2026 (LCP) et absente des titres publiés.",
+      "n": 11,
+      "decision": "acceptee",
+      "motif": "Texte exact du chapitre 3 (5e édition, date cohérente avec le programme enregistré au 6/11).",
+      "corrections": null,
+      "applied_id": "melenchon-ecologie-08"
+    },
+    {
+      "candidate": "melenchon",
+      "kind": "add_measure",
+      "data": {
+        "theme": "sante",
+        "title": "Rembourser les séances de psychothérapie pour les moins de 26 ans",
+        "description": "L'Avenir en commun (5e édition) propose le remboursement des séances de psychothérapie pour les moins de 26 ans, parmi les mesures pour la jeunesse.",
+        "source_type": "officiel",
+        "source_title": "L'Avenir en commun (5e édition, 2026) – Mettre en sécurité sociale, chapitre 2",
+        "source_url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "source_date": "2026-11-06",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+          "excerpt": "Rembourser les séances de psychothérapie pour les moins de 26 ans"
+        }
+      ],
+      "reason": "Mesure nouvelle de l'édition 2026 (LCP), absente des titres publiés.",
+      "n": 12,
+      "decision": "acceptee",
+      "motif": "Texte exact du chapitre 2, section jeunesse.",
+      "corrections": null,
+      "applied_id": "melenchon-sante-08"
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "update_program",
+      "data": {
+        "program": {
+          "thematic_links": [
+            {
+              "theme": "economie",
+              "title": "Livret Économie : Produire en France et récompenser le travail (30 mesures, 12 nov. 2026)",
+              "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+              "format": "pdf",
+              "page_range": "p. 1-5"
+            },
+            {
+              "theme": "economie",
+              "title": "Cahier rouge : financement du projet économique (12 nov. 2026)",
+              "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+              "format": "pdf",
+              "page_range": "p. 1-15"
+            }
+          ],
+          "note_addition": "Le 12 novembre 2026, le candidat a présenté en conférence de presse un projet économique (livret de 30 mesures) et son financement (« Cahier rouge »)."
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.dupontaignan.fr/actualite/presentation-du-projet-economique-2027/",
+          "excerpt": "Livret du projet économique ; Financement du programme (Cahier rouge)"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+          "excerpt": "NOS 30 MESURES"
+        }
+      ],
+      "reason": "Nouveaux documents programmatiques officiels publiés le 2026-11-12 (livret économie 5 p., cahier rouge 15 p.).",
+      "n": 13,
+      "decision": "acceptee",
+      "motif": "Article du 12/11/2026 qui renvoie aux deux PDF (5 p. et 15 p., créés le 12/11). Conférence de presse confirmée.",
+      "corrections": null
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "add_measure",
+      "data": {
+        "theme": "economie",
+        "title": "Plan de financement : 100 Md€ d'économies, 40 Md€ de recettes, 90 Md€ de baisses d'impôt et dépenses",
+        "description": "Le candidat présente un chiffrage d'ensemble de son projet économique : 100 Md€ d'économies et 40 Md€ de recettes nouvelles, soit 140 Md€, finançant 90 Md€ de baisses d'impôts et de dépenses nouvelles et réduisant le déficit de 50 Md€ hors effet de la croissance. Il vise aussi une stabilisation puis une baisse de la dette en part du PIB.",
+        "source_type": "officiel",
+        "source_title": "Cahier rouge – Financement du projet économique de Nicolas Dupont-Aignan",
+        "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf#page=5",
+        "source_date": "2026-11-12",
+        "source_page": "p. 5",
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "excerpt": "100 milliards d’euros d’économies et ces 40 milliards d’euros de recettes nouvelles, soit 140 milliards"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/actualite/presentation-du-projet-economique-2027/",
+          "excerpt": "Coût du projet économique : 90 milliards d'euros"
+        }
+      ],
+      "reason": "Chiffrage d'ensemble publié par le candidat le 12 novembre 2026, absent des mesures publiées.",
+      "n": 14,
+      "decision": "acceptee",
+      "motif": "Cahier rouge p.5 : 100 + 40 = 140 Md€, 90 Md€ de baisses d'impôt et dépenses nouvelles, déficit réduit de 50 Md€ hors croissance, dette stabilisée puis en baisse en part du PIB. Coût repris tel qu'annoncé.",
+      "corrections": null,
+      "applied_id": "dupont-aignan-economie-08"
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "add_measure",
+      "data": {
+        "theme": "economie",
+        "title": "Fonds d'investissement et de relocalisation de 4 Md€ par an (Caisse des dépôts)",
+        "description": "Créer un fonds piloté par la Caisse des dépôts pour l'investissement productif, la robotisation, l'emploi et la recherche, en particulier dans les zones périphériques et rurales. Il devrait à terme s'autofinancer grâce aux profits de ses investissements ; un crédit d'impôt production est prévu en parallèle pour les bénéfices réinvestis en France.",
+        "source_type": "officiel",
+        "source_title": "Livret Économie – Produire en France et récompenser le travail (mesure 4)",
+        "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf#page=3",
+        "source_date": "2026-11-12",
+        "source_page": "p. 3",
+        "precision": "chiffre",
+        "cost": {
+          "label": "4 Md€ par an",
+          "source_label": "Livret Économie du candidat",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf#page=3"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+          "excerpt": "grand fonds d’investissement et de relocalisation doté de 4 milliards d’euros par an"
+        }
+      ],
+      "reason": "Mesure du nouveau livret économie, absente des titres publiés.",
+      "n": 15,
+      "decision": "acceptee",
+      "motif": "Mesure 4 du livret p.3, 4 Md€ par an. Le crédit d'impôt production est la mesure 5, distincte : il faut le retirer de la description.",
+      "corrections": {
+        "description": "Créer un grand fonds d'investissement et de relocalisation piloté par la Caisse des dépôts et consignations, qui favorisera l'investissement productif, la robotisation, l'emploi et la recherche, notamment dans les zones périphériques et rurales. Ce fonds devra à terme s'autofinancer via les profits de ses investissements."
+      },
+      "applied_id": "dupont-aignan-economie-09"
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "update_measure",
+      "data": {
+        "id": "dupont-aignan-culture-01",
+        "title": "Doubler les crédits du patrimoine pour atteindre 1 Md€ par an",
+        "description": "Doubler les crédits d'entretien et de restauration du patrimoine pour atteindre 1 Md€ par an, les 500 M€ supplémentaires provenant d'une réduction des crédits de l'audiovisuel public.",
+        "source_date": "2026-11-13",
+        "cost": {
+          "label": "500 M€ supplémentaires par an",
+          "source_label": "Projet de Debout la France – Culture et patrimoine",
+          "source_url": "https://www.debout-la-france.fr/projet/culture-patrimoine/"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.debout-la-france.fr/projet/culture-patrimoine/",
+          "excerpt": "pour atteindre 1 milliard d’euros par an. Les 500 millions supplémentaires"
+        }
+      ],
+      "reason": "La page, modifiée le 2026-11-13, remplace le chiffre de 400 M€ par un objectif de 1 Md€ par an.",
+      "n": 16,
+      "decision": "acceptee",
+      "motif": "Page modifiée le 2026-11-13 (dateModified) : 1 Md€ par an et 500 millions supplémentaires pris sur l'audiovisuel public. Les 400 M€ et le 1 % ont disparu. Le libellé du coût ajoutait « par an » aux 500 M€, ce que la source ne dit pas.",
+      "corrections": {
+        "cost": {
+          "label": "500 M€ supplémentaires pour atteindre 1 Md€ par an",
+          "source_label": "Projet de Debout la France – Culture et patrimoine",
+          "source_url": "https://www.debout-la-france.fr/projet/culture-patrimoine/"
+        }
+      }
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "add_measure",
+      "data": {
+        "theme": "culture",
+        "title": "Remplacer le pass Culture par un « ticket découverte culturelle » pour les 14-18 ans",
+        "description": "Remplacer le pass Culture par un ticket annuel destiné aux jeunes de 14 à 18 ans, donnant droit à deux options parmi cinéma (art et essai), théâtre, exposition, concert de musique classique ou monument historique.",
+        "source_type": "officiel",
+        "source_title": "Projet de Debout la France – Culture et patrimoine",
+        "source_url": "https://www.debout-la-france.fr/projet/culture-patrimoine/",
+        "source_date": "2026-11-13",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.debout-la-france.fr/projet/culture-patrimoine/",
+          "excerpt": "« ticket découverte culturelle » annuel à tous les jeunes de 14 à 18 ans"
+        }
+      ],
+      "reason": "Mesure de la page culture mise à jour le 2026-11-13, absente des titres publiés.",
+      "n": 17,
+      "decision": "acceptee",
+      "motif": "Conforme à la page culture (modifiée le 13/11/2026).",
+      "corrections": null,
+      "applied_id": "dupont-aignan-culture-05"
+    },
+    {
+      "candidate": "glucksmann",
+      "kind": "update_program",
+      "data": {
+        "program": {
+          "thematic_links": [
+            {
+              "theme": "ecologie",
+              "title": "Révolution écologique – Première partie : les 100 premiers jours pour sortir des énergies fossiles (livret, 9 nov. 2026)",
+              "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+              "format": "pdf",
+              "page_range": "p. 1-24"
+            }
+          ],
+          "note_addition": "Le 9 novembre 2026, Raphaël Glucksmann et Yannick Jadot ont publié la première partie d'un livret « Révolution écologique » ; une seconde partie (biodiversité, eau, agriculture, pêche, alimentation, pollutions, santé) est annoncée « dans quelques semaines »."
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://glucks2027.fr/revolution-ecologique/",
+          "excerpt": "Livret « Révolution écologique »"
+        },
+        {
+          "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+          "excerpt": "La seconde partie ... sera présentée dans quelques semaines."
+        }
+      ],
+      "reason": "Nouveau livret thématique officiel de 24 pages.",
+      "n": 18,
+      "decision": "acceptee",
+      "motif": "Page du 9/11/2026 avec Jadot, PDF de 24 p. La seconde partie est annoncée « dans quelques semaines » (p.7-8 du livret).",
+      "corrections": null
+    },
+    {
+      "candidate": "glucksmann",
+      "kind": "add_measure",
+      "data": {
+        "theme": "ecologie",
+        "title": "200 Md€ d'argent public sur cinq ans pour la transition, avec contribution exceptionnelle de 50 Md€",
+        "description": "Investir 200 Md€ d'argent public sur le quinquennat dans la transition climatique, dans le cadre d'une loi de programmation écologique. Le financement inclut une contribution exceptionnelle, versée une seule année, sur les plus hauts patrimoines (50 Md€ attendus), une taxe européenne sur les superprofits pétroliers et gaziers, la fin des exonérations de carburant des vols intérieurs et une hausse de la taxe sur les billets d'avion.",
+        "source_type": "officiel",
+        "source_title": "Révolution écologique – Les premiers 100 jours pour sortir des énergies fossiles",
+        "source_url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf#page=8",
+        "source_date": "2026-11-09",
+        "source_page": "p. 8-9",
+        "precision": "chiffre",
+        "cost": {
+          "label": "200 Md€ d'argent public sur cinq ans",
+          "source_label": "Livret Révolution écologique",
+          "source_url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf#page=8"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+          "excerpt": "Nous investirons, sur la durée du quinquennat, 200 milliards d’euros d’argent public."
+        },
+        {
+          "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+          "excerpt": "rapportera 50 milliards d’euros"
+        }
+      ],
+      "reason": "Financement d'ensemble du nouveau livret, absent des mesures publiées.",
+      "n": 19,
+      "decision": "acceptee",
+      "motif": "Pages 8-9 conformes : 200 Md€ sur le quinquennat, 50 Md€ une seule année. La taxe sur les superprofits est seulement défendue au niveau européen, et non inscrite au financement.",
+      "corrections": {
+        "description": "Investir 200 Md€ d'argent public sur le quinquennat, avec une loi de programmation écologique. Une contribution exceptionnelle, versée une seule année, sur les plus hauts patrimoines (50 Md€ attendus) alimentera un fonds dédié à l'investissement climatique ; le candidat défendra aussi une taxe européenne sur les superprofits pétroliers et gaziers, et prévoit la fin des exonérations de carburant des vols intérieurs et une hausse de la taxe sur les billets d'avion."
+      },
+      "applied_id": "glucksmann-ecologie-07"
+    },
+    {
+      "candidate": "glucksmann",
+      "kind": "add_measure",
+      "data": {
+        "theme": "ecologie",
+        "title": "Leasing social d'un million de voitures électriques et un million de pompes à chaleur",
+        "description": "Proposer 1 million de voitures électriques en leasing social sur cinq ans, à 100 € par mois sans apport (100 000 d'emblée pour les auxiliaires de vie et professionnels du soin en zone rurale), et 1 million de pompes à chaleur à 1 € par jour, en priorité pour les logements chauffés au fioul ou au gaz. S'y ajoutent un chèque énergie de 500 € pour six millions de familles et de 200 € pour dix millions de familles de classes moyennes.",
+        "source_type": "officiel",
+        "source_title": "Révolution écologique – Les premiers 100 jours pour sortir des énergies fossiles",
+        "source_url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf#page=13",
+        "source_date": "2026-11-09",
+        "source_page": "p. 13",
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+          "excerpt": "1 million de voitures électriques sur 5 ans, à 100€ par mois et sans apport"
+        },
+        {
+          "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+          "excerpt": "1 million de pompes à chaleur à 1 € par jour"
+        }
+      ],
+      "reason": "Mesures phares des 100 jours du nouveau livret, absentes des titres publiés.",
+      "n": 20,
+      "decision": "acceptee",
+      "motif": "Le chèque énergie est en p.12, le leasing et les pompes à chaleur en p.13 : il faut corriger la page. La priorité des pompes à chaleur inclut aussi les logements les plus exposés aux fortes chaleurs.",
+      "corrections": {
+        "source_url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf#page=12",
+        "source_page": "p. 12-13",
+        "description": "Proposer 1 million de voitures électriques en leasing social sur cinq ans, à 100 € par mois sans apport (dont 100 000 mises tout de suite à disposition des auxiliaires de vie et professionnels du soin en zone rurale), et 1 million de pompes à chaleur à 1 € par jour, en priorité pour les logements chauffés au fioul et au gaz ou les plus exposés aux fortes chaleurs. S'y ajoute un chèque énergie de 500 € pour six millions de familles et de 200 € pour dix millions de familles des classes moyennes."
+      },
+      "applied_id": "glucksmann-ecologie-08"
+    },
+    {
+      "candidate": "attal",
+      "kind": "add_measure",
+      "data": {
+        "theme": "securite",
+        "title": "Recruter 3 000 magistrats et greffiers supplémentaires",
+        "description": "Recruter 3 000 magistrats et greffiers pour raccourcir les délais de jugement, en priorité là où les dossiers s'accumulent : plaintes en attente, procédures impliquant des mineurs, juridictions les plus chargées.",
+        "source_type": "officiel",
+        "source_title": "Recruter 3 000 magistrats et greffiers supplémentaires – attalpresident.fr",
+        "source_url": "https://attalpresident.fr/programme/mesures/trois-mille-magistrats-greffiers",
+        "source_date": "2026-06-12",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://attalpresident.fr/programme/mesures/trois-mille-magistrats-greffiers",
+          "excerpt": "recruter 3 000 magistrats et greffiers supplémentaires"
+        }
+      ],
+      "reason": "Page de mesure du site de campagne, absente des titres publiés.",
+      "n": 21,
+      "decision": "acceptee",
+      "motif": "Page de mesure datée du 12 juin 2026 (Le Figaro), conforme. Rien de plus récent ne la contredit.",
+      "corrections": null,
+      "applied_id": "attal-securite-08"
+    },
+    {
+      "candidate": "attal",
+      "kind": "add_measure",
+      "data": {
+        "theme": "international",
+        "title": "Dôme de fer européen contre missiles et drones, avec une coalition de pays volontaires",
+        "description": "Construire un bouclier européen capable d'intercepter missiles et drones russes, avec une coalition de pays volontaires (Italie, Espagne, Pologne, Royaume-Uni) sans attendre l'accord des Vingt-Sept.",
+        "source_type": "officiel",
+        "source_title": "Dôme de fer européen contre missiles et drones, avec une coalition de pays volontaires – attalpresident.fr",
+        "source_url": "https://attalpresident.fr/programme/mesures/dome-de-fer-europeen",
+        "source_date": "2026-06-16",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://attalpresident.fr/programme/mesures/dome-de-fer-europeen",
+          "excerpt": "construire un dôme de fer européen capable d'intercepter ces missiles et ces drones"
+        }
+      ],
+      "reason": "Page de mesure du site de campagne, absente des titres publiés.",
+      "n": 22,
+      "decision": "acceptee",
+      "motif": "Page du 16 juin 2026 (Eurosatory). La source dit « sans attendre que les vingt-sept avancent à la même vitesse », et non « l'accord des Vingt-Sept ». Les pays sont cités avec « ou ».",
+      "corrections": {
+        "description": "Construire un bouclier européen capable d'intercepter les missiles et les drones russes, avec une coalition de pays volontaires (l'Italie, l'Espagne, la Pologne ou le Royaume-Uni), sans attendre que les Vingt-Sept avancent à la même vitesse."
+      },
+      "applied_id": "attal-international-08"
+    }
+  ]
+}

@@ -1137,5 +1137,19 @@
     },
     "last_verified": "2026-11-09",
     "added": "2026-11-09"
+  },
+  {
+    "id": "ruffin-institutions-07",
+    "theme": "institutions",
+    "title": "États généraux de 250 membres, dont 150 citoyens tirés au sort, déclenchables par pétition d'un million de signatures",
+    "description": "Assemblée délibérante organisée par le CESE : 150 citoyens tirés au sort, 50 représentants de la société civile, 50 élus (40 élus locaux tirés au sort et 10 parlementaires). Déclenchement par pétition d'un million de signatures, résolution parlementaire ou demande présidentielle soumise à l'accord préalable du Parlement ; congé citoyen à salaire maintenu, remboursé à l'employeur par l'État.",
+    "source_type": "officiel",
+    "source_title": "Livret de campagne n° 9 – Démocratie (Debout !)",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-9-Democratie-vWeb.pdf#page=27",
+    "source_date": "2026-11",
+    "source_page": "p. 27-28",
+    "precision": "chiffre",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
   }
 ]

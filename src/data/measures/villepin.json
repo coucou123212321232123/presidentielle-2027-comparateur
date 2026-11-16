@@ -1089,5 +1089,47 @@
     "precision": "orientation_generale",
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
+  },
+  {
+    "id": "villepin-numerique-04",
+    "theme": "numerique",
+    "title": "Notification obligatoire des incidents graves d'IA de frontière et seuils de danger communs",
+    "description": "Mécanisme international de notification obligatoire des incidents graves liés à l'IA de frontière ; seuils de danger communs, publics et vérifiables, avec notification préalable aux gouvernements et évaluation indépendante à l'approche d'un seuil ; un modèle qui ne peut être maintenu sous les seuils n'est ni développé ni déployé. Cadre à adopter au sommet de Genève des 21-22 juin 2027.",
+    "source_type": "officiel",
+    "source_title": "Conférence de la Paix (chronique de Dominique de Villepin)",
+    "source_url": "https://lafrancehumaniste.fr/articles/conference-de-la-paix.html",
+    "source_date": "2026-11-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
+  },
+  {
+    "id": "villepin-international-07",
+    "theme": "international",
+    "title": "Traité juridiquement contraignant sur les armes autonomes",
+    "description": "Négociation d'un traité juridiquement contraignant, et non d'une simple déclaration, sur les armes autonomes ; principe selon lequel une machine ne décide pas seule de la vie ou de la mort.",
+    "source_type": "officiel",
+    "source_title": "Conférence de la Paix (chronique de Dominique de Villepin)",
+    "source_url": "https://lafrancehumaniste.fr/articles/conference-de-la-paix.html",
+    "source_date": "2026-11-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
+  },
+  {
+    "id": "villepin-ecologie-07",
+    "theme": "ecologie",
+    "title": "Accord de réduction des volumes d'hydrocarbures avec les pays producteurs",
+    "description": "Viser un accord de réduction des volumes d'hydrocarbures avec les pays pétroliers, dans une planification multilatérale associant producteurs et consommateurs pour compenser les restrictions volontaires de volumes.",
+    "source_type": "officiel",
+    "source_title": "Conférence de la Paix (chronique de Dominique de Villepin)",
+    "source_url": "https://lafrancehumaniste.fr/articles/conference-de-la-paix.html",
+    "source_date": "2026-11-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
   }
 ]

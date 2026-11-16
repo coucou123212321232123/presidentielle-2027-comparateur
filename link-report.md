@@ -1,14 +1,14 @@
 # Rapport de vérification des liens
 
-Généré le 2026-11-13 à 05:18 UTC — 614 URL uniques testées.
+Généré le 2026-11-16 à 05:18 UTC — 639 URL uniques testées.
 
 | Résultat | Nombre |
 |---|---|
-| ✅ OK | 517 |
-| ↪️ Redirection vers une page valide | 29 |
-| 🛡️ Bloqué par une protection anti-robot (non compté comme cassé) | 56 |
-| ❌ Cassé / timeout / erreur | 12 |
-| 🗄️ dont avec copie archivée (bascule automatique) | 10 |
+| ✅ OK | 541 |
+| ↪️ Redirection vers une page valide | 27 |
+| 🛡️ Bloqué par une protection anti-robot (non compté comme cassé) | 58 |
+| ❌ Cassé / timeout / erreur | 13 |
+| 🗄️ dont avec copie archivée (bascule automatique) | 11 |
 
 ## Liens cassés
 
@@ -24,6 +24,7 @@ Généré le 2026-11-13 à 05:18 UTC — 614 URL uniques testées.
 - https://rassemblementnational.fr/communiques/rencontre-des-entrepreneurs-de-france-du-medef-andre-rouge-met-en-valeur-le-programme-de-marine-le-pen-pour-les-outremers — broken (HTTP 307) → archive : https://web.archive.org/web/20261003112926/https://rassemblementnational.fr/communiques/rencontre-des-entrepreneurs-de-france-du-medef-andre-rouge-met-en-valeur-le-programme-de-marine-le-pen-pour-les-outremers — utilisé par : le-pen · livret outre_mer, mesure le-pen-outre_mer-01, mesure le-pen-outre_mer-02, mesure le-pen-outre_mer-03
 - https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-buralistes-de-france — broken (HTTP 307) → archive : https://web.archive.org/web/20261003112247/https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-buralistes-de-france — utilisé par : le-pen · livret securite, mesure le-pen-securite-03
 - https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier — broken (HTTP 307) → archive : https://web.archive.org/web/20261015072026/https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier — utilisé par : le-pen · livret logement, mesure le-pen-logement-02, mesure le-pen-logement-03, mesure le-pen-logement-04
+- https://www.ecologie.gouv.fr/presse/baisse-emissions-gaz-effet-serre-legere-baisse-2025-mettant-risque-latteinte-objectifs — broken (HTTP 503) → archive : https://web.archive.org/web/20260413075056/https://www.ecologie.gouv.fr/presse/baisse-emissions-gaz-effet-serre-legere-baisse-2025-mettant-risque-latteinte-objectifs — utilisé par : contexte ecologie · Rythme nécessaire pour l'objectif 2030
 
 ## Redirections
 
@@ -50,9 +51,7 @@ Généré le 2026-11-13 à 05:18 UTC — 614 URL uniques testées.
 - https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure — → https://www.edouardphilippe.fr/programme — utilisé par : philippe · livret securite, mesure philippe-securite-01, mesure philippe-securite-02, mesure philippe-securite-03, mesure philippe-securite-04, mesure philippe-immigration-02, mesure philippe-immigration-03, mesure philippe-immigration-04, mesure philippe-international-02, mesure philippe-international-03, mesure philippe-outre_mer-01, mesure philippe-outre_mer-02, mesure philippe-outre_mer-03, mesure philippe-securite-05, mesure philippe-securite-06, mesure philippe-securite-07, mesure philippe-securite-08, mesure philippe-immigration-05, mesure philippe-immigration-06, mesure philippe-immigration-07
 - https://www.europe1.fr/politique/budget-2027-marine-le-pen-promet-140-milliards-deuros-nets-deconomies-dici-2032-pour-eviter-a-la-france-le-defaut-de-paiement-1126400 — → https://www.europe1.fr/politique/140-milliards-deuros-deconomies-deficit-public-sous-les-3-ce-quil-faut-retenir-du-discours-de-marine-le-pen-qui-a-presente-le-contre-budget-2027-du-rn-1126400 — utilisé par : le-pen · source fiche, mesure le-pen-economie-03, chiffrage le-pen-economie-03, mesure le-pen-retraites-02, mesure le-pen-ecologie-01, mesure le-pen-institutions-03, chiffrage le-pen
 - https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318 — → https://www.ici.fr/auvergne-rhone-alpes/drome-26/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318 — utilisé par : arthaud · statut, arthaud · source fiche
-- https://www.instagram.com/ericzemmour_/ — → https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fericzemmour_%2F&is_from_rle — utilisé par : zemmour · Instagram
-- https://www.instagram.com/marinetondelier — → https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmarinetondelier&is_from_rle — utilisé par : tondelier · Instagram
-- https://www.instagram.com/nouv_energie/ — → https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fnouv_energie%2F&is_from_rle — utilisé par : lisnard · Instagram
+- https://www.instagram.com/raphaelglucksmann/ — → https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fraphaelglucksmann%2F&is_from_rle — utilisé par : glucksmann · Instagram
 - https://www.lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871 — → https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871 — utilisé par : zemmour · source fiche
 - https://www.publicsenat.fr/actualites/politique/je-suis-pret-bruno-retailleau-se-declare-candidat-a-lelection-presidentielle-2027 — → https://www.publicsenat.fr/actualites/politique/https-www-publicsenat-fr-actualites-politique-je-serai-le-president-de-lordre-de-la-justice-et-de-la-fierte-francaise-bruno-retailleau-se-declare-candidat-a-la-presidentielle-de-2027 — utilisé par : retailleau · source fiche
 - https://x.com/dupontaignan/ — → https://x.com/dupontaignan — utilisé par : dupont-aignan · X
@@ -96,13 +95,15 @@ Généré le 2026-11-13 à 05:18 UTC — 614 URL uniques testées.
 - https://www.instagram.com/bruno_retailleau — HTTP 429 — utilisé par : retailleau · Instagram
 - https://www.instagram.com/dupontaignan/ — HTTP 429 — utilisé par : dupont-aignan · Instagram
 - https://www.instagram.com/edouardphilippelh/ — HTTP 429 — utilisé par : philippe · Instagram
+- https://www.instagram.com/ericzemmour_/ — HTTP 429 — utilisé par : zemmour · Instagram
 - https://www.instagram.com/gabrielattal/ — HTTP 429 — utilisé par : attal · Instagram
 - https://www.instagram.com/jlmelenchon/ — HTTP 429 — utilisé par : melenchon · Instagram
 - https://www.instagram.com/lafrancehumaniste/ — HTTP 429 — utilisé par : villepin · Instagram
 - https://www.instagram.com/marine_lepen/ — HTTP 429 — utilisé par : le-pen · Instagram
+- https://www.instagram.com/marinetondelier — HTTP 429 — utilisé par : tondelier · Instagram
 - https://www.instagram.com/nathalie_arthaud_lo/ — HTTP 429 — utilisé par : arthaud · Instagram
+- https://www.instagram.com/nouv_energie/ — HTTP 429 — utilisé par : lisnard · Instagram
 - https://www.instagram.com/pcfparticommunistefrancais — HTTP 429 — utilisé par : roussel · Instagram (PCF)
-- https://www.instagram.com/raphaelglucksmann/ — HTTP 429 — utilisé par : glucksmann · Instagram
 - https://www.instagram.com/xavier.bertrand/ — HTTP 429 — utilisé par : bertrand · Instagram
 - https://www.lefigaro.fr/politique/nicolas-dupont-aignan-se-declare-candidat-a-la-prochaine-election-presidentielle-20250308 — HTTP 403 — utilisé par : dupont-aignan · statut, dupont-aignan · source fiche
 - https://www.lejdd.fr/politique/emeutes-lyceennes-il-faut-en-finir-avec-lexcuse-de-minorite-martele-eric-zemmour-185988 — HTTP 403 — utilisé par : mesure zemmour-securite-01, mesure zemmour-securite-02, mesure zemmour-securite-03

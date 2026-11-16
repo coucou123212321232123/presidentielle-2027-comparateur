@@ -1662,5 +1662,38 @@
     "precision": "precis",
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
+  },
+  {
+    "id": "glucksmann-ecologie-07",
+    "theme": "ecologie",
+    "title": "200 Md€ d'argent public sur cinq ans pour la transition, avec contribution exceptionnelle de 50 Md€",
+    "description": "Investir 200 Md€ d'argent public sur le quinquennat, avec une loi de programmation écologique. Une contribution exceptionnelle, versée une seule année, sur les plus hauts patrimoines (50 Md€ attendus) alimentera un fonds dédié à l'investissement climatique ; le candidat défendra aussi une taxe européenne sur les superprofits pétroliers et gaziers, et prévoit la fin des exonérations de carburant des vols intérieurs et une hausse de la taxe sur les billets d'avion.",
+    "source_type": "officiel",
+    "source_title": "Révolution écologique – Les premiers 100 jours pour sortir des énergies fossiles",
+    "source_url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf#page=8",
+    "source_date": "2026-11-09",
+    "source_page": "p. 8-9",
+    "precision": "chiffre",
+    "cost": {
+      "label": "200 Md€ d'argent public sur cinq ans",
+      "source_label": "Livret Révolution écologique",
+      "source_url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf#page=8"
+    },
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
+  },
+  {
+    "id": "glucksmann-ecologie-08",
+    "theme": "ecologie",
+    "title": "Leasing social d'un million de voitures électriques et un million de pompes à chaleur",
+    "description": "Proposer 1 million de voitures électriques en leasing social sur cinq ans, à 100 € par mois sans apport (dont 100 000 mises tout de suite à disposition des auxiliaires de vie et professionnels du soin en zone rurale), et 1 million de pompes à chaleur à 1 € par jour, en priorité pour les logements chauffés au fioul et au gaz ou les plus exposés aux fortes chaleurs. S'y ajoute un chèque énergie de 500 € pour six millions de familles et de 200 € pour dix millions de familles des classes moyennes.",
+    "source_type": "officiel",
+    "source_title": "Révolution écologique – Les premiers 100 jours pour sortir des énergies fossiles",
+    "source_url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf#page=12",
+    "source_date": "2026-11-09",
+    "source_page": "p. 12-13",
+    "precision": "chiffre",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
   }
 ]

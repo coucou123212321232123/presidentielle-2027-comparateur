@@ -1273,5 +1273,79 @@
     "precision": "precis",
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
+  },
+  {
+    "id": "philippe-securite-10",
+    "theme": "securite",
+    "title": "Loi d'accélération de la construction de prisons",
+    "description": "Édouard Philippe propose une loi destinée à accélérer la construction de prisons, présentée parmi les propositions de sa thématique Justice. La page ne chiffre pas le nombre de places visé.",
+    "source_type": "officiel",
+    "source_title": "Le programme – Avec Édouard 2027 : Justice",
+    "source_url": "https://www.edouardphilippe.fr/programme/justice",
+    "source_date": "2026-11-12",
+    "source_page": null,
+    "precision": "precis",
+    "indicator": {
+      "key": "places_prison",
+      "value": "construction"
+    },
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
+  },
+  {
+    "id": "philippe-securite-11",
+    "theme": "securite",
+    "title": "Vidéoprotection avec intelligence artificielle pour identifier casseurs et criminels",
+    "description": "Le programme de sécurité d'Édouard Philippe prévoit d'utiliser la vidéoprotection assistée par intelligence artificielle pour identifier les casseurs et les criminels.",
+    "source_type": "officiel",
+    "source_title": "Le programme – Avec Édouard 2027 : Sécurité",
+    "source_url": "https://www.edouardphilippe.fr/programme/securite",
+    "source_date": "2026-11-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
+  },
+  {
+    "id": "philippe-famille-06",
+    "theme": "famille",
+    "title": "Rendre imprescriptibles les crimes commis sur des mineurs",
+    "description": "Édouard Philippe propose que les crimes commis sur des mineurs soient poursuivis sans limite de temps. Il prévoit aussi une mesure de protection immédiate dès qu'une plainte concerne un enfant.",
+    "source_type": "officiel",
+    "source_title": "Le programme – Avec Édouard 2027 : Protection de l'enfance",
+    "source_url": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+    "source_date": "2026-11-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
+  },
+  {
+    "id": "philippe-immigration-08",
+    "theme": "immigration",
+    "title": "Quotas pour l'immigration de travail et rétablissement de la double peine",
+    "description": "Édouard Philippe propose de choisir l'immigration de travail par des quotas. Il propose aussi de rétablir la double peine : les étrangers condamnés pour un délit perdraient leurs aides sociales et seraient expulsés.",
+    "source_type": "officiel",
+    "source_title": "Le programme – Avec Édouard 2027 : Immigration",
+    "source_url": "https://www.edouardphilippe.fr/programme/immigration",
+    "source_date": "2026-11-12",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
+  },
+  {
+    "id": "philippe-international-04",
+    "theme": "international",
+    "title": "Armements « made in Europe » : au moins 1 % de la richesse nationale des pays européens de l'OTAN",
+    "description": "Le programme de défense d'Édouard Philippe prévoit qu'au moins 1 % de la richesse nationale des pays européens de l'OTAN soit consacré à des équipements fabriqués en Europe.",
+    "source_type": "officiel",
+    "source_title": "Le programme – Avec Édouard 2027 : Défense",
+    "source_url": "https://www.edouardphilippe.fr/programme/defense",
+    "source_date": "2026-11-12",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-11-16",
+    "added": "2026-11-16"
   }
 ]

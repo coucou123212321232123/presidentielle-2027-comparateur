@@ -45,7 +45,39 @@
       "source_type": "declaration"
     },
     "dupont-aignan": {
-      "level": "aucun"
+      "level": "global",
+      "summary": "Cahier rouge de financement du projet économique : 100 Md€ d'économies et 40 Md€ de recettes nouvelles, soit 140 Md€ de ressources, finançant 90 Md€ de baisses d'impôt et de dépenses nouvelles et réduisant le déficit de 50 Md€ sans compter l'effet de la croissance.",
+      "figures": [
+        {
+          "label": "Économies",
+          "value": "100 Md€",
+          "kind": "economies"
+        },
+        {
+          "label": "Recettes nouvelles",
+          "value": "40 Md€",
+          "kind": "recettes"
+        },
+        {
+          "label": "Baisses d'impôt et dépenses nouvelles",
+          "value": "90 Md€",
+          "kind": "autre"
+        },
+        {
+          "label": "Réduction du déficit",
+          "value": "50 Md€ sans compter l'effet de la croissance ; déficit inférieur à 100 Md€ à terme",
+          "kind": "deficit"
+        },
+        {
+          "label": "Dette visée",
+          "value": "stabilisée puis en baisse en % du PIB",
+          "kind": "dette"
+        }
+      ],
+      "source_label": "Cahier rouge – financement du projet économique de Nicolas Dupont-Aignan (PDF de campagne, 12 novembre 2026)",
+      "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf#page=5",
+      "source_date": "2026-11-12",
+      "source_type": "officiel"
     },
     "glucksmann": {
       "level": "aucun"
