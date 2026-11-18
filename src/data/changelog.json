@@ -576,5 +576,25 @@
         "text": "1 mesure ajoutée issue du livret de campagne n° 9 Démocratie (États généraux)."
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "summary": "Votes à l'Assemblée : ajout du scrutin du 17 novembre 2026 sur le projet de loi relatif à la résilience des infrastructures critiques et à la cybersécurité, avec son explication ; arguments du camp contre ajoutés pour le budget de la Sécurité sociale 2026.",
+    "accepted": 2,
+    "rejected": 1,
+    "changes": [
+      {
+        "candidate": "Votes à l'Assemblée",
+        "text": "Résilience des infrastructures critiques et cybersécurité (scrutin du 17 novembre 2026) : ajouté"
+      },
+      {
+        "candidate": "Votes à l'Assemblée",
+        "text": "Résilience des infrastructures critiques et cybersécurité (scrutin du 17 novembre 2026) : explication ajoutée"
+      },
+      {
+        "candidate": "Votes à l'Assemblée",
+        "text": "Budget de la Sécurité sociale 2026 : vote définitif (scrutin du 16 décembre 2025) : explication ajoutée (arguments du camp contre)"
+      }
+    ]
   }
 ]

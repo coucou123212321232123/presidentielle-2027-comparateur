@@ -1,0 +1,100 @@
+[
+  {
+    "id": "l17-9916",
+    "summary": "Le 17 novembre 2026, l'Assemblée nationale a adopté en première lecture, par 464 voix contre 64 et 16 abstentions, le projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité. Le texte transpose trois textes européens : la directive sur la résilience des entités critiques (REC), la directive NIS 2 et le règlement DORA sur la résilience opérationnelle numérique du secteur financier. Selon l'intervention du groupe HOR, il fait passer la régulation de quelques centaines d'acteurs à près de 15 000 entités, et de six à dix-huit secteurs (LCP : 15 000 à 18 000 entités dans 18 secteurs) ; il renforce les pouvoirs de contrôle de l'Anssi et prévoit des sanctions en cas de manquement. Les députés ont supprimé l'article 16 bis, introduit au Sénat, qui interdisait d'imposer l'affaiblissement des systèmes de chiffrement ; le gouvernement s'est engagé à ne pas réintroduire de disposition affaiblissant le chiffrement des messageries d'ici la fin de la session parlementaire (LCP). NIS 2 devait être transposée au plus tard le 17 octobre 2024. Le Sénat avait adopté le texte en mars. Suites : une commission mixte paritaire doit rapprocher les versions des deux assemblées, l'accord éventuel devant être approuvé par chacune d'elles ; selon la ministre déléguée chargée du numérique, le gouvernement adoptera ensuite les textes réglementaires.",
+    "arguments": {
+      "pour": [
+        {
+          "groups": [
+            "SOC"
+          ],
+          "text": "Pour Sébastien Saint-Pasteur (SOC), les transpositions étaient nécessaires ; son groupe dit avoir travaillé sans surtransposition et obtenu l'articulation entre l'Anssi, les organismes agréés et les acteurs territoriaux. Il ajoute que « l'épreuve de vérité sera celle de la mise en œuvre ».",
+          "source_label": "Assemblée nationale – Compte rendu de la première séance du mardi 17 novembre 2026",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-17-novembre-2026"
+        },
+        {
+          "groups": [
+            "DR"
+          ],
+          "text": "Pour Virginie Duby-Muller (Droite républicaine), plus de 15 000 entités dans dix-huit secteurs seront soumises à des obligations ; elle présente la cybersécurité comme relevant de la sécurité nationale et indique que le groupe attendait ce texte depuis deux ans.",
+          "source_label": "Assemblée nationale – Compte rendu de la première séance du mardi 17 novembre 2026",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-17-novembre-2026"
+        },
+        {
+          "groups": [
+            "HOR"
+          ],
+          "text": "Pour Vincent Thiébaut (Horizons & indépendants), le texte voté est meilleur que la version initiale : seuils de taille de la directive rétablis, article 16 bis supprimé. Il formule des réserves sur des dispositions allant au-delà du droit européen, mais le groupe vote pour.",
+          "source_label": "Assemblée nationale – Compte rendu de la première séance du mardi 17 novembre 2026",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-17-novembre-2026"
+        }
+      ],
+      "contre": [
+        {
+          "groups": [
+            "LFI-NFP"
+          ],
+          "text": "Selon René Pilato (LFI-NFP), la suppression de l'article 16 bis permet au gouvernement d'ordonner à des messageries chiffrées d'installer une clé maîtresse ; son groupe avait fait de cet article une « ligne rouge » et vote contre.",
+          "source_label": "Assemblée nationale – Compte rendu de la première séance du mardi 17 novembre 2026",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-17-novembre-2026"
+        },
+        {
+          "groups": [
+            "LFI-NFP"
+          ],
+          "text": "Selon René Pilato (LFI-NFP), le texte protège selon la taille des structures et non selon leur importance ; un amendement partant de la fonction de chaque structure a été refusé.",
+          "source_label": "Assemblée nationale – Compte rendu de la première séance du mardi 17 novembre 2026",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-17-novembre-2026"
+        },
+        {
+          "groups": [
+            "LFI-NFP"
+          ],
+          "text": "Selon René Pilato (LFI-NFP), le texte ne traite pas la souveraineté des données face au Cloud Act américain ; son groupe propose un cloud public sous droit français et un moratoire sur les centres de données étrangers.",
+          "source_label": "Assemblée nationale – Compte rendu de la première séance du mardi 17 novembre 2026",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-17-novembre-2026"
+        }
+      ],
+      "abstention": [
+        {
+          "groups": [
+            "GDR"
+          ],
+          "text": "Selon Édouard Bénard (GDR), le fonds de soutien aux collectivités inscrit dans la loi ne sera pas financé en 2027 et l'amendement de trajectoire progressive sur deux ans a été rejeté.",
+          "source_label": "Assemblée nationale – Compte rendu de la première séance du mardi 17 novembre 2026",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-17-novembre-2026"
+        },
+        {
+          "groups": [
+            "GDR"
+          ],
+          "text": "Selon Édouard Bénard (GDR), le texte aborde à peine la souveraineté face au Cloud Act ; son groupe demande une commande publique orientée vers des solutions souveraines et le logiciel libre.",
+          "source_label": "Assemblée nationale – Compte rendu de la première séance du mardi 17 novembre 2026",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-17-novembre-2026"
+        },
+        {
+          "groups": [
+            "GDR"
+          ],
+          "text": "Selon Édouard Bénard (GDR), la suppression de l'article 16 bis retire une garantie législative contre l'affaiblissement du chiffrement ; il juge insuffisant l'engagement du gouvernement valable jusqu'à la fin de la session. Le groupe s'abstient.",
+          "source_label": "Assemblée nationale – Compte rendu de la première séance du mardi 17 novembre 2026",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-17-novembre-2026"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Assemblée nationale – Scrutin public n°9916 du 17 novembre 2026",
+        "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9916"
+      },
+      {
+        "label": "Assemblée nationale – Compte rendu de la première séance du mardi 17 novembre 2026",
+        "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mardi-17-novembre-2026"
+      },
+      {
+        "label": "LCP : Cybersécurité, l'Assemblée nationale approuve le projet de loi musclant les mesures de protection",
+        "url": "https://lcp.fr/actualites/cybersecurite-l-assemblee-nationale-approuve-le-projet-de-loi-musclant-les-mesures-de"
+      }
+    ]
+  }
+]

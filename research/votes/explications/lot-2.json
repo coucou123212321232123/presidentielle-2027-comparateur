@@ -424,7 +424,32 @@
           "source_url": "https://lepetitjournal.com/fil-afp/lassemblee-adopte-definitivement-le-budget-de-la-securite-sociale-pour-2026-430072"
         }
       ],
-      "contre": [],
+      "contre": [
+        {
+          "groups": [
+            "LFI-NFP"
+          ],
+          "text": "Selon Hadrien Clouet (LFI-NFP), le texte « coupe plus de 3 milliards d'euros à l'hôpital et aux Ehpad ».",
+          "source_label": "Assemblée nationale – Compte rendu de la première séance du mardi 16 décembre 2025",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mardi-16-decembre-2025"
+        },
+        {
+          "groups": [
+            "RN"
+          ],
+          "text": "Selon Joëlle Mélin (RN), son groupe va s'opposer « fermement » au dernier vote du PLFSS ; elle cite la dette sociale reprise par la Cades (400 milliards d'euros).",
+          "source_label": "Assemblée nationale – Compte rendu de la première séance du mardi 16 décembre 2025",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mardi-16-decembre-2025"
+        },
+        {
+          "groups": [
+            "UDR"
+          ],
+          "text": "Selon Éric Michoux (UDR), le budget de la Sécurité sociale présenté comporte plus de 24 milliards d'euros de déficit, alors que 40 milliards d'économies avaient été annoncés quatre mois plus tôt.",
+          "source_label": "Assemblée nationale – Compte rendu de la première séance du mardi 16 décembre 2025",
+          "source_url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mardi-16-decembre-2025"
+        }
+      ],
       "abstention": []
     },
     "sources": [
@@ -439,6 +464,10 @@
       {
         "label": "Le Petit Journal (AFP) – L'Assemblée adopte définitivement le budget de la Sécurité sociale pour 2026",
         "url": "https://lepetitjournal.com/fil-afp/lassemblee-adopte-definitivement-le-budget-de-la-securite-sociale-pour-2026-430072"
+      },
+      {
+        "label": "Assemblée nationale – Compte rendu de la première séance du mardi 16 décembre 2025",
+        "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mardi-16-decembre-2025"
       }
     ],
     "notes": "INCOMPLET : aucune source de référence trouvée sur les arguments des groupes ayant voté contre (RN, LFI-NFP, GDR, UDDPLR) ni sur ceux des groupes majoritairement abstentionnistes (ECOS, HOR, DR), d'où des listes vides. L'AFP indique seulement qu'une partie des LR et d'Horizons a refusé de soutenir le texte. Un seul argument « pour » sourcé ; aucun argument spécifique trouvé pour EPR, DEM et LIOT."

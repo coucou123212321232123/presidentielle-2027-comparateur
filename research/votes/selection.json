@@ -939,6 +939,14 @@
       "short_title": "Budget de l'État 2027 : rejet de la partie recettes",
       "theme": "economie",
       "context": "Vote sur la première partie (recettes) du projet de loi de finances pour 2027, déposé par le gouvernement. Vote en première lecture à l'Assemblée."
+    },
+    {
+      "legislature": 17,
+      "numero": 9916,
+      "date": "2026-11-17",
+      "short_title": "Résilience des infrastructures critiques et cybersécurité",
+      "theme": "numerique",
+      "context": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, déposé par le gouvernement. Vote sur l'ensemble du texte en première lecture à l'Assemblée."
     }
   ]
 }

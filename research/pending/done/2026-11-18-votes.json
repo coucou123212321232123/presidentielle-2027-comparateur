@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-18",
+  "routine": "votes",
+  "reperage": {
+    "commande": "npm run votes-candidates (index régénéré par fetch-votes le 2026-11-18)",
+    "scrutins_listes": 1,
+    "dernier_scrutin_indexe": "2026-11-17",
+    "ajoutes": [
+      "l17-9916 : projet de loi résilience des infrastructures critiques et cybersécurité, ensemble du texte en première lecture (464 pour, 64 contre, 16 abstentions)"
+    ],
+    "ecartes": []
+  },
+  "explications": {
+    "lot": "research/votes/explications/2026-11-18.json (+ compléments dans lot-2.json)",
+    "traitees": [
+      "l17-9916",
+      "l17-9759",
+      "l17-4758"
+    ],
+    "acceptees": [
+      "l17-9916 : résumé + 3 arguments pour (SOC, DR, HOR), 3 contre (LFI-NFP), 3 abstention (GDR) ; une citation de l'argument LFI-NFP alignée sur le compte rendu (« importance » au lieu de « fonction »)",
+      "l17-4758 : 3 arguments contre (LFI-NFP, RN, UDR) d'après le compte rendu de la 1re séance du 16 décembre 2025 ; clause de l'argument RN non présentée comme motif d'opposition dans la source retirée"
+    ],
+    "rejets": [
+      "l17-9759 : argument SOC (camp contre) retiré : le camp contre compte déjà 3 arguments, et la formulation sur l'abattement des retraités ne correspondait pas à la source"
+    ],
+    "sans_resultat": [],
+    "reste_semaine_suivante": [
+      "l17-9759 : suites (transmission au Sénat) à sourcer officiellement",
+      "l16-1588 autres groupes du camp pour",
+      "l17-7905 GDR (contre)",
+      "l17-4758 GDR (contre) : sens du vote non explicite dans l'intervention"
+    ]
+  }
+}
