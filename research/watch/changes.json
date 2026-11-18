@@ -1,21 +1,36 @@
 {
   "since": "2026-11-16",
-  "generated": "2026-11-17",
+  "generated": "2026-11-18",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
   "candidates": {
     "arthaud": {
       "changed_pages": [
         {
-          "url": "https://www.lutte-ouvriere.org/portail/index.html",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 8,
+          "url": "https://www.nathalie-arthaud.info",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 0,
           "added": [
+            "Meeting régional (Nord de la France) Théâtre de la Mutualité 24 rue Saint-Victor, Paris 5e, métro Maubert-Mutualité.",
+            "Pau - Réunion des jeunes avec Nathalie Arthaud",
+            "avec Jean-Pierre Mercier et Nathalie Arthaud"
+          ]
+        },
+        {
+          "url": "https://www.lutte-ouvriere.org/portail/index.html",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 13,
+          "added": [
+            "Cinq États européens - Autriche, Allemagne, Grèce, Danemark et Pays Bas - viennent de signer un accord pour déporter au Rwanda, en Afrique, des migrants qui ont vu leur demande d’asile refusée et dont le pays de départ ne veut plus. Cette forme de sous-traitance de camps de concentration pour les damnés de la terre, alors que les flux d’arrivée en Europe sont au plus bas depuis dix ans, vise surto",
             "Combien sommes-nous à devoir choisir entre nous chauffer et remplir le caddie ? À économiser quelques euros en sautant un repas ou en renonçant à des déplacements ? Preuve de l’approfondissement de la misère, les antivols se multiplient dans les supermarchés. Même les travailleurs les mieux payés voient fondre leur pouvoir d’achat et craignent pour l’avenir.",
             "En France, l’impôt moyen du 0,1 % de super riches a reculé de 9 % en 2025. Les 14 000 foyers les plus aisés auraient ainsi anticipé la mise en place d’un nouvel impôt en 2025, la contribution différentielle sur les hauts revenus (CDHR) ; ils ont déclaré en 2024 un revenu en hausse avant sa prise en compte.",
+            "Le ministre de l’Éducation, Geffray, s’est rendu à l’ouverture du lycée Nelson Mandela à Nantes qui avait en partie été brulé au début du mouvement lycéen. Pas rassuré, le ministre s’est fait escorter dans l’enceinte du lycée par une nuée de CRS.",
             "L'éditorial en vidéo : Pas d’argent pour les salaires ? Il faut aller voir dans les caisses du patronat !",
             "Pas d’argent pour les salaires ? Il faut aller voir dans les caisses du patronat !",
+            "Toulouse - Rencontre lycéens-étudiants avec Nathalie Arthaud",
             "Derrière le bleu-blanc-rouge, feu vert pour les patrons",
-            "Pau - Réunion des jeunes avec Nathalie Arthaud"
+            "La jeunesse en révolte : un ministre reçu comme il faut",
+            "Pau - Réunion des jeunes avec Nathalie Arthaud",
+            "avec Jean-Pierre Mercier et Nathalie Arthaud"
           ]
         },
         {
@@ -26,8 +41,8 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 2,
           "added": []
         },
         {
@@ -49,59 +64,87 @@
       "changed_pages": [
         {
           "url": "https://attalpresident.fr/",
-          "changed_at": "2026-11-17",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 7,
+          "added": [
+            "Invité sur LCI pour le débat « Quelle société pour demain ? » organisé par les Restos du cœur, Gabriel Attal a présenté sa vision d un nouveau modèle social : mieux rémunérer le travail, faciliter l accès au logement, faire de l école la priorité et protéger les plus fragiles.",
+            "Un échelon de collectivité en moins et la fin des compétences exercées en double, principale source de surcoûts administratifs.",
+            "Augmenter les achats de défense français réalisés en Europe et la même règle défendue au niveau de l Union.",
+            "Une amende forfaitaire dès le premier acte de maltraitance animale constaté, sans attendre la récidive.",
+            "Une part de capitalisation dans le système de retraite, dont l épargne finance l innovation française.",
+            "Ouvrir la comparution immédiate aux mineurs récidivistes, pour que la sanction suive l acte.",
+            "Gabriel Attal sur LCI : réinventer le modèle social pour mieux rémunérer le travail"
+          ]
+        },
+        {
+          "url": "https://attalpresident.fr/actualites",
+          "changed_at": "2026-11-18",
           "removed_blocks": 2,
           "added": [
-            "Augmenter les achats de défense français réalisés en Europe et la même règle défendue au niveau de l Union.",
-            "Une amende forfaitaire dès le premier acte de maltraitance animale constaté, sans attendre la récidive."
+            "Invité sur LCI pour le débat « Quelle société pour demain ? » organisé par les Restos du cœur, Gabriel Attal a présenté sa vision d un nouveau modèle social : mieux rémunérer le travail, faciliter l accès au logement, faire de l école la priorité et protéger les plus fragiles.",
+            "Gabriel Attal sur LCI : réinventer le modèle social pour mieux rémunérer le travail"
           ]
         }
       ],
-      "new_pages": []
+      "new_pages": [
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-lci-restos-du-coeur-nouveau-modele-social",
+          "first_seen": "2026-11-18"
+        }
+      ]
     },
     "dupont-aignan": {
       "changed_pages": [
         {
           "url": "https://www.dupontaignan.fr/actualite/",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 3,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 5,
           "added": [
             "Je propose un protectionnisme intelligent ! · Salon du Made in France, 12/11/2026",
+            "UE : le plus grand danger c est d y rester ! · BFM TV, 16/11/2026",
+            "« En 2027, je serai le seul candidat souverainiste » TV Libertés",
             "Nicolas Dupont-Aignan au Salon du Made in France 2026",
             "Ne vous laissez pas voler la présidentielle !"
           ]
         },
         {
           "url": "https://www.dupontaignan.fr/",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 18,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 54,
           "added": [
             "Selon Radio France Internationale, des militaires français seraient déjà présents depuis l’été 2026 en Ukraine dans le cadre d’une mission secrète. Pendant que Macron prétend défendre la paix, il engage notre pays toujours plus loin dans un conflit qui n’est pas le nôtre, SANS AUTORISATION PRÉALABLE DU PARLEMENT, pourtant prévue par l’article 35 de la Constitution👇",
             "On aura tout vu. Celui qui a ruiné la France en contractant, comme ministre de l’Économie, plus de 1 000 milliards d’euros de dette vient pérorer dans les matinales. Il devrait plutôt rendre des comptes devant une commission d’enquête sur les pilleurs de la République. ... Voir plus Voir moins",
             "Le Gouvernement informe le Parlement de sa décision de faire intervenir les forces armées à l’étranger, au plus tard trois jours après le début de l’intervention. Il précise les objectifs poursuivis. Cette information peut donner lieu à un débat qui n’est suivi d’aucun vote.",
+            "SCANDALEUX ! Menacer de mort un enseignant est devenu un fait divers presque ordinaire. Quand ceux qui transmettent le savoir doivent craindre pour leur propre sécurité, c’est toute notre société qui s’effondre.",
             "Lorsque la durée de l’intervention excède quatre mois, le Gouvernement soumet sa prolongation à l’autorisation du Parlement. Il peut demander à l’Assemblée nationale de décider en dernier ressort.",
+            "Et notre ministre explique qu’il faudra « se battre » pour conserver cet argent ! Tous les agriculteurs se souviennent aussi qu’elle voulait « se battre » contre le MERCOSUR. On a vu le résultat.",
+            "Je suis candidat à la présidence de la République pour m’occuper des Français… On aurait pu financer 50 hôpitaux neufs avec les 27 milliards d’euros donnés à l’Ukraine ! ... Voir plus Voir moins",
+            "Les autres candidats proposent peut-être des choses très justes… mais ils ne pourront rien en faire s’ils ne reprennent pas le pouvoir sur l’Union européenne ! ... Voir plus Voir moins",
             "413 millions de chrétiens vivent dans des pays où la liberté religieuse est bafouée. Des millions sont persécutés pour leur foi dans l’indifférence générale.",
+            "Ce qui devait arriver arrive. Macron, SANS AUTORISATION DU PARLEMENT, précipite la France dans une guerre contre la Russie à la veille de la présidentielle !",
+            "Bruxelles veut retirer 15 milliards d’euros à la France sur la prochaine PAC, alors que cette aide représente 66 % des revenus de nos agriculteurs.",
             "Voir les commentaires Like reaction Love reaction Wow reaction Sad reaction Angry reaction Reactions: 353 Partages : 85 Commentaires : 13",
+            "Je souhaite tout l’inverse de l’Europe de Bruxelles : des coopérations souples et choisies, entre pays libres ! ... Voir plus Voir moins",
             "Si le Parlement n’est pas en session à l’expiration du délai de quatre mois, il se prononce à l’ouverture de la session suivante. »",
+            "Je lance un appel aux Français qui souhaitent voir une candidature différente et libre pour me soutenir ! ... Voir plus Voir moins",
             "📺 Retrouvez-moi ce soir, à 20h15, dans l’émission \"100% BFM\" sur BFMTV , au micro de Guillaume Daret🎙️ ... Voir plus Voir moins",
             "www.europe1.fr/societe/sacre-coeur-notre-dame-parlement-europeen-ces-monuments-qui-sallument-en-r... ... Voir plus Voir moins",
+            "www.bfmtv.com/economie/l-europe-veut-donner-7-milliards-de-moins-a-la-france-la-ministre-de-l-agr... ... Voir plus Voir moins",
+            "Voir les commentaires Like reaction Love reaction Haha reaction Angry reaction Reactions: 270 Partages : 43 Commentaires : 30",
+            "Voir les commentaires Like reaction Love reaction Haha reaction Wow reaction Reactions: 248 Partages : 40 Commentaires : 14",
+            "Voir les commentaires Like reaction Wow reaction Sad reaction Angry reaction Reactions: 239 Partages : 73 Commentaires : 20",
             "Notre-Dame et le Sacré-Cœur illuminés en rouge nous rappellent une réalité que trop de dirigeants préfèrent ignorer.",
             "RFI révèle la présence de soldats français en Ukraine, en violation totale de l’article 35 de la constitution.",
             "Voir les commentaires Like reaction Love reaction Haha reaction Reactions: 142 Partages : 31 Commentaires : 11",
-            "📺 Retrouvez-moi ce soir, à 20h15, dans l’émission « 100% BFM » sur @bfmtv, au micro de @guillaumedaret🎙️",
-            "Participez à la campagne présidentielle : dons.dupontaignan.fr ... Voir plus Voir moins",
-            "Je propose un protectionnisme intelligent ! · Salon du Made in France, 12/11/2026",
-            "Vidéo YouTube VVVmQTVEbkNEWDNJeHk1UU9BTUd0QmxBLkdybzkwcUtnclhv",
-            "« La déclaration de guerre est autorisée par le Parlement.",
-            "Nicolas Dupont-Aignan au Salon du Made in France 2026",
-            "Ne vous laissez pas voler la présidentielle !"
+            "📺 Retrouvez-moi ce soir, à 20h15, dans l’émission « 100% BFM » sur @bfmtv, au micro de @guillaumedaret🎙️"
           ]
         },
         {
           "url": "https://www.debout-la-france.fr/projet/economie-travail/",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 3,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 4,
           "added": [
+            "Réindexer les pensions de retraite et les traitements des fonctionnaires sur l’inflation, car l’État doit respecter son engagement vis-à-vis des Français qui ont cotisé toute leur vie professionnelle. Rétablir la possibilité du cumul emploi-retraite entre 62 et 67 ans. L’âge de départ à la retraite restera au niveau actuel de 62 ans et 9 mois.",
             "Le niveau de vie des Français est désormais inférieur à la moyenne de l’Union européenne, selon une étude d’Eurostat publiée en 2026. Dépassée par l’Allemagne, le Danemark ou l’Espagne, la France est même rattrapée par la Pologne.",
             "Assainir les finances publiques sans faire souffrir les Français"
           ]
@@ -141,6 +184,14 @@
         {
           "url": "https://www.dupontaignan.fr/actualite/ne-vous-laissez-pas-voler-la-presidentielle/",
           "first_seen": "2026-11-17"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/actualite/en-2027-je-serai-le-seul-candidat-souverainiste-tv-libertes/",
+          "first_seen": "2026-11-18"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/actualite/ue-le-plus-grand-danger-cest-dy-rester-%c2%b7-bfm-tv-16-11-2026/",
+          "first_seen": "2026-11-18"
         }
       ]
     },
@@ -179,26 +230,40 @@
       "changed_pages": [
         {
           "url": "https://www.unenouvelleenergie.fr/notre-programme/",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 3,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 4,
           "added": [
             "Prochains rendez-vous : New York, Lausanne, Levallois-Perret et Rueil-Malmaison",
+            "Prochains rendez-vous : Issy-les-Moulineaux, Créon et Besançon",
             "Le programme de Nouvelle Énergie est-il chiffré ?",
             "Où trouver le programme de Nouvelle Énergie ?"
           ]
         },
         {
           "url": "https://www.unenouvelleenergie.fr/",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 11,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 24,
           "added": [
             "Domy MAZEL-SONNET, Relais Nouvelle Énergie Haute-Garonne, et Ylverick Poulet Relais Jeunes Énergies Haute-Garonne, vous invitent à un afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Mardi 17 Novembre à 19h, à Toulouse La Raffinerie des copains, 161 Avenue Jean Chaubet Infos et contact : hautegaronne@unenouvelleenergie.fr",
+            "Mardi 10 novembre, David Lisnard a inauguré le DLive, un nouveau format de rencontre en direct avec les internautes. Pendant plus d’une heure, le président de Nouvelle Énergie a répondu sans détour aux questions des Français, détaillé ses propositions pour redresser le pays et échangé avec un invité surprise. Un rendez-vous inédit, qui sera désormais à retrouver chaque mois.",
+            "Gaël Hérault et Aurélien Bertrand, co-relais Nouvelle Énergie Loir-et-Cher, ainsi qu Alexandre Neigel, responsable national des Jeunes Énergies, vous invitent à une réunion publique sur le thème « Jeunesse et éducation ». Mercredi 18 novembre à 19h, à Pruniers-en-Sologne Salle des fêtes Alain Fournier, rue Jean Jaurès Infos et contact : Loiretcher@unenouvelleenergie.fr",
+            "Quentin Hoster, directeur général adjoint de Nouvelle Énergie, Charles Hubert-Rebout et Benjamin Landais, co-relais Nouvelle Énergie Hauts-de-Seine, vous invitent à une réunion publique. Mercredi 18 novembre, 18h, à Issy-les-Moulineaux Comptoir d Issy, 2 avenue Victor Cresson, Issy-les-Moulineaux Infos et contact : hautsdeseine@unenouvelleenergie.fr",
+            "Il faut reconnaître que le financement des retraites pèse sur les actifs sans faire le procès collectif des retraités, estime le maire de Cannes et candidat à l’élection présidentielle. Il prône un plan de réduction de la dépense publique et l’introduction d’une part de capitalisation. Une tribune de David Lisnard parue dans le Figaro.",
+            "Hervé Guerin, référent Nouvelle Énergie Créonnais, et Denis Pernin, co-relais Nouvelle Énergie Gironde, vous invitent à une réunion publique. Mercredi 18 novembre, 18h30, à Créon Les Halles de Créon, 17 avenue de l Entre-deux-Mers Infos et contact : gironde@unenouvelleenergie.fr",
             "L équipe Nouvelle Énergie Courbevoie, vous invite à un Afterwork de la 6ème section à Courbevoie. Mardi 17 novembre, 19h, à Courbevoie Dada Bistrot, 18 bis rue de Bezons, 92400 Courbevoie Infos et contact : hautsdeseine@unenouvelleenergie.fr",
             "Étienne Arnoux, Co-relais Nouvelle Énergie Suisse, vous invite à un Afterwork à Lausanne. Mardi 17 novembre, 18h30, à Lausanne Bar du Château d Ouchy, Place du Port RSVP : +41 76 451 04 17 (WhatsApp) ou suisse@unenouvelleenergie.fr",
+            "Afterwork Nouvelle Énergie à Créon, le mercredi 18 novembre à 18h30 aux Halles de Créon, avec Hervé Guerin, référent Nouvelle Énergie Créonnais, et Denis Pernin, co-relais Nouvelle Énergie 33.",
             "Nouvelle Énergie Français de l étranger vous invite à un afterwork à New York, le mardi 17 novembre à 18h (heure locale) à Empire State of Wine.",
+            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE LOIR-ET-CHER : JEUNESSE ET ÉDUCATION",
+            "« Pour une réforme des retraites qui réconcilie les générations »",
+            "Salle des fêtes Alain Fournier, PRUNIERS-EN-SOLOGNE, LOIR-ET-CHER",
+            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE 92 : ISSY-LES-MOULINEAUX",
+            "Comptoir d Issy, ISSY-LES-MOULINEAUX, HAUTS-DE-SEINE",
+            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE GIRONDE : CRÉON",
             "Empire State of Wine, New York, NY (États-Unis)",
             "AFTERWORK NOUVELLE ÉNERGIE SUISSE - LAUSANNE",
             "AFTERWORK NOUVELLE ÉNERGIE 92 : COURBEVOIE",
+            "Afterwork Nouvelle Énergie Gironde - Créon",
             "Bar du Château d Ouchy, LAUSANNE, SUISSE",
             "AFTERWORK NOUVELLE ÉNERGIE HAUTE-GARONNE",
             "Dada Bistrot, COURBEVOIE, HAUTS-DE-SEINE"
@@ -206,13 +271,21 @@
         },
         {
           "url": "https://www.unenouvelleenergie.fr/actualites/",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 6,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 14,
           "added": [
+            "La deuxième édition de la Journée de l’animal citadin s’est tenue au square Verdun, à Cannes, autour du thème « Prendre soin de son animal ». À cette occasion, David Lisnard a rappelé les actions concrètes engagées par la municipalité depuis 2014 pour protéger les animaux, lutter contre la maltraitance et favoriser une cohabitation harmonieuse entre les habitants et leurs compagnons à quatre patte",
+            "À l’occasion du 108e anniversaire de l’Armistice du 11 novembre 1918, David Lisnard a prononcé, devant le monument aux morts de Cannes, un discours consacré à la mémoire des combattants de la Grande Guerre, à la concorde nationale et aux défis auxquels la France doit aujourd’hui faire face. Un hommage placé sous trois mots : concorde, communion et civilisation.",
+            "Il faut reconnaître que le financement des retraites pèse sur les actifs sans faire le procès collectif des retraités, estime le maire de Cannes et candidat à l’élection présidentielle. Il prône un plan de réduction de la dépense publique et l’introduction d’une part de capitalisation. Une tribune de David Lisnard parue dans le Figaro.",
             "Les élus cannois ont voté, lors du conseil municipal de ce lundi 16 novembre 2026, l’octroie d’une subvention d’un montant de 475 000 euros au profit de l’orphelinat la Sainte-Famille, qui a pour projet de construire une nouvelle maison plus spacieuse pour accueillir les enfants. Un article de Nice-Matin.",
             "La Mairie de Cannes engage une nouvelle phase de restauration de l’église Notre-Dame d’Espérance, au sommet du Suquet. Fermé au public jusqu en juillet 2027, l’édifice bénéficie de travaux consacrés notamment à ses décors intérieurs.",
             "Le premier World Quantum Cannes Festival s’ouvre ce mardi au Palais des festivals. Deux jours pour plonger dans le quantique et ses applications dans l’industrie et les nouvelles technologies. Un article de Nice-Matin.",
+            "À La Frayère, les habitants disposent désormais d’un jardin de 3000 m2 entièrement réaménagé avec de nouveaux espaces sportifs et une sécurité repensée. Un article de Nice-Matin.",
+            "11 Novembre : David Lisnard appelle à retrouver la concorde nationale et à préparer les victoires de demain",
+            "Cannes réaffirme son engagement pour la protection et le bien-être des animaux",
+            "« Pour une réforme des retraites qui réconcilie les générations »",
             "La Ville aide la Sainte-Famille pour son nouvel orphelinat",
+            "Le jardin de l azuréenne refait à neuf à la Bocca",
             "Cannes restaure l’église Notre-Dame d’Espérance",
             "La quantique fait son festival au Palais"
           ]
@@ -285,6 +358,22 @@
       ],
       "new_pages": [
         {
+          "url": "https://www.unenouvelleenergie.fr/pour-une-reforme-des-retraites-qui-reconcilie-les-generations/",
+          "first_seen": "2026-11-18"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/le-jardin-de-lazureenne-refait-a-neuf-a-la-bocca/",
+          "first_seen": "2026-11-18"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/cannes-reaffirme-son-engagement-pour-la-protection-et-le-bien-etre-des-animaux/",
+          "first_seen": "2026-11-18"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/11-novembre-david-lisnard-appelle-a-retrouver-la-concorde-nationale-et-a-preparer-les-victoires-de-demain/",
+          "first_seen": "2026-11-18"
+        },
+        {
           "url": "https://www.unenouvelleenergie.fr/cannes-restaure-leglise-notre-dame-desperance/",
           "first_seen": "2026-11-17"
         },
@@ -330,18 +419,499 @@
       "changed_pages": [
         {
           "url": "https://lafranceinsoumise.fr/actualites/",
-          "changed_at": "2026-11-17",
+          "changed_at": "2026-11-18",
           "removed_blocks": 1,
           "added": [
-            "Sommet de la Francophonie : le fiasco de Macron, l’urgence d’une Francophonie des peuples"
+            "Sommet de la Francophonie : le fiasco de Macron, l’urgence d’une Francophonie des peuples",
+            "Désignation des chef·fes de file - Élections législatives 2027"
           ]
         }
       ],
-      "new_pages": []
+      "new_pages": [
+        {
+          "url": "https://lafranceinsoumise.fr/2017/07/27/video-nationalisation-de-stx-letat-a-devoir/",
+          "first_seen": "2026-11-18"
+        }
+      ]
+    },
+    "philippe": {
+      "changed_pages": [
+        {
+          "url": "https://www.edouardphilippe.fr/",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 1,
+          "added": [
+            "Ce mercredi 18 novembre, Édouard Philippe présentera, lors d’une conférence de presse, le premier volume de son programme pour l’élection présidentielle.",
+            "Édouard Philippe présente le premier volume de son programme présidentiel",
+            "12 décembre Cesson-Sévigné Je m’inscris →"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 5,
+          "added": [
+            "17 novembre 2026 · Conférence de presse Édouard Philippe présente le premier volume de son programme présidentiel 7 novembre 2026 · BFMTV BFMTV – Édouard Philippe veut répondre à l’angoisse du déclassement 6 novembre 2026 · La Provence LA PROVENCE – Édouard Philippe échange avec des lycéens et des lecteurs 1er novembre 2026 · TF1 TF1 – Édouard Philippe défend le travail, la responsabilité et l’uni",
+            "18 octobre 2026 · BFMTV et Le Figaro BFMTV – Édouard Philippe veut faire payer les dégâts aux casseurs 15 octobre 2026 · Réunion d’appartement École : Édouard Philippe défend l’exigence et la liberté des équipes 15 octobre 2026 · La Voix du Nord LA VOIX DU NORD – Édouard Philippe alerte sur l’avenir de l’automobile française 13 octobre 2026 · Sommet de POLITICO Au sommet de POLITICO, Édouard Phili",
+            "1er oct. Haute-Savoie – Édouard Philippe défend un État capable de protéger Au congrès national des sapeurs-pompiers à La Roche-sur-Foron, Édouard Philippe a remercié les pompiers. L’été a été marqué par des mégafeux : 98 000 hectares ont brûlé depuis janvier et quatre pompiers sont morts.",
+            "17 novembre 2026 Édouard Philippe présente le premier volume de son programme présidentiel Ce mercredi 18 novembre, Édouard Philippe présentera, lors d’une conférence de presse, le premier volume de son programme pour l’élection présidentielle.",
+            "9 novembre 2026 À Chartres, Édouard Philippe défend une République qui donne sa chance à chacun"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 4,
+          "added": [
+            "Déficit ramené sous 2,5 % de la richesse nationale",
+            "30 000 places de prison pour les peines courtes",
+            "Rétablissement du service national obligatoire",
+            "Un nouveau statut d’école publique autonome",
+            "Division par deux de l’immigration légale"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 4,
+          "added": [
+            "Déficit ramené sous 2,5 % de la richesse nationale",
+            "30 000 places de prison pour les peines courtes",
+            "Rétablissement du service national obligatoire",
+            "Un nouveau statut d’école publique autonome",
+            "Division par deux de l’immigration légale"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 4,
+          "added": [
+            "Déficit ramené sous 2,5 % de la richesse nationale",
+            "30 000 places de prison pour les peines courtes",
+            "Rétablissement du service national obligatoire",
+            "Un nouveau statut d’école publique autonome",
+            "Division par deux de l’immigration légale"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 4,
+          "added": [
+            "Déficit ramené sous 2,5 % de la richesse nationale",
+            "30 000 places de prison pour les peines courtes",
+            "Rétablissement du service national obligatoire",
+            "Un nouveau statut d’école publique autonome",
+            "Division par deux de l’immigration légale"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 4,
+          "added": [
+            "Déficit ramené sous 2,5 % de la richesse nationale",
+            "30 000 places de prison pour les peines courtes",
+            "Rétablissement du service national obligatoire",
+            "Un nouveau statut d’école publique autonome",
+            "Division par deux de l’immigration légale"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/securite",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 3,
+          "added": [
+            "Édouard Philippe veut utiliser contre les casseurs les mêmes mesures de prévention que contre le terrorisme : un fichier dédié sur le modèle du FSPRT, les visites domiciliaires, les mesures individuelles de contrôle administratif et l’assignation à résidence lors des manifestations à risque. Il veut aussi utiliser la vidéoprotection avec intelligence artificielle pour identifier les casseurs et le",
+            "Un « état d’urgence narco » qui donne des moyens exceptionnels dans les zones les plus touchées par le narcotrafic. L’utilisation de la vidéoprotection avec intelligence artificielle pour identifier les casseurs et les criminels. La saisie de l’argent des trafiquants et des amendes plus fortes pour les consommateurs. Un pouvoir de sanction renforcé pour les maires contre les incivilités du quotidi",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Oui, pour les délinquants condamnés. Édouard Philippe veut suspendre automatiquement leur RSA, sauf si le maire en décide autrement au terme d’un examen individuel de la situation.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "Utiliser contre les casseurs les mêmes mesures de prévention que contre le terrorisme.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "Suspendre automatiquement le RSA pour les délinquants condamnés.",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "Édouard Philippe veut-il supprimer le RSA des délinquants ?",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "Que propose Édouard Philippe contre les casseurs ?",
+            "Que pensez-vous des propositions sur la sécurité ?",
+            "30 000 places de prison pour les peines courtes",
+            "Rétablissement du service national obligatoire",
+            "1 Ces propositions vous convainquent-elles ?",
+            "Division par deux de l’immigration légale"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/justice",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 7,
+          "added": [
+            "Oui, dans des affaires précises. Édouard Philippe veut renforcer l’autorité du garde des Sceaux sur le parquet, notamment en lui permettant d’adresser des instructions individuelles aux procureurs. Pour lui, la politique pénale doit être conduite par un ministre qui en répond devant les Français. Il veut pour cela abroger la loi Taubira de 2013. Ces instructions seront écrites et versées au dossie",
+            "Le rétablissement des peines planchers. Des peines de prison courtes, dès la première infraction. La suppression du juge d’application des peines : une peine prononcée sera une peine exécutée. Construire 30 000 places de prison pour les peines courtes, avec une loi d’accélération des prisons. Le retour des juges de paix : une justice civile plus rapide et plus proche. Interdire aux magistrats de s",
+            "Oui. Édouard Philippe veut renforcer la responsabilité des juges : faciliter la saisine directe du Conseil supérieur de la magistrature par les justiciables et doter les chefs de juridiction d’un pouvoir disciplinaire de premier niveau. Les juges font un travail difficile, mais la confiance des Français dans leur Justice s’érode et il faut la restaurer avec de telles exigences.",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Édouard Philippe veut simplifier massivement la procédure pénale. Il propose de créer un comité de simplification qui devra refondre le code de procédure pénale en 100 jours, et de déployer massivement l’intelligence artificielle pour accélérer l’instruction des dossiers.",
+            "Oui. Édouard Philippe veut interdire aux magistrats de se syndiquer. La fonction de juge demande une impartialité totale, comme d’autres fonctions régaliennes de l’État qui n’ont pas de droit syndical : les militaires et les préfets.",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Simplifier massivement la procédure pénale et déployer l’intelligence artificielle pour accélérer l’instruction des dossiers.",
+            "Construire 30 000 places de prison pour les peines courtes, avec une loi d’accélération des prisons.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "Comment Édouard Philippe veut-il simplifier la procédure pénale ?",
+            "Édouard Philippe veut-il interdire les syndicats de magistrats ?",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "Que pensez-vous des propositions sur la justice ?",
+            "Rétablissement du service national obligatoire",
+            "1 Ces propositions vous convainquent-elles ?",
+            "Interdire aux magistrats de se syndiquer.",
+            "Division par deux de l’immigration légale"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/immigration",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 4,
+          "added": [
+            "Pour Édouard Philippe, l’intégration repose sur trois piliers : la langue, le travail et l’adhésion aux valeurs républicaines, notamment la laïcité et l’égalité entre les femmes et les hommes. Celui qui s’installe en France doit apprendre le français, travailler et respecter nos règles communes. Il veut une véritable politique d’intégration, exigeante et claire, pour que chacun sache ce que la Fra",
+            "Diviser l’immigration légale par deux, pour la ramener au niveau d’il y a 15 ans. Des quotas pour choisir l’immigration de travail. Un moratoire sur le regroupement familial. L’utilisation de « centres de retour » à l’étranger pour éloigner effectivement ceux qui n’ont rien à faire en France. La dénonciation de l’accord franco-algérien de 1968. Le retour de la double peine pour les étrangers délin",
+            "Non. Sans revenir sur le droit du sol, Édouard Philippe veut que l’acquisition de la nationalité française ne soit plus jamais automatique. Pour lui, l’intégration passe par la langue, le travail et l’adhésion aux valeurs républicaines, notamment la laïcité et l’égalité entre les femmes et les hommes.",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Renforcer l’intégration et faire que l’acquisition de la nationalité française ne soit plus jamais automatique.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Diviser l’immigration légale par deux, pour la ramener au niveau d’il y a 15 ans.",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "L’acquisition de la nationalité française restera-t-elle automatique ?",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "Que pensez-vous des propositions sur l’immigration ?",
+            "30 000 places de prison pour les peines courtes",
+            "Rétablissement du service national obligatoire",
+            "1 Ces propositions vous convainquent-elles ?"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/defense",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 8,
+          "added": [
+            "Face aux menaces et au retour de la guerre aux portes de l’Europe, Édouard Philippe veut massifier nos armées. Il propose une nouvelle loi de programmation militaire pour passer de 45 000 à 250 000 réservistes, rétablir un service national obligatoire, produire massivement des drones et des munitions, et doubler nos navires aux Antilles. Dans un monde plus dangereux, la France doit pouvoir tenir d",
+            "Une loi de massification de nos armées pour avoir plus de soldats, de réservistes, de munitions et de drones. Le rétablissement d’un service national obligatoire, avec le choix entre une option militaire et plusieurs options civiles, et 250 000 réservistes. Des armements « made in Europe » : au moins 1 % de la richesse nationale des pays de l’Union européenne consacré à des équipements fabriqués e",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Non. Le service national obligatoire que veut rétablir Édouard Philippe permettra aux jeunes Français de choisir entre une option militaire et plusieurs options civiles. Chacun pourra ainsi servir son pays, se former et acquérir une expérience précieuse pour la suite de sa vie.",
+            "Édouard Philippe veut une nouvelle loi de programmation militaire (LPM), celle de la massification. La loi actuelle épaissit nos armées sans les étendre : il veut aller plus loin, avec plus de soldats, plus de réservistes, plus de drones, plus de munitions et plus de navires.",
+            "Oui. Pour Édouard Philippe, l’Ukraine a vocation à intégrer l’OTAN et à être arrimée solidement à l’Union européenne. La France prendra toute sa part dans le soutien financier et opérationnel à l’Ukraine, dont la résistance est un intérêt de sécurité majeur pour notre pays.",
+            "Oui. Édouard Philippe veut rétablir le service national. Un service national obligatoire sera recréé : il permettra aux jeunes Français de choisir entre une option militaire et plusieurs options civiles. Il veut aussi porter le nombre de réservistes de 45 000 à 250 000.",
+            "Des armements « made in Europe » : au moins 1 % de la richesse nationale des pays de l’Union européenne consacré à des équipements fabriqués en Europe, grâce à une vraie préférence européenne en matière d’armements.",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Le rétablissement d’un service national obligatoire, avec le choix entre une option militaire et plusieurs options civiles, et 250 000 réservistes.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "Le service national d’Édouard Philippe sera-t-il uniquement militaire ?",
+            "Soutenir pleinement l’Ukraine, qui a vocation à intégrer l’OTAN.",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "Édouard Philippe veut-il que l’Ukraine entre dans l’OTAN ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "Que pensez-vous des propositions sur la défense ?",
+            "30 000 places de prison pour les peines courtes",
+            "1 Ces propositions vous convainquent-elles ?",
+            "Division par deux de l’immigration légale"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/travail",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 8,
+          "added": [
+            "Édouard Philippe veut que le travail paie davantage. Pour que les travailleurs aient plus de pouvoir d’achat, il propose d’augmenter le salaire net en baissant la dépense sociale, de laisser les entreprises fixer elles-mêmes le temps de travail et d’exonérer d’impôt et de cotisations salariales les heures travaillées au-delà de 35 heures par semaine. Les jeunes des classes moyennes qui travaillent",
+            "Oui. Édouard Philippe veut réduire l’écart entre le salaire brut et le salaire net pour que les Français aient plus de pouvoir d’achat. Pour cela, il veut baisser la dépense sociale : une partie des économies réalisées sur les retraites, l’assurance chômage et les arrêts maladie sera redistribuée en pouvoir d’achat pour les salariés. « On financera mieux avec plus de travail, pas avec plus d’impôt",
+            "Édouard Philippe veut que travailler plus rapporte vraiment. Quand une entreprise décide, après discussion interne, d’allonger le temps de travail, les heures au-delà de 35 heures seront exonérées d’impôt et de cotisations salariales, et l’entreprise ne paiera plus de cotisations patronales au-delà de la 37e heure. Pour un salarié au SMIC qui travaille deux heures de plus par semaine, le gain sera",
+            "Oui, il veut qu’elles ne soient plus obligatoires. Édouard Philippe veut permettre aux entreprises de fixer librement leur temps de travail, par accord d’entreprise, de la manière la plus adaptée à leur activité, pour sortir des 35 heures. Les heures au-delà de 35 heures seront exonérées d’impôt et de cotisations salariales et, au-delà de la 37e heure, l’entreprise ne paiera plus de cotisations pa",
+            "Augmenter le salaire net en baissant la dépense sociale : une partie des économies sur les retraites, l’assurance chômage et les arrêts maladie sera redistribuée en pouvoir d’achat. Laisser les entreprises organiser leur temps de travail. Limiter à 12 mois l’indemnisation chômage des moins de 50 ans. Trois jours de carence pour tous, dans le privé comme dans le public. Développer l’apprentissage.",
+            "Oui. Édouard Philippe veut alléger le poids des cotisations sur le travail. Les heures travaillées au-delà de 35 heures seront exonérées d’impôt et de cotisations salariales, et les entreprises ne paieront plus de cotisation patronale au-delà de la 37e heure. Pour un salarié au SMIC qui travaille deux heures de plus par semaine, le gain sera de plus de 1 000 € par an.",
+            "Oui. Avec Édouard Philippe, quand une entreprise décide de travailler plus longtemps après discussion interne, les heures au-delà de 35 heures seront exonérées d’impôt et de cotisations salariales. Un salarié au SMIC qui travaille deux heures de plus par semaine gagnera plus de 1 000 € par an.",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Augmenter le salaire net en baissant la dépense sociale : une partie des économies sur les retraites, l’assurance chômage et les arrêts maladie sera redistribuée en pouvoir d’achat.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "Que pensez-vous des propositions sur le travail et les salaires ?",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "Déficit ramené sous 2,5 % de la richesse nationale",
+            "1 Ces propositions vous convainquent-elles ?"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/comptes-publics",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 8,
+          "added": [
+            "Édouard Philippe veut ramener le déficit sous 2,5 % de la richesse nationale à la fin du quinquennat, soit près de 150 milliards d’économies, et faire adopter par référendum, dès le début du quinquennat, une règle d’or qui contraindra les décideurs publics à une trajectoire de rétablissement des comptes publics. Dans la stratégie budgétaire d’Édouard Philippe, l’effort portera pour moitié sur les ",
+            "C’est une règle inscrite dans la Constitution qui contraindra les décideurs publics à suivre une trajectoire de rétablissement des comptes publics. Édouard Philippe veut la faire adopter par référendum dès le début du quinquennat, pour que les Français décident eux-mêmes de rompre avec la facilité budgétaire. Elle s’accompagne d’un objectif précis : ramener le déficit sous 2,5 % de la richesse nat",
+            "Édouard Philippe fait porter l’effort pour moitié sur les dépenses sociales (retraites, chômage, arrêts maladie), pour un quart sur l’État et les collectivités. Le dernier quart viendra de la croissance et de l’emploi créés par le rebond économique du pays. Concrètement, il veut faire la plus importante réforme des retraites depuis 30 ans, diminuer la durée des indemnités chômage, réduire de 250 0",
+            "Édouard Philippe veut que la moitié de l’effort de redressement porte sur les dépenses sociales, pour sauver un modèle social qui ne peut pas fonctionner à crédit. Il veut que le travail paie toujours plus que l’inactivité. Ses choix sont ciblés : réformer les retraites en travaillant plus de manière juste et en instaurant de la capitalisation, instaurer trois jours de carence pour tous, limiter l",
+            "Inscrire dans la Constitution une « règle d’or » budgétaire adoptée par référendum dès le début du quinquennat. Ramener le déficit sous 2,5 % de la richesse nationale à la fin du quinquennat, soit près de 150 milliards d’économies. Ne créer aucun nouvel impôt pendant cinq ans. Regrouper ou privatiser les agences de l’État qui font doublon. Réduire de 250 000 le nombre de postes de fonctionnaires s",
+            "Oui. Édouard Philippe propose de réduire de 250 000 le nombre de postes de fonctionnaires sur le quinquennat. Dans les fonctions de bureau, un fonctionnaire sur trois partant à la retraite ne sera pas remplacé, grâce aux gains de productivité générés par l’IA. Personne ne sera licencié : l’État se réorganisera au fil des départs, en supprimant les doublons et en simplifiant ses procédures.",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Oui. Édouard Philippe veut fusionner, supprimer ou privatiser une trentaine d’agences et d’opérateurs de l’État qui font doublon, avec par exemple la privatisation de France Travail et la suppression du CESE. Un État plus lisible coûte moins cher et sert mieux les Français.",
+            "Réduire de 250 000 le nombre de postes de fonctionnaires sur le quinquennat, en ne remplaçant pas un fonctionnaire sur trois partant à la retraite dans les fonctions de bureau, grâce aux gains de productivité de l’IA.",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Ramener le déficit sous 2,5 % de la richesse nationale à la fin du quinquennat, soit près de 150 milliards d’économies.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "Que pensez-vous des propositions sur les finances publiques ?",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "1 Ces propositions vous convainquent-elles ?"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/ecole",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 3,
+          "added": [
+            "Édouard Philippe veut créer un service public de l’orientation, pour accompagner chaque élève dans sa découverte des métiers et ses choix dès le collège, grâce à un tutorat personnalisé d’étudiants, de professeurs et d’intervenants extérieurs. Il veut ainsi lutter contre l’autocensure des jeunes qui n’osent pas viser haut. Les professeurs bénéficieront de temps dédiés pour l’orientation des élèves",
+            "Édouard Philippe veut que les enfants en situation de handicap soient accueillis à l’école dans de bonnes conditions, sans jamais opposer école inclusive et école de l’excellence : l’objectif de l’école, c’est que tous les élèves progressent. Depuis la loi de 2005, l’inclusion a beaucoup progressé, et c’est une fierté. Mais Édouard Philippe reconnaît les retards : des bâtiments pas toujours access",
+            "Augmenter de 20 % en moyenne le salaire des enseignants pendant le quinquennat. Créer un nouveau statut d’école publique autonome : chaque établissement volontaire sera libre d’adapter ses méthodes, ses horaires, l’organisation de ses classes et d’avancer la rentrée d’une à deux semaines pour les élèves qui en ont besoin. Créer un soutien scolaire universel ouvert à tous les élèves. Diminuer la ta",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Créer un nouveau statut d’école publique autonome : chaque établissement volontaire sera libre d’adapter ses méthodes, ses horaires, l’organisation de ses classes et d’avancer la rentrée d’une à deux semaines pour les élèves qui en ont besoin.",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Recréer des écoles normales pour former les professeurs. Les rendre plus exigeantes sur les savoirs fondamentaux et ouvrir les carrières à des professionnels venus de l’extérieur.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "Que pensez-vous des propositions sur l’école ?",
+            "1 Ces propositions vous convainquent-elles ?"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/retraites",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 8,
+          "added": [
+            "Porter progressivement l’âge de départ à 65 ans et la durée de cotisation à 45 ans, en moins de dix ans. Un Français sur trois pourra partir avant 65 ans, et l’âge ne bougera pas pour les personnes en mauvaise santé. Généraliser la capitalisation collective à tous les salariés et ouvrir un plan d’épargne retraite à chaque Français. Confier la gestion du système de retraites aux partenaires sociaux",
+            "Édouard Philippe veut que les générations futures aient des retraites décentes, et sauver nos retraites sans augmenter les cotisations des actifs et sans baisser les pensions. Cela n’est pas possible avec un départ à 60 ans. Ce choix passe donc par un départ porté progressivement à 65 ans, avec des départs anticipés maintenus pour les personnes en mauvaise santé et les carrières longues.",
+            "Édouard Philippe veut sauver nos retraites sans hausse des cotisations ni baisse des pensions. Il propose de porter progressivement l’âge de départ à 65 ans et la durée de cotisation à 45 ans, en moins de dix ans. Un Français sur trois pourra partir avant 65 ans. Il veut aussi une retraite par capitalisation collective et individuelle pour tous les salariés.",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Pour Édouard Philippe, il faut sauver nos retraites tant qu’on peut encore le faire sans hausse des cotisations ni baisse des pensions. Plus on attend, plus l’effort sera brutal. Il propose une transition progressive, en moins de dix ans, pour laisser à chacun le temps de s’organiser.",
+            "Oui, progressivement. Édouard Philippe propose de porter l’âge de départ à 65 ans en moins de dix ans. Les personnes dont la santé est fragile et celles qui ont eu une carrière longue garderont des départs anticipés, si bien qu’un Français sur trois pourra partir avant 65 ans.",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Non. Édouard Philippe exclut toute baisse des pensions. Les retraités ont travaillé toute leur vie, et sa réforme vise justement à garantir que les pensions continueront d’être versées demain.",
+            "Non. Édouard Philippe s’engage à sauver nos retraites sans hausse des cotisations. Il veut au contraire augmenter le salaire net des actifs en baissant la dépense sociale.",
+            "Porter progressivement l’âge de départ à 65 ans et la durée de cotisation à 45 ans, en moins de dix ans.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "Que pensez-vous des propositions sur les retraites ?",
+            "Déficit ramené sous 2,5 % de la richesse nationale",
+            "1 Ces propositions vous convainquent-elles ?"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/entreprises",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 5,
+          "added": [
+            "Oui. Édouard Philippe propose de baisser de 50 milliards d’euros les impôts de production, en supprimant autant d’aides publiques improductives. Ce serait le plus grand choc de compétitivité jamais réalisé en France, sans creuser le déficit. Il va également baisser le coût du travail, mettre fin aux 35 h en permettant aux entreprises de fixer librement le temps de travail par accord d’entreprise, ",
+            "Édouard Philippe veut supprimer des normes, n’en créer aucune nouvelle et en finir avec la surtransposition des règles européennes. Il propose aussi de regrouper ou de privatiser les agences qui s’enchevêtrent, et de supprimer le code français des marchés publics dès l’entrée en vigueur du futur règlement européen, sans y ajouter de règles nationales. Il veut adopter une loi annuelle de suppressio",
+            "Oui. Édouard Philippe veut permettre aux entreprises de fixer librement leur temps de travail, de la manière la plus adaptée à leur activité, pour sortir des 35 heures. Au-delà de 35 heures, le salarié ne paiera ni impôt ni cotisations salariales et, au-delà de la 37e heure, l’entreprise ne paiera plus de cotisations patronales. Chaque entreprise pourra ainsi trouver l’organisation qui lui convien",
+            "Édouard Philippe veut renforcer la compétitivité de notre agriculture. Il propose zéro surtransposition agricole, un grand plan de transmission et de modernisation des exploitations, avec un « super Dutreil agricole » qui défiscalise les transmissions et aide les jeunes à s’installer, 100 territoires de souveraineté alimentaire et l’inscription du développement agricole dans la Charte de l’environ",
+            "Un pacte fiscal massif : 50 milliards d’euros d’impôts de production en moins contre 50 milliards d’euros d’aides en moins. La suppression de normes et un pacte de stabilité : aucun nouvel impôt ni aucune nouvelle norme pendant le quinquennat. Un « livret capital France » et des fonds de capitalisation pour diriger l’épargne vers nos entreprises. L’achèvement du marché unique européen. La liberté ",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "Un « super Dutreil agricole » pour transmettre et moderniser les exploitations agricoles.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "Que pensez-vous des propositions sur les entreprises et l’industrie ?",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "Déficit ramené sous 2,5 % de la richesse nationale",
+            "1 Ces propositions vous convainquent-elles ?"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/famille",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 1,
+          "added": [
+            "Verser une allocation familiale de 350 € par mois dès le premier enfant. Supprimer l’impôt sur le revenu des classes moyennes les trois premières années de l’enfant. Lancer un plan Marshall pour la garde d’enfants. Accorder un prêt à taux zéro à chaque naissance. Un temps partiel parental : 80 % payés 100 % pendant 2 mois pour faciliter la reprise du travail.",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "Que pensez-vous des propositions sur la famille ?",
+            "1 Ces propositions vous convainquent-elles ?",
+            "Un nouveau statut d’école publique autonome"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/intelligence-artificielle",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 3,
+          "added": [
+            "C’est le plan d’investissement qui succédera à France 2030, avec un principe : un euro public pour un euro privé. Édouard Philippe veut mettre fin au saupoudrage et concentrer l’argent public sur les fonds propres des acteurs technologiques critiques. Il veut aussi mobiliser l’épargne des Français pour financer les infrastructures de l’IA : acheter les terrains, raccorder, construire les centres d",
+            "Un pacte européen de puissance numérique, avec une priorité européenne dans l’achat technologique. Faire de la France le leader européen de la puissance de calcul et des data centers, avec des « zones d’accélération de l’IA ». Un grand plan pour transformer les services publics grâce à l’intelligence artificielle. Un « droit à la reconversion » pour les métiers menacés. 100 000 ingénieurs formés c",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Édouard Philippe veut déployer un Bouclier Cyber et protéger le débat démocratique : investir dans des centres de protection cyber des administrations publiques, et lutter contre la désinformation et les ingérences étrangères.",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Faire de la France le leader européen de la puissance de calcul et des data centers, avec des « zones d’accélération de l’IA ».",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "Lancer le plan Horizon 2050 pour succéder à France 2030 : un euro public pour un euro privé.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Que propose Édouard Philippe contre les cyberattaques et la désinformation ?",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "Que pensez-vous des propositions sur l’intelligence artificielle ?",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "Déployer un Bouclier Cyber et protéger le débat démocratique.",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "C’est quoi le plan Horizon 2050 d’Édouard Philippe ?",
+            "1 Ces propositions vous convainquent-elles ?"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 8,
+          "added": [
+            "Édouard Philippe souhaite fermer les sites qui laissent prospérer le proxénétisme en ligne et rendre imprescriptibles les crimes commis sur des mineurs. Il défend aussi, en Europe, une régulation de l’intelligence artificielle pour protéger les enfants. Il veut aussi renforcer la responsabilité des plateformes face aux contenus illicites : durcir leur responsabilité pénale pour les contenus pédopo",
+            "Édouard Philippe commence par l’école : il veut interdire strictement le téléphone portable à l’école primaire, au collège et au lycée, avec confiscation immédiate et restitution aux parents. Il veut aussi réécrire la loi d’interdiction des réseaux sociaux aux moins de 15 ans, en confiant ce travail à un groupe transpartisan de parlementaires et de juristes, pour faire adopter la loi et protéger l",
+            "Un « droit de savoir » qui permet aux parents de vérifier le passé des adultes proches de leur enfant. Des crimes sur mineurs poursuivis sans limite de temps. L’éloignement immédiat de l’adulte en cause dès qu’une plainte concerne un enfant. Une Inspection nationale de l’enfance qui contrôle tous les lieux d’accueil au moins tous les trois ans. La vérification des antécédents de tous ceux qui enca",
+            "Édouard Philippe propose l’éloignement immédiat de l’adulte en cause dès qu’une plainte concerne un enfant, un « droit de savoir » pour vérifier les antécédents des adultes qui l’entourent, l’imprescriptibilité des crimes sur mineurs et une Inspection nationale de l’enfance qui contrôlera tous les lieux d’accueil au moins tous les trois ans.",
+            "Oui. Édouard Philippe veut rendre imprescriptibles les crimes commis sur des mineurs, pour que leurs auteurs sachent qu’ils ne seront jamais tranquilles ni à l’abri. Il propose aussi que toute plainte concernant un enfant déclenche une mesure de protection immédiate d’éloignement de l’adulte en cause, sans attendre la fin de l’enquête.",
+            "Oui. Édouard Philippe veut créer un principe de précaution pénal : toute plainte concernant un enfant déclenchera une mesure de protection immédiate d’éloignement de l’adulte en cause, sans attendre la fin de l’enquête. Quand un enfant est peut-être en danger, la priorité est de le protéger.",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Oui. Édouard Philippe veut créer une Inspection nationale de l’enfance qui contrôlera tous les lieux accueillant des mineurs au moins tous les trois ans, contre tous les six ans aujourd’hui. Elle aura le pouvoir de fermer les établissements qui ne protègent pas les enfants.",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "L’éloignement immédiat de l’adulte en cause dès qu’une plainte concerne un enfant.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "Renforcer la responsabilité des plateformes face aux contenus illicites.",
+            "Réécrire la loi d’interdiction des réseaux sociaux aux moins de 15 ans.",
+            "Que pensez-vous des propositions sur la protection de l’enfance ?",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "1 Ces propositions vous convainquent-elles ?",
+            "Un nouveau statut d’école publique autonome"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/energie",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 1,
+          "added": [
+            "Relancer le nucléaire et développer les renouvelables là où elles sont efficaces. Électrifier massivement nos usages pour sortir du pétrole et du gaz. Renforcer le prix du carbone aux frontières européennes. Protéger les industries qui décarbonent face aux concurrents qui ne le font pas. Engager un plan Messmer des énergies de la Terre, géothermie et biométhane, avec les collectivités et les agric",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Faire de l’Europe une puissance énergétique, avec la Banque européenne d’investissement pour financer le nucléaire et les interconnexions.",
+            "Renforcer le prix du carbone aux frontières européennes. Protéger les industries qui décarbonent face aux concurrents qui ne le font pas.",
+            "Lancer un grand plan fret ferroviaire : porter sa part à 20 % à la fin du quinquennat, contre moins de 10 % aujourd’hui.",
+            "Engager un plan Messmer des énergies de la Terre, géothermie et biométhane, avec les collectivités et les agriculteurs.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "Que pensez-vous des propositions sur l’énergie ?",
+            "1 Ces propositions vous convainquent-elles ?"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 0,
+          "added": [
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Un fonds d’adaptation au changement climatique de 2 milliards d’euros par an. Stocker davantage l’eau et mieux la réutiliser. Zéro surtransposition normative pour l’agriculture française.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "Que pensez-vous des propositions sur l’adaptation climatique ?",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "1 Ces propositions vous convainquent-elles ?"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/outre-mer",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 0,
+          "added": [
+            "Édouard Philippe veut une loi de programmation économique pour les outre-mer, pour encourager l’apprentissage, la lutte contre le chômage et l’attractivité économique des territoires. Il veut aider les territoires ultramarins à adapter leur agriculture au changement climatique, en favorisant le stockage de l’eau et la diffusion des nouvelles technologies pour tous les producteurs, et faciliter leu",
+            "La modernisation de l’octroi de mer et plus de concurrence sur les transports pour faire baisser la vie chère. Lancement d’une nouvelle piste d’aéroport sur Grande-Terre et un deuxième hôpital de plein exercice à Mayotte. Un moratoire total sur l’immigration à Mayotte pendant tout le quinquennat, y compris pour l’immigration familiale. La suspension des nouvelles demandes d’asile à Mayotte et en G",
+            "J’accepte que mon avis et mes coordonnées soient traités par l’équipe de campagne d’Édouard Philippe pour analyser les réactions au programme. Je comprends que mon avis peut révéler mes opinions politiques. En savoir plus : politique de confidentialité . * Envoyer mon avis Envoyer mon avis →",
+            "Nous l’avons bien reçu, il sera lu avec attention par l’équipe projet d’Édouard Philippe. Vous recevrez prochainement une synthèse des propositions comme la vôtre. En attendant, restez au plus près de la campagne.",
+            "Pour envoyer votre avis à Édouard Philippe et à son équipe, indiquez simplement qui vous êtes.",
+            "2 Les propositions phares : lesquelles préférez-vous ? (plusieurs choix possibles)",
+            "Que propose Édouard Philippe pour l’économie et l’environnement des outre-mer ?",
+            "Commencez à saisir : les suggestions viennent de la Base Adresse Nationale.",
+            "3 Avez-vous une proposition sur cette thématique ? (optionnel)",
+            "+ Ces propositions vont-elles trop loin ou pas assez loin ?",
+            "1 Pas assez loin 2 3 Juste ce qu’il faut 4 5 Trop loin",
+            "Que pensez-vous des propositions sur les outre-mer ?",
+            "1 Ces propositions vous convainquent-elles ?"
+          ]
+        }
+      ],
+      "new_pages": [
+        {
+          "url": "https://www.edouardphilippe.fr/don",
+          "first_seen": "2026-11-18"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/elus",
+          "first_seen": "2026-11-18"
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/edouard-philippe-presente-le-premier-volume-de-son-programme-presidentiel",
+          "first_seen": "2026-11-18"
+        }
+      ]
     },
     "roussel": {
       "changed_pages": [],
       "new_pages": [
+        {
+          "url": "https://www.pcf.fr/communistes_1109",
+          "first_seen": "2026-11-18"
+        },
+        {
+          "url": "https://www.pcf.fr/soldats_francais_en_ukraine_stop_lescalade_et_lopacite",
+          "first_seen": "2026-11-18"
+        },
         {
           "url": "https://www.pcf.fr/cnrs_non_a_la_mise_sous_tutelle",
           "first_seen": "2026-11-17"
@@ -356,11 +926,13 @@
       "changed_pages": [
         {
           "url": "https://nouspresident.fr/notre-programme/",
-          "changed_at": "2026-11-17",
+          "changed_at": "2026-11-18",
           "removed_blocks": 0,
           "added": [
             "Nos logiciels, notre cloud, nos réseaux sociaux et bientôt nos intelligences artificielles sont entre les mains d’une poignée de géants américains. Sous les gouvernements d’Emmanuel Macron, la France est devenue une colonie numérique : 50 milliards d’euros versés chaque année aux fournisseurs américains, des data centers imposés aux territoires, une IA déployée à marche forcée sans que personne ne",
-            "DE la colonie numérique aux souverainetés numériques"
+            "La jeunesse est devenue l’âge des renoncements : renoncer à des études faute de moyens, à un logement faute de revenus, à un emploi stable, parfois même à se nourrir ou à se soigner. Nous refusons que l’avenir de toute une génération soit sacrifié.",
+            "DE la colonie numérique aux souverainetés numériques",
+            "Redonner aux jeunes les clefs de leur avenir"
           ]
         },
         {
@@ -375,13 +947,34 @@
       ],
       "new_pages": [
         {
+          "url": "https://nouspresident.fr/redonner-aux-jeunes-les-clefs-de-leur-avenir/",
+          "first_seen": "2026-11-18"
+        },
+        {
           "url": "https://nouspresident.fr/de-la-colonie-numerique-aux-souverainetes-numeriques/",
           "first_seen": "2026-11-17"
         }
       ]
     },
     "tondelier": {
-      "changed_pages": [],
+      "changed_pages": [
+        {
+          "url": "https://marinetondelier.fr",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 0,
+          "added": [
+            "Épisode 50 - Investir dans l’enseignement supérieur et la recherche"
+          ]
+        },
+        {
+          "url": "https://marinetondelier.fr/journal-de-campagne",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 1,
+          "added": [
+            "Épisode 50 - Investir dans l’enseignement supérieur et la recherche"
+          ]
+        }
+      ],
       "new_pages": [
         {
           "url": "https://marinetondelier.fr/journal-de-campagne/hommage-13-novembre",
@@ -393,35 +986,76 @@
         }
       ]
     },
+    "villepin": {
+      "changed_pages": [
+        {
+          "url": "https://lafrancehumaniste.fr/",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 1,
+          "added": [
+            "Projet France 2027 Tenir la promesse de la justice sociale : 20 propositions Rendre aux Français le pouvoir d’agir sur leur travail, leur santé et leur vie : démocratie sociale, travail, solidarités, santé. Découvrir"
+          ]
+        },
+        {
+          "url": "https://lafrancehumaniste.fr/france2027.html",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 0,
+          "added": [
+            "Vingt propositions pour rendre aux Français le pouvoir d’agir sur leur travail, leur santé et leur vie.",
+            "Propositions 16 à 20 Une santé préventive et personnalisée pour toutes et pour tous",
+            "Propositions 11 à 15 Placer les vulnérabilités au cœur des solidarités",
+            "Propositions 1 à 5 Renforcer la démocratie sociale",
+            "Propositions 6 à 10 Rendre sa valeur au travail"
+          ]
+        },
+        {
+          "url": "https://lafrancehumaniste.fr/programme/economie.html",
+          "changed_at": "2026-11-18",
+          "removed_blocks": 1,
+          "added": [
+            "Adhérer Faire un don Justice sociale Tous les chantiers 2027"
+          ]
+        }
+      ],
+      "new_pages": [
+        {
+          "url": "https://lafrancehumaniste.fr/programme/justice-sociale.html",
+          "first_seen": "2026-11-18"
+        }
+      ]
+    },
     "zemmour": {
       "changed_pages": [
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/avenir-est-a-nous.pdf",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 2,
           "added": []
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/sante.pdf",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 2,
           "added": []
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/mercosur.pdf",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 2,
           "added": []
         },
         {
           "url": "https://www.parti-reconquete.fr/#actualites",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 13,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 19,
           "added": [
+            "On me dit que la sélection, c’est la reproduction des élites. Mon grand-père était cordonnier, mon père avait des ambulances, et personne n’avait le bac chez moi. Je suis pourtant entré à Sciences Po par un concours très sélectif, grâce à l’école des années 60 et 70, qui sélectionnait par le travail et le mérite. C’est pourquoi je veux le retour des méthodes traditionnelles : la lecture…",
+            "Près de 400 millions de chrétiens vivent aujourd’hui là où ils sont persécutés. Au Nigeria, les milices islamistes en ont massacré près de 3 500 en 2025. En France aussi, nos églises sont pillées et les chrétiens agressés : 843 actes antichrétiens en 2025. La France et l’Europe sont nées de la matrice chrétienne. Nous devons garder cette identité pour rester ce que nous sommes.",
             "En 2025, 391 plaintes ont visé des magistrats. Une seule est arrivée devant la commission chargée de les examiner. C’est absolument scandaleux. Les magistrats doivent être responsables comme les autres. C’est pourquoi une faute pourra leur valoir une mise à pied, et dans les cas les plus graves, comme un délinquant libéré qui récidive, le magistrat sera renvoyé.",
             "Mon problème, ce n’est pas le confort des délinquants : c’est la sécurité des Français. La France est l’un des rares pays à ne pas cumuler les peines. Je mettrai fin à cette exception, et un détenu qui se comporte mal verra sa peine prolongée. Je préfère enfermer quelques dizaines de milliers de délinquants pour que des millions de Français vivent en sécurité.",
             "Emmanuel Macron prétend avoir supprimé le numerus clausus, mais il l’a seulement rebaptisé. Pendant ce temps, presque toute la France est devenue un désert médical, alors qu’il n’y a jamais eu autant d’emplois publics. Je remplacerai ce concours par un examen, pour former enfin les médecins dont la France a besoin.",
             "Aujourd’hui, devant les Entrepreneurs et Dirigeants Chrétiens, j’ai rappelé une évidence : notre civilisation a été façonnée par le christianisme, et il nous a légué la liberté. C’est donc aussi en défendant notre civilisation que nous rebâtirons notre prospérité.",
+            "L’effondrement du niveau de l’école est un des drames majeurs de notre pays. Les meilleures écoles du monde ont repris les méthodes françaises que nous avons abandonnées. Je rétablirai le par cœur, la dictée, le calcul mental et la récitation.",
             "« 43 ministères, rien ne le justifie, absolument rien. » Je veux 10 ministres, avec une feuille de route et des indicateurs de résultats connus de tous dès le départ. Si à la fin de l’année ils ne sont pas tenus, au revoir. ⬆️",
             "À Bruxelles, Joseph nous rappelle que Karl Marx a écrit le Manifeste communiste juste en face de ma dédicace. On est en train de laver l’affront de cette pauvre Grand-Place, qui en a vu d’autres !",
             "Pascal a été de gauche et abonné au Monde pendant 50 ans. Après avoir lu Le Casse du siècle, il a changé et votera désormais à droite ! Quelle fierté. ⬆️",
@@ -429,18 +1063,22 @@
             "À samedi, à Toulon ! 👉 https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
             "À Bruxelles, Joseph nous rappelle que Karl Marx a écrit le Manifeste communiste juste ici.",
             "Mon problème n’est pas le confort des délinquants : c’est la sécurité des Français.",
+            "🙃 On me dit que la sélection, c’est la reproduction des élites.",
             "43 ministères, rien ne le justifie, absolument rien."
           ]
         },
         {
           "url": "https://www.parti-reconquete.fr/",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 13,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 19,
           "added": [
+            "On me dit que la sélection, c’est la reproduction des élites. Mon grand-père était cordonnier, mon père avait des ambulances, et personne n’avait le bac chez moi. Je suis pourtant entré à Sciences Po par un concours très sélectif, grâce à l’école des années 60 et 70, qui sélectionnait par le travail et le mérite. C’est pourquoi je veux le retour des méthodes traditionnelles : la lecture…",
+            "Près de 400 millions de chrétiens vivent aujourd’hui là où ils sont persécutés. Au Nigeria, les milices islamistes en ont massacré près de 3 500 en 2025. En France aussi, nos églises sont pillées et les chrétiens agressés : 843 actes antichrétiens en 2025. La France et l’Europe sont nées de la matrice chrétienne. Nous devons garder cette identité pour rester ce que nous sommes.",
             "En 2025, 391 plaintes ont visé des magistrats. Une seule est arrivée devant la commission chargée de les examiner. C’est absolument scandaleux. Les magistrats doivent être responsables comme les autres. C’est pourquoi une faute pourra leur valoir une mise à pied, et dans les cas les plus graves, comme un délinquant libéré qui récidive, le magistrat sera renvoyé.",
             "Mon problème, ce n’est pas le confort des délinquants : c’est la sécurité des Français. La France est l’un des rares pays à ne pas cumuler les peines. Je mettrai fin à cette exception, et un détenu qui se comporte mal verra sa peine prolongée. Je préfère enfermer quelques dizaines de milliers de délinquants pour que des millions de Français vivent en sécurité.",
             "Emmanuel Macron prétend avoir supprimé le numerus clausus, mais il l’a seulement rebaptisé. Pendant ce temps, presque toute la France est devenue un désert médical, alors qu’il n’y a jamais eu autant d’emplois publics. Je remplacerai ce concours par un examen, pour former enfin les médecins dont la France a besoin.",
             "Aujourd’hui, devant les Entrepreneurs et Dirigeants Chrétiens, j’ai rappelé une évidence : notre civilisation a été façonnée par le christianisme, et il nous a légué la liberté. C’est donc aussi en défendant notre civilisation que nous rebâtirons notre prospérité.",
+            "L’effondrement du niveau de l’école est un des drames majeurs de notre pays. Les meilleures écoles du monde ont repris les méthodes françaises que nous avons abandonnées. Je rétablirai le par cœur, la dictée, le calcul mental et la récitation.",
             "« 43 ministères, rien ne le justifie, absolument rien. » Je veux 10 ministres, avec une feuille de route et des indicateurs de résultats connus de tous dès le départ. Si à la fin de l’année ils ne sont pas tenus, au revoir. ⬆️",
             "À Bruxelles, Joseph nous rappelle que Karl Marx a écrit le Manifeste communiste juste en face de ma dédicace. On est en train de laver l’affront de cette pauvre Grand-Place, qui en a vu d’autres !",
             "Pascal a été de gauche et abonné au Monde pendant 50 ans. Après avoir lu Le Casse du siècle, il a changé et votera désormais à droite ! Quelle fierté. ⬆️",
@@ -448,13 +1086,14 @@
             "À samedi, à Toulon ! 👉 https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
             "À Bruxelles, Joseph nous rappelle que Karl Marx a écrit le Manifeste communiste juste ici.",
             "Mon problème n’est pas le confort des délinquants : c’est la sécurité des Français.",
+            "🙃 On me dit que la sélection, c’est la reproduction des élites.",
             "43 ministères, rien ne le justifie, absolument rien."
           ]
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/programme-pour-la-france.pdf",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-18",
+          "removed_blocks": 2,
           "added": []
         }
       ],
