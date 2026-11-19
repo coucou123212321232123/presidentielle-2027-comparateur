@@ -1,36 +1,45 @@
 {
   "since": "2026-11-16",
-  "generated": "2026-11-18",
+  "generated": "2026-11-19",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
   "candidates": {
     "arthaud": {
       "changed_pages": [
         {
           "url": "https://www.nathalie-arthaud.info",
-          "changed_at": "2026-11-18",
+          "changed_at": "2026-11-19",
           "removed_blocks": 0,
           "added": [
             "Meeting régional (Nord de la France) Théâtre de la Mutualité 24 rue Saint-Victor, Paris 5e, métro Maubert-Mutualité.",
+            "Toulouse - Rencontre lycéens-étudiants avec Nathalie Arthaud",
             "Pau - Réunion des jeunes avec Nathalie Arthaud",
             "avec Jean-Pierre Mercier et Nathalie Arthaud"
           ]
         },
         {
           "url": "https://www.lutte-ouvriere.org/portail/index.html",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 13,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 21,
           "added": [
             "Cinq États européens - Autriche, Allemagne, Grèce, Danemark et Pays Bas - viennent de signer un accord pour déporter au Rwanda, en Afrique, des migrants qui ont vu leur demande d’asile refusée et dont le pays de départ ne veut plus. Cette forme de sous-traitance de camps de concentration pour les damnés de la terre, alors que les flux d’arrivée en Europe sont au plus bas depuis dix ans, vise surto",
+            "Sept personnes, interdites de manifester avec assignation à résidence suite aux manifestations du 17 octobre, ont eu gain de cause contre l’État devant le tribunal administratif. Le désaveu prononcé par le tribunal administratif pourrait faire jurisprudence, au profit de soixante manifestants interpellés lors d’événements passés et traités comme des terroristes.",
             "Combien sommes-nous à devoir choisir entre nous chauffer et remplir le caddie ? À économiser quelques euros en sautant un repas ou en renonçant à des déplacements ? Preuve de l’approfondissement de la misère, les antivols se multiplient dans les supermarchés. Même les travailleurs les mieux payés voient fondre leur pouvoir d’achat et craignent pour l’avenir.",
+            "Après avoir annoncé en mai 2026 qu’il comptait sacrifier de nouveau 1 500 emplois, le groupe Michelin vient d’obtenir la validation de cette décision par trois syndicats (CFDT, SUD et CFE-CGC). Cela fait suite aux 1 600 emplois supprimés lors du plan de 2021-2023 et des 1 254 avec la fermeture des deux sites de Vannes et Cholet il y a deux ans.",
             "En France, l’impôt moyen du 0,1 % de super riches a reculé de 9 % en 2025. Les 14 000 foyers les plus aisés auraient ainsi anticipé la mise en place d’un nouvel impôt en 2025, la contribution différentielle sur les hauts revenus (CDHR) ; ils ont déclaré en 2024 un revenu en hausse avant sa prise en compte.",
             "Le ministre de l’Éducation, Geffray, s’est rendu à l’ouverture du lycée Nelson Mandela à Nantes qui avait en partie été brulé au début du mouvement lycéen. Pas rassuré, le ministre s’est fait escorter dans l’enceinte du lycée par une nuée de CRS.",
+            "La radio RFI vient de dévoiler que l’armée française opère en Ukraine au moins depuis l’été 2026. Jusqu’à présent le gouvernement a refusé de reconnaître la réalité de ses propres actions.",
             "L'éditorial en vidéo : Pas d’argent pour les salaires ? Il faut aller voir dans les caisses du patronat !",
             "Pas d’argent pour les salaires ? Il faut aller voir dans les caisses du patronat !",
+            "Les retraites du RN : un projet d'attaque contre les travailleurs",
+            "Le Pen : supprimer Parcoursup en renforçant la sélection au bac",
             "Toulouse - Rencontre lycéens-étudiants avec Nathalie Arthaud",
+            "Présidentielle : Mélenchon passe un entretien d’embauche",
             "Derrière le bleu-blanc-rouge, feu vert pour les patrons",
             "La jeunesse en révolte : un ministre reçu comme il faut",
             "Pau - Réunion des jeunes avec Nathalie Arthaud",
-            "avec Jean-Pierre Mercier et Nathalie Arthaud"
+            "avec Jean-Pierre Mercier et Nathalie Arthaud",
+            "Assignations à résidence : l’État débouté",
+            "Michelin : Non aux suppressions d'emplois"
           ]
         },
         {
@@ -41,8 +50,8 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 3,
           "added": []
         },
         {
@@ -53,8 +62,8 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=10",
-          "changed_at": "2026-11-17",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 2,
           "added": []
         }
       ],
@@ -64,25 +73,38 @@
       "changed_pages": [
         {
           "url": "https://attalpresident.fr/",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 7,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 14,
           "added": [
+            "Ces derniers jours, Gabriel Attal a multiplié les rencontres avec les Français à l occasion de plusieurs réunions publiques organisées à Nice, Marly-le-Roi et La Rochelle. Trois étapes qui s inscrivent dans sa volonté d aller sur le terrain, d échanger directement avec les citoyens et de présenter ses propositions pour l avenir du pays. De la Côte d Azur aux Yvelines, jusqu à la Charente-Maritime,",
             "Invité sur LCI pour le débat « Quelle société pour demain ? » organisé par les Restos du cœur, Gabriel Attal a présenté sa vision d un nouveau modèle social : mieux rémunérer le travail, faciliter l accès au logement, faire de l école la priorité et protéger les plus fragiles.",
+            "Un accompagnement financier direct pour les professionnels dont le métier impose un véhicule, plutôt qu une baisse de taxe générale.",
+            "De Nice à La Rochelle, en passant par Marly-le-Roi : Gabriel Attal continue à multiplier les réunions publiques à travers la France",
             "Un échelon de collectivité en moins et la fin des compétences exercées en double, principale source de surcoûts administratifs.",
+            "Généraliser à l enseignement des mathématiques la méthode de Singapour, qui fait passer l élève du concret à l abstrait.",
+            "Plus de 1 000 élus de différentes sensibilités politiques appellent à l’organisation d’une primaire pour 2027",
             "Augmenter les achats de défense français réalisés en Europe et la même règle défendue au niveau de l Union.",
             "Une amende forfaitaire dès le premier acte de maltraitance animale constaté, sans attendre la récidive.",
             "Une part de capitalisation dans le système de retraite, dont l épargne finance l innovation française.",
             "Ouvrir la comparution immédiate aux mineurs récidivistes, pour que la sanction suive l acte.",
-            "Gabriel Attal sur LCI : réinventer le modèle social pour mieux rémunérer le travail"
+            "Gabriel Attal sur LCI : réinventer le modèle social pour mieux rémunérer le travail",
+            "Une journée par an consacrée à des référendums sur les grands choix du pays.",
+            "Gabriel Attal face aux petits patrons et aux professionnels libéraux sur LCI"
           ]
         },
         {
           "url": "https://attalpresident.fr/actualites",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 8,
           "added": [
+            "Ces derniers jours, Gabriel Attal a multiplié les rencontres avec les Français à l occasion de plusieurs réunions publiques organisées à Nice, Marly-le-Roi et La Rochelle. Trois étapes qui s inscrivent dans sa volonté d aller sur le terrain, d échanger directement avec les citoyens et de présenter ses propositions pour l avenir du pays. De la Côte d Azur aux Yvelines, jusqu à la Charente-Maritime,",
+            "Jeudi 12 novembre, Gabriel Attal était en direct de La Rochelle sur LCI pour échanger avec des artisans, commerçants, chefs de petites entreprises et professionnels libéraux, lors d une émission organisée avec l Union des entreprises de proximité (U2P). Pouvoir d achat, recrutement, simplification, transmission : il a détaillé ses propositions pour mieux rémunérer le travail.",
+            "Plus de 1 000 élus issus de différentes sensibilités politiques lancent un appel commun à l’organisation rapide d’une primaire en vue de l’élection présidentielle de 2027. Leur objectif : rassembler les forces politiques qui refusent un duel entre les extrêmes et permettre l’émergence d’une candidature commune.",
             "Invité sur LCI pour le débat « Quelle société pour demain ? » organisé par les Restos du cœur, Gabriel Attal a présenté sa vision d un nouveau modèle social : mieux rémunérer le travail, faciliter l accès au logement, faire de l école la priorité et protéger les plus fragiles.",
-            "Gabriel Attal sur LCI : réinventer le modèle social pour mieux rémunérer le travail"
+            "De Nice à La Rochelle, en passant par Marly-le-Roi : Gabriel Attal continue à multiplier les réunions publiques à travers la France",
+            "Plus de 1 000 élus de différentes sensibilités politiques appellent à l’organisation d’une primaire pour 2027",
+            "Gabriel Attal sur LCI : réinventer le modèle social pour mieux rémunérer le travail",
+            "Gabriel Attal face aux petits patrons et aux professionnels libéraux sur LCI"
           ]
         }
       ],
@@ -90,6 +112,18 @@
         {
           "url": "https://attalpresident.fr/actualites/gabriel-attal-lci-restos-du-coeur-nouveau-modele-social",
           "first_seen": "2026-11-18"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-petits-patrons-professionnels-liberaux-lci",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/de-nice-a-la-rochelle-gabriel-attal-multiplie-les-reunions-publiques",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/plus-de-1000-elus-appellent-a-une-primaire-pour-2027",
+          "first_seen": "2026-11-19"
         }
       ]
     },
@@ -109,44 +143,45 @@
         },
         {
           "url": "https://www.dupontaignan.fr/",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 54,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 76,
           "added": [
             "Selon Radio France Internationale, des militaires français seraient déjà présents depuis l’été 2026 en Ukraine dans le cadre d’une mission secrète. Pendant que Macron prétend défendre la paix, il engage notre pays toujours plus loin dans un conflit qui n’est pas le nôtre, SANS AUTORISATION PRÉALABLE DU PARLEMENT, pourtant prévue par l’article 35 de la Constitution👇",
             "On aura tout vu. Celui qui a ruiné la France en contractant, comme ministre de l’Économie, plus de 1 000 milliards d’euros de dette vient pérorer dans les matinales. Il devrait plutôt rendre des comptes devant une commission d’enquête sur les pilleurs de la République. ... Voir plus Voir moins",
             "Le Gouvernement informe le Parlement de sa décision de faire intervenir les forces armées à l’étranger, au plus tard trois jours après le début de l’intervention. Il précise les objectifs poursuivis. Cette information peut donner lieu à un débat qui n’est suivi d’aucun vote.",
+            "Croyez-vous vraiment, si je l’emportais, que Gabriel Attal, Bruno Retailleau ou vous-même me soutiendriez pour enfin mener une politique d’indépendance nationale gaullienne en nous libérant de l’Union européenne ?",
             "SCANDALEUX ! Menacer de mort un enseignant est devenu un fait divers presque ordinaire. Quand ceux qui transmettent le savoir doivent craindre pour leur propre sécurité, c’est toute notre société qui s’effondre.",
             "Lorsque la durée de l’intervention excède quatre mois, le Gouvernement soumet sa prolongation à l’autorisation du Parlement. Il peut demander à l’Assemblée nationale de décider en dernier ressort.",
             "Et notre ministre explique qu’il faudra « se battre » pour conserver cet argent ! Tous les agriculteurs se souviennent aussi qu’elle voulait « se battre » contre le MERCOSUR. On a vu le résultat.",
             "Je suis candidat à la présidence de la République pour m’occuper des Français… On aurait pu financer 50 hôpitaux neufs avec les 27 milliards d’euros donnés à l’Ukraine ! ... Voir plus Voir moins",
+            "L’Ukraine ne remboursera jamais cette somme et ce sont encore les Français qui devront payer leur part de 9 milliards d’euros… alors qu’ils en ont déjà versé 27 depuis le début du conflit.",
             "Les autres candidats proposent peut-être des choses très justes… mais ils ne pourront rien en faire s’ils ne reprennent pas le pouvoir sur l’Union européenne ! ... Voir plus Voir moins",
             "413 millions de chrétiens vivent dans des pays où la liberté religieuse est bafouée. Des millions sont persécutés pour leur foi dans l’indifférence générale.",
             "Ce qui devait arriver arrive. Macron, SANS AUTORISATION DU PARLEMENT, précipite la France dans une guerre contre la Russie à la veille de la présidentielle !",
+            "Alors que la France croule déjà sous les impôts, la Cour des comptes envisage de s’attaquer aux intérêts du Livret A, produit d’épargne préféré des Français.",
+            "Fausses cartes vitales, aides aux éoliennes, financement de la guerre en Ukraine, contribution à l’UE : attaquons-nous plutôt aux vrais gaspillages !",
+            "Arrêtons ce bain de sang en proposant la paix, afin de cesser de gaspiller des milliards et faire baisser les prix du gaz ! ... Voir plus Voir moins",
+            "10 ans de pouvoir, une dette qui explose, une France fracturée et un pouvoir d’achat qui s’effondre. Et ses proches osent déjà parler de nostalgie ?",
             "Bruxelles veut retirer 15 milliards d’euros à la France sur la prochaine PAC, alors que cette aide représente 66 % des revenus de nos agriculteurs.",
+            "45 milliards d’euros supplémentaires sous forme de prêt pour l’Ukraine : Ursula von der Leyen propose encore de nouveaux engagements financiers !",
+            "Plus inimaginable encore, comment pourrais-je m’engager à soutenir deux anciens Premiers ministres d’Emmanuel Macron, qui ont ruiné la France ?",
             "Voir les commentaires Like reaction Love reaction Wow reaction Sad reaction Angry reaction Reactions: 353 Partages : 85 Commentaires : 13",
             "Je souhaite tout l’inverse de l’Europe de Bruxelles : des coopérations souples et choisies, entre pays libres ! ... Voir plus Voir moins",
             "Si le Parlement n’est pas en session à l’expiration du délai de quatre mois, il se prononce à l’ouverture de la session suivante. »",
+            "La seule véritable primaire, c’est le premier tour de l’élection présidentielle devant les Français ! 🇫🇷 ... Voir plus Voir moins",
             "Je lance un appel aux Français qui souhaitent voir une candidature différente et libre pour me soutenir ! ... Voir plus Voir moins",
-            "📺 Retrouvez-moi ce soir, à 20h15, dans l’émission \"100% BFM\" sur BFMTV , au micro de Guillaume Daret🎙️ ... Voir plus Voir moins",
-            "www.europe1.fr/societe/sacre-coeur-notre-dame-parlement-europeen-ces-monuments-qui-sallument-en-r... ... Voir plus Voir moins",
-            "www.bfmtv.com/economie/l-europe-veut-donner-7-milliards-de-moins-a-la-france-la-ministre-de-l-agr... ... Voir plus Voir moins",
-            "Voir les commentaires Like reaction Love reaction Haha reaction Angry reaction Reactions: 270 Partages : 43 Commentaires : 30",
-            "Voir les commentaires Like reaction Love reaction Haha reaction Wow reaction Reactions: 248 Partages : 40 Commentaires : 14",
-            "Voir les commentaires Like reaction Wow reaction Sad reaction Angry reaction Reactions: 239 Partages : 73 Commentaires : 20",
-            "Notre-Dame et le Sacré-Cœur illuminés en rouge nous rappellent une réalité que trop de dirigeants préfèrent ignorer.",
-            "RFI révèle la présence de soldats français en Ukraine, en violation totale de l’article 35 de la constitution.",
-            "Voir les commentaires Like reaction Love reaction Haha reaction Reactions: 142 Partages : 31 Commentaires : 11",
-            "📺 Retrouvez-moi ce soir, à 20h15, dans l’émission « 100% BFM » sur @bfmtv, au micro de @guillaumedaret🎙️"
+            "Les Français qui ont travaillé et économisé toute leur vie n’ont pas à payer pour l’incapacité du gouvernement à tenir un budget !"
           ]
         },
         {
           "url": "https://www.debout-la-france.fr/projet/economie-travail/",
-          "changed_at": "2026-11-18",
+          "changed_at": "2026-11-19",
           "removed_blocks": 4,
           "added": [
             "Réindexer les pensions de retraite et les traitements des fonctionnaires sur l’inflation, car l’État doit respecter son engagement vis-à-vis des Français qui ont cotisé toute leur vie professionnelle. Rétablir la possibilité du cumul emploi-retraite entre 62 et 67 ans. L’âge de départ à la retraite restera au niveau actuel de 62 ans et 9 mois.",
             "Le niveau de vie des Français est désormais inférieur à la moyenne de l’Union européenne, selon une étude d’Eurostat publiée en 2026. Dépassée par l’Allemagne, le Danemark ou l’Espagne, la France est même rattrapée par la Pologne.",
-            "Assainir les finances publiques sans faire souffrir les Français"
+            "Assainir les finances publiques sans faire souffrir les Français",
+            "Produire en France et récompenser le travail !"
           ]
         },
         {
@@ -230,10 +265,11 @@
       "changed_pages": [
         {
           "url": "https://www.unenouvelleenergie.fr/notre-programme/",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 4,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 5,
           "added": [
             "Prochains rendez-vous : New York, Lausanne, Levallois-Perret et Rueil-Malmaison",
+            "Prochains rendez-vous : Nîmes, Dublin (irlande), Remiremont et Mulhouse",
             "Prochains rendez-vous : Issy-les-Moulineaux, Créon et Besançon",
             "Le programme de Nouvelle Énergie est-il chiffré ?",
             "Où trouver le programme de Nouvelle Énergie ?"
@@ -241,32 +277,34 @@
         },
         {
           "url": "https://www.unenouvelleenergie.fr/",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 24,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 34,
           "added": [
             "Domy MAZEL-SONNET, Relais Nouvelle Énergie Haute-Garonne, et Ylverick Poulet Relais Jeunes Énergies Haute-Garonne, vous invitent à un afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Mardi 17 Novembre à 19h, à Toulouse La Raffinerie des copains, 161 Avenue Jean Chaubet Infos et contact : hautegaronne@unenouvelleenergie.fr",
             "Mardi 10 novembre, David Lisnard a inauguré le DLive, un nouveau format de rencontre en direct avec les internautes. Pendant plus d’une heure, le président de Nouvelle Énergie a répondu sans détour aux questions des Français, détaillé ses propositions pour redresser le pays et échangé avec un invité surprise. Un rendez-vous inédit, qui sera désormais à retrouver chaque mois.",
             "Gaël Hérault et Aurélien Bertrand, co-relais Nouvelle Énergie Loir-et-Cher, ainsi qu Alexandre Neigel, responsable national des Jeunes Énergies, vous invitent à une réunion publique sur le thème « Jeunesse et éducation ». Mercredi 18 novembre à 19h, à Pruniers-en-Sologne Salle des fêtes Alain Fournier, rue Jean Jaurès Infos et contact : Loiretcher@unenouvelleenergie.fr",
             "Quentin Hoster, directeur général adjoint de Nouvelle Énergie, Charles Hubert-Rebout et Benjamin Landais, co-relais Nouvelle Énergie Hauts-de-Seine, vous invitent à une réunion publique. Mercredi 18 novembre, 18h, à Issy-les-Moulineaux Comptoir d Issy, 2 avenue Victor Cresson, Issy-les-Moulineaux Infos et contact : hautsdeseine@unenouvelleenergie.fr",
             "Il faut reconnaître que le financement des retraites pèse sur les actifs sans faire le procès collectif des retraités, estime le maire de Cannes et candidat à l’élection présidentielle. Il prône un plan de réduction de la dépense publique et l’introduction d’une part de capitalisation. Une tribune de David Lisnard parue dans le Figaro.",
+            "Romain Marsily, directeur général de Nouvelle Énergie, vous donne rendez-vous pour une rencontre et des dédicaces. Co-auteur du livre avec David Lisnard : Les robots, le Pape, l IA et nous Jeudi 19 novembre, 18h, à Remiremont La Coupole, 55 rue Charles de Gaulle Infos et contact : vosges@unenouvelleenergie.fr",
+            "Nouvelle Énergie Haut-Rhin vous invite à un Afterwork, l occasion d évoquer l actualité politique et celle de David Lisnard ainsi que de structurer les actions à venir. Jeudi 19 novembre à 18h30, à Mulhouse Maison Rebberg, 80 avenue de la 1ère Division Blindée Infos et contact : hautrhin@unenouvelleenergie.fr",
             "Hervé Guerin, référent Nouvelle Énergie Créonnais, et Denis Pernin, co-relais Nouvelle Énergie Gironde, vous invitent à une réunion publique. Mercredi 18 novembre, 18h30, à Créon Les Halles de Créon, 17 avenue de l Entre-deux-Mers Infos et contact : gironde@unenouvelleenergie.fr",
             "L équipe Nouvelle Énergie Courbevoie, vous invite à un Afterwork de la 6ème section à Courbevoie. Mardi 17 novembre, 19h, à Courbevoie Dada Bistrot, 18 bis rue de Bezons, 92400 Courbevoie Infos et contact : hautsdeseine@unenouvelleenergie.fr",
             "Étienne Arnoux, Co-relais Nouvelle Énergie Suisse, vous invite à un Afterwork à Lausanne. Mardi 17 novembre, 18h30, à Lausanne Bar du Château d Ouchy, Place du Port RSVP : +41 76 451 04 17 (WhatsApp) ou suisse@unenouvelleenergie.fr",
+            "Maxime Cairoche, relais Jeunes Énergies Gard, vous invite au Beaujolais Jeunes Énergies. Jeudi 19 novembre, 17h30, à Nîmes Mas de la Barben, Km 7, route de Sauve, Nîmes Infos et contact : jeunesenergies@unenouvelleenergie.fr",
             "Afterwork Nouvelle Énergie à Créon, le mercredi 18 novembre à 18h30 aux Halles de Créon, avec Hervé Guerin, référent Nouvelle Énergie Créonnais, et Denis Pernin, co-relais Nouvelle Énergie 33.",
             "Nouvelle Énergie Français de l étranger vous invite à un afterwork à New York, le mardi 17 novembre à 18h (heure locale) à Empire State of Wine.",
+            "Nouvelle Énergie vous invite à une réunion publique à Dublin. Jeudi 19 novembre à 18h, Bill Aherne s, 22 Aston Quay.",
             "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE LOIR-ET-CHER : JEUNESSE ET ÉDUCATION",
             "« Pour une réforme des retraites qui réconcilie les générations »",
             "Salle des fêtes Alain Fournier, PRUNIERS-EN-SOLOGNE, LOIR-ET-CHER",
             "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE 92 : ISSY-LES-MOULINEAUX",
+            "RENCONTRE & DÉDICACES AVEC ROMAIN MARSILY : REMIREMONT",
             "Comptoir d Issy, ISSY-LES-MOULINEAUX, HAUTS-DE-SEINE",
+            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE IRLANDE : DUBLIN",
             "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE GIRONDE : CRÉON",
             "Empire State of Wine, New York, NY (États-Unis)",
             "AFTERWORK NOUVELLE ÉNERGIE SUISSE - LAUSANNE",
-            "AFTERWORK NOUVELLE ÉNERGIE 92 : COURBEVOIE",
-            "Afterwork Nouvelle Énergie Gironde - Créon",
-            "Bar du Château d Ouchy, LAUSANNE, SUISSE",
-            "AFTERWORK NOUVELLE ÉNERGIE HAUTE-GARONNE",
-            "Dada Bistrot, COURBEVOIE, HAUTS-DE-SEINE"
+            "AFTERWORK NOUVELLE ÉNERGIE 92 : COURBEVOIE"
           ]
         },
         {
@@ -386,6 +424,18 @@
           "first_seen": "2026-11-17"
         },
         {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-adherents-nouvelle-energie-morbihan-baud/",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-adherents-nouvelle-energie-liban-badaro/",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/apero-rencontre-nouvelle-energie-etats-unis-dallas/",
+          "first_seen": "2026-11-19"
+        },
+        {
           "url": "https://www.unenouvelleenergie.fr/event/afterwork-jeunes-energies-bouches-du-rhone-aix-en-provence/",
           "first_seen": "2026-11-17"
         },
@@ -408,10 +458,6 @@
         {
           "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-australie-sydney/",
           "first_seen": "2026-11-17"
-        },
-        {
-          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-hauts-de-seine-levallois-perret/",
-          "first_seen": "2026-11-17"
         }
       ]
     },
@@ -419,101 +465,128 @@
       "changed_pages": [
         {
           "url": "https://lafranceinsoumise.fr/actualites/",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 3,
           "added": [
             "Sommet de la Francophonie : le fiasco de Macron, l’urgence d’une Francophonie des peuples",
+            "Hors série du Répertoire des radicalités concrètes, Un semestre de communalisme.",
             "Désignation des chef·fes de file - Élections législatives 2027"
           ]
         }
       ],
-      "new_pages": [
-        {
-          "url": "https://lafranceinsoumise.fr/2017/07/27/video-nationalisation-de-stx-letat-a-devoir/",
-          "first_seen": "2026-11-18"
-        }
-      ]
+      "new_pages": []
     },
     "philippe": {
       "changed_pages": [
         {
           "url": "https://www.edouardphilippe.fr/",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 4,
           "added": [
+            "Sécurité, justice, comptes publics, école, travail, logement, famille ou encore intelligence artificielle… Édouard Philippe a fait de nombreuses propositions depuis le début de la campagne.",
             "Ce mercredi 18 novembre, Édouard Philippe présentera, lors d’une conférence de presse, le premier volume de son programme pour l’élection présidentielle.",
+            "Édouard Philippe présente son programme et dévoile les Voix de la campagne",
             "Édouard Philippe présente le premier volume de son programme présidentiel",
             "12 décembre Cesson-Sévigné Je m’inscris →"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/actualites",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 5,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 9,
           "added": [
             "17 novembre 2026 · Conférence de presse Édouard Philippe présente le premier volume de son programme présidentiel 7 novembre 2026 · BFMTV BFMTV – Édouard Philippe veut répondre à l’angoisse du déclassement 6 novembre 2026 · La Provence LA PROVENCE – Édouard Philippe échange avec des lycéens et des lecteurs 1er novembre 2026 · TF1 TF1 – Édouard Philippe défend le travail, la responsabilité et l’uni",
             "18 octobre 2026 · BFMTV et Le Figaro BFMTV – Édouard Philippe veut faire payer les dégâts aux casseurs 15 octobre 2026 · Réunion d’appartement École : Édouard Philippe défend l’exigence et la liberté des équipes 15 octobre 2026 · La Voix du Nord LA VOIX DU NORD – Édouard Philippe alerte sur l’avenir de l’automobile française 13 octobre 2026 · Sommet de POLITICO Au sommet de POLITICO, Édouard Phili",
+            "18 novembre 2026 · Conférence de presse Édouard Philippe présente son programme et dévoile les Voix de la campagne 17 novembre 2026 · Conférence de presse Édouard Philippe présente le premier volume de son programme présidentiel 7 novembre 2026 · BFMTV BFMTV – Édouard Philippe veut répondre à l’angoisse du déclassement 6 novembre 2026 · La Provence LA PROVENCE – Édouard Philippe échange avec des l",
+            "21 octobre 2026 · France 2, Les 4 Vérités FRANCE 2 – Édouard Philippe veut donner plus de pouvoirs aux policiers municipaux 18 octobre 2026 · BFMTV et Le Figaro BFMTV – Édouard Philippe veut faire payer les dégâts aux casseurs 15 octobre 2026 · Réunion d’appartement École : Édouard Philippe défend l’exigence et la liberté des équipes 15 octobre 2026 · La Voix du Nord LA VOIX DU NORD – Édouard Phil",
             "1er oct. Haute-Savoie – Édouard Philippe défend un État capable de protéger Au congrès national des sapeurs-pompiers à La Roche-sur-Foron, Édouard Philippe a remercié les pompiers. L’été a été marqué par des mégafeux : 98 000 hectares ont brûlé depuis janvier et quatre pompiers sont morts.",
+            "18 novembre 2026 Édouard Philippe présente son programme et dévoile les Voix de la campagne Sécurité, justice, comptes publics, école, travail, logement, famille ou encore intelligence artificielle… Édouard Philippe a fait de nombreuses propositions depuis le début de la campagne.",
             "17 novembre 2026 Édouard Philippe présente le premier volume de son programme présidentiel Ce mercredi 18 novembre, Édouard Philippe présentera, lors d’une conférence de presse, le premier volume de son programme pour l’élection présidentielle.",
-            "9 novembre 2026 À Chartres, Édouard Philippe défend une République qui donne sa chance à chacun"
+            "9 novembre 2026 À Chartres, Édouard Philippe défend une République qui donne sa chance à chacun",
+            "17 novembre 2026 Édouard Philippe présente le premier volume de son programme présidentiel"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
-          "changed_at": "2026-11-18",
+          "changed_at": "2026-11-19",
           "removed_blocks": 4,
           "added": [
+            "J’accepte que mes informations soient utilisées pour m’envoyer le livret du programme, conformément à la politique de confidentialité . * Télécharger le livret Télécharger le livret ↓",
+            "Les propositions d’Édouard Philippe réunies dans un livret à lire, à imprimer et à partager.",
+            "Indiquez vos coordonnées : le téléchargement démarre dès l’envoi du formulaire.",
+            "Le téléchargement commence. Nous vous avons aussi envoyé le lien par e-mail.",
             "Déficit ramené sous 2,5 % de la richesse nationale",
             "30 000 places de prison pour les peines courtes",
             "Rétablissement du service national obligatoire",
+            "Télécharger à nouveau Télécharger à nouveau ↓",
             "Un nouveau statut d’école publique autonome",
             "Division par deux de l’immigration légale"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
-          "changed_at": "2026-11-18",
+          "changed_at": "2026-11-19",
           "removed_blocks": 4,
           "added": [
+            "J’accepte que mes informations soient utilisées pour m’envoyer le livret du programme, conformément à la politique de confidentialité . * Télécharger le livret Télécharger le livret ↓",
+            "Les propositions d’Édouard Philippe réunies dans un livret à lire, à imprimer et à partager.",
+            "Indiquez vos coordonnées : le téléchargement démarre dès l’envoi du formulaire.",
+            "Le téléchargement commence. Nous vous avons aussi envoyé le lien par e-mail.",
             "Déficit ramené sous 2,5 % de la richesse nationale",
             "30 000 places de prison pour les peines courtes",
             "Rétablissement du service national obligatoire",
+            "Télécharger à nouveau Télécharger à nouveau ↓",
             "Un nouveau statut d’école publique autonome",
             "Division par deux de l’immigration légale"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
-          "changed_at": "2026-11-18",
+          "changed_at": "2026-11-19",
           "removed_blocks": 4,
           "added": [
+            "J’accepte que mes informations soient utilisées pour m’envoyer le livret du programme, conformément à la politique de confidentialité . * Télécharger le livret Télécharger le livret ↓",
+            "Les propositions d’Édouard Philippe réunies dans un livret à lire, à imprimer et à partager.",
+            "Indiquez vos coordonnées : le téléchargement démarre dès l’envoi du formulaire.",
+            "Le téléchargement commence. Nous vous avons aussi envoyé le lien par e-mail.",
             "Déficit ramené sous 2,5 % de la richesse nationale",
             "30 000 places de prison pour les peines courtes",
             "Rétablissement du service national obligatoire",
+            "Télécharger à nouveau Télécharger à nouveau ↓",
             "Un nouveau statut d’école publique autonome",
             "Division par deux de l’immigration légale"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
-          "changed_at": "2026-11-18",
+          "changed_at": "2026-11-19",
           "removed_blocks": 4,
           "added": [
+            "J’accepte que mes informations soient utilisées pour m’envoyer le livret du programme, conformément à la politique de confidentialité . * Télécharger le livret Télécharger le livret ↓",
+            "Les propositions d’Édouard Philippe réunies dans un livret à lire, à imprimer et à partager.",
+            "Indiquez vos coordonnées : le téléchargement démarre dès l’envoi du formulaire.",
+            "Le téléchargement commence. Nous vous avons aussi envoyé le lien par e-mail.",
             "Déficit ramené sous 2,5 % de la richesse nationale",
             "30 000 places de prison pour les peines courtes",
             "Rétablissement du service national obligatoire",
+            "Télécharger à nouveau Télécharger à nouveau ↓",
             "Un nouveau statut d’école publique autonome",
             "Division par deux de l’immigration légale"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/programme",
-          "changed_at": "2026-11-18",
+          "changed_at": "2026-11-19",
           "removed_blocks": 4,
           "added": [
+            "J’accepte que mes informations soient utilisées pour m’envoyer le livret du programme, conformément à la politique de confidentialité . * Télécharger le livret Télécharger le livret ↓",
+            "Les propositions d’Édouard Philippe réunies dans un livret à lire, à imprimer et à partager.",
+            "Indiquez vos coordonnées : le téléchargement démarre dès l’envoi du formulaire.",
+            "Le téléchargement commence. Nous vous avons aussi envoyé le lien par e-mail.",
             "Déficit ramené sous 2,5 % de la richesse nationale",
             "30 000 places de prison pour les peines courtes",
             "Rétablissement du service national obligatoire",
+            "Télécharger à nouveau Télécharger à nouveau ↓",
             "Un nouveau statut d’école publique autonome",
             "Division par deux de l’immigration légale"
           ]
@@ -896,6 +969,10 @@
           "first_seen": "2026-11-18"
         },
         {
+          "url": "https://www.edouardphilippe.fr/actualites/edouard-philippe-presente-son-programme-et-devoile-les-voix-de-la-campagne",
+          "first_seen": "2026-11-19"
+        },
+        {
           "url": "https://www.edouardphilippe.fr/actualites/edouard-philippe-presente-le-premier-volume-de-son-programme-presidentiel",
           "first_seen": "2026-11-18"
         }
@@ -907,6 +984,54 @@
         {
           "url": "https://www.pcf.fr/communistes_1109",
           "first_seen": "2026-11-18"
+        },
+        {
+          "url": "https://www.pcf.fr/le_rn_veut_attaquer_nos_retraites",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.pcf.fr/soiree_fraternite_humaine",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.pcf.fr/madrid_pcf_reaffirme_engagement_aux_cotes_peuple_sahraoui",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.pcf.fr/la_demassification_ou_le_choix_de_la_fatalite",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.pcf.fr/serie_1936_40",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.pcf.fr/amboise_celebre_front_populaire",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.pcf.fr/olga_bancic_la_partisane",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.pcf.fr/1711_un_mois_de_mobilisation_et_toujours_memes_urgences",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.pcf.fr/plaidoyer_pour_la_paix",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.pcf.fr/debandade_billet_gerard_streiff",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.pcf.fr/stop_au_commerce_avec_les_colonies_israeliennes",
+          "first_seen": "2026-11-19"
+        },
+        {
+          "url": "https://www.pcf.fr/cpmm_oye_distribution_defendre_la_distribution_de_la_presse_cest_defendre_la_liberte_dinformer",
+          "first_seen": "2026-11-19"
         },
         {
           "url": "https://www.pcf.fr/soldats_francais_en_ukraine_stop_lescalade_et_lopacite",
@@ -937,11 +1062,13 @@
         },
         {
           "url": "https://nouspresident.fr",
-          "changed_at": "2026-11-17",
+          "changed_at": "2026-11-19",
           "removed_blocks": 0,
           "added": [
             "Nos logiciels, notre cloud, nos réseaux sociaux et bientôt nos intelligences artificielles sont entre les mains d’une poignée de géants américains. Sous les gouvernements d’Emmanuel Macron, la France est devenue une colonie numérique : 50 milliards d’euros versés chaque année aux fournisseurs américains, des data centers imposés aux territoires, une IA déployée à marche forcée sans que personne ne",
-            "DE la colonie numérique aux souverainetés numériques"
+            "La jeunesse est devenue l’âge des renoncements : renoncer à des études faute de moyens, à un logement faute de revenus, à un emploi stable, parfois même à se nourrir ou à se soigner. Nous refusons que l’avenir de toute une génération soit sacrifié.",
+            "DE la colonie numérique aux souverainetés numériques",
+            "REDONNER AUX JEUNES LES CLEFS DE LEUR AVENIR"
           ]
         }
       ],
@@ -960,18 +1087,22 @@
       "changed_pages": [
         {
           "url": "https://marinetondelier.fr",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 0,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 1,
           "added": [
-            "Épisode 50 - Investir dans l’enseignement supérieur et la recherche"
+            "Les Écologistes appellent l’ensemble des français·es à rejoindre les journées de grève et de mobilisation portées par l’intersyndicale..",
+            "Retrouvez notre doctrine sur l'Europe dans un entretien de Marine au Grand Continent.",
+            "Épisode 50 - Investir dans l’enseignement supérieur et la recherche",
+            "Épisode 51 - À Arcueil contre la précarité énergétique"
           ]
         },
         {
           "url": "https://marinetondelier.fr/journal-de-campagne",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 2,
           "added": [
-            "Épisode 50 - Investir dans l’enseignement supérieur et la recherche"
+            "Épisode 50 - Investir dans l’enseignement supérieur et la recherche",
+            "Épisode 51 - À Arcueil contre la précarité énergétique"
           ]
         }
       ],
@@ -1046,48 +1177,66 @@
         },
         {
           "url": "https://www.parti-reconquete.fr/#actualites",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 19,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 26,
           "added": [
+            "Avec la loi sur l’euthanasie et le suicide assisté, on nous a parlé d’aide à mourir, mais en suivant les débats, j’ai compris qu’il ne s’agissait pas de laisser mourir les gens : il s’agissait de les faire mourir. Cette loi a ouvert la boîte de Pandore. C’est pourquoi, Président, je l’abolirai, je rétablirai la loi Leonetti, qui était une très bonne loi, et je donnerai enfin aux soins palliatifs…",
             "On me dit que la sélection, c’est la reproduction des élites. Mon grand-père était cordonnier, mon père avait des ambulances, et personne n’avait le bac chez moi. Je suis pourtant entré à Sciences Po par un concours très sélectif, grâce à l’école des années 60 et 70, qui sélectionnait par le travail et le mérite. C’est pourquoi je veux le retour des méthodes traditionnelles : la lecture…",
             "Près de 400 millions de chrétiens vivent aujourd’hui là où ils sont persécutés. Au Nigeria, les milices islamistes en ont massacré près de 3 500 en 2025. En France aussi, nos églises sont pillées et les chrétiens agressés : 843 actes antichrétiens en 2025. La France et l’Europe sont nées de la matrice chrétienne. Nous devons garder cette identité pour rester ce que nous sommes.",
+            "« Vous, M. Lombard, qui avez été banquier pendant longtemps, n’oseriez pas proposer à des clients une épargne bloquée sur 43 ans avec un rendement nul, sinon on aurait appelé ça une escroquerie. » C’est exactement ce que la France impose à chaque Français avec la retraite par répartition. Je veux passer à la capitalisation pour que votre travail vous enrichisse enfin. ⤵️",
             "En 2025, 391 plaintes ont visé des magistrats. Une seule est arrivée devant la commission chargée de les examiner. C’est absolument scandaleux. Les magistrats doivent être responsables comme les autres. C’est pourquoi une faute pourra leur valoir une mise à pied, et dans les cas les plus graves, comme un délinquant libéré qui récidive, le magistrat sera renvoyé.",
             "Mon problème, ce n’est pas le confort des délinquants : c’est la sécurité des Français. La France est l’un des rares pays à ne pas cumuler les peines. Je mettrai fin à cette exception, et un détenu qui se comporte mal verra sa peine prolongée. Je préfère enfermer quelques dizaines de milliers de délinquants pour que des millions de Français vivent en sécurité.",
             "Emmanuel Macron prétend avoir supprimé le numerus clausus, mais il l’a seulement rebaptisé. Pendant ce temps, presque toute la France est devenue un désert médical, alors qu’il n’y a jamais eu autant d’emplois publics. Je remplacerai ce concours par un examen, pour former enfin les médecins dont la France a besoin.",
             "Aujourd’hui, devant les Entrepreneurs et Dirigeants Chrétiens, j’ai rappelé une évidence : notre civilisation a été façonnée par le christianisme, et il nous a légué la liberté. C’est donc aussi en défendant notre civilisation que nous rebâtirons notre prospérité.",
+            "Le pouvoir d’achat, ce n’est pas ce que l’État vous donne. C’est ce que l’État ne vous prend pas. Je supprimerai la CSG d’activité : 10 % de salaire net en plus pour tous. Et je baisserai les taxes sur l’essence : 40 centimes de moins par litre.",
             "L’effondrement du niveau de l’école est un des drames majeurs de notre pays. Les meilleures écoles du monde ont repris les méthodes françaises que nous avons abandonnées. Je rétablirai le par cœur, la dictée, le calcul mental et la récitation.",
             "« 43 ministères, rien ne le justifie, absolument rien. » Je veux 10 ministres, avec une feuille de route et des indicateurs de résultats connus de tous dès le départ. Si à la fin de l’année ils ne sont pas tenus, au revoir. ⬆️",
             "À Bruxelles, Joseph nous rappelle que Karl Marx a écrit le Manifeste communiste juste en face de ma dédicace. On est en train de laver l’affront de cette pauvre Grand-Place, qui en a vu d’autres !",
             "Pascal a été de gauche et abonné au Monde pendant 50 ans. Après avoir lu Le Casse du siècle, il a changé et votera désormais à droite ! Quelle fierté. ⬆️",
+            "Si je suis dans cette primaire, ce sera une primaire de droite. Si je n’en suis pas, ce sera une primaire du bloc central. Les choses sont assez simples.",
+            "🎮 Pour les plus impatients, en attendant la sortie de GTA VI. ↑ ↑ ↓ ↓ ← → ← → B A ericzemmour.fr",
             "École, industrie, civilisation : Eric Zemmour face aux Entrepreneurs et Dirigeants Chrétiens.",
             "À samedi, à Toulon ! 👉 https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
             "À Bruxelles, Joseph nous rappelle que Karl Marx a écrit le Manifeste communiste juste ici.",
+            "Éric Zemmour sur CNews : Primaire de la droite, pouvoir d’achat et présidentielle 2027 !",
             "Mon problème n’est pas le confort des délinquants : c’est la sécurité des Français.",
+            "Je veux passer à la capitalisation pour que votre travail vous enrichisse enfin.",
+            "💶 Je supprimerai la CSG d’activité : 10 % de salaire net en plus pour tous.",
             "🙃 On me dit que la sélection, c’est la reproduction des élites.",
-            "43 ministères, rien ne le justifie, absolument rien."
+            "Si je suis dans cette primaire, ce sera une primaire de droite.",
+            "Je veux vous parler des chrétiens persécutés dans le monde."
           ]
         },
         {
           "url": "https://www.parti-reconquete.fr/",
-          "changed_at": "2026-11-18",
-          "removed_blocks": 19,
+          "changed_at": "2026-11-19",
+          "removed_blocks": 26,
           "added": [
+            "Avec la loi sur l’euthanasie et le suicide assisté, on nous a parlé d’aide à mourir, mais en suivant les débats, j’ai compris qu’il ne s’agissait pas de laisser mourir les gens : il s’agissait de les faire mourir. Cette loi a ouvert la boîte de Pandore. C’est pourquoi, Président, je l’abolirai, je rétablirai la loi Leonetti, qui était une très bonne loi, et je donnerai enfin aux soins palliatifs…",
             "On me dit que la sélection, c’est la reproduction des élites. Mon grand-père était cordonnier, mon père avait des ambulances, et personne n’avait le bac chez moi. Je suis pourtant entré à Sciences Po par un concours très sélectif, grâce à l’école des années 60 et 70, qui sélectionnait par le travail et le mérite. C’est pourquoi je veux le retour des méthodes traditionnelles : la lecture…",
             "Près de 400 millions de chrétiens vivent aujourd’hui là où ils sont persécutés. Au Nigeria, les milices islamistes en ont massacré près de 3 500 en 2025. En France aussi, nos églises sont pillées et les chrétiens agressés : 843 actes antichrétiens en 2025. La France et l’Europe sont nées de la matrice chrétienne. Nous devons garder cette identité pour rester ce que nous sommes.",
+            "« Vous, M. Lombard, qui avez été banquier pendant longtemps, n’oseriez pas proposer à des clients une épargne bloquée sur 43 ans avec un rendement nul, sinon on aurait appelé ça une escroquerie. » C’est exactement ce que la France impose à chaque Français avec la retraite par répartition. Je veux passer à la capitalisation pour que votre travail vous enrichisse enfin. ⤵️",
             "En 2025, 391 plaintes ont visé des magistrats. Une seule est arrivée devant la commission chargée de les examiner. C’est absolument scandaleux. Les magistrats doivent être responsables comme les autres. C’est pourquoi une faute pourra leur valoir une mise à pied, et dans les cas les plus graves, comme un délinquant libéré qui récidive, le magistrat sera renvoyé.",
             "Mon problème, ce n’est pas le confort des délinquants : c’est la sécurité des Français. La France est l’un des rares pays à ne pas cumuler les peines. Je mettrai fin à cette exception, et un détenu qui se comporte mal verra sa peine prolongée. Je préfère enfermer quelques dizaines de milliers de délinquants pour que des millions de Français vivent en sécurité.",
             "Emmanuel Macron prétend avoir supprimé le numerus clausus, mais il l’a seulement rebaptisé. Pendant ce temps, presque toute la France est devenue un désert médical, alors qu’il n’y a jamais eu autant d’emplois publics. Je remplacerai ce concours par un examen, pour former enfin les médecins dont la France a besoin.",
             "Aujourd’hui, devant les Entrepreneurs et Dirigeants Chrétiens, j’ai rappelé une évidence : notre civilisation a été façonnée par le christianisme, et il nous a légué la liberté. C’est donc aussi en défendant notre civilisation que nous rebâtirons notre prospérité.",
+            "Le pouvoir d’achat, ce n’est pas ce que l’État vous donne. C’est ce que l’État ne vous prend pas. Je supprimerai la CSG d’activité : 10 % de salaire net en plus pour tous. Et je baisserai les taxes sur l’essence : 40 centimes de moins par litre.",
             "L’effondrement du niveau de l’école est un des drames majeurs de notre pays. Les meilleures écoles du monde ont repris les méthodes françaises que nous avons abandonnées. Je rétablirai le par cœur, la dictée, le calcul mental et la récitation.",
             "« 43 ministères, rien ne le justifie, absolument rien. » Je veux 10 ministres, avec une feuille de route et des indicateurs de résultats connus de tous dès le départ. Si à la fin de l’année ils ne sont pas tenus, au revoir. ⬆️",
             "À Bruxelles, Joseph nous rappelle que Karl Marx a écrit le Manifeste communiste juste en face de ma dédicace. On est en train de laver l’affront de cette pauvre Grand-Place, qui en a vu d’autres !",
             "Pascal a été de gauche et abonné au Monde pendant 50 ans. Après avoir lu Le Casse du siècle, il a changé et votera désormais à droite ! Quelle fierté. ⬆️",
+            "Si je suis dans cette primaire, ce sera une primaire de droite. Si je n’en suis pas, ce sera une primaire du bloc central. Les choses sont assez simples.",
+            "🎮 Pour les plus impatients, en attendant la sortie de GTA VI. ↑ ↑ ↓ ↓ ← → ← → B A ericzemmour.fr",
             "École, industrie, civilisation : Eric Zemmour face aux Entrepreneurs et Dirigeants Chrétiens.",
             "À samedi, à Toulon ! 👉 https://my.weezevent.com/meeting-deric-zemmour-lancement-de-campagne",
             "À Bruxelles, Joseph nous rappelle que Karl Marx a écrit le Manifeste communiste juste ici.",
+            "Éric Zemmour sur CNews : Primaire de la droite, pouvoir d’achat et présidentielle 2027 !",
             "Mon problème n’est pas le confort des délinquants : c’est la sécurité des Français.",
+            "Je veux passer à la capitalisation pour que votre travail vous enrichisse enfin.",
+            "💶 Je supprimerai la CSG d’activité : 10 % de salaire net en plus pour tous.",
             "🙃 On me dit que la sélection, c’est la reproduction des élites.",
-            "43 ministères, rien ne le justifie, absolument rien."
+            "Si je suis dans cette primaire, ce sera une primaire de droite.",
+            "Je veux vous parler des chrétiens persécutés dans le monde."
           ]
         },
         {
