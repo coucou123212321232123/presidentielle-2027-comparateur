@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-20",
+  "routine": "election-contexte-chiffrages",
+  "results": "Étape R non applicable avant le 2027-04-18.",
+  "changes": [
+    {
+      "id": "ctx-inflation",
+      "kind": "update_context",
+      "file": "src/data/context.json",
+      "theme": "economie",
+      "label": "Inflation sur un an",
+      "old": {
+        "value": "3,4 %",
+        "detail": "Octobre 2026, estimation provisoire ; prix de l'énergie : +24,1 % sur un an.",
+        "date": "2026-10-30",
+        "source_url": "https://www.insee.fr/fr/statistiques/9107965"
+      },
+      "data": {
+        "label": "Inflation sur un an",
+        "value": "3,4 %",
+        "detail": "Octobre 2026, résultats définitifs ; prix de l'énergie : +24,1 % sur un an.",
+        "date": "2026-11-13",
+        "source_label": "Insee – Indice des prix à la consommation, résultats définitifs, octobre 2026",
+        "source_url": "https://www.insee.fr/fr/statistiques/9131332"
+      },
+      "evidence": [
+        {
+          "url": "https://www.insee.fr/fr/statistiques/9131332",
+          "excerpt": "variation sur un an : +3,4 %"
+        },
+        {
+          "url": "https://www.insee.fr/fr/statistiques/9131332",
+          "excerpt": "les prix de l’énergie accélèrent de nouveau : +24,1 % en octobre 2026"
+        },
+        {
+          "url": "https://www.insee.fr/fr/statistiques/9131332",
+          "excerpt": "résultats définitifs (IPC) - octobre 2026 … Paru le 13/11/2026"
+        }
+      ],
+      "reason": "Publication des résultats définitifs d'octobre par la même source (valeur provisoire confirmée).",
+      "decision": "accepte"
+    }
+  ],
+  "hatvp": {
+    "result": "aucun changement",
+    "detail": "liste.csv téléchargée le 2026-11-20 : 9 candidats avec page (attal, bertrand, dupont-aignan, glucksmann, le-pen, lisnard, philippe, retailleau, ruffin), mêmes identifiants et qualités ; 9 fiches répondent HTTP 200. Aucune page pour arthaud, melenchon, roussel, tondelier, villepin, zemmour. Type « president » : seulement Emmanuel Macron (2022)."
+  },
+  "parrainages": {
+    "result": "aucun changement",
+    "detail": "conseil-constitutionnel.fr/election-presidentielle-2027 : HTTP 404 ; aucun lien 2027 sur la page d'accueil ; source.json inchangé ; fetch-parrainages non lancé (csv_url null)."
+  },
+  "context_not_proposed": "SMIC : revalorisation du 1er décembre 2026 pas encore en vigueur. Détenus au 1er novembre : aucun fichier trouvé sur la page officielle du ministère de la Justice (adresses devinées non utilisées). Dette (T3 attendu fin décembre), chômage (T3 déjà intégré), PIB, PO/déficit, RTE, DREES, Citepa, fécondité : pas de valeur plus récente relevée.",
+  "calendar": {
+    "result": "aucun changement",
+    "detail": "Aucun décret de convocation ni date officielle d'ouverture des parrainages ou de la campagne trouvés sur source officielle (info.gouv.fr et elections.interieur.gouv.fr : HTTP 403 ; Légifrance : aucun décret 2027). Dates existantes inchangées."
+  },
+  "debates": {
+    "result": "aucun ajout",
+    "detail": "Recherches groupées pour les 15 candidats : aucun nouveau débat annoncé depuis le 2026-11-13. Débat du 16/11/2026 tenu avec les cinq participants prévus (Toute l'Europe, LCP). Diffusion TF1 + LCI selon Toute l'Europe, LCI seule selon LCP : divergence non résolue, entrée existante (LCI) laissée inchangée."
+  },
+  "independent": {
+    "result": "aucun changement",
+    "detail": "Institut Montaigne (annoncé T1 2027) inchangé. Cour des comptes 9/11/2026 : catalogue d'économies, pas une évaluation des programmes. Terra Nova : note sur l'électorat, hors sujet. iFRAP, OFCE, IPP, Fipeco, Molinari, Rexecode, Jean-Jaurès : rien de nouveau trouvé (recherche non exhaustive)."
+  },
+  "verification": "Contre-vérification par un sous-agent distinct : 1 accepté, 0 rejeté."
+}

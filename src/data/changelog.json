@@ -596,5 +596,17 @@
         "text": "Budget de la Sécurité sociale 2026 : vote définitif (scrutin du 16 décembre 2025) : explication ajoutée (arguments du camp contre)"
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "summary": "Chiffres de contexte : inflation d'octobre 2026, résultats définitifs (Insee).",
+    "accepted": 1,
+    "rejected": 0,
+    "changes": [
+      {
+        "candidate": "Chiffres de contexte",
+        "text": "Inflation sur un an : 3,4 % en octobre 2026, résultats définitifs (Insee), valeur provisoire confirmée."
+      }
+    ]
   }
 ]

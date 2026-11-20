@@ -1,10 +1,10 @@
 {
-  "checked": "2026-11-13",
+  "checked": "2026-11-20",
   "themes": {
     "economie": [
       { "label": "Dette publique", "value": "119,0 % du PIB", "detail": "3 595,5 Md€ fin juin 2026.", "date": "2026-09-29", "source_label": "Insee – Dette trimestrielle de Maastricht, 2e trimestre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9053525" },
       { "label": "PIB (richesse produite en 2025)", "value": "2 991,1 Md€", "detail": "Produit intérieur brut en valeur : 1 % du PIB représente donc environ 30 Md€.", "date": "2026-05-29", "source_label": "Insee Première n° 2105 – Les comptes de la Nation en 2025", "source_url": "https://www.insee.fr/fr/statistiques/8996855" },
-      { "label": "Inflation sur un an", "value": "3,4 %", "detail": "Octobre 2026, estimation provisoire ; prix de l'énergie : +24,1 % sur un an.", "date": "2026-10-30", "source_label": "Insee – Indice des prix à la consommation, résultats provisoires, octobre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9107965" },
+      { "label": "Inflation sur un an", "value": "3,4 %", "detail": "Octobre 2026, résultats définitifs ; prix de l'énergie : +24,1 % sur un an.", "date": "2026-11-13", "source_label": "Insee – Indice des prix à la consommation, résultats définitifs, octobre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9131332" },
       { "label": "SMIC net mensuel", "value": "1 477,93 €", "detail": "Pour 35 heures par semaine, depuis la revalorisation du 1er juin 2026 (montant net estimé).", "date": "2026-06-01", "source_label": "info.gouv.fr – Le SMIC revalorisé le 1er juin 2026", "source_url": "https://www.info.gouv.fr/index.php/actualite/le-smic-revalorise-le-1er-juin-2026" }
     ],
     "fiscalite": [
