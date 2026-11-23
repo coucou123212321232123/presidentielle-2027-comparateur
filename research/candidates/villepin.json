@@ -72,12 +72,12 @@
     }
   ],
   "program": {
-    "title": "Projet France 2027",
-    "main_url": "https://lafrancehumaniste.fr/france2027.html",
+    "title": "Réussir à nouveau : le programme de Dominique de Villepin pour 2027",
+    "main_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/",
     "format": "page_web",
     "published_date": null,
-    "status": "partiel",
-    "note": "Projet présenté par La France humaniste comme « en construction ». La page Projet France 2027 réunit un texte socle (discours de la Sorbonne, 27 mars 2026), un « Projet économique » de 20 propositions chiffrées (page non datée, absente des archives consultées) et huit « chantiers » publiés sous forme de chroniques signées par Dominique de Villepin entre février et septembre 2026 (éducation, fiscalité, écologie, agriculture, IA, culture, institutions, Europe). D’autres chroniques du site (protection sociale, travail, santé, canicules, dette, jeunesse) complètent les mesures recensées. Candidature non officiellement déclarée au 16 octobre 2026.",
+    "status": "publie",
+    "note": "Page web de La France humaniste présentée comme le programme de Dominique de Villepin pour l'élection présidentielle de 2027 : 258 propositions en 25 chapitres, regroupées en quatre parties (Dire la vérité, Redresser l'État, Vivre ensemble, Continuer la France), avec une lettre, un état des lieux et une conclusion. La page ne porte pas de date de publication. Elle coexiste avec la page « Un projet, une méthode » (20 propositions).",
     "thematic_links": [
       {
         "theme": "economie",
@@ -214,5 +214,5 @@
       "url": "https://lafrancehumaniste.fr/programme/economie.html"
     }
   ],
-  "last_verified": "2026-10-16"
+  "last_verified": "2026-11-23"
 }

@@ -443,7 +443,7 @@
         "url": "https://doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf"
       }
     ],
-    "last_verified": "2026-10-19",
+    "last_verified": "2026-11-23",
     "color": "#D97706"
   },
   {
@@ -871,7 +871,7 @@
         "url": "https://www.debout-la-france.fr/notre-projet/"
       }
     ],
-    "last_verified": "2026-11-16",
+    "last_verified": "2026-11-23",
     "color": "#7C3AED"
   },
   {
@@ -2049,9 +2049,9 @@
       "title": "Le programme – Avec Édouard 2027",
       "main_url": "https://www.edouardphilippe.fr/programme",
       "format": "page_web",
-      "published_date": null,
+      "published_date": "2026-11-18",
       "status": "partiel",
-      "note": "Le site de campagne met en ligne une rubrique « Le programme » de 15 thématiques (sécurité, justice, immigration, défense, travail, entreprises, finances publiques, retraites, école, famille, protection de l'enfance, IA, énergie, adaptation climatique, outre-mer), indiquée comme mise à jour le 12 novembre 2026. Le site précise que le programme « s'écrit tout au long de la campagne », avec de nouvelles propositions thématique après thématique.",
+      "note": "Le 18 novembre 2026, lors d'une conférence de presse, Édouard Philippe a présenté le premier volume de son programme présidentiel, disponible sur le site de campagne sous forme de livret à télécharger (formulaire) ; le site indique que d'autres volumes viendront le compléter au fil de la campagne. La rubrique « Le programme » compte désormais 17 thématiques, avec les pages Logement et Handicap mises à jour le 20 novembre 2026.",
       "thematic_links": [
         {
           "theme": "securite",
@@ -2270,7 +2270,7 @@
         "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena"
       }
     ],
-    "last_verified": "2026-11-16",
+    "last_verified": "2026-11-23",
     "color": "#0284C7"
   },
   {
@@ -2806,6 +2806,20 @@
           "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf",
           "format": "pdf",
           "page_range": "p. 1-60"
+        },
+        {
+          "theme": "numerique",
+          "title": "Cahier n°10 – De la colonie numérique aux souverainetés numériques",
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-10-IA-Vdef.pdf",
+          "format": "pdf",
+          "page_range": null
+        },
+        {
+          "theme": "famille",
+          "title": "Cahier n°11 – Redonner aux jeunes les clefs de leur avenir",
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf",
+          "format": "pdf",
+          "page_range": null
         }
       ],
       "archive_url": "https://web.archive.org/web/20261015155357/https://nouspresident.fr/notre-programme/"
@@ -2860,7 +2874,7 @@
         "url": "https://nouspresident.fr/plan-urgence-climat/"
       }
     ],
-    "last_verified": "2026-11-09",
+    "last_verified": "2026-11-23",
     "color": "#EA580C"
   },
   {
@@ -3233,7 +3247,7 @@
         "url": "https://marinetondelier.fr/carnets-de-doctrine"
       }
     ],
-    "last_verified": "2026-10-16",
+    "last_verified": "2026-11-23",
     "color": "#16A34A"
   },
   {
@@ -3310,12 +3324,12 @@
       }
     ],
     "program": {
-      "title": "Projet France 2027",
-      "main_url": "https://lafrancehumaniste.fr/france2027.html",
+      "title": "Réussir à nouveau : le programme de Dominique de Villepin pour 2027",
+      "main_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/",
       "format": "page_web",
       "published_date": null,
-      "status": "partiel",
-      "note": "Projet présenté par La France humaniste comme « en construction ». La page Projet France 2027 réunit un texte socle (discours de la Sorbonne, 27 mars 2026), un « Projet économique » de 20 propositions chiffrées (page non datée, absente des archives consultées) et huit « chantiers » publiés sous forme de chroniques signées par Dominique de Villepin entre février et septembre 2026 (éducation, fiscalité, écologie, agriculture, IA, culture, institutions, Europe). D’autres chroniques du site (protection sociale, travail, santé, canicules, dette, jeunesse) complètent les mesures recensées. Candidature non officiellement déclarée au 16 octobre 2026.",
+      "status": "publie",
+      "note": "Page web de La France humaniste présentée comme le programme de Dominique de Villepin pour l'élection présidentielle de 2027 : 258 propositions en 25 chapitres, regroupées en quatre parties (Dire la vérité, Redresser l'État, Vivre ensemble, Continuer la France), avec une lettre, un état des lieux et une conclusion. La page ne porte pas de date de publication. Elle coexiste avec la page « Un projet, une méthode » (20 propositions).",
       "thematic_links": [
         {
           "theme": "economie",
@@ -3452,7 +3466,7 @@
         "url": "https://lafrancehumaniste.fr/programme/economie.html"
       }
     ],
-    "last_verified": "2026-10-16",
+    "last_verified": "2026-11-23",
     "color": "#64748B"
   },
   {

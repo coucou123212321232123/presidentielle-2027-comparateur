@@ -1151,5 +1151,80 @@
     "precision": "chiffre",
     "last_verified": "2026-11-16",
     "added": "2026-11-16"
+  },
+  {
+    "id": "ruffin-emploi-07",
+    "theme": "emploi",
+    "title": "Une garantie d'emploi civique pour les jeunes",
+    "description": "Tout jeune qui le demande aurait accès à un emploi civique, à la durée choisie, rémunéré au moins au Smic avec cotisations retraite. Il serait exercé dans des missions non assurées par le marché (animation, aide aux personnes âgées, écologie) avec des structures à but non lucratif.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°11 – Redonner aux jeunes les clefs de leur avenir",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf#page=31",
+    "source_date": "2026-11",
+    "source_page": "p. 31",
+    "precision": "precis",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
+  },
+  {
+    "id": "ruffin-education-10",
+    "theme": "education",
+    "title": "Refondre les bourses étudiantes : socle, complément logement, 12 mois",
+    "description": "Les bourses seraient élargies, versées sur 12 mois et indexées sur l'inflation, avec un socle et un complément logement. Le montant maximal pour les boursiers les plus précaires non cohabitants serait porté au seuil de pauvreté à 50 %, soit 1 114 € par mois.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°11 – Redonner aux jeunes les clefs de leur avenir",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf#page=33",
+    "source_date": "2026-11",
+    "source_page": "p. 33-34",
+    "precision": "chiffre",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
+  },
+  {
+    "id": "ruffin-emploi-08",
+    "theme": "emploi",
+    "title": "Garantie jeune universelle et sans conditions pour les jeunes ni en emploi ni en formation",
+    "description": "Les jeunes sans emploi ni formation percevraient un revenu de solidarité active mensuel couplé à un accompagnement intensif, avec contact 3 à 4 mois après la sortie du secondaire et guichet unique couvrant emploi, logement et santé.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°11 – Redonner aux jeunes les clefs de leur avenir",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf#page=35",
+    "source_date": "2026-11",
+    "source_page": "p. 35",
+    "precision": "precis",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
+  },
+  {
+    "id": "ruffin-logement-07",
+    "theme": "logement",
+    "title": "Créer 200 000 places de logements publics pour étudiants et jeunes travailleurs d'ici 2032",
+    "description": "L'objectif est de 200 000 places d'ici 2032 (150 000 pour étudiants, 50 000 pour jeunes actifs), concentrées dans les métropoles les plus exposées et près des transports et lieux d'enseignement.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°11 – Redonner aux jeunes les clefs de leur avenir",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf#page=44",
+    "source_date": "2026-11",
+    "source_page": "p. 44",
+    "precision": "chiffre",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
+  },
+  {
+    "id": "ruffin-numerique-05",
+    "theme": "numerique",
+    "title": "Créer un laboratoire public de recherche de pointe en IA, à 1 Md€ par an",
+    "description": "Un laboratoire public de 500 personnes serait financé à hauteur d'un milliard d'euros par an, en partie sur les crédits de défense, avec un tiers de son budget de fonctionnement en commande publique vers des industriels français et européens.",
+    "source_type": "officiel",
+    "source_title": "Cahier de campagne n°10 – De la colonie numérique aux souverainetés numériques",
+    "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-10-IA-Vdef.pdf#page=45",
+    "source_date": "2026-11",
+    "source_page": "p. 45-47",
+    "precision": "chiffre",
+    "cost": {
+      "label": "1 Md€ par an",
+      "source_label": "Cahier de campagne n°10 (p. 45)",
+      "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-10-IA-Vdef.pdf#page=45"
+    },
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
   }
 ]

@@ -134,6 +134,20 @@
         "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf",
         "format": "pdf",
         "page_range": "p. 1-60"
+      },
+      {
+        "theme": "numerique",
+        "title": "Cahier n°10 – De la colonie numérique aux souverainetés numériques",
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-10-IA-Vdef.pdf",
+        "format": "pdf",
+        "page_range": null
+      },
+      {
+        "theme": "famille",
+        "title": "Cahier n°11 – Redonner aux jeunes les clefs de leur avenir",
+        "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf",
+        "format": "pdf",
+        "page_range": null
       }
     ],
     "archive_url": "https://web.archive.org/web/20261015155357/https://nouspresident.fr/notre-programme/"
@@ -188,5 +202,5 @@
       "url": "https://nouspresident.fr/plan-urgence-climat/"
     }
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-23"
 }

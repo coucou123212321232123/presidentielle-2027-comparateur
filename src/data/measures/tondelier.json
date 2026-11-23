@@ -1720,5 +1720,19 @@
     "precision": "precis",
     "last_verified": "2026-10-16",
     "added": "2026-10-17"
+  },
+  {
+    "id": "tondelier-securite-07",
+    "theme": "securite",
+    "title": "Dépénaliser l'usage, l'achat et la détention de toutes les drogues pour usage personnel",
+    "description": "L'usage, l'achat et la détention de toutes les drogues pour usage personnel ne seraient plus poursuivis pénalement, au profit de la prévention et d'un accompagnement sanitaire et social ; trafic, production et vente resteraient illégaux.",
+    "source_type": "officiel",
+    "source_title": "Drogues, tabac : et si on faisait enfin de la santé publique une priorité ? (blog de Marine Tondelier)",
+    "source_url": "https://marinetondelier.fr/blog/drogues-tabac-sante-publique",
+    "source_date": "2026-11-18",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
   }
 ]

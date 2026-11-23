@@ -608,5 +608,37 @@
         "text": "Inflation sur un an : 3,4 % en octobre 2026, résultats définitifs (Insee), valeur provisoire confirmée."
       }
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "summary": "Candidats : nouvelles mesures issues de publications de campagne récentes (premier volume du programme et pages Logement et Handicap d'Édouard Philippe, programme « Réussir à nouveau » de Dominique de Villepin, cahiers n°10 et n°11 de François Ruffin, plan agricole de Nicolas Dupont-Aignan, entretiens de Gabriel Attal, blog de Marine Tondelier).",
+    "accepted": 27,
+    "rejected": 3,
+    "changes": [
+      {
+        "candidate": "philippe",
+        "text": "Programme : premier volume présenté le 18 novembre 2026, rubrique « Le programme » portée à 17 thématiques ; 7 mesures ajoutées (logement, handicap et aidants)."
+      },
+      {
+        "candidate": "villepin",
+        "text": "Lien principal : programme « Réussir à nouveau » (258 propositions en 25 chapitres) ; 5 mesures ajoutées (agriculture, audiovisuel public, structures éducatives fermées, hébergement, EHPAD)."
+      },
+      {
+        "candidate": "ruffin",
+        "text": "Cahiers n°10 (numérique) et n°11 (jeunesses) ajoutés aux documents ; 5 mesures ajoutées."
+      },
+      {
+        "candidate": "dupont-aignan",
+        "text": "3 mesures ajoutées (communiqué « Plan de sauvetage pour notre agriculture », 19 novembre 2026)."
+      },
+      {
+        "candidate": "attal",
+        "text": "3 mesures ajoutées (logement, allocation sociale unique, collège)."
+      },
+      {
+        "candidate": "tondelier",
+        "text": "1 mesure ajoutée (dépénalisation de l'usage des drogues)."
+      }
+    ]
   }
 ]

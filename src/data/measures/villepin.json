@@ -1131,5 +1131,80 @@
     "precision": "precis",
     "last_verified": "2026-11-16",
     "added": "2026-11-16"
+  },
+  {
+    "id": "villepin-agriculture-04",
+    "theme": "agriculture",
+    "title": "Stratégie agricole dotée de 1,5 Md€ supplémentaires par an",
+    "description": "Stratégie nationale de transformation de l'agriculture élaborée avec les agriculteurs, mise en œuvre avec les chambres d'agriculture par des contrats d'objectifs terroir par terroir.",
+    "source_type": "officiel",
+    "source_title": "La France humaniste – « Réussir à nouveau », chapitre 22, proposition 222",
+    "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-22.html",
+    "source_date": null,
+    "source_page": "Proposition 222",
+    "precision": "chiffre",
+    "cost": {
+      "label": "1,5 Md€ supplémentaires par an",
+      "source_label": "La France humaniste – « Réussir à nouveau », chapitre 22",
+      "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-22.html"
+    },
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
+  },
+  {
+    "id": "villepin-culture-04",
+    "theme": "culture",
+    "title": "Fraction fixe de 4 % de l'impôt sur le revenu pour l'audiovisuel public",
+    "description": "Affectation d'une fraction constante de 4 % de l'impôt sur le revenu au financement de l'audiovisuel public, afin de stabiliser ses budgets.",
+    "source_type": "officiel",
+    "source_title": "La France humaniste – « Réussir à nouveau », chapitre 3, proposition 33",
+    "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-3.html",
+    "source_date": null,
+    "source_page": "Proposition 33",
+    "precision": "chiffre",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
+  },
+  {
+    "id": "villepin-securite-04",
+    "theme": "securite",
+    "title": "15 000 places en structures éducatives fermées pour les primo-délinquants",
+    "description": "Création de 15 000 places dans des structures éducatives fermées « nouvelle génération », sous tutelle conjointe Justice et Éducation nationale.",
+    "source_type": "officiel",
+    "source_title": "La France humaniste – « Réussir à nouveau », chapitre 7, proposition 72",
+    "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-7.html",
+    "source_date": null,
+    "source_page": "Proposition 72",
+    "precision": "chiffre",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
+  },
+  {
+    "id": "villepin-logement-03",
+    "theme": "logement",
+    "title": "30 000 places d'hébergement pour une stratégie « logement d'abord »",
+    "description": "Création de 30 000 places d'hébergement dans une stratégie « logement d'abord », avec développement de l'habitat partagé et du logement intergénérationnel.",
+    "source_type": "officiel",
+    "source_title": "La France humaniste – « Réussir à nouveau », chapitre 14, proposition 133",
+    "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-14.html",
+    "source_date": null,
+    "source_page": "Proposition 133",
+    "precision": "chiffre",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
+  },
+  {
+    "id": "villepin-sante-04",
+    "theme": "sante",
+    "title": "100 000 places d'EHPAD et de logements intermédiaires sur dix ans",
+    "description": "Construction de 100 000 places d'EHPAD et de logements intermédiaires pour le grand âge, programmée sur dix ans, avec formation des professionnels à l'accompagnement de la fin de vie.",
+    "source_type": "officiel",
+    "source_title": "La France humaniste – « Réussir à nouveau », chapitre 15, proposition 151",
+    "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-15.html",
+    "source_date": null,
+    "source_page": "Proposition 151",
+    "precision": "chiffre",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
   }
 ]

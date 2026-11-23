@@ -79,9 +79,9 @@
     "title": "Le programme – Avec Édouard 2027",
     "main_url": "https://www.edouardphilippe.fr/programme",
     "format": "page_web",
-    "published_date": null,
+    "published_date": "2026-11-18",
     "status": "partiel",
-    "note": "Le site de campagne met en ligne une rubrique « Le programme » de 15 thématiques (sécurité, justice, immigration, défense, travail, entreprises, finances publiques, retraites, école, famille, protection de l'enfance, IA, énergie, adaptation climatique, outre-mer), indiquée comme mise à jour le 12 novembre 2026. Le site précise que le programme « s'écrit tout au long de la campagne », avec de nouvelles propositions thématique après thématique.",
+    "note": "Le 18 novembre 2026, lors d'une conférence de presse, Édouard Philippe a présenté le premier volume de son programme présidentiel, disponible sur le site de campagne sous forme de livret à télécharger (formulaire) ; le site indique que d'autres volumes viendront le compléter au fil de la campagne. La rubrique « Le programme » compte désormais 17 thématiques, avec les pages Logement et Handicap mises à jour le 20 novembre 2026.",
     "thematic_links": [
       {
         "theme": "securite",
@@ -300,5 +300,5 @@
       "url": "https://www.edouardphilippe.fr/actualites/grand-meeting-edouard-philippe-adidas-arena"
     }
   ],
-  "last_verified": "2026-11-16"
+  "last_verified": "2026-11-23"
 }

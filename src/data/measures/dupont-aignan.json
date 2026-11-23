@@ -1654,5 +1654,47 @@
     "precision": "precis",
     "last_verified": "2026-11-16",
     "added": "2026-11-16"
+  },
+  {
+    "id": "dupont-aignan-agriculture-07",
+    "theme": "agriculture",
+    "title": "Plan de sauvetage : prise en charge par l'État des intérêts de la dette agricole et report d'un an",
+    "description": "Prise en charge par l'État des 1,8 Md€ d'intérêts sur 60 Md€ de prêts bancaires des agriculteurs, et report d'un an des remboursements imposé aux banques, sauf pour les agriculteurs en bonne santé financière. Selon le communiqué, l'ensemble du plan de sauvetage améliorerait en moyenne la trésorerie de chaque exploitation de 33 000 € par an et son revenu de 8 000 € par an, pour un coût de 2,1 Md€ par an pour l'État.",
+    "source_type": "officiel",
+    "source_title": "Communiqué : plan de sauvetage pour notre agriculture (site de campagne de Nicolas Dupont-Aignan)",
+    "source_url": "https://www.dupontaignan.fr/actualite/communique-plan-de-sauvetage-pour-notre-agriculture/",
+    "source_date": "2026-11-19",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
+  },
+  {
+    "id": "dupont-aignan-agriculture-08",
+    "theme": "agriculture",
+    "title": "Baisse supplémentaire de 10 centimes des taxes sur le gazole non routier",
+    "description": "Baisse de 10 centimes supplémentaires des taxes sur le gazole non routier, estimée par le communiqué à 300 M€ d'économies pour les agriculteurs.",
+    "source_type": "officiel",
+    "source_title": "Communiqué : plan de sauvetage pour notre agriculture (site de campagne de Nicolas Dupont-Aignan)",
+    "source_url": "https://www.dupontaignan.fr/actualite/communique-plan-de-sauvetage-pour-notre-agriculture/",
+    "source_date": "2026-11-19",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
+  },
+  {
+    "id": "dupont-aignan-agriculture-09",
+    "theme": "agriculture",
+    "title": "Double affichage des prix de vente et d'achat des fruits et légumes",
+    "description": "Affichage conjoint du prix de vente et du prix d'achat en vrac aux agriculteurs des fruits et légumes, le consommateur étant informé par le gouvernement sur des coefficients « raisonnables » entre prix d'achat et prix de vente.",
+    "source_type": "officiel",
+    "source_title": "Communiqué : plan de sauvetage pour notre agriculture (site de campagne de Nicolas Dupont-Aignan)",
+    "source_url": "https://www.dupontaignan.fr/actualite/communique-plan-de-sauvetage-pour-notre-agriculture/",
+    "source_date": "2026-11-19",
+    "source_page": null,
+    "precision": "precis",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
   }
 ]

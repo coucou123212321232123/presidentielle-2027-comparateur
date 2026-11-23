@@ -1,0 +1,897 @@
+{
+  "date": "2026-11-23",
+  "routine": "candidats",
+  "status": "publie",
+  "signalements": "Aucune issue ouverte avec le label signalement.",
+  "journal": {
+    "philippe": "Lu : 2 actualités (volume 1 présenté le 18/11, livret téléchargeable par formulaire, d'autres volumes à venir), pages Logement et Handicap (MAJ 20/11). École/famille/protection de l'enfance déjà couvertes. 1 update_program + 5 mesures logement + 4 handicap (thème famille, pas de thème handicap). Recherche web : presse évoque 142 mesures (non retenu, non officiel).",
+    "arthaud": "Changements = agenda de réunions, actualités LO et brochure d'été déjà référencée ; aucune nouvelle mesure ; web : rien de nouveau.",
+    "attal": "Ouvert 2 actualités LCI (12 et 16/11). 4 mesures nouvelles ; droit au brut, monoparentales, Dutreil, Constitution du travail déjà publiés. Autres passages (esprit critique, échelon de collectivité, comparution mineurs, Singapour...) déjà couverts ou non ouverts.",
+    "bertrand": "Pas de fichier changes ; recherche web : intention de candidature confirmée fin août (déjà en fiche, statut probable) ; rien de nouveau ni de source officielle.",
+    "glucksmann": "Seul changement : page de dons ; web : rien de nouveau depuis le 20/11.",
+    "villepin": "Index reussir-a-nouveau/ et mesures.html ouverts (curl avec User-Agent navigateur ; sans cela 403). Index : « Réussir à nouveau : le programme de Dominique de Villepin pour 2027 », 258 propositions en 25 chapitres, 4 parties, non daté (apparu le 20/11/2026) ; il s'agit d'un programme en ligne, pas d'un livre. mesures.html = « Un projet, une méthode : 20 propositions » (calendrier : passation, 100 jours, 1re année, quinquennat), propositions déjà couvertes en grande partie (Fonds France, retraites, gouvernement de 12 ministres, etc.). Proposition update_program + 10 mesures chiffrées (chapitres 7, 14, 15, 16, 21, 22, 23, 3). Non retenues faute de place : CV anonyme dès 50 salariés (n°37, ch.3), allocation universelle de tokens IA (n°45), tokens IA assujettis à la CSG (n°159), contrats territoriaux 100 territoires (n°234), rétablissement de l'IFI barème 2016 (n°10, possible divergence avec la mesure fiscalite-04 « impôt unique sur le patrimoine à partir de 2,2 M€ » à vérifier). Candidature : recherche web, aucune déclaration officielle trouvée (octobre 2026 : 300 parrainages annoncés, décision reportée ; août 2026 : confirmera « quand la campagne aura commencé ») ; statut « probable » inchangé, pas de preuve de deux médias.",
+    "dupont-aignan": "Communiqué agriculture (19/11/2026) ouvert : 3 mesures nouvelles proposées (intérêts de la dette agricole 2,1 Md€/an, GNR -10 c, double affichage des prix). Sortie du marché européen de l'électricité déjà publiée. Page protectionnisme intelligent = simple vidéo sans texte ; mesure déjà existante (economie-02). Autres pages (BFM, TV Libertés, Ukraine) non ouvertes. Recherche web : candidature déjà déclarée (8 mars 2025), rien de nouveau depuis le 20/11.",
+    "le-pen": "Seule page modifiée : marinelepen.com, bandeau cookies (bruit). Recherche web : candidature annoncée le 7/07/2026 sur TF1 (statut inchangé), sondages Elabe/Ifop mi-novembre, éligibilité dépendant de la Cour de cassation ; aucune nouvelle proposition ni changement.",
+    "lisnard": "Pages event/ ignorées. Tribune retraites (17/11/2026) : 2 mesures nouvelles (désindexation pensions élevées/abattement 10 %, allocation sociale unique) ; capitalisation obligatoire et convergence public-privé déjà publiées. Entretien Le Point (16/11) sur candidature/AMF et page compétition-compromission (19/11, réduction de 12 % des effectifs déjà publiée) : pas de proposition nouvelle. Statut déclaré (31/03/2026) inchangé.",
+    "melenchon": "Seule page modifiée : actualités LFI (titres : Sommet de la Francophonie, hors-série Répertoire des radicalités concrètes, désignation des chef·fes de file législatives 2027) ; aucune proposition programmatique. Recherche web : candidature officialisée (mai 2026), programme remanié « L'Avenir en commun » annoncé pour les 6-7 novembre mais non confirmé par les résultats ; rien de vérifié, aucune proposition.",
+    "report": "Villepin : statut exploitation familiale / 400 000 exploitations (contradiction possible avec villepin-agriculture-01, 500 000 en 2035), CV anonyme, tokens IA, contrats territoriaux de réindustrialisation, IFI (n°10) reportés ; Philippe : loi sur l école inclusive reportée. Plafond de 30 : reportés à la semaine suivante — Villepin : +5 000 places EPIDE, zéro accident du travail mortel 2032, 2 500 CIFRE ; Philippe : MDPH délais, TVA des logements neufs aux maires ; Ruffin : stages alignés sur l apprentissage, droit à l humain, codécision outils numériques, Sovereign Tech Fund, volontariat IA ; Attal : suspension des contrôles en juillet-août.",
+    "ruffin": "Pages nouspresident.fr ouvertes (souverainetés numériques, jeunes) ; deux nouveaux livrets PDF (n°10 IA/numérique, n°11 Jeunesses) téléchargés et lus. 8 mesures proposées (6 jeunesses/IA ; hors Forge des communs, couloir énergétique, moratoire déjà couverts par ruffin-numerique-01 à 04). Non retenus faute de place : fin du statut d'intérêt national des data centers (p. 28), Sovereign Tech Fund européen 150 M€/an (p. 38), Volontariat national de l'IA 5 000 jeunes (p. 51), sanctuarisation de métiers (p. 50), garantie de non-décrochage mentorat (p. 36).",
+    "tondelier": "Pages journal de campagne et blog ouvertes. Nouveauté : dépénalisation de l'usage de toutes les drogues (blog 18 nov.). Épisodes 50-52 (ESR, précarité énergétique, construction) : rencontres/rappels sans nouvelle mesure (500 000 rénovations déjà présent ; banque publique de la rénovation citée seulement en passant). Services publics : vidéo, texte sans proposition précise. Interdiction du tabac génération 2014 déjà présente (tondelier-sante-05).",
+    "zemmour": "Recherche web : aucune couverture trouvée d'un meeting à Toulon le 21 nov. 2026 (résultats 2021-2022 seulement) ; candidature confirmée le 10 nov. 2026 (TF1) déjà connue. Tracts PDF modifiés sans passage ajouté. La page parti-reconquete.fr#actualites avait des passages ajoutés (abolir la loi sur l'aide à mourir et rétablir Leonetti, examen à la place du numerus clausus, retour du par cœur, 10 ministres, sanction des magistrats, cumul des peines, loi de 1881) mais ce flux a changé : relue le 23 nov., ces textes ne s'y trouvent plus ni avec URL de publication ; non retenus faute de source vérifiable.",
+    "roussel": "Toutes les nouvelles pages pcf.fr sont bloquées (Cloudflare 403, curl et WebFetch) : contenu non vérifiable ; pages d'actualité du parti sans mention vérifiée d'une proposition portée par Roussel. Recherche web : investiture PCF confirmée (vote clos le 6 sept. 2026), rien de nouveau depuis le 20 nov.",
+    "retailleau": "Recherche web : candidature annoncée le 12 févr. 2026, désigné par les adhérents LR (73,8 %) ; aucune actualité nouvelle (programme, retrait, équipe) depuis le 20 nov. trouvée.",
+    "nouvelles_candidatures": "Une recherche : aucune nouvelle candidature déclarée depuis le 16 nov. 2026 trouvée. Teddy Riner (déjà listé) : François Braun a quitté sa campagne vers le 13 nov. (équipe, pas retrait du candidat). Christine Lagarde évoquée comme possible (départ BCE), sans déclaration ; Lisnard/Philippot/Villepin déjà connus. Source de repère : lcp.fr 'Présidentielle 2027 : la liste des candidats déclarés et potentiels' (résultat de recherche, non ouvert). Pas de new_candidate."
+  },
+  "proposals": [
+    {
+      "candidate": "philippe",
+      "kind": "update_program",
+      "data": {
+        "title": "Programme – Avec Édouard 2027, premier volume (livret)",
+        "main_url": "https://www.edouardphilippe.fr/programme",
+        "published_date": "2026-11-18",
+        "status": "partiel",
+        "note": "Le 18 novembre 2026, lors d'une conférence de presse, Édouard Philippe a présenté le premier volume de son programme présidentiel, disponible sur le site de campagne sous forme de livret à télécharger (formulaire) ; le site indique que d'autres volumes viendront le compléter au fil de la campagne. La rubrique « Le programme » compte désormais 17 thématiques, avec les pages Logement et Handicap mises à jour le 20 novembre 2026."
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/edouard-philippe-presente-le-premier-volume-de-son-programme-presidentiel",
+          "excerpt": "D’autres volumes viendront compléter ce programme au fil de la campagne."
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/actualites/edouard-philippe-presente-son-programme-et-devoile-les-voix-de-la-campagne",
+          "excerpt": "Il a présenté toutes ces mesures aujourd’hui, pour la première fois en totalité"
+        }
+      ],
+      "reason": "Le programme a été présenté le 18/11/2026 (volume 1, livret) ; l'URL directe du livret PDF n'est pas exposée (formulaire), main_url conservée sur la rubrique programme.",
+      "n": 1,
+      "decision": "acceptee",
+      "motif": "Présentation du volume 1 le 18/11/2026 confirmée par l'article du site (« aujourd'hui », daté du 18 novembre) ; 17 thématiques et mises à jour du 20/11 vérifiées ; « d'autres volumes » écrit. Le titre proposé n'est pas un intitulé exact : on garde le titre de la page, puisque main_url reste la rubrique.",
+      "corrections": {
+        "title": "Le programme – Avec Édouard 2027"
+      }
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "theme": "logement",
+        "title": "Supprimer les « frais de notaire » au premier achat des moins de 35 ans",
+        "description": "Exonérer de droits de mutation l'achat de la première résidence principale pour les moins de 35 ans ; le site chiffre le gain à 7 000 € pour un appartement de 100 000 €.",
+        "source_type": "officiel",
+        "source_title": "Programme – Logement (site de campagne)",
+        "source_url": "https://www.edouardphilippe.fr/programme/logement",
+        "source_date": "2026-11-20",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/logement",
+          "excerpt": "supprimer les « frais de notaire » pour le premier achat des moins de 35 ans"
+        }
+      ],
+      "reason": "Mesure du programme officiel mise à jour le 20 novembre 2026, absente des mesures publiées.",
+      "n": 2,
+      "decision": "acceptee",
+      "motif": "Conforme à la page Logement (droits de mutation, 7 000 € pour 100 000 €, mise à jour le 20/11/2026) ; pas de doublon.",
+      "corrections": null,
+      "applied_id": "philippe-logement-03"
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "theme": "logement",
+        "title": "Moratoire de cinq ans sur les normes de construction et d'habitation",
+        "description": "Moratoire de cinq ans sur l'ensemble des normes relatives à la construction et à l'habitation, dont un moratoire sur les paliers de la RE2020 et sur l'interdiction de location des passoires thermiques durant le quinquennat.",
+        "source_type": "officiel",
+        "source_title": "Programme – Logement (site de campagne)",
+        "source_url": "https://www.edouardphilippe.fr/programme/logement",
+        "source_date": "2026-11-20",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/logement",
+          "excerpt": "un moratoire de cinq ans sur l’ensemble des normes relatives à la construction"
+        }
+      ],
+      "reason": "Mesure du programme officiel mise à jour le 20 novembre 2026, absente des mesures publiées.",
+      "n": 3,
+      "decision": "acceptee",
+      "motif": "Conforme à la page (moratoire de cinq ans, paliers RE2020, passoires thermiques pendant le quinquennat) ; distinct de philippe-economie-02 (aucune nouvelle norme).",
+      "corrections": null,
+      "applied_id": "philippe-logement-04"
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "theme": "logement",
+        "title": "Prélèvement forfaitaire unique sur les revenus de la location longue durée et fin de l'IFI sur ces logements",
+        "description": "Taxer les revenus de la location longue durée (neuf et ancien) par un prélèvement forfaitaire unique après charges et amortissement accéléré, et supprimer l'IFI sur les logements loués en longue durée.",
+        "source_type": "officiel",
+        "source_title": "Programme – Logement (site de campagne)",
+        "source_url": "https://www.edouardphilippe.fr/programme/logement",
+        "source_date": "2026-11-20",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/logement",
+          "excerpt": "prélèvement forfaitaire unique sur les revenus de la location longue durée"
+        }
+      ],
+      "reason": "Mesure du programme officiel mise à jour le 20 novembre 2026, absente des mesures publiées.",
+      "n": 4,
+      "decision": "acceptee",
+      "motif": "Conforme à la page : PFU après charges et amortissement accéléré, neuf et ancien, IFI supprimé sur la location longue durée.",
+      "corrections": null,
+      "applied_id": "philippe-logement-05"
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "theme": "logement",
+        "title": "Foncières d'intérêt général de 100 000 logements et suppression de la RLS",
+        "description": "Regrouper les bailleurs sociaux en foncières d'intérêt général de 100 000 logements, avec objectifs de production fixés par contrat, supprimer intégralement la réduction de loyer de solidarité et faciliter la vente de logements sociaux à leurs occupants.",
+        "source_type": "officiel",
+        "source_title": "Programme – Logement (site de campagne)",
+        "source_url": "https://www.edouardphilippe.fr/programme/logement",
+        "source_date": "2026-11-20",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/logement",
+          "excerpt": "regrouper les bailleurs sociaux dans des foncières d’intérêt général de 100 000 logements"
+        }
+      ],
+      "reason": "Mesure du programme officiel mise à jour le 20 novembre 2026, absente des mesures publiées.",
+      "n": 5,
+      "decision": "acceptee",
+      "motif": "Conforme à la page : foncières de 100 000 logements, objectifs fixés par contrat, RLS supprimée « intégralement », vente aux occupants.",
+      "corrections": null,
+      "applied_id": "philippe-logement-06"
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "theme": "famille",
+        "title": "Cumul intégral de l'AAH et des revenus du travail pendant un an",
+        "description": "Permettre le cumul intégral de l'allocation aux adultes handicapés et des revenus d'un emploi pendant un an après la reprise d'activité, contre six mois actuellement selon le site.",
+        "source_type": "officiel",
+        "source_title": "Programme – Handicap (site de campagne)",
+        "source_url": "https://www.edouardphilippe.fr/programme/handicap",
+        "source_date": "2026-11-20",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/handicap",
+          "excerpt": "le cumul intégral de l’AAH et des revenus du travail pendant un an"
+        }
+      ],
+      "reason": "Mesure du programme officiel mise à jour le 20 novembre 2026, absente des mesures publiées.",
+      "n": 6,
+      "decision": "acceptee",
+      "motif": "Conforme à la page Handicap : un an contre 6 mois aujourd'hui.",
+      "corrections": null,
+      "applied_id": "philippe-famille-07"
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "theme": "famille",
+        "title": "Garantie nationale de 15 jours de répit par an pour les proches aidants",
+        "description": "Créer une garantie nationale de 15 jours de répit par an pour les proches aidants les plus mobilisés : heures de relais à domicile, accueil temporaire, séjour de répit ou remplacement la nuit et le week-end.",
+        "source_type": "officiel",
+        "source_title": "Programme – Handicap (site de campagne)",
+        "source_url": "https://www.edouardphilippe.fr/programme/handicap",
+        "source_date": "2026-11-20",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/handicap",
+          "excerpt": "15 jours de répit par an pour les proches aidants les plus mobilisés"
+        }
+      ],
+      "reason": "Mesure du programme officiel mise à jour le 20 novembre 2026, absente des mesures publiées.",
+      "n": 7,
+      "decision": "acceptee",
+      "motif": "Conforme à la page Handicap, y compris les formes de répit énumérées.",
+      "corrections": null,
+      "applied_id": "philippe-famille-08"
+    },
+    {
+      "candidate": "philippe",
+      "kind": "add_measure",
+      "data": {
+        "theme": "famille",
+        "title": "100 000 logements en habitat partagé et inclusif d'ici 2035",
+        "description": "Créer 100 000 logements adaptés, inclusifs, partagés ou intergénérationnels d'ici 2035, en priorité dans les centres-villes et centres-bourgs.",
+        "source_type": "officiel",
+        "source_title": "Programme – Handicap (site de campagne)",
+        "source_url": "https://www.edouardphilippe.fr/programme/handicap",
+        "source_date": "2026-11-20",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/handicap",
+          "excerpt": "100 000 places créées en habitat partagé et inclusif"
+        }
+      ],
+      "reason": "Mesure du programme officiel mise à jour le 20 novembre 2026, absente des mesures publiées.",
+      "n": 8,
+      "decision": "acceptee",
+      "motif": "Conforme à la page : 100 000 logements d'ici 2035, centres-villes et centres-bourgs prioritaires.",
+      "corrections": null,
+      "applied_id": "philippe-famille-09"
+    },
+    {
+      "candidate": "attal",
+      "kind": "add_measure",
+      "data": {
+        "theme": "logement",
+        "title": "Banque nationale d'investissement pour le logement : achat en deux temps",
+        "description": "Créer une Banque nationale d'investissement pour le logement permettant d'acquérir sa résidence principale en deux temps, avec un financement public portant sur la moitié de la valeur du bien. Il propose aussi d'étendre la garantie Visale à tous les Français.",
+        "source_type": "officiel",
+        "source_title": "Gabriel Attal sur LCI : réinventer le modèle social (attalpresident.fr)",
+        "source_url": "https://attalpresident.fr/actualites/gabriel-attal-lci-restos-du-coeur-nouveau-modele-social",
+        "source_date": "2026-11-16",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-lci-restos-du-coeur-nouveau-modele-social",
+          "excerpt": "financement public portant sur la moitié de la valeur du bien"
+        }
+      ],
+      "reason": "Proposition présentée sur le site de campagne, absente des mesures publiées.",
+      "n": 9,
+      "decision": "acceptee",
+      "motif": "Banque nationale et financement de la moitié du bien confirmés (site, 16/11/2026). La phrase sur Visale recoupe attal-logement-02 (garantie universelle des loyers) : elle est retirée.",
+      "corrections": {
+        "description": "Créer une Banque nationale d'investissement pour le logement permettant d'acquérir sa résidence principale en deux temps, avec un financement public portant sur la moitié de la valeur du bien."
+      },
+      "applied_id": "attal-logement-05"
+    },
+    {
+      "candidate": "attal",
+      "kind": "add_measure",
+      "data": {
+        "theme": "emploi",
+        "title": "Allocation sociale unique plafonnée à 75 % du SMIC",
+        "description": "Créer une allocation sociale unique, plafonnée à 75 % du SMIC, afin que les revenus du travail restent supérieurs à ceux de l'inactivité.",
+        "source_type": "officiel",
+        "source_title": "Gabriel Attal face aux petits patrons sur LCI (attalpresident.fr)",
+        "source_url": "https://attalpresident.fr/actualites/gabriel-attal-petits-patrons-professionnels-liberaux-lci",
+        "source_date": "2026-11-12",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-petits-patrons-professionnels-liberaux-lci",
+          "excerpt": "une allocation sociale unique, plafonnée à 75 % du SMIC"
+        }
+      ],
+      "reason": "Proposition présentée sur le site de campagne, absente des mesures publiées.",
+      "n": 10,
+      "decision": "acceptee",
+      "motif": "Conforme à l'article du site (12/11/2026) ; pas de doublon.",
+      "corrections": null,
+      "applied_id": "attal-emploi-06"
+    },
+    {
+      "candidate": "attal",
+      "kind": "add_measure",
+      "data": {
+        "theme": "education",
+        "title": "25 % du temps scolaire en 4e et 3e pour des enseignements différenciés",
+        "description": "Consacrer 25 % du temps scolaire en quatrième et troisième à des enseignements différenciés pour faire découvrir davantage de métiers et de formations.",
+        "source_type": "officiel",
+        "source_title": "Gabriel Attal face aux petits patrons sur LCI (attalpresident.fr)",
+        "source_url": "https://attalpresident.fr/actualites/gabriel-attal-petits-patrons-professionnels-liberaux-lci",
+        "source_date": "2026-11-12",
+        "source_page": null,
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-petits-patrons-professionnels-liberaux-lci",
+          "excerpt": "25 % du temps scolaire en quatrième et en troisième"
+        }
+      ],
+      "reason": "Proposition présentée sur le site de campagne, absente des mesures publiées.",
+      "n": 11,
+      "decision": "acceptee",
+      "motif": "Conforme à l'article du site (12/11/2026) ; distinct d'attal-emploi-05.",
+      "corrections": null,
+      "applied_id": "attal-education-13"
+    },
+    {
+      "candidate": "villepin",
+      "kind": "update_program",
+      "data": {
+        "title": "Réussir à nouveau : le programme de Dominique de Villepin pour 2027",
+        "main_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/",
+        "status": "publie",
+        "note": "Page web de La France humaniste (apparue sur le site le 20 novembre 2026) présentée comme le programme de Dominique de Villepin pour l'élection présidentielle de 2027 : 258 propositions en 25 chapitres, regroupées en quatre parties (Dire la vérité, Redresser l'État, Vivre ensemble, Continuer la France), avec un état des lieux, une lettre et une conclusion. La page ne porte pas de date de publication. Elle coexiste avec la page « Un projet, une méthode » (20 propositions, calendrier de mise en œuvre) et avec les pages Projet économique, Justice sociale et Institutions. La candidature n'est pas officiellement déclarée."
+      },
+      "evidence": [
+        {
+          "url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/",
+          "excerpt": "258 propositions en 25 chapitres, pour dire la vérité, redresser l’État"
+        },
+        {
+          "url": "https://lafrancehumaniste.fr/programme/mesures.html",
+          "excerpt": "20 propositions pour reprendre le contrôle du temps"
+        }
+      ],
+      "reason": "Le site publie désormais un document intitulé « Réussir à nouveau » qualifié de programme de 2027 ; page non datée donc published_date reste null.",
+      "n": 12,
+      "decision": "acceptee",
+      "motif": "Titre exact et contenu (258 propositions, 25 chapitres, 4 parties, lettre, état des lieux, conclusion) vérifiés ; pas de date sur la page. Retrait de deux affirmations non écrites : « apparue le 20 novembre 2026 », et « candidature non déclarée », alors que la conclusion parle de « ma candidature ».",
+      "corrections": {
+        "note": "Page web de La France humaniste présentée comme le programme de Dominique de Villepin pour l'élection présidentielle de 2027 : 258 propositions en 25 chapitres, regroupées en quatre parties (Dire la vérité, Redresser l'État, Vivre ensemble, Continuer la France), avec une lettre, un état des lieux et une conclusion. La page ne porte pas de date de publication. Elle coexiste avec la page « Un projet, une méthode » (20 propositions)."
+      }
+    },
+    {
+      "candidate": "villepin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "economie",
+        "title": "Nationaliser les autoroutes à la fin des concessions (2031-2036)",
+        "description": "Reprise en régie directe des autoroutes à l'échéance des concessions, entre 2031 et 2036. Les dividendes abonderaient les livrets personnels ouverts auprès du Fonds France, dans le cadre de la retraite par capitalisation publique.",
+        "source_type": "officiel",
+        "source_title": "La France humaniste – « Réussir à nouveau », chapitre 23, proposition 231",
+        "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-23.html",
+        "source_date": null,
+        "source_page": "Proposition 231",
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-23.html",
+          "excerpt": "Reprendre en régie directe les autoroutes à la fin des concessions entre 2031 et 2036"
+        }
+      ],
+      "reason": "Proposition 231 du programme « Réussir à nouveau » (publié sur le site le 20/11/2026), absente des mesures publiées.",
+      "n": 13,
+      "decision": "rejetee",
+      "motif": "Doublon : villepin-economie-02 couvre déjà le retour des autoroutes en régie publique à l'échéance des concessions et le Fonds France. À traiter comme mise à jour de cette mesure, pas comme un ajout.",
+      "corrections": null
+    },
+    {
+      "candidate": "villepin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "agriculture",
+        "title": "Stratégie agricole dotée de 1,5 Md€ supplémentaires par an",
+        "description": "Stratégie nationale de transformation de l'agriculture élaborée avec les agriculteurs, mise en œuvre avec les chambres d'agriculture par des contrats d'objectifs terroir par terroir.",
+        "source_type": "officiel",
+        "source_title": "La France humaniste – « Réussir à nouveau », chapitre 22, proposition 222",
+        "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-22.html",
+        "source_date": null,
+        "source_page": "Proposition 222",
+        "precision": "chiffre",
+        "cost": {
+          "label": "1,5 Md€ supplémentaires par an",
+          "source_label": "La France humaniste – « Réussir à nouveau », chapitre 22",
+          "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-22.html"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-22.html",
+          "excerpt": "une stratégie nationale de transformation de l’agriculture française dotée d’1,5 milliard d’euros supplémentaires annuels"
+        }
+      ],
+      "reason": "Proposition 222 du programme « Réussir à nouveau » (publié sur le site le 20/11/2026), absente des mesures publiées.",
+      "n": 14,
+      "decision": "acceptee",
+      "motif": "Proposition 222 conforme ; le montant de 1,5 Md€ par an est donné pour la mesure elle-même.",
+      "corrections": null,
+      "applied_id": "villepin-agriculture-04"
+    },
+    {
+      "candidate": "villepin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "culture",
+        "title": "Fraction fixe de 4 % de l'impôt sur le revenu pour l'audiovisuel public",
+        "description": "Affectation d'une fraction constante de 4 % de l'impôt sur le revenu au financement de l'audiovisuel public, afin de stabiliser ses budgets.",
+        "source_type": "officiel",
+        "source_title": "La France humaniste – « Réussir à nouveau », chapitre 3, proposition 33",
+        "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-3.html",
+        "source_date": null,
+        "source_page": "Proposition 33",
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-3.html",
+          "excerpt": "Allouer une fraction constante de 4 % de l’impôt sur le revenu au financement de l’audiovisuel public"
+        }
+      ],
+      "reason": "Proposition 33 du programme « Réussir à nouveau » (publié sur le site le 20/11/2026), absente des mesures publiées.",
+      "n": 15,
+      "decision": "acceptee",
+      "motif": "Proposition 33 conforme (4 % de l'IR, budgets stabilisés) ; pas de doublon.",
+      "corrections": null,
+      "applied_id": "villepin-culture-04"
+    },
+    {
+      "candidate": "villepin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "securite",
+        "title": "15 000 places en structures éducatives fermées pour les primo-délinquants",
+        "description": "Création de 15 000 places dans des structures éducatives fermées « nouvelle génération », sous tutelle conjointe Justice et Éducation nationale.",
+        "source_type": "officiel",
+        "source_title": "La France humaniste – « Réussir à nouveau », chapitre 7, proposition 72",
+        "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-7.html",
+        "source_date": null,
+        "source_page": "Proposition 72",
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-7.html",
+          "excerpt": "créer 15 000 places dans des structures éducatives fermées nouvelle génération"
+        }
+      ],
+      "reason": "Proposition 72 du programme « Réussir à nouveau » (publié sur le site le 20/11/2026), absente des mesures publiées.",
+      "n": 16,
+      "decision": "acceptee",
+      "motif": "Proposition 72 conforme (15 000 places, tutelle conjointe Justice et Éducation nationale).",
+      "corrections": null,
+      "applied_id": "villepin-securite-04"
+    },
+    {
+      "candidate": "villepin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "logement",
+        "title": "30 000 places d'hébergement pour une stratégie « logement d'abord »",
+        "description": "Création de 30 000 places d'hébergement dans une stratégie « logement d'abord », avec développement de l'habitat partagé et du logement intergénérationnel.",
+        "source_type": "officiel",
+        "source_title": "La France humaniste – « Réussir à nouveau », chapitre 14, proposition 133",
+        "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-14.html",
+        "source_date": null,
+        "source_page": "Proposition 133",
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-14.html",
+          "excerpt": "Créer 30 000 places d’hébergement pour adopter une stratégie « logement d’abord »"
+        }
+      ],
+      "reason": "Proposition 133 du programme « Réussir à nouveau » (publié sur le site le 20/11/2026), absente des mesures publiées.",
+      "n": 17,
+      "decision": "acceptee",
+      "motif": "Proposition 133 conforme ; distinct de villepin-logement-02.",
+      "corrections": null,
+      "applied_id": "villepin-logement-03"
+    },
+    {
+      "candidate": "villepin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "sante",
+        "title": "100 000 places d'EHPAD et de logements intermédiaires sur dix ans",
+        "description": "Construction de 100 000 places d'EHPAD et de logements intermédiaires pour le grand âge, programmée sur dix ans, avec formation des professionnels à l'accompagnement de la fin de vie.",
+        "source_type": "officiel",
+        "source_title": "La France humaniste – « Réussir à nouveau », chapitre 15, proposition 151",
+        "source_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-15.html",
+        "source_date": null,
+        "source_page": "Proposition 151",
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/chapitre-15.html",
+          "excerpt": "Construire 100 000 places d’EHPAD et de logements intermédiaires pour le grand âge"
+        }
+      ],
+      "reason": "Proposition 151 du programme « Réussir à nouveau » (publié sur le site le 20/11/2026), absente des mesures publiées.",
+      "n": 18,
+      "decision": "acceptee",
+      "motif": "Proposition 151 conforme (100 000 places sur dix ans, formation à la fin de vie).",
+      "corrections": null,
+      "applied_id": "villepin-sante-04"
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "theme": "retraites",
+        "title": "Désindexer certaines années les pensions les plus élevées et supprimer l'abattement fiscal de 10 %",
+        "description": "Selon une tribune de David Lisnard, désindexation certaines années des pensions les plus élevées et retour sur l'abattement fiscal de 10 % des retraités, une fois la convergence des régimes public et privé engagée. Il propose aussi d'aligner la CSG sur les revenus d'activité sur le taux médian de celle des retraités, plutôt que de relever la CSG des retraités.",
+        "source_type": "officiel",
+        "source_title": "Pour une réforme des retraites qui réconcilie les générations (Nouvelle Énergie)",
+        "source_url": "https://www.unenouvelleenergie.fr/pour-une-reforme-des-retraites-qui-reconcilie-les-generations/",
+        "source_date": "2026-11-17",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/pour-une-reforme-des-retraites-qui-reconcilie-les-generations/",
+          "excerpt": "désindexer les pensions les plus élevées et revenir sur l’abattement fiscal de 10 %"
+        }
+      ],
+      "reason": "Absent des mesures retraites existantes (01 à 04) ; tribune publiée le 17/11/2026.",
+      "n": 19,
+      "decision": "rejetee",
+      "motif": "1) Tribune parue dans Le Figaro : source_type = declaration, pas officiel. 2) La condition est déformée : le texte dit « parallèlement », pas « une fois la convergence engagée ». 3) La désindexation recoupe lisnard-economie-01 et lisnard-retraites-01, la CSG recoupe la mesure CSG 9,2 % → 6,6 % ; seul l'abattement de 10 % est nouveau.",
+      "corrections": null
+    },
+    {
+      "candidate": "lisnard",
+      "kind": "add_measure",
+      "data": {
+        "theme": "economie",
+        "title": "Allocation sociale unique garantissant un gain de revenu à la reprise d'emploi",
+        "description": "Création d'une allocation sociale unique conçue pour garantir un gain de revenu disponible à la reprise d'un emploi et avantager les personnes qui travaillent, selon une tribune de David Lisnard.",
+        "source_type": "officiel",
+        "source_title": "Pour une réforme des retraites qui réconcilie les générations (Nouvelle Énergie)",
+        "source_url": "https://www.unenouvelleenergie.fr/pour-une-reforme-des-retraites-qui-reconcilie-les-generations/",
+        "source_date": "2026-11-17",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/pour-une-reforme-des-retraites-qui-reconcilie-les-generations/",
+          "excerpt": "une allocation sociale unique devra garantir un gain de revenu disponible à la reprise"
+        }
+      ],
+      "reason": "Mesure non recensée (aucun titre existant sur l'allocation unique) ; formulée dans la même tribune.",
+      "n": 20,
+      "decision": "rejetee",
+      "motif": "Doublon de lisnard-economie-03 (aides sociales regroupées en une allocation unique pour que l'emploi rapporte davantage).",
+      "corrections": null
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "add_measure",
+      "data": {
+        "theme": "agriculture",
+        "title": "Plan de sauvetage : prise en charge par l'État des intérêts de la dette agricole et report d'un an",
+        "description": "Prise en charge par l'État des 1,8 Md€ d'intérêts sur 60 Md€ de prêts bancaires des agriculteurs, et report d'un an des remboursements imposé aux banques, sauf pour les exploitations en bonne santé financière. Le communiqué annonce une trésorerie améliorée de 33 000 € par exploitation et un revenu de 8 000 € par an en moyenne.",
+        "source_type": "officiel",
+        "source_title": "Communiqué : plan de sauvetage pour notre agriculture (site de campagne de Nicolas Dupont-Aignan)",
+        "source_url": "https://www.dupontaignan.fr/actualite/communique-plan-de-sauvetage-pour-notre-agriculture/",
+        "source_date": "2026-11-19",
+        "source_page": null,
+        "precision": "chiffre",
+        "cost": {
+          "label": "2,1 Md€ par an pour l'État (plan de sauvetage)",
+          "source_label": "Communiqué : plan de sauvetage pour notre agriculture (Dupont-Aignan)",
+          "source_url": "https://www.dupontaignan.fr/actualite/communique-plan-de-sauvetage-pour-notre-agriculture/"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.dupontaignan.fr/actualite/communique-plan-de-sauvetage-pour-notre-agriculture/",
+          "excerpt": "L’État prendrait en charge les 1,8 milliards d’euros d’intérêts"
+        }
+      ],
+      "reason": "Nouveau communiqué du 19/11/2026 ; mesure absente des mesures publiées.",
+      "n": 21,
+      "decision": "acceptee",
+      "motif": "Mesure conforme au communiqué du 19/11/2026. Mais les 2,1 Md€, les 33 000 € et les 8 000 € portent sur tout le plan (1,8 Md€ d'intérêts + 0,3 Md€ de gazole non routier) et non sur la mesure : cost retiré et chiffres attribués au plan ; « par an » rétabli pour la trésorerie.",
+      "corrections": {
+        "cost": null,
+        "description": "Prise en charge par l'État des 1,8 Md€ d'intérêts sur 60 Md€ de prêts bancaires des agriculteurs, et report d'un an des remboursements imposé aux banques, sauf pour les agriculteurs en bonne santé financière. Selon le communiqué, l'ensemble du plan de sauvetage améliorerait en moyenne la trésorerie de chaque exploitation de 33 000 € par an et son revenu de 8 000 € par an, pour un coût de 2,1 Md€ par an pour l'État."
+      },
+      "applied_id": "dupont-aignan-agriculture-07"
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "add_measure",
+      "data": {
+        "theme": "agriculture",
+        "title": "Baisse supplémentaire de 10 centimes des taxes sur le gazole non routier",
+        "description": "Baisse de 10 centimes supplémentaires des taxes sur le gazole non routier, estimée par le communiqué à 300 M€ d'économies pour les agriculteurs.",
+        "source_type": "officiel",
+        "source_title": "Communiqué : plan de sauvetage pour notre agriculture (site de campagne de Nicolas Dupont-Aignan)",
+        "source_url": "https://www.dupontaignan.fr/actualite/communique-plan-de-sauvetage-pour-notre-agriculture/",
+        "source_date": "2026-11-19",
+        "source_page": null,
+        "precision": "chiffre",
+        "cost": {
+          "label": "300 M€ d'économies pour les agriculteurs",
+          "source_label": "Communiqué : plan de sauvetage pour notre agriculture (Dupont-Aignan)",
+          "source_url": "https://www.dupontaignan.fr/actualite/communique-plan-de-sauvetage-pour-notre-agriculture/"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://www.dupontaignan.fr/actualite/communique-plan-de-sauvetage-pour-notre-agriculture/",
+          "excerpt": "baisse des taxes du gazole non routier de 10 centimes supplémentaires"
+        }
+      ],
+      "reason": "Nouveau communiqué du 19/11/2026 ; mesure absente des mesures publiées.",
+      "n": 22,
+      "decision": "acceptee",
+      "motif": "Conforme au communiqué ; distinct de dupont-aignan-agriculture-03, plus général. Les 300 M€ sont une économie pour les agriculteurs, pas un coût annoncé : ils restent dans la description et cost est retiré.",
+      "corrections": {
+        "cost": null
+      },
+      "applied_id": "dupont-aignan-agriculture-08"
+    },
+    {
+      "candidate": "dupont-aignan",
+      "kind": "add_measure",
+      "data": {
+        "theme": "agriculture",
+        "title": "Double affichage des prix de vente et d'achat des fruits et légumes",
+        "description": "Affichage conjoint du prix de vente et du prix d'achat en vrac aux agriculteurs des fruits et légumes, avec information du consommateur sur des coefficients jugés raisonnables entre prix d'achat et prix de vente.",
+        "source_type": "officiel",
+        "source_title": "Communiqué : plan de sauvetage pour notre agriculture (site de campagne de Nicolas Dupont-Aignan)",
+        "source_url": "https://www.dupontaignan.fr/actualite/communique-plan-de-sauvetage-pour-notre-agriculture/",
+        "source_date": "2026-11-19",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://www.dupontaignan.fr/actualite/communique-plan-de-sauvetage-pour-notre-agriculture/",
+          "excerpt": "Double affichage du prix de vente et d’achat en vrac aux agriculteurs"
+        }
+      ],
+      "reason": "Nouveau communiqué du 19/11/2026 ; mesure absente des mesures publiées.",
+      "n": 23,
+      "decision": "acceptee",
+      "motif": "Conforme au communiqué. Reformulation pour attribuer l'information au gouvernement, comme le texte, et mettre « raisonnables » entre guillemets, au lieu de « jugés raisonnables ».",
+      "corrections": {
+        "description": "Affichage conjoint du prix de vente et du prix d'achat en vrac aux agriculteurs des fruits et légumes, le consommateur étant informé par le gouvernement sur des coefficients « raisonnables » entre prix d'achat et prix de vente."
+      },
+      "applied_id": "dupont-aignan-agriculture-09"
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "emploi",
+        "title": "Une garantie d'emploi civique pour les jeunes",
+        "description": "Tout jeune qui le demande aurait accès à un emploi civique, à la durée choisie, rémunéré au moins au Smic avec cotisations retraite. Il serait exercé dans des missions non assurées par le marché (animation, aide aux personnes âgées, écologie) avec des structures à but non lucratif.",
+        "source_type": "officiel",
+        "source_title": "Cahier de campagne n°11 – Redonner aux jeunes les clefs de leur avenir",
+        "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf#page=31",
+        "source_date": "2026-11",
+        "source_page": "p. 31",
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf",
+          "excerpt": "emploi serait rémunéré au Smic, minimum"
+        }
+      ],
+      "reason": "Nouveau cahier n°11 (jeunesses), mis en ligne le 18 nov. 2026.",
+      "n": 24,
+      "decision": "acceptee",
+      "motif": "Cahier n°11, p. 31-32 (#page=31 correspond à la page imprimée) : Smic minimum, cotisations retraite, missions non assurées par le marché, structures à but non lucratif.",
+      "corrections": null,
+      "applied_id": "ruffin-emploi-07"
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "education",
+        "title": "Refondre les bourses étudiantes : socle, complément logement, 12 mois",
+        "description": "Les bourses seraient élargies, versées sur 12 mois et indexées sur l'inflation, avec un socle et un complément logement. Le montant maximal pour les boursiers les plus précaires non cohabitants serait porté au seuil de pauvreté à 50 %, soit 1 114 € par mois.",
+        "source_type": "officiel",
+        "source_title": "Cahier de campagne n°11 – Redonner aux jeunes les clefs de leur avenir",
+        "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf#page=33",
+        "source_date": "2026-11",
+        "source_page": "p. 33",
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf",
+          "excerpt": "50%, c’est-à-dire 1 114 €/mois"
+        }
+      ],
+      "reason": "Nouveau cahier n°11.",
+      "n": 25,
+      "decision": "acceptee",
+      "motif": "Montant de 1 114 €/mois en p. 33 ; socle, complément logement, 12 mois et indexation sur l'inflation en p. 34 : page élargie.",
+      "corrections": {
+        "source_page": "p. 33-34"
+      },
+      "applied_id": "ruffin-education-10"
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "emploi",
+        "title": "Garantie jeune universelle et sans conditions pour les jeunes ni en emploi ni en formation",
+        "description": "Les jeunes sans emploi ni formation percevraient un revenu de solidarité active mensuel couplé à un accompagnement intensif, avec contact 3 à 4 mois après la sortie du secondaire et guichet unique couvrant emploi, logement et santé.",
+        "source_type": "officiel",
+        "source_title": "Cahier de campagne n°11 – Redonner aux jeunes les clefs de leur avenir",
+        "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf#page=35",
+        "source_date": "2026-11",
+        "source_page": "p. 35",
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf",
+          "excerpt": "garantie jeune universelle et sans conditions"
+        }
+      ],
+      "reason": "Nouveau cahier n°11.",
+      "n": 26,
+      "decision": "acceptee",
+      "motif": "Proposition 3, p. 35-36 : RSA mensuel, accompagnement intensif, contact 3 à 4 mois après le secondaire, guichet unique.",
+      "corrections": null,
+      "applied_id": "ruffin-emploi-08"
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "logement",
+        "title": "Créer 200 000 places de logements publics pour étudiants et jeunes travailleurs d'ici 2032",
+        "description": "L'objectif est de 200 000 places d'ici 2032 (150 000 pour étudiants, 50 000 pour jeunes actifs), concentrées dans les métropoles les plus exposées et près des transports et lieux d'enseignement.",
+        "source_type": "officiel",
+        "source_title": "Cahier de campagne n°11 – Redonner aux jeunes les clefs de leur avenir",
+        "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf#page=44",
+        "source_date": "2026-11",
+        "source_page": "p. 44",
+        "precision": "chiffre"
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf",
+          "excerpt": "objectif ambitieux de 200 000 places d’ici 2032"
+        }
+      ],
+      "reason": "Nouveau cahier n°11; distinct de la mesure existante de 200 000 logements publics par an.",
+      "n": 27,
+      "decision": "acceptee",
+      "motif": "p. 44 conforme (200 000 places d'ici 2032, 150 000 + 50 000) ; distinct de ruffin-logement-02.",
+      "corrections": null,
+      "applied_id": "ruffin-logement-07"
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "add_measure",
+      "data": {
+        "theme": "numerique",
+        "title": "Créer un laboratoire public de recherche de pointe en IA, à 1 Md€ par an",
+        "description": "Un laboratoire public de 500 personnes serait financé à hauteur d'un milliard d'euros par an, en partie sur les crédits de défense, avec un tiers de son budget de fonctionnement en commande publique vers des industriels français et européens.",
+        "source_type": "officiel",
+        "source_title": "Cahier de campagne n°10 – De la colonie numérique aux souverainetés numériques",
+        "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-10-IA-Vdef.pdf#page=45",
+        "source_date": "2026-11",
+        "source_page": "p. 45",
+        "precision": "chiffre",
+        "cost": {
+          "label": "1 Md€ par an",
+          "source_label": "Cahier de campagne n°10 (p. 45)",
+          "source_url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-10-IA-Vdef.pdf#page=45"
+        }
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-10-IA-Vdef.pdf",
+          "excerpt": "d’un milliard d’euros par an permettrait de faire travailler une équipe"
+        }
+      ],
+      "reason": "Nouveau cahier n°10.",
+      "n": 28,
+      "decision": "acceptee",
+      "motif": "Cahier n°10, p. 45 : 1 Md€ par an, 500 personnes, crédits de défense. Le tiers en commande publique figure p. 47 : page élargie. Le montant est donné pour la mesure elle-même.",
+      "corrections": {
+        "source_page": "p. 45-47"
+      },
+      "applied_id": "ruffin-numerique-05"
+    },
+    {
+      "candidate": "tondelier",
+      "kind": "add_measure",
+      "data": {
+        "theme": "securite",
+        "title": "Dépénaliser l'usage, l'achat et la détention de toutes les drogues pour usage personnel",
+        "description": "L'usage, l'achat et la détention de toutes les drogues pour usage personnel ne seraient plus poursuivis pénalement, au profit de la prévention et d'un accompagnement sanitaire et social ; trafic, production et vente resteraient illégaux. Le cannabis serait légalisé dans un cadre encadré.",
+        "source_type": "officiel",
+        "source_title": "Drogues, tabac : et si on faisait enfin de la santé publique une priorité ? (blog de Marine Tondelier)",
+        "source_url": "https://marinetondelier.fr/blog/drogues-tabac-sante-publique",
+        "source_date": "2026-11-18",
+        "source_page": null,
+        "precision": "precis"
+      },
+      "evidence": [
+        {
+          "url": "https://marinetondelier.fr/blog/drogues-tabac-sante-publique",
+          "excerpt": "Dépénaliser l’usage, l’achat et la détention de toutes les drogues pour usage personnel"
+        }
+      ],
+      "reason": "Proposition du programme des Écologistes, détaillée sur le blog de la candidate le 18 nov. 2026 ; absente des mesures existantes (seul le cannabis légalisé l'est).",
+      "n": 29,
+      "decision": "acceptee",
+      "motif": "Billet signé du 18/11/2026 sur le site de la candidate, qui cite le programme des Écologistes ; mesure conforme. La phrase sur le cannabis est retirée : elle double tondelier-securite-04.",
+      "corrections": {
+        "description": "L'usage, l'achat et la détention de toutes les drogues pour usage personnel ne seraient plus poursuivis pénalement, au profit de la prévention et d'un accompagnement sanitaire et social ; trafic, production et vente resteraient illégaux."
+      },
+      "applied_id": "tondelier-securite-07"
+    },
+    {
+      "candidate": "ruffin",
+      "kind": "update_program",
+      "data": {
+        "thematic_links_add": [
+          {
+            "theme": "numerique",
+            "title": "Livret de campagne n° 10 – Intelligence artificielle et numérique",
+            "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-10-IA-Vdef.pdf",
+            "format": "pdf",
+            "page_range": null
+          },
+          {
+            "theme": "famille",
+            "title": "Livret de campagne n° 11 – Jeunesses",
+            "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf",
+            "format": "pdf",
+            "page_range": null
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf",
+          "excerpt": "PDF du livret n° 11 (voir mesures ci-dessus)"
+        },
+        {
+          "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-10-IA-Vdef.pdf",
+          "excerpt": "PDF du livret n° 10 (voir mesures ci-dessus)"
+        }
+      ],
+      "reason": "Inventaire documentaire : deux nouveaux livrets officiels publiés en novembre 2026, à ajouter à program.thematic_links.",
+      "n": 30,
+      "decision": "acceptee",
+      "motif": "Les deux PDF sont ouverts et sont bien des cahiers officiels. Les titres proposés ne sont pas exacts : on reprend les intitulés de couverture, au format des liens existants (« Cahier n°X – … »).",
+      "corrections": {
+        "thematic_links_add": [
+          {
+            "theme": "numerique",
+            "title": "Cahier n°10 – De la colonie numérique aux souverainetés numériques",
+            "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-10-IA-Vdef.pdf",
+            "format": "pdf",
+            "page_range": null
+          },
+          {
+            "theme": "famille",
+            "title": "Cahier n°11 – Redonner aux jeunes les clefs de leur avenir",
+            "url": "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf",
+            "format": "pdf",
+            "page_range": null
+          }
+        ]
+      }
+    }
+  ]
+}

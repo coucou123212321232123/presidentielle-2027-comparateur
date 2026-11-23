@@ -1582,5 +1582,47 @@
     "precision": "precis",
     "last_verified": "2026-11-16",
     "added": "2026-11-16"
+  },
+  {
+    "id": "attal-logement-05",
+    "theme": "logement",
+    "title": "Banque nationale d'investissement pour le logement : achat en deux temps",
+    "description": "Créer une Banque nationale d'investissement pour le logement permettant d'acquérir sa résidence principale en deux temps, avec un financement public portant sur la moitié de la valeur du bien.",
+    "source_type": "officiel",
+    "source_title": "Gabriel Attal sur LCI : réinventer le modèle social (attalpresident.fr)",
+    "source_url": "https://attalpresident.fr/actualites/gabriel-attal-lci-restos-du-coeur-nouveau-modele-social",
+    "source_date": "2026-11-16",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
+  },
+  {
+    "id": "attal-emploi-06",
+    "theme": "emploi",
+    "title": "Allocation sociale unique plafonnée à 75 % du SMIC",
+    "description": "Créer une allocation sociale unique, plafonnée à 75 % du SMIC, afin que les revenus du travail restent supérieurs à ceux de l'inactivité.",
+    "source_type": "officiel",
+    "source_title": "Gabriel Attal face aux petits patrons sur LCI (attalpresident.fr)",
+    "source_url": "https://attalpresident.fr/actualites/gabriel-attal-petits-patrons-professionnels-liberaux-lci",
+    "source_date": "2026-11-12",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
+  },
+  {
+    "id": "attal-education-13",
+    "theme": "education",
+    "title": "25 % du temps scolaire en 4e et 3e pour des enseignements différenciés",
+    "description": "Consacrer 25 % du temps scolaire en quatrième et troisième à des enseignements différenciés pour faire découvrir davantage de métiers et de formations.",
+    "source_type": "officiel",
+    "source_title": "Gabriel Attal face aux petits patrons sur LCI (attalpresident.fr)",
+    "source_url": "https://attalpresident.fr/actualites/gabriel-attal-petits-patrons-professionnels-liberaux-lci",
+    "source_date": "2026-11-12",
+    "source_page": null,
+    "precision": "chiffre",
+    "last_verified": "2026-11-23",
+    "added": "2026-11-23"
   }
 ]
