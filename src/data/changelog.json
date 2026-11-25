@@ -640,5 +640,17 @@
         "text": "1 mesure ajoutée (dépénalisation de l'usage des drogues)."
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "summary": "Votes à l'Assemblée : ajout d'un scrutin et de son explication.",
+    "accepted": 1,
+    "rejected": 0,
+    "changes": [
+      {
+        "candidate": "Votes à l'Assemblée",
+        "text": "Relance et décentralisation du logement (scrutin du 2026-11-24) : ajouté, explication ajoutée"
+      }
+    ]
   }
 ]

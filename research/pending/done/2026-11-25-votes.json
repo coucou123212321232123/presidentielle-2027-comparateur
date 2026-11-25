@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-25",
+  "routine": "votes",
+  "reperage": {
+    "commande": "npm run votes-candidates (index régénéré par fetch-votes le 2026-11-25)",
+    "scrutins_listes": 1,
+    "dernier_scrutin_indexe": "2026-11-24",
+    "ajoutes": [
+      "l17-10102 : projet de loi relance et décentralisation du logement, ensemble du texte en première lecture (362 pour, 118 contre, 50 abstentions)"
+    ],
+    "ecartes": []
+  },
+  "explications": {
+    "lot": "research/votes/explications/2026-11-25.json",
+    "traitees": [
+      "l17-10102"
+    ],
+    "acceptees": [
+      "l17-10102 : résumé + 3 arguments pour (DR, DEM), 3 contre (ECOS), 2 abstention (SOC) ; deux formulations alignées sur les sources (LCP, compte rendu)"
+    ],
+    "rejets": [
+      "l17-10102 : 3e argument abstention (SOC) retiré : citation inexacte et mention des députés de Gironde ayant voté pour"
+    ],
+    "sans_resultat": [],
+    "reste_semaine_suivante": [
+      "l17-10102 : explication de vote LFI-NFP (compte rendu encore en cours de finalisation) ; suites (CMP)"
+    ]
+  }
+}
