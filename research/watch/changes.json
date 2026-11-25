@@ -1,15 +1,22 @@
 {
   "since": "2026-11-23",
-  "generated": "2026-11-24",
+  "generated": "2026-11-25",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
   "candidates": {
     "arthaud": {
       "changed_pages": [
         {
+          "url": "https://www.nathalie-arthaud.info",
+          "changed_at": "2026-11-25",
+          "removed_blocks": 1,
+          "added": []
+        },
+        {
           "url": "https://www.lutte-ouvriere.org/portail/index.html",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 11,
+          "changed_at": "2026-11-25",
+          "removed_blocks": 14,
           "added": [
+            "Ce mardi 24 novembre, la direction de Stellantis Sochaux a prétexté une baisse de commandes, la concurrence, pour arrêter la demi-équipe de nuit en janvier 2027 et renvoyer 500 intérimaires, soit la moitié de ceux actuellement à l’usine. Ces 5 dernières années, baisses de commandes ou pas, les familles Peugeot, Agnelli du groupe Stellantis ont engrangé plus de 54 milliards d’euros de profits et re",
             "Trump, Xi Jinping et Poutine, les chefs des trois pays qui possèdent les plus grands arsenaux nucléaires au monde, investissent des sommes colossales dans les armements et sont déjà en conflit sur de nombreux terrains, se sont rencontrés au sommet de Shenzhen, en Chine. Ils ont multiplié les accolades et posé en faiseurs de paix, de stabilité et de sécurité internationale.",
             "Après treize ans de discussions, les États réunis à Genève se sont séparés sans s’accorder sur l'interdiction des armes autonomes, ces machines capables de sélectionner et d’attaquer des cibles sans intervention humaine. Les États-Unis, la Russie et Israël se sont opposés à l’ouverture de négociations pour un traité international contraignant.",
             "Le 18 novembre, les patrons de la verrerie de Vayres, près de Libourne, ont annoncé la fermeture définitive de l’entreprise. Ce sont 170 travailleurs qui vont se retrouver au chômage, sans compter les conséquences pour ceux des entreprises sous-traitantes.",
@@ -17,10 +24,17 @@
             "Verrerie de Vayres (Gironde) : les profits des actionnaires contre la vie des ouvriers",
             "L'éditorial en vidéo : L’ordre capitaliste mondial, c’est la guerre !",
             "Violences policières : Charges lourdes, peines légères",
+            "Stellantis Sochaux : : Renvoi de 500 intérimaires",
             "L’ordre capitaliste mondial, c’est la guerre !",
             "Augmenter les salaires : une nécessité vitale",
             "Armement : Les robots tueurs ont des maîtres"
           ]
+        },
+        {
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+          "changed_at": "2026-11-25",
+          "removed_blocks": 1,
+          "added": []
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=20",
@@ -41,14 +55,20 @@
       "changed_pages": [
         {
           "url": "https://attalpresident.fr/",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 6,
+          "changed_at": "2026-11-25",
+          "removed_blocks": 12,
           "added": [
             "Ce jeudi 19 novembre, Gabriel Attal était auditionné par la Fédération française du bâtiment (FFB) pour présenter sa vision du logement et de la construction. Face aux professionnels du secteur, il a défendu une ambition claire : sortir de la crise du logement, relancer la construction et permettre à davantage de Français de devenir propriétaires. Pour y parvenir, il propose un choc d offre, une s",
+            "Invité de « L’Heure de vérité » ce jeudi 19 novembre, Gabriel Attal a défendu sa vision pour l’avenir de la France. Du rassemblement politique à la hausse des salaires, en passant par la jeunesse, l’intelligence artificielle et l’Europe, il a présenté les grandes orientations de son projet : rompre avec un modèle à bout de souffle, changer la manière d’exercer le pouvoir et permettre à la France d",
             "Deux cents milliards d euros pour l intelligence artificielle et l innovation d ici dix ans, à parts égales entre financement public et privé.",
             "Trente minutes consacrées chaque jour à l esprit critique, au décryptage de l information et à l argumentation, dès le plus jeune âge.",
+            "Une réponse systématique aux dégradations : faire payer les casseurs et faire réparer les mineurs par des travaux d intérêt général.",
             "Gabriel Attal devant la Fédération française du bâtiment : « Refaire de la France une nation de propriétaires »",
-            "Un prix de l eau protégé pour les litres dont chaque famille a besoin au quotidien."
+            "Des amendes forfaitaires réglées sur place et la saisie des véhicules en cas d occupation illégale persistante.",
+            "Augmenter les achats de défense français réalisés en Europe et la même règle défendue au niveau de l Union.",
+            "Gabriel Attal dans « L’Heure de vérité » : « Je veux redonner un temps d’avance à la France »",
+            "Un prix de l eau protégé pour les litres dont chaque famille a besoin au quotidien.",
+            "Gabriel Attal et 150 jeunes construisent ensemble un Pacte pour la jeunesse"
           ]
         },
         {
@@ -70,11 +90,15 @@
         },
         {
           "url": "https://attalpresident.fr/actualites",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-25",
+          "removed_blocks": 6,
           "added": [
             "Ce jeudi 19 novembre, Gabriel Attal était auditionné par la Fédération française du bâtiment (FFB) pour présenter sa vision du logement et de la construction. Face aux professionnels du secteur, il a défendu une ambition claire : sortir de la crise du logement, relancer la construction et permettre à davantage de Français de devenir propriétaires. Pour y parvenir, il propose un choc d offre, une s",
-            "Gabriel Attal devant la Fédération française du bâtiment : « Refaire de la France une nation de propriétaires »"
+            "Invité de « L’Heure de vérité » ce jeudi 19 novembre, Gabriel Attal a défendu sa vision pour l’avenir de la France. Du rassemblement politique à la hausse des salaires, en passant par la jeunesse, l’intelligence artificielle et l’Europe, il a présenté les grandes orientations de son projet : rompre avec un modèle à bout de souffle, changer la manière d’exercer le pouvoir et permettre à la France d",
+            "Samedi 21 novembre, 150 jeunes tirés au sort, venus de toute la France, se sont réunis autour de Gabriel Attal pour construire ensemble un Pacte pour la jeunesse. École, orientation, emploi, logement, santé mentale : après plusieurs heures de débats, leurs propositions ont nourri huit engagements pour répondre aux attentes de leur génération et lui redonner confiance en l avenir.",
+            "Gabriel Attal devant la Fédération française du bâtiment : « Refaire de la France une nation de propriétaires »",
+            "Gabriel Attal dans « L’Heure de vérité » : « Je veux redonner un temps d’avance à la France »",
+            "Gabriel Attal et 150 jeunes construisent ensemble un Pacte pour la jeunesse"
           ]
         },
         {
@@ -228,6 +252,14 @@
         {
           "url": "https://attalpresident.fr/actualites/gabriel-attal-federation-francaise-du-batiment-nation-de-proprietaires",
           "first_seen": "2026-11-24"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-150-jeunes-pacte-pour-la-jeunesse",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://attalpresident.fr/actualites/gabriel-attal-heure-de-verite-temps-d-avance-france",
+          "first_seen": "2026-11-25"
         },
         {
           "url": "https://attalpresident.fr/programme/mesures/fermer-cent-colleges-difficulte",
@@ -475,34 +507,34 @@
         },
         {
           "url": "https://www.dupontaignan.fr/",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 28,
+          "changed_at": "2026-11-25",
+          "removed_blocks": 66,
           "added": [
             "L’hémicycle de l’Assemblée nationale n’est pas un studio de propagande. Que des militants d’extrême gauche puissent y tourner une séquence hostile à la police pose une sérieuse question sur le respect de nos institutions et l’autorité de leur présidence.",
             "Călin Georgescu, le candidat souverainiste roumain arrivé en tête du premier tour de la présidentielle en 2024, avant l’annulation honteuse du scrutin sous pression de l’Union européenne, sort de détention provisoire après 56 jours.",
             "J’y présenterai à cette occasion les 25 mesures de mon projet présidentiel pour retrouver un véritable équilibre du territoire et valoriser le travail essentiel des maires. ... Voir plus Voir moins",
             "Une cyberattaque de grande ampleur paralyse le CHU de Guadeloupe. Nos hôpitaux sont devenus des cibles, et ce sont les patients et la continuité des soins qui paient le prix de notre vulnérabilité.",
+            "Le secrétaire général de l’OTAN, Mark Rutte, appelle les Européens à préparer leurs sociétés à la guerre, jusqu’à demander aux citoyens de ne pas gêner les militaires et de leur apporter leur aide.",
+            "LA HONTE. Les usines automobiles françaises ferment les unes après les autres et Macron se réjouit niaisement de l’installation d’une usine chinoise, qui acte la colonisation de notre industrie.",
             "La France devient-elle un pays où il ne fait plus bon investir ? Le constat du Telegraph sur les difficultés des entreprises britanniques à se développer chez nous devrait nous alerter.",
             "Il reste assigné à résidence et poursuivi par la justice, mais cela est un premier exploit pour le peuple roumain, à qui on avait volé sa souveraineté et son choix démocratique.",
+            "Rencontre inattendue entre les deux candidats à la présidentielle ET maires les mieux réélus de France, à 80% des voix à Yerres et à Ville de Cannes . ... Voir plus Voir moins",
             "J’y présenterai à cette occasion les 25 mesures de mon projet présidentiel pour retrouver un véritable équilibre du territoire et valoriser le travail essentiel des maires.",
             "La protection de nos infrastructures essentielles doit être une priorité nationale. Nous ne pouvons pas laisser nos établissements de santé à la merci de telles attaques.",
+            "Les maires sont les gardiens de notre démocratie… et ils ont le pouvoir de changer les choses en parrainant des candidats libres et différents ! ... Voir plus Voir moins",
             "Homme de convictions et d’engagement, il a marqué l’histoire de notre pays par ses écrits, son courage et sa vision de la culture comme héritage à transmettre à tous.",
             "Soutenir la presse ne doit pas devenir un prétexte pour dicter aux entreprises comment dépenser leur argent. La liberté économique mérite aussi d’être défendue.",
+            "Rencontre inattendue entre les deux candidats à la présidentielle ET maires les mieux réélus de France, à 80% des voix à @yerres_maville et à @villecannes",
+            "Accompagné d’une délégation de maires ruraux, j’ai présenté au Salon des maires mes 25 mesures pour sauver nos communes et redonner vie à nos campagnes !",
+            "Cette mesure est ESSENTIELLE pour redonner un peu d’air aux plus modestes et relancer notre consommation, aujourd’hui à l’arrêt. ... Voir plus Voir moins",
+            "Assez des fermetures de services publics, des décisions déconnectées prises dans les cabinets à Paris et des normes délirantes qui étouffent les élus !",
             "Son parcours nous rappelle qu’une grande nation se construit aussi par la force de ses idées, la fidélité à son histoire et le courage de ses actes.",
             "Au nom du pluralisme de la presse, près de 3 000 annonceurs pourraient être contraints de réorienter leurs investissements vers certains médias.",
+            "Combien de temps les Français devront-ils encore subir « ce comique de répétition » avec ses fausses leçons de morale ? ... Voir plus Voir moins",
+            "Les maires sont les gardiens de notre démocratie… et ils ont le pouvoir de changer les choses en parrainant des candidats libres et différents !",
             "Voir les commentaires Like reaction Love reaction Haha reaction Wow reaction Angry reaction Reactions: 1649 Partages : 220 Commentaires : 89",
-            "On est chez les fous ! Le gouvernement veut désormais décider où les entreprises doivent dépenser une partie de leur budget publicitaire !",
-            "Commerces pillés, coûts de protection en hausse, fiscalité pénalisante : les entreprises font face à des obstacles toujours plus nombreux.",
-            "Yaël Braun-Pivet doit s’expliquer sur les conditions dans lesquelles de telles images ont pu être tournées. ... Voir plus Voir moins",
-            "Il y a 50 ans disparaissait André Malraux, écrivain, résistant et premier ministre des Affaires culturelles de la Ve République.",
-            "Je serai présent du mardi 24 au jeudi 26 novembre au Salon des Maires, à Paris, accompagné d’une délégation de maires ruraux.",
-            "Voir les commentaires Like reaction Haha reaction Wow reaction Angry reaction Reactions: 143 Partages : 48 Commentaires : 12",
-            "Voir les commentaires Like reaction Wow reaction Sad reaction Angry reaction Reactions: 105 Partages : 32 Commentaires : 4",
-            "www.telegraph.co.uk/business/2026/11/22/france-is-becoming-a-no-go-zone-for-british-companies/ ... Voir plus Voir moins",
-            "Voir les commentaires Like reaction Love reaction Haha reaction Reactions: 148 Partages : 35 Commentaires : 6",
-            "« On est chez les fous » : Nicolas Dupont-Aignan dévoile son plan pour sauver l’immobilier !",
-            "Les sénateurs osent taxer les malades du cancer. Jusqu’où iront-ils dans leur inhumanité ?",
-            "Participez à la campagne présidentielle : dons.dupontaignan.fr ... Voir plus Voir moins"
+            "L’Europe a besoin de dirigeants capables de défendre la paix, de privilégier la diplomatie et d’éviter l’engrenage d’une 3e guerre mondiale.",
+            "On est chez les fous ! Le gouvernement veut désormais décider où les entreprises doivent dépenser une partie de leur budget publicitaire !"
           ]
         }
       ],
@@ -513,30 +545,50 @@
         }
       ]
     },
+    "le-pen": {
+      "changed_pages": [],
+      "new_pages": [
+        {
+          "url": "https://marinelepen.com/actualites/marine-le-pen-presente-sa-reforme-pour-reparer-le-systeme-de-retraites",
+          "first_seen": "2026-11-25"
+        }
+      ]
+    },
     "lisnard": {
       "changed_pages": [
         {
           "url": "https://www.unenouvelleenergie.fr/notre-programme/",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-25",
+          "removed_blocks": 2,
           "added": [
-            "Prochains rendez-vous : Paris Centre, Paris 8e, Strasbourg et Rouen"
+            "Prochains rendez-vous : Paris Centre, Paris 8e, Strasbourg et Rouen",
+            "Prochains rendez-vous : Marseille, Montauban et La Teste-de-Buch"
           ]
         },
         {
           "url": "https://www.unenouvelleenergie.fr/",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 9,
+          "changed_at": "2026-11-25",
+          "removed_blocks": 17,
           "added": [
             "Invité du Grand Oral BFMTV-Le Figaro, dimanche 22 novembre, David Lisnard a détaillé son projet pour l élection présidentielle de 2027. Primaire ouverte, réforme de l État, réduction de la bureaucratie, retraites, éducation et souveraineté économique : le président de Nouvelle Énergie a défendu sa vision d une rupture avec le fonctionnement actuel du pays, tout en précisant ses positions face au m",
             "Brice Alzon, référent Nouvelle Énergie Paris Centre, vous invite à un afterwork avec Jonathan Pinet, auteur du livre « Sophismes fiscaux : contes d un pays où tout se taxe », préfacé par David Lisnard. Mardi 24 novembre à 18h30, à Paris Centre Bistrot du Jardin, 33 rue Berger Entrée sous condition d une consommation Infos et contact : paris@unenouvelleenergie.fr",
+            "Jérôme Cosnard, maire de Coutras, Yves d Amécourt, vice-président de Nouvelle Énergie, et Jack Allais, référent Nouvelle Énergie Libourne, vous invitent à une réunion publique. Jeudi 26 novembre, 18h30, à Libourne Salle du Verdet, 12 rue de Toussaint, 33500 Libourne Infos et contact : gironde@unenouvelleenergie.fr",
             "Clément Labessouille, relais Jeunes Énergies Seine-Maritime, vous invite à un Afterwork Jeunes Énergies, l occasion d échanger sur l actualité politique et celle de David Lisnard. Mardi 24 novembre à 19h, à Rouen My Pub, 12 place du Vieux Marché Infos et contact : jeunesenergies@unenouvelleenergie.fr",
+            "Victor Rebière, relais Jeunes Énergies Tarn-et-Garonne, vous invite à un Afterwork Jeunes Énergies, l occasion d échanger sur l actualité politique et celle de David Lisnard. Mercredi 25 novembre à 19h30, à Montauban L Agora, 9 place Nationale Infos et contact : jeunesenergies@unenouvelleenergie.fr",
             "Porté par des sondages flatteurs, le maire de Cannes accélère sa campagne présidentielle. Mais, avant, il devra passer par l’élection pour un troisième mandat à la tête de l’Association des maires de France. Ses détracteurs l’accusent de courir deux lièvres à la fois. Il répond au « Point ».",
             "Nouvelle Énergie Nord et Pas-de-Calais vous invitent à une conférence sur le narcotrafic avec Étienne Blanc, ancien sénateur du Rhône et porte-voix de Nouvelle Énergie. Mardi 24 novembre, 19h (ouverture des portes à 18h30), à Sainte-Catherine Khub Arras Karting, 78 route de Béthune",
+            "Les Jeunes Énergies Bouches-du-Rhône vous invitent à un afterwork, l occasion d échanger sur l actualité politique et celle de David Lisnard. Mercredi 25 novembre à 19h, à Marseille Le Colombia, 572 rue Paradis Infos et contact : jeunesenergies@unenouvelleenergie.fr",
+            "Soirée Beaujolais Nouveau avec Geneviève Machery, référente Nouvelle Énergie Gironde - Sud Bassin d Arcachon, et Denis Pernin, relais Nouvelle Énergie Gironde. Jeudi 26 novembre à 18h30, La Teste-de-Buch, La Kantine de Madame, 171 rue Marcel-Dassault.",
             "David Lisnard sur BFMTV-Le Figaro : « Je veux faire le ménage au sommet de l’État »",
+            "SOIRÉE BEAUJOLAIS NOUVEAU NOUVELLE ÉNERGIE GIRONDE : LA TESTE-DE-BUCH",
             "CONFÉRENCE NOUVELLE ÉNERGIE NORD ET PAS-DE-CALAIS : NARCOTRAFIC",
+            "AFTERWORK JEUNES ÉNERGIES BOUCHES-DU-RHÔNE : MARSEILLE",
+            "AFTERWORK JEUNES ÉNERGIES TARN-ET-GARONNE : MONTAUBAN",
+            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE GIRONDE : LIBOURNE",
             "Khub Arras Karting, SAINTE-CATHERINE, PAS-DE-CALAIS",
-            "AFTERWORK JEUNES ÉNERGIES SEINE-MARITIME : ROUEN"
+            "AFTERWORK JEUNES ÉNERGIES SEINE-MARITIME : ROUEN",
+            "La Kantine de Madame, LA TESTE-DE-BUCH, GIRONDE",
+            "Le Colombia, MARSEILLE, BOUCHES-DU-RHÔNE"
           ]
         },
         {
@@ -567,6 +619,114 @@
           "first_seen": "2026-11-24"
         },
         {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-puy-de-dome-chatel-guyon/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-pyrenees-atlantiques-pau/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/journee-militante-jeunes-energies-maine-et-loire-angers/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-du-lot-et-garonne-nouvelle-energie-villeneuve-sur-lot/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-adherents-saint-eloi-2026-11-27/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/rencontre-nouvelle-energie-a-sao-paulo-2026-12-08/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-nouvelle-energie-val-de-marne-saint-maur-des-fosses-2026-12-01/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-jeunes-energies-chartres-2026-12-16/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/presentation-du-programme-nouvelle-energie-par-yves-damecourt-laigne-saint-gervais-2026-12-08/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/sinformer-amboise-2026-12-05/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/rencontre-presidentielles-2027-nouvelle-energie-floride-naples/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-falaise-2026-11-27/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/itinerances-tarn-et-garonnaises-grand-sud-tarn-et-garonne-labastide-saint-pierre-2026-11-26/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/sengager-2026-11-26/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-des-adherents-nogent-le-rotrou-2026-12-01/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/cafe-debat-le-havre-2026-12-05/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-des-jeunes-energies-de-lyonne-auxerre-2026-12-04/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-avec-beatrice-de-montille-vice-presidente-nouvelle-energie-poisy-2026-12-03/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-et-dedicaces-saint-jean-le-blanc-2026-12-14/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-metz-2026-12-18/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-des-jeunes-energies-cote-dor-dijon-2026-11-26/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/aperitif-afterwork-des-adherents-a-vaux-sur-mer-2026-11-26/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouveaux-adherents-parthenay-2026-11-26/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/rencontre-des-adherents-et-sympathisants-ile-de-re-sainte-marie-de-re-2026-11-24/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-jeunes-energies-clermont-ferrand-2026-11-24/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-adherents-dreux-2026-12-03/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-avec-herve-morin-50180-agneaux-2026-12-08/",
+          "first_seen": "2026-11-25"
+        },
+        {
           "url": "https://www.unenouvelleenergie.fr/event/presentation-de-nouvelle-energie-lure-2026-12-02/",
           "first_seen": "2026-11-24"
         },
@@ -577,6 +737,14 @@
         {
           "url": "https://www.unenouvelleenergie.fr/event/cafe-debat-nouvelle-energie-seine-maritime-le-havre/",
           "first_seen": "2026-11-24"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/petit-dejeuner-nouvelle-energie-paris-6e/",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-avec-yves-damecourt/",
+          "first_seen": "2026-11-25"
         }
       ]
     },
@@ -584,9 +752,10 @@
       "changed_pages": [
         {
           "url": "https://lafranceinsoumise.fr/actualites/",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-25",
           "removed_blocks": 0,
           "added": [
+            "Milee : le groupe LFI exige une commission d’enquête sur le plus grand plan de licenciement depuis 40 ans",
             "Le Havre : samedi 5 décembre, RDV à 15 heures pour un meeting de Jean-Luc Mélenchon"
           ]
         }
@@ -605,14 +774,18 @@
         },
         {
           "url": "https://www.edouardphilippe.fr/actualites",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-25",
+          "removed_blocks": 3,
           "added": [
             "Présentation du programme · 18 nov. 2026 Ralliements d’élus · 11 nov. 2026 Chartres · 9 nov. 2026 Tournée dans le Sud · 8 nov. 2026 La Ciotat · 7 nov. 2026 Marseille, La Provence · 6 nov. 2026 Euronaval · 5 nov. 2026 Zuydcoote · 4 nov. 2026 Charleville-Mézières · 21 oct. 2026 Mondial de l’Auto · 15 oct. 2026 Dijon · 11 oct. 2026 Sommet de l’Élevage · 9 oct. 2026 Annemasse · 1er oct. 2026 Assises d",
+            "Rillieux-la-Pape (Rhône) et Romans-sur-Isère (Drôme) · 20 nov. 2026 Duoday · 19 nov. 2026 IEM Le Petit Tremblay · 18 nov. 2026 Présentation du programme · 18 nov. 2026 Chartres · 9 nov. 2026 Tournée dans le Sud · 8 nov. 2026 La Ciotat · 7 nov. 2026 Marseille, La Provence · 6 nov. 2026 Euronaval · 5 nov. 2026 Zuydcoote · 4 nov. 2026 Charleville-Mézières · 21 oct. 2026 Mondial de l’Auto · 15 oct. 20",
             "24 nov. À Toulouse, Édouard Philippe défend un service public plus simple et plus proche Édouard Philippe était à Toulouse, le 13 novembre, auprès des agents qui font vivre le service public au quotidien, et il y a présenté ses propositions pour leur rendre leur capacité d’agir.",
             "Les photos sont mises à la disposition de la presse. Merci de bien vouloir indiquer le crédit photo Avec Édouard pour chaque image utilisée.",
             "24 novembre 2026 À Toulouse, Édouard Philippe défend un service public plus simple et plus proche",
+            "13 photos Rillieux-la-Pape (Rhône) et Romans-sur-Isère (Drôme) 20 nov. 2026",
+            "Rillieux-la-Pape (Rhône) et Romans-sur-Isère (Drôme)",
             "8 photos Présentation du programme 18 nov. 2026",
+            "7 photos IEM Le Petit Tremblay 18 nov. 2026",
             "1 photo Marseille, La Provence 6 nov. 2026",
             "1 photo Charleville-Mézières 21 oct. 2026"
           ]
@@ -706,23 +879,39 @@
       "changed_pages": [
         {
           "url": "https://marinetondelier.fr",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-25",
+          "removed_blocks": 2,
           "added": [
+            "Parce que la transition écologique doit être synonyme de nouveaux droits, de solidarité et de protection collective.",
             "Nos propositions pour défendre et étendre l’État de droit sont rassemblées dans notre nouveau Carnet de doctrine.",
+            "Épisode 55 - État-providence climatique au Salon des maires",
             "Épisode 54 - Défendre et étendre l’état de droit"
           ]
         },
         {
           "url": "https://marinetondelier.fr/journal-de-campagne",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-25",
           "removed_blocks": 0,
           "added": [
+            "Épisode 55 - État-providence climatique au Salon des maires",
             "Épisode 54 - Défendre et étendre l’état de droit"
           ]
         }
       ],
-      "new_pages": []
+      "new_pages": [
+        {
+          "url": "https://marinetondelier.fr/blog/tondelier-pompidou",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://marinetondelier.fr/journal-de-campagne/etat-de-droit",
+          "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://marinetondelier.fr/journal-de-campagne/lyon-innovation",
+          "first_seen": "2026-11-25"
+        }
+      ]
     },
     "villepin": {
       "changed_pages": [
@@ -740,20 +929,37 @@
     "zemmour": {
       "changed_pages": [
         {
+          "url": "https://assets.ericzemmour.fr/ressources/tracts/avenir-est-a-nous.pdf",
+          "changed_at": "2026-11-25",
+          "removed_blocks": 1,
+          "added": []
+        },
+        {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/sante.pdf",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-25",
+          "removed_blocks": 2,
+          "added": []
+        },
+        {
+          "url": "https://assets.ericzemmour.fr/ressources/tracts/mercosur.pdf",
+          "changed_at": "2026-11-25",
           "removed_blocks": 1,
           "added": []
         },
         {
           "url": "https://www.parti-reconquete.fr/#actualites",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 12,
+          "changed_at": "2026-11-25",
+          "removed_blocks": 22,
           "added": [
+            "📯 Merci à la Fédération nationale des chasseurs, dont de nombreux maires sont membres, pour ces échanges. Les chasseurs sont des acteurs essentiels de nos communes rurales : ils font vivre la convivialité dans nos campagnes, entretiennent et protègent nos forêts et participent à la préservation de nos traditions qui rassemblent les Français. Cessons de les diaboliser !",
+            "Cet après-midi, au Salon des maires, je suis venu leur apporter mon soutien et écouter leurs doléances. Depuis la loi Hollande, qui publie le nom des maires parrains, beaucoup subissent des pressions et renoncent à parrainer. Parrainer, ce n’est pas soutenir : c’est un devoir démocratique. Chers maires, faites vivre la démocratie. 👉 ericzemmour.fr",
+            "Nos agriculteurs sont une chance pour nos communes. Sans eux, de nombreuses villes et de nombreux villages ne seraient plus les mêmes, tant ils façonnent nos paysages. Je suis ravi d’avoir pu échanger avec Arnaud Rousseau, président de la FNSEA, sur les moyens de mieux associer nos agriculteurs à la vie des communes.",
             "Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste. Mais on ne devrait pas être contre l’invasion migratoire, que tous les Français voient. Chère Madame, choisissez votre camp : la liberté ou la censure. Moi, je suis pour la liberté absolue.",
+            "🚒 Merci à nos sapeurs-pompiers pour leur engagement quotidien auprès de nos communes et de leurs habitants. Ils sont indispensables à la protection des Français et mettent souvent leurs vies en jeu pour accomplir leurs missions. Nous leur devons toute notre reconnaissance !",
             "Quand on vous dit que c’est contraire à la Constitution, c’est faux : c’est contraire à la jurisprudence du Conseil constitutionnel. Je ne céderai pas au diktat des juristes. Je soumettrai mes mesures sur l’immigration au peuple, par référendum, comme le général de Gaulle.",
             "Condamné à 15 ans ? Avec moi, on fera 15 ans. Je rétablirai les peines planchers et le cumul des peines, je supprimerai le juge d’application des peines et les réductions de peine pour bonne conduite. Tant que les criminels sont en prison, les innocents sont protégés.",
             "Combien coûtent les aides sociales versées aux étrangers ? C’est le secret le mieux gardé de la République : l’administration refuse de le donner. Je demande officiellement à M. Lecornu de nous le fournir. Vous verrez qu’il dépasse nos estimations. ⤴️",
+            "Même en taxant toute la fortune de Bernard Arnault, on ne comblerait pas le déficit de cette année. Le problème n’est pas le manque de recettes, mais l’excès de dépenses. Il faut inverser la logique : dépenser moins pour taxer moins.",
             "Vous avez vu comment Sarah a répliqué à Mélenchon sur la propriété ? Ça lui a fait tout drôle ! Il est plus habitué à discuter avec Mathilde Panot qu’avec Sarah Knafo. Passer de Panot à Knafo, forcément, ça fait un choc !",
             "Elwan, tu as 17 ans, un beau vocabulaire en construction, et déjà un avis sur une interview que tu n’as pas vue et sur une émission où je ne suis jamais allée. Pas de doute ! Tu as le profil : envoie ton CV à France Info.",
             "🚨NON au coup d’État de l’Arcom sur internet. La démocratie s’est installée sur YouTube. Nous irons la défendre partout où elle est. Mon discours au Parlement européen. ⤵️",
@@ -761,6 +967,8 @@
             "Je me suis fixé un objectif personnel dans cette campagne, tout faire pour empêcher l’arrivée au pouvoir de Jean-Luc Mélenchon.",
             "🤡 Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste.",
             "🚨NON au coup d’État de l’Arcom sur internet. La démocratie s’est installée sur YouTube.",
+            "À l’école, la mère des batailles est la fin du collège unique.",
+            "Désormais le verdict appartient au peuple français. ⤵️",
             "Elwan, tu as le profil : envoie ton CV à France Info.",
             "Passer de Panot à Knafo, forcément, ça fait un choc !",
             "Bonne ambiance chez RTL ! Ça change de France Info 😅",
@@ -769,13 +977,18 @@
         },
         {
           "url": "https://www.parti-reconquete.fr/",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 12,
+          "changed_at": "2026-11-25",
+          "removed_blocks": 22,
           "added": [
+            "📯 Merci à la Fédération nationale des chasseurs, dont de nombreux maires sont membres, pour ces échanges. Les chasseurs sont des acteurs essentiels de nos communes rurales : ils font vivre la convivialité dans nos campagnes, entretiennent et protègent nos forêts et participent à la préservation de nos traditions qui rassemblent les Français. Cessons de les diaboliser !",
+            "Cet après-midi, au Salon des maires, je suis venu leur apporter mon soutien et écouter leurs doléances. Depuis la loi Hollande, qui publie le nom des maires parrains, beaucoup subissent des pressions et renoncent à parrainer. Parrainer, ce n’est pas soutenir : c’est un devoir démocratique. Chers maires, faites vivre la démocratie. 👉 ericzemmour.fr",
+            "Nos agriculteurs sont une chance pour nos communes. Sans eux, de nombreuses villes et de nombreux villages ne seraient plus les mêmes, tant ils façonnent nos paysages. Je suis ravi d’avoir pu échanger avec Arnaud Rousseau, président de la FNSEA, sur les moyens de mieux associer nos agriculteurs à la vie des communes.",
             "Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste. Mais on ne devrait pas être contre l’invasion migratoire, que tous les Français voient. Chère Madame, choisissez votre camp : la liberté ou la censure. Moi, je suis pour la liberté absolue.",
+            "🚒 Merci à nos sapeurs-pompiers pour leur engagement quotidien auprès de nos communes et de leurs habitants. Ils sont indispensables à la protection des Français et mettent souvent leurs vies en jeu pour accomplir leurs missions. Nous leur devons toute notre reconnaissance !",
             "Quand on vous dit que c’est contraire à la Constitution, c’est faux : c’est contraire à la jurisprudence du Conseil constitutionnel. Je ne céderai pas au diktat des juristes. Je soumettrai mes mesures sur l’immigration au peuple, par référendum, comme le général de Gaulle.",
             "Condamné à 15 ans ? Avec moi, on fera 15 ans. Je rétablirai les peines planchers et le cumul des peines, je supprimerai le juge d’application des peines et les réductions de peine pour bonne conduite. Tant que les criminels sont en prison, les innocents sont protégés.",
             "Combien coûtent les aides sociales versées aux étrangers ? C’est le secret le mieux gardé de la République : l’administration refuse de le donner. Je demande officiellement à M. Lecornu de nous le fournir. Vous verrez qu’il dépasse nos estimations. ⤴️",
+            "Même en taxant toute la fortune de Bernard Arnault, on ne comblerait pas le déficit de cette année. Le problème n’est pas le manque de recettes, mais l’excès de dépenses. Il faut inverser la logique : dépenser moins pour taxer moins.",
             "Vous avez vu comment Sarah a répliqué à Mélenchon sur la propriété ? Ça lui a fait tout drôle ! Il est plus habitué à discuter avec Mathilde Panot qu’avec Sarah Knafo. Passer de Panot à Knafo, forcément, ça fait un choc !",
             "Elwan, tu as 17 ans, un beau vocabulaire en construction, et déjà un avis sur une interview que tu n’as pas vue et sur une émission où je ne suis jamais allée. Pas de doute ! Tu as le profil : envoie ton CV à France Info.",
             "🚨NON au coup d’État de l’Arcom sur internet. La démocratie s’est installée sur YouTube. Nous irons la défendre partout où elle est. Mon discours au Parlement européen. ⤵️",
@@ -783,11 +996,19 @@
             "Je me suis fixé un objectif personnel dans cette campagne, tout faire pour empêcher l’arrivée au pouvoir de Jean-Luc Mélenchon.",
             "🤡 Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste.",
             "🚨NON au coup d’État de l’Arcom sur internet. La démocratie s’est installée sur YouTube.",
+            "À l’école, la mère des batailles est la fin du collège unique.",
+            "Désormais le verdict appartient au peuple français. ⤵️",
             "Elwan, tu as le profil : envoie ton CV à France Info.",
             "Passer de Panot à Knafo, forcément, ça fait un choc !",
             "Bonne ambiance chez RTL ! Ça change de France Info 😅",
             "Le secret le mieux gardé de la République !"
           ]
+        },
+        {
+          "url": "https://assets.ericzemmour.fr/ressources/tracts/programme-pour-la-france.pdf",
+          "changed_at": "2026-11-25",
+          "removed_blocks": 1,
+          "added": []
         }
       ],
       "new_pages": []
