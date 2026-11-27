@@ -155,6 +155,28 @@
       "note": "En partenariat avec les Restos du Cœur. Édouard Philippe a décliné l'invitation ; Marine Tondelier n'a pas été conviée.",
       "source_label": "La Libre – LCI annonce un débat entre cinq candidats de la présidentielle (22/10/2026)",
       "source_url": "https://www.lalibre.be/international/europe/2026/10/22/presidentielle-francaise-un-debat-entre-cinq-candidats-annonce-sur-lci-avec-deux-absences-de-marque-DZYG4GAPJZD67NH45TWF5SPKGY/"
+    },
+    {
+      "date": "2026-12-07",
+      "time": "19:00",
+      "title": "« Le Grand Oral de la Jeunesse » : débat entre candidats face aux étudiants",
+      "channels": [
+        "LCP-Assemblée nationale",
+        "Public Sénat"
+      ],
+      "participants": [
+        "attal",
+        "glucksmann",
+        "lisnard",
+        "le-pen",
+        "melenchon",
+        "philippe",
+        "retailleau",
+        "tondelier"
+      ],
+      "note": "Organisé par des associations étudiantes (HEC Débats, Les Mardis de l'ESSEC, Tribunes ESCP, Dauphine Discussion Débat, Merídio) à la Cité des sciences et de l'industrie, animé par six étudiants ; trois thèmes : éducation et citoyenneté, pouvoir d'achat et insertion professionnelle des jeunes, climat. Personnalités annoncées comme « attendues ».",
+      "source_label": "LCP – communiqué : « Le Grand Oral de la Jeunesse », les candidats face aux étudiants",
+      "source_url": "https://lcp.fr/presse/communiques-de-presse/emission-speciale-presidentielle-2027-les-candidats-face-aux-etudiants"
     }
   ],
   "interviews": [
@@ -232,6 +254,21 @@
       ],
       "source_label": "Quartz (édition française) – Éric Zemmour confirme sa candidature à la présidentielle 2027",
       "source_url": "https://fr.qz.com/eric-zemmour-confirme-candidature-presidentielle-2027-tf1-111026"
+    },
+    {
+      "date": "2026-11-18",
+      "candidate": "tondelier",
+      "programme": "France 2027 – L'invité du 20 h",
+      "channels": [
+        "France 2"
+      ],
+      "kind": "jt",
+      "topics": [
+        "Voix écologiste et pouvoir d'achat",
+        "Maintien de sa candidature ou ralliement"
+      ],
+      "source_label": "France Télévisions – communiqué « France 2027 – L'invitée du 20h : Marine Tondelier » (18/11/2026)",
+      "source_url": "https://www.francetvpro.fr/contenu-de-presse/79358930"
     }
   ]
 }

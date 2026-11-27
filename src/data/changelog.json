@@ -652,5 +652,21 @@
         "text": "Relance et décentralisation du logement (scrutin du 2026-11-24) : ajouté, explication ajoutée"
       }
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "summary": "Calendrier électoral : ajout d'un débat et d'un grand entretien.",
+    "accepted": 2,
+    "rejected": 0,
+    "changes": [
+      {
+        "candidate": "Calendrier électoral",
+        "text": "Débat « Le Grand Oral de la Jeunesse » du 7 décembre 2026 (LCP-Assemblée nationale, Public Sénat) : ajouté"
+      },
+      {
+        "candidate": "Calendrier électoral",
+        "text": "Marine Tondelier, invitée du 20 h de France 2 le 18 novembre 2026 : ajouté"
+      }
+    ]
   }
 ]

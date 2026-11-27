@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-27",
+  "routine": "election-contexte-chiffrages",
+  "results": "Étape R non applicable avant le 2027-04-18.",
+  "changes": [
+    {
+      "id": "debate-2026-12-07",
+      "kind": "add_debate",
+      "file": "src/data/calendar.json",
+      "list": "debates",
+      "data": {
+        "date": "2026-12-07",
+        "time": "19:00",
+        "title": "« Le Grand Oral de la Jeunesse » : débat entre candidats face aux étudiants",
+        "channels": [
+          "LCP-Assemblée nationale",
+          "Public Sénat"
+        ],
+        "participants": [
+          "attal",
+          "glucksmann",
+          "lisnard",
+          "le-pen",
+          "melenchon",
+          "philippe",
+          "retailleau",
+          "tondelier"
+        ],
+        "note": "Organisé par des associations étudiantes (HEC Débats, Les Mardis de l'ESSEC, Tribunes ESCP, Dauphine Discussion Débat, Merídio) à la Cité des sciences et de l'industrie, animé par six étudiants ; trois thèmes : éducation et citoyenneté, pouvoir d'achat et insertion professionnelle des jeunes, climat. Personnalités annoncées comme « attendues ».",
+        "source_label": "LCP – communiqué : « Le Grand Oral de la Jeunesse », les candidats face aux étudiants",
+        "source_url": "https://lcp.fr/presse/communiques-de-presse/emission-speciale-presidentielle-2027-les-candidats-face-aux-etudiants"
+      },
+      "evidence": [
+        {
+          "url": "https://lcp.fr/presse/communiques-de-presse/emission-speciale-presidentielle-2027-les-candidats-face-aux-etudiants",
+          "excerpt": "En direct sur LCP-Assemblée nationale et Public Sénat lundi 7 décembre à 19h"
+        },
+        {
+          "url": "https://lcp.fr/presse/communiques-de-presse/emission-speciale-presidentielle-2027-les-candidats-face-aux-etudiants",
+          "excerpt": "Les personnalités politiques attendues sont : Gabriel Attal (Renaissance), Raphaël Glucksmann…"
+        }
+      ],
+      "reason": "Débat annoncé par la chaîne de diffusion (LCP, partenaire audiovisuel avec Public Sénat), liste des invités publiée.",
+      "decision": "accepte",
+      "verification": "Correction : organisateurs étudiants précisés dans la note."
+    },
+    {
+      "id": "interview-2026-11-18-tondelier",
+      "kind": "add_interview",
+      "file": "src/data/calendar.json",
+      "list": "interviews",
+      "data": {
+        "date": "2026-11-18",
+        "candidate": "tondelier",
+        "programme": "France 2027 – L'invité du 20 h",
+        "channels": [
+          "France 2"
+        ],
+        "kind": "jt",
+        "topics": [
+          "Voix écologiste et pouvoir d'achat",
+          "Maintien de sa candidature ou ralliement"
+        ],
+        "source_label": "France Télévisions – communiqué « France 2027 – L'invitée du 20h : Marine Tondelier » (18/11/2026)",
+        "source_url": "https://www.francetvpro.fr/contenu-de-presse/79358930"
+      },
+      "evidence": [
+        {
+          "url": "https://www.francetvpro.fr/contenu-de-presse/79358930",
+          "excerpt": "Mercredi 18 novembre sur France 2 et france.tv"
+        },
+        {
+          "url": "https://www.francetvpro.fr/contenu-de-presse/79358930",
+          "excerpt": "Va-t-elle maintenir sa candidature ou se rallier à Raphaël Glucksmann"
+        }
+      ],
+      "reason": "Invitée du journal de 20 h de France 2, annoncé par France Télévisions.",
+      "decision": "accepte"
+    }
+  ],
+  "hatvp": {
+    "result": "aucun changement",
+    "detail": "liste.csv téléchargée le 2026-11-27 : 9 candidats avec page (attal, bertrand, dupont-aignan, glucksmann, le-pen, lisnard, philippe, retailleau, ruffin), mêmes identifiants et qualités ; 9 fiches répondent HTTP 200. Aucune page pour arthaud, melenchon, roussel, tondelier, villepin, zemmour. Type « president » : seulement Emmanuel Macron (2022)."
+  },
+  "parrainages": {
+    "result": "aucun changement",
+    "detail": "conseil-constitutionnel.fr/election-presidentielle-2027 : HTTP 404 ; page d'accueil sans mention des parrainages 2027 ; source.json inchangé ; fetch-parrainages non lancé (csv_url null)."
+  },
+  "calendar": {
+    "result": "aucun changement",
+    "detail": "Aucun décret de convocation ni date officielle d'ouverture des parrainages ou de la campagne trouvés sur source officielle ouverte (info.gouv.fr : HTTP 403 ; Légifrance : aucun décret 2027)."
+  },
+  "debates": {
+    "result": "1 débat proposé",
+    "detail": "Recherches pour les 15 candidats ; un débat annoncé (LCP/Public Sénat, 7/12). Aucun face-à-face trouvé pour les autres candidats."
+  },
+  "interviews": {
+    "result": "1 entretien proposé",
+    "detail": "Tondelier, France 2, 18/11. Rien d'autre trouvé sur la liste fermée depuis le 12/11."
+  },
+  "independent": {
+    "result": "aucun changement",
+    "detail": "Institut Montaigne (annoncé T1 2027) inchangé ; iFRAP, OFCE, IPP, Fipeco, Terra Nova, Jean-Jaurès, Molinari, Rexecode, Cour des comptes : rien de nouveau trouvé (recherche non exhaustive)."
+  },
+  "context_not_proposed": "Inflation de novembre : pas encore publiée par l'Insee (page d'accueil : octobre). Détenus au 1er novembre : page de statistiques du ministère de la Justice introuvable (404), aucune adresse devinée. Dette T3 attendue fin décembre ; SMIC 1er décembre pas encore en vigueur ; autres chiffres : pas de valeur plus récente relevée.",
+  "verification": "Contre-vérification par un sous-agent distinct : 2 acceptés, 0 rejeté."
+}

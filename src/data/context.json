@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-20",
+  "checked": "2026-11-27",
   "themes": {
     "economie": [
       { "label": "Dette publique", "value": "119,0 % du PIB", "detail": "3 595,5 Md€ fin juin 2026.", "date": "2026-09-29", "source_label": "Insee – Dette trimestrielle de Maastricht, 2e trimestre 2026", "source_url": "https://www.insee.fr/fr/statistiques/9053525" },
