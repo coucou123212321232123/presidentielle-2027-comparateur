@@ -1,29 +1,36 @@
 {
   "since": "2026-11-23",
-  "generated": "2026-11-26",
+  "generated": "2026-11-27",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
   "candidates": {
     "arthaud": {
       "changed_pages": [
         {
           "url": "https://www.nathalie-arthaud.info",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 2,
-          "added": []
+          "changed_at": "2026-11-27",
+          "removed_blocks": 3,
+          "added": [
+            "Entre le 17 et le 21 novembre, les réunions animées par Nathalie Arthaud, de Montpellier à Nîmes en passant par Alès et Arles, de même qu’à la fête Lutte ouvrière …",
+            "Faire face au danger de l’extrême droite",
+            "Roubaix web : Interview Nathalie Arthaud"
+          ]
         },
         {
           "url": "https://www.lutte-ouvriere.org/portail/index.html",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 21,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 24,
           "added": [
             "Ce mardi 24 novembre, la direction de Stellantis Sochaux a prétexté une baisse de commandes, la concurrence, pour arrêter la demi-équipe de nuit en janvier 2027 et renvoyer 500 intérimaires, soit la moitié de ceux actuellement à l’usine. Ces 5 dernières années, baisses de commandes ou pas, les familles Peugeot, Agnelli du groupe Stellantis ont engrangé plus de 54 milliards d’euros de profits et re",
             "Trump, Xi Jinping et Poutine, les chefs des trois pays qui possèdent les plus grands arsenaux nucléaires au monde, investissent des sommes colossales dans les armements et sont déjà en conflit sur de nombreux terrains, se sont rencontrés au sommet de Shenzhen, en Chine. Ils ont multiplié les accolades et posé en faiseurs de paix, de stabilité et de sécurité internationale.",
             "Après treize ans de discussions, les États réunis à Genève se sont séparés sans s’accorder sur l'interdiction des armes autonomes, ces machines capables de sélectionner et d’attaquer des cibles sans intervention humaine. Les États-Unis, la Russie et Israël se sont opposés à l’ouverture de négociations pour un traité international contraignant.",
+            "Une majorité de sénateurs ont voté l'abaissement du plafond donnant droit à l'abattement fiscal de 10 % pour les retraités. Si le budget dépendait du Sénat, le plafond serait fixé à 1 000 euros par mois au lieu de 4 439 auparavant et près de 5 milliards d’euros seraient prélevés sur le dos des retraités.",
+            "Au bout de près de 20 jours de grèves et de manifestations, les ouvriers et ouvrières du textile du Bangladesh ont obtenu 36 % d'augmentation de leur salaire. Cela porte le salaire à 124 dollars par mois, qui reste insuffisant pour bien des grévistes qui ont décidé de continuer la lutte.",
             "Le 18 novembre, les patrons de la verrerie de Vayres, près de Libourne, ont annoncé la fermeture définitive de l’entreprise. Ce sont 170 travailleurs qui vont se retrouver au chômage, sans compter les conséquences pour ceux des entreprises sous-traitantes.",
             "Ni l’introduction en Bourse d’Anthropic ni le retour de Jensen Huang à la tête de Nvidia n’y auront fait grand-chose, le Nasdaq, l’indice boursier américain qui cote les valeurs de la tech, a perdu plus de 10 % entre début octobre et fin novembre.",
             "Les policiers qui avaient tabassé Michel Zecler ont été condamnés à des peines allant de un à deux ans de prison ferme. La justice a été clémente envers ces brutes, que le verdict a fini par reconnaître comme racistes.",
             "Le mouvement commencé à l’occasion de la journée du jeudi 5 novembre s’est considérablement renforcé à la Propreté Urbaine (PU) à partir du mardi 10, avec plusieurs chantiers en grève …",
             "Vendredi 20 novembre, après douze heures de délibéré, les trois policiers qui avaient roué de coups Michel Zecler dans l’entrée de son studio de musique, il y a six ans, …",
+            "Entre le 17 et le 21 novembre, les réunions animées par Nathalie Arthaud, de Montpellier à Nîmes en passant par Alès et Arles, de même qu’à la fête Lutte ouvrière …",
             "Mercredi 25 novembre, Hugues Moutouh, préfet du Centre-Val de Loire et ancien secrétaire général du ministère de l’Intérieur, a été relevé de ses fonctions.",
             "Verrerie de Vayres (Gironde) : les profits des actionnaires contre la vie des ouvriers",
             "L'éditorial en vidéo : L’ordre capitaliste mondial, c’est la guerre !",
@@ -33,27 +40,35 @@
             "Arkema-Daikin, Solvay : PFAS, rien vu, rien entendu",
             "Stellantis Sochaux : : Renvoi de 500 intérimaires",
             "Stellantis Sochaux : Renvoi de 500 intérimaires",
+            "Retraites : tentative de vol en bande organisée",
             "L’ordre capitaliste mondial, c’est la guerre !",
             "Augmenter les salaires : une nécessité vitale",
-            "Armement : Les robots tueurs ont des maîtres"
+            "Armement : Les robots tueurs ont des maîtres",
+            "Vive la lutte des ouvriers du Bangladesh !"
           ]
         },
         {
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=15",
+          "changed_at": "2026-11-27",
+          "removed_blocks": 1,
+          "added": []
+        },
+        {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 3,
           "added": []
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=20",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 3,
           "added": []
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=10",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 2,
           "added": []
         }
       ],
@@ -63,8 +78,8 @@
       "changed_pages": [
         {
           "url": "https://attalpresident.fr/",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 15,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 17,
           "added": [
             "Ce jeudi 19 novembre, Gabriel Attal était auditionné par la Fédération française du bâtiment (FFB) pour présenter sa vision du logement et de la construction. Face aux professionnels du secteur, il a défendu une ambition claire : sortir de la crise du logement, relancer la construction et permettre à davantage de Français de devenir propriétaires. Pour y parvenir, il propose un choc d offre, une s",
             "Invité de « L’Heure de vérité » ce jeudi 19 novembre, Gabriel Attal a défendu sa vision pour l’avenir de la France. Du rassemblement politique à la hausse des salaires, en passant par la jeunesse, l’intelligence artificielle et l’Europe, il a présenté les grandes orientations de son projet : rompre avec un modèle à bout de souffle, changer la manière d’exercer le pouvoir et permettre à la France d",
@@ -74,7 +89,9 @@
             "Une réponse systématique aux dégradations : faire payer les casseurs et faire réparer les mineurs par des travaux d intérêt général.",
             "Gabriel Attal devant la Fédération française du bâtiment : « Refaire de la France une nation de propriétaires »",
             "Des amendes forfaitaires réglées sur place et la saisie des véhicules en cas d occupation illégale persistante.",
+            "Durcir les exigences de revenus, de logement et de durée de résidence pour demander le regroupement familial.",
             "Augmenter les achats de défense français réalisés en Europe et la même règle défendue au niveau de l Union.",
+            "Des prix de l électricité stables pendant cinq ans, pour que les entreprises puissent investir en France.",
             "Une amende forfaitaire dès le premier acte de maltraitance animale constaté, sans attendre la récidive.",
             "Gabriel Attal dans « L’Heure de vérité » : « Je veux redonner un temps d’avance à la France »",
             "Un prix de l eau protégé pour les litres dont chaque famille a besoin au quotidien.",
@@ -506,6 +523,33 @@
         }
       ]
     },
+    "bertrand": {
+      "changed_pages": [
+        {
+          "url": "https://www.nousfrance.fr/les-actualites/",
+          "changed_at": "2026-11-27",
+          "removed_blocks": 1,
+          "added": [
+            "Présidentielle 2027 : « Il continue de penser qu’il y a un chemin », Xavier Bertrand trace sa route vers une candidature [Figaro]"
+          ]
+        },
+        {
+          "url": "https://www.nousfrance.fr/",
+          "changed_at": "2026-11-27",
+          "removed_blocks": 1,
+          "added": [
+            "Présidentielle 2027 : « Il continue de penser qu’il y a un chemin », Xavier Bertrand trace sa route vers une candidature [Figaro]",
+            "Ses réactions à l'actualité, ses déplacements et ses prises de parole, au fil de la journée."
+          ]
+        }
+      ],
+      "new_pages": [
+        {
+          "url": "https://www.nousfrance.fr/2026/10/presidentielle-2027-il-continue-de-penser-quil-y-a-un-chemin-xavier-bertrand-trace-sa-route-vers-une-candidature-figaro/",
+          "first_seen": "2026-11-27"
+        }
+      ]
+    },
     "dupont-aignan": {
       "changed_pages": [
         {
@@ -518,11 +562,12 @@
         },
         {
           "url": "https://www.dupontaignan.fr/",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 77,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 107,
           "added": [
             "L’hémicycle de l’Assemblée nationale n’est pas un studio de propagande. Que des militants d’extrême gauche puissent y tourner une séquence hostile à la police pose une sérieuse question sur le respect de nos institutions et l’autorité de leur présidence.",
             "Călin Georgescu, le candidat souverainiste roumain arrivé en tête du premier tour de la présidentielle en 2024, avant l’annulation honteuse du scrutin sous pression de l’Union européenne, sort de détention provisoire après 56 jours.",
+            "Si comme des millions de Français, ils ne font plus confiance à la classe politique, je les incite à parrainer des candidats différents et libres, pour offrir le choix démocratique le plus large possible aux Français.",
             "Moment de grâce à la messe matinale de Notre-Dame de Paris avant la rencontre organisée à l’occasion du Salon des maires par l’enseignement catholique sur l’avenir de l’école. ... Voir plus Voir moins",
             "J’y présenterai à cette occasion les 25 mesures de mon projet présidentiel pour retrouver un véritable équilibre du territoire et valoriser le travail essentiel des maires. ... Voir plus Voir moins",
             "Une cyberattaque de grande ampleur paralyse le CHU de Guadeloupe. Nos hôpitaux sont devenus des cibles, et ce sont les patients et la continuité des soins qui paient le prix de notre vulnérabilité.",
@@ -536,6 +581,7 @@
             "Les maires sont les gardiens de notre démocratie… et ils ont le pouvoir de changer les choses en parrainant des candidats libres et différents ! ... Voir plus Voir moins",
             "Homme de convictions et d’engagement, il a marqué l’histoire de notre pays par ses écrits, son courage et sa vision de la culture comme héritage à transmettre à tous.",
             "Soutenir la presse ne doit pas devenir un prétexte pour dicter aux entreprises comment dépenser leur argent. La liberté économique mérite aussi d’être défendue.",
+            "📺 Retrouvez-moi demain, vendredi 27 novembre, à 07h40, dans l’émission \"L’invité de RTL \" sur RTL , au micro de Céline Landreau🎙️ ... Voir plus Voir moins",
             "Rencontre inattendue entre les deux candidats à la présidentielle ET maires les mieux réélus de France, à 80% des voix à @yerres_maville et à @villecannes",
             "Accompagné d’une délégation de maires ruraux, j’ai présenté au Salon des maires mes 25 mesures pour sauver nos communes et redonner vie à nos campagnes !",
             "Cette mesure est ESSENTIELLE pour redonner un peu d’air aux plus modestes et relancer notre consommation, aujourd’hui à l’arrêt. ... Voir plus Voir moins",
@@ -543,9 +589,7 @@
             "Son parcours nous rappelle qu’une grande nation se construit aussi par la force de ses idées, la fidélité à son histoire et le courage de ses actes.",
             "Au nom du pluralisme de la presse, près de 3 000 annonceurs pourraient être contraints de réorienter leurs investissements vers certains médias.",
             "Combien de temps les Français devront-ils encore subir « ce comique de répétition » avec ses fausses leçons de morale ? ... Voir plus Voir moins",
-            "Les maires sont les gardiens de notre démocratie… et ils ont le pouvoir de changer les choses en parrainant des candidats libres et différents !",
-            "Les Européens ont déjà englouti plus de 200 milliards dans ce conflit, pendant que l’on désindexe les retraites et que nos hôpitaux saturent.",
-            "Voir les commentaires Like reaction Love reaction Haha reaction Wow reaction Angry reaction Reactions: 1649 Partages : 220 Commentaires : 89"
+            "Les maires sont les gardiens de notre démocratie… et ils ont le pouvoir de changer les choses en parrainant des candidats libres et différents !"
           ]
         },
         {
@@ -597,6 +641,33 @@
           ]
         },
         {
+          "url": "https://www.debout-la-france.fr/projet/defense/",
+          "changed_at": "2026-11-27",
+          "removed_blocks": 20,
+          "added": [
+            "Nous vivons aujourd’hui dans un monde multipolaire dans lequel l’Occident ne pourra plus imposer ses volontés et ses valeurs – qu’il a cru universelles – comme cela a été le cas depuis la fin du XIXe siècle, car sa puissance relative ne cesse de diminuer et qu’il a perdu toute crédibilité aux yeux du reste du monde par ses mensonges et sa partialité, tant au sujet des évènements en Ukraine que de ",
+            "Sur le plan militaire, on n’envahit plus un pays adverse, car le coût humain et financier en est démesuré et l’efficacité presque nulle (cf. États-Unis en Irak et en Afghanistan, difficultés israéliennes au Sud-Liban et à Gaza, et pour la Russie en Ukraine…). L’hostilité des populations, la résistance (guérilla, terrorisme) et la difficulté des combats urbains limitent l’intérêt de telles aventure",
+            "La guerre « conventionnelle » se fera de plus en plus à distance (roquettes, drones, missiles, artillerie…), comme l’ont illustré les actions du Hamas et du Hezbollah face à Israël, des Houthis en mer Rouge, ou les échanges de frappes entre Tel-Aviv et Téhéran (aucun des deux États n’ayant les moyens d’envahir l’autre). Nous devons tenir compte des conditions stratégiques que nous imposent la géog",
+            "La dissuasion nucléaire, clé de voûte de notre sécurité, nous a placés en situation « d’insularité militaire », d’autant qu’aucun de nos voisins directs ne nous menace. Il est essentiel de maintenir nos forces nucléaires au meilleur niveau car la dissuasion nous dispense de disposer de forces aéroterrestres pléthoriques, car leur rôle, en cas de menace directe contre notre sol, doit se limiter à t",
+            "Sur le plan militaire, le risque d’affrontement direct avec un autre État est quasiment inexistant. En dépit de la communication belliciste et anxiogène à laquelle se livre l’OTAN, absolument rien ne permet de dire que la Russie aura l’intention d’envahir l’Europe de l’Ouest. Cela n’est pas dans son intérêt et elle n’en a de toute façon pas les moyens. De plus, un conflit majeur ne concernerait pa",
+            "Si la France n’est pas menacée par la Russie, elle l’est encore par le terrorisme et par l’hostilité de certains acteurs en Méditerranée orientale (Turquie) et en Afrique du Nord (Algérie). Ces pays développent leurs capacités militaires et ne cachent pas leurs ambitions expansionnistes ou revanchardes. Proche alliée de l’Azerbaïdjan, la Turquie ne supporte pas l’appui que la France apporte à l’Ar",
+            "Voilà ce que déclarait le Général De Gaulle devant un parterre de militaires, le 3 novembre 1959. Malheureusement aujourd’hui, la France n’a plus de stratégie claire, voulant tout faire au risque de se disperser sans atteindre aucun objectif. Or, nous devons concentrer nos moyens pour rester efficaces et crédibles. Aussi, nous proposons de :",
+            "Protéger nos territoires ultramarins et nos Zones d’Exclusivité Économique : la France dispose en effet de cinq places de souveraineté, Antilles, Guyane, océan Indien avec La Réunion et Mayotte, Nouvelle-Calédonie, Polynésie française et le deuxième espace maritime mondial après les États-Unis, avec plus de 10 millions de kilomètres carrés.",
+            "Sortir du commandement intégré de l’OTAN pour regagner notre indépendance militaire et stratégique en ne poursuivant qu’un seul objectif : la défense de l’intérêt supérieur du pays, c’est-à-dire son intégrité territoriale en métropole et outre-mer, ses débouchés et approvisionnements et sa vision du monde.",
+            "Renforcer les capacités de veille et de surveillance des évolutions technologiques et des capacités des pays étrangers, notamment dans les domaines de la défense antimissiles, du déni d’accès, de la cyberdéfense et de l’espace extra-atmosphérique, afin de réduire les risques de « surprise technologique »",
+            "La France se retirera donc du projet de drone MALE européen, trop coûteux, mal défini et faisant une part trop belle aux intérêts allemands, pour confier à l’industrie nationale le développement d’un drone français correspondant à nos besoins, ce qui aurait dû être fait déjà il y a quinze ans.",
+            "Préparer dès à présent l’avion, le char, les missiles et l’artillerie du futur sans programme européen automatique qui, souvent, vise à piller notre industrie sans nous apporter aucun bienfait. Mettons fin au SCAF et préparons dès à présent la nouvelle version du Rafale.",
+            "Une agression directe contre nos DOM/TOM (cf. UK/Malouines 1982), quoique très hypothétique, est toujours envisageable. Mais les acteurs capables de la conduire sont très peu nombreux. Seuls les États-Unis et, bien plus difficilement, la Chine en auraient les moyens.",
+            "Il n’y a pas d’armée de métier solide avec une rotation trop forte des effectifs. De nombreux militaires ne renouvellent pas leur contrat faute d’une attractivité suffisante. Avant de vouloir augmenter les effectifs, mettons tout en œuvre pour les fidéliser.",
+            "Accélérer le programme de remplacement du porte avion Charles de Gaulle en prévoyant la construction de deux porte-avions afin d’assurer une disponibilité permanente à la mer de notre groupe aéronaval.",
+            "Veiller à améliorer le maintien en condition opérationnelle (MCO) afin de rompre avec le manque de disponibilité chronique de certains matériels et multiplier les entraînements.",
+            "Considérer l’arme cyber comme une arme opérationnelle à même de répondre à nos ennemis qui n’hésitent pas à l’utiliser à nos dépens.",
+            "Développer des moyens de défense et de riposte contre tout acte hostile d’une autre puissance les prenant pour cible.",
+            "Augmenter le nombre de nos lanceurs et de nos satellites de renseignement,",
+            "Augmenter la flotte de Rafale à 250 en 2030."
+          ]
+        },
+        {
           "url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
           "changed_at": "2026-11-26",
           "removed_blocks": 9,
@@ -611,12 +682,27 @@
             "Retrouver notre voix au Proche-Orient en œuvrant à un accord de paix durable entre Israël et les Palestiniens et protéger les Chrétiens d’Orient.",
             "Consolider notre partenariat avec les Amériques :"
           ]
+        },
+        {
+          "url": "https://www.debout-la-france.fr/projet/agriculture/",
+          "changed_at": "2026-11-27",
+          "removed_blocks": 4,
+          "added": [
+            "Revenir à une politique agricole nationale, échappant aux délires bureaucratiques de la Commission de Bruxelles et simplifiant les procédures (fin du pacte vert européen, des quotas de jachères, etc.). Comme les Suisses ou les Canadiens le font, des « primes tricolores » remplaceront les « primes PAC » pour compenser la différence entre le prix mondial fluctuant et le prix garanti permettant aux e",
+            "Favoriser l’installation des jeunes agriculteurs en supprimant tout droit de succession sur les 100 premiers hectares transmis et en garantissant 50% des prêts bancaires d’installation par l’État et en rendant impossible la saisie de la ferme en cas de défaillance de l’exploitant.",
+            "Empêcher l’accaparement des terres et la spéculation par des fonds d’investissement notamment étrangers en modifiant la législation des SAFER.",
+            "Rétablir et garantir les avantages fiscaux du gazole non routier."
+          ]
         }
       ],
       "new_pages": [
         {
           "url": "https://www.dupontaignan.fr/actualite/on-est-chez-les-fous-nicolas-dupont-aignan-devoile-son-plan-pour-sauver-limmobilier/",
           "first_seen": "2026-11-24"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/evenement/nicolas-dupont-aignan-sur-tv-libertes-le-14-11-26/",
+          "first_seen": "2026-11-27"
         }
       ]
     },
@@ -635,6 +721,58 @@
         {
           "url": "https://marinelepen.com/actualites/marine-le-pen-presente-sa-reforme-pour-reparer-le-systeme-de-retraites",
           "first_seen": "2026-11-25"
+        },
+        {
+          "url": "https://marinelepen.com/actualites/liberer-la-construction-au-grand-oral-de-la-construction-marine-le-pen-presente-son-plan-pour-le-logement",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/01a21885-662a-79be-ade6-1a02188a90c7/telecharger",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/01a21885-662a-7497-ade6-1a0218330894/telecharger",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/defendons-la-republique/01a21885-662a-7497-ade6-1a0218330894",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/aux-maires-de-france/01a21885-662a-79be-ade6-1a02188a90c7",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/defendons-la-republique/01a21885-6629-7f9d-8970-2f05047d2396",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/01a21885-6628-71db-abdc-3027b8d434b6/telecharger",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/01a21885-6629-79f3-8970-2f0504345a23/telecharger",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/pour-la-france-la-renaissance/01a21885-6628-71db-abdc-3027b8d434b6",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/une-energie-moins-chere/01a21885-6629-79f3-8970-2f0504345a23",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/01a21885-6629-7f9d-8970-2f05047d2396/telecharger",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/01a21885-6629-73f3-8970-2f0503c801c7/telecharger",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/pour-la-france-la-renaissance/01a21885-6629-73f3-8970-2f0503c801c7",
+          "first_seen": "2026-11-27"
         }
       ]
     },
@@ -642,18 +780,19 @@
       "changed_pages": [
         {
           "url": "https://www.unenouvelleenergie.fr/notre-programme/",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 3,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 4,
           "added": [
             "Prochains rendez-vous : Vaux-sur-Mer, La Teste-de-Buch, Libourne et Singapour",
+            "Prochains rendez-vous : Porto (portugal), Falaise, Seignosse et Morestel",
             "Prochains rendez-vous : Paris Centre, Paris 8e, Strasbourg et Rouen",
             "Prochains rendez-vous : Marseille, Montauban et La Teste-de-Buch"
           ]
         },
         {
           "url": "https://www.unenouvelleenergie.fr/",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 22,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 31,
           "added": [
             "Invité du Grand Oral BFMTV-Le Figaro, dimanche 22 novembre, David Lisnard a détaillé son projet pour l élection présidentielle de 2027. Primaire ouverte, réforme de l État, réduction de la bureaucratie, retraites, éducation et souveraineté économique : le président de Nouvelle Énergie a défendu sa vision d une rupture avec le fonctionnement actuel du pays, tout en précisant ses positions face au m",
             "Brice Alzon, référent Nouvelle Énergie Paris Centre, vous invite à un afterwork avec Jonathan Pinet, auteur du livre « Sophismes fiscaux : contes d un pays où tout se taxe », préfacé par David Lisnard. Mardi 24 novembre à 18h30, à Paris Centre Bistrot du Jardin, 33 rue Berger Entrée sous condition d une consommation Infos et contact : paris@unenouvelleenergie.fr",
@@ -664,8 +803,12 @@
             "Nouvelle Énergie Nord et Pas-de-Calais vous invitent à une conférence sur le narcotrafic avec Étienne Blanc, ancien sénateur du Rhône et porte-voix de Nouvelle Énergie. Mardi 24 novembre, 19h (ouverture des portes à 18h30), à Sainte-Catherine Khub Arras Karting, 78 route de Béthune",
             "Les Jeunes Énergies Bouches-du-Rhône vous invitent à un afterwork, l occasion d échanger sur l actualité politique et celle de David Lisnard. Mercredi 25 novembre à 19h, à Marseille Le Colombia, 572 rue Paradis Infos et contact : jeunesenergies@unenouvelleenergie.fr",
             "Nouvelle Énergie vous invite à un apéro discussion à Singapour avec Nicolas Lebard, Jérôme Peze et Julien Lecomte, l occasion d échanger sur l actualité politique et celle de David Lisnard. Jeudi 26 novembre à 18h45 Black Sheep Co, 26 Haji Lane, Singapour 189219",
+            "Réunion publique avec Étienne Blanc, porte-voix de Nouvelle Énergie, Béatrice de Montille, vice-présidente de Nouvelle Énergie, et Fabien Durand, relais Nouvelle Énergie Isère. Vendredi 27 novembre à 18h30, Morestel, Salle de l Amitié, 389 rue François Perrin.",
             "Soirée Beaujolais Nouveau avec Geneviève Machery, référente Nouvelle Énergie Gironde - Sud Bassin d Arcachon, et Denis Pernin, relais Nouvelle Énergie Gironde. Jeudi 26 novembre à 18h30, La Teste-de-Buch, La Kantine de Madame, 171 rue Marcel-Dassault.",
+            "Nouvelle Énergie Calvados vous invite à un apéritif convivial au Café la Renaissance 28 place du Docteur Paul German à Falaise à partir de 18h. Nous ferons ainsi le point sur l’actualité de notre candidat et de notre mouvement. Bien à vous",
             "Nouvelle Énergie Charente-Maritime vous invite à un apéritif-afterwork des adhérents, l occasion d échanger sur l actualité politique et celle de David Lisnard. Jeudi 26 novembre, 18h30, à Vaux-sur-Mer Inscription via le lien de la page",
+            "Réunion publique avec Olivier Bégué, maire de Soorts-Hossegor, Pierre Castéran et Carine Quinot, co-référents de secteur. Vendredi 27 novembre à 18h30, Seignosse, L Yvette Café, 20 rue de l Arroun.",
+            "Afterwork des adhérents Nouvelle Énergie au Portugal, le vendredi 27 novembre à 18h (heure locale) au Pub Bonaparte Foz, à Porto.",
             "David Lisnard sur BFMTV-Le Figaro : « Je veux faire le ménage au sommet de l’État »",
             "APÉRITIF DES ADHÉRENTS NOUVELLE ÉNERGIE CHARENTE-MARITIME : VAUX-SUR-MER",
             "SOIRÉE BEAUJOLAIS NOUVEAU NOUVELLE ÉNERGIE GIRONDE : LA TESTE-DE-BUCH",
@@ -673,11 +816,9 @@
             "AFTERWORK JEUNES ÉNERGIES BOUCHES-DU-RHÔNE : MARSEILLE",
             "AFTERWORK JEUNES ÉNERGIES TARN-ET-GARONNE : MONTAUBAN",
             "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE GIRONDE : LIBOURNE",
+            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE LANDES : SEIGNOSSE",
             "Khub Arras Karting, SAINTE-CATHERINE, PAS-DE-CALAIS",
-            "AFTERWORK JEUNES ÉNERGIES SEINE-MARITIME : ROUEN",
-            "La Kantine de Madame, LA TESTE-DE-BUCH, GIRONDE",
-            "APÉRO DISCUSSION NOUVELLE ÉNERGIE SINGAPOUR",
-            "Le Colombia, MARSEILLE, BOUCHES-DU-RHÔNE"
+            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE ISÈRE : MORESTEL"
           ]
         },
         {
@@ -706,6 +847,10 @@
         {
           "url": "https://www.unenouvelleenergie.fr/8-jeunes-volontaires-recoivent-le-diplome-de-cadet-de-la-police-municipale-de-cannes/",
           "first_seen": "2026-11-24"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/presentation-du-programme-presidentiel-de-david-lisnard-peronne-2026-11-30/",
+          "first_seen": "2026-11-27"
         },
         {
           "url": "https://www.unenouvelleenergie.fr/event/rencontre-des-militants-et-sympathisants-aveyronnais-onet-le-chateau-2026-12-09/",
@@ -869,11 +1014,12 @@
       "changed_pages": [
         {
           "url": "https://lafranceinsoumise.fr/actualites/",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 3,
           "added": [
             "PJL Logement : Main dans la main, RN, LR et macronistes détricotent le droit à un logement digne face à la seule opposition de LFI et des groupes écolos et GDR",
             "Milee : le groupe LFI exige une commission d’enquête sur le plus grand plan de licenciement depuis 40 ans",
+            "Ce samedi 28 novembre, marchons pour éradiquer les violences sexistes et sexuelles !",
             "Le Havre : samedi 5 décembre, RDV à 15 heures pour un meeting de Jean-Luc Mélenchon"
           ]
         }
@@ -912,34 +1058,46 @@
         },
         {
           "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-27",
           "removed_blocks": 1,
           "added": [
-            "Rétablissement du service national obligatoire et universel"
+            "De nouvelles obligations vaccinales (HPV pour éradiquer le cancer du col de l’utérus)",
+            "Grande politique de prévention pour les femmes et les enfants",
+            "Rétablissement du service national obligatoire et universel",
+            "Chaque médecin déployé une semaine par an partout en France"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-27",
           "removed_blocks": 1,
           "added": [
-            "Rétablissement du service national obligatoire et universel"
+            "De nouvelles obligations vaccinales (HPV pour éradiquer le cancer du col de l’utérus)",
+            "Grande politique de prévention pour les femmes et les enfants",
+            "Rétablissement du service national obligatoire et universel",
+            "Chaque médecin déployé une semaine par an partout en France"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-27",
           "removed_blocks": 1,
           "added": [
-            "Rétablissement du service national obligatoire et universel"
+            "De nouvelles obligations vaccinales (HPV pour éradiquer le cancer du col de l’utérus)",
+            "Grande politique de prévention pour les femmes et les enfants",
+            "Rétablissement du service national obligatoire et universel",
+            "Chaque médecin déployé une semaine par an partout en France"
           ]
         },
         {
           "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-27",
           "removed_blocks": 1,
           "added": [
-            "Rétablissement du service national obligatoire et universel"
+            "De nouvelles obligations vaccinales (HPV pour éradiquer le cancer du col de l’utérus)",
+            "Grande politique de prévention pour les femmes et les enfants",
+            "Rétablissement du service national obligatoire et universel",
+            "Chaque médecin déployé une semaine par an partout en France"
           ]
         },
         {
@@ -962,10 +1120,13 @@
         },
         {
           "url": "https://www.edouardphilippe.fr/programme",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-27",
           "removed_blocks": 1,
           "added": [
-            "Rétablissement du service national obligatoire et universel"
+            "De nouvelles obligations vaccinales (HPV pour éradiquer le cancer du col de l’utérus)",
+            "Grande politique de prévention pour les femmes et les enfants",
+            "Rétablissement du service national obligatoire et universel",
+            "Chaque médecin déployé une semaine par an partout en France"
           ]
         },
         {
@@ -1004,9 +1165,43 @@
             "Le rétablissement d’un service national obligatoire et universel, avec le choix entre une option militaire et plusieurs options civiles, et 250 000 réservistes.",
             "Édouard Philippe veut-il rétablir un service national obligatoire ?"
           ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/ecole",
+          "changed_at": "2026-11-27",
+          "removed_blocks": 0,
+          "added": [
+            "De nouvelles obligations vaccinales (HPV pour éradiquer le cancer du col de l’utérus)",
+            "Grande politique de prévention pour les femmes et les enfants",
+            "Chaque médecin déployé une semaine par an partout en France"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/famille",
+          "changed_at": "2026-11-27",
+          "removed_blocks": 0,
+          "added": [
+            "De nouvelles obligations vaccinales (HPV pour éradiquer le cancer du col de l’utérus)",
+            "Grande politique de prévention pour les femmes et les enfants",
+            "Chaque médecin déployé une semaine par an partout en France"
+          ]
+        },
+        {
+          "url": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+          "changed_at": "2026-11-27",
+          "removed_blocks": 0,
+          "added": [
+            "De nouvelles obligations vaccinales (HPV pour éradiquer le cancer du col de l’utérus)",
+            "Grande politique de prévention pour les femmes et les enfants",
+            "Chaque médecin déployé une semaine par an partout en France"
+          ]
         }
       ],
       "new_pages": [
+        {
+          "url": "https://www.edouardphilippe.fr/programme/sante",
+          "first_seen": "2026-11-27"
+        },
         {
           "url": "https://www.edouardphilippe.fr/actualites/a-toulouse-edouard-philippe-defend-un-service-public-plus-simple-et-plus-proche",
           "first_seen": "2026-11-24"
@@ -1095,6 +1290,10 @@
           "first_seen": "2026-11-25"
         },
         {
+          "url": "https://marinetondelier.fr/journal-de-campagne/etat-providence-climatique-salon-des-maires",
+          "first_seen": "2026-11-27"
+        },
+        {
           "url": "https://marinetondelier.fr/journal-de-campagne/etat-de-droit",
           "first_seen": "2026-11-25"
         },
@@ -1133,15 +1332,19 @@
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/mercosur.pdf",
-          "changed_at": "2026-11-25",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 2,
           "added": []
         },
         {
           "url": "https://www.parti-reconquete.fr/#actualites",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 30,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 40,
           "added": [
+            "Il n’y a aucune sélection jusqu’à l’université, et nos enfants le paient. On leur fait croire qu’ils ont le niveau, puis ils se retrouvent perdus à la fac, et les deux tiers n’obtiennent pas leur licence en trois ans. On leur a menti. Je rétablirai à l’école primaire les méthodes traditionnelles : la méthode syllabique, le par cœur, le calcul mental, la récitation, l’histoire. Puis je mettrai de…",
+            "Je supprimerai la CSG sur les revenus d’activité : c’est 10 % de salaire en plus pour tout le monde. Celui qui gagne 2 000 euros touchera 200 euros de plus, et un couple à deux salaires de 2 000 euros, 400 euros. J’ai choisi cet impôt parce qu’il touche tous les actifs, salariés, indépendants et fonctionnaires, et que sa suppression éloigne enfin le travail des revenus d’assistance. Je baisserai…",
+            "La doxa médiatique, celle des bien-pensants, ne supporte pas qu’on conteste ses récits, et elle censure. Ils ont fermé C8 et NRJ12. Ils réclament aujourd’hui la fermeture d’une troisième chaîne. Et des « antifas » vont même détruire des livres en librairie parce qu’ils sont édités par le groupe Bolloré. Au XVe siècle, l’imprimerie avait permis à chacun de lire la Bible et retiré à l’Église le…",
+            "Je ne suis pas un politicien et je ne fais pas partie de la caste. Je me suis engagé pour sauver mon pays, que je voyais dériver lentement vers le déclin et le grand remplacement. Je suis le seul à pouvoir rétablir la paix dans une France qui glisse vers la guerre civile, et le seul à pouvoir extirper le socialisme qui nous ruine depuis 50 ans. Je n’ai ni les réflexes des autres, ni leurs…",
             "📯 Merci à la Fédération nationale des chasseurs, dont de nombreux maires sont membres, pour ces échanges. Les chasseurs sont des acteurs essentiels de nos communes rurales : ils font vivre la convivialité dans nos campagnes, entretiennent et protègent nos forêts et participent à la préservation de nos traditions qui rassemblent les Français. Cessons de les diaboliser !",
             "Cet après-midi, au Salon des maires, je suis venu leur apporter mon soutien et écouter leurs doléances. Depuis la loi Hollande, qui publie le nom des maires parrains, beaucoup subissent des pressions et renoncent à parrainer. Parrainer, ce n’est pas soutenir : c’est un devoir démocratique. Chers maires, faites vivre la démocratie. 👉 ericzemmour.fr",
             "🎄🎅 L’édition de Noël du Casse du siècle paraît cette semaine ! 400 000 lecteurs ont fait du Casse du siècle le livre le plus vendu de France pendant trois mois, et le premier des essais chaque semaine depuis sa sortie. 🎁 Il lui reste à passer de vos mains à celles des gens que vous aimez. Ou de ceux avec qui vous aimez débattre. sarahknafo.fr",
@@ -1160,20 +1363,20 @@
             "Bonne ambiance chez RTL grâce à Philippe Caverivière ! Cette fois-ci, les journalistes n’auront pas besoin d’une cellule psychologique ! 😇",
             "Je me suis fixé un objectif personnel dans cette campagne, tout faire pour empêcher l’arrivée au pouvoir de Jean-Luc Mélenchon.",
             "🐷 Impossible de venir à la Sainte-Catherine à Vesoul sans déguster son traditionnel et emblématique cochon en pain d’épices.",
-            "🤡 Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste.",
-            "🚨NON au coup d’État de l’Arcom sur internet. La démocratie s’est installée sur YouTube.",
-            "Merci pour votre accueil si chaleureux à la 730e foire de la Sainte-Catherine à Vesoul !",
-            "À l’école, la mère des batailles est la fin du collège unique.",
-            "Désormais le verdict appartient au peuple français. ⤵️",
-            "Elwan, tu as le profil : envoie ton CV à France Info.",
-            "Passer de Panot à Knafo, forcément, ça fait un choc !"
+            "Au Salon des maires, on a trinqué à la France et au bon sens qui doit revenir au sommet de l’État ! 🍻",
+            "Au Salon des maires, on a trinqué à la France et au bon sens qui doit revenir au sommet de l’État !",
+            "🤡 Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste."
           ]
         },
         {
           "url": "https://www.parti-reconquete.fr/",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 30,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 40,
           "added": [
+            "Il n’y a aucune sélection jusqu’à l’université, et nos enfants le paient. On leur fait croire qu’ils ont le niveau, puis ils se retrouvent perdus à la fac, et les deux tiers n’obtiennent pas leur licence en trois ans. On leur a menti. Je rétablirai à l’école primaire les méthodes traditionnelles : la méthode syllabique, le par cœur, le calcul mental, la récitation, l’histoire. Puis je mettrai de…",
+            "Je supprimerai la CSG sur les revenus d’activité : c’est 10 % de salaire en plus pour tout le monde. Celui qui gagne 2 000 euros touchera 200 euros de plus, et un couple à deux salaires de 2 000 euros, 400 euros. J’ai choisi cet impôt parce qu’il touche tous les actifs, salariés, indépendants et fonctionnaires, et que sa suppression éloigne enfin le travail des revenus d’assistance. Je baisserai…",
+            "La doxa médiatique, celle des bien-pensants, ne supporte pas qu’on conteste ses récits, et elle censure. Ils ont fermé C8 et NRJ12. Ils réclament aujourd’hui la fermeture d’une troisième chaîne. Et des « antifas » vont même détruire des livres en librairie parce qu’ils sont édités par le groupe Bolloré. Au XVe siècle, l’imprimerie avait permis à chacun de lire la Bible et retiré à l’Église le…",
+            "Je ne suis pas un politicien et je ne fais pas partie de la caste. Je me suis engagé pour sauver mon pays, que je voyais dériver lentement vers le déclin et le grand remplacement. Je suis le seul à pouvoir rétablir la paix dans une France qui glisse vers la guerre civile, et le seul à pouvoir extirper le socialisme qui nous ruine depuis 50 ans. Je n’ai ni les réflexes des autres, ni leurs…",
             "📯 Merci à la Fédération nationale des chasseurs, dont de nombreux maires sont membres, pour ces échanges. Les chasseurs sont des acteurs essentiels de nos communes rurales : ils font vivre la convivialité dans nos campagnes, entretiennent et protègent nos forêts et participent à la préservation de nos traditions qui rassemblent les Français. Cessons de les diaboliser !",
             "Cet après-midi, au Salon des maires, je suis venu leur apporter mon soutien et écouter leurs doléances. Depuis la loi Hollande, qui publie le nom des maires parrains, beaucoup subissent des pressions et renoncent à parrainer. Parrainer, ce n’est pas soutenir : c’est un devoir démocratique. Chers maires, faites vivre la démocratie. 👉 ericzemmour.fr",
             "🎄🎅 L’édition de Noël du Casse du siècle paraît cette semaine ! 400 000 lecteurs ont fait du Casse du siècle le livre le plus vendu de France pendant trois mois, et le premier des essais chaque semaine depuis sa sortie. 🎁 Il lui reste à passer de vos mains à celles des gens que vous aimez. Ou de ceux avec qui vous aimez débattre. sarahknafo.fr",
@@ -1192,19 +1395,15 @@
             "Bonne ambiance chez RTL grâce à Philippe Caverivière ! Cette fois-ci, les journalistes n’auront pas besoin d’une cellule psychologique ! 😇",
             "Je me suis fixé un objectif personnel dans cette campagne, tout faire pour empêcher l’arrivée au pouvoir de Jean-Luc Mélenchon.",
             "🐷 Impossible de venir à la Sainte-Catherine à Vesoul sans déguster son traditionnel et emblématique cochon en pain d’épices.",
-            "🤡 Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste.",
-            "🚨NON au coup d’État de l’Arcom sur internet. La démocratie s’est installée sur YouTube.",
-            "Merci pour votre accueil si chaleureux à la 730e foire de la Sainte-Catherine à Vesoul !",
-            "À l’école, la mère des batailles est la fin du collège unique.",
-            "Désormais le verdict appartient au peuple français. ⤵️",
-            "Elwan, tu as le profil : envoie ton CV à France Info.",
-            "Passer de Panot à Knafo, forcément, ça fait un choc !"
+            "Au Salon des maires, on a trinqué à la France et au bon sens qui doit revenir au sommet de l’État ! 🍻",
+            "Au Salon des maires, on a trinqué à la France et au bon sens qui doit revenir au sommet de l’État !",
+            "🤡 Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste."
           ]
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/programme-pour-la-france.pdf",
-          "changed_at": "2026-11-25",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-27",
+          "removed_blocks": 2,
           "added": []
         }
       ],
