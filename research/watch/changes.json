@@ -1,6 +1,6 @@
 {
   "since": "2026-11-23",
-  "generated": "2026-11-27",
+  "generated": "2026-11-28",
   "note": "Pages des candidats modifiées ou apparues depuis la dernière relecture (research/watch/last-review.txt), avec les passages nouveaux. Pages sans réponse ou protégées contre les robots : non suivies.",
   "candidates": {
     "arthaud": {
@@ -17,14 +17,16 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/portail/index.html",
-          "changed_at": "2026-11-27",
-          "removed_blocks": 24,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 28,
           "added": [
             "Ce mardi 24 novembre, la direction de Stellantis Sochaux a prétexté une baisse de commandes, la concurrence, pour arrêter la demi-équipe de nuit en janvier 2027 et renvoyer 500 intérimaires, soit la moitié de ceux actuellement à l’usine. Ces 5 dernières années, baisses de commandes ou pas, les familles Peugeot, Agnelli du groupe Stellantis ont engrangé plus de 54 milliards d’euros de profits et re",
             "Trump, Xi Jinping et Poutine, les chefs des trois pays qui possèdent les plus grands arsenaux nucléaires au monde, investissent des sommes colossales dans les armements et sont déjà en conflit sur de nombreux terrains, se sont rencontrés au sommet de Shenzhen, en Chine. Ils ont multiplié les accolades et posé en faiseurs de paix, de stabilité et de sécurité internationale.",
             "Après treize ans de discussions, les États réunis à Genève se sont séparés sans s’accorder sur l'interdiction des armes autonomes, ces machines capables de sélectionner et d’attaquer des cibles sans intervention humaine. Les États-Unis, la Russie et Israël se sont opposés à l’ouverture de négociations pour un traité international contraignant.",
             "Une majorité de sénateurs ont voté l'abaissement du plafond donnant droit à l'abattement fiscal de 10 % pour les retraités. Si le budget dépendait du Sénat, le plafond serait fixé à 1 000 euros par mois au lieu de 4 439 auparavant et près de 5 milliards d’euros seraient prélevés sur le dos des retraités.",
+            "Le gouvernement brésilien du président Lula, fraîchement réélu, a fait voter une loi privant la Santé et l'Éducation d'environ 8 milliards d'euros. De plus, Lula prévoit de nommer le président du conseil d'administration d'une des plus grandes banques privée du pays au ministère de l'Économie.",
             "Au bout de près de 20 jours de grèves et de manifestations, les ouvriers et ouvrières du textile du Bangladesh ont obtenu 36 % d'augmentation de leur salaire. Cela porte le salaire à 124 dollars par mois, qui reste insuffisant pour bien des grévistes qui ont décidé de continuer la lutte.",
+            "Stellantis et l’équipementier Joyson Safety Systems France ont été perquisitionnés dans le cadre de l’enquête sur les airbags défaillants Takata. En France, surtout en outremer, ces airbags seraient à l’origine d’une cinquantaine d’accidents et ont fait plus de 20 morts.",
             "Le 18 novembre, les patrons de la verrerie de Vayres, près de Libourne, ont annoncé la fermeture définitive de l’entreprise. Ce sont 170 travailleurs qui vont se retrouver au chômage, sans compter les conséquences pour ceux des entreprises sous-traitantes.",
             "Ni l’introduction en Bourse d’Anthropic ni le retour de Jensen Huang à la tête de Nvidia n’y auront fait grand-chose, le Nasdaq, l’indice boursier américain qui cote les valeurs de la tech, a perdu plus de 10 % entre début octobre et fin novembre.",
             "Les policiers qui avaient tabassé Michel Zecler ont été condamnés à des peines allant de un à deux ans de prison ferme. La justice a été clémente envers ces brutes, que le verdict a fini par reconnaître comme racistes.",
@@ -34,23 +36,21 @@
             "Mercredi 25 novembre, Hugues Moutouh, préfet du Centre-Val de Loire et ancien secrétaire général du ministère de l’Intérieur, a été relevé de ses fonctions.",
             "Verrerie de Vayres (Gironde) : les profits des actionnaires contre la vie des ouvriers",
             "L'éditorial en vidéo : L’ordre capitaliste mondial, c’est la guerre !",
+            "Airbags Takata : perquisitions après plus de dix ans de scandale",
             "Ville du Havre : Succès des grévistes de la propreté urbaine",
             "Violences policières : Charges lourdes, peines légères",
             "Affaire Zecler : policiers condamnés… pour une fois !",
+            "Pollution aux Pfas : jusque dans les laits infantiles",
             "Arkema-Daikin, Solvay : PFAS, rien vu, rien entendu",
             "Stellantis Sochaux : : Renvoi de 500 intérimaires",
             "Stellantis Sochaux : Renvoi de 500 intérimaires",
-            "Retraites : tentative de vol en bande organisée",
-            "L’ordre capitaliste mondial, c’est la guerre !",
-            "Augmenter les salaires : une nécessité vitale",
-            "Armement : Les robots tueurs ont des maîtres",
-            "Vive la lutte des ouvriers du Bangladesh !"
+            "Retraites : tentative de vol en bande organisée"
           ]
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=15",
-          "changed_at": "2026-11-27",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 2,
           "added": []
         },
         {
@@ -61,8 +61,8 @@
         },
         {
           "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf#page=20",
-          "changed_at": "2026-11-27",
-          "removed_blocks": 3,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 4,
           "added": []
         },
         {
@@ -78,8 +78,8 @@
       "changed_pages": [
         {
           "url": "https://attalpresident.fr/",
-          "changed_at": "2026-11-27",
-          "removed_blocks": 17,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 19,
           "added": [
             "Ce jeudi 19 novembre, Gabriel Attal était auditionné par la Fédération française du bâtiment (FFB) pour présenter sa vision du logement et de la construction. Face aux professionnels du secteur, il a défendu une ambition claire : sortir de la crise du logement, relancer la construction et permettre à davantage de Français de devenir propriétaires. Pour y parvenir, il propose un choc d offre, une s",
             "Invité de « L’Heure de vérité » ce jeudi 19 novembre, Gabriel Attal a défendu sa vision pour l’avenir de la France. Du rassemblement politique à la hausse des salaires, en passant par la jeunesse, l’intelligence artificielle et l’Europe, il a présenté les grandes orientations de son projet : rompre avec un modèle à bout de souffle, changer la manière d’exercer le pouvoir et permettre à la France d",
@@ -91,7 +91,9 @@
             "Des amendes forfaitaires réglées sur place et la saisie des véhicules en cas d occupation illégale persistante.",
             "Durcir les exigences de revenus, de logement et de durée de résidence pour demander le regroupement familial.",
             "Augmenter les achats de défense français réalisés en Europe et la même règle défendue au niveau de l Union.",
+            "Augmenter les achats de défense français réalisés en Europe et la même règle défendue au niveau de l Union.",
             "Des prix de l électricité stables pendant cinq ans, pour que les entreprises puissent investir en France.",
+            "Une amende forfaitaire dès le premier acte de maltraitance animale constaté, sans attendre la récidive.",
             "Une amende forfaitaire dès le premier acte de maltraitance animale constaté, sans attendre la récidive.",
             "Gabriel Attal dans « L’Heure de vérité » : « Je veux redonner un temps d’avance à la France »",
             "Un prix de l eau protégé pour les litres dont chaque famille a besoin au quotidien.",
@@ -101,7 +103,7 @@
         },
         {
           "url": "https://attalpresident.fr/programme/travail-salaires",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-28",
           "removed_blocks": 0,
           "added": [
             "Encourager la semaine en quatre jours pour ceux qui ne peuvent pas télé-travailler",
@@ -110,7 +112,9 @@
             "Une organisation des horaires de travail adaptés à la vie de famille",
             "Créer un livret garde d enfant pour financer des places en crèche",
             "Un contrat avec une entreprise pour chaque lycéen professionnel",
+            "Former 200 000 professionnels de la petite enfance d ici 2030",
             "Un statut Auto-TPE pour embaucher son premier salarié",
+            "Diviser par deux les accidents du travail en dix ans",
             "Supprimer le plafond légal d heures supplémentaires",
             "Étendre l intéressement aux petites structures",
             "Créer un droit au répit pour les parents seuls"
@@ -131,12 +135,15 @@
         },
         {
           "url": "https://attalpresident.fr/programme",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-28",
           "removed_blocks": 0,
           "added": [
+            "Enclencher l’interdiction de marché public européen pour les entreprises déjà interdites d’un marché public d’un pays européen",
             "Gens du voyage : imposer que le juge statue sous quarante-huit heures pour une demande d’évacuation",
             "Substituer les subventions par la commande publique pour faire émerger des champions français",
+            "Simplifier et mieux contrôler l’accès au label Reconnu garant de l environnement des artisans",
             "Engager la responsabilité des deux parents pour les actes commis par leurs enfants mineurs",
+            "Renforcer police et gendarmerie dans les zones de grands passages de gens du voyage",
             "Encourager la semaine en quatre jours pour ceux qui ne peuvent pas télé-travailler",
             "Gens du voyage : créer un registre national des groupes de plus de vingt caravanes",
             "Instaurer une responsabilité budgétaire du gouvernement et de l’administration",
@@ -153,17 +160,14 @@
             "Une organisation des horaires de travail adaptés à la vie de famille",
             "Ouvrir le recrutement des professeurs aux professionnels du privé",
             "Créer un livret garde d enfant pour financer des places en crèche",
+            "Aucune régularisation massive décidée seul dans l espace Schengen",
             "Fermer les cent collèges qui concentrent le plus de difficultés",
-            "Aménager les cours au collège selon les besoins de chaque élève",
-            "Un contrat avec une entreprise pour chaque lycéen professionnel",
-            "Étendre le parapluie nucléaire français pour protéger l Europe",
-            "Adapter toutes les écoles au changement climatique en cinq ans",
-            "Affirmer une préférence travail inscrite dans la Constitution"
+            "Aménager les cours au collège selon les besoins de chaque élève"
           ]
         },
         {
           "url": "https://attalpresident.fr/programme/dette-de-letat",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-28",
           "removed_blocks": 0,
           "added": [
             "Supprimer un échelon de collectivité pour lutter contre les doublons administratifs",
@@ -172,21 +176,25 @@
             "Cent mille postes en moins dans l État et les collectivités",
             "Inscrire une règle d or budgétaire dans la Constitution",
             "Équilibrer les comptes de la Sécurité sociale",
+            "Préserver l’épargne des Français de la dette",
             "Les mesures déjà annoncées Dette de l État"
           ]
         },
         {
           "url": "https://attalpresident.fr/programme/education",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-28",
           "removed_blocks": 0,
           "added": [
             "Moins de vingt élèves par classe en moyenne en primaire d ici cinq ans",
             "Ouvrir le recrutement des professeurs aux professionnels du privé",
             "Fermer les cent collèges qui concentrent le plus de difficultés",
             "Aménager les cours au collège selon les besoins de chaque élève",
+            "Plus d épreuves terminales au bac pour lui rendre sa valeur",
             "Plan Voltaire : trente minutes d esprit critique par jour",
             "Généraliser la méthode de Singapour en mathématiques",
+            "Un véritable parcours d orientation pour les élèves",
             "Une année passerelle pour les élèves en difficulté",
+            "Faire de Parcoursup un vrai outil d accompagnement",
             "Garantir le remplacement des enseignants absents",
             "Un seul ministre de l Éducation pendant cinq ans",
             "Un véritable corps professionnel pour les AESH",
@@ -199,13 +207,15 @@
         },
         {
           "url": "https://attalpresident.fr/programme/frontieres",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-28",
           "removed_blocks": 0,
           "added": [
+            "Enclencher l’interdiction de marché public européen pour les entreprises déjà interdites d’un marché public d’un pays européen",
             "Accélérer les projets de minage de lithium dans le Massif central et en Alsace",
             "Créer une Agence européenne pour les projets de recherche avancée de défense",
             "Contrôler les investissements chinois dans nos infrastructures sensibles",
             "Renforcer la souveraineté européenne sur les équipements militaires",
+            "Aucune régularisation massive décidée seul dans l espace Schengen",
             "Créer un dôme de fer européen contre les missiles et les drones",
             "Une préférence européenne dans la commande publique de défense",
             "Étendre le parapluie nucléaire français pour protéger l Europe",
@@ -221,7 +231,7 @@
         },
         {
           "url": "https://attalpresident.fr/programme/intelligence-artificielle",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-28",
           "removed_blocks": 0,
           "added": [
             "Multiplier par sept la puissance de calcul européenne pour la porter à vingt pour cent du niveau mondial",
@@ -231,6 +241,7 @@
             "Garantir la stabilité des prix de l électricité sur cinq ans",
             "Former 100 % des enseignants à l intelligence artificielle",
             "Un tuteur numérique souverain et gratuit pour chaque élève",
+            "Former tous les Français à l intelligence artificielle",
             "Intégrer la maîtrise de l IA aux savoirs fondamentaux",
             "Accélérer les délais de jugement grâce à l’IA",
             "Former tous les salariés à l IA d ici 2030",
@@ -239,10 +250,11 @@
         },
         {
           "url": "https://attalpresident.fr/programme/dette-ecologique",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-28",
           "removed_blocks": 0,
           "added": [
             "Créer un ministère de l Eau pour centraliser la gestion de l’eau par la création d’un “ministère de l’eau”",
+            "Simplifier et mieux contrôler l’accès au label Reconnu garant de l environnement des artisans",
             "Dépister automatiquement les polluants éternels dans les captages d’eau potable",
             "Répondre à toute demande de subvention pour la géoénergie en moins de 90 jours",
             "Un plan de formation et de reconversion vers les métiers de la géoénergie",
@@ -250,11 +262,13 @@
             "Renforcer les sanctions contre les contrevenants aux alertes sécheresse",
             "Développer la recherche sur la fusion nucléaire au niveau européen",
             "Adapter toutes les écoles au changement climatique en cinq ans",
+            "Le leasing électrique pour les travailleurs de première ligne",
             "Lever tous les obstacles à la réutilisation des eaux usées",
             "Un bonus pour l achat d une voiture électrique d occasion",
             "Réparer les cinq cents réseaux d eau les plus vétustes",
             "Une loi de programmation pour le logement sur cinq ans",
             "Plan d urgence de climatisation des établissements",
+            "Réduire de moitié les émissions de GES en dix ans",
             "Financer la moitié des boîtiers E85 pour voiture",
             "Simplifier les règles des forages géothermiques",
             "Réutiliser et valoriser les déchets nucléaires",
@@ -264,13 +278,18 @@
         },
         {
           "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france",
-          "changed_at": "2026-11-24",
+          "changed_at": "2026-11-28",
           "removed_blocks": 0,
           "added": [
             "Ouvrir le recrutement des professeurs aux professionnels du privé",
             "Un contrat avec une entreprise pour chaque lycéen professionnel",
             "Adapter toutes les écoles au changement climatique en cinq ans",
+            "Le leasing électrique pour les travailleurs de première ligne",
+            "Plus d épreuves terminales au bac pour lui rendre sa valeur",
+            "Un mois d engagement civique pour chaque jeune avant 25 ans",
             "Un bonus pour l achat d une voiture électrique d occasion",
+            "Un véritable parcours d orientation pour les élèves",
+            "Faire de Parcoursup un vrai outil d accompagnement",
             "Faciliter les donations aux nouvelles générations",
             "Revoir l’organisation des journées scolaires"
           ]
@@ -520,6 +539,82 @@
         {
           "url": "https://attalpresident.fr/programme/mesures/retour-royaume-uni-union-europeenne",
           "first_seen": "2026-11-24"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/parcoursup-outil-accompagnement",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/epreuves-terminales-bac",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/parcours-orientation-eleves",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/diviser-par-deux-accidents-du-travail",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/interdiction-marche-public-europeen-etendue",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/relocaliser-productions-critiques",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/preserver-epargne-des-francais",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/suppression-juge-application-peines",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/reformer-conseil-superieur-magistrature",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/renforts-zones-grand-passage",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/former-200000-professionnels-petite-enfance",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/schengen-aucune-regularisation-massive-seul",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/supprimer-salons-du-chiot",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/diviser-par-deux-les-emissions",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/simplifier-label-rge-artisans",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/leasing-electrique-premiere-ligne",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/former-tous-francais-ia",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/mois-engagement-civique-jeunes",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://attalpresident.fr/programme/mesures/infertilite-au-coeur-du-debat",
+          "first_seen": "2026-11-28"
         }
       ]
     },
@@ -554,19 +649,25 @@
       "changed_pages": [
         {
           "url": "https://www.dupontaignan.fr/actualite/",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 3,
           "added": [
-            "« On est chez les fous » : Nicolas Dupont-Aignan dévoile son plan pour sauver l’immobilier !"
+            "Toujours moins pour les Français, toujours plus pour les marchands d armes ! · BFM TV, 26/11/2026",
+            "« On est chez les fous » : Nicolas Dupont-Aignan dévoile son plan pour sauver l’immobilier !",
+            "Présidentielle : « Je me présente car mon pays est en danger de mort ! · RTL, 27/11/2026",
+            "Au Salon des Maires, j’ai présenté mes 25 mesures pour redonner vie à nos communes"
           ]
         },
         {
           "url": "https://www.dupontaignan.fr/",
-          "changed_at": "2026-11-27",
-          "removed_blocks": 107,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 138,
           "added": [
+            "Mais les femmes n’ont pas besoin de slogans : elles ont besoin de pouvoir rentrer chez elles en sécurité, dans les rues comme dans les transports. Elles ont besoin d’une justice qui ne classe pas, comme aujourd’hui, près de 70% des plaintes pour viol et qui ne libère pas les auteurs de violences conjugales.",
+            "60,5 milliards pour l’Afrique subsaharienne, 42,9 milliards pour le Moyen-Orient, l’Afrique du Nord et le Golfe, auxquels s’ajouterait un dispositif allant jusqu’à 100 milliards d’euros de prêts supplémentaires pour l’Ukraine distribués n’importe comment.",
             "L’hémicycle de l’Assemblée nationale n’est pas un studio de propagande. Que des militants d’extrême gauche puissent y tourner une séquence hostile à la police pose une sérieuse question sur le respect de nos institutions et l’autorité de leur présidence.",
             "Călin Georgescu, le candidat souverainiste roumain arrivé en tête du premier tour de la présidentielle en 2024, avant l’annulation honteuse du scrutin sous pression de l’Union européenne, sort de détention provisoire après 56 jours.",
+            "Il y a un mensonge généralisé dans la classe politique qui consiste à dire aux Français que l’on solutionnera nos problèmes en restant dans l’Union européenne… Je suis le seul à dire la vérité aux Français ! ... Voir plus Voir moins",
             "Si comme des millions de Français, ils ne font plus confiance à la classe politique, je les incite à parrainer des candidats différents et libres, pour offrir le choix démocratique le plus large possible aux Français.",
             "Moment de grâce à la messe matinale de Notre-Dame de Paris avant la rencontre organisée à l’occasion du Salon des maires par l’enseignement catholique sur l’avenir de l’école. ... Voir plus Voir moins",
             "J’y présenterai à cette occasion les 25 mesures de mon projet présidentiel pour retrouver un véritable équilibre du territoire et valoriser le travail essentiel des maires. ... Voir plus Voir moins",
@@ -576,20 +677,17 @@
             "La France devient-elle un pays où il ne fait plus bon investir ? Le constat du Telegraph sur les difficultés des entreprises britanniques à se développer chez nous devrait nous alerter.",
             "Il reste assigné à résidence et poursuivi par la justice, mais cela est un premier exploit pour le peuple roumain, à qui on avait volé sa souveraineté et son choix démocratique.",
             "Rencontre inattendue entre les deux candidats à la présidentielle ET maires les mieux réélus de France, à 80% des voix à Yerres et à Ville de Cannes . ... Voir plus Voir moins",
+            "Emmanuel Macron assure que soutenir l’Ukraine relève de l’intérêt national français. Mais depuis quand l’intérêt de la France consiste-t-il à prolonger une guerre sans issue ?",
             "J’y présenterai à cette occasion les 25 mesures de mon projet présidentiel pour retrouver un véritable équilibre du territoire et valoriser le travail essentiel des maires.",
             "La protection de nos infrastructures essentielles doit être une priorité nationale. Nous ne pouvons pas laisser nos établissements de santé à la merci de telles attaques.",
             "Les maires sont les gardiens de notre démocratie… et ils ont le pouvoir de changer les choses en parrainant des candidats libres et différents ! ... Voir plus Voir moins",
             "Homme de convictions et d’engagement, il a marqué l’histoire de notre pays par ses écrits, son courage et sa vision de la culture comme héritage à transmettre à tous.",
+            "On ruine le pays en dilapidant des dizaines de milliards à l’étranger, pendant que l’on fait subir toujours plus d’économies aux Français ! ... Voir plus Voir moins",
+            "Dire que l’on va régler les problèmes de pouvoir d’achat et d’immigration sans se libérer de l’Union européenne c’est mentir aux Français ! ... Voir plus Voir moins",
+            "L’INSEE le confirme : le PIB français entre en récession. À force d’augmenter les dépenses et les prélèvements, le Gouvernement freine l’économie au pire moment.",
             "Soutenir la presse ne doit pas devenir un prétexte pour dicter aux entreprises comment dépenser leur argent. La liberté économique mérite aussi d’être défendue.",
             "📺 Retrouvez-moi demain, vendredi 27 novembre, à 07h40, dans l’émission \"L’invité de RTL \" sur RTL , au micro de Céline Landreau🎙️ ... Voir plus Voir moins",
-            "Rencontre inattendue entre les deux candidats à la présidentielle ET maires les mieux réélus de France, à 80% des voix à @yerres_maville et à @villecannes",
-            "Accompagné d’une délégation de maires ruraux, j’ai présenté au Salon des maires mes 25 mesures pour sauver nos communes et redonner vie à nos campagnes !",
-            "Cette mesure est ESSENTIELLE pour redonner un peu d’air aux plus modestes et relancer notre consommation, aujourd’hui à l’arrêt. ... Voir plus Voir moins",
-            "Assez des fermetures de services publics, des décisions déconnectées prises dans les cabinets à Paris et des normes délirantes qui étouffent les élus !",
-            "Son parcours nous rappelle qu’une grande nation se construit aussi par la force de ses idées, la fidélité à son histoire et le courage de ses actes.",
-            "Au nom du pluralisme de la presse, près de 3 000 annonceurs pourraient être contraints de réorienter leurs investissements vers certains médias.",
-            "Combien de temps les Français devront-ils encore subir « ce comique de répétition » avec ses fausses leçons de morale ? ... Voir plus Voir moins",
-            "Les maires sont les gardiens de notre démocratie… et ils ont le pouvoir de changer les choses en parrainant des candidats libres et différents !"
+            "Rencontre inattendue entre les deux candidats à la présidentielle ET maires les mieux réélus de France, à 80% des voix à @yerres_maville et à @villecannes"
           ]
         },
         {
@@ -701,8 +799,20 @@
           "first_seen": "2026-11-24"
         },
         {
-          "url": "https://www.dupontaignan.fr/evenement/nicolas-dupont-aignan-sur-tv-libertes-le-14-11-26/",
-          "first_seen": "2026-11-27"
+          "url": "https://www.dupontaignan.fr/actualite/toujours-moins-pour-les-francais-toujours-plus-pour-les-marchands-darmes-%c2%b7-bfm-tv-26-11-2026/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/actualite/presidentielle-je-me-presente-car-mon-pays-est-en-danger-de-mort-%c2%b7-rtl-27-11-2026/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/actualite/au-salon-des-maires-jai-presente-mes-25-mesures-pour-redonner-vie-a-nos-communes/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.dupontaignan.fr/evenement/nicolas-dupont-aignan-sur-tf1-le-01-12-26/",
+          "first_seen": "2026-11-28"
         }
       ]
     },
@@ -723,11 +833,11 @@
           "first_seen": "2026-11-25"
         },
         {
-          "url": "https://marinelepen.com/actualites/liberer-la-construction-au-grand-oral-de-la-construction-marine-le-pen-presente-son-plan-pour-le-logement",
-          "first_seen": "2026-11-27"
+          "url": "https://marinelepen.com/actualites/nouvelles-nominations-au-sein-de-lequipe-de-campagne-de-marine-le-pen-27-novembre-2027",
+          "first_seen": "2026-11-28"
         },
         {
-          "url": "https://marinelepen.com/materiel-de-campagne/01a21885-662a-79be-ade6-1a02188a90c7/telecharger",
+          "url": "https://marinelepen.com/actualites/liberer-la-construction-au-grand-oral-de-la-construction-marine-le-pen-presente-son-plan-pour-le-logement",
           "first_seen": "2026-11-27"
         },
         {
@@ -735,7 +845,7 @@
           "first_seen": "2026-11-27"
         },
         {
-          "url": "https://marinelepen.com/materiel-de-campagne/defendons-la-republique/01a21885-662a-7497-ade6-1a0218330894",
+          "url": "https://marinelepen.com/materiel-de-campagne/01a21885-662a-79be-ade6-1a02188a90c7/telecharger",
           "first_seen": "2026-11-27"
         },
         {
@@ -743,7 +853,7 @@
           "first_seen": "2026-11-27"
         },
         {
-          "url": "https://marinelepen.com/materiel-de-campagne/defendons-la-republique/01a21885-6629-7f9d-8970-2f05047d2396",
+          "url": "https://marinelepen.com/materiel-de-campagne/defendons-la-republique/01a21885-662a-7497-ade6-1a0218330894",
           "first_seen": "2026-11-27"
         },
         {
@@ -751,11 +861,15 @@
           "first_seen": "2026-11-27"
         },
         {
-          "url": "https://marinelepen.com/materiel-de-campagne/01a21885-6629-79f3-8970-2f0504345a23/telecharger",
+          "url": "https://marinelepen.com/materiel-de-campagne/01a21885-6629-7f9d-8970-2f05047d2396/telecharger",
           "first_seen": "2026-11-27"
         },
         {
-          "url": "https://marinelepen.com/materiel-de-campagne/pour-la-france-la-renaissance/01a21885-6628-71db-abdc-3027b8d434b6",
+          "url": "https://marinelepen.com/materiel-de-campagne/defendons-la-republique/01a21885-6629-7f9d-8970-2f05047d2396",
+          "first_seen": "2026-11-27"
+        },
+        {
+          "url": "https://marinelepen.com/materiel-de-campagne/01a21885-6629-79f3-8970-2f0504345a23/telecharger",
           "first_seen": "2026-11-27"
         },
         {
@@ -763,7 +877,7 @@
           "first_seen": "2026-11-27"
         },
         {
-          "url": "https://marinelepen.com/materiel-de-campagne/01a21885-6629-7f9d-8970-2f05047d2396/telecharger",
+          "url": "https://marinelepen.com/materiel-de-campagne/pour-la-france-la-renaissance/01a21885-6628-71db-abdc-3027b8d434b6",
           "first_seen": "2026-11-27"
         },
         {
@@ -780,9 +894,10 @@
       "changed_pages": [
         {
           "url": "https://www.unenouvelleenergie.fr/notre-programme/",
-          "changed_at": "2026-11-27",
-          "removed_blocks": 4,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 5,
           "added": [
+            "Prochains rendez-vous : Coulonges-les-Hérolles, Sydney (australie), Saint-Dié-des-Vosges et Vallon-en-Sully",
             "Prochains rendez-vous : Vaux-sur-Mer, La Teste-de-Buch, Libourne et Singapour",
             "Prochains rendez-vous : Porto (portugal), Falaise, Seignosse et Morestel",
             "Prochains rendez-vous : Paris Centre, Paris 8e, Strasbourg et Rouen",
@@ -791,10 +906,14 @@
         },
         {
           "url": "https://www.unenouvelleenergie.fr/",
-          "changed_at": "2026-11-27",
-          "removed_blocks": 31,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 45,
           "added": [
             "Invité du Grand Oral BFMTV-Le Figaro, dimanche 22 novembre, David Lisnard a détaillé son projet pour l élection présidentielle de 2027. Primaire ouverte, réforme de l État, réduction de la bureaucratie, retraites, éducation et souveraineté économique : le président de Nouvelle Énergie a défendu sa vision d une rupture avec le fonctionnement actuel du pays, tout en précisant ses positions face au m",
+            "Au lendemain de sa très large réélection à la présidence de l’Association des maires de France (AMF), David Lisnard était l’invité de Benjamin Duhamel sur France Inter, ce jeudi 26 novembre à 7h50. Le président de Nouvelle Énergie et candidat à l’élection présidentielle de 2027 est revenu sur sa dynamique politique, la nécessité d’organiser une primaire ouverte de la droite et du centre ainsi que ",
+            "Invité de l émission C à vous, jeudi 26 novembre, David Lisnard a défendu les grandes orientations de son projet pour la France. Réforme de l État, simplification du droit du travail, retraites, immigration et primaire de la droite et du centre : le président de Nouvelle Énergie a précisé ses propositions et réaffirmé sa volonté de porter une alternative politique pour l élection présidentielle de",
+            "Invité de l émission Bonjour chez vous ! sur Public Sénat, lundi 23 novembre, à l occasion de l ouverture du Congrès des maires de France, David Lisnard est revenu sur les difficultés financières des communes, l accumulation des normes et la nécessité de réformer profondément l organisation des pouvoirs publics. Le président de l Association des maires de France et de Nouvelle Énergie a également ",
+            "Emmanuel Ferrand, co-relais Nouvelle Énergie Allier et maire de Saint-Pourçain-sur-Sioule, Charles Germain, relais Jeunes Énergies Allier, et Jean-Pierre Momcilovic, ancien élu de Montluçon, vous invitent à une réunion publique à Vallon-en-Sully. Lundi 30 novembre à 18h30, à Vallon-en-Sully Salle polyvalente, 5 route de Nassigny Infos et contact : allier@unenouvelleenergie.fr",
             "Brice Alzon, référent Nouvelle Énergie Paris Centre, vous invite à un afterwork avec Jonathan Pinet, auteur du livre « Sophismes fiscaux : contes d un pays où tout se taxe », préfacé par David Lisnard. Mardi 24 novembre à 18h30, à Paris Centre Bistrot du Jardin, 33 rue Berger Entrée sous condition d une consommation Infos et contact : paris@unenouvelleenergie.fr",
             "Jérôme Cosnard, maire de Coutras, Yves d Amécourt, vice-président de Nouvelle Énergie, et Jack Allais, référent Nouvelle Énergie Libourne, vous invitent à une réunion publique. Jeudi 26 novembre, 18h30, à Libourne Salle du Verdet, 12 rue de Toussaint, 33500 Libourne Infos et contact : gironde@unenouvelleenergie.fr",
             "Clément Labessouille, relais Jeunes Énergies Seine-Maritime, vous invite à un Afterwork Jeunes Énergies, l occasion d échanger sur l actualité politique et celle de David Lisnard. Mardi 24 novembre à 19h, à Rouen My Pub, 12 place du Vieux Marché Infos et contact : jeunesenergies@unenouvelleenergie.fr",
@@ -805,33 +924,59 @@
             "Nouvelle Énergie vous invite à un apéro discussion à Singapour avec Nicolas Lebard, Jérôme Peze et Julien Lecomte, l occasion d échanger sur l actualité politique et celle de David Lisnard. Jeudi 26 novembre à 18h45 Black Sheep Co, 26 Haji Lane, Singapour 189219",
             "Réunion publique avec Étienne Blanc, porte-voix de Nouvelle Énergie, Béatrice de Montille, vice-présidente de Nouvelle Énergie, et Fabien Durand, relais Nouvelle Énergie Isère. Vendredi 27 novembre à 18h30, Morestel, Salle de l Amitié, 389 rue François Perrin.",
             "Soirée Beaujolais Nouveau avec Geneviève Machery, référente Nouvelle Énergie Gironde - Sud Bassin d Arcachon, et Denis Pernin, relais Nouvelle Énergie Gironde. Jeudi 26 novembre à 18h30, La Teste-de-Buch, La Kantine de Madame, 171 rue Marcel-Dassault.",
+            "Karelle Furst, déléguée NÉ de la Vienne et Gartempe et Dylan Suaud, relais Vienne vous proposent un tractage et une visite de la foire de Coulonges-les-Hérolles. Verre de convivialité à la fin de l évènement (à charge de chacun des participants).",
             "Nouvelle Énergie Calvados vous invite à un apéritif convivial au Café la Renaissance 28 place du Docteur Paul German à Falaise à partir de 18h. Nous ferons ainsi le point sur l’actualité de notre candidat et de notre mouvement. Bien à vous",
             "Nouvelle Énergie Charente-Maritime vous invite à un apéritif-afterwork des adhérents, l occasion d échanger sur l actualité politique et celle de David Lisnard. Jeudi 26 novembre, 18h30, à Vaux-sur-Mer Inscription via le lien de la page",
+            "Rejoignez Pierre Bussy, relais Nouvelle Énergie Australie, pour un afterwork à Sydney. Lundi 30 novembre à 18h, Restaurant Ventuno, 21 Hickson Rd, Walsh Bay (Metro Barangaroo). Inscription : https://easy-skill.typeform.com/to/UQCJevCp",
+            "Guillaume Rosenberg, co-relais Nouvelle Énergie Gard, vous invite à une réunion publique à Saint-Ambroix. Lundi 30 novembre, 18h30, à Saint-Ambroix Salle Filature, boulevard du Portalet Infos et contact : gard@unenouvelleenergie.fr",
             "Réunion publique avec Olivier Bégué, maire de Soorts-Hossegor, Pierre Castéran et Carine Quinot, co-référents de secteur. Vendredi 27 novembre à 18h30, Seignosse, L Yvette Café, 20 rue de l Arroun.",
             "Afterwork des adhérents Nouvelle Énergie au Portugal, le vendredi 27 novembre à 18h (heure locale) au Pub Bonaparte Foz, à Porto.",
+            "Sécurité, immigration… David Lisnard révèle son programme présidentiel au Figaro Magazine",
             "David Lisnard sur BFMTV-Le Figaro : « Je veux faire le ménage au sommet de l’État »",
-            "APÉRITIF DES ADHÉRENTS NOUVELLE ÉNERGIE CHARENTE-MARITIME : VAUX-SUR-MER",
-            "SOIRÉE BEAUJOLAIS NOUVEAU NOUVELLE ÉNERGIE GIRONDE : LA TESTE-DE-BUCH",
-            "CONFÉRENCE NOUVELLE ÉNERGIE NORD ET PAS-DE-CALAIS : NARCOTRAFIC",
-            "AFTERWORK JEUNES ÉNERGIES BOUCHES-DU-RHÔNE : MARSEILLE",
-            "AFTERWORK JEUNES ÉNERGIES TARN-ET-GARONNE : MONTAUBAN",
-            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE GIRONDE : LIBOURNE",
-            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE LANDES : SEIGNOSSE",
-            "Khub Arras Karting, SAINTE-CATHERINE, PAS-DE-CALAIS",
-            "RÉUNION PUBLIQUE NOUVELLE ÉNERGIE ISÈRE : MORESTEL"
+            "« Je veux proposer une autre alternative que Jean-Luc Mélenchon et Marine Le Pen »"
           ]
         },
         {
           "url": "https://www.unenouvelleenergie.fr/actualites/",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 12,
           "added": [
             "Invité du Grand Oral BFMTV-Le Figaro, dimanche 22 novembre, David Lisnard a détaillé son projet pour l élection présidentielle de 2027. Primaire ouverte, réforme de l État, réduction de la bureaucratie, retraites, éducation et souveraineté économique : le président de Nouvelle Énergie a défendu sa vision d une rupture avec le fonctionnement actuel du pays, tout en précisant ses positions face au m",
-            "David Lisnard sur BFMTV-Le Figaro : « Je veux faire le ménage au sommet de l’État »"
+            "Au lendemain de sa très large réélection à la présidence de l’Association des maires de France (AMF), David Lisnard était l’invité de Benjamin Duhamel sur France Inter, ce jeudi 26 novembre à 7h50. Le président de Nouvelle Énergie et candidat à l’élection présidentielle de 2027 est revenu sur sa dynamique politique, la nécessité d’organiser une primaire ouverte de la droite et du centre ainsi que ",
+            "Invité du journal de 20 heures de France 2, mercredi 25 novembre, David Lisnard est revenu sur sa réélection à la présidence de l Association des maires de France, avant de détailler les grandes orientations de son projet pour l élection présidentielle de 2027. Primaire de la droite et du centre, réforme de l État, simplification administrative, retraites et guerre en Ukraine : le président de Nou",
+            "Invité de l émission C à vous, jeudi 26 novembre, David Lisnard a défendu les grandes orientations de son projet pour la France. Réforme de l État, simplification du droit du travail, retraites, immigration et primaire de la droite et du centre : le président de Nouvelle Énergie a précisé ses propositions et réaffirmé sa volonté de porter une alternative politique pour l élection présidentielle de",
+            "Invité de l émission Bonjour chez vous ! sur Public Sénat, lundi 23 novembre, à l occasion de l ouverture du Congrès des maires de France, David Lisnard est revenu sur les difficultés financières des communes, l accumulation des normes et la nécessité de réformer profondément l organisation des pouvoirs publics. Le président de l Association des maires de France et de Nouvelle Énergie a également ",
+            "Sécurité, immigration… David Lisnard révèle son programme présidentiel au Figaro Magazine",
+            "Retrouvez l’entretien entre David Lisnard et Carl Meeus, paru dans le Figaro Magazine.",
+            "David Lisnard sur BFMTV-Le Figaro : « Je veux faire le ménage au sommet de l’État »",
+            "« Je veux proposer une autre alternative que Jean-Luc Mélenchon et Marine Le Pen »",
+            "« Si l État nous laissait davantage agir, il y aurait moins de problèmes »",
+            "« On ne peut plus se permettre d arriver divisés au premier tour »",
+            "« Je suis pour un État fort là où il est nécessaire »"
           ]
         }
       ],
       "new_pages": [
+        {
+          "url": "https://www.unenouvelleenergie.fr/je-veux-proposer-une-autre-alternative-que-jean-luc-melenchon-et-marine-le-pen/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/securite-immigration-david-lisnard-revele-son-programme-presidentiel-au-figaro-magazine/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/on-ne-peut-plus-se-permettre-darriver-divises-au-premier-tour/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/je-suis-pour-un-etat-fort-la-ou-il-est-necessaire/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/si-letat-nous-laissait-davantage-agir-il-y-aurait-moins-de-problemes/",
+          "first_seen": "2026-11-28"
+        },
         {
           "url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-bfmtv-le-figaro-je-veux-faire-le-menage-au-sommet-de-letat/",
           "first_seen": "2026-11-24"
@@ -847,6 +992,78 @@
         {
           "url": "https://www.unenouvelleenergie.fr/8-jeunes-volontaires-recoivent-le-diplome-de-cadet-de-la-police-municipale-de-cannes/",
           "first_seen": "2026-11-24"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tractage-marche-de-bourges-2026-12-05/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-des-adherents-vosges-saint-nabord-2026-12-02/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-des-adherents-vosges-saint-die-des-vosges-2026-11-30/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-vouziers-2026-12-01/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/reunion-publique-departementale-de-nouvelle-energie-seine-et-marne-yebles-2026-12-08/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-thematique-patin-2026-12-02/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-poitiers-2026-12-10/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/petit-dejeuner-neuville-de-poitou-2026-12-06/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/aperitivo-nouvelle-energie-italie-florence/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/cap-sur-2027-grand-meeting-de-nouvelle-energie-avec-guillaume-guerin-montauban-2026-12-11/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-paris-15e-2026-12-07/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/apero-focus-sante-de-nouvelle-energie-bruxelles-2026-12-09/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-de-la-gagne-val-doise-herblay-sur-seine/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-gard-villeneuve-les-avignon/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/cafe-politique-nouvelle-energie-gard-nimes/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/tour-de-la-gagne-saone-et-loire-le-creusot/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-japon-tokyo/",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-charente-angouleme/",
+          "first_seen": "2026-11-28"
         },
         {
           "url": "https://www.unenouvelleenergie.fr/event/presentation-du-programme-presidentiel-de-david-lisnard-peronne-2026-11-30/",
@@ -949,14 +1166,6 @@
           "first_seen": "2026-11-25"
         },
         {
-          "url": "https://www.unenouvelleenergie.fr/event/itinerances-tarn-et-garonnaises-grand-sud-tarn-et-garonne-labastide-saint-pierre-2026-11-26/",
-          "first_seen": "2026-11-25"
-        },
-        {
-          "url": "https://www.unenouvelleenergie.fr/event/sengager-2026-11-26/",
-          "first_seen": "2026-11-25"
-        },
-        {
           "url": "https://www.unenouvelleenergie.fr/event/afterwork-des-adherents-nogent-le-rotrou-2026-12-01/",
           "first_seen": "2026-11-25"
         },
@@ -977,14 +1186,6 @@
           "first_seen": "2026-11-25"
         },
         {
-          "url": "https://www.unenouvelleenergie.fr/event/aperitif-afterwork-des-adherents-a-vaux-sur-mer-2026-11-26/",
-          "first_seen": "2026-11-25"
-        },
-        {
-          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouveaux-adherents-parthenay-2026-11-26/",
-          "first_seen": "2026-11-25"
-        },
-        {
           "url": "https://www.unenouvelleenergie.fr/event/afterwork-adherents-dreux-2026-12-03/",
           "first_seen": "2026-11-25"
         },
@@ -994,10 +1195,6 @@
         },
         {
           "url": "https://www.unenouvelleenergie.fr/event/presentation-de-nouvelle-energie-lure-2026-12-02/",
-          "first_seen": "2026-11-24"
-        },
-        {
-          "url": "https://www.unenouvelleenergie.fr/event/afterwork-nouvelle-energie-vosges-epinal-2026-11-26/",
           "first_seen": "2026-11-24"
         },
         {
@@ -1030,10 +1227,12 @@
       "changed_pages": [
         {
           "url": "https://www.edouardphilippe.fr/",
-          "changed_at": "2026-11-24",
-          "removed_blocks": 1,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 2,
           "added": [
-            "Espace Liberté, 1 avenue du Général-de-Gaulle, 91300 Massy"
+            "Après La Ciotat, Chartres, Toulouse, Rillieux-la-Pape, Romans-sur-Isère et Saint-Lô, les prochaines dates :",
+            "Espace Liberté, 1 avenue du Général-de-Gaulle, 91300 Massy",
+            "12 décembre Cesson-Sévigné Je m’inscris →"
           ]
         },
         {
@@ -1102,20 +1301,63 @@
         },
         {
           "url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 57,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 59,
           "added": [
-            "Veuillez patienter pendant que nous vérifions votre navigateur.",
-            "JavaScript doit être activé pour compléter cette vérification."
+            "→ Le renseignement économique et financier est éclaté entre de nombreux services de renseignement et d’enquête (Tracfin, DNRED, ONAF, SARC, OFAST…). Face au narcotrafic, une grande réforme de ces services est nécessaire, au même titre qu’une réforme des services de renseignement intérieurs a été nécessaire en 2015 après les attentats terroristes pour faire face à la menace.",
+            "→ Aujourd’hui, un primo-condamné pour plusieurs délits en lien avec le narcotrafic ne peut pas être condamné à plus de 10 ans d’emprisonnement car les peines ne se cumulent pas au-delà. Avec la suppression de la confusion des peines, les peines pourront s’additionner au-delà de 10 ans devant les tribunaux correctionnels pour atteindre 20 ans dès la première condamnation.",
+            "Frédéric Valletoux, Député de Seine-et-Marne et Co-Référent régional Avec Édouard d’Île-de-France, à le plaisir de vous convier à un verre de rentrée en présence de Kadir Mebarek, Maire de Melun, de Benoît Breysse, Adjoint au maire de Chelles et référent départemental Nord et de Maxime Labelle, Maire de Moncourt-Fromonville et référent départemental Sud le 8 [ ]",
+            "→ Plus de 10 000 mineurs seraient aujourd’hui impliqués en France dans le narcotrafic, y compris dans les assassinats violents et règlements de compte. Cette proposition vise à adapter le droit à cette nouvelle donne en levant l’excuse de minorité pour les faits en lien avec le narcotrafic et en créant la comparution immédiate des mineurs pour ces infractions.",
+            "Julie Boillot et Daniel-Georges Courtois, Délégués départementaux Avec Édouard Paris, ont le plaisir d’inaugurer un cycle de débats thématiques à Paris. Florence Berthout, Maire du 5ème arrondissement de Paris et Secrétaire nationale Horizons en charge de l’éducation, animera ce premier débat sur le thème de l’école le lundi 5 octobre à 19h au bar les [ ]",
+            "Sylvie Meyznec, Déléguée départementale Avec Édouard des Pyrénées-Atlantiques et Adjointe au maire de Bayonne, a le plaisir de vous convier à une réunion le 23 octobre à 18h30 à la Maison des associations de Biarritz. Nous vous remercions de bien vouloir confirmer votre présence en écrivant à cette adresse e-mail: pyrenees-atlantiques@edouardphilippe.fr",
+            "Un choc de fermeté pénale : alignement du régime de l’application des peines des grands narcotrafiquants sur celui des terroristes + suppression de la confusion des peines pour les infractions en lien avec le narcotrafic + poursuite de la logique de régime carcéral spécifique pour les trafiquants initiée par Gérald Darmanin.",
+            "→ Il n’y a jamais eu autant de faits de corruption enregistrés en France, trois fois plus qu’il y a dix ans. La lutte contre la corruption des fonctionnaires doit devenir une priorité, en ciblant les fonctions à risque avec un criblage systématique dans les fichiers existants et une nouvelle forme d’habilitation.",
+            "→ Edouard Philippe est maire d’une grande ville portuaire aux premières loges du déferlement de drogue sur notre pays. Président de l’association internationale des villes portuaires (AIVP) il mène un effort international pour une meilleure coordination et un partage de bonnes pratiques.",
+            "→ Des opération place nette ont été lancées contre les points de deal avec une forte mobilisation des forces de l’ordre sur des points précis. Il est proposé de répliquer cette logique mais cette fois sur les lieux de forte consommation comme les boîtes de nuits et les grands festivals.",
+            "→ Les Etats-Unis sont dotés depuis 1986 d’une liste noire de pays non-coopératifs en matière de production et de transit de drogue, leur permettant de mettre une pression diplomatique sur ces pays lorsque la coopération est insuffisante (sanctions, aide au développement…).",
+            "→ Les terroristes ont aujourd’hui un régime d’application des peines spécifique et plus sévère que le droit commun en matière de réduction de peine et de libération sous contrainte. La proposition d’Edouard Philippe est de reprendre ce régime pour les narcotrafiquants.",
+            "→ En s’inspirant du régime « personne politiquement exposée » (PPE), cette proposition vise à créer un nouveau profil bancaire pour les condamnés pour narcotrafic permettant une vigilance et un contrôle accru des établissements bancaires sur les transferts de fonds.",
+            "→ L’opération Harpie en Guyane est aujourd’hui centrée sur la lutte contre l’orpaillage illégal. Eu égard à la mainmise des narcotrafiquants sur certains pans du territoire guyanais, il est proposé d’élargir le mandat d’Harpie à la lutte contre le narcotrafic.",
+            "→ En matière de réinsertion, des établissements nouveaux de réinsertion seront créés associant ministères de la justice, de l’éducation nationale et des armées. Plus de moyens seront également accordés à la protection judiciaire de la jeunesse (PJJ).",
+            "Reprendre le contrôle de notre souveraineté dans nos Outre-mer : en Guyane étendre le mandat de l’opération Harpie à la lutte contre le narcotrafic + créer une opération « Harpie maritime » dans les Antilles avec plus de moyens à la Marine nationale.",
+            "Faire du maire le premier maillon de la chaîne : leur donner le pouvoir de sanctionner l’usage de stupéfiants et des pouvoirs de fermeture administrative équivalents à ceux du préfet (épiceries de nuits, restauration rapide…).",
+            "Transparence pour les missions de service public : information systématique des employeurs publics lorsqu’une personne chargée de mission de service public (chauffeur de bus, pompier…) est poursuivie pour usage de stupéfiant.",
+            "Une modernisation du renseignement : DGSI mobilisée sur le narcotrafic + une grande réforme du renseignement économique et financier pour mieux tracer les fonds et saisir les avoirs, physiques et numériques (cryptomonnaies).",
+            "Une réponse adaptée pour les mineurs mis en cause pour faits de narcotrafic : mêler répression (régime pénal spécifique des mineurs mis en cause pour narcotrafic) et accompagnement (établissements nouveaux de réinsertion).",
+            "→ Aujourd’hui, le ministère public peut prendre une telle mesure, mais n’y est pas obligé. Il est proposé de généraliser cette pratique à toutes les missions de service public en cas de poursuite pour usage de stupéfiants.",
+            "→ Cette proposition vise à modifier le droit pour doter l’autorité administrative des mêmes pouvoirs pour lutter contre le narcotrafic que ceux dont elle dispose pour lutter contre le terrorisme avec l’état d’urgence.",
+            "→ De même, les maires n’ont pas le pouvoir de fermer les établissements où s’opèrent les trafics et le blanchiment sans accord du préfet. Leurs pouvoirs seront là encore élargis pour plus d’autonomie et de réactivité.",
+            "L’« état d’urgence narco » : des moyens juridiques d’exception (perquisitions administratives, assignations à résidence…) limités dans le temps et dans l’espace, y compris le recours à la reconnaissance faciale.",
+            "Lutter contre le scandale des amendes non-recouvrées : permettre le recouvrement forcé des amendes sur les prestations sociales et en connectant les systèmes d’information du Ministère de la Justice et de Bercy."
           ]
         },
         {
           "url": "https://horizonsleparti.fr/ma-proposition-aux-entrepreneurs/",
-          "changed_at": "2026-11-26",
-          "removed_blocks": 20,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 22,
           "added": [
+            "Nous vivons dans un monde de compétition économique où la brutalité américaine n ’ est rien par rapport à ce constat : la Chine est, pour la première fois dans notre histoire, un compétiteur de même niveau technologique…mais 40% moins cher. Cette situation est inédite et engage le pronostic vital de pans entiers de l ’ industrie française et européenne, notamment de l ’ automobile. Ouvrons les yeu",
+            "La crise politique actuelle est un poison économique mortel . Face à l’ instabilité et au délire fiscal, les défaillances d’ entreprise explosent, les investissements sont en berne. Pour la première fois depuis 2017, nous fermons plus d’ usines que nous en créons. A l’ Assemblé e nationale, une coalition d’ irresponsabilité a décidé de taxer comme jamais les entreprises et les entrepreneurs plutôt",
+            "Ouvrir les yeux, c’ est arrêter de se raconter des histoires et regarder la réalité en face . C ’ est soutenir massivement nos entreprises, nos entrepreneurs et tous ceux qui contribuent à l ’ économie de notre pays. C ’ est préparer l’ avenir en aidant la jeunesse à réussir plutôt qu’ en s’ abandonnant et en se déchirant dans des débats d’ arrière-garde : la suspension d’ une réforme des retraite",
+            "Première conviction : j’ assume totalement la politique de l’ offre quand elle n’ est pas la politique des chèques . Entre 2017 et 2020, avec le Président de la R épublique et la majorité de l’ époque, nous avons soutenu massivement les entreprises (baisse de l’I S, allègements de charges, PFU, simplification…) tout en limitant la dépense publique et en réduisant le déficit et le chômage. On peut ",
+            "Troisième conviction : nous devons inverser la logique de ces trente dernières années. Pendant trente ans, nous avons surrégulé chez nous, en Europe et en France, et dérégulé les échanges mondiaux en désarmant nos instruments de protection. Ce modèle atteint ses limites et il faut inverser les choses. Ma doctrine économique c’est au contraire : libérer l’ économie française, protéger l’ économie e",
+            "Je commencerai par un deal fiscal avec nos entreprises d’u ne ampleur inédite . Parce que nous avons créé un système fou. Nous avons la fiscalité sur la production la plus importante d’E urope ( cinq fois plus que l’A llemagne), qui frappe nos entreprises avant qu’elles aient fait le moindre bénéfice, en taxant les embauches et l’outil productif. Nous avons inventé les impôts les plus absurdes du ",
+            "On dira que c’est impossible, que c’est compliqué. Que derrière chaque impôt il y a une collectivité publique financée, que derrière chaque aide il y a un secteur fragile soutenu. C’est en partie vrai. Mais je crois que nos entrepreneurs préfèrent vivre de leur travail que de dépendre d’aides publiques. Je crois que notre pays a besoin d’un choc de simplification et d’ un pacte de confiance entre ",
+            "Et puis il faudra protéger le marché européen . Le compléter enfin et le protéger, vraiment. Protéger nos entreprises et nos travailleurs de la brutalité américaine et de la concurrence déloyale chinoise. Protéger, ce n’est pas fermer à double tour le marché européen. C’est affirmer clairement ses intérêts et défendre clairement sa puissance. La France devra défendre à Bruxelles une révolution de ",
+            "Je le dis aux entrepreneurs et aux Français attachés à l’effort et au travail : quand nous sortirons de ce triste spectacle budgétaire et de cette période d’instabilité funeste, il nous faudra faire repartir le pays et reconquérir notre prospérité. C’est évidemment possible ! La France a tous les talents, toutes les énergies et toutes les ressources pour réussir. Partout en France je rencontre des",
+            "Frédéric Valletoux, Député de Seine-et-Marne et Co-Référent régional Avec Édouard d’Île-de-France, à le plaisir de vous convier à un verre de rentrée en présence de Kadir Mebarek, Maire de Melun, de Benoît Breysse, Adjoint au maire de Chelles et référent départemental Nord et de Maxime Labelle, Maire de Moncourt-Fromonville et référent départemental Sud le 8 [ ]",
+            "Julie Boillot et Daniel-Georges Courtois, Délégués départementaux Avec Édouard Paris, ont le plaisir d’inaugurer un cycle de débats thématiques à Paris. Florence Berthout, Maire du 5ème arrondissement de Paris et Secrétaire nationale Horizons en charge de l’éducation, animera ce premier débat sur le thème de l’école le lundi 5 octobre à 19h au bar les [ ]",
+            "Sylvie Meyznec, Déléguée départementale Avec Édouard des Pyrénées-Atlantiques et Adjointe au maire de Bayonne, a le plaisir de vous convier à une réunion le 23 octobre à 18h30 à la Maison des associations de Biarritz. Nous vous remercions de bien vouloir confirmer votre présence en écrivant à cette adresse e-mail: pyrenees-atlantiques@edouardphilippe.fr",
+            "Deuxième conviction : le salut français tient en trois mots. Produire plus, travailler plus, innover plus . Plus de richesse, c’ est plus de pouvoir d’ achat et plus de patrimoine pour les Français, mais aussi plus d’ investissements dans les services publics et la décarbonation de notre outil productif ! Faisons grossir le gâteau avant de le partager.",
+            "Depuis quarante-cinq ans, la France décroche. En 1980, nous produisions autant par habitant que les États-Unis. Aujourd’hui , c ’ est presque deux fois moins. La France devient un pays pauvre avec un modèle social de pays riche. Ouvrons les yeux.",
+            "Nous ne sortirons pas de cette folie sans quelques lignes claires. Voici quelques convictions simples que je propose aux Français et à nos entrepreneurs.",
+            "Ma proposition aux entrepreneurs, pour une politique économique de prospérité - Horizons Le parti",
+            "Alors oui, je proposerai aux Français une nouvelle politique économique de prospérité .",
+            "Ma proposition aux entrepreneurs, pour une politique économique de prospérité",
+            "Règlement intérieur - Mentions légales - Politique de confidentialité",
             "Veuillez patienter pendant que nous vérifions votre navigateur.",
-            "JavaScript doit être activé pour compléter cette vérification."
+            "JavaScript doit être activé pour compléter cette vérification.",
+            "Débat avec Florence Berthout sur l'école !"
           ]
         },
         {
@@ -1261,6 +1503,24 @@
         }
       ]
     },
+    "ruffin": {
+      "changed_pages": [
+        {
+          "url": "https://francoisruffin.fr/category/actu/blog/",
+          "changed_at": "2026-11-28",
+          "removed_blocks": 1,
+          "added": [
+            "Coty : exclus des décisions et licenciés en six minutes"
+          ]
+        }
+      ],
+      "new_pages": [
+        {
+          "url": "https://francoisruffin.fr/coty-exclus-des-decisions-et-licencies-en-six-minutes/",
+          "first_seen": "2026-11-28"
+        }
+      ]
+    },
     "tondelier": {
       "changed_pages": [
         {
@@ -1312,12 +1572,88 @@
           "added": [
             "Rejoindre dès maintenant Faire un don Je suis élu et souhaite parrainer"
           ]
+        },
+        {
+          "url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+          "changed_at": "2026-11-28",
+          "removed_blocks": 0,
+          "added": [
+            "Dominique de Villepin propose une loi d’extinction progressive des niches fiscales et sociales, estimées à environ 175 milliards d’euros par an, sur la durée du quinquennat. Ces niches sont trop souvent des privilèges fiscaux qui ne profitent qu’aux plus aisés ou aux mieux informés : l’impôt doit être clair pour être juste. La suppression serait accompagnée et évaluée, en conservant le taux réduit",
+            "Dominique de Villepin vise un déficit sous 3 % du PIB en 2031, grâce à un « budget de mandat » sur cinq ans inscrit dans une loi organique, éventuellement soumise à référendum. Un tiers des économies tirées de la suppression des niches fiscales et sociales, soit 12 milliards d’euros de plus chaque année, par paliers, serait consacré à la réduction du déficit. Le Haut Conseil des finances publiques",
+            "Pour soulager le travail, Dominique de Villepin propose de basculer plus de 200 milliards d’euros de cotisations non contributives vers la CSG, dont l’assiette serait élargie aux dépenses d’intelligence artificielle. Effet annoncé : environ 200 euros nets de plus par mois en moyenne et une baisse de 3 % du coût du travail. Mais c’est l’ensemble de ses mesures, sur l’énergie, le logement, la santé ",
+            "Le fonds national de souveraineté et de solidarité, proposé par Dominique de Villepin, naîtrait de la fusion de Bpifrance, de la Caisse des dépôts et de l’Agence des participations de l’État. Il serait une propriété commune de la nation dont chaque citoyen serait actionnaire dès la naissance. Alimenté notamment par l’épargne volontaire, les économies sur les niches et la capitalisation publique, i",
+            "La réforme fiscale de Dominique de Villepin ramènerait le système à neuf impôts et le code des impôts à une quarantaine de pages. On y trouve notamment un impôt unique sur le revenu, un impôt unique sur le patrimoine, une CSG à taux unique et un prix unique du carbone redistribué par un « dividende climat » universel.",
+            "Qu’est-ce que la simplification fiscale « à neuf impôts » de Villepin ?",
+            "Comment Dominique de Villepin propose-t-il d’augmenter les salaires ?",
+            "Qu’est-ce que le fonds national de souveraineté et de solidarité ?",
+            "Comment Dominique de Villepin veut-il réduire le déficit public ?",
+            "Que propose Dominique de Villepin sur les niches fiscales ?"
+          ]
+        },
+        {
+          "url": "https://lafrancehumaniste.fr/articles/pourquoi-je-suis-ecogaulliste.html",
+          "changed_at": "2026-11-28",
+          "removed_blocks": 0,
+          "added": [
+            "L’écogaullisme est la vision écologique de Dominique de Villepin. Il considère que nous vivons désormais dans un monde de rareté, après des décennies d’abondance, parce que nous découvrons que les ressources sont épuisables. Dès lors, il n’y a que deux façons de conserver son abondance. Par la prédation et la guerre, c’est le choix des Empires. Par le rassemblement et le partage, c’est le choix de",
+            "L’écogaullisme de Dominique de Villepin répond aux limites des écologies politique, libérale, diplomatique et conservatrice. Plutôt que l’idéologie, le marché carbone seul ou le repli individuel, cette vision mise sur des règles communes, une planification de long terme protégée des alternances et une action au plus près des citoyens.",
+            "Dominique de Villepin rappelle que la France a réduit ses émissions de près d’un tiers depuis 1990 et que l’accord de Paris de 2015 montre son rôle moteur. Comme la reconstruction, le nucléaire, Airbus ou le TGV au XXe siècle, la transition écologique doit incarner la volonté collective et la souveraineté nationale au XXIe siècle.",
+            "Pour adapter la France à un climat déjà changé, Dominique de Villepin propose de stocker, économiser et partager l’eau, de transformer l’agriculture par d’autres cultures et pratiques, et de protéger les sols de l’artificialisation et de l’érosion. La commune devient l’échelle d’exécution, avec des moyens délégués par l’État.",
+            "Dominique de Villepin propose une taxe carbone juste dont le produit serait intégralement rendu aux ménages, une planification pluriannuelle de l’électrification (« à chaque objectif, un moyen ») et un plan massif d’atténuation et d’adaptation. Gouvernement sur le pont, maires en première ligne.",
+            "Comment la France doit-elle s’adapter au changement climatique selon Dominique de Villepin ?",
+            "Pourquoi Villepin voit-il l’écologie comme un levier de puissance pour la France ?",
+            "Pourquoi l’écogaullisme se distingue-t-il des autres écologies ?",
+            "Qu’est-ce que l’écogaullisme selon Dominique de Villepin ?",
+            "Que propose Dominique de Villepin pour le climat ?"
+          ]
+        },
+        {
+          "url": "https://lafrancehumaniste.fr/articles/canicule-et-nos-villes.html",
+          "changed_at": "2026-11-28",
+          "removed_blocks": 1,
+          "added": []
+        },
+        {
+          "url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/",
+          "changed_at": "2026-11-28",
+          "removed_blocks": 0,
+          "added": [
+            "Thématique Toutes les thématiques Économie et finances publiques (26) Travail, salaires et retraites (19) Logement (8) Santé (13) Solidarités, familles et âges de la vie (28) École, jeunesse et savoirs (34) Écologie, énergie et agriculture (32) Territoires, transports et Outre-mer (36) Institutions et démocratie (18) Justice, sécurité et défense (26) Immigration et intégration (7) Europe et intern",
+            "Les 258 propositions rangées par sujet, quel que soit leur chapitre : choisissez une thématique pour les afficher dans l’explorateur.",
+            "Solidarités, familles et âges de la vie 28 propositions",
+            "Intelligence artificielle et numérique 19 propositions",
+            "Territoires, transports et Outre-mer 36 propositions",
+            "Écologie, énergie et agriculture 32 propositions",
+            "Économie et finances publiques 26 propositions",
+            "Travail, salaires et retraites 19 propositions",
+            "République, égalité et laïcité 30 propositions",
+            "Justice, sécurité et défense 26 propositions",
+            "École, jeunesse et savoirs 34 propositions",
+            "Institutions et démocratie 18 propositions",
+            "Immigration et intégration 7 propositions",
+            "Culture, médias et sport 21 propositions"
+          ]
         }
       ],
-      "new_pages": []
+      "new_pages": [
+        {
+          "url": "https://lafrancehumaniste.fr/newsletter.html",
+          "first_seen": "2026-11-28"
+        },
+        {
+          "url": "https://lafrancehumaniste.fr/questions-frequentes.html",
+          "first_seen": "2026-11-28"
+        }
+      ]
     },
     "zemmour": {
       "changed_pages": [
+        {
+          "url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf",
+          "changed_at": "2026-11-28",
+          "removed_blocks": 1,
+          "added": []
+        },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/avenir-est-a-nous.pdf",
           "changed_at": "2026-11-26",
@@ -1332,20 +1668,22 @@
         },
         {
           "url": "https://assets.ericzemmour.fr/ressources/tracts/mercosur.pdf",
-          "changed_at": "2026-11-27",
-          "removed_blocks": 2,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 3,
           "added": []
         },
         {
           "url": "https://www.parti-reconquete.fr/#actualites",
-          "changed_at": "2026-11-27",
-          "removed_blocks": 40,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 47,
           "added": [
             "Il n’y a aucune sélection jusqu’à l’université, et nos enfants le paient. On leur fait croire qu’ils ont le niveau, puis ils se retrouvent perdus à la fac, et les deux tiers n’obtiennent pas leur licence en trois ans. On leur a menti. Je rétablirai à l’école primaire les méthodes traditionnelles : la méthode syllabique, le par cœur, le calcul mental, la récitation, l’histoire. Puis je mettrai de…",
             "Je supprimerai la CSG sur les revenus d’activité : c’est 10 % de salaire en plus pour tout le monde. Celui qui gagne 2 000 euros touchera 200 euros de plus, et un couple à deux salaires de 2 000 euros, 400 euros. J’ai choisi cet impôt parce qu’il touche tous les actifs, salariés, indépendants et fonctionnaires, et que sa suppression éloigne enfin le travail des revenus d’assistance. Je baisserai…",
+            "Au premier tour, votez pour vos convictions. On n’a pas toujours l’occasion de le faire. Les sondages ne sont qu’une photographie à un instant T. J’ai appris, à mon avantage comme à mon détriment, que la vérité d’un jour n’est pas la vérité de toujours. Ils ont déformé l’esprit public : on ne vote plus, on parie sur celui qui va gagner. Au second tour, on choisit celui qui est le moins loin de…",
             "La doxa médiatique, celle des bien-pensants, ne supporte pas qu’on conteste ses récits, et elle censure. Ils ont fermé C8 et NRJ12. Ils réclament aujourd’hui la fermeture d’une troisième chaîne. Et des « antifas » vont même détruire des livres en librairie parce qu’ils sont édités par le groupe Bolloré. Au XVe siècle, l’imprimerie avait permis à chacun de lire la Bible et retiré à l’Église le…",
             "Je ne suis pas un politicien et je ne fais pas partie de la caste. Je me suis engagé pour sauver mon pays, que je voyais dériver lentement vers le déclin et le grand remplacement. Je suis le seul à pouvoir rétablir la paix dans une France qui glisse vers la guerre civile, et le seul à pouvoir extirper le socialisme qui nous ruine depuis 50 ans. Je n’ai ni les réflexes des autres, ni leurs…",
             "📯 Merci à la Fédération nationale des chasseurs, dont de nombreux maires sont membres, pour ces échanges. Les chasseurs sont des acteurs essentiels de nos communes rurales : ils font vivre la convivialité dans nos campagnes, entretiennent et protègent nos forêts et participent à la préservation de nos traditions qui rassemblent les Français. Cessons de les diaboliser !",
+            "Beaucoup d’électeurs de droite s’apprêtent à voter pour Marine Le Pen. Ils se condamnent à être déçus. ⤵️ Ils veulent baisser les impôts : elle a voté 34 milliards d’impôts avec LFI en 2025. Ils veulent défendre le travail : elle veut la retraite à 60 ans. Ils pensent que l’islam n’est pas compatible avec la République : elle pense exactement le contraire.",
             "Cet après-midi, au Salon des maires, je suis venu leur apporter mon soutien et écouter leurs doléances. Depuis la loi Hollande, qui publie le nom des maires parrains, beaucoup subissent des pressions et renoncent à parrainer. Parrainer, ce n’est pas soutenir : c’est un devoir démocratique. Chers maires, faites vivre la démocratie. 👉 ericzemmour.fr",
             "🎄🎅 L’édition de Noël du Casse du siècle paraît cette semaine ! 400 000 lecteurs ont fait du Casse du siècle le livre le plus vendu de France pendant trois mois, et le premier des essais chaque semaine depuis sa sortie. 🎁 Il lui reste à passer de vos mains à celles des gens que vous aimez. Ou de ceux avec qui vous aimez débattre. sarahknafo.fr",
             "Nos agriculteurs sont une chance pour nos communes. Sans eux, de nombreuses villes et de nombreux villages ne seraient plus les mêmes, tant ils façonnent nos paysages. Je suis ravi d’avoir pu échanger avec Arnaud Rousseau, président de la FNSEA, sur les moyens de mieux associer nos agriculteurs à la vie des communes.",
@@ -1359,25 +1697,25 @@
             "Même en taxant toute la fortune de Bernard Arnault, on ne comblerait pas le déficit de cette année. Le problème n’est pas le manque de recettes, mais l’excès de dépenses. Il faut inverser la logique : dépenser moins pour taxer moins.",
             "Vous avez vu comment Sarah a répliqué à Mélenchon sur la propriété ? Ça lui a fait tout drôle ! Il est plus habitué à discuter avec Mathilde Panot qu’avec Sarah Knafo. Passer de Panot à Knafo, forcément, ça fait un choc !",
             "Elwan, tu as 17 ans, un beau vocabulaire en construction, et déjà un avis sur une interview que tu n’as pas vue et sur une émission où je ne suis jamais allée. Pas de doute ! Tu as le profil : envoie ton CV à France Info.",
+            "Je veux rétablir une liberté d’expression et d’opinion totale en supprimant l’Arcom et toutes les lois liberticides. Si l’on ferme CNews au nom de la diversité des opinions, alors il faut aussi fermer France Inter.",
             "🚨NON au coup d’État de l’Arcom sur internet. La démocratie s’est installée sur YouTube. Nous irons la défendre partout où elle est. Mon discours au Parlement européen. ⤵️",
+            "🟣 Je viens à votre rencontre, ce mardi 1er décembre à 19h30, à Bordeaux. Venez échanger avec moi. 👉 Inscrivez-vous : https://my.weezevent.com/eric-zemmour-face-a-vous-rs",
             "Bonne ambiance chez RTL grâce à Philippe Caverivière ! Cette fois-ci, les journalistes n’auront pas besoin d’une cellule psychologique ! 😇",
-            "Je me suis fixé un objectif personnel dans cette campagne, tout faire pour empêcher l’arrivée au pouvoir de Jean-Luc Mélenchon.",
-            "🐷 Impossible de venir à la Sainte-Catherine à Vesoul sans déguster son traditionnel et emblématique cochon en pain d’épices.",
-            "Au Salon des maires, on a trinqué à la France et au bon sens qui doit revenir au sommet de l’État ! 🍻",
-            "Au Salon des maires, on a trinqué à la France et au bon sens qui doit revenir au sommet de l’État !",
-            "🤡 Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste."
+            "Je me suis fixé un objectif personnel dans cette campagne, tout faire pour empêcher l’arrivée au pouvoir de Jean-Luc Mélenchon."
           ]
         },
         {
           "url": "https://www.parti-reconquete.fr/",
-          "changed_at": "2026-11-27",
-          "removed_blocks": 40,
+          "changed_at": "2026-11-28",
+          "removed_blocks": 47,
           "added": [
             "Il n’y a aucune sélection jusqu’à l’université, et nos enfants le paient. On leur fait croire qu’ils ont le niveau, puis ils se retrouvent perdus à la fac, et les deux tiers n’obtiennent pas leur licence en trois ans. On leur a menti. Je rétablirai à l’école primaire les méthodes traditionnelles : la méthode syllabique, le par cœur, le calcul mental, la récitation, l’histoire. Puis je mettrai de…",
             "Je supprimerai la CSG sur les revenus d’activité : c’est 10 % de salaire en plus pour tout le monde. Celui qui gagne 2 000 euros touchera 200 euros de plus, et un couple à deux salaires de 2 000 euros, 400 euros. J’ai choisi cet impôt parce qu’il touche tous les actifs, salariés, indépendants et fonctionnaires, et que sa suppression éloigne enfin le travail des revenus d’assistance. Je baisserai…",
+            "Au premier tour, votez pour vos convictions. On n’a pas toujours l’occasion de le faire. Les sondages ne sont qu’une photographie à un instant T. J’ai appris, à mon avantage comme à mon détriment, que la vérité d’un jour n’est pas la vérité de toujours. Ils ont déformé l’esprit public : on ne vote plus, on parie sur celui qui va gagner. Au second tour, on choisit celui qui est le moins loin de…",
             "La doxa médiatique, celle des bien-pensants, ne supporte pas qu’on conteste ses récits, et elle censure. Ils ont fermé C8 et NRJ12. Ils réclament aujourd’hui la fermeture d’une troisième chaîne. Et des « antifas » vont même détruire des livres en librairie parce qu’ils sont édités par le groupe Bolloré. Au XVe siècle, l’imprimerie avait permis à chacun de lire la Bible et retiré à l’Église le…",
             "Je ne suis pas un politicien et je ne fais pas partie de la caste. Je me suis engagé pour sauver mon pays, que je voyais dériver lentement vers le déclin et le grand remplacement. Je suis le seul à pouvoir rétablir la paix dans une France qui glisse vers la guerre civile, et le seul à pouvoir extirper le socialisme qui nous ruine depuis 50 ans. Je n’ai ni les réflexes des autres, ni leurs…",
             "📯 Merci à la Fédération nationale des chasseurs, dont de nombreux maires sont membres, pour ces échanges. Les chasseurs sont des acteurs essentiels de nos communes rurales : ils font vivre la convivialité dans nos campagnes, entretiennent et protègent nos forêts et participent à la préservation de nos traditions qui rassemblent les Français. Cessons de les diaboliser !",
+            "Beaucoup d’électeurs de droite s’apprêtent à voter pour Marine Le Pen. Ils se condamnent à être déçus. ⤵️ Ils veulent baisser les impôts : elle a voté 34 milliards d’impôts avec LFI en 2025. Ils veulent défendre le travail : elle veut la retraite à 60 ans. Ils pensent que l’islam n’est pas compatible avec la République : elle pense exactement le contraire.",
             "Cet après-midi, au Salon des maires, je suis venu leur apporter mon soutien et écouter leurs doléances. Depuis la loi Hollande, qui publie le nom des maires parrains, beaucoup subissent des pressions et renoncent à parrainer. Parrainer, ce n’est pas soutenir : c’est un devoir démocratique. Chers maires, faites vivre la démocratie. 👉 ericzemmour.fr",
             "🎄🎅 L’édition de Noël du Casse du siècle paraît cette semaine ! 400 000 lecteurs ont fait du Casse du siècle le livre le plus vendu de France pendant trois mois, et le premier des essais chaque semaine depuis sa sortie. 🎁 Il lui reste à passer de vos mains à celles des gens que vous aimez. Ou de ceux avec qui vous aimez débattre. sarahknafo.fr",
             "Nos agriculteurs sont une chance pour nos communes. Sans eux, de nombreuses villes et de nombreux villages ne seraient plus les mêmes, tant ils façonnent nos paysages. Je suis ravi d’avoir pu échanger avec Arnaud Rousseau, président de la FNSEA, sur les moyens de mieux associer nos agriculteurs à la vie des communes.",
@@ -1391,13 +1729,11 @@
             "Même en taxant toute la fortune de Bernard Arnault, on ne comblerait pas le déficit de cette année. Le problème n’est pas le manque de recettes, mais l’excès de dépenses. Il faut inverser la logique : dépenser moins pour taxer moins.",
             "Vous avez vu comment Sarah a répliqué à Mélenchon sur la propriété ? Ça lui a fait tout drôle ! Il est plus habitué à discuter avec Mathilde Panot qu’avec Sarah Knafo. Passer de Panot à Knafo, forcément, ça fait un choc !",
             "Elwan, tu as 17 ans, un beau vocabulaire en construction, et déjà un avis sur une interview que tu n’as pas vue et sur une émission où je ne suis jamais allée. Pas de doute ! Tu as le profil : envoie ton CV à France Info.",
+            "Je veux rétablir une liberté d’expression et d’opinion totale en supprimant l’Arcom et toutes les lois liberticides. Si l’on ferme CNews au nom de la diversité des opinions, alors il faut aussi fermer France Inter.",
             "🚨NON au coup d’État de l’Arcom sur internet. La démocratie s’est installée sur YouTube. Nous irons la défendre partout où elle est. Mon discours au Parlement européen. ⤵️",
+            "🟣 Je viens à votre rencontre, ce mardi 1er décembre à 19h30, à Bordeaux. Venez échanger avec moi. 👉 Inscrivez-vous : https://my.weezevent.com/eric-zemmour-face-a-vous-rs",
             "Bonne ambiance chez RTL grâce à Philippe Caverivière ! Cette fois-ci, les journalistes n’auront pas besoin d’une cellule psychologique ! 😇",
-            "Je me suis fixé un objectif personnel dans cette campagne, tout faire pour empêcher l’arrivée au pouvoir de Jean-Luc Mélenchon.",
-            "🐷 Impossible de venir à la Sainte-Catherine à Vesoul sans déguster son traditionnel et emblématique cochon en pain d’épices.",
-            "Au Salon des maires, on a trinqué à la France et au bon sens qui doit revenir au sommet de l’État ! 🍻",
-            "Au Salon des maires, on a trinqué à la France et au bon sens qui doit revenir au sommet de l’État !",
-            "🤡 Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste."
+            "Je me suis fixé un objectif personnel dans cette campagne, tout faire pour empêcher l’arrivée au pouvoir de Jean-Luc Mélenchon."
           ]
         },
         {
